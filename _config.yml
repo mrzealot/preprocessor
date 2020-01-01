@@ -38,6 +38,7 @@ minima:
 
 show_excerpts: true
 permalink: /:categories/:title
+lang: hu
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

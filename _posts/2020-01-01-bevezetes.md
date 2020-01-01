@@ -27,7 +27,7 @@ Ahogy Einstein is megmondta: "Csoda, hogy a kíváncsiság túléli a formális 
 
 Az olvasásnak pedig valószínűleg csak a marketingje a rossz.
 Próbáljunk meg így gondolni rá: bármi is történik épp veled, bármin dolgozol, bármi problémád is van, arról szinte biztos írt már valaki... Aki mellesleg nálad valószínűleg jóval okosabb.
-Mi sem példázza ezt jobban, mint hogy [ezt sem én mondtam](https://ryanholiday.net/how-to-read-more-a-lot-more/).
+Mi sem példázza ezt jobban, mint hogy [ezt sem én mondtam](https://ryanholiday.net/how-to-read-more-a-lot-more/){:target="_blank"}.
 Szóval miért is ne használnánk ki a lehetőséget, hogy kísérletezgetés helyett inkább tanuljunk... főleg ha más számlájára?
 Ezért az a tervem, hogy nekiállok úgy olvasni, mintha már most késésben lennék, mert tulajdonképpen már most késésben vagyok.
 
@@ -61,7 +61,7 @@ Az induló ütemterv a heti minimum 1 könyv, és aztán ha belerázódunk, rem�
 
 Röviden: mert kocka vagyok.
 
-Kicsit hosszabban: a [preprocessor](https://hu.wikipedia.org/wiki/C_el%C5%91ford%C3%ADt%C3%B3) (vagyis előfeldolgozó, előfordító) az a része a fordítóprogramoknak, ami a "nyers" forráskódból eltávolítja a sallangot és előkészíti az "igazi" fordítást, ahol majd a kódból végül futtatható program lesz.
+Kicsit hosszabban: a [preprocessor](https://hu.wikipedia.org/wiki/C_el%C5%91ford%C3%ADt%C3%B3){:target="_blank"} (vagyis előfeldolgozó, előfordító) az a része a fordítóprogramoknak, ami a "nyers" forráskódból eltávolítja a sallangot és előkészíti az "igazi" fordítást, ahol majd a kódból végül futtatható program lesz.
 Na most nekem ez egy egészen találó metaforának tűnt.
 Elvégre terveim szerint én is előfeldolgozom változatos témák legfontosabb könyveit azért, hogy aztán a Ti fejetekben már könnyebben és gyorsabban mehessen az igazi értelmezés.
 
@@ -88,16 +88,16 @@ Mentségemre szóljon, hogy a "filozófia doktora" vagyok, még akkor is, ha a h
 A preprocessor projekt a számítástudományi hátteremet hivatott radikálisan kiterjeszteni és általánosítani.
 Biztos a korábbi kutatásaim is hasznosak voltak annak a kemény három embernek, akik valaha olvasták, de itt most megpróbálnék olyan témákban elmélyülni, ami nekem is és másoknak is egy kicsit nagyobb hatással lehetnek a mindennapi életminőségére.
 
-Szóval most* konkrétan még nem sok mindent tudok, ami neked hasznos lehetne, kedves Olvasó.
+Szóval most<a href="#footnote-most">*</a> konkrétan még nem sok mindent tudok, ami neked hasznos lehetne, kedves Olvasó.
 Tudok viszont a dolgok tudásáról egy keveset.
-Úgyhogy ha minden terv szerint halad, akkor nem is olyan sokára már mind jóval többet tudhatunk, mint most*...
+Úgyhogy ha minden terv szerint halad, akkor nem is olyan sokára már mind jóval többet tudhatunk, mint most<a href="#footnote-most">*</a>...
 
 
 ## Ez... nem is hangzik olyan rosszul.
 
 Ugye?! Örülök, hogy egyetértünk.
-Ebben az esetben nyugodtan [iratkozz fel]({{ 'feed.xml' | relative_url }}) vagy látogass vissza rendszeresen friss tudásmorzsákért!
-A [hello@preprocessor.hu](mailto:hello@preprocessor.hu) mail címen pedig szívesen fogadok bármilyen jellegű visszajelzést!
+Ebben az esetben nyugodtan iratkozz fel (akár az [RSS-re]({{ 'feed.xml' | relative_url }}), akár email-lel a lenti űrlapon) vagy látogass vissza rendszeresen friss tudásmorzsákért!
+A [hello@preprocessor.hu](mailto:hello@preprocessor.hu){:target="_blank"} mail címen pedig szívesen fogadok bármilyen jellegű visszajelzést!
 
 Na tornáztassuk azokat az agytekervényeket!
 
@@ -106,4 +106,4 @@ Dénes
 
 <br />
 <br />
-<small>* most = 2020.01.01. = a blog kezdete. Ha ezt később nézed: Ugye már többet tudunk??</small>
+<small id="footnote-most">* most = 2020.01.01. = a blog kezdete. Ha ezt később nézed: Ugye már többet tudunk??</small>
