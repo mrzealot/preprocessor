@@ -39,6 +39,14 @@ minima:
 show_excerpts: true
 permalink: /:categories/:title
 lang: hu
+
+exclude:
+  - 'readme.md'
+  - 'license.md'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '.gitignore'
+  - 'CNAME'
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
