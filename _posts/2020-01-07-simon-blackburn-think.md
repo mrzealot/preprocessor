@@ -1,7 +1,14 @@
 ---
 layout: post
 title:  Simon Blackburn - Think
-date:   2020-01-05 18:00
+date:   2020-01-07 15:00
+excerpt: >
+    A sztoikus filozófián felbuzdulva kérdeztem egy filozófia csoportban, mit ajánlanának egy jó összefoglalónak.
+    Így kötöttem ki Simon Blackburn "Think" című könyvénél, ami az alcíme alapján egy "lenyűgöző bevezetés a filozófiába".
+
+    Hát... nem olyan volt, mint amire számítottam!
+    Mármint ne értsetek félre, nagyon tanulságos, rengeteg fogalmat letisztáz, és jól megalapoz bármilyen további filozófiai kutakodást; szóval mindenképp érdemes végigmenni a jegyzeteimen.
+    De aki itt egy tipikus önsegítő könyvre számít pár mondatban összegezhető tanulsággal, azt most vegye a nagy levegőt, mert ez kemény menet lesz.
 ---
 
 És máris a második könyvnél járunk... Megy ez, ha viszik!
@@ -16,13 +23,13 @@ Inkább az, hogy milyen sok mindenben hasonlították más filozófiai irányzat
 Befelé fordulásában épp olyan, mint a zen/buddhizmus, az élvezetekhez való hozzáállása pont ellentétes az hedonizmussal, ebben-és-abban egyetért ugyan az epikureizmussal, de az _ikszipszilon_...
 Ez természetesen nálam rögtön elindította a bogarat: minden filozófiai irányzat igazából ugyanazt a valóságot igyekszik lefedni és magyarázni.
 És a javuk már nem kimondottabban mai csirke.
-Tehát: biztosan volt már valaki, aki írt ezeknek az irányzatoknak az összehasonlításáról, akinek segítségével talán gyorsabban kaphatok átfogóbb képet.
+Tehát biztosan volt már valaki, aki írt ezeknek az irányzatoknak az összehasonlításáról; és akinek a segítségével talán gyorsabban kaphatok átfogóbb képet.
 
 Csodák csodája, tényleg. Minden anti-szociális hajlamomat legyűrve kérdeztem egy filozófia csoportban -- igazi emberektől! -- hogy mit ajánlanának, és így kötöttem ki [Simon Blackburn -- Think](https://www.goodreads.com/book/show/1038873.Think){:target="_blank"} című könyvénél, ami az alcíme alapján egy "lenyűgöző bevezetés a filozófiába".
 
 Hát... nem olyan volt, mint amire számítottam!
 Mármint ne értsetek félre, nagyon tanulságos, rengeteg fogalmat letisztáz, és jól megalapoz bármilyen további filozófiai kutakodást; szóval mindenképp érdemes végigmenni a jegyzeteimen.
-De aki itt egy tipikus önsegítő könyvre számít egy egy mondatban összegezhető tanulsággal, azt most vegye a nagy levegőt, mert ez kemény menet lesz.
+De aki itt egy tipikus önsegítő könyvre számít pár mondatban összegezhető tanulsággal, azt most vegye a nagy levegőt, mert ez kemény menet lesz.
 
 
 
@@ -98,8 +105,8 @@ Sőt, a mai világban dívó [buborék effektus](https://en.wikipedia.org/wiki/F
 Az utolsó nagy megközelítés pedig a _**szkepticizmus**_, ami szerint _"biztosra"_ nem tudhatunk semmit.
 Lényegében csak hinnünk kell benne, hogy amit érzékelünk, annak tényleg van valami köze a valósághoz (és nem csak befőttes üvegekben úszkáló agyak vagyunk a mátrixban).
 
-A konklúzió természetesen az, hogy nincs konklúzió.
-De legalább most már tisztában vagyunk a legelterjedtebb ötletekkel, és hogy tudatosan gondolkozhatunk róla, hogy mit is tudunk.
+A konklúzió természetesen az, hogy nincs konklúzió -- ehhez már most nyugodtan hozzászokhatunk.
+De legalább tisztában vagyunk a legelterjedtebb ötletekkel, és ezután tudatosan gondolkozhatunk róla, hogy mit is tudunk.
 
 
 ## Elme
@@ -111,7 +118,7 @@ Ez gyakorlatilag a "páncélba zárt szellem" analógia.
 Lehetséges kritikái például a _"zombi"_ elmélet (testileg hozzánk hasonlóak, de nincs elméjük... honnan tudnánk?) illetve a _"mutáns"_ elmélet (testileg hozzánk hasonlóak, és elméjük is van, de az _nagyon_ máshogy működik, mint a miénk... honnan tudnánk?).
 Egyiknél sincs semmi módszer annak a bizonyítására, hogy nem léteznek (vagy hogy akár _csak_ azok léteznek rajtunk kívül).
 És arra sincs semmi konkrétum, hogy ha már az "elme-anyag" különböző, mint a fizikai, akkor hogy is jutnak el odáig az ingerek?
-Isten netán nagy jó szándékában csak pont odavarázsolja a megfelelő mentális fájdalmat, amikor bebaszom a lábujjam a szék lábába?
+Isten netán nagy jó szándékában csak pont odavarázsolja a megfelelő mentális fájdalmat, amikor bebaszom a lábujjam az ajtófélfába?
 
 A spektrum másik végén a _**Leibniz-i felfogás**_, miszerint létezik egy teljesen racionális magyarázat az elme működésére.
 Attól, hogy a kapcsolat nem triviálisan észlelhető, attól még ott van az, és megérthetnénk akár magunktól is.
@@ -153,13 +160,13 @@ Szerintük ugyanis nem muszáj, hogy kizárják egymást a felelősségre vonhat
 A mentális modell a következő: az alany szabadon cselekedett, ha cselekedhetett volna másként is.
 A "cselekedhetett volna másként" rész értelmezésén viszont igencsak sok múlik!
 
-Első nekifutásra próbáljuk így: máshogy cselekedett volna, **ha** máshogy döntött volna.
-Kritika: és mi van, ha mondjuk mini-Marslakók agymosással kényszerítették? Nem az ő hibája!
+**Első** nekifutásra próbáljuk így: máshogy cselekedett volna, **ha** máshogy döntött volna.<br />
+**Kritika**: és mi van, ha mondjuk mini-Marslakók agymosással kényszerítették? Nem az ő hibája!
 
-Második nekifutás: máshogy cselekedett volna, ha máshogy döntött volna, **és** más elmeállapot/gondolatok hatására **máshogy is döntött volna**.
-Kritika: és honnan is kellett volna szegénynek tudnia ezekről a más elmeállapotbeli gondolatokról? Nem ivott volna ő a mérgezett kávéból, de miből gondolta volna, hogy mérgezett? Nem az ő hibája!
+**Második** nekifutás: máshogy cselekedett volna, ha máshogy döntött volna, **és** más elmeállapot/gondolatok hatására **máshogy is döntött volna**.<br />
+**Kritika**: és honnan is kellett volna szegénynek tudnia ezekről a más elmeállapotbeli gondolatokról? Nem ivott volna ő a mérgezett kávéból, de miből gondolta volna, hogy mérgezett? Nem az ő hibája!
 
-Jó, akkor három a magyar igazság: máshogy cselekedett volna, ha máshogy döntött volna, és más **valós és rendelkezésére álló** elmeállapot/gondolatok hatására máshogy is döntött volna.
+Jó, akkor **három** a magyar igazság: máshogy cselekedett volna, ha máshogy döntött volna, és más **valós és rendelkezésére álló** elmeállapot/gondolatok hatására máshogy is döntött volna.
 Na, ez már nem is olyan rossz!
 Itt is kötözködhetünk persze, hogy ezzel meg már mennyire hidegen eltárgyiasítjuk az embereket, de ha ez az információ nem _lecseréli_ az emberségünket, csak _kiegészíti_ egy teljesebb megértés felé, akkor nem lehet nagy baj.
 Illetve a flexibilitás továbbra is nagyon fontos, mert egy rossz mentális modell többet árt, mint használ.
@@ -182,7 +189,7 @@ Van, akinek ez belefér; van, akinek nem... De azért mi csak gondolkozzunk tov�
 
 Kössük mondjuk a **öntudathoz**, leginkább csak azért, hogy még több legyen a baj.
 Például akkor egy amnézia már elég is ahhoz, hogy én ne én maradjak?
-Vagy ha felnőttként még emlékszem a gyerekkoromra, és öregként is a felnőttkoromra, de az öregnek már nincs meg a gyerekkor, akkor ő már nem ugyanaz, aki volt?
+Vagy ha (1) felnőttként még emlékszem a gyerekkoromra, és (2) öregként is emlékszem a felnőttkoromra, de (3) az öregnek már nincs meg a gyerekkor, akkor ő már nem ugyanaz, aki gyerekként volt?
 Szóval most nemhogy halál utáni élet nincs, de már az élet közben sem garantált a folytonosság.
 (Mondhatnám, hogy a baj az ekvivalencia reláció tranzitivitásának hiánya. De ki mondana önszántából ilyet?!)
 
@@ -208,7 +215,7 @@ Ha muszáj az eredet, akkor Istent mi teremtette?
 Ha **nem** muszáj az eredet, akkor meg minek Isten? Miért nem lehet a világ maga az, aminek nincs?
 
 Jó, akkor _**értelmes tervezés**_: a világ is olyan, mint amiket az ember tervez, csak sokkal nagyobb skálán. Akkor azt is kellett, hogy tervezze valaki &#8658; tehát Isten tényleg létezik.<br />
-**Cáfolat**: ha a világból, tapasztalati alapon akarunk példát venni, akkor sokkal valószínűbb, hogy valami generatív, fokozatosan fejlődő rendszer eredménye a világ, nem pedig egy intelligenciáé, ami a megismerhető világunkon belül is nagyon ritka.
+**Cáfolat**: ha tapasztalati alapon akarunk példát venni, akkor sokkal valószínűbb, hogy a világunk valami generatív, fokozatosan fejlődő rendszer eredménye; nem pedig egy intelligenciáé, ami a megismerhető világunkon belül is nagyon ritka.
 De még ha fel is tesszük, hogy tervezés, utána már semmi mást nem tudunk.
 Lehet, hogy ez Isten első próbálkozása világépítésből, amire kapott egy kegyelem kettest, és azóta a sarokban porosodik.
 
@@ -225,7 +232,7 @@ Ez már Epicurus-t is zavarta:
 > > Is he both able and willing? Then whence cometh evil?<br />
 > > Is he neither able nor willing? Then why call him God?
 
-Különben is, ha Isten annyira "kifürkészhetetlen" (és ezért a jóról alkotott fogalma is teljesen más), akkor mire megyünk vele? Úgysem tudhatunk róla semmit... Wittgenstein szerint:
+Különben is, ha Isten annyira "kifürkészhetetlen" (és ezért a jóról alkotott fogalma is teljesen más, mint a miénk), akkor mire megyünk vele? Úgysem tudhatunk róla semmit... Wittgenstein szerint:
 
 > A semmi pont olyan jól megteszi, mint egy valami, amiről semmit nem tudunk mondani.
 > > A nothing will serve just as well as a something about which nothing could be said.
@@ -257,7 +264,7 @@ Alapnak az ítéletlogika, mik is azok a logikai (kétértékű, igaz vagy hamis
 
 Itt jönnek be a predikátumok és a változók (legyen F(x) igaz csak akkor, ha x filozófus), és mellé már olyat is tudunk majd mondani, hogy "van olyan, hogy", és hogy "mindenkire igaz, hogy".
 Sőt, megfejeljük még némi valószínűség-számítással is.
-Ezek mind segíthetnek racionálisan gondolkoznunk (nyilván), de azért nem is ez a könyv lenne, ha nem dörgölné azonnal az orrunk alá, hogy ez a való világban, valódi mondatokra és helyzetekre nem ilyen egyszerűen használható.
+Ezek mind segíthetnek racionálisan gondolkoznunk (nyilván), de azért nem is ez a könyv lenne, ha nem dörgölné azonnal az orrunk alá, hogy ezek a való világban, valódi nyelvekre és helyzetekre nem ilyen egyszerűen használhatók.
 
 Filozófiai szempontból az a fontos, hogy meglássuk: a legtöbb érvelés és magyarázat igen kellemetlen mennyiségű hitet igényel.
 A "formálisan leírható és kikezdhetetlen" elvárása túlságosan megkötné a kezünket, és általánosítani sem általánosíthatunk vakon csak azért, mert eddig valami úgy volt, ahogy.
@@ -275,10 +282,10 @@ Ha úgy tanulmányozzuk, hogy a kitartás és az idő kigyomlálják a rossz öt
 ## A világ
 
 Eddig szinte végig a fejünkben jártunk, tekintsünk ki most egy kicsit a világra; mondjuk hogy létezik-e egyáltalán.
-Egy válasz az elmétől független _**realizmus**_ elmélete (vagyis hogy "igen, létezik"), ami az elején emlegetett mutánsos-zombis kifogások miatt nehezen védhető.
+Egy válasz az elmétől független _**realizmus**_ elmélete (vagyis hogy "igen, létezik"), ami az elején emlegetett mutánsos-zombis jellegű kifogások miatt nehezen védhető.
 Ha ezt nem fogadjuk el, akkor az nagy valószínűséggel valamiféle _**idealizmus**_ lesz.
 
-Egy verziója a másodlagos jellemzőkön alapuló idealizmus, ahol a tárgyaknak vannak elsődleges, elválaszthatatlan, valódi tulajdonságaik (a tér, amit elfoglal; a szilárdsága), és a többi csak másodlagos, amit az elménk tesz hozzá (színe, szaga, ésatöbbi).
+Egy verziója a _**másodlagos jellemzőkön**_ alapuló idealizmus, ahol a tárgyaknak vannak elsődleges, elválaszthatatlan, valódi tulajdonságaik (a tér, amit elfoglalnak; a szilárdságuk), és a többi csak másodlagos, amit az elménk tesz hozzá (színe, szaga, ésatöbbi).
 A másodlagosak így lehetnek különbözők megfigyelőnként, de ha a megfigyelők egyformán jól alkalmazkodtak a környezetükhöz, akkor mindnek egyformán "helyes" lesz a saját benyomása.
 
 Felmerülhet a kérdés, hogy "és a tér, amit elfoglal, az miért nem az elmémen múlik?!"
@@ -297,33 +304,34 @@ A **nominalizmus** szerint meg nincsenek is szabályok, mindenki csinál, amit a
 
 ## Mit kellene tenni?
 
-- practical philosophy, at last :)
-- first pass at what to do: what we **desire**
-    - nope: we don't desire to mow the lawn, but it's the right thing to do anyway
-- okay then, what about **concern**
-    - much better, but it's not that simple
-    - we don't only do what concerns just us (psychological egoism)
-    - also, there a difference between concerns that we identify with, or just ones that we can objectify
-        - if we can objectify it, it becomes an end in itself, however it's achieved
-            - the problem becomes the concern itself, not what we were originally concerned about
-        - while if we identify with it, symptomatic treatment is not enough
-        - the distinction between these two is rarely this black and white
-- **ethics**
-    - what constitutes a good life, what should one strive for
-    - but also: what kind of concerns are we expecting from others (and they from us)
-        - what other concerns are we expected to "internalize" from society
-- **cognitivism** vs. **non-cognitivism**
-    - are we concerned about something because we know it to be a reason for action (former)?
-        - we'd need a clear code, and then not only act accordingly, but also FEEL that we should (because it's right)
-    - or the opposite: do we consider something a reason for action because we're concerned about the outcome? (latter)
-        - we feel something's right, so we act towards it
-        - lacks a clear performance metric (what _should_ we feel is right? what if I like kicking cats?)
-- bad feelings can be good, if they show us a behavioral pattern that we find bad
-    - making these disappear through therapy is just a symptomatic approach, doesn't address the cause
-- moral cooperation should not be mere persuasion or manipulation (or deception)
-    - it should help the other understand the situation better
-    - or if it is already understood, help the other uncover some hidden values/motivations
-    - or if those are already clear, too: to put our positions forward and to argue, reaching for common ground
+A végére pedig egy kis praktikus filozófia, hogy mivel is kellene foglalkoznunk.
+Első körben talán azzal, amivel _**akarunk**_?
+Hát, nem igazán... Például a füvet is le kell nyírni valakinek, amit nem túlzottan akarunk, mégis az a helyes.
+
+Akkor mondjuk azzal, amit _**fontosnak tartunk**_?
+Sokkal jobb, de persze nem ilyen egyszerű.
+Például nem állhatunk meg csak annál, ami nekünk személy szerint fontos (egoizmus).
+Illetve van különbség aközött is, hogy melyik fontos dologgal _azonosulunk_, és melyiket tudjuk _tárgyiasítani_.
+Utóbbi esetben könnyebb rajta változtatni, mert öncélúvá válik, és mindegy, milyen módon érjük el.
+Ha viszont azonosulunk vele, akkor ott a "tüneti" kezelés már nem lesz elég.
+
+Ilyen kérdéseken agyal az _**etika**_.
+Milyen is egy "jó élet"? Mi felé kellene törekednünk?
+Milyen dolgokat várhatunk el másoktól? És ők tőlünk?
+És csak hogy véletlen se legyen egyetértés, itt is (legalább) két nagy vélemény küzd egymással.
+
+A _**kognitivizmus**_ szerint azért tartunk bizonyos dolgokat fontosnak, mert tudjuk, hogy azok jó okok a cselekvésre.
+Ehhez ugye szükség lenne egy egyértelmű kódexre (már itt gyanús), és aztán azt nem csak hogy az utolsó betűig követnünk kellene, de illene úgy is _éreznünk_ közben, hogy ezt kell tennünk.
+
+Az ellentéte a _**non-kognitivizmus**_, ami szó szerint csak megfordítja a fenti mondatot: azért tartunk bizonyos dolgokat oknak a cselekvésre, mert azok nekünk fontosak.
+Annyiban logikusabb, hogy így azt tehetjük, amit helyesnek érzünk.
+Nincs viszont egyértelmű visszacsatolás, hogy mit _kellene_ fontosnak éreznünk.
+Mi van, ha mondjuk én pont macskákat szeretek rugdosni?!
+
+Még egy megjegyzés a morális együttműködésről: a cél _nem_ a meggyőzés vagy a manipuláció (és főleg nem az átverés)!
+Ehelyett segítsünk a másiknak jobban megérteni a helyzetet.
+Vagy ha már "érti", akkor segítsünk neki felfedni olyan rejtett értékeket és motivációkat, amikkel talán nincs is tisztában.
+Vagy ha már azok sem rejtettek, akkor csak érveljünk a legjobb tudásunk szerint és törekedjünk a kompromisszumra.
 
 
 
@@ -334,9 +342,9 @@ A **nominalizmus** szerint meg nincsenek is szabályok, mindenki csinál, amit a
 A könyv címéhez hűen tényleg volt min gondolkozni.
 Az episztemológia megingatta, hogy tudhatunk-e egyáltalán valamit is, aztán a metafizika keretein belül foglalkoztunk az elménk és a testünk kapcsolatával, a szabad akarat kérdésével, és azzal is, ki az az "én".
 Jött utána némi vallási filozófia Istenről és némi logika a... nos, a logikáról.
-Levezetésnek pedig némi ontológia a világ létezéséről és egy kis etika arról, hogy mit is kellene tenni.
+Levezetésnek pedig egy csipet ontológia a világ létezéséről és egy kis etika arról, hogy mit is kellene tenni.
 
 Őszintén szólva ez az egész nagyjából olyan élmény volt, mint amikor az iskolában magyarázzák a gyereknek, hogy miért is kell matekot tanulnia: nem konkrétan a matek a fontos, hanem ahogy a matek tanulása megtanítja őket gondolkozni.
 Na persze nem magamra értem, én pont szerettem a matekot -- meg itt is a logikát, mert azt már tudtam, és ezért fel lehetett lélegezni kicsit.
-De összességében kb. úgy éreztem magam, mint ahogy _más_ érzi magát matekon.
+De összességében kb. úgy éreztem magam, mint ahogy _más_ érzi magát matekórán.
 Egy mentális harc volt átszenvedni magam mindenen, de felnőtt(ebb) fejjel ennek ellenére -- vagy épp ezért? -- tudom értékelni, amit formált rajtam.
