@@ -9,157 +9,171 @@ De az egy-egy konkrét témát mélyen kiveséző, vagy a _meséből tanulságot
 Így kötöttem ki végül a Flow-nál, ami nem csak egy általánosan nagyra tartott "alapmű", de az egyik legöregebb elem a "na ezt egyszer biztos el kell olvasni" listámon.
 Szóval ha valamikor úgyis, akkor miért ne most?
 
+A könyv több évtizednyi pszichológiai -- és kapcsolódó -- kutatás eredményeit foglalja össze 10 (általam szabadon átcímkézett nevű) fejezetben:
+
+1. [Boldogság](#boldogság)
+2. [Tudat](#tudat)
+3. [Élvezet](#élvezet)
+4. [Előfeltételek](#előfeltételek)
+5. [Test](#test)
+6. [Elme](#elme)
+7. [Munka](#munka)
+8. [Társaság](#társaság)
+9. [Káosz](#káosz)
+10. [Élet](#élet)
+
+Az első négy egy szép fokozatos bemutató a szerző álláspontjához, a fogalmakhoz, és az "alappillérekhez".
+Aztán 5-től 9-ig egy-egy fejezet, hogy az élet megfelelő területén hogyan lehet alkalmazni az addig tanultakat.
+Végül a 10-es egy útmutató, hogy hogy érdemes ezeket a területeket úgy összegyúrni, hogy minden kb. konzisztens legyen egy átfogóan boldog élet érdekében.
+
+Könnyen olvasható, sok példát tartalmaz, és nekem személy szerint több "ahaaa" pillanatot is okozott azzal, ahogy új összefüggéseket mutatott, vagy új megvilágításba helyezett dolgokat.
+Úgyhogy nézzük, mit sikerült kijegyzetelnem...
+
+
+
+## Boldogság
+
+A boldogságról alkotott képünk igazából Arisztotelész óta nem változott jelentősen.
+Ez pedig vagy azt jelenti, hogy a lényeget már akkor is tudtuk; vagy azt, hogy még most sem.
+Reméljük az előbbi!
+
+Ettől persze a boldogság alapvető kérdését a modern pszichológia tovább vizsgálja...
+A jó hír, hogy minden jel szerint rajtunk múlik, így mindenkinek lehetősége van boldognak lenni.
+A rossz hír, hogy _minden jel szerint **rajtunk múlik**_, így mindenki csak a tükörnek reklamálhat, ha nem az!
+
+> [A boldogság] nem a külső eseményeken múlik, hanem azon, hogy hogy értelmezzük őket.
+> > [Happiness] does not depend on outside events, but, rather, on how we interpret them.
+
+Akinek itt most bejelzett a rendkívül kifinomult "sztoicizmus érzéke", annak jár a pacsi.
+Igen, most is ez lesz a lényeg, csak egy kicsit más megközelítésben.
+
+A "flow" (vagyis "áramlat") tulajdonképpen azt az érzést próbálja megfogni, amikor "nagyon el vagyunk merülve" valamiben; amikor "nagyon jól jön a lépés".
+Flow közben tehát annyira belefeledkezünk egy adott tevékenységbe, hogy minden külső zavaró tényező elhalványul.
+Minden további tartalom ennek a jelenségnek a tudományos vizsgálatán, és a levont következtetéseken alapul.
+
+**Nem** kapunk például lépésről lépésre utasításokat semmihez, inkább helyesen gondolkozni próbálnak megtanítani.
+**Nem** burkolnak semmit misztikus lepelbe, ezért a fő tanulságok relatíve egyszerűek és érthetőek.
+**Nem** mondják viszont azt sem, hogy betartani könnyű, mert nem az. (Ugye mondanom sem kell, hogy az egyszerű és a könnyű mennyire nem ugyanaz!)
+Ha ezeket a "hiányosságokat" elfogadjuk, nem fogunk csalódni.
+
+<br />
+
+A stressz, a frusztráció, és a mindig többre vágyakozás természetes emberi érzések.
+Ezek elleni _védelmi mechanizmusnak_ fejlődtek ki a vallás, a filozófia, a művészet, a hagyományok, és a társadalmi normák is.
+A baj csak annyi, hogy ezek a boldogtalanság-gátló "tervrajzok" se nem tökéletesek, se nem állandóak.
+Igaz, hogy tervrajzok nélkül még rosszabb lenne a helyzet -- a vak élvhajhászat hosszú távon nem lehet válasz semmire.
+De az is veszélyes, ha túlzottan rájuk hagyatkozunk és biztonságba ringatjuk magunkat, mert attól az elkerülhetetlen pofonok csak még jobban fognak fájni.
+
+> Az univerzum nem ellenséges, de nem is barátságos. Egyszerűen csak közömbös.
+>
+> -- J. H. Holmes
+> > The universe is not hostile, nor yet is it friendly. It is simply indifferent.
+
+A világ tehát (jó esetben is csak) szarik ránk; bármiféle külső irányíthatóság csak illúzió.
+De nem is volt ez soha másként.
+Az igazi probléma az, ha a fejünkön _belül_ nincs rend.
+Szemléletes példa, hogy egyszerre vagyunk a valaha élt leggazdagabb, legfejlettebb, és mégis legboldogtalanabb civilizáció.
+
+> Manapság minden "első világbeli" háztartás hozzáfér a múlt császárainak receptjeihez és lakomáihoz. És ettől vajon elégedettebbek vagyunk?
+> > These days every household in the "first world" has access to the recipes of the feasts of past emperors. But does this make us more satisfied?
+
+A külső előrehaladás egyszerűen nem tud minket boldoggá tenni.
+Rengeteg statisztika támasztja alá, hogy ilyen szempontból hanyatlunk.
+De cserébe felismerhetjük, hogy a külső nehézségeknek viszont nem muszáj nyomorulttá tennie.
+
+Ami fontos, hogy kitörjünk a társadalmi normák szorításából, és vállaljuk a felelősséget a saját életünkért.
+A fejezet sok példát hoz arra, hogy az élvezetek keresésén és a fájdalom elkerülésén keresztül a társadalom is ugyanolyan erősen irányít minket, mint a vallás -- csak a misztikus rész nélkül.
+És a legnagyobb baj még nem is a készen tálalt értékekkel van, hanem azzal, hogy korunk készen tálalt értékei undorítóak.
+Félreértés ne essék, semmilyen esetben nem támogatom a "vakon követést"...
+De mennyivel egyszerűbb lenne már, ha nem ekkora szembe szélben kellene hugyozni.
+
+> [...] az egyénnek függetlenednie kell a társadalmi környezetétől legalább annyira, hogy már ne kizárólag annak jutalmai és büntetései motiválják.
+> > [...] individuals must become independent of the social environment to the degree that they no longer respond exclusively in terms of its rewards and punishments.
+
+Hogy azért ne csak a társadalmat okoljuk, szögezzük le gyorsan, hogy a saját testi és lelki impulzusaink elnyomása alól is ugyanúgy ki kellene szabadulnunk.
+
+> Hogy irányítani tudjuk a saját világképünket, először egy drasztikus hozzáállásbeli változás kell azzal kapcsolatban, hogy mi fontos és mi nem.
+> > Achieving control over experience requires a drastic change in attitude about what is important and what is not.
+
+A kulcs egy megfelelően súlyozott értékrend, ahol tényleg az van elöl, aminek elöl is kell lennie.
+És a saját elménk tudatos irányítása bizony nagyon sok irányzat szerint a lista élére való.
+Sztoicizmus, Kereszténység, Pszichoanalízis, Yoga, Taoizmus, Zen, és még sorolhatnánk.
+
+"Jó, jó", tehetnéd fel joggal a kérdést, "de ha az összefüggés ilyen köztudott, akkor miért nem elterjedtebb ez a hozzáállás?"
+Örülök, hogy megkérdezted... Ennek két oka is van.
+Egyrészt ez a tudás nem _**kumulatív**_ -- vagyis nem halmozódik fel a generációk múlásával, ezt mindenkinek magának kell megtanulnia.
+Gondoljunk például egy olimpikonra, aki azon felül, hogy fejben technikailag tud úszni, azért nem kevés munkát és gyakorlást is belerakott mellé, hogy _jól_ is tudjon úszni.
+
+A másik ok pedig a az, hogy egy ilyen "hozzáállás rendszer" mindig helyzettől függ.
+Lehet, hogy a sztoikusok például ráéreztek egy csomó jó dologra már olyan korán, de azért tettek mellé egy jó adag metafizikai katyvaszt is, ami miatt a mai emberek számára **egészében** elég nehezen fogyasztható.
+Ha viszont vesszük a fáradságot, hogy az alapelveket a saját korunk és igényeink szerint testre szabjuk, akkor nagyot léphetünk előre.
+És szerencsére ezen a blogon pont ezzel foglalkozunk... Nahát, micsoda egybeesés!
+
+
+
+## Tudat
+
+A **tudatunk** tulajdonképpen nem más, mint egy _szűrő_ az érzékszerveinktől kapott jelekhez, ami képes a beáramló információt tudatosan rendszerezni.
+És mivel a tudatunk véges -- különben végtelen sok életet élhetnénk másodpercenként -- ezért nagyon nem ártana odafigyelni, hogy mit is engedünk be!
+
+A **figyelmünk** mondja meg azt, hogy mit kezdünk a tudat által megszűrt információval.
+Leginkább az határozza meg az életminőségünket, hogy hogyan gazdálkodunk a figyelmünkkel.
+Mint az időre, a figyelemre is tekinthetünk olyan limitált erőforrásként, ami csak úgy elvész, ha nem használjuk fel.
+De persze ha fel is használjuk, az sem garantálja, hogy _jól_ használtuk fel.
+
+Az **énünk** pedig szimplán az eddigi tapasztalataink és tudatállapotaink összessége.
+Hé, álljunk csak meg!
+Ha az _énem_ irányítja a figyelmemet, a _figyelmem_ formálja a tudatomat, és a _tudatom_ pedig hat az énemre, akkor az egy kör...
+Így van, és pont ez a jó benne, mert ettől lesz a folyamat vezérelhető!
+
+Ha a valami a céljainkat fenyegetni, akkor valamennyi mentális energiát mindenképp muszáj a veszélyforrásra fordítani, ami zavarhoz vezet.
+De fontos felismerni, hogy a külső események is csak információ, amit úgy szűrünk és értelmezünk, ahogy akarunk.
+A külső tényezők önmagukban se nem jók, se nem rosszak; és különböző embereknek ugyanaz az esemény _nagyon_ mást is jelenthet.
+
+Másrészt viszont ha a bejövő infó jól illeszkedik a céljainkhoz, abból lesz a _flow_ állapot.
+Az énünk magabiztosabb és erősebb lesz, ha úgy tudtuk "elkölteni" a mentális energiáinkat, ahogy szerettük volna.
+Ha ez gyakran előfordul, boldogok leszünk -- még akár a külső körülmények ellenére is.
+Úgyhogy a saját magunk "elleni" küzdelem igazából _saját magunkért_ történik; hogy tudatosan ebbe az irányba terelgethessük magunkat.
 
 
 
 
-## Preface
+## Élvezet
 
-- this book is the result of decades of research on psychology and related field about how to live a good life
-- aimed at the general public, technical notes (and research citations) are at the end
+Két módon lehetünk boldogok: 1) alakítsuk a külső körülményeket úgy, hogy azok pont illeszkedjenek a céljainkhoz; vagy 2) alakítsuk a látásmódunkat olyanra, hogy a már eleve létező külső körülmények is illeszkedhessenek a céljainkhoz.
+Aki figyel, az szerintem érzi, hogy ezekből melyik a reálisabb...
 
-## Chapter 1 - Happiness Revisited
+Kutatások csak nagyon gyenge összefüggést mutatnak a vagyoni állapot és a boldogság között.
+Még a puszta élvezet is csak arra jó, hogy helyreállítsa a rendet a fejünkben, de fejlődést előidézni nem képes.
+Ezért lenne fontosabb az önmegvalósítás -- a szerző itt a "pleasure" és az "enjoyment" szavakat használja, ami magyarul mindkét esetben élvezet... úgyhogy az utóbbit én önmegvalósításnak címkézem.
 
-- our understanding of happiness is basically at the same level it was in Aristotle's time
-- "when do people feel most happy?" --> modern psychology to the rescue
-- happiness is something that we MAKE happen
-- flow is being lost in an activity so much that outside distractions kind of disappear
-- the data the book is based on is a lot of field recordings (questionnaires, empirical experiments, interviews)
-- the social impact and interdisciplinary utilization is already quite extensive --> they're on to something here!
-- how-to's are not good, because even if they work, you end up at square one without having learned to appreciate your life
-- the structure of the book is
-    - learning to control your own mind
-    - learning how to "order" it to overcome specific challenges
-    - learning what the flow state requires, and how to attain it in many different areas of life
-    - how to connect these areas in a meaningful pattern, to reach a "happy life"
-- as usual, the theory is easy, but the implementation will be hard
-- frustration and the never-ending need for more are two basic human realities
-    - religion, philosophy, and art are "defense mechanisms"
-    - the blueprints are not perfect, and not permanent
-    - but without the blueprint it is even worse --> hedonistic pleasure-seeking cannot be the answer
-- the universe is indifferent, external control is an illusion
-- over-reliance on the external shields (defense mechanisms) like religion, traditions, cultural norms, etc. only make the inevitable "awakening" harsher
-    - the real problem is lack of inner order
-- external progress (richest generation, most technologically advanced civilization, etc) can't make us happy
-    - but on the contrary, external setbacks don't have to make us miserable either
-- a shitload of statistics support that we're in decline
-- we have to break free from the societal norms and take responsibility for our own lives
-    - lots of examples how society is controlling us through our search for pleasure and avoidance of pain
-    - not one bit better than religion, only less mystical...
-- and not only society either; we have to break free from our own bodies and mental impulses as well
-    - design our own set of values
-- "control of consciousness determines quality of life"
-    - Stoicism, Christianity, Psychoanalysis, Yoga, Taoism, Zen, ...
-- okay, so if this is so well known, why isn't it more widespread?
-    - this is not cumulative -- everyone has to arrive here themselves (knowing is not enough... like for athletes)
-    - this is context-dependent -- every culture has to apply the main principles again and again
+Az egyik leglényegesebb különbség az, hogy az önmegvalósítás menet közben nem feltétlen élvezetes, viszont utána egy "jobb" énhez vezet.
+A másik pedig az, hogy míg az élvezet nem igényel figyelmet és koncentrációt, az önmegvalósítás nagyon is sokat követel.
+Hasonlíthatjuk ezt akár a szórakozásból olvasás és az alapos jegyzetelésen alapuló blog írás közti ellentéthez is.
 
-### Quotes
+Érdekes módon az önmegvalósítás közbeni élményeket az emberek hajlamosak szinte ugyanúgy jellemezni.
+Még akkor is, ha _nagyon_ különbözők tevékenységekről, vagy _nagyon_ eltérő szociális hátterű emberekről is van szó.
+Érdemes ezért ezeket a gyanús hasonlóságokat közelebbről is megvizsgálni:
 
-It does not depend on outside events, but, rather, on how we interpret them.
---> stoicism again!
-
-The best moments usually occur when a person’s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.
-
-But in the long run optimal experiences add up to a sense of mastery—or perhaps better, a sense of participation in determining the content of life—that comes as close to what is usually meant by happiness as anything else we can conceivably imagine.
-
-“The universe is not hostile, nor yet is it friendly,” in the words of J. H. Holmes. “It is simply indifferent.”
-
-These days every household in the “first world” has access to the recipes of the feasts of past emperors. But does this make us more satisfied?
-
-there is no inherent problem in our desire to escalate our goals, as long as we enjoy the struggle along the way. The problem arises when people are so fixated on what they want to achieve that they cease to derive pleasure from the present. When that happens, they forfeit their chance of contentment.
-
-If values and institutions no longer provide as supportive a framework as they once did, each person must use whatever tools are available to carve out a meaningful, enjoyable life.
-
-individuals must become independent of the social environment to the degree that they no longer respond exclusively in terms of its rewards and punishments.
-
-achieving control over experience requires a drastic change in attitude about what is important and what is not.
---> personal values instead of the default!
-
-A thoroughly socialized person is one who desires only the rewards that others around him have agreed he should
-
-He may encounter thousands of potentially fulfilling experiences, but he fails to notice them because they are not the things he desires. What matters is not what he has now, but what he might obtain if he does as others want him to do.
+1. egy kihívást jelentő tevékenység, amihez szakértelem kell
+    - lehetőleg valahol a képességek határa körüli szinten
+    - ha túl könnyű, akkor unalmas lesz, de ha túl nehéz, akkor meg csak frusztráló
+2. a tett és a gondolatok egybeolvadása
+3. egyértelmű célok
+4. azonnali visszajelzés
+5. kizárólagos koncentráció
+    - ez bizonyos értelemben a 2. pont következménye
+    - nem marad felesleges mentális energia, hogy bármi mással foglalkozhassunk
+6. a tudat, hogy a kezünkben van az irányítás
+7. az öntudat ideiglenes elvesztése
+    - nem tűnik el sem az "én", sem a tudatunk
+    - csak nem leszünk tudatában az "énnek"
+    - a visszatérő "én" már erősebb és fejlettebb, mint amivel indultunk
+8. módosult időérzék
 
 
 
-## Chapter 2 - The Anatomy of Consciousness
-
-- "a phenomenological model of consciousness based on information theory"
-    - phenomenology, as in, we look at the event that happen, not HOW they happen (i.e., brain chemistry, anatomy, etc.)
-    - but with information theory, as in, data processing and storage, attention, and memory
-- consciousness is a kind of filter for our sensory input, and we have the power to intentionally "order" that information
-- consciousness is limited (otherwise we could live infinite lives per second), so we should be mindful of what we let inside
-- attention = the process of selecting relevant bits of information, recalling matching stuff from our memory, evaluating the situation, making a decision about what to do
-- how we choose to focus our attention is what determines our experience
-    - like time, it can be thought of as a limited resource that, if not used, dissipates
-    - and even if used, it can be easily used incorrectly
-- the self is the sum total of our experiences and consciousness so far
-    - but hey, if the self drives the attention, and then attention shapes the consciousness, which then shapes the self, then it's a circle!
-    - indeed, and that's the good thing!
-- when our goals are threatened, some amount of mental energy has to be diverted to deal with the threat --> psychic entropy
-    - but: external events (setbacks) are just more information
-    - it is us who give them their meaning
-    - the same event can have vastly different meaning to different people
-- on the other hand, when the information is congruent with our goals --> flow state
-    - leads to a stronger, more confident self if you manage to invest your psychic energy the way you wanted to
-    - if it happens often, the quality of life will increase (even if the external conditions are the same)
-    - battle against the self == battle FOR the self, to establish control over your attention
-- growth == mental complexity, which has 2 components:
-    1) differentiation: specialized, individual
-    2) integration: connection to others, the world
-    - too much of either is bad (egotism vs. conformity)
-    - again, finding a balance is key
-
-## Chapter 3 - Enjoyment and the Quality of Life
-
-- 2 ways to being happy:
-    - change external conditions to match your goals
-    - change your perception so that the existing external conditions can match your goals (the obstacle is the way)
-- mild correlation between wealth and happiness
-    - but it is found to be among the weakest factors
-- pleasure is only good for _maintaining_ psychic order, not creating growth
-    - itt kiemelni az élvezet és élvezet közti különbséget (pleasure vs. enjoyment)
-    - they are just to restore order after physiological needs create entropy
-- enjoyment = not necessarily pleasurable while it lasts, but leads to a better self
-    - pleasure needs no attention, while enjoyment requires a lot
-    - so from now on, we should focus on enjoyment
-    - analogue to my reading habits: reading for fun was... well, more fun. But reading more attentively, taking notes, writing posts, etc. is much more enjoyable!
-- study results: enjoyment is almost always described in the same way
-    - across very different activities
-    - across very different social variables
-- 8 elements
-    1) a challenging activity that requires skill
-        - and is around the skill limit
-        - too easy will be boring, too hard will be frustrating
-    2) the merging of action and awareness
-    3) clear goals
-    4) immediate feedback
-    5) concentration on the task at hand
-        - corollary of 2)
-        - no psychic energy left over for worrying about anything else
-    6) a sense of exercising control
-    7) loss of self-consciousness
-        - not loss of self, not loss of consciousness, just a loss of being conscious of the self
-        - special case of 5), but an important special case
-        - the re-emerging self will be better afterwards (as in, the self we will return to be conscious about is no longer the self we started with, because it just did some growing in the meantime)
-        - almost like self-transcendence, but with an interaction
-        - religious or political zealotry is an imposed order, not an achieved one, so there's no opportunity for growth
-    8) altered sense of time
-- learning to "flow" is morally neutral
-    - it can be used both for good and bad
-    - but this is not a reason to avoid it, just a reason to be vigilant when using it
-
-### Quotes
-
-how to win friends and influence people,
---> Shots fired :D
-
-Vladimir Nabokov’s short story “The Luchin Defense”
-
-Jefferson’s uncomfortable dictum “Eternal vigilance is the price of liberty” applies outside the fields of politics as well;
-
-
-## Chapter 4 - The Conditions of Flow
+## Előfeltételek
 
 - what are activities that often lead to flow?
     - play, art, pageantry, ritual, and sports are some examples
@@ -183,12 +197,7 @@ Jefferson’s uncomfortable dictum “Eternal vigilance is the price of liberty�
     - prison examples (Solzhenitsyn): if you find something you can sink your mental energy into, find aspects to control (however minor), you can set yourself free, no matter the external conditions
     - but (as almost always) this is trainable!
 
-### Quotes
 
-Potentiality does not imply actuality, and quantity does not translate into quality.
-
-Viktor Frankl and Bruno Bettelheim, Bertrand Russell
---> People to look into
 
 ## Chapter 5 - The Body in Flow
 
@@ -200,6 +209,9 @@ Viktor Frankl and Bruno Bettelheim, Bertrand Russell
     - could be trained, as an analogue to sport
 - Eastern cultures are way ahead of the West in this (i.e., body-mind unity) regard
     - yoga can be thought of as one of the oldest systematic flow-producing activities
+        - the yoga progression in chapter 5 is really cool (almost like an anime level up sequence)
+            - definitely gotta check out yoga more seriously in the future
+            - not that I wouldn't have anyway
     - the end goals are different, but the way there is practically the same level of consciousness control
     - martial arts are similar
 - but it isn't necessary to be active
@@ -329,10 +341,10 @@ reviewing the ideas of aesthetic philosophers like Baumgarten, Croce, Santayana,
 - as for the wider community, complexity is all around
     - if our goals are selfless (like helping others or providing an example), there's almost infinite chance at growth
         - if, however, we do it for selfish, material reasons, it probably won't make us happy (even if we reach our goals) because those goals are usually much less complex --> less opportunity for flow
+- the overarching tone on Chapter 8 about how everyone wants to avoid being alone is a little strange from an introvert perspective, but I guess this is what's more common
+    - de ezek szerint vagy _nagyon jó_ úton haladok, vagy _nagyon nem_...
+    - “Whosoever is delighted in solitude,” goes the old saying that Francis Bacon repeated, “is either a wild beast or a god.”
 
-### Quotes
-
-“Whosoever is delighted in solitude,” goes the old saying that Francis Bacon repeated, “is either a wild beast or a god.”
 
 ## Chapter 9 - Cheating Chaos
 
@@ -425,15 +437,3 @@ Action by itself is blind, reflection impotent.
 
 
 
-# Notes -- becsempészni valahova, ha passzol...
-
-- this notion of "escape from the external dependence" could be a good starting point for my own research re: philosophies/religions and finding common traits (to arrive at that greatest common divisor kind of idea...)
-- I like how if there's an enumeration coming, it is kind of announced beforehand
-    - like what is needed for flow are a, b, and c; and only then comes a more in depth description of a, b, and c.
-    - so you can pre-cache the structure, and makes it easier to follow during the in-depth phase
-- the yoga progression in chapter 5 is really cool (almost like an anime level up sequence)
-    - definitely gotta check out yoga more seriously in the future
-    - not that I wouldn't have anyway
-- the overarching tone on Chapter 8 about how everyone wants to avoid being alone is a little strange from an introvert perspective, but I guess this is what's more common
-- with a more long-range overview of history, I'm starting to think that my problem is not _mainly_ with accepting cultural norms, but that our generation's cultural norms are shit
-    - blindly following anything is not okay at all, but a customized/personalized following wouldn't be too bad -- if the recipes weren't so disgusting nowadays
