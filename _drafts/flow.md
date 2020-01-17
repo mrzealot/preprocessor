@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Csákszentmihályi Mihály - Flow
+title:  Csíkszentmihályi Mihály - Flow
 date:   2020-01-15 00:00
 ---
 
@@ -175,155 +175,138 @@ Még akkor is, ha _nagyon_ különbözők tevékenységekről, vagy _nagyon_ elt
 
 ## Előfeltételek
 
-- what are activities that often lead to flow?
-    - play, art, pageantry, ritual, and sports are some examples
-    - a categorization of "games"
-        - agon -- based on competition
-        - alea -- based on chance
-        - ilinx -- based on altered perception
-        - mimicry -- based on alternate realities
-    - the flow "channel" is presented as an explanation of why the seeking of flow continually enhances the complexity of the self
-    - religion and similar cosmic-scale consciousness ordering approaches were more popular, but nowadays (with our segmented and specialized sub-fields) we don't pay these areas as much attention as they would deserve
-- how does culture contribute to flow?
-    - comparisons are out of fashion (and rightly so, after how we treated a lot of other cultures believing that our ways were THE ways)
-    - but the concept of flow can give an objective measure: how conducive is a society to creating flow experiences for its citizens?
-    - culture ~ games analogy --> if a society is helping create a good kind of order so that its members experience flow often, then life becomes a big game
-        - but if cultural defaults are not like this, nothing's stopping us from forming our own! (my note)
-- how does our personality fit into the picture?
-    - schizophrenia, attention disorder (too loose attention) vs. Excessive self consciousness or self-centeredness (too rigid)
-    - external factors: environment, social (anomie [no rules] vs. alienation [too much rules], analogous to internal...)
-    - even if healthy and in a good society, some have a better disposition to focus, leading to more frequent flow
-    - a family context that already had most of the flow components naturally prepares for a better enjoyment of life
-    - prison examples (Solzhenitsyn): if you find something you can sink your mental energy into, find aspects to control (however minor), you can set yourself free, no matter the external conditions
-    - but (as almost always) this is trainable!
+Először azt nézzük meg, milyen **tevékenységek** is vezetnek gyakran a flow élményhez.
+Kézenfekvő példák a különböző játékok, művészetek, ceremóniák, és sportok, mert ezekben gyakorlatilag beépített a flow-ra törekvés.
+És ha mondjuk az erősebb ellenfél fejlődésre késztet, a fejlődés után pedig már még erősebb ellenfél kell az élmény fenntartásához, akkor az énünk fokozatosan egyre komplexebb lesz.
+A vallás, a filozófia, vagy egyéb hasonló "kozmikus skálán mozgó" tudatformáló megközelítések viszont a mai túlspecializált világban sajnos közel sem kapnak annyi figyelmet, mint amennyit érdemelnének.
+
+Az sem mindegy persze, hogy milyen **társadalmi háttérrel** rendelkezünk.
+A kultúrák összehasonlítása manapság nem igazán divat, -- és jogosan, tekintve hogy a múltban mennyi borzalmat elkövettünk másokkal a saját felsőbbrendűségünk ürügyén -- de talán a flow itt is egy használható új mértéket adhat.
+Ha egy kultúra támogatja az olyan elmeállapotokat előidéző helyzeteket, hogy a tagjai gyakran tapasztalhatják meg a flow élményt, akkor ott az élet tulajdonképpen egy nagy játék.
+De ha a mi kultúránk épp nem ilyen, ne feledjük, hogy semmi nem állíthat meg minket abban, hogy átformáljuk!
+
+A **személyiségünk** is megkönnyítheti vagy megnehezítheti a dolgunkat.
+Ha valaki például skizofréniában vagy figyelemzavarban szenved (vagyis a figyelme túl laza), vagy a kelleténél jobban önközpontú és egoista (vagyis a figyelme túl merev), nehezen talál be az arany középútra.
+Ez valamilyen szinten tükrözi a külső hatásokat, ahol ha túl lazák a szabályok, vagy épp túl szorosan vagyunk megkötve, megint hátrányból indulunk.
+
+A teljesen egészséges, jó társadalmi háttérrel rendelkező, és flow-szerű tevékenységet végző emberek között is van azonban, aki jobban tud koncentrálni -- és emiatt gyakrabban "kerül be a zónába".
+Ez sokszor a családi háttérre vezethető vissza.
+De amit fontos megértenünk, hogy ez csak egy kiindulási pont, ami fejleszthető!
+Ha keresel magadnak egy célt amibe beleölheted a mentális energiádat, találsz benne irányítható szempontokat, és aztán irányítod is őket... akár egy börtönben is "szabad" lehetsz.
 
 
 
-## Chapter 5 - The Body in Flow
+## Test
 
-- the lowest hanging fruit to add enjoyment is to actually learn to use your body
-- and not just "fitness", either --> "Each sensory organ, each motor function can be harnessed to the production of flow"
-- an elaborate example of how even something as trivial as walking can become flow inducing, if approached the right way
-- a study shows that the less expensive or equipment-requiring and more body and attention-requiring an activity is, the happier you'll be
-- flow in sex is similar, pleasure becomes enjoyment only when accompanied by the appropriate consciousness
-    - could be trained, as an analogue to sport
-- Eastern cultures are way ahead of the West in this (i.e., body-mind unity) regard
-    - yoga can be thought of as one of the oldest systematic flow-producing activities
-        - the yoga progression in chapter 5 is really cool (almost like an anime level up sequence)
-            - definitely gotta check out yoga more seriously in the future
-            - not that I wouldn't have anyway
-    - the end goals are different, but the way there is practically the same level of consciousness control
-    - martial arts are similar
-- but it isn't necessary to be active
-    - just using the senses (if they are developed enough) can lead to flow
-    - really seeing sights, really hearing music, really tasting food, etc.
-    - music has a soothing, mind-ordering effect in practically every culture
-    - but (again) it is not the _hearing_, it is the _listening_ (especially if analytic)
-- becoming an "expert" in any of these is hard (we would be limited to a few per lifetime), but becoming a dilettante in each is quite possible
-    - this does imply only a superficial attention per area, but even that is infinitely better than the _none_ we usually pay
+Az egyik legkézenfekvőbb út a flow-hoz talán az lenne, ha rendesen megtanulnánk használni a testünket.
+És ez alatt most nem feltétlen a fitnesst értem... egy részletes példán keresztül láthatjuk, hogy elég lehet csak simán _sétálni_, ha megfelelően állunk hozzá!
 
-### Quotes
+> Minden érzékszerv és minden motor funkció felhasználható a flow előállítására.
+> > Each sensory organ, each motor function can be harnessed to the production of flow.
 
-the rationale of all sports, which is to do something better than it has ever been done before.
+A keleti kultúrák ebben a test-szellem egységben sokkal a nyugat előtt járnak.
+A yoga például tekinthető az egyik legöregebb szisztematikusan flow-t előidéző tevékenységek egyikének.
+A végcél ott mondjuk teljesen más, mint amit itt szeretnénk -- az énünk teljes "feladása" -- de mindkettőhöz ugyanaz a szintű tudat-irányítási képesség kell.
+És ha az megvan, onnan már mi döntjük el, hogy mire is akarjuk használni.
 
-enjoyment, as we have seen, does not depend on what you do, but rather on how you do it.
+De nem feltétlen kell _aktív_ testi dolgokra gondolni.
+Az érzékeink használata önmagában is elég lehet, ha azok elég fejlettek -- értsd, elég munkát fektettünk már a fejlesztésükbe.
+Ha igazán _látjuk_ a szemünk elé táruló látványokat, igazán _hallgatjuk_ a zenét, ha odafigyelünk az ételeink ízére, stb.
+Rengeteg mentális energiát bele lehet süllyeszteni az analitikus figyelembe, hogy a nézésből látás vagy a hallásból hallgatás legyen.
 
-## Chapter 6 - The Flow of Thought
+> Az önmegvalósítás, mint látjuk, nem annyira azon múlik, hogy mit csinálsz, hanem hogy _hogy_ csinálod.
+> > Enjoyment, as we have seen, does not depend on what you do, but rather on how you do it.
 
-- as stated in the previous chapter, everything has to be mental (at least in part) to be enjoyable
-    - but now we'll concentrate on purely (or mostly) mental stuff
-- these have to be symbolic, mental manipulation of concepts
-    - most obvious example is reading
-- the natural state of our mind is chaos
-    - when not distracted by external stimuli, our minds begin to drift
-    - also, it tends to dwell on negative stuff often
-    - that's why we are so susceptible to cheap distractions like TV
-        - we don't have to face ourselves, but our mind is externally ordered for us without much effort
-- memory is the base of everything
-    - remembering stuff was key until just a few hundred years ago
-    - even now it is far from useless
-    - true, learning should not be solely based on this method anymore, but it would be a mistake to completely abandon it
-    - connection to commonplacing: keeping worthwhile knowledge at hand (and eventually, in our head) leads to positive complexity
-- on top of memory comes abstract, symbolic thinking that makes connections
-    - no amount of memory would order our mental chaos if we didn't have a system to order our experiences
-    - words and concepts (mental models) are really important in making sense of the world
-    - thinking is (can be) pleasurable, despite modern science explaining it in purely extrinsic motivations
-    - by connecting ideas and thinking, we "create a new way to describe reality"
-    - symbolic systems (once learned well enough) can lead to portable, self-contained worlds within the mind
-        - this can also be thought of as a defense against external forces (be they harsh environmental conditions, demagogues, media, etc.)
-- even better is using words for self-expression
-    - word puzzles --> conversation --> poetry/prose
-    - for intrinsic, consciousness ordering reasons (no money necessary)
-- history = observing and recording events ordered by time
-    - an important part of human life (towards the end) is achieving integrity
-        - making a coherent history of our lives, our story
-    - our perception of our own past is continuously edited
-        - "the question is only whether we take creative control of the editing or not"
-    - we can (and to a certain degree, probably _should_) all become amateur historians in some areas
-- basically the same with science, or at least, scientific thinking
-    - there are areas that don't depend on labs or equipment
-    - the mental framework is open
-    - if flow is the measure instead of fame/fortune, then you can freely "allow" yourself to be an amateur scientist in certain areas
-- and again with philosophy
-    - we should recognize that the basic questions (which are universally applicable to anyone) are actually accessible
-    - the over-institutionalization of it is just like any other discipline, and shouldn't deter the aspiring amateur to delve right in
-- amateur and dilettante are _not_ pejorative
-    - a lot of great scientists/thinkers were not professionals in their field
-    - the point (yet again) is intrinsic vs. extrinsic
-    - if you become an amateur at something to compare to the pros, or to advance some agenda, you're doing it wrong
-    - is should be used to extend your own mental skills and complexity
-    - a firm skepticism and critical thinking is necessary to not get "corrupted" on the way
-- lifelong learning is the key!
-    - the end of externally motivated learning (i.e., school) should not be the end of learning, only the beginning of the internally motivated phase
-    - instead of grades, we can now focus on questions that really matter
+Nehéz szakértővé válni bármelyik fent felsorolt területen -- és amúgy is csak egy-kettőre lenne elég egy egész élet -- de amatőrök lehetünk!
+És más a korlátozott figyelem is végtelenszer több lesz, mint az eddigi nulla.
 
-### Quotes
 
-But when we are left alone, with no demands on attention, the basic disorder of the mind reveals itself.
+## Elme
 
-"Happiness does not reside in strength or money; it lies in rightness and many-sidedness" // Democritus
+Mint már láthattuk, valamilyen szinten mindennél az elménk dönti el, hogy igazán élvezhető lesz-e.
+De itt most olyan tevékenységekre koncentrálunk, amik (szinte) teljesen mentálisak.
+Ehhez pedig az kell, hogy képesek legyünk szimbolikusan gondolkozni, és fejben fogalmakat "gyúrni".
+A legegyszerűbb példa erre az olvasás -- ahol igazából fapépre festett (vagy színes pöttyök által kirajzolt) jeleket bámulva hallucinálunk... Hát nem menő?
 
-take up ethics and learn about the moral philosophy of Aristotle, Aquinas, Spinoza, and Nietzsche.
-reviewing the ideas of aesthetic philosophers like Baumgarten, Croce, Santayana, and Collingwood.
+Az elme alapállapota sajnos a káosz.
+Amikor nincsenek ingerek, hogy irányítsák a gondolatainkat, azok elkezdenek mindenfelé cikázni.
+Ezért is lehetnek olyan népszerűek az olcsó figyelemelterelések, mint például a TV -- kívülről vezényli a figyelmünket, és így nem kell sem szembenézni magunkkal, sem erőfeszítést tenni, hogy rend legyen.
 
-## Chapter 7 - Work as Flow
+Bármi mentálisnak a memória az alapja, hiszen először tárolni kellene valahol az információkat.
+Manapság nagyon el vagyunk kényeztetve az internettel, de pár évszázaddal ezelőttig az kb. mindennek a kulcsa volt az, hogy mire emlékeztél.
+És attól, hogy most már nem (csak) erre kell alapozni a tanulást, továbbra is nagyon fontos.
 
-- if you find work you want to do anyway, it becomes undistinguishable from free time
-    - work is only bad if it's an external compulsion
-- it's true not only in rural contexts, either
-    - even urban, low-level workers can find meaning like this
-    - distinguishing what one _can_ change and changing it is what leads to more complex and enjoyable experiences (instead of resigning ourselves to the whole of reality as unchangeable)
-    - plus, the investment of psychic energy leads to a feeling of having chosen the activity freely (even if just the "how" of it, not the "what")
-- eastern equivalent of work flow is _Yu_
-    - western tries to change objective conditions by approaching the task with more conscious skill
-    - eastern approaches it with spirituality, natural/automatic grace
-    - one interpretation is that these are not so different at all: continuously learning and improving leads to a state that can seem (and feel) somewhat spiritual and automatic through skill
-- another way to support work flow is of course changing jobs
-    - or, at least, redesigning jobs to more closely resemble the flow structure
-    - but this (while sometimes helpful) is not enough in itself, without the accompanying personality
-- it is paradoxical that even flow-producing work is often regarded more poorly than non-flow-producing leisure time
-    - we think of work as something that we _have to_ do, so even if it's good for our sense of accomplishment, we discredit it because it's not for our own goals, but someone else's
-    - but this should again be solvable with a mental shift
-- the even bigger problem is that leisure is intrinsically un-structured, so mostly non-flow-producing
-    - we would need to impose our own structure on it, which we fail to do
+Ezután jöhet az absztrakt, szimbolikus gondolkozás, ami a letárolt információban összefüggéseket talál.
+És kell is jönnie, mert egy ilyen rendszerező elv nélkül semennyi memória nem fog rendet tenni a mentális káoszban.
+Elvégre a világ fogalmi alapú értelmezése és a mentális modelljeink komplexitása választ el minket az állatoktól.
+Emellett a gondolkozás, a rossz hírneve ellenére, élvezetes tevékenység is lehet.
 
-### Quotes
+Azzal, hogy gondolatban összekapcsolunk különböző ötleteket, új módokat teremtünk a valóság leírására.
+Ezek a kapcsolati rendszerek pedig idővel önálló, hordozható kis "világokat" hozhatnak létre a fejünkben, amikre mindig támaszkodhatunk (ezt vegye el tőlünk valaki).
+Még tovább mehetünk, ha ez így kialakult tudást valamilyen úton ki is fejezzük mások felé.
 
-“The future,” wrote C. K. Brightbill, “will belong not only to the educated man, but to the man who is educated to use his leisure wisely.”
+Innentől csak rajtunk múlik, hogy milyen irányba fordítjuk a figyelmünket.
+A könyv hosszasan kitér a történelem tanulmányozásának érdemeire (_"Historia est magistra vitae"_, vagy mi a szösz), a természettudományokra, és a filozófiára.
+Persze megint nem lehetünk mesterei mindnek, de ez ne riasszon vissza minket attól, hogy legalább egy amatőr szintet belőjünk!
+A jó pap holtig tanul, még ha nem is pap...
 
-## Chapter 8 - Enjoying Solitude and Other People
+
+
+## Munka
+
+Ha olyan munkát találsz, amit amúgy is csinálnál, megkülönböztethetetlenné válik a szabadidőtől.
+A munka csak akkor rossz, ha külső kényszer... de sajnos sokaknak az.
+A könyv a vidéki életet hozza példának a munka és a szabadidő összeolvadására, és valahogy nekem is mindig ilyen sztereotípiák motoszkáltak a fejemben.
+Ha valaki "farmer", akkor annak erről szól az élete, az nem egy modern értelemben vett foglalkozás, hanem egy életforma.
+
+De jól kapcsolódik a városi környezetes, gyári munkásos példa is, ami bemutatja, hogy ez nem csak a tanyán lehet így.
+A megfelelő hozzáállással a futószalag mellett is lehet találni olyan apróságokat, amiken változtathatunk; és ha változtatunk is, akkor komplexebb és élvezhetőbbek lesznek a tapasztalataink.
+Nem mellesleg ha tudatosan "költjük" a mentális energiánkat, sokkal inkább úgy fogjuk érezni, hogy mi választottunk (még ha csak a "hogyant" is, nem a "mit").
+
+Persze a munkás flow esélyeinket úgy is növelhetjük, ha állást váltunk.
+Vagy legalábbis áttervezzük a munkánkat, hogy jobban hajazzon a flow jellemzőire.
+De ez, habár néha segíthet, egy passzoló személyiség és látásmód nélkül valószínűleg nem fog működni; szóval továbbra is inkább magunkban keressük a választ!
+
+Ellentmondásosnak tűnhet, de sokak véleménye szerint a flow-t generáló munka is rosszabb, mint a nem flow generáló szabadidő.
+Feltehetőleg mert a munkára mindig úgy gondolunk, hogy azt "muszáj", így még azt is lenézzük, ha sikerélményt okoz -- mert az úgyis más javát szolgálja, nem a miénket.
+De ez helyrebillenthető kellene, hogy legyen egy egyszerű (de nem _könnyű_) mentális átkattanással.
+
+Még nagyobb probléma, hogy a szabadidő jellegéből adódóan rendszerezetlen, ezért többségében nem flow-kompatibilis.
+Nyilván ezt is megoldhatnánk, ha önként rendszert erőltetnénk a szabadidőnkre, ami viszont csak nagyon keveseknek megy.
+Tartozzunk ebbe a kisebbségbe!
+
+> A jövő nem csak a tanult emberé, hanem azé is, aki megtanulta bölcsen használni a szabadidejét.
+>
+> -- C. K. Brightbill
+> > The future will belong not only to the educated man, but to the man who is educated to use his leisure wisely.
+
+
+
+## Társaság
 
 - our relationships with people are the other big factor in happiness (besides work)
     - yet we need to be able to be alone effectively as well
+- the overarching tone on Chapter 8 about how everyone wants to avoid being alone is a little strange from an introvert perspective, but I guess this is what's more common
+    - de ezek szerint vagy _nagyon jó_ úton haladok, vagy _nagyon nem_...
 - we are social creatures (which has obvious evolutionary roots)
     - studies consistently show that we're the happiest when included
     - but relationships are usually also the causes of the worst depressions
     - the rules of interactions are malleable, if we have the skills
+
+
 - solitude is hard mostly because internal order is hard
     - when we have external stimuli, it's easier to structure our time
     - bearing solitude without boredom or mental entropy is a good indicator of control
+
+> Ha valaki örömét leli az egyedüllétben, az vagy egy vadállat, vagy egy isten.
+> 
+> -- Francis Bacon
+> > Whosoever is delighted in solitude is either a wild beast or a god.
+
     - many make do with the bare minimum amount of inner discipline, which leads to cruise control for the rest of their lives
     - _how_ we deal with solitude is very important (drugs/tv vs. reading/routine) --> it has to be voluntary, positively regarded, and complex
+
+
 - family is increasingly what we want it to be
     - external constraints are disappearing, which is good
     - internal acceptance of compromises is alive and kicking, which is not
@@ -333,20 +316,22 @@ reviewing the ideas of aesthetic philosophers like Baumgarten, Croce, Santayana,
     - regarding children, you should be an example, not just expect them to magically turn out fine
         - providing unconditional love and a safety net instead of strict measurement according to your own values
         - there have to be consequences, but concern should never be in question
+
+
 - friendships are more naturally "fun" because they are usually based on shared goals
     - this is usually the context in which we can "let our hair down"
         - every other area expects us to behave a certain way
     - but they require the same kind of work to really provide enjoyment
         - keeping a circle of friends into adulthood is very rare
+
+
 - as for the wider community, complexity is all around
     - if our goals are selfless (like helping others or providing an example), there's almost infinite chance at growth
         - if, however, we do it for selfish, material reasons, it probably won't make us happy (even if we reach our goals) because those goals are usually much less complex --> less opportunity for flow
-- the overarching tone on Chapter 8 about how everyone wants to avoid being alone is a little strange from an introvert perspective, but I guess this is what's more common
-    - de ezek szerint vagy _nagyon jó_ úton haladok, vagy _nagyon nem_...
-    - “Whosoever is delighted in solitude,” goes the old saying that Francis Bacon repeated, “is either a wild beast or a god.”
 
 
-## Chapter 9 - Cheating Chaos
+
+## Káosz
 
 - enhancing experience is not the icing on the cake, it _is_ the cake
     - conditions are rarely ideal, but that doesn't mean that controlling ourselves is not the most important thing to strive for
@@ -371,7 +356,7 @@ reviewing the ideas of aesthetic philosophers like Baumgarten, Croce, Santayana,
 
 as Dr. Franz Alexander has so well stated: “The fact that the mind rules the body is, in spite of its neglect by biology and medicine, the most fundamental fact which we know about the process of life.”
 
-## Chapter 10 - The Making of Meaning
+## Élet
 
 - it is desirable to turn our whole lives into a big flow activity
     - instead of moving from one kind of flow to the next (even if we can achieve flow)
