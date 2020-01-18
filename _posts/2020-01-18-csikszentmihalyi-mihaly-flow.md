@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Csíkszentmihályi Mihály - Flow
-date:   2020-01-15 00:00
+date:   2020-01-18 14:00
 ---
 
 A [Simon Blackburn]({% post_url 2020-01-07-simon-blackburn-think %})-féle durván absztrakt filozofálás után úgy gondoltam, kész felüdülés lesz visszakanyarodni kicsit praktikusabb vizekre.
 De az egy-egy konkrét témát mélyen kiveséző, vagy a _meséből tanulságot levonós_ jellegű könyvek helyett azért még mindig az átfogó, stabil alapot adó műfaj volt a cél.
-Így kötöttem ki végül a Flow-nál, ami nem csak egy általánosan nagyra tartott "alapmű", de az egyik legöregebb elem a "na ezt egyszer biztos el kell olvasni" listámon.
+Így kötöttem ki végül [Csíkszentmihályi Mihály - Flow](https://www.goodreads.com/book/show/66354.Flow){:target="_blank"} című remekénél, ami nem csak egy általánosan nagyra tartott "alapmű", de az egyik legöregebb elem a "na ezt egyszer biztos el kell olvasni" listámon.
 Szóval ha valamikor úgyis, akkor miért ne most?
 
 A könyv több évtizednyi pszichológiai -- és kapcsolódó -- kutatás eredményeit foglalja össze 10 (általam szabadon átcímkézett nevű) fejezetben:
@@ -104,7 +104,7 @@ Sztoicizmus, Kereszténység, Pszichoanalízis, Yoga, Taoizmus, Zen, és még so
 Egyrészt ez a tudás nem _**kumulatív**_ -- vagyis nem halmozódik fel a generációk múlásával, ezt mindenkinek magának kell megtanulnia.
 Gondoljunk például egy olimpikonra, aki azon felül, hogy fejben technikailag tud úszni, azért nem kevés munkát és gyakorlást is belerakott mellé, hogy _jól_ is tudjon úszni.
 
-A másik ok pedig a az, hogy egy ilyen "hozzáállás rendszer" mindig helyzettől függ.
+A másik ok pedig az, hogy egy ilyen "hozzáállás rendszer" mindig helyzettől függ.
 Lehet, hogy a sztoikusok például ráéreztek egy csomó jó dologra már olyan korán, de azért tettek mellé egy jó adag metafizikai katyvaszt is, ami miatt a mai emberek számára **egészében** elég nehezen fogyasztható.
 Ha viszont vesszük a fáradságot, hogy az alapelveket a saját korunk és igényeink szerint testre szabjuk, akkor nagyot léphetünk előre.
 És szerencsére ezen a blogon pont ezzel foglalkozunk... Nahát, micsoda egybeesés!
@@ -126,8 +126,8 @@ Hé, álljunk csak meg!
 Ha az _énem_ irányítja a figyelmemet, a _figyelmem_ formálja a tudatomat, és a _tudatom_ pedig hat az énemre, akkor az egy kör...
 Így van, és pont ez a jó benne, mert ettől lesz a folyamat vezérelhető!
 
-Ha a valami a céljainkat fenyegetni, akkor valamennyi mentális energiát mindenképp muszáj a veszélyforrásra fordítani, ami zavarhoz vezet.
-De fontos felismerni, hogy a külső események is csak információ, amit úgy szűrünk és értelmezünk, ahogy akarunk.
+Ha a valami a céljainkat fenyegeti, akkor valamennyi mentális energiát mindenképp muszáj a veszélyforrásra fordítani, ami zavarhoz vezet.
+De fontos felismerni, hogy egy külső esemény is csak plusz információ, amit úgy szűrünk és értelmezünk, ahogy akarunk.
 A külső tényezők önmagukban se nem jók, se nem rosszak; és különböző embereknek ugyanaz az esemény _nagyon_ mást is jelenthet.
 
 Másrészt viszont ha a bejövő infó jól illeszkedik a céljainkhoz, abból lesz a _flow_ állapot.
@@ -148,8 +148,9 @@ Még a puszta élvezet is csak arra jó, hogy helyreállítsa a rendet a fejünk
 Ezért lenne fontosabb az önmegvalósítás -- a szerző itt a "pleasure" és az "enjoyment" szavakat használja, ami magyarul mindkét esetben élvezet... úgyhogy az utóbbit én önmegvalósításnak címkézem.
 
 Az egyik leglényegesebb különbség az, hogy az önmegvalósítás menet közben nem feltétlen élvezetes, viszont utána egy "jobb" énhez vezet.
-A másik pedig az, hogy míg az élvezet nem igényel figyelmet és koncentrációt, az önmegvalósítás nagyon is sokat követel.
+A másik pedig az, hogy amíg az élvezet nem igényel figyelmet és koncentrációt, az önmegvalósítás nagyon is sokat követel.
 Hasonlíthatjuk ezt akár a szórakozásból olvasás és az alapos jegyzetelésen alapuló blog írás közti ellentéthez is.
+Nahát, mennyi párhuzam!
 
 Érdekes módon az önmegvalósítás közbeni élményeket az emberek hajlamosak szinte ugyanúgy jellemezni.
 Még akkor is, ha _nagyon_ különbözők tevékenységekről, vagy _nagyon_ eltérő szociális hátterű emberekről is van szó.
@@ -204,7 +205,7 @@ Az egyik legkézenfekvőbb út a flow-hoz talán az lenne, ha rendesen megtanuln
 > Minden érzékszerv és minden motor funkció felhasználható a flow előállítására.
 > > Each sensory organ, each motor function can be harnessed to the production of flow.
 
-A keleti kultúrák ebben a test-szellem egységben sokkal a nyugat előtt járnak.
+A keleti kultúrák ebben a test-szellem egységben messze a nyugat előtt járnak.
 A yoga például tekinthető az egyik legöregebb szisztematikusan flow-t előidéző tevékenységek egyikének.
 A végcél ott mondjuk teljesen más, mint amit itt szeretnénk -- az énünk teljes "feladása" -- de mindkettőhöz ugyanaz a szintű tudat-irányítási képesség kell.
 És ha az megvan, onnan már mi döntjük el, hogy mire is akarjuk használni.
@@ -218,7 +219,7 @@ Rengeteg mentális energiát bele lehet süllyeszteni az analitikus figyelembe, 
 > > Enjoyment, as we have seen, does not depend on what you do, but rather on how you do it.
 
 Nehéz szakértővé válni bármelyik fent felsorolt területen -- és amúgy is csak egy-kettőre lenne elég egy egész élet -- de amatőrök lehetünk!
-És más a korlátozott figyelem is végtelenszer több lesz, mint az eddigi nulla.
+És már a korlátozott figyelem is végtelenszer több lesz, mint az eddigi nulla.
 
 
 ## Elme
@@ -230,10 +231,10 @@ A legegyszerűbb példa erre az olvasás -- ahol igazából fapépre festett (va
 
 Az elme alapállapota sajnos a káosz.
 Amikor nincsenek ingerek, hogy irányítsák a gondolatainkat, azok elkezdenek mindenfelé cikázni.
-Ezért is lehetnek olyan népszerűek az olcsó figyelemelterelések, mint például a TV -- kívülről vezényli a figyelmünket, és így nem kell sem szembenézni magunkkal, sem erőfeszítést tenni, hogy rend legyen.
+Ezért is lehetnek olyan népszerűek az olcsó figyelemelterelések, mint például a TV -- kívülről vezénylik a figyelmünket, és így nem kell sem szembenézni magunkkal, sem erőfeszítést tenni, hogy rend legyen.
 
 Bármi mentálisnak a memória az alapja, hiszen először tárolni kellene valahol az információkat.
-Manapság nagyon el vagyunk kényeztetve az internettel, de pár évszázaddal ezelőttig az kb. mindennek a kulcsa volt az, hogy mire emlékeztél.
+Manapság nagyon el vagyunk kényeztetve az internettel, de pár évszázaddal ezelőttig kb. mindennek a kulcsa az volt, hogy mire emlékeztél.
 És attól, hogy most már nem (csak) erre kell alapozni a tanulást, továbbra is nagyon fontos.
 
 Ezután jöhet az absztrakt, szimbolikus gondolkozás, ami a letárolt információban összefüggéseket talál.
@@ -260,14 +261,14 @@ A könyv a vidéki életet hozza példának a munka és a szabadidő összeolvad
 Ha valaki "farmer", akkor annak erről szól az élete, az nem egy modern értelemben vett foglalkozás, hanem egy életforma.
 
 De jól kapcsolódik a városi környezetes, gyári munkásos példa is, ami bemutatja, hogy ez nem csak a tanyán lehet így.
-A megfelelő hozzáállással a futószalag mellett is lehet találni olyan apróságokat, amiken változtathatunk; és ha változtatunk is, akkor komplexebb és élvezhetőbbek lesznek a tapasztalataink.
+A megfelelő hozzáállással a futószalag mellett is lehet találni olyan apróságokat, amiken változtathatunk; és ha változtatunk is, akkor komplexebb és élvezhetőbbek lesznek az élményeink.
 Nem mellesleg ha tudatosan "költjük" a mentális energiánkat, sokkal inkább úgy fogjuk érezni, hogy mi választottunk (még ha csak a "hogyant" is, nem a "mit").
 
 Persze a munkás flow esélyeinket úgy is növelhetjük, ha állást váltunk.
 Vagy legalábbis áttervezzük a munkánkat, hogy jobban hajazzon a flow jellemzőire.
 De ez, habár néha segíthet, egy passzoló személyiség és látásmód nélkül valószínűleg nem fog működni; szóval továbbra is inkább magunkban keressük a választ!
 
-Ellentmondásosnak tűnhet, de sokak véleménye szerint a flow-t generáló munka is rosszabb, mint a nem flow generáló szabadidő.
+Ellentmondásosnak tűnhet, de sokak véleménye szerint a flow-t generáló munka is rosszabb, mint a _nem_ flow generáló szabadidő.
 Feltehetőleg mert a munkára mindig úgy gondolunk, hogy azt "muszáj", így még azt is lenézzük, ha sikerélményt okoz -- mert az úgyis más javát szolgálja, nem a miénket.
 De ez helyrebillenthető kellene, hogy legyen egy egyszerű (de nem _könnyű_) mentális átkattanással.
 
@@ -284,137 +285,105 @@ Tartozzunk ebbe a kisebbségbe!
 
 ## Társaság
 
-- our relationships with people are the other big factor in happiness (besides work)
-    - yet we need to be able to be alone effectively as well
-- the overarching tone on Chapter 8 about how everyone wants to avoid being alone is a little strange from an introvert perspective, but I guess this is what's more common
-    - de ezek szerint vagy _nagyon jó_ úton haladok, vagy _nagyon nem_...
-- we are social creatures (which has obvious evolutionary roots)
-    - studies consistently show that we're the happiest when included
-    - but relationships are usually also the causes of the worst depressions
-    - the rules of interactions are malleable, if we have the skills
+A munka mellett a boldogságunkat talán a másokkal való kapcsolataink befolyásolják leginkább.
+A szociális hajlamainknak egyértelműen evolúciós gyökerei vannak.
+Tanulmányok konzisztensen kimutatják, hogy boldogabbak vagyunk egy közösség részeként.
+De általában a kapcsolatainknak köszönhetjük a legmélyebb depresszióinkat is, szóval azért nem veszélytelen a terület.
+És emellett fontos, hogy hatékonyan tudjunk egyedül lenni is -- kinek melyik fele a nehezebb... Khmm, introvertáltak, ugye?
 
-
-- solitude is hard mostly because internal order is hard
-    - when we have external stimuli, it's easier to structure our time
-    - bearing solitude without boredom or mental entropy is a good indicator of control
+Az **egyedüllét** leginkább azért nehéz, mert a belső rend önmagában nehéz.
+Ha ennek ellenére a "magányt" unalom vagy mentális káosz nélkül tudjuk viselni, az jól mutatja, hogy tényleg a mi kezünkben van az irányítás.
 
 > Ha valaki örömét leli az egyedüllétben, az vagy egy vadállat, vagy egy isten.
 > 
 > -- Francis Bacon
 > > Whosoever is delighted in solitude is either a wild beast or a god.
 
-    - many make do with the bare minimum amount of inner discipline, which leads to cruise control for the rest of their lives
-    - _how_ we deal with solitude is very important (drugs/tv vs. reading/routine) --> it has to be voluntary, positively regarded, and complex
+De az sem mindegy persze, hogy _hogyan_ kezeljük az egyedüllétet.
+Mint ahogy az [Elme](#elme) szekcióban már néztük, a külső rendet ránk kényszerítő ingerekkel (TV, drogok) sokkal könnyebb a dolgunk.
+Ezekkel szemben az olvasás vagy a szigorú napirend viszont önkéntes, komplex, és pozitív megítélésű, így segíthet fejlődni... csak hát egy metrikus tonnányi meló van vele.
+A legtöbb ember megelégszik tehát a lehető legminimálisabb belső renddel.
+Még úgy is, ha ez sokszor az jelenti, hogy a hátralévő életük nagy részét robotpilótán fogják leélni.
 
+Bővítve a kört, a következő szint a **család**, ami napjainkban egyre inkább olyan lehet, amilyennek csak akarjuk.
+És habár a külső megkötések fokozatosan eltűnnek (és ez jó), a belső kompromisszumok köszönik szépen, jól vannak (és ez _nem jó_).
+Csak akkor remélhetünk bármi pozitívat, ha a "muszájból tűrés" helyett tudatosan döntünk, hogy ezt akarjuk -- amivel mellesleg egy csomó mentális energiát is felszabadítunk.
 
-- family is increasingly what we want it to be
-    - external constraints are disappearing, which is good
-    - internal acceptance of compromises is alive and kicking, which is not
-    - only making a conscious decision and sticking with it leads to anything enjoyable (and frees up a lot of mental energy in the process)
-    - generally, you reap what you sow
-        - if you put in enough time and attention to get to know the other person better (or formulate common goals, or find common activities) you relationship will be better
-    - regarding children, you should be an example, not just expect them to magically turn out fine
-        - providing unconditional love and a safety net instead of strict measurement according to your own values
-        - there have to be consequences, but concern should never be in question
+Általánosan igaz, hogy azt kapod, amit beleteszel.
+Ha időt és energiát áldozol a másik megismerésére, közös célok és elfoglaltságok kialakítására, a kapcsolatotok jobb lesz.
+Ha példát mutatsz a gyerekeidnek és nem várod el, hogy csak úgy maguktól varázsütésre rendben lesznek, akkor sokkal nagyobb az esélye, hogy tényleg rendben lesznek.
 
+A **barátságok** természetüknél fogva szórakoztatóbbak, mert általában eleve közös célokon vagy ízléseken alapulnak.
+Nincs elvárás, hogy egy bizonyos módon viselkedjünk, ezért nyugodtan "leereszthetünk" és adhatjuk magunkat.
+De ha igazi örömre és önmegvalósításra vágyunk a laza meló utáni sörözgetések helyett, akkor azért itt is bele kell tenni a munkát és a figyelmet.
+Gondoljunk csak arra, mennyire ritka, ha az ember felnőtt korára is meg tudja tartani a gyerekkori barátait.
 
-- friendships are more naturally "fun" because they are usually based on shared goals
-    - this is usually the context in which we can "let our hair down"
-        - every other area expects us to behave a certain way
-    - but they require the same kind of work to really provide enjoyment
-        - keeping a circle of friends into adulthood is very rare
+Ami pedig a szélesebb értelemben vett **közösséget** illeti, számtalan lehetőség van a komplexitásra -- és ezáltal az önfejlesztésre.
+Ha a céljaink önzetlenek (mondjuk segíteni szeretnénk másoknak, vagy példát szeretnénk mutatni), akkor szinte bármennyit "nőhetünk".
 
-
-- as for the wider community, complexity is all around
-    - if our goals are selfless (like helping others or providing an example), there's almost infinite chance at growth
-        - if, however, we do it for selfish, material reasons, it probably won't make us happy (even if we reach our goals) because those goals are usually much less complex --> less opportunity for flow
 
 
 
 ## Káosz
 
-- enhancing experience is not the icing on the cake, it _is_ the cake
-    - conditions are rarely ideal, but that doesn't mean that controlling ourselves is not the most important thing to strive for
-- hardships (while undeniably negative) are often also described as positive
-    - they help to show what's important, and eliminate the "noise"
-- how we deal with stress --> coping style
-    - plus external support + psychological resources, but these last two are not really under our control
-    - coping style = _mature defense_ (transformational coping, "the obstacle is the way") vs. _neurotic defense_ (regressive coping)
-- dissipative structures = systems that harness energy that would otherwise be lost
-    - our minds have to be like this to use any and all available resources to solve our problems
-    - 3 steps for transformational coping
-        - unselfconscious self-assurance
-        - focusing attention on the world
-        - the discovery of new solutions
-- my main takeaway here is that we don't necessarily have to wait for one of these "wake up calls" to reap the same benefits of having our values corrected and aiming for internal order instead of anything external
-- personality summary: choosing your own goals, developing the appropriate skills, cultivating concentration, getting rid of self-consciousness, being sensitive to feedback, getting involved
-    - wherever you start, it leads to the same flow
-    - and they help each other anyway
-    - interaction over self-interest
+A nézőpontváltás és az élményeink fejlesztése nem csak a hab a tortán; ez az egész torta.
+A külső körülmények ritkán lesznek ideálisak, de ez nem jelenti, hogy nem saját magunk irányítása a legfontosabb cél, ami felé törekedhetünk.
+A nehézségek -- habár tagadhatatlanul negatívak -- később mégis sokszor pozitív fényben látszanak mert megmutatták, mi az igazán fontos.
 
-### Quotes
+Nem mindegy tehát, hogyan kezeljük a stresszes helyzeteket; nevezzük ezt a megbirkózási stílusunknak.
+Lehet, hogy kapunk mellé külső segítséget is a családtól/barátoktól, de nem érdemes teljesen erre támaszkodni, mert ezeket ugye nem mi irányítjuk.
+A könyv két szélsőséges példája az "érett", átalakulás alapú védekezés (khmm... "Az lesz az út, ami az útban áll"), és a "neurotikus", visszahúzódás alapú védekezés.
+Szabad tippelni, melyik az ajánlott...
 
-as Dr. Franz Alexander has so well stated: “The fact that the mind rules the body is, in spite of its neglect by biology and medicine, the most fundamental fact which we know about the process of life.”
+Az élet által osztogatott sallerekből is ugyanúgy lehet felállni, ahogy általában élni kellene.
+Tűzzük ki a saját céljainkat, fejlesszük a kapcsolódó készségeinket, tanuljunk meg koncentrálni, győzzük le a félénkségünket, legyünk nyitottak a világ visszajelzéseire, és vessük bele magunkat!
+Mindegy, hogy hol kezdjük, mind egymást erősítik, és minden út a flow-hoz vezet.
+
+> Az, hogy az elme uralja a testet -- annak ellenére hogy ezt a biológia és az orvostudomány hajlamos figyelmen kívül hagyni -- az egyik legalapvetőbb tény, amit az életről tudunk.
+>
+> -- Dr. Franz Alexander
+> > The fact that the mind rules the body is, in spite of its neglect by biology and medicine, the most fundamental fact which we know about the process of life.
+
+A fő tanulság nekem itt az, hogy nem feltétlen kell megvárni, amíg a sors pofán nem töröl minket valami katasztrófával; felébredhetnénk akár most is.
+Rázzuk helyre az értékrendünket, törekedjünk a belső rendre a külső helyett, és zsebeljük be azt a jobb életet, ami ezzel jár!
+
+
+
 
 ## Élet
 
-- it is desirable to turn our whole lives into a big flow activity
-    - instead of moving from one kind of flow to the next (even if we can achieve flow)
-    - harmonious goals and overall purpose > piecemeal enjoyment and a disconnected set of achievements
-- life doesn't have a default, built-in, one size fits all meaning
-    - but that shouldn't mean that life can't be _given_ meaning
-- the meaning of life is _meaning_, where the 3 meanings of "meaning" are:
-    - end, purpose, significance, goal (what is the meaning of life?)
-    - intentionality (someone means to do something)
-    - ordering information, relationships (red sky in the evening means good weather in the morning)
-- using these (purpose, resolution, harmony), one should
-    - find a purpose that unifies one's goals,
-    - translate that purpose into intentional action,
-    - and (through the first two) find harmony
-        - no more cognitive dissonance --> inner congruence --> inner strength and serenity
-        - feelings, thoughts, and actions are all congruent with each other
-- societal meaning systems can be divided into cyclical epochs, and in each one, a different set of priorities justify the goals of existence
-    - sensate - satisfy the senses, utilitarian, focuses on _concrete_ needs
-    - ideational - focuses on _abstract_ principles, asceticism, transcendence
-    - idealistic - the golden middle road, trying to combine the positive aspect of material and ideational systems while avoiding their pitfalls
-        - purely materialistic views vs. fanatic asceticism
-- another way of categorization is by complexity
-    - a complex sensate view is better than an unreflective idealism, and vice versa
-    - differentiation (nodes in the graph, inward attention) + integration (edges, outward attention) are both needed
-    - complexity spiral (with alternating inward/outward attention)
-        - survival (inward)
-        - community (outward)
-        - reflective individualism (inward)
-        - unity with universal values (outward)
-- you have to pay the price
-    - at first, the goal justifies the effort, but later, the effort (so far) justifies the goal
-- two possible paths to harmony
-    - active life: chasing a goal so single-mindedly, that everything else seems to lose its importance
-        - indirect way to prevent inner chaos
-        - postponed (or ignored) goals may come back to haunt later
-    - contemplative life: reflection, weighing of options and consequences
-        - direct way to prevent inner chaos
-        - without action, however, reflection is "impotent"
-- less complex systems might be ordered by default, but it's too late for us
-    - chaos is inherent in our complex consciousness
-    - we just have to _make_ our order (as opposed to having it imposed on us)
-- authentic vs. inauthentic life themes
-    - again, analogues to intrinsic vs. extrinsic motivation
-    - another way to see it: discovered vs. accepted life scripts
-    - each way has drawbacks, however:
-        - accepted is only as good as the script you're given
-        - discovered may be too incompatible with others'
-- there are so many sources (teachers, books, models) of how harmony can be imposed on chaos (art, philosophy, religion)
-    - ignoring it is like reinventing the wheel
-- the main problem of our time can be thought of as too much differentiation and not nearly enough integration
-    - this is what's destroying the planet
+A legmagasabb szint az lenne, ha az egész életünket egy nagy flow élménnyé tudnánk alakítani.
+Ahelyett, hogy bolyonganánk egyik kis, elkülönült flow tevékenységtől a másikig -- már ha egyáltalán sikerül is elérnünk a flow-t -- találnunk kellene egy harmonikus, átfogó célt, ami kb. minden tettünket összefoghatná.
+Az életnek nincs egy beépített, egy kaptafára készült "értelme", de ettől mi még _adhatunk_ értelmet a sajátunknak!
 
+Ha találunk egy ilyen átívelő célt, és annak érdekében szándékos lépéseket teszünk, akkor akár lótuszpózban hümmögés nélkül is rálelhetünk a belső békénkre.
+Nem lesz több kognitív disszonancia -- vagyis amikor mást csinálunk, mint amit amúgy helyesnek tartanánk -- és ez meglepő mértékű erőhöz és nyugalomhoz vezet.
 
-### Quotes
+A társadalomnak is vannak ilyen alapértelmezett "élet értelme" rendszerei, amik egyes kutatások szerint körkörösen váltogatják egymást.
+Az "érzéki" kultúrák csak a kézzel fogható, konkrét igényekre fókuszálnak, míg az "eszmei" kultúrák az absztrakt elvekre, az aszketizmusra és a "megvilágosodásra".
+A kettő között pedig az "idealisztikus" próbálja belőni az arany középutat -- és jogosan, mert sem a túl materialista, sem a túl fanatikus önsanyargatás nem _ideális_.
 
-Few things are sadder than encountering a person who knows exactly what he should do, yet cannot muster enough energy to do it.
+Egy másik csoportosítás is lehetséges a komplexitás mentén, ahol megoszlik a befelé irányuló _specializáció_ és a kifelé irányuló _integráció_ bonyolultsága.
+Ezek segítségével az ember fejlődése leírható egy spirállal, ahol váltakozik a be- vagy kifelé forduló figyelem.
+Először a túlélésért küzd (be), aztán a közösséggel együtt fejlődik tovább (ki); majd visszafordul az önfejlesztés felé (be), hogy végül újra a másokkal való egység felé haladhasson (ki).
+Megjegyezném, hogy az elmúlt pár száz év problémái szépen összefoglalhatók úgy, hogy túl sok a specializáció (ipari forradalom, űrutazás, elektromos konzervnyitó!), és túl kevés az integráció (nem csak emberek léteznek, vigyázni kellene az egyetlen bolygónkra, **ne** dögöljön már meg a szomszéd tehene is!).
 
-Action by itself is blind, reflection impotent.
+Ha megvan az irány, két úton is elindulhatunk felé.
+Az aktív élet során olyan csőlátással haladunk a célba, hogy minden más szinte értelmét veszti.
+Ez a közvetett módja a káosz kordában tartásának, és az elhalasztott vagy figyelmen kívül hagyott dolgok később még visszajöhetnek kísérteni.
+A másik az elmélkedő élet, ahol befelé fordulunk, illetve lehetőségeket és következményeket mérlegelünk.
+És habár ez a _közvetlen_ módja a káosz "menedzselésének", akció nélkül nem sokat fog érni...
+
+> A tett önmagában vak, az önvizsgálat viszont impotens.
+> > Action by itself is blind, reflection impotent.
+
+Felmerülhet, hogy "De miért ilyen nehéz ez?!"
+Hát, sajnos ezt "nyertük" a fejlődéssel.
+Lehet, hogy a bennszülött törzsek tagjainak nem kell ilyeneken agyalniuk két vadászat között, de nekünk már nincs visszaút.
+
+A komplex tudatunkat óhatatlanul is nehezebb rendben tartani, de ez nem ment fel minket az alól, hogy megpróbáljuk.
+Szerencsére ezzel a témával az elmúlt néhány ezer évben már elég sokan foglalkoztak -- ezekről nem tudomást venni kb. olyan lenne, mint a kereket újra feltalálni.
+Szóval ha már annyi forrás (tanárok, könyvek, mentális modellek) létezik arról, hogy hogy is teremtsünk harmóniát a káoszban, használjuk őket!
 
 
 
@@ -422,3 +391,19 @@ Action by itself is blind, reflection impotent.
 
 
 
+## Összefoglalás
+
+Ha egy idézetben akarnám összefoglalni a könyvet, akkor az valószínűleg ez lenne:
+
+> Az önuralom a legnagyobb uralom.
+>
+> -- Seneca
+> > Imperare sibi, maximum imperium est.
+
+Láthattuk, hogy mitől lehetünk igazán boldogok, és hogy az milyen hozzáállást, lépéseket, és körülményeket igényel.
+Láthattuk utána azt is, hogy ezeket az elveket hogy alkalmazhatjuk a testünkre, az elménkre, a munkánkra, a társasági életünkre, vagy akár a nehézségekkel való megbirkózásra.
+Végül összefontuk mindezt egy koherens egésszé, hogy szaggatott rend-foszlányok helyett általános rend legyen.
+Ennyi információval felvértezve viszont már tényleg nálunk pattog a labda, mert:
+
+> Kevés szomorúbb látvány van, mint egy ember, aki pontosan tudja, mit kellene tennie, és mégsem képes rávenni magát, hogy azt tegye.
+> > Few things are sadder than encountering a person who knows exactly what he should do, yet cannot muster enough energy to do it.
