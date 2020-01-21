@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Csíkszentmihályi Mihály - Flow
-date:   2020-01-18 14:00
+title: Csíkszentmihályi Mihály - Flow
+pages: 303
+date: 2020-01-18 14:00
 ---
 
 A [Simon Blackburn]({% post_url 2020-01-07-simon-blackburn-think %})-féle durván absztrakt filozofálás után úgy gondoltam, kész felüdülés lesz visszakanyarodni kicsit praktikusabb vizekre.

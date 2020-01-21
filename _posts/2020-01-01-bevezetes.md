@@ -96,8 +96,8 @@ Tudok viszont a dolgok tudásáról egy keveset.
 ## Ez... nem is hangzik olyan rosszul.
 
 Ugye?! Örülök, hogy egyetértünk.
-Ebben az esetben nyugodtan iratkozz fel (akár az [RSS-re]({{ 'feed.xml' | relative_url }}), akár email-lel a lenti űrlapon) vagy látogass vissza rendszeresen friss tudásmorzsákért!
-A [hello@preprocessor.hu](mailto:hello@preprocessor.hu){:target="_blank"} mail címen pedig szívesen fogadok bármilyen jellegű visszajelzést!
+Ebben az esetben nyugodtan iratkozz fel (akár az [RSS]({{ 'feed.xml' | relative_url }})-re, akár email-lel a lenti űrlapon) vagy látogass vissza rendszeresen friss tudásmorzsákért!
+A kapcsolódó közösségi oldalakon ([Facebook]({{ site.facebook }}){:target="_blank"}, [Twitter]({{ site.twitter }}){:target="_blank"}) vagy [email](mailto:hello@preprocessor.hu){:target="_blank"}-ben pedig szívesen fogadok bármilyen jellegű visszajelzést!
 
 Na tornáztassuk azokat az agytekervényeket!
 

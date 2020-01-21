@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Viktor Frankl - ...mégis mondj igent az életre!
-date:   2020-01-21 18:00
+title: Viktor Frankl - ...mégis mondj igent az életre!
+pages: 161
+date: 2020-01-21 18:00
 ---
 
 Nem is kérdés, hogy az eddig olvasott könyvek közül [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) volt rám a legnagyobb hatással.
