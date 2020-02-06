@@ -4,9 +4,9 @@ title: Steven Pressfield - A művészet háborúja
 pages: 168
 date: 2020-02-04 23:00
 excerpt: >
-    A mai bejegyzés tárgya [A művészet háborúja](https://www.goodreads.com/book/show/1319.The_War_of_Art){:target="_blank"} Steven Pressfield-től, ami egy rövid, de annál hatásosabb kis szösszenet a minden kreatív alkotó tevékenységet megtámadó _Ellenállásról_ és annak legyőzéséről.
+    A mai bejegyzés tárgya egy rövid, de annál hatásosabb kis szösszenet a minden kreatív alkotó tevékenységet megtámadó _Ellenállásról_ és annak legyőzéséről.
     Érdemes megjegyezni, hogy a cím egy szóvicc, hiszen pont a fordítottja Szun-ce híres "A háború művészete" elnevezésű stratégiai kötetének.
-    Szun-ce-vel ellentétben azonban itt nem a háborút akarjuk művészi módon vívni, hanem magáért a művészetért vonulunk háborúba.
+    Szun-ce-vel ellentétben azonban itt nem a háborút akarjuk művészi módon vívni, hanem magáért a művészetért vonulunk háborúba...
 ---
 
 
@@ -235,7 +235,7 @@ Annyiban viszont nem, hogy ezek mellett jó pár olyan meglátásba is belebotlo
 
 Például az Ellenállás részben a fő jutalmunk szerintem nem az ellenállás jellemzése, hanem a _megszemélyesítése_.
 Körvonalazott karakterként -- akár _gamer_ szóhasználattal élve "főellenségként" -- tekinthetünk rá, ami nagyban megkönnyíti az ellene vívott harcot.
-Az Professzionális elveknél nekem személy szerint a céges hozzáállás és önmagunk "alkalmazása" okozott egy kisebb mentális átrendeződést, amit nagyra értékelek, és igyekszem majd hatékonyan kihasználni.
+A Professzionális elveknél nekem személy szerint a céges hozzáállás és önmagunk "alkalmazása" okozott egy kisebb mentális átrendeződést, amit nagyra értékelek, és igyekszem majd hatékonyan kihasználni.
 Az Ihlet szekcióban pedig a hierarchikus vs. territoriális metafora ütött erőset.
 Nem is feltétlen azzal, hogy olyan nagy újat mond, hanem hogy -- legalábbis számomra -- olyan új megvilágításba helyez ismert dolgokat.
 
