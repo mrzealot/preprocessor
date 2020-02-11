@@ -29,12 +29,12 @@ A lefedett téma nem kevesebb, mint az egész emberi faj sorsának alakulása, a
 
 1. [A kognitív forradalom](#a-kognitív-forradalom) -- avagy hogy lettünk állatokból ősemberek;
 2. [A mezőgazdasági forradalom](#a-mezőgazdasági-forradalom) -- avagy hogy lettünk ősemberekből "modern" emberek;
-    - 2,5. pontnak mondható a [Globalizáció](#globalizáció) -- avagy hogy lettünk sok elszigetelt embercsoportból egy nagy "nép"; és végül
+    - 2,5. pontnak mondható [Az emberiség egyesülése](#az-emberiség-egyesülése) -- avagy hogy lettünk sok elszigetelt embercsoportból egy nagy "nép"; és végül
 3. [A tudományos forradalom](#a-tudományos-forradalom) -- avagy hogy lettünk emberekből istenek.
 
 Mindeközben trendeket fedezünk fel, alaposabban megismerjük magunkat, és remélhetőleg tanulunk a hibáinkból.
 
-
+<br />
 
 
 
@@ -75,6 +75,8 @@ Van, aki ezt összeolvadással vagy egyéb független tényezőkkel magyarázná
 > A tolerancia nem a Sapiens védjegye.
 > > Tolerance is not a Sapiens trademark.
 
+<br />
+
 A hirtelen megtáltosodásunk pedig nem másnak köszönhető, mint egy "kognitív robbanásnak": a Sapiens nyelvi képességei idővel messze túlszárnyalták a konkurenciát.
 A nagyobb kifejezőerő miatt pontosabb információ áramlást tett lehetővé, és a csoportokat összetartó szociális "pletykálkodás" is sokat nyomott a latba.
 De a legfontosabb mégis a fikció, vagyis hogy képesek voltunk olyan dolgokról beszélni -- és _hinni benne_ -- amik nem léteznek!
@@ -90,6 +92,8 @@ Egy sikeres üzletember pedig tulajdonképpen egy sámán, csak ő még furcsáb
 A képzelt mítoszok által vadidegenek is könnyen együtt tudtak működni, és ez egy "kulturális előzősávot" nyitott, ahol lehagyhattuk a lassú evolúciós tempóban haladókat.
 A csimpánzok nem tudják lemondatni az alfa hímet, hogy innentől legyen demokrácia... de mi igen.
 
+<br />
+
 Az ekkori életmódról konkrét leletek hiányában elég nehéz bármit is magabiztosan állítani, de valamilyen szinten próbálkozni mégis érdemes, mert a vékony civilizációs réteg alatt még ma is ugyanez a program ketyeg a fejünkben.
 Kajából a gyűjtögetők például ösztönösen bezabáltak, ha volt, mert ki tudta, meddig lesz; nem csoda, hogy a bőség korában annyit diétázunk.
 Család és szexualitás terén inkább a közösségi, "mindenki mindenkivel" volt a divat; nem csoda tehát az sem, hogy annyit járunk pszichológushoz.
@@ -99,13 +103,15 @@ Specializálódás helyett általános tudás -- és jelentős fizikai fittség 
 Vallás szempontjából az _animizmus_ volt a jellemző, vagyis kb. mindennek lelke van, nincs hierarchia, és szabad a kommunikáció.
 Az ennél részletesebb teóriák leginkább csak a saját nézőpontjaink belemagyarázása a _nagyon kevés_ bizonyítékba.
 
+<br />
+
 A korszak másik nagy áttörését az jelentette, hogy végre el tudtuk hagyni a Afro-Ázsiai kontinenst.
 Először Ausztráliába, aztán -- Szibérián keresztül, akkor még gyalog -- Amerikába, majd szépen sorban kb. mindenhova eljutottunk, ugyanazzal a forgatókönyvvel.
 Az evolúció nem bírt velünk lépést tartani, felborítottuk az ökoszisztémákat, és kihalásba kergettük a növény- és állatvilág felét.
 Ez volt az _első_ irtás, amit a mezőgazdasági forradalommal -- mint látni fogjuk -- tulajdonképpen megismételtünk.
 Ha ezt többen felérnék ésszel, akkor talán nem szarnának olyan magasról a harmadik körre, amit épp most csinálunk.
 
-
+<br />
 
 
 
@@ -175,6 +181,8 @@ Kitaláltunk például egy csomó mindent az időnyerésre, és aztán annál ke
 > A történelem kevés alapszabálya közül az egyik, hogy a luxusból szükséglet lesz, ami új kötelezettségekhez vezet.
 > > One of history's few iron laws is that luxuries tend to become necessities and to spawn new obligations.
 
+<br />
+
 Együtt járt ez egy pszichológiai forradalommal is, ahol a "mi területünk"-ből egyre inkább az "én házam" lett, a jelenből pedig a jövő felé fordulás.
 A hosszútávú tervezés azonban nem nagyon jött be a parasztoknak, mert mindig kialakult valami elit réteg, akik lefölözték a felesleget, hogy ők politizálhassanak, háborúzhassanak, művészkedhessenek, vagy filozofáljanak.
 Az egyre nagyobb szabású együttműködéshez pedig egyre fontosabbá váltak a közös mítoszok.
@@ -194,54 +202,37 @@ Egy ilyet pedig csak úgy lehet megdönteni, ha teszünk valami mást -- valami 
 > A képzeletbeli rendszerekből nincs kiút. Amikor kitörünk a börtönünk falai közül és a szabadság felé futunk, igazából csak egy még tágasabb börtön udvarára futunk ki.
 > > There is no way out of the imagined order. When we break down our prison walls and run towards freedom, we are in fact running into the more spacious exercise yard of a bigger prison.
 
+<br />
 
+Mivel szinte mindenünk képzeletbeli sztorikon alapul, ezekre nem ártana emlékezni is -- ami viszont egy idő után nem skálázható.
+Az agyunk evolúciója során a növények, az állatok, a környezetünk, és a szociális viszonyok megfigyelése volt a lényeg.
+A komolyabb mértékű együttműködéshez elengedhetetlen nyers adattárolás _nem_ -- ezért a nagyobb rendszerek mind be is borultak.
+Így ment ez egészen 5000 évvel ezelőttig, amikor is a sumérok felfedeztek egy agyon kívüli adattárolási rendszert: az írást.
 
-- mivel szinte mindenünk képzeletbeli sztorikon alapul, ezekre nem ártana emlékezni is
-    - és ez egy idő után nem skálázható
-- akiknek megy nagy számok mellett is (hangyák), azoknál ez beléjük van kódolva
-    - nálunk is biztos van beépített ez-az, de a komplex szociális dolgainknak ehhez semmi köze
-    - azokra folyamatosan emlékeztetnünk kell magunkat!
-- és erre pedig nagyon nem alkalmas az agyunk (ami évmilliókig az egyetlen lehetőségünk volt)
-    - limitált a kapacitás
-    - meghalunk (és az átadás alatt kb. "kopna", mint a VHS)
-    - nem erre fejlődött!
-        - a növények, állatok, a környezetünk, és a szociális viszonyok megfigyelése volt a lényeg, ezért ebben vagyunk jók
-        - a számok soha nem nagyon számítottak, ezért abban nem
-        - és hát sok szerencsét, ha számok nélkül akarsz egy komplex politikai/gazdasági rendet fenntartani
-- úgyhogy a nagyobb rendszerek mind beborultak
-    - egészen 5000 évvel ezelőttig, amikor is a sumérok felfedeztek egy agyon kívüli adattárolási rendszert: az írást
-- igaz, ezek először csak részleges írásmódok voltak
-    - vagyis nem fedték a teljes beszélt nyelvet, de ezt akkoriban senki nem is hiányolta
-    - amit tudnia kellett (tranzakciók, adók, ilyesmik rögzítése), azt tudta frankón
-- fokozatosan azért persze lettek teljes szkriptek is
-    - de ami ennél fontosabb, hogy katalogizálási rendszerek kellettek, hogy bármi is visszakereshető legyen
-    - meg kellett tanulni az emberi "holisztikus", szabad asszociáció alapú gondolkodást "gépiesre" cserélni
-- a legnagyobb áttörést pedig az arab számok hozták
-    - amik igazából hindu származásúak, csak az arabok terjesztették el
-    - ezekkel, meg egy-két extra jellel mint az összeadás/kivonás, egy nagyon kifejező és logikus nyelvet kaptunk
-- a mai digitalizálódás során már csak a 0 és az 1 maradt, mint a legfontosabbak
-    - eleve a szó "digitális" a számjegy szóból ("digit") jön
-- csak majd arra figyeljünk itt is, hogy mi uraljuk a rendszert, és ne a rendszer uraljon minket!
+Kellett ugyan módosítani az emberi "holisztikus", szabad asszociáció alapú gondolkodásunkon, hogy egy kicsit "gépiesebb" legyen, de a tranzakciók, adók, és ilyesmik rögzítéséhez ez volt az alkalmas.
+Előkészítette továbbá a terepet az arab számoknak, amik -- egy-két műveleti jellel karöltve -- egy nagyon kifejező és logikus nyelvet adtak a kezünkbe.
+Ezekből ma már leginkább csak a **0** és az **1** számít, de azok viszont fontosabbak, mint bármi más.
 
+<br />
 
-
-
-
-
-
-
-
-
-
-
-> A nemi identitás egy olyan verseny, ahol a versenyzők fele eleve csak a bronzért indulhat.
-> > Gender is a race in which some of the runners compete only for the bronze medal.
-
-
-
-Szívmelengető ördögi kör, amikor azért nem kapsz megbecsült állást, mert egy lenézett társadalmi rétegbe tartozol; és azért nézik le a társadalmi rétegedet, mert onnan szinte senkinek nincs megbecsült állása...
-
+A hierarchikus megkötések mindig megjelennek a társadalomban, csak épp mindig máshogy -- ami jól mutatja, hogy semmi "természetes" nincs bennük, csak akkor épp ezt találták ki.
 Lehet, hogy ma épp nem divat rassz alapján bekorlátozni, hogy "egy fekete nem lakhat itt"... De azt meg érdekes módon nem furcsálljuk, hogy vannak környékek, ahol "csak gazdagok lakhatnak".
+Akárhogy is, a nagy együttműködéseknél kellenek a szociális jelek, hogy kivel hogy kell bánni, ki hol van a ranglétrán a másikhoz képest, stb.
+
+Arra vigyázzunk csak, hogy a "szimplán így alakult" részt jó alaposan elfedjük a közvélemény elől, nehogy a szolgák véletlen elvágják a torkunkat éjszaka.
+Az amerikai rabszolgáknál is megvan például a teljesen logikus, gazdasági magyarázata, hogy miért Afrikából érte meg nekik "importálni", de emellett azért mosni akarták kezeiket.
+Kitaláltak ezért egy csomó baromságot, hogy a "negrók" nem olyan intelligensek vagy morálisak, tisztátalanok, betegségeket terjesztenek, vallásilag más családfáról származnak, akiknek ez a sors az átkuk, stb.
+És ezek a "mesék" sajnos még a rabszolgaság eltörlése után is sokáig megmaradtak az emberek fejében.
+
+Így alakultak ki olyan szívmelengető ördögi körök, mint mondjuk amikor azért nem kapsz megbecsült állást, mert egy lenézett társadalmi rétegbe tartozol; és azért nézik le a társadalmi rétegedet, mert onnan szinte senkinek nincs megbecsült állása...
+Ez egyáltalán nem egyedi eset: a véletlenszerű történelmi esemény által teremtett erőviszonyok gyakran olyan igazságtalan világrendhez vezetnek, amik idővel önmagukat erősítik.
+Többek közt ezért érdemes történelmet _is_ tanulni, mert a biológia nem magyarázza a hatalmas szakadékokat egyes embercsoportok között.
+
+Jó ökölszabály az ilyenek felfedésére, hogy "a biológia lehetővé tesz, a kultúra megtilt".
+A köznyelvben a "természetest" a kultúra alapján értelmezzük, ezért beszélhetünk olyan sokat arról, ami nem természetes -- mint például régebben arról, hogy egy nő is szavazhasson.
+Érdekes módon azt semelyik kultúra nem tiltja meg, hogy fotoszintetizáljunk... Na _az_ tényleg természetellenes lenne, de ezért lehetetlen is.
+
+<br />
 
 
 
@@ -249,157 +240,98 @@ Lehet, hogy ma épp nem divat rassz alapján bekorlátozni, hogy "egy fekete nem
 
 
 
-## 8. fejezet -- Nincs igazság a történelemben
-
-- a hierarchikus megkötések mindig megjelennek a társadalomban
-    - mindig máshogy, ami jól mutatja, hogy semmi "természetes" nincs benne, csak akkor épp ezt találták ki
-    - lehet, hogy ma nem divat rassz alapján bekorlátozni, hogy "egy fekete nem lakhat itt"
-        - de azt meg érdekes módon nem furcsálljuk, hogy "itt csak gazdagok lakhatnak"
-    - nagy együttműködéseknél kellenek a szociális jelek/tippek, hogy kivel hogy kell bánni, ki hol van a ranglétrán a másikhoz képest, stb.
-- de ezt az "így alakult" részt persze el kellett fedni, nehogy a szolgák véletlen elvágják a torkunkat éjszaka
-    - ezért kaszt rendszerekben a "tisztaság" megőrzése és a keveredés tiltása gyakran visszaköszön
-- az amerikai rabszolgáknál is megvan a teljesen logikus, gazdasági magyarázata, hogy miért Afrikából érte meg nekik "importálni"
-    - de emellett azért mosni akarták kezeiket, és kitaláltak egy csomó baromságot, hogy
-        - a "negrók" nem olyan intelligensek vagy morálisak, tisztátalanok, betegségeket terjesztenek, vallásilag más családfáról származnak, akiknek ez a sors az átkuk, stb.
-    - és miután már el is törölték a rabszolgaságot, ezek a "mesék" még sokáig megmaradtak az emberek fejében
-- így lett egy menő kis ördögi kör
-    - nem kapott jobb állást, mert "csak" egy fekete
-    - jogosan nézzük le a feketéket, hát nézd meg, szinte egyiknek sincs jó állása
-- és ilyen körök máshol is könnyen kialakulhatnak
-    - egy véletlenszerű történelmi esemény egy erőviszonyhoz vezet
-    - ebből a status quo-ból "világrend" lesz a meséink által
-    - az erőviszony miatt az elnyomottaknak nincs is nagyon esélye ezen változtatni
-    - és idővel egyre csak jobban belemélyülünk a helyzetbe
-- ezért kell történelmet _is_ tanulni
-    - mert a biológia nem magyarázza a hatalmas szakadékokat egyes embercsoportok között
-- a kasztok, a rassz, vagy a vagyon "választhatóak", de a nem nem (ééérted?!)
-    - és oké, itt már tényleg van objektív biológiai különbség
-    - de ahhoz azért nem kicsit hozzátesz a mindenkori kultúra sajátos értelmezése
-- a biológia lehetővé tesz, a kultúra megtilt
-    - a köznyelvben a "természetest" a kultúra alapján értelmezzük, és nem a biológia alapján
-    - semelyik kultúra nem tiltotta meg, hogy fotoszintetizáljunk... na _az_ tényleg természetellenes lenne, de ezért lehetetlen is :)
-    - különben is, mi az, hogy természetellenes viselkedés? egy csomó szervünk nem azt csinálja, mint amire eredetileg kifejlődött
-- és ne keverjük a biológiát (hím/nőstény) a társadalmi szerepekkel (férfi/nő)
-    - oké, a nők nagy többsége nőstény, a férfiak nagy része pedig hím
-    - de a férfi/nő címkével elég sok egyéb kapcsolt tartozék is jár
-- de valamiért csak jobb férfinak lenni (akármit is jelentsen az az adott kultúrában)
-    - nem lehet véletlen, hogy a történelem során szinte minden kultúra patriarchális (egymástól függetlenül is!)
-    - van több teória is, egyik sem teljesen meggyőző
-        - izomerő? --> nope, a hierarchiáink sokkal inkább szociális jellegűek
-        - aggresszió? --> nope, a vezetők attól lehettek volna nők, hogy a katonák férfiak
-            - sőt, sok "sztereotipikusan női" tulajdonság pont olyan, ami egy stratégának kell (manipuláció, empátia)
-        - szelektív gének? (értsd, a férfiakból a legkompetitívebbek maradtak fent [mert ők párosodhattak], a nőkből a legszelídebbek [mert akkor segített nekik a férfi a gyerekkel]) --> nope, ez más fajoknál pont matriarchális társadalmakhoz vezet!
-    - szal azt tudjuk, hogy nem tudjuk... de manapság elég nyaktörő iramban folyik a változás, úgyhogy majd meglátjuk, hova vezet.
 
 
 
 
 
 
-# 3. rész -- Az emberiség egyesülése
 
-## 9. fejezet -- A történelem nyila
 
-- a mezőgazdasági forradalom utáni szakasz az egyre nagyobb tömegek, és egyre komplexebb összetartó mesék színtere
-- a 20. században sokáig úgy vélték, hogy a kultúrák állandó dolgok, amik legfeljebb külső behatásra változnak
-    - mára már világos, hogy pont ellenkezőleg
-    - igen, külső hatás is változtathat, de a belső dinamika is folytonos változásokhoz vezet
-        - minden emberi rendszer hemzseg a belső ellentétektől, ami ezt hajtja
-- a Francia forradalom óta a világ nagy részén fő értékek a szabadság és az egyenlőség
-    - de ezek eleve ellentétben állnak egymással, és most is ezt próbáljuk valahogy összeegyeztetni
-    - a liberálisok annyira a szabadságot kergetik, hogy közben az egyenlőségen taposnak (Dickens)
-    - a kommunista egyenlőségre törekvés meg kb. szarik a szabadságra (Solzhenitsyn)
-    - ugyanez napjaink Amerikájában a demokrata vs. republikánus pártokkal
-- ez a kognitív disszonancia (hogy ellentmondásos elveket vallunk) nem feltétlen rossz
-    - ez az ellentét hajtja a kultúrát előre
-    - és igen, mondhatjuk, hogy "előre", mert a történelem az emberi egység felé halad
-        - lehet, hogy ez nem mindig látszik (progress is never linear!), de ha elég távoli szemszögből nézzük, akkor látszik az
-    - jól látszik ez abból pl. hogy hány "izolált világ" van a világunkon belül
-        - ami ezrekről százakra csökkent, aztán tizenekre, mára pedig már csak egy van
-        - igen vannak különbségek, országok, kultúrák, stb.
-        - de mindenki ugyanazzal a fogalomrendszerrel dolgozik, nem vagyunk már izoláltak!
-- evolúciós berögződés, hogy vagyunk "mi" és "ők"
-    - és ez csak nagyon "mostanában" kezdett megváltozni
-    - három univerzális rend (és egyben a következő 3 fejezet):
-        - kereskedők (pénz, egy piac, mindenki potenciális vevő)
-        - hódítók (birodalom, egy nemzet, mindenki potenciális alattvaló)
-        - próféták (vallás, egy igazság, mindenki potenciális hívő)
 
-## 10. fejezet -- A pénz szaga
 
-- még egy hódítási vagy vallási szakadék két oldalán lévő embercsoportot is zökkenésmentesen összekötött a pénz
-    - szóval bizonyos szemszögből ez a legerősebb faktor a háromból
-- kezdetben a kis csoportokban mindenki értett mindenhez, ezért sokkal függetlenebb volt
-    - jó, persze lehettek mindenkinek különleges tehetségei, de azért annyira nem, hogy csak azzal foglalkozzon
-- de ahogy egyre nőttek a városok, a belső és a köztes csere-bere is egyre jobban lehetővé tette a specializálódást
-    - a specializálódással annyi volt csak a baj, hogy idegenek, tömegek, és egyre komplexebb termékek körében a cserekereskedelem már nem volt elég jó
-    - nem csak a váltási rátákat kellene tudni minden termékpárra (ami már önmagában rengeteg), de a cseréhez első sorban az sem ártana, ha mindkét fél akarná is a cserét. Na most ha te almával házalsz, cipőt akarsz, és a cipész utálja az almát, akkor mezítláb maradsz?
-- erre találták ki a "pénz" fogalmát
-    - aminek semmi köze az érmékhez vagy bankjegyekhez, amivel jelképezzük!
-    - ez is olyan "inter-szubjektív", mint bármelyik képzeletbeli rendszer
-    - régebben kagylók vagy jószágok is lehettek, börtönökben vagy koncentrációs táborokban cigiszálak (ahogy Frankl bácsi is mesélte)
-    - a pénz gyakorlatilag az univerzális váltóeszköz, ami a vagyon tárolására is alkalmas
-    - nélküle nem jöhettek volna létre ekkora, ilyen komplex, és ilyen dinamikus gazdaságok
-- a pénz alapja a bizalom (fiat --> legyen hát)
-    - de ehhez elég sok "kondícionálás" kellett, úgyhogy régebben még olyanok lehettek csak pénzek, amiknek magukban is értékük volt
-    - először kellett a suméroknál az árpa, hogy eljuthassunk a mezopotámiai ezüst shekel-ig
-- még ha különböző rendszerek is voltak kezdetben, a kereskedés kb. mindent kiegyenlített
-    - kereslet-kínálat egyensúlyba hozta az arany értékét
-- azért hathatott birodalmi és vallási határokon keresztül, mert a pénz nem kérte tőlünk, hogy higgyünk valamiben
-    - csak azt kellett elhinni, hogy a másik hisz benne
-- az árnyoldala az, hogy így már szinte semmi nem marad "szent"
-    - hűség, becsület, emberi kapcsolatok --> mind veszélybe kerülnek a hideg, számító piaci hatások miatt
-- de azért ha valaki elég kemény, felrúghatja az egész rendszert, úgyhogy most nézzük a hódításokat is
 
-## 11. fejezet -- Birodalmi vízió
 
-- Numantia példa -- annyira teljesen elverték őket, hogy az emlékük is csak a győztesek jóvoltából maradhatott fenn
-    - mert tudták, hogy a római nép szereti a "szabadságszerető barbárok" történeteit
-    - Rómából viszont megmaradt a nyelv, a vallás, az építészet, a jogi dolgok, stb. stb.
-    - a lényeg, hogy a birodalmak azok, amiknek hagyatékuk lesz, és kb. mindannyian valami ilyesmiben élünk
-- a birodalmaknak igazából az volt a jelentős szerepe, hogy egyre több és több etnikailag és kulturálisan különböző régiót "csiszoljon össze"
-    - mondhatjuk rájuk, hogy olvasztótégelyek, amik ha egyszer bekebeleznek egy népet, az onnan valószínűleg nem kerül ki többet
-    - mármint a birodalom persze előbb vagy utóbb összeomlik... de a bekebelezett nemzeti identitás addigra már nem létezik, csak az ex-birodalom lakói (akikre általában csak egy új birodalom várt...)
-- nagy a különbség a korai hódító királyok és a "császárok" között is
-    - az előbbi csak a saját királyságára gondol, és ezt nem is rejti véka alá
-    - a császár szerint a leigázottak is most már az alattvalói, ezért törődik is velük
-    - "a saját érdekükben" igázza le őket... ami elég ellentétes az emberi faj genetikus programozásával ("mi" vs. "ők")
-    - kb. mint a szülő felelőssége a gyerek felé -- még ha nincsenek is ugyanazon a polcon
-- legnagyobb hagyatékuk a sztenderdizáció (ami nekik is jó volt, és úgy kollektíven nekünk is)
-    - emellett persze ott volt a felsőbbrendűség, a barbárok oktatása
-    - és hát a pozitívumok (rendfenntartás, utak) mellett voltak negatívumok is (adók, kényszer toborzás)
-- szóval mint ahogy nyilván nem "jófiúk", a birodalmakat egyértelműen "rosszfiúnak" címkézni is ugyanolyan helytelen lenne
-    - rengeteg olyan hatást hagytak, amiket ma már nem lehetne kivágni (és a régi elnyomottak ezt valószínűleg nem is akarnák)
-    - aki szerint az "imperialista" szitokszó, az vagy nagyon naiv, vagy ezzel az álcával próbál eladni valami még ocsmányabb nacionalizmust vagy fajgyűlöletet
-- napjaink átalakulása nagy valószínűséggel az igazi globális birodalom kialakulása lesz
-    - az "önálló" nemzetek is egyre kevésbé önállóak, egyre nagyobb hatással vannak rájuk a globális vélemények és irányzatok
-    - és az igazán globális problémák megoldásához egyedül úgyis kevesek lennének
 
-## 12. fejezet -- A vallás törvénye
 
-- a vallás napjainkban leginkább a széthúzásról és az egyet nem értésről híres
-    - de igazából a pénz és a birodalmak után a harmadik legfontosabb egyesítő tényező
-- a lényege, hogy valami emberfeletti látszatot adjon az aktuális képzeletbeli rendnek
-    - hogy legalább részei ne legyenek vitathatóak, és így elősegítse a közösségi együttműködést
-- ha ezen felül még univerzális és misszionárius is (vagyis amit hisznek, az mindenkire vonatkozik, és erről mindenkit informálnak is), akkor ott az új nagy egyesítési eszköz
-- az animista hozzáállás eredendően lokális (ha egy csapat völgyében volt egy "szent fa", nem térítettek más csoportokat is... ki a rákot érdekel az ő fájuk?!)
-    - és emellett egyenrangúként kezeli az embert a környezetével
-    - ebből a mezg forradalom csinált egy szép kis hierarchiát, mert az ember nyilván csak feljebb van már, mint a nyája
-    - de hát ha az állatok és a növények már alattam vannak, akkor csak nem beszélgetek velük többet
-    - viszont akkor kit kérjek, hogy legyen rendesen termés? --> s lőn Isten(ek).
-    - és az a feltételezésünk, hogy a mi kapcsolatunk az istenekkel rengeteg más fajt is befolyásol, csak tovább erősítette, hogy mi mennyire különlegesek vagyunk
-- a politeista hozzáállás, hogy van ugyan egy "fő" erő, de az pártatlan, és leszarja, mi a helyzet (kb. "a sors")
-    - ezért kellenek egyéb, korlátozott al-istenek, akikkel lehet alkudozni
-    - ez eredendően nyitott hozzáállás, nem hajkurásszuk egymást hitszegés felkiáltással
-- idővel egyesek elkezdték a kedvenceiket egyedülállónak kikiáltani
-    - de azért a minden-hatás mellé megtartották, hogy lehessen vele alkudozni
-    - ezek sokáig továbbra is lokálisak maradtak, és nem is nagyon jöttek be
-- na de a Kereszténység... ahol ha már az Úr vette a fáradságot, hogy testet öltsön, és meghaljon a bűneinkért, akkor csak másnak is hallania kellene róla
-    - és itt már nem volt túl erős a tolerancia
-    - mert ugye ha a Ti istenetek is igazi, de nektek mást mond, akkor mi nem tudunk mindent, és a miénk nem "mindenható"
-    - ezt a mélyen gyökerező ellentétet pedig javasoljuk úgy feloldani, hogy dögöljetek meg!
-- de a nagy hivatalos áttérés mellett azért sokat megtartottunk a politeista vonalról is, csak most már "szenteknek" hívtuk őket
-    - hozzájuk lehetett imádkozni specializált segítségért, ha a nagyfőnök épp nem ért rá...
+
+
+
+
+
+
+## Az emberiség egyesülése
+
+A mezőgazdasági forradalom utáni szakasz az egyre nagyobb tömegek, és az egyre komplexebb összetartó mesék színtere.
+Érdekes módon ezek a mesék viszont tele vannak belső ellentmondásokkal.
+Például a Francia forradalom óta a világ nagy részén fő értékek a szabadság és az egyenlőség, amik már önmagukban ellentétesek.
+A liberálisok annyira a szabadságot kergetik, hogy közben az egyenlőségen taposnak -- kérdezd csak Dickenst.
+A kommunista egyenlőségre törekvés meg kb. szarik a szabadságra -- kérdezd csak Szolzsenyicint.
+
+De semmi gond, pont ezek a _kognitív disszonanciák_ hajtják előre a világot.
+És igen, van olyan, hogy "előre", mert tagadhatatlanul az egység felé haladunk.
+Ennek a három fő mozgató rugója pedig a pénz, a birodalom, és a vallás, ugyanis:
+
+- a kereskedők szerint az egész világ egy piac, és mindenki potenciális vevő;
+- a hódítók szerint az egész világ egy nemzet, és mindenki potenciális alattvaló;
+- a próféták szerint pedig az egész világon egy igazság érvényes, és mindenki potenciális hívő.
+
+<br />
+
+A **pénz** még egy hódítási vagy vallási szakadék két oldalán lévő embercsoportot is zökkenésmentesen összekötött, ezért bizonyos szemszögből a legerősebb a háromból.
+Kialakulásához értenünk kell, hogy az egyre nagyobb tömegek, és az egyes területek fejlődéséhez elengedhetetlen specializáció miatt a cserekereskedelem már nem volt elég jó.
+Nem csak a váltási rátákat kellene tudni mindenről mindenre -- ami már önmagában rengeteg -- de a cseréhez első sorban az sem ártana, ha mindkét fél akarná is a cserét.
+Na most ha te almával házalsz, cipőt akarsz, és a cipész utálja az almát, akkor rábasztál.
+
+Erre találták ki a "pénz" fogalmát, ami gyakorlatilag egy univerzális váltóeszköz, és még a vagyon tárolására is alkalmas.
+Nélküle nem jöhettek volna létre ekkora, ilyen komplex, és ilyen dinamikus gazdaságok.
+Alapja a bizalom -- ez is ilyen _inter-szubjektív_ képzeletbeli rendszer -- ezért sokáig valós értéket képviselő tárgyakkal kellett szoktatni az embereket, míg végül el nem jutottunk a papírfecnikig.
+Mégis relatíve könnyen nyúl át a kulturális határokon, mert nem feltétlen tőlünk kéri, hogy higgyünk valamiben.
+Elég volt csak azt elhinni, hogy a másik hisz benne.
+
+<br />
+
+Node haszon ide vagy oda, ha valaki elég kemény volt, akkor azért felrúghatta ezt az egyensúlyt, szóval nézzük második indulónkat, a **birodalmat**.
+A legjelentősebb szerepe igazából annyi, hogy egyre több és több etnikailag és kulturálisan különböző régiót "csiszoljon össze".
+Mondhatjuk rájuk, hogy olvasztótégelyek, amik ha egyszer bekebeleznek egy népet, az onnan valószínűleg már nem kerül ki többet.
+Mármint a birodalom persze előbb vagy utóbb összeomlik, de a bekebelezett nemzeti identitás addigra már nem létezik, csak az ex-birodalom lakói -- akikre általában csak egy új birodalom várt.
+
+Nagy különbség van mondjuk a korai hódító királyok és a "császárok" között is.
+Míg az előbbi csak a saját királyságára gondol, és ezt nem is rejti véka alá, addig a császár szerint a leigázottak is most már az alattvalói, ezért törődik is velük.
+Mondhatjuk, hogy "a saját érdekükben" igázza le őket.
+Kb. mint a szülő felelőssége a gyerek felé -- még ha nincsenek is ugyanazon a polcon.
+Fontos hagyatékuk a sztenderdizáció, és fontos szerepük volt a rendfenntartásban és az infrastruktúra karbantartásában is.
+
+Szóval mint ahogy nyilván nem tisztán "jófiúk" (adók, kényszer toborzás), a birodalmakat egyértelműen "rosszfiúnak" címkézni is ugyanolyan helytelen lenne.
+Rengeteg olyan hatást hagytak maguk után, amiket ma már nem lehetne "kivágni" -- és a régi elnyomottak ezt valószínűleg nem is akarnák.
+Napjaink kihívása nagy valószínűséggel az igazi globális birodalom kialakulása lesz.
+Az ide vezető úton az "önálló" nemzetek is egyre kevésbé önállóak, és egyre nagyobb hatással vannak rájuk a globális vélemények és irányzatok.
+De ez nem is baj, mert az igazán globális problémák megoldásához külön-külön úgyis kevesek lennénk.
+
+<br />
+
+A **vallás** napjainkban leginkább a széthúzásról és az egyet nem értésről híres, de igazából a pénz és a birodalmak után a harmadik legfontosabb egyesítő tényező.
+A lényege, hogy valami emberfeletti látszatot adjon az aktuális képzeletbeli rendnek, hogy legalább részei ne legyenek vitathatóak, és így elősegítse a közösségi együttműködést.
+Ha ezen felül még univerzális és misszionárius is -- vagyis amit hisznek, az mindenkire vonatkozik, és erről mindenkit informálnak is -- akkor ott az új nagy egyesítési eszköz.
+
+Az ősembernél említett animista hozzáállás eredendően lokális.
+Ha egy csapat völgyében volt egy "szent fa", azt nem hirdették más csoportoknak is... Ki a rákot érdekel az ő fájuk?!
+Emellett egyenrangúként kezelte az embert a környezetével.
+Ebből a mezőgazdasági forradalom csinált egy szép kis hierarchiát, mert az ember nyilván csak feljebb van már, mint a nyája.
+De hát ha az állatok és a növények már alattam vannak, akkor csak nem beszélgetek velük többet...
+Viszont akkor kit kérjek, hogy legyen rendesen termés?
+S lőn Isten(ek).
+
+A politeista hozzáállás szerint van ugyan egy "fő" erő, de az pártatlan, és leszarja, mi a helyzet -- kb. "a sors".
+Ezért kellenek egyéb, korlátozott al-istenek, akikkel lehet alkudozni.
+Ez egy eredendően nyitott hozzáállás, nem hajkurásszuk egymást hitszegés felkiáltással.
+Idővel azonban egyesek elkezdték a kedvenceiket egyedülállónak kikiáltani.
+És itt már nem volt túl erős a tolerancia, mert ugye ha a Ti istenetek is igazi, de nektek mást mond, akkor mi nem tudunk mindent, és a miénk nem "mindenható".
+Ezt a mélyen gyökerező ellentétet pedig javasoljuk úgy feloldani, hogy dögöljetek meg!
+
+A nagy hivatalos áttérés mellett azért persze sokat megtartottunk a politeista vonalról is, csak most már "szenteknek" hívtuk őket, és hozzájuk lehetett imádkozni specializált segítségért, ha a nagyfőnök épp nem ért rá.
+A dualista
+
 - voltak még dualista vallások, ahol a jó és a rossz küzdenek egymással
     - ez a gonoszt tudja magyarázni (nem úgy, mint a monoteisták), de az isteni rendet nem (amit a monoteisták igen)
 - érdekes módon ezen megint nem eltűntek, hanem integrálódtak
@@ -407,15 +339,15 @@ Lehet, hogy ma épp nem divat rassz alapján bekorlátozni, hogy "egy fekete nem
     - ezt hívjuk úgy, hogy szinkretizmus, vagyis az egymásnak ellentmondó hitek egyidejű elfogadása (duplagondol?)
     - és tulajdonképpen EZ az igazi nagy világvallás --> mindenki azt hiszi, ami épp kényelmes
     - logikai lebontás --> Blackburn Istenes fejezete...
-- itt jön egy tömör Buddhizmus összefoglaló, ami szerintem nem annyira fontos ide
-    - de gyakorlatilag ~ sztoicizmus, majd később úgyis utánanézek külön
+    
+
 - fontos észrevennünk, hogy nem kellenek istenek a valláshoz
     - a modern szóhasználattal "ideológiának" nevezett kommunizmus, liberalizmus, nacionalizmus, kapitalizmus, fasizmus, stb. ugyanúgy "vallások"
     - és ha ez így van, akkor a vallások nem hogy veszítenek a fontosságukból, hanem épp hogy még sokkal totálisabban ránk telepedtek, mint valaha
-- külön kitérés az embereket bálványozó "vallásokra"
-    - liberális humanizmus: minden egyén fontos, a szabadság a lényeg
-    - szociális humanizmus: az emberi faj a fontos, az egyenlőség a lényeg
-    - evolúciós humanizmus: az ember fejlődése a fontos, a gyengék kiirtása a lényeg
+
+
+
+
 
 ## 13. fejezet -- A siker titka
 
@@ -748,13 +680,6 @@ Lehet, hogy ma épp nem divat rassz alapján bekorlátozni, hogy "egy fekete nem
 
 
 # Idézetek
-
-## Part Two: The Agricultural Revolution
-
-
-
-
-
 
 
 ## Part Three: The Unification of Humankind
