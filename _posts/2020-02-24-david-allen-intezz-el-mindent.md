@@ -2,7 +2,7 @@
 layout: post
 title: David Allen - Intézz el mindent!
 pages: 352
-date: 2020-02-23 23:00
+date: 2020-02-24 22:00
 excerpt: >
     A mai bejegyzésben a magasztos, absztrakt gondolatok világából visszakanyarodnék kicsit a konkrét, szokványos, színtelen-szagtalan világunkba.
     Mert hát mind szép és jó, hogy megfogalmazzuk az elveinket, az álmainkat, a hozzáállásunkat, és akár magát az életünk nagy célját, de ha közben elveszünk a hétköznapok teendőiben, akkor nem sok értelme volt.
@@ -35,7 +35,8 @@ Szemléltetésként: a harmadik fejezet öt lépcsős tervezési módszerét ké
 Ez persze _nem_ azt jelenti, hogy nem voltak benne hasznos, általánosan alkalmazható elvek.
 Csak azt, hogy egy kicsit ki kellett kaparni őket.
 Sok időtlen, elavulásmentes tipp volt például "nagypapi" modernitási szinten, papír-ceruzával megoldva.
-Én ezeket a _megoldásokat_ kiszűrtem, részben mert az én digitális fixációmmal úgy sem kompatibilisek.Másrészt pedig merem remélni, hogy Te, kedves Olvasóm, az elvek ismeretében majd szintén képes leszel a saját képedre szabni a részleteket.
+Én ezeket a _megoldásokat_ kiszűrtem, részben mert az én digitális fixációmmal úgy sem kompatibilisek.
+Másrészt pedig merem remélni, hogy Ti, kedves Olvasóim, az elvek ismeretében majd szintén képesek lesztek a saját igényeitekre szabni a részleteket.
 
 A lényeg, hogy ez az egész nem tartalmaz semmi "újat" vagy "forradalmit", _csak_ konkrétan kimond minden olyat, amit kimondatlanul már amúgy is csinálunk.
 A _konkretizálás_ miatti direkt irányítás viszont nagyon jelentős változásokat hozhat!
@@ -43,6 +44,7 @@ Gondoljunk mondjuk arra, hogy eddig véletlenszerűen nyomkodtuk a gombokat az i
 
 A könyv szerkezetileg 3 részben tárgyalja ugyanazt a "tananyagot", különböző mélységekben és részletességgel.
 Utólagos engedelmetekkel én ezeket egybe gyúrtam, hogy mindent csak egyszer -- de akkor teljesen -- érintsünk.
+Átugranám ezen felül a projekttervezéses részt, mert szerintem kezdésnek bőven elég arra koncentrálni, hogy a már meglévő szarviharral hogyan küzdjünk meg.
 A tartalomjegyzék tehát a következőképpen alakul:
 
 - [Bevezetés](#bevezetés)
@@ -52,7 +54,6 @@ A tartalomjegyzék tehát a következőképpen alakul:
     3. [Rendszerezés](#rendszerezés)
     4. [Önvizsgálat](#önvizsgálat)
     5. [Cselekvés](#cselekvés)
-- [Projekttervezés](#projekttervezés)
 - [Tudományos alátámasztás](#tudományos-alátámasztás)
 - [Mesterré válás](#mesterré-válás)
 
@@ -99,7 +100,7 @@ A tartalomjegyzék tehát a következőképpen alakul:
 
 Manapság szinte elkerülhetetlen -- sőt, divat! -- hogy többet vállalunk, mint amit elbírunk.
 Ez mellett elmosódik a munka és a szabadidő közti határvonal, főleg a "tudás-alapú" munkában.
-Igaz, az információ, ami potenciálisan javíthatná bármelyik folyamatunkat, tulajdonképpen végtelen és "könnyen" hozzáférhető.
+Igaz, az információ, ami potenciálisan javíthatná bármelyik folyamatunkat, tulajdonképpen végtelen és könnyen hozzáférhető.
 Csak hát valakinek akkor hozzá is kellene férni, értelmezni, következtetéseket levonni...
 Ha pedig ez nem lenne elég, még általában a munkánk sincs pontosan definiálva -- vagy ha igen, akkor sem (csak) azt kell csinálnunk.
 Tulajdonképpen már nem a munkánkhoz kell alkalmazkodni, hanem a folyamatos alkalmazkodáshoz.
@@ -126,7 +127,7 @@ Ha lapátolom a szart, akkor pontosan tudom, mit kell csinálni; látom, hogy me
 
 Na ez a "két agysejtes" hozzáállás manapság már a munkára sem elég.
 Az átívelő, kevésbé kézzelfogható életcéloknál pedig eddig sem volt elég.
-Szóval hiába tűnne logikusnak, hogy a nagy víziónk diktálja a részleteket, mégis építkezzünk alulról felfelé.
+Szóval hiába tűnne logikusnak, hogy a nagy víziónk diktálja a részleteket, mégis építkezzünk inkább alulról felfelé.
 A legtöbben annyira el vannak veszve a hétköznapjaikban, hogy nincs esélyük eljutni a víziójukig.
 Ha viszont az apró implementációs lépéseket vesszük előre, akkor kezdetben "vakon" ugyan, de legalább elkezd haladni a szekér.
 
@@ -148,8 +149,9 @@ A fő, hogy kikerüljön a fejünkből!
 > Általában fordítottan arányos, hogy mennyit jár valami a fejedben, és hogy mennyire halad.
 > > There is usually an inverse relationship between how much something is on your mind and how much it's getting done.
 
-Ez az "alappillér" azért működik, mert magunktól a legtöbb energiánkat arra pazaroljuk, hogy a problémáról gondolkozunk, nem a megoldásáról.
-Nem haladunk semmit, de konkretizálunk, és ettől letisztul, mit is kell majd csinálni, és hogy mi érdekében.
+Magunktól a legtöbb energiánkat arra pazaroljuk, hogy a problémáról gondolkozunk, nem a megoldásáról.
+Ez a fejünkből kikerülős "alappillér" azért működik, mert rákényszerít minket, hogy a megoldásra figyeljünk.
+Nem haladunk ugyan semmit, de konkretizálunk, és ettől letisztul, mit is kell majd csinálni, és hogy miért.
 A végcél és az oda vezető út lesz fókuszban, nem a probléma.
 
 > A gondolkozás hasznos, ha cselekvésre motivál, de hátráltat, ha a cselekvést _helyett_ csináljuk.
@@ -193,7 +195,7 @@ A lényeg, hogy tudjunk valahogy listákat kezelni, és legyen valami naptár.
 Emellett pedig _nem_ osztozunk!
 Mindenkinek szüksége van saját munkahelyre -- ami nem kell, hogy külön szoba legyen, de legalább külön asztal.
 
-A másik hangsúlyos elvárás pedig egy általános _iktatási_ rendszer.
+A másik hangsúlyos elvárás egy általános _iktatási_ rendszer.
 Ha az nincs, akkor csak egy amorf kupac lesz az "elrakott" dolgainkból.
 Legyen gyors, egyszerű, és legyen mindig kéznél, különben nem fogod használni.
 Illetve észben kell tartanunk, hogy itt hozzáférni is szeretnénk az adatokhoz, nem csak eltárolni.
@@ -266,12 +268,12 @@ Legyünk tisztában azzal is, hogy ebben a stádiumban nem maradhat sokáig semm
 Ha az agyunk azt érezni, hogy nem foglalkozunk a bejövőkkel igazán, akkor újra jön a motoszkálás!
 
 **Pszichológiai kitekintés**: A begyűjtés egyszerre szorongósan negatív és felszabadulósan pozitív.
-De negatív rész igazából nem a sok tennivalótól van -- mert akkor soha nem lenne vége -- hanem a sok eddigi "egyezmény" miatt, amit megszegtél magaddal.
+De a negatív rész igazából nem a sok tennivalóból ered -- mert akkor soha nem lenne vége -- hanem a sok eddigi magaddal kötött "egyezményből", amit megszegtél.
 Ha pedig ez így van, akkor:
 
 - nem kell annyit vállalni (ami egy tiszta `TODO` listával sokkal egyszerűbben védhető lesz); vagy
 - meg kell csinálni, és kész; vagy
-- újra kell tárgyalni.
+- újra kell tárgyalni magaddal.
 
 Ha valamit kizárólag a fejedben tartasz, annak csak a jelenidő létezik.
 Onnantól, hogy két dolgot tartasz a fejedben, máris megszeged legalább az egyik fogadalmadat, mert épp nem csinálod.
@@ -286,7 +288,7 @@ Durván érezhető egy kapcsolatban vagy egy céges kultúrában, hogy mennyire 
 Ha fogni kell a másik kezét, mert különben félünk, hogy nem lesz meg, amit kérünk, akkor ott lesz a háttérben egy folyamatos stressz adag.
 Elszaporodhatnak a meeting szükségletek is, amik nem is kellenének, ha olajozottan menne minden.
 Ha viszont megbízunk a másik rendszerében, akkor nem kell mindig azonnali figyelmet kikövetelnünk, majd válaszol, ha odajut.
-A szerző családjában még otthon is úgy csinálják, h egymás inbox-aiba dobják a dolgokat a megzavarás helyett
+A szerző családjában még otthon is úgy csinálják például, hogy egymás inbox-aiba dobják a dolgokat a másik megzavarása helyett.
 Ettől még persze nem biztos, hogy jó irányba megy a hajó -- vagy hogy egyáltalán jó hajón vagy...
 De legalább hatékonyan haladsz!
 
@@ -311,7 +313,7 @@ De legalább hatékonyan haladsz!
 
 Ha jól tele a bejövő halmazunk, akkor ideje konkretizálni, hogy melyik elem micsoda, és mit kell vele kezdeni.
 Az első kérdés: _mi_ ez?
-Viccesen hangzik, de a szerző tapasztalatai szerint sokan idáig nem jutnak el...
+Viccesen hangzik, de a szerző tapasztalatai szerint sokan idáig sem jutnak el...
 De mi azért legalább azonosítsuk már be, mivel is van "dolgunk".
     
 Kapcsolódik a második kérdés: egyáltalán van-e vele dolgunk?
@@ -320,19 +322,20 @@ Ha _most még_ nincs, akkor inkubáljuk (lásd a [Rendszerezés](#rendszerezés)
 Ha nem is lesz, de azért referenciának el szeretnénk tenni, akkor mehet az iktatóba (ami ugye előfeltétel volt).
 Ha pedig még visszakeresni _sem_ akarjuk, akkor arra bizony ott a kuka. Viszlát!
 
-Ha **van**, akkor pedig az a legfontosabb, hogy _pontosan_, _fizikailag_ mi a következő lépés vele kapcsolatban?
+Ha **van** vele dolgunk, akkor pedig az a legfontosabb, hogy _pontosan_, _fizikailag_ mi a következő lépés vele kapcsolatban?
 Annyi, hogy "meeting szervezése" nem elég pontos.
 Az "email XY-nak a meetinggel kapcsolatban" már sokkal jobb.
-Az NEM következő akció, hogy "dönteni kellene"!
+Az _nem_ következő akció, hogy "dönteni kellene"!
 A döntés gyors, és nem fizikai aktivitás, szóval ezt a részt nem illene tologatnunk.
 Ha kell még infó a döntéshez, akkor a következő lépés lehet mondjuk "email XYnak, hogy mi a véleménye", vagy "ötletelés mellette-ellene listával" ami majd közelebb visz a döntéshez.
 Mindenképp vigyázzunk, hogy a következő akciók tényleg atomiak és konkrétak legyenek, különben visszaalakulnak "cuccá", és továbbra is hordozni fogják a bizonytalanságot.
 
-Amint megvan a döntés, újra elágazhatunk 3 irányba: lehet a feladatot megcsinálni, delegálni, vagy elhalasztani.
+Ha az így kitervelt akció nem tudja le egymagában az egész tennivalót, akkor itt köthetjük egy projekthez is, ami minden több lépésből álló feladatsort összefog.
+Amint ez megvan, újra elágazhatunk 3 irányba: lehet a feladatot megcsinálni, delegálni, vagy elhalasztani.
 
-- Ha az egész kevesebb, mint 2 perc, akkor tudjuk le, és kész. Semmi tudományos oka nincs, hogy miért pont 2, csak kb. ott van a hatékonysági határ, ahol iktatás helyett érdemesebb letudni -- és akkor nincs mit iktatni.
-- Ha hosszabb, viszont nem muszáj nekünk megcsinálni, akkor csinálja más. Magát a delegálás módját kommunikációs rendszere válogatja, de fontos, hogy a mi oldalunkon is legyen írásos nyoma. Attól, hogy a másik fél elfelejti, nekünk még nem kellene.
-- Ha pedig hosszú és muszáj nekünk, akkor majd visszatérünk rá. Pont.
+- Ha az egész kevesebb, mint 2 perc, akkor **tudjuk le**, és kész. Semmi tudományos oka nincs, hogy miért pont 2 perc, csak kb. ott van a hatékonysági határ, ahol iktatás helyett érdemesebb letudni -- és akkor nincs mit iktatni.
+- Ha hosszabb, viszont nem muszáj nekünk megcsinálni, akkor **csinálja más**. Magát a delegálás módját kommunikációs rendszere válogatja, de fontos, hogy a mi oldalunkon is legyen írásos nyoma. Attól, hogy a másik fél elfelejti, nekünk még nem kellene.
+- Ha pedig hosszú és muszáj nekünk, akkor majd **visszatérünk** rá. Pont.
 
 A félreértés elkerülése miatt még egyszer: ha nem ilyen 2 perces "gyorsan tudjuk le" mókáról van szó, akkor itt még _nem kell megcsinálni_!
 Csak a döntést kell meghoznunk, hogy mi legyen vele.
@@ -356,8 +359,8 @@ Az előre gondolkozás, és a már leszűrt következtetések miatt lesz kihaszn
 Lehet, hogy egy adott pillanatban arra épp nem lenne energiám, hogy nekiálljak az inbox-omnak és kibogozzak dolgokat, de ahhoz pont igen, hogy egy agyatlan kis tennivalót elintézzek.
 
 Sokszor van a fejünkben félhomály.
-Annyira pont világos a helyzet, hogy azt hisszük, tudjuk, mi a következő lépés.
-De annyira meg pont homályos, hogy valójában nem, ezért taszít, és mi kerüljük is.
+Annyira pont világos a helyzet, hogy azt _hisszük_, tudjuk, mi a következő lépés.
+De annyira meg pont homályos, hogy valójában nem tudjuk, ezért taszít, és mi kerüljük is.
 A jó képzelőerővel bíró emberek állítólag azért is halogatnak jobban, mert ők képzelik el a legélénkebben a horrort, ami elől menekülnek.
 
 > Öreg ember vagyok, és sok nehézséget megéltem, de a nagy részük meg sem történt.
@@ -407,82 +410,77 @@ Ha nem lehet, akkor meg el kell fogadni a tehetetlenségedet -- amire a követke
 
 ## Rendszerezés
 
-- itt vesszük szét a "pending" dolgokat
-- fontos, hogy "élesek" legyenek a határok!
-    - mind különböző féle egyezmény saját magunkkal, hogy mikor és hogy kérjük az emlékeztetőt
-    - ha elkezdenek összefolyni, akkor az egész értelmét veszti
-- igazából csak listákat kell menedzselni
-    - ami szkeptikussá tehet, hiszen nagyon sokan nagyon régóta írogatnak listákat, sikertelenül
-    - de ez nem "még egyszerű", hanem "már egyszerű"
-    - vagyis nagyon sok agyalás, rendszer, és kísérletezés ment mögé, hogy a végfelhasználónak MÁR csak listákat kelljen írogatnia
+Oké, begyűjtöttünk, konkretizáltunk, ideje, hogy rendszerezzük a maradékot!
+Elsődleges szempontunk, hogy "élesek" legyenek a határok a kategóriák között.
+Mind különböző _féle_ egyezmény saját magunkkal, ami megadja, hogy mikor és hogyan kérjük az emlékeztetőt.
+Ha ezek elkezdenek összefolyni, akkor az egész értelmét veszti.
 
-    "We must strive to reach that simplicity that lies beyond sophistication."  -- John Gardner
+Igazából csak listákat kell menedzselni, ami sokakat szkeptikussá tehet, hiszen nagyon sokan nagyon régóta írogatnak listákat, sikertelenül.
+De ez nem "még egyszerű", hanem "már egyszerű"!
+Vagyis nagyon sok agyalás, rendszerezés, és kísérletezés ment mögé, hogy a végfelhasználónak **már** csak listákat kelljen írogatnia.
 
+> A kifinomultságon _túli_ egyszerűség elérésére kell törekednünk.
+>
+> -- John Gardner
+> > We must strive to reach that simplicity that lies beyond sophistication.
 
+A konkretizáló lépés döntései következtében összesen 8 helyre kerülhetnek a dolgok.
+Ha projekthez kapcsolódik, akkor első állomásunk a projekt lista és a projektekhez köthető referenciák.
+A **(1)** projekt lista minden olyan feladat otthona, ami több lépésből áll.
+Ez egy nagyon laza feltétel, ezért valószínűleg egy csomó olyan dolog is "projekt" lesz, amire eddig nem így gondoltál.
+A projekt lista részleteket nem tartalmaz, csak egy afféle "tartalomjegyzék", ami egy magasabb szintű, átfogó figyelmet ad és mentális energiákat szabadít fel.
+A jelenlegi helyzeted, a távlati terveid, az értékrended, vagy a problémáid is lehetnek kezdőpontok a projektek felfedésénél.
+Igény szerint alkategóriákra szedhető, de mindre egyformán kell figyelni!
 
-A konkretizáló lépés döntési diagramjából összesen 8 helyre kerülhetnek a dolgok.
-- ha projekthez kapcsolódik, akkor
-    1. projekt lista
-        - ez csak egy index
-        - minden több lépéses dologhoz, hogy legyen egy jelző, hogy ott még van dolgunk
-    2. projekthez köthető referenciák
-- projekt lista
-    - minden, ami több lépésből áll!
-    - valószínűleg egy csomó olyan dolog is projekt lesz, amire nem így gondoltál eddig
-    - egy magasabb szintű, átfogó figyelmet ad, plusz mentális energiákat szabadít fel, a heti review alapja
-    - abban is segíthet, hogy a kapcsolataidat (partner, főnök, kollégák, stb.) jobban kézben tarthasd
-    - a jelenlegi helyzeted, a távlati terveid, az értékrended, vagy a problémáid is lehetnek kezdőpontok a projektek felfedésénél
-        - akár a jelenlegi folyamataid optimalizálása is lehet egy
-    - otthoni/munkahelyi/delegált alkategóriákra szétszedhető, de mindre egyformán kell figyelni!
-- a projektekhez tartozhat bármi "támogató anyag"
-    - a fontos, hogy ez NE emlékeztetésre szolgáljon
-    - arra ott a projekt lista, a következő akciók, a várólista, a naptár
-    - integrálható az általános referencia anyagokkal, de akkor tessék szorgosan elővenni és használni!
-    - ide jöhetnek az olyan ötletek is, amik nem következő akciók, de azért tudjuk, hova fognak tartozni
-        - nem kell semmit elfelejteni!
+A **(2)** projekthez köthető referenciák tartalmazhatnak bármilyen "támogató anyagokat".
+A lényeg, hogy _ne_ emlékeztetésre szolgáljanak -- arra vannak más eszközök.
+Ide jöhetnek az olyan ötletek is, amik nem következő akciók, de azért már előre tudjuk, hova fognak tartozni.
+Ha mindennek megvan a jól meghatározott helye, akkor nem kell többé semmit elfelejtenünk.
+Esetleg integrálható az általános referencia anyagokkal, de akkor tessék szorgosan elővenni és használni!
 
+A projekt adminisztráció után foglalkozunk az előző lépésben meghatározott következő akcióval.
+Ha 2 perces volt, akkor ugye eleve nem is jutottunk vele idáig.
+Viszont ha már itt vagyunk, akkor annak legyen valami nyoma!
+Delegálás esetén használjuk a **(3)** várólistát, amivel mások felelősségét is nyomon követhetjük.
+Érdemes dátumozni, mert a visszakeresésnél nagyon hasznos lehet.
 
-- ha egy már megállapított következő akció, akkor
-    3. ha időponthoz kötött --> naptárba
-        - vagy időPONT, vagy csak nap
-        - de ez NEM egy TODO lista!
-        - naptárba CSAK a muszáj dolgokat
-    4. ha "amint lehet" --> TODO listára
-        - ez lehet egy közös hely, vagy kategorizált
-        - érdemes lehet ezeket kontextus szerint rendszerezni
-        - pl telefonnál, számítógépnél, városban intéznivalók, otthon, irodában, ilyesmi...
+Amikor tényleg ránk marad a feladat, egy további kérdést kell feltennünk magunknak: a következő akció időponthoz kötött, vagy "amint lehet"?
+Ha időpont alapú, akkor mehet a **(4)** naptárba.
+A hatékonyság érdekében tegyünk különbséget az idő**pont**ok és a napok között.
+A legfontosabb azonban az, hogy a naptárunkat _ne_ `TODO` listaként kezeljük!
+Csak az kerüljön bele, amit _muszáj_ akkor/aznap elintéznünk, és azokat akkor onnantól tekintsük szentnek és sérthetetlennek.
+Ha telerakjuk mindenféle "jó lenne aznap erre is sort keríteni" jellegű szeméttel, akkor idővel valami úgyis kimarad, ami miatt nem fogjuk kellően tisztelni a naptárunkat.
 
-"Those who make the worst use of their time are the first to complain of its shortness."  -- Jean de La Bruyère
+Ha pedig **(5)** "amint lehet" jellegű, akkor kerüljön egy `TODO` listára.
+Ez lehet egy közös hely, vagy akár kategorizált; érdemes lehet ezeket kontextus szerint rendszerezni.
+Például telefonnál, számítógépnél, városban, otthon, irodában, ilyesmi...
+Ez segít majd a legjobban, hogy a váratlanul adódó kis időmorzsákat is hatékonyan ki tudjuk használni.
+Késik az orvos? Addig letudhatnék egy-két telefont... ha lenne kéznél egy listám, hogy kiket is kell miért felhívni.
 
+> Azok panaszkodnak először az idő rövidségére, akik a legrosszabban használják ki az idejüket.
+>
+> -- Jean de La Bruyère
+> > Those who make the worst use of their time are the first to complain of its shortness.
 
-    5. ha másra várunk --> várólistára
-    - a várólistával mások felelősségeit is mi kezeljük
-    - hogy ha az ő kezükből ki is csúszik az irányítás, a miénkből azért ne
-    - tessék dátumozni (ha nem automatikus, akkor kézzel!), mert nagyon hasznos lehet visszanézni
+Az aktuális tennivalókkal kész is vagyunk, de azért nyugalom, még mindig van három kategória.
+Ha csak _aktuálisan_ nincs vele dolgunk, de később még lehet, akkor jöhet az a bizonyos _inkubáció_.
+Ezek is lehetnek idő szenzitív dolgok -- például a jövő héten lesz valami koncert, szóval hétvégén ne felejtsük el megbeszélni otthon, hogy akarunk-e menni -- és ezek ugyanúgy mehetnek a naptárunkba.
+Ami viszont csak ilyen "majd egyszer", vagy "talán" kategória, az mehet egy külön **(6)** parkoltató listára.
+Át lehet gondolni az álmaidat, vágyaidat, akár a jelenlegi projektjeidet inspirációért.
+Érdemes ezeket kiírni magadból, mert ki tudja, a tudatalattid munkához lát, és még a végén lesz belőle valami.
 
+Ha nincs (előrelátható) dolgod, de azért jó lenne megtartani az aktuális elemet referenciának, akkor... igen, kitaláltad, mehet a **(7)** referenciák közé.
+Ha már tényleg ki lett válogatva, hogy ezzel a halmazzal semmi dolgunk, akkor nem baj, hogy sok van, nem fogja beindítani a motoszkálást!
+A rendszerezés maga egyéni ízlés dolga, érdemes elölről, egyszerűen kezdeni, és majd "nő" veled együtt a rendszer.
 
-
-- ha nincs vele teendő
-    6. szemét --> nyilvánvaló, de nagyon fontos, hogy ne keveredjen!
-    7. inkubáció
-        - ha idő szenzitív, de csak a jövőben, akkor "tickler" és naptárba
-        - ha "talán egyszer", akkor egy külön parkoltató listára
-        - átgondolni az álmaidat, vágyaidat, akár a jelenlegi projektjeidet inspirációért
-        - érdemes kiírni magadból, mert ki tudja, a tudatalattid munkához lát, és még a végén lesz belőle valami
-        - valamennyire akár keveredhet is a referenciáiddal
-            - csak elmentesz egy adag érdekességet, amivel majd talán foglalkozol
-        - ha időhöz kötött, akkor "tickler" naptár, ami a megfelelő időben "megcsikiz" és emlékeztet
-            - ennek a fizikai párja egy 43 mappás rendszer (napok és hónapok), de who cares?!
-    8. referencia
-        - ha már tényleg ki lett válogatva, hogy ezzel semmi dolgunk
-        - akkor nem baj, hogy sok van, nem fogja beindítani a motoszkálást!
-        - a rendszerezése egyéni ízlés dolga
-        - érdemes elölről kezdeni, és majd "nő" veled együtt a rendszer
-
+Levezetésként pedig ha se dolgunk nincs vele, se visszakeresni nem szeretnénk, akkor **(8)** ki kell dobni a kukába.
+Magától értetődőnek hangozhat, de nagyon fontos, hogy ne keveredjen semmivel.
+Ha csak egy olyan dolog is közé kerül, amivel van teendőnk, akkor nem merjük majd kidobni, ezért újraválogatást igényel, "cucc" lesz belőle, és plusz munka.
+Szóval amint megvan, hogy valami kuka, akkor kerüljön is a kukába.
 
 <br />
 
-    
+
 
 
 
@@ -508,58 +506,32 @@ A konkretizáló lépés döntési diagramjából összesen 8 helyre kerülhetne
 
 ## Önvizsgálat
 
-4. gondolkozunk, hogy milyen úton haladhatunk tovább (reflexió)
-    - nem elég eltenni a dolgokat, ezeket át is kell nézni időnként
-        - példa: egy dolog tudni, hogy elfogyott a tej, és egy másik dolog emlékezni is rá a boltban
-    - nyilván a naptár és a TODO lista adják a napod vázát
-        - de ezek mellé a többi is tetszőleges gyakorisággal átnézhető
-        - a lényeg, hogy ne motoszkáljanak
-        - és ha nagyon sokáig nem nézzük át, akkor az agyunk fokozatosan visszaveszi az emlékeztető szerepet
-    - **mi kell, hogy működjön?**: heti review!
+Nem elég rendszerezni a teendőinket, át is kell őket nézni időnként.
+Például egy dolog tudni, hogy elfogyott a tej, és egy teljesen másik dolog _emlékezni_ is rá a boltban.
+Csak akkor fog menni a "magasabb szintű" gondolkozás, ha az alacsony szintet tényleg a rendszerre bízhatod, azt pedig csak akkor teheted meg, ha a rendszer mindig 100%-ban megbízható.
+Ezért kell mindig frissen tartani, periodikusan átnézni, törölni róla, bővíteni, stb.
+Ha nagyon sokáig nem nézzük át a nyitott szálainkat, akkor az agyunk fokozatosan visszaveszi az emlékeztető szerepet és visszatér a "motoszkálás".
+Szóval az egész GTD működéséhez elengedhetetlen a rendszeres -- napi és heti -- átnézés!
 
-    "The maintenance of life and the pursuit of happiness are not two separate issues."  -- Ayn Rand
+> Az életünk karbantartása és a boldogság keresése nem két különböző dolog.
+>
+> -- Ayn Rand
+> > The maintenance of life and the pursuit of happiness are not two separate issues.
 
-- az agyad csak akkor fog megbízni a rendszeredben, ha mindig 100% megbízható
-    - ezért mindig frissen kell tartani
-    - rendszeresen átnézni, törölni róla, bővíteni, stb.
-- mit kell átnézni, és mikor?
-    - ha minden rendesen kialakult, akkor pár másodperc itt-ott elég
-    - annyit kell nézni és olyan gyakran, hogy mindig biztos legyél benne, hogy azt csinálod, amit csinálnod kell
-    - sorrend:
-        - naptár: ez adja ugye a kemény vázat
-        - aztán a TODO listák
-        - és általában ennyi a napi dolgokhoz elég is
-            - de flexibilisnek kell lenni
-            - bármelyik lista kellhet bármikor
-- mit kell csinálni, és milyen gyakran?
-    - csak akkor fog menni a "magasabb szintű" gondolkozás, ha az alacsony szintet tényleg a rendszerre bízhatod
-    - ezért (megint csak) HETI REVIEW!
-    - a cél elérni ezt az állapotot: “I absolutely know right now everything I'm not doing but could be doing if I decided to.”
-    - legyél:
-        - kitisztázva
-            - minden in-be, ami elmaradt az utolsó audit óta
-            - aztán üríteni az in-t
-            - és a fejedet is, hogy minden bekerüljön a rendszerbe
-        - aktuális
-            - a következő akcióid
-            - az elmúlt és jövőbeli naptár bejegyzéseid
-            - várólista
-            - projektekhez kapcsolódó listák és cuccok
-            - checklist-ek, ha valamihez úgy látod, hogy érdemes
-        - kreatív
-            - ha eddig eljutsz, akkor ez már nem nagy munka
-            - a munka a zavaró tényezők és az akadályok eltüntetése, hogy a természetes kreativitásunk szabadon folyhasson
-            - itt érdemes átnézni az egyszer/talán listát, levenni róla, adni hozzá
-    - ajánlott a péntek reggelente 2-2 óra
-        - de mindenki szabja testre
-        - lényeg, hogy kvázi rituálé legyen belőle
-    - ez leginkább csak a földszint/1-es horizonton működik
-        - a magasabb szinteket időnként elő kell venni
-        - ez mindenkinél egyedi (és nyilván ritkább), de fontos!
-        - az egész GTD célja, hogy a 0/1 szintet annyira rendbe tegye, hogy egyáltalán eljuss a 2-re és feljebb :)
+Ha minden rendesen kialakult, akkor **napi** szinten már itt-ott pár másodperc is elég lehet.
+Annyit kell nézni és olyan gyakran, hogy mindig biztos legyél benne, hogy azt csinálod, amit csinálnod kellene.
+Nyilván a naptár és a `TODO` lista adják a napod vázát, és általában ennyi elég is lehet.
+De legyünk azért flexibilisek és tartsuk a többi listát is kéznél, mert bármi kellhet bármikor.
 
-        In order to understand the world, one has to turn away from it on occasion.  -- Albert Camus
+A **heti** átnézés az egyes tennivalók helyett már inkább a projektek szintjén mozog -- érdemes eleve a projekt listára alapozni.
+A fő cél elérni azt az állapotot, ahol magabiztosan állíthatjuk: "Abszolút tisztában vagyok mindennel, amit _nem_ csinálok, de csinálhatnék, ha úgy döntenék".
+Tapasztalati alapon ajánlott a péntek reggelente 2-2 óra, de mindenki szabja testre.
+A lényeg, hogy kvázi rituálé legyen belőle, mert ez fogja azt a mentális tisztaságot megadni, ami miatt sokkal kreatívabban tudunk gondolkozni a hosszabb távú terveinkről.
 
+> Ahhoz, hogy megértsük a világot, néha el kell fordulnunk tőle.
+>
+> -- Albert Camus
+> > In order to understand the world, one has to turn away from it on occasion.
 
 <br />
 
@@ -579,231 +551,58 @@ A konkretizáló lépés döntési diagramjából összesen 8 helyre kerülhetne
 
 ## Cselekvés
 
-5. "beavatkozunk" és ténylegesen csinálunk is valamit
-    - ha az első négy bárhol elhal, akkor nem ott és nem úgy fogunk beavatkozni, ahol és ahogy kellene
-    - de ha nem, akkor is intuitív lesz, hogy mikor mit választunk
-        - és továbbra is lesz egy valag dolog, amit épp _nem_ csinálunk az által, hogy azt az egy választott valamit csináljuk
+Itt jön az a rész, amikor "beavatkozunk" a világ menetébe és ténylegesen csinálunk is valamit.
+Remélem senki nem gondolta, hogy ezt megúszhatjuk!
+Nagyon nem mindegy viszont, hogy mibe és hogyan avatkozunk be.
+És ha az első négy lépés bárhol elakad, akkor az szinte biztos nem ott és nem úgy lesz, ahol és ahogy kellene.
 
-        "There is always more to do than you can do, and you can do only one thing at a time. The key is to feel as good about what you're not doing as about what you are doing at that moment."
+A rossz(abb) hír, hogy ha mindent jól csináltunk, akkor is a legtöbb pillanatban több választási lehetőségünk lesz, amikből intuitívan kell választanunk.
+A jó hír, hogy a rendszerünk miatt talán már nem csak _remélni_ fogjuk, hogy jól tudunk választani, hanem _bízunk_ is benne.
+    
+> Mindig többet kellene csinálni, mint amire képes lennél, és egyszerre csak egy dolgot tudsz csinálni. A kulcs az, hogy ugyanolyan jól érezd magad azok miatt is, amiket nem csinálsz mint az miatt, amit épp csinálsz.
+> > There is always more to do than you can do, and you can do only one thing at a time. The key is to feel as good about what you're not doing as about what you are doing at that moment.
 
-    - de a rendszer miatt remélhetőleg már nem csak "remélni" fogjuk, hogy jól választottunk, hanem "bízunk" is benne
-    - rendszerek, ami segíthetnek a "pillanat hevében" dönteni:
-        1. kontextus --> idő --> energia --> prioritás
-            - most munkában vagyok szóval valami olyan kell, vagy épp nincs kéznél valami
-            - csak 5 percem van vagy 5 órám
-            - hulla vagyok vagy most kezdek frissen
-            - és ha ez a három alapján leszűrtük a lehetséges opciókat, akkor a maradékból már prioritás szerint
-        2. a 6 horizontos nézőpont (különböző távlatok)
-            - földszint: aktuális tennivalók
-            - 1. szint: aktuális projektek
-            - 2. szint: területek és felelősségek
-                - ezeknek soha nincs "vége", ezek szülik a mindenkori aktuális projektjeinket
-            - 3. szint: célok, 1-2 éven belül mi lesz/legyen
-            - 4. szint: vízió, 3-5 éven belül mi lesz/legyen (ezek nyilván elég önkényes határok)
-            - 5. szint: a "big picture", mi az életcélom, mik az elveim...
+A könyv egy olyan 4 lépéses rendszert ajánl, ami segít a "pillanat hevében" dönteni:
 
-        "Minute-to-minute and day-to-day you don't have time to think. You need to have already thought."
+1. **kontextus**: ha munkában vagyok, akkor nyilván valami munkással haladjunk; vagy ha épp nincs kéznél a telefonom, akkor ne telefonálgatni akarjak hirtelen;
+2. **idő**: nem mindegy, hogy csak 5 percem van, vagy 5 órám;
+3. **energia**: hulla vagyok vagy most kezdek frissen; és
+4. **prioritás**: ha az előző három alapján leszűrtük a lehetséges opciókat, akkor a maradékból már prioritás szerint csemegézhetünk.
 
-A négyes/hármas/hatos modell igazából lentről felfelé hierarchikus
-- a négyes a pillanatra vonatkozik
-- a hármas a napi
-- a hatos pedig úgy általában a munkádra
+> Nincs idő percről percre és napról napra gondolkozni. Az kell, hogy addigra már túl legyél a gondolkozáson.
+> > Minute-to-minute and day-to-day you don't have time to think. You need to have already thought.
 
-Ha context szerint vannak a next action listák is szortírozva, az nem csak a váratlan idők jobb kihasználásában segít, de arra is jobban rákényszerít, hogy tényleg meglegyen az a next action!
+A prioritásaink kialakításához -- illetve az egész életünk menedzseléséhez -- pedig érdemes a céljainkra különböző távlatokból tekinteni.
+A szerző 6 _horizontot_ ajánl:
 
-Nem csak hely vagy eszköz mentén érdemes szétszedni
-- pl. ideiglenes utazás előtti lista
-- kreatív írás lista (ami habár pc-nél, de más mindset)
+<ol start="0">
+    <li>szint (földszint): aktuális tennivalók</li>
+    <li>szint: aktuális projektek</li>
+    <li>szint: területek és felelősségek</li>
+    <li>szint: célok, 1-2 éven belül mi lesz / legyen</li>
+    <li>szint: vízió, 3-5 éven belül mi lesz / legyen</li>
+    <li>szint: a &ldquo;big picture&rdquo;, mi az életcélom, mik az elveim&hellip;</li>
+</ol>
 
-A hármas: tervezett munka, interruptok, es a munka tervezése
-- világos mind a három, kb. józan paraszti ész
-- de sokan hajlamosak az interruptok miatt hanyagolni a másik kettőt
-- de pont attól lesznek az "interruptok" követhetőek, mert amúgy rendben vagyunk, és pontosan tudjuk azt is, hogy mit nem csinálunk
+A kihívás ott van, hogy összeházasítsuk a magas szintű, idealisztikus céljainkat az alacsony szintű, hétköznapi melóval.
 
-A hatos pedig ugye a horizontos
-- lehet alulról es felülről is nézni
-- es habar felülről lenne logikus (mert az határozza meg az alsóbb szinteket, pl. minek pöcsöljek egy bizonyos melóval, ha aztán kiderül, h mondjuk nem is azt a melót akarom)
-- de amíg az also rétegek nincsenek irányítás alatt, így lenne a legnehezebb
-- ha viszont alulról megyünk felfelé, akkor kitisztulhatunk annyira, h újra tudjuk esetleg értékelni a magasabb szinteket is
-- ha van egy ilyen fasza low level módszered, akkor az működni fog később is, bármire is fordítod
-- ellenben ha nagyon frankón kiszuszakolod a fő célod, de nem tudod konkrétan végrehajtani, akkor mi is volt az értelme?
+> Az idealista szerint a rövid táv nem számít. A cinikus szerint a hosszú táv nem számít. A realista szerint pedig a rövid távon megtett vagy meg nem tett dolgok határozzák meg a hosszú távot.
+>
+> -- Sydney J. Harris
+> > An idealist believes that the short run doesn't count. A cynic believes the long run doesn't matter. A realist believes that what is done or left undone in the short run determines the long run.
 
-"If your boat is sinking, you really don't care in which direction it's pointed!"
+És itt hadd ismételjem kicsit a bevezetőben már elhangzottakat: lehet, hogy felülről tűnne logikusnak közelíteni, de valójában épp fordítva igaz.
+Mondhatjuk, hogy a felsőbb szintek határozzák meg az alsóbb szinteket, és hogy például minek vergődjek egy bizonyos melóval, ha aztán kiderül, hogy mondjuk nem is azt a melót akarom...
+De amíg az alsó rétegek nincsenek irányítás alatt, addig el sem jutok odáig, hogy a magasabb indíttatásaimmal foglalkozzak.
 
+Ha van egy olajozott, alacsony szintű módszered, akkor az működni fog később is, bármilyen célra is fordítod.
+Ellenben ha hibátlanul kiszuszakolod az életed fő céljait, de nem tudod konkrétan végrehajtani őket -- mert egyszerűen soha nem jutsz odáig -- akkor mi is az értelme az egésznek?
+
+> Ha süllyed a hajód, akkor nem igazán érdekel, hogy irányban van-e!
+> > If your boat is sinking, you really don't care in which direction it's pointed!
 
 <br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Projekttervezés
-
-- ez igazából a "természetes" tervezési modell, amit az agyunk amúgy is használ
-    - csak nem tudatosan, ezért nem is tudunk róla
-- az öt lépés:
-    1. definiáljuk a célt és az alapelveket
-        - ez a projekt _miértje_
-        - ha nincs cél, az sem tudhatjuk, hogy mikor vagyunk ott
-        - motivál, fókuszál, opciókat teremt, ...
-        - az alapelvek pedig meghatározzák, hogy milyen "elfogadható" úton juthatunk odáig
-        - kb. "milyen feltételek mellett kapna a csapat szabad kezet?"
-    2. elképzeljük az eredményt
-        - ez is hasonló a célhoz, de inkább a "mit?", nem a "miért?"
-        - vizualizálunk, elképzeljük, szinte érezzük, hogy már ott vagyunk
-        - a fókusz a tudatalattinkat is arra serkenti, hogy "jó ötleteket" generáljon, és úgy általában arrafelé lökdössön minket, hogy a képből valóság legyen
-        - abban is segít az elképzelés, ahol tényleg csak képzeled (mert nincs vele korábbi tapasztalatod)
-
-        "I always wanted to be somebody. I should have been more specific."  -- Lily Tomlin
-
-    3. ötletelünk
-        - most jöhet a _hogyan?_
-        - ha megvan a szakadék a hol vagy és a hol akarsz lenni között, akkor az agyad automatikusan hozakodik majd elő az ötletekkel
-        - de ezek elég random sorban lesznek
-        - kicsik, nagyok, jók, rosszak
-        - sima lista vagy "brain map", csak kerüljön rögzítésre
-        - ha kiengedjük őket (és nem próbáljuk fejben tartani, ezzel bekorlátozva), akkor eleve több ötletünk lesz
-        - és a több ötletben nagyobb eséllyel lesz több jó is
-        - alapelvek
-            - csak semmi ítélet, kritika, "belekötés"
-            - mennyiség > minőség (végre egyszer)
-            - elemzést és rendszerezést a háttérbe!
-    4. rendszerezzük az ötleteinket
-        - most jöhet az analitikus gondolkozás, a sorrend, a struktúra
-        - Gantt-féle függőségek, alpontok, komponensek, prioritások, stb.
-    5. megállapítjuk a következő teendőt
-        - és végül hogy ültessük ezt át a valóságba
-        - a tapasztalatok szerint a projektek objektív listázása és mindnél a következő akciók karban tartása adja a 90%-át annak, amit az emberek a köznyelvben "projekt menedzsmentnek" hívnak
-        - emellett teszteli az eddigi 4 lépést is, mert ha _nem_ tudod megválaszolni, hogy mi legyen az első lépés, akkor baj van
-
-- annak ellenére, hogy ez a természetes, nem ez az általános
-    - úgyhogy kontrasztnak szembeállítjuk az általánossal
-    - amivel gyakran találkozni szokott a konzultációi során
-    - itt pedig az a kulcsszó, hogy "kinek van egy JÓ ötlete?"
-        - ez pedig már a folyamat végén kellene, hogy előjöjjön csak
-        - célok, elképzelés, ötletelés (jó ÉS rossz), rendszerezés
-        - és majd ezután esetleg lesz annyi rálátásunk, hogy megkülönböztethessük a jó ötleteket a többitől
-- egy másik ellenpélda a reaktív tervezés
-    - amikor csak nekiesünk
-    - és ha már kezd összeomlani minden és jön a határidő, akkor "hű, tervezzünk"
-    - amikor ez is beborul, akkor "ötleteljünk"
-    - ha ez is beborul, akkor hívnak tanácsadót
-    - aki pedig a természetes módszernek megfelelően valószínűleg azt fogja először megkérdezni, hogy "éés mi is a cél?"
-    - amit eddig talán ők maguk sem válaszoltak meg
-
-- akkor vagyunk kész, ha már nem motoszkál!
-    - projektje válogatja, hogy mennyire kell részletesnek lenni
-    - 80%-nál valszeg csak a végcél és a következő lépés elég
-    - 15%-nál már jól jöhet az ötletelés + némi jegyzet
-    - a maradék 5% igényli a teljes palettát
-- ha valaha elakadás van, szabad visszafelé elindulni a listán
-    - ha nincs meg a következő lépés, jobban kell rendezni az ötleteket
-    - ha nincs elég ötlet, hogy összeálljon a kép, többet kell ötletelni
-    - ha az nem akar menni, akkor vissza kell térni a tiszta eredmény vízióra, hogy a tudatalattink gyárthassa az ötleteket
-    - ha a vízió sem tiszta, akkor pedig vissza az elejére: miért is csináljuk mi ezt?
-- ha nem "zavarodott", hanem "eseménytelen" az elakadás, akkor meg odafelé kell pofozgatni az embereket a lépcsőkön
-- és igazából ennyi.
-- elméletben (magas szinten!) mindent tudunk, de ettől még a gyakorlatba ültetés lehet macerás
-    - úgyhogy a második részben az implementációra gyúrunk rá, jó adag részlettel kiegészítve
-
-10. fejezet -- Projekt menedzsment
-
-- horizontális vs. vertikális gondolkodás
-    - horizontális = az előző 5 lépéses móka
-        - gyors context váltások innen oda, hogy menjenek a hétköznapok
-    - vertikális = a különböző horizontok összehangolása
-        - kreatív energiák, ötletelés, ilyesmi
-        - ezért vesszük ide a projekttervezést is
-- sokszor elég csak a következő akció meghatározása
-    - de ha az után is motoszkál a projekt
-    - vagy csak úgy jönnek a hasznos, kapcsolódó ötletek
-    - akkor érdemes ilyen "informális" tervezési köröket tartani
-- fontos a jó felszerelés (akár toll/papír, akár digitális)
-    - hogy soha ne vesszen el semmi
-    - hogy soha ne legyen kifogás, hogy nincs mire feljegyezni az ötleteket
-        - az ellenállás akár magukat az ötleteket is meg tudja gátolni
-- illetve megint felmerül az általános iktatási rendszer fontossága is
-
-    "If you don't have a good system for storing bad ideas, you probably don't have one for filing good ones, either."
-
-    - már ez önmagában segít úgy érezni, hogy átlátunk egy projektet
-
-13. fejezet -- A kimenetelre koncentrálás ereje
-
-- duális hozzáállás
-    - mit akarok
-    - hogy legyen belőle valóság
-- szóval "csak" ki kell találni, aztán meg kell csinálni
-- a kihívás ott van, hogy összeházasítsuk a magas szintű, idealisztikus eredményt az alacsony szintű, hétköznapi melóval
-
-    "An idealist believes that the short run doesn't count. A cynic believes the long run doesn't matter. A realist believes that what is done or left undone in the short run determines the long run."  -- Sydney J. Harris
-
-- szervezeti szinten a meeting/e-mail páros fogja le leginkább az energiákat
-    - ahol nincs meg egy tiszta végcél (és ugye az előzőből a következő akció kijelölése)
-
-Your work is to discover your work and then with all your heart to give yourself to it.  -- Buddha
-
-<br />
 
 
 
@@ -829,14 +628,14 @@ Your work is to discover your work and then with all your heart to give yourself
 
 Itt kb. az eredeti könyvnek már vége, de az első megjelenése óta volt egy csomó érdekes kognitív és szociális kutatás, ami szépen alátámasztja a benne tárgyalt elveket.
 
-A **pozitív pszichológia** arra nyit, hogy ne csak a negatívumokra figyeljünk már mindig.
+A **pozitív pszichológia** kezdeményezése, hogy ne csak a negatívumokra figyeljünk már mindig.
 A boldogság, a mentális jólét, az élet értelme, és egyéb apróságok is megérnének egy misét.
 Szerencsére ezekre is egyre több a "formális" tananyag, és a GTD is besegíthet.
 Itt sem "csak" `TODO` listák vannak ugye, és a mentális tisztaság, a helyes priorizálás, a boldogság, a siker, stb. itt is célok -- és következmények.
 
 Az **elosztott tudat** területe egy külső agy értékét hirdeti.
-Jelmondata, hogy "Az agyad az ötletekre kitalálására való, nem a tárolásukra".
-És ha nem kell emlékezni, akkor sokkal könnyebben fog menni a gondolkozás -- mert arra való.
+Jelmondata, hogy "Az agyad az ötletek kitalálására való, nem a tárolásukra".
+És ha nem kell emlékezni, akkor sokkal könnyebben fog menni a gondolkozás -- mert arra viszont _való_ az agyad.
 
 A **kognitív terhelés** témakörében kutatások igazolták, hogy a "befejezetlen" szálak tényleg ide tartoznak.
 És jó hír, hogy nem is csak akkor tűnnek el, ha készen lesznek; már akkor is, ha egy megbízható rendszerbe kerülnek.
@@ -845,19 +644,19 @@ A **flow elmélet** esetében szintén nagyon hasonló a cél, és kb. mindenben
 A GTD tulajdonképpen csak alacsonyabb szinten segíti elő az ott leírt elveket.
 
 Az **ön-vezetés elmélet** három ága is mind kapcsolódik valahogy.
-A saját viselkedésünk irányítása megfeleltethető a rendszeres emlékeztetőknek; a természetes adottságaink kihasználása lehet mondjuk a kis idők kitöltésével apró "győzelmek" bezsákolása;
-a pozitív gondolkodást pedig kipipálja a cél vizualizálás és lépésekre bontás (amiket már "felérünk ésszel").
+A saját viselkedésünk irányítása megfeleltethető a rendszeres emlékeztetőknek; a természetes adottságaink kihasználása pedig lehet mondjuk a kis idők kitöltésével apró "győzelmek" bezsákolása.
 
-Az **implementációs szándékok** arra alapoznak, hogy ha előre elhatározod, hogy mikor és mit fogsz tenni egy bizonyos cél érdekében, akkor az adott pillanatban meg is lesz rá az erőd és a kapacitásod.Ez pedig azért jó, mert nem kell az -- igencsak korlátozott mennyiségű -- akaraterődből "költeni rá".
-A GTD "szoros" rendszere ehhez megint eléggé jól kapcsolódik.
+Az **implementációs szándékok** arra alapoznak, hogy ha előre elhatározod, hogy mikor és mit fogsz tenni egy bizonyos cél érdekében, akkor az adott pillanatban meg is lesz rá az erőd és a kapacitásod.
+Ez pedig azért jó, mert nem kell az -- igencsak korlátozott mennyiségű -- akaraterődből "költeni rá".
+A GTD szoros rendszere ehhez megint eléggé jól kapcsolódik.
 
 Végül a **Pszichológiai Erőforrás** (PsyCap) gyűjtőnév az önállóság, az optimizmus, a reményteliség (itt: mi a cél, és milyen utakon juthatsz oda), és az ellenállóság együttese.
-Gondolom senki nem lepődik meg, ha azt mondom: a GTD mindet támogatja:
+Gondolom senki nem lepődik meg, ha azt mondom, hogy a GTD mindet támogatja:
 
-- önálló leszel, mert mindig tudod, hogy mik a felelősségeid, és hogy mit tehetsz az érdekükben;
-- optimista, mert arra nevel, hogy "megy ez, ha viszed", ami miatt több és nagyobb dolgokat mersz majd vállalni;
-- reményteli, mert beazonosítod a céljaidat, és több potenciális utat is, ami miatt nehezebben fogsz elakadni; és
-- ellenálló, mert az előre nem látott -- vagy akár előre nem látható -- nehézségekben is stabilitást ad, és segít megőrizni a hidegvéred.
+- **önálló** leszel, mert mindig tudod, hogy mik a felelősségeid, és hogy mit tehetsz az érdekükben;
+- **optimista**, mert arra nevel, hogy "megy ez, ha viszed", ami miatt több és nagyobb dolgokat mersz majd vállalni;
+- **reményteli**, mert beazonosítod a céljaidat, és több potenciális utat is, ami miatt nehezebben fogsz elakadni; és
+- **ellenálló**, mert az előre nem látott -- vagy akár előre nem látható -- nehézségekben is stabilitást ad, és segít megőrizni a hidegvéred.
 
 
 <br />
@@ -888,21 +687,19 @@ Gondolom senki nem lepődik meg, ha azt mondom: a GTD mindet támogatja:
 
 ## Mesterré válás
 
-A GTD eléggé olyan, mint egy hangszer vagy egy sport: nincs "vége", egy életen át tökéletesítgethető művészet.
-Cserébe viszont az egész elsajátítása nagyobb eredményhez vezet, mint a részeinek összege.
-Jó példa a autó vezetés, ahol először a kormány, a váltás és az index is külön-külön figyelmet igényelnek, de idővel már csak arra figyelsz, hogy hova mész.
+A GTD eléggé olyan, mint egy hangszer vagy egy sport elsajátítása: soha nincs "vége", egy életen át tökéletesítgethető művészet.
+Cserébe viszont -- a hangszerekhez és a sportokhoz hasonlóan -- az egész nagyobb eredményhez vezet, mint a részeinek összege.
 
-Itt is kezdhetünk hasonlóan az **alapokkal**.
-Egyesével figyelünk a begyűjtése, a következő lépések meghatározására, a várólistákra, a személyenkénti tennivaló listákra, egy átlátható és gyors referencia rendszerre, a lecsupaszított naptárra, és a heti átnézésre.
+**Alapszinten** még egyesével figyelünk a begyűjtésre, a következő lépések meghatározására, a várólistákra, a személyenkénti `TODO` listákra, egy átlátható és gyors referencia rendszerre, a lecsupaszított naptárra, és a heti átnézésre.
 Minddel könnyen el lehet csúszni, még ha magukban nem is nagy dolgok, de -- pont mivel nem nagy dolgok -- visszamászni is ugyanolyan könnyű!
 Akár évekig is eltarthat, mire minden rutin szintre süllyed, viszont ha megvan, akkor stabil lesz az óráról-órára, napról-napra szint.
 
-**Haladóként** már inkább a hétről-hétre, vagy hónapról-hónapra szint a cél.
-Egyre magasabb horizontos gondolkodás és rend lesz jellemző, illetve az akcióink mellett már a projektek és a területek is rendben lesznek.
+**Haladóként** már inkább a hétről-hétre, vagy hónapról-hónapra felbontás a cél.
+Egyre magasabb horizontos gondolkodás és rend lesz jellemző, illetve az akcióink mellett már a projektek és az állandó felelősségeink is rendben lesznek.
 Ekkorra már jellemzően testre szabtuk és a saját életmódunkba integráltuk a módszert bizonyos mértékben.
-Jó jel az is, hogy ha valami váratlan jön, az nem hogy kilökne a rendszeredből, hanem pont hogy ott keresünk "menedéket".
+Jó jel továbbá az is, hogy ha valami váratlan jön, az nem hogy kilökne minket a rendszeredből, hanem pont hogy abban keresünk "menedéket".
 
-**Mesterként** pedig -- a vezetéshez hasonlóan -- már pont nem a rendszer van a középpontban.
+**Mesterként** meg már épp nem a rendszer van a középpontban.
 A felszabaduló energiákat pedig használhatjuk az érdeklődéseink és kapcsolataink elmélyítésére, vagy a külső agyunkkal hozzáadott értéket teremthetünk.
 A letisztult rendben olyan összefüggéseket láthatunk meg, amiket amúgy nem, és az életünk területeinek váratlan vegyítéséből gyakran hasznot húzhatunk.
 
@@ -928,3 +725,18 @@ A letisztult rendben olyan összefüggéseket láthatunk meg, amiket amúgy nem,
 
 
 ## Összefoglalás
+
+A GTD-vel egy olyan általánosan alkalmazható eszközkészletet kapunk, amivel képesek lehetünk a legzűrösebb, leghektikusabb fejetlenségbe is rendet vinni.
+Nyilván a fegyelmet és a munkát nem váltja ki, de legalább nem a módszertan hiányán csúszunk majd el a fegyelmezett munka közben.
+
+Összefoglalásnak egy mechanikus ismétlés helyett a számomra legfontosabb tanulságokat emelném ki:
+
+- Nagy hangsúlyt kap, hogy **írjunk le dolgokat**. Mérhetetlen változáson vagyok túl mióta nem próbálok mindent fejben tartani. A fejünk _nem_ alkalmas arra, hogy a mai világ komplexitásával egyedül birkózzon meg. Írjuk le a dolgokat!<br />
+
+- Kapunk egy konkrét **sablont** is, hogy _hogyan_ írjuk le a dolgokat, ami által a folyamat egyszerűbben gépiesíthető, és így hamarabb süllyed rutin szintre.<br />
+
+- Ez az egész csak arról szól, hogy sztenderdizáljuk, milyen **emlékeztetőket** kérünk a dolgainkról és mikor. Nagy _ahaaa!_ pillanat volt, amikor ez leesett.<br />
+
+- Szintén fontos mentális modellt adott az rész, ahol a tennivalókkal kapcsolatos stresszt a magunkkal szemben **megszegett fogadalmakra** vezette vissza. Ahhoz, hogy meg tudjuk oldani a problémáinkat, először tisztán kellene látnunk őket.<br />
+
+- Végül pedig a többször említett **"alulról felfelé"** hozzáállást hoznám fel újra, mert nagyon fontos igazságra mutat rá. Ha alacsony szinten nincs rendben a napirended, akkor mindegy, mik a nagy céljaid, mert úgysem jutsz odáig. Először szedd össze magad, és majd aztán jöhet a világ megváltása!<br />
