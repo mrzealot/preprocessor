@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://preprocessor.hu" # the base hostname & protocol for your site, e.g. http://example.com
 facebook: https://facebook.com/PreprocessorBlog
 twitter: https://twitter.com/PreprocessorHu
+instagram: https://www.instagram.com/preprocessorblog
 
 # Build settings
 markdown: kramdown
