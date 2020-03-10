@@ -31,6 +31,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-paginate
 
 remote_theme: mrzealot/minima
 
@@ -42,6 +43,8 @@ minima:
 show_excerpts: true
 permalink: /:categories/:title
 lang: hu
+paginate: 10
+paginate_path: "/:num/"
 
 exclude:
   - 'readme.md'
