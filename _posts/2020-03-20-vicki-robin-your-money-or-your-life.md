@@ -87,7 +87,7 @@ Szóljatok, ha gyanús, hogy körbe megyünk!
 Az igazság az, hogy alapból boldogtalanok vagyunk, bevételtől függetlenül.
 Kérdőíves tesztek azt mutatják, hogy mindig csak pont még 50% kellene, és akkor minden jó lenne.
 Kár, hogy 50%-kal feljebb is ugyanezt mondja mindenki...
-Szóljatok, ha gyanús, hogy körbe megyünk!
+_Szóljatok, ha gyanús, hogy körbe megyünk!_
 
 Nem elég, hogy magunkkal kibaszunk, még a bolygót is szétpusztítjuk menet közben.
 A megoldások helyett sokan még most is arról vitatkoznak, hogy egyáltalán van-e probléma.
@@ -125,7 +125,7 @@ Igyekezzünk minél pontosabbnak lenni -- annál többet fog érni ez a lépés.
 #### 1/B. Hogy állunk most?
 
 Abból, ami egész életünkben bejött, mennyi van még most is meg?
-A teljes vagyonod = minden, amink van - minden, amivel tartozunk.
+A teljes vagyonunk minden, amink van, mínusz minden, amivel tartozunk.
 Nyilván az oktatásunk vagy a kapcsolatrendszerünk nem felbecsülhető, pedig ezekre is valószínűleg elment egy kisebb vagyon.
 De most csak a számok érdekelnek.
 
@@ -163,71 +163,99 @@ De most csak a számok érdekelnek.
 
 ## <a name="2"></a>A pénzről
 
-- ha végre a múltból a jelenbe értünk, nézzük meg, MI is az, hogy pénz
-    - (szinte) mindannyiunknak kötelező kapcsolata van vele, de legtöbben mégsem tudjuk, hogy _mi_ is az
-    - és enélkül pedig nehéz lesz vele egy mélyebb és helyesebb kapcsolatot kialakítani!
-- 4 horizont
-    - **utcaszint** -- fizikai
-        - a fizikai papír és érmék, minden fizetett munkánk, minden napi tranzakciónk
-        - milyen számla típusok vannak, hogy vegyünk fel kölcsönt, hitelkártyák, befektetések
-        - adók, biztosítások, jótékonyság, ...
-        - ez kb. a pénzügyi írástudás szintje
-        - a legtöbben még ezt a szintet SE értik, de ha igen, akkor is max csak ezt a szintet
-        - lehet, hogy jobb hitelt tudnak maguknak kicsikarni, de azt akkor sem kérdezik meg maguktól, hogy kell-e hitel!
-    - **szomszédság** -- érzelmi és pszichológiai
-        - az egyén szintje felett elkezdünk mintákat látni a káoszban
-        - hogy állsz hozzá ehhez az egészhez, és azt honnan hozod
-        - őszintén tisztázd magadban, hogy milyen hozzáállási csoportokba tartozol
-            - szereted, utálod, soha nem volt elég, az a nők dolga, erről nem illik beszélni, nekem több van, mint a többieknek, ...
-        - biztonságnak tekinted a hideg világ ellen?
-            - ok, tényleg nem árt, ha van miből hol lakni, mit enni, és társai
-            - de ha éjjel pénzzel mászkálsz, az nem fog biztonságot adni
-        - hatalmasnak érzed magad tőle?
-            - ok, tényleg jobban azt teheted, amit akarsz
-            - de a szegényeknek is lehet komoly lelki-hatalma (Gandhi)
-        - társadalmi elfogadást kapsz tőle?
-            - ok, tényleg megolajozhatja egy csomó emberi kapcsolatod
-            - de önmagában nem teremt semmit, csak max megolajoz.
-        - gonosznak tartod?
-            - ok, tényleg lehet vele gonosz dolgokat csinálni
-            - de ettől nem a pénz a gonosz, hanem aki a gonoszt csinálja vele
-    - **városi látkép** -- kulturális
-        - meglátjuk, hogy csak a hitünk ad értéket a pénznek
-        - univerzális cserealap és értéktár
-        - de itt jönnek be olyan finomságok is, mint pl. az infláció, a recesszió, vagy akár a megélhetési költség
-        - itt érezzük a "több = jobb" elvet és az állandó növekedés utáni hajszát
-        - emiatt egymást is a pénzük alapján ítéljük meg
-    - **helikopterek kilátás** -- személyes felelősség és átalakulás
-        - ha még feljebb megyünk, meglátjuk, hogy a város nem az egész világ
-            - vannak mondjuk környező falvak, ahol nagyon máshogy megy az élet
-            - és attól, hogy a városba születtünk, nem muszáj maradni
-        - és itt végre egy univerzálisan igaz állítás a pénzről, ami nem csak a hitünk kérdése: **A pénz az, amiért az életenergiánkat elcseréljük**.
-- mi a FI -- illetve mi _nem_?
-    - ne gazdagok akarjunk lenni, mert az egy fizikai szintű nézet
-        - és különben is, olyan nincs, hogy "gazdag"... olyan van, hogy valakinél _gazdagabb_
-        - és amint elérjük, feljebb tolódik
-    - lépjünk a személyes felelősség szintjére, és határozzuk meg, hogy mit jelent nekünk az **elég**
-        - na az elérhető lesz
-    - ez az egész első sorban egy hozzáállás, és így már nem Te leszel a pénz szolgája, hanem fordítva
+Ha végre a múltból a jelenbe értünk, nézzük meg, _mit_ is jelent az, hogy pénz?
+Mindannyiunknak kötelező kapcsolata van vele, de legtöbben mégsem tudjuk, hogy _mi_ is az.
+És enélkül pedig nehéz lesz vele egy mélyebb és helyesebb kapcsolatot kialakítani!
+A könyv 4 különböző _horizonton_ keresztül mutatja be, hogy mennyire nem mindegy, honnan nézzük a dolgokat.
+Gondoljunk erre úgy, mintha a változó magasságokból tekintenénk le egy városra.
 
-- SZÓVAL, 2. LÉPÉS: Kövessük nyomon a jelent!
-- két fő része
-    - mennyi az _igazi_ órabéred?
-        - és NEM csak munkabér osztva munkaórákkal!
-        - mi az, amit a munkád miatt csinálsz, és nélküle nem kellene?
-        - maga a nyers munka mellett a munkába járás, a helyes öltözködés, a főzés hiánya miatti drágább kaják, a "csináld magad" javítások helyetti cserék vagy szerelői díjak, a munka miatti "leeresztési" és szórakozási szükségleteid, a munkahelyi státuszhoz elengedhetetlen vakációk, az munkahelyi stressz miatti esetleges egészségügyi költségeid mennyi időt és pénzt emésztenek fel?
-        - és ha így nézed, akkor ténylegesen mennyit is keresel óránként?
-            - és akkor ebben még az egyéb "munkáról gondolkozás", a karriertervezés, vagy a széteső életed összekapargatása még nincs is benne
-        - ezzel a tudással pedig sokkal jobban tudod majd optimalizálni az életed, illetve megválogatni a munkádat 
-    - mennyi pénz jön be és megy ki?
-        - fillérre pontosan! igen, tényleg!
-        - mindegy, hogy csinálod (papíron, digitálisan), hogy kategorizálsz, de pontos legyen!
-        - de mééér kell?! és főleg, méér ilyen pontosan?! -- azért, mert ez szoktat hozzá, hogy figyeld, hova folyik el az életed
-            - ezt már csak megéri követni, nem?!
-        - ha már most kis csalásokat és kerekítéseket akarsz, akkor abból hosszú távon nem lesz semmi!
-        - szóval nincs engedékenység, és az igaz-hamis elválasztása fontosabb mint a jó-rossz
+- **Utcaszint** -- fizikai vonatkozások.
+Itt találkozunk a fizikai papír fecnikkel és érmékkel, itt jelenik meg minden fizetett munkánk, minden napi tranzakciónk.
+Ehhez érdemes tudni, hogy milyen számla típusok vannak, hogyan vegyünk fel kölcsönt; hitelkártyák, befektetések
+adók, biztosítások, jótékonyság, stb.
+Ez lenne kb. a pénzügyi írástudás szintje, de sajnos a legtöbben még ezt a szintet **se** értik.
+Ha pedig igen, akkor is legfeljebb ezt a szintet.
+Lehet, hogy jobb hitelt tudnak maguknak ezzel a tudással kicsikarni, de azt akkor sem kérdezik meg maguktól, hogy kell-e nekik hitel egyáltalán!
 
+- **Szomszédság az 50. emeletről** -- érzelmi és pszichológiai vonatkozások.
+Az egyén szintje felett elkezdünk mintákat látni a káoszban.
+Fontos, hogy hogyan állsz hozzá ehhez az egész témához, és azt honnan hozod.
+Tisztázd magadban őszintén, hogy milyen vélemény csoportokba tartozol: szereted, utálod, soha nem volt elég, ez a nők dolga, erről nem illik beszélni?
 
+    - **Biztonság**nak tekinted a hideg világ ellen?
+    Ok, tényleg nem árt, ha van miből hol lakni, mit enni, és társai.
+    De ha éjjel pénzzel mászkálsz, az nem fog biztonságot adni.
+
+    - **Hatalmas**nak érzed magad tőle?
+    Ok, tényleg jobban azt teheted, amit akarsz.
+    De a szegényeknek is lehet komoly lelki-hatalma -- vegyük mondjuk Gandhit.
+
+    - Társadalmi **elfogadás**t kapsz tőle?
+    Ok, tényleg megolajozhatja egy csomó emberi kapcsolatod.
+    De önmagában nem teremt semmit, csak max megolajoz.
+
+    - **Gonosz**nak tartod?
+    Ok, tényleg lehet vele gonosz dolgokat csinálni.
+    De ettől nem a pénz a gonosz, hanem aki a gonoszságot csinálja vele.
+
+- **Városi látkép a 100. emeletről** -- kulturális vonatkozások.
+Bejön a formálisabb definíció, miszerint a pénz nem más, mint univerzális cserealap és értéktár.
+De itt már meglátjuk azt is, hogy csak a hitünk ad értéket a pénznek.
+Nem lehet megenni és nincs mögötte arany sem; csak úgy rámondtuk.
+Keressetek rá, mi is az a "fiat" pénz...
+<br />
+Itt jönnek még olyan finomságok, mint pl. az infláció, a recesszió, vagy akár a megélhetési költség.
+Innentől érezzük a társadalom jóvoltából a "több = jobb" elvet és az állandó növekedés utáni hajszát.
+És emiatt egymást is a pénzük alapján ítéljük meg.
+
+- **Helikopteres kilátás** -- személyes felelősség és átalakulás.
+Ha még feljebb megyünk, meglátjuk, hogy a város nem az egész világ.
+Vannak mondjuk környező falvak, ahol nagyon máshogy megy az élet.
+Attól, hogy a városba születtünk, nem muszáj maradni.
+És itt -- a társadalmi és kulturális elvárások fölé emelkedve -- végre eljutunk egy univerzálisan igaz állításig a pénzről, ami nem csak a hitünk kérdése: **A pénz az, amiért az életenergiánkat elcseréljük**.
+
+Ne gazdagok akarjunk tehát lenni, mert az egy fizikai szintű nézet -- de legalábbis társadalmilag diktált.
+És különben is, olyan nincs, hogy "gazdag"...
+Olyan van, hogy valakinél _gazdagabb_.
+Csak amint ezt elérjük, egyből feljebb tolódik a mérce.
+
+Lépjünk inkább a személyes felelősség szintjére, és határozzuk meg, hogy mit jelent nekünk az **elég**.
+Na az elérhető lesz!
+Ez az egész első sorban egy hozzáállásbeli változtatás, aminek hatására már nem mi leszünk a pénz szolgái, hanem fordítva.
+
+### 2. Kövessük nyomon a jelent!
+
+Ezek fényében próbáljuk meg kiértékelni, hogy miért is cseréljük be az életenergiánkat.
+A jelen helyes megítéléséhez egyrészt tudnunk kell a _valós_ órabérünket, illetve hogy mennyi pénz is folyik így át a kezeink között.
+
+#### 2/A. Mennyi az _igazi_ órabéred?
+
+Ez a pont elsőre könnyűnek hangozhat, de komplexebb, mint gondolnánk.
+Nem csak munkabér osztva munkaórákkal!
+Minden olyat is bele kell venni, amit a munkád miatt csinálsz, de nélküle nem kellene.
+
+Maga a nyers munka mellett a munkába járás, a helyes öltözködés, a főzés hiánya miatti drágább kaják, a "csináld magad" javítások helyetti cserék vagy szerelői díjak, a munka miatti "leeresztési" és szórakozási szükségletek, a munkahelyi státuszhoz elengedhetetlen vakációk, az munkahelyi stressz miatti esetleges egészségügyi költségek...
+Ezek mennyi időt és pénzt emésztenek fel?
+És akkor ebben még az egyéb "munkáról gondolkozás", a karriertervezés, vagy a széteső életed összekapargatása még nincs is benne...
+
+Ha így nézzük, akkor a tényleges óránkénti keresetünk hirtelen elég szomorú lesz.
+De ne szomorkodjunk, mert ezzel a tudással sokkal jobban tudjuk majd optimalizálni az életünket.
+
+#### 2/B. Mennyi pénz jön be és megy ki?
+
+Na itt viszont semmi mágia nincs, csak lelkiismeretesen könyvelni kell.
+Fillérre pontosan!
+Igen, tényleg!
+Mindegy, hogy hogyan csinálod (papíron, digitálisan) vagy milyen kategóriákat használsz, de pontos legyen!
+
+_"De mééér kell?! És főleg, méér ilyen pontosan?!"_ -- Azért, mert ez szoktat hozzá, hogy figyeljük, hova folyik el az életünk!
+Ezt már csak megéri követni, nem?!
+Ha már most kis csalásokat, kerekítéseket és "nagyjából figyeléseket" akarnánk, akkor abból hosszú távon nem lesz semmi!
+Szóval nincs engedékenység!
+Ne feledjük továbbá: nincs szégyen és nincs hibáztatás!
+Az igaz-hamis elválasztása fontosabb mint a jó-rossz megítélés.
+
+<br />
 
 
 
@@ -258,37 +286,50 @@ De most csak a számok érdekelnek.
 
 ## <a name="3"></a>És hova is megy mindez?
 
-- először is rá kell ébrednünk, hogy függők vagyunk. pénz függők
-    - csak mivel mindenki más is az, ezért nem tűnik fel, és nem zavarnak rögtön rehabra
-    - de ettől most nehogy elszégyelljük magunkat, és vadul diétázni kezdjünk!
-    - ha diétaként akarunk hozzáállni, akkor kb. ugyanolyan jól is fog elsülni, mint egy diéta -- vagyis _nem_ jól
-- legyünk helyette **tudatosak**!
-    - elkezdesz külső hatások helyett belső jelekre figyelni, és a konkrét havi költésed helyett a költési mintáidat változtatod meg
-    - mint egy kajás életmódváltásnál is: akkor eszel, ha éhes vagy (nem akkor, ha unatkozol, ha jutalmat akarsz, stb.), és nem a konkrét kajákra figyelsz, hanem inkább az étkezésedre úgy általában
+Először is rá kell ébrednünk, hogy függők vagyunk.
+Pénz függők.
+Csak mivel mindenki más is az, ezért nem tűnik fel, és nem zavarnak rögtön rehabra.
+De ettől meg nehogy elszégyelljük magunkat, és vadul diétázni kezdjünk!
+Ha diétaként akarunk hozzáállni, akkor kb. ugyanolyan jól is fog elsülni, mint egy diéta -- vagyis _nem_ jól.
 
-- SZÓVAL, 3. LÉPÉS: Alakítsuk ki a saját költési kategóriáinkat!
+Legyünk helyette **tudatosak**!
+Itt az alkalom, hogy elkezdjünk külső hatások helyett belső jelekre figyelni, és a konkrét havi költésünk helyett a költési mintáinkat megváltoztatni.
+Mint egy (rendes) kajás életmódváltásnál is: akkor eszel, ha éhes vagy (nem akkor, ha unatkozol, ha jutalmat akarsz, stb.), és nem a konkrét kajákra figyelsz, hanem inkább az étkezésedre úgy általában.
 
-- az eddig bejövő adatokból szépen látnunk kell, hogy hova megy az életenergiánk
-    - ne próbáljuk magunkat előgyártott, generikus kategóriákba gyömöszölni
-    - keressünk inkább mintákat a saját költésünkben, hogy felismerjük a személyre szabott kategóriáinkat
-- aztán egy csomó példa, hogy milyen medrekben gondolkozzunk
-    - oké, kaja, de bolt, vagy vendéglátás, vagy "rágcsa", vagy étteremben voltunk?
-    - az összegek ugye fillérre pontosak! de a kategóriák közti szétosztás lehet sokkal tippelősebb
-- a részletek itt azért kellenek, mert ebből fogod a saját mintáidat igazán megismerni
-    - ami pedig ugye előfeltétele annak, hogy változtatni tudj rajtuk
-- idővel ez persze fejlődik, követi az életedet
-    - pl. amikor már sorban a 8. hónapban kell azt mondanod, hogy "na jó, de ez most különleges eset volt, mert be kellett fizetni EZT", akkor majd talán rájössz, hogy bizonyos kiadások csak azért "váratlanok", mert Te nem vártad őket.
-    - az új ismereteid birtokában viszont senki nem állíthat meg, hogy ezután majd már várd őket!
-- megjegyzés: itt a kategorizálás a lényeg, nem a konkrét vezetés
-    - vannak nyilván programok, amik összeadják helyetted, kimutatásokat és grafikonokat csinálnak, stb.
-    - de azt _nem_ csinálja meg helyetted egyik program sem, hogy a becímkézi, melyik oszlopba tartozik!
-- a vezetés mellett utána persze el is kell számolni, hogy tényleg annyi pénzed van-e, mint amennyi az elszámolás szerint kellene, hogy legyen
-    - volt már, hogy 5 forint hiányzott, és megtaláltam a szék lába alatt! említettem, hogy PONTOSSÁG?!
-- végül kijön egy konkrét összeg minden kategóriára
-    - de ez még csak a követés... a megtérés majd csak most jön
-- számold ezt át életenergiába!
-    - tényleg megéri az a drága telefon? nem adná ugyanezt egy negyed ennyibe kerülő?
-    - a kettő különbözetét nem tudnád másra fordítani? tényleg nem érsz rá a családdal időt tölteni? vagy többet aludni?
+### 3. Alakítsuk ki a saját költési kategóriáinkat!
+
+Ennek tükrében nekiláthatunk megismerkedni a saját költési szokásainkkal.
+Az eddig bejövő adatokból szépen látnunk kell, hogy hova megy az életenergiánk.
+Fontos azonban, hogy ne próbáljuk magunkat előgyártott, generikus kategóriákba gyömöszölni!
+Keressünk inkább mintákat a saját költésünkben, hogy felismerjük a személyre szabott kategóriáinkat.
+
+Itt szerepel egy csomó példa, hogy milyen medrekben gondolkozzunk.
+Oké, hogy kaja, de bolt, vagy vendéglátás, vagy "rágcsa", vagy étteremben voltunk?
+Az összegek ugye fillérre pontosak, de a kategóriák közti szétosztás lehet sokkal tippelősebb.
+A részletek itt inkább azért kellenek, mert ebből fogjuk a saját mintáinkat igazán megismerni.
+Ami pedig ugye előfeltétele annak, hogy változtatni tudjunk rajtuk.
+
+Idővel ezek a kategóriák persze fejlődnek.
+Követik az életünket, és visszatükröznek esetleg kellemetlen igazságokat is.
+Például amikor már sorban a 8. hónapban kell azt mondanunk, hogy "Na jó, de ez most különleges eset volt, mert be kellett fizetni EZT!", akkor majd talán rájövünk, hogy bizonyos kiadások csak azért "váratlanok", mert mi konkrétan nem vártuk őket.
+De várhattuk volna!
+És az új ismereteink birtokában senki nem is állíthat meg, hogy ezután már várjuk őket!
+
+Lényeges még, hogy a könyvelés mellett utána el is kell számolni, hogy tényleg annyi pénzünk van-e, mint amennyi az elszámolás szerint kellene, hogy legyen!
+Személy szerint én ezt igyekszem nagyon szigorúan venni.
+Például jártam már úgy, hogy a készpénz egyeztetésénél 5 forint hiányzott -- amit végül megtaláltam a szék lába alatt! Említettem már, hogy PONTOSSÁG?!
+
+Megjegyezzük még, hogy ebben a lépésben maga a kategorizálás a lényeg, nem az, hogy konkrétan hogyan vezetjük.
+Vannak nyilván programok, amik összeadják az oszlopokat helyettünk, kimutatásokat és grafikonokat csinálnak, stb.
+De azt _nem_ csinálja meg helyettünk egyik program sem, hogy a becímkézi, melyik oszlopba mi tartozik!
+
+Végül kijön egy összeg minden kategóriára, de ez még csak a követés...
+A "megtérésünk" majd valószínűleg azzal jön, amikor ezt átszámoljuk életenergiába!
+Tényleg megéri az a drága telefon?
+Nem adná ugyanezt egy negyed ennyibe kerülő?
+A kettő különbözetét pedig nem tudnánk másra fordítani?
+Tényleg nem érünk rá mondjuk több időt tölteni a családdal?
+Vagy akár csak többet (eleget?) aludni?
     
 
 
