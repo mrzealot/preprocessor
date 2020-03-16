@@ -111,7 +111,7 @@ Egy szintig több = jobb, ami egyre lassul, majd idővel akár vissza is fordul 
 Ha ennek a görbének a tetején megállnánk, az lenne pont az "elég".
 Amink ezen felül van, az kacat, és aktívan rossz hatással van ránk.
 
-### 1. Kössünk békét a múlttal
+### 1. lépés: Kössünk békét a múlttal
 
 Ezek fényében próbáljuk meg kiértékelni, hogy hol is állunk a cucc-boldogság skálán.
 Ahhoz, hogy utolérjük magunkat, egyrészt el kell számolnunk azzal, hogy mennyit kerestünk egész eddigi életünk során, és hogy mit tudunk ezért cserébe felmutatni.
@@ -223,7 +223,7 @@ Lépjünk inkább a személyes felelősség szintjére, és határozzuk meg, hog
 Na az elérhető lesz!
 Ez az egész első sorban egy hozzáállásbeli változtatás, aminek hatására már nem mi leszünk a pénz szolgái, hanem fordítva.
 
-### 2. Kövessük nyomon a jelent!
+### 2. lépés: Kövessük nyomon a jelent!
 
 Ezek fényében próbáljuk meg kiértékelni, hogy miért is cseréljük be az életenergiánkat.
 A jelen helyes megítéléséhez egyrészt tudnunk kell a _valós_ órabérünket, illetve hogy mennyi pénz is folyik így át a kezeink között.
@@ -296,7 +296,7 @@ Legyünk helyette **tudatosak**!
 Itt az alkalom, hogy elkezdjünk külső hatások helyett belső jelekre figyelni, és a konkrét havi költésünk helyett a költési mintáinkat megváltoztatni.
 Mint egy (rendes) kajás életmódváltásnál is: akkor eszel, ha éhes vagy (nem akkor, ha unatkozol, ha jutalmat akarsz, stb.), és nem a konkrét kajákra figyelsz, hanem inkább az étkezésedre úgy általában.
 
-### 3. Alakítsuk ki a saját költési kategóriáinkat!
+### 3. lépés: Alakítsuk ki a saját költési kategóriáinkat!
 
 Ennek tükrében nekiláthatunk megismerkedni a saját költési szokásainkkal.
 Az eddig bejövő adatokból szépen látnunk kell, hogy hova megy az életenergiánk.
@@ -331,7 +331,7 @@ A kettő különbözetét pedig nem tudnánk másra fordítani?
 Tényleg nem érünk rá mondjuk több időt tölteni a családdal?
 Vagy akár csak többet (eleget?) aludni?
     
-
+<br />
 
 
 
@@ -362,38 +362,45 @@ Vagy akár csak többet (eleget?) aludni?
 
 ## <a name="4"></a>Mennyi az elég?
 
-- a felnövéssel gyakran az álmaink is összezsugorodnak
-    - de ha nem akarnánk ennyire kocka alakúra faragni magunkat, hogy illeszkedhessünk a társadalom által prezentált kocka alakú lyukba, akkor talán észre is vennénk, hogy mit szeretnénk
-- mire vágytunk régen, mit tervezgettünk mindig is, mit csinálnánk, ha nem kellene dolgozni, mi lenne, ha már csak egy évünk lenne hátra...
-    - Marcus!
-- ez a lépés leporoltatja veled a régi álmaidat
-    - hogy aztán visszaépíthesd a hétköznapjaidba
+A felnövéssel gyakran az álmaink is összezsugorodnak.
+De ha nem akarnánk ennyire kocka alakúra faragni magunkat, hogy illeszkedhessünk a társadalom által prezentált kocka alakú lyukba, akkor talán észre is vennénk, hogy mit szeretnénk.
 
-4. lépés: A 3 nagy kérdés
+Mire vágytunk régen?
+Mit tervezgettünk mindig is?
+Mit csinálnánk, ha nem kellene dolgozni?
+Mi lenne, ha már csak egy évünk lenne hátra? -- lásd [Marcus]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}).
+Ez a fázis nem csak felülvizsgálja a költéseidet, de menet közben gyakorlatilag "leporoltatja" veled a régi álmaidat.
 
-- 3 kérdést teszünk fel a havi összegzésünk tudatában,  "+", "0", vagy "-" minden oszlopba
-    1. arányosan kapok-e elégedettséget és értéket az elköltött életenergiámért az adott kategóriában?
-        - itt sem baj, ha egyedi vagy, csak _neked_ legalább érje meg, amit csinálsz
-            - ez a gyakorlat bekalibrálja a belső elégedettség szenzorodat
-            - jobban fogod érezni, hogy tényleg kell-e az neked, amiről épp szó van
-        - képzeljük úgy el, mintha egy intercity vonat menne "Nem elég"-ből "Túl sok"-ba, és az "Épp elég" csak valahol félúton egy kis falucska
-            - ha nem figyelsz, akkor el fogod hagyni
-            - de ha megélezed az érzékeidet, és rendbe teszed az értékrended, akkor idővel ott tudsz majd leszállni!
-    2. egyezik-e ez a kiadás az elveimmel és az értékrendemmel?
-        - itt ellenőrizheted, hogy bort iszol-e, miközben vizet prédikálsz...
-        - és itt se verjük át magunkat, hogy "de hát az muszáj, annak semmi köze az értékeimhez"!
-        - mindig van választásod, és ha te azt választod, hogy olyan szituációba kényszeríted magad, ahol már "muszáj", az is a Te lelkeden szárad!
-        - az életcélod meghatározásához pont a Frankl könyvet ajánlják itt is
-    3. hogy változna az adott kategória, ha nem dolgoznék?
-        - valószínűleg az fog kijönni, hogy sok minden csökkenne -- vagy akár nem is lenne
-        - az is egy fajta függőség, hogy mindent csak pénzzel tudsz fenntartani, még ha van is pénzed
-        - de ha lenne időd magadról gondoskodni, akkor már annyi pénz sem kellene
-- extra 4. kérdésnek még az sem ártana, hogy "ez a költésem hogy hat a bolygóra?"...
-- ez a lépés kb. a program szíve/lelke, szóval ne hagyd ki!
-    - nem baj, ha nincs kiforrott életcélod
-    - könnyen lehet, hogy pont ezek a kérdések fognak odáig is elvezetni
+### 4. lépés: A 3 nagy kérdés
 
+A havi, kategóriánkénti összegzésünk ismeretében 3 kérdést teszünk fel magunknak, és a válaszoktól függően egy-egy "+", "0", vagy "-" jelet minden oszlopba:
 
+1. Arányosan kapunk-e elégedettséget és értéket az elköltött életenergiánkért az adott kategóriában?
+Hangsúlyoznám: _nem_ baj, ha egyediek vagyunk, és olyanokra költünk, amikre mások szerint nem kellene.
+Csak _nekünk_ legalább érje már meg, amit csinálunk!
+Ez a gyakorlat bekalibrálja a belső elégedettség szenzorunkat, és idővel egyre jobban fogjuk érezni, hogy tényleg kell-e nekünk az a bizonyos valami.
+Képzeljük úgy el, mintha egy intercity vonat menne "Nem elég"-ből "Túl sok"-ba, és az "Épp elég" csak valahol félúton egy kis falucska lenne.
+Ha nem figyelünk, akkor könnyen el lehet véteni.
+De ha megélezzük az érzékeinket, akkor idővel könnyű lesz majd pont ott leszállni!
+
+2. Egyezik-e ez a kiadás az elveinkkel és az értékrendünkkel?
+Itt ellenőrizhetjük, hogy bort iszunk-e, miközben vizet prédikálunk...
+És ne verjük át magunkat, hogy "de hát az muszáj, annak semmi köze az értékeimhez"!
+Mindig van választásunk, és ha azt választjuk, hogy olyan szituációba kényszerítjük magunkat, ahol már "muszáj", az is a mi lelkünkön szárad!
+Mellesleg az életcélunk meghatározásához pont a [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) könyvet ajánlják itt is...
+
+3. Hogy változna az adott kategória, ha nem dolgoznánk?
+Valószínűleg az fog kijönni, hogy sok minden csökkenne -- vagy akár nem is lenne.
+Emellett ismerjük fel, hogy az is egy fajta függőség, ha mindent csak pénzzel tudunk fenntartani -- még ha van is pénzünk.
+Viszont ha lenne időnk magunkról gondoskodni, akkor már annyi pénz sem kellene.
+
+Ez a lépés kb. a program szíve-lelke, szóval ne hagyjuk ki!
+Nem baj, ha nincs kiforrott életcélunk.
+Könnyen lehet, hogy pont ezek a kérdések fognak odáig is elvezetni!
+Illetve extra, 4. kérdésnek még az sem ártana, hogy "Ez a költésünk hogy hat a bolygóra?".
+De erre majd későbbi bejegyzésekben még visszatérünk...
+
+<br />
 
 
 
@@ -424,28 +431,34 @@ Vagy akár csak többet (eleget?) aludni?
 
 ## <a name="5"></a>Látványos haladás
 
-- konkrétan csinálunk egy nagy fali táblázatot, hogy lássuk, idővel hogy alakulunk
-- megint rengeted analóg hozzáállás...
-- de a lényeg, hogy a bevételeinket és a kiadásainkat követjük havi szinten
-    - 5-10 éven átívelő trendeket is vizualizálva
-- "Insight can happen in a minute, but growth happens over time."
-    - "A megvilágosodás egy perc alatt is megtörténhet, de a növekedéshez idő kell."
-    - szóval adj neki időt, figyeld meg az érzelmi reakcióidat, és fokozatosan változtass
-- csak két dolog kell, hogy a módszer működjön: kezdd el, és ne hagyd abba
-- az előző lépés 3 kérdése automatikusan a kiadásaid csökkenéséhez fog vezetni
-- idővel az fogja az örömet okozni, ha _nem_ veszel meg valamit
-- tapasztalatok alapján a többség 3 hónapon belül 20%-ot levág a kiadásaiból, fájdalommentesen
-- az egészben a legjobb, hogy teljesen objektív, így nem tudod "félremagyarázni", hogy nem is eszel olyan sokat éttermekben vagy hogy nem is veszel olyan sok ruhát...
-- fontos, hogy valami jól látható helyen legyen, hogy naponta emlékeztessen, hogy állsz
-    - ha csak beírod, és a hónap többi részében leszarod, akkor nyilván nem fog csodát tenni
-- szépen kimászhatsz az adósságból, tartalékokat képezhetsz, lépkedsz a FI felé
-- "pay yourself first" -- "magadat fizesd ki először"
-- motivációt ad, ha megbillennél
-    - mert félsz majd szembenézni a következményekkel a hónap végén
-    - eleve látványos lesz, hogy mi a helyzet, nincs többé strucc politika
-- eleve generikus management alapelv (ami ide is nagyon igaz): csak azt irányíthatjuk, amit mérünk.
+Itt semmi bevezető "elő-lecke", mert nincs mit érteni...
+Csak csinálni kell!
 
+### 5. lépés: Tegyük láthatóvá a haladást!
 
+Vagyis konkrétan csináljunk egy nagy fali táblázatot, hogy lássuk, idővel hogy alakulunk.
+A lényeg, hogy a bevételeinket és a kiadásainkat is követni tudjuk, havi szinten, akár 5-10 éven átívelő trendeket is vizualizálva.
+
+> A megvilágosodás egy perc alatt is megtörténhet, de a növekedéshez idő kell.
+> > Insight can happen in a minute, but growth happens over time.
+
+Mint általában, itt is csak két dolog kell, hogy a módszer működjön: kezdjük el, és ne hagyjuk abba!
+Szóval adjunk neki időt, figyeljük meg az érzelmi reakcióinkat, és fokozatosan változtassunk!
+Fontos, hogy valami jól látható helyen legyen, és naponta emlékeztethessen, hogy is állunk.
+Ha csak beírjuk, és a hónap többi részében rá se bagózunk, akkor nyilván nem fog csodát tenni.
+
+Az előző lépés 3 nagy kérdése automatikusan a kiadásaink csökkenéséhez fog vezetni.
+Idővel szinte az fogja az örömet okozni, ha _nem_ veszünk meg valamit.
+Tapasztalatok alapján a többség 3 hónapon belül legalább 20%-ot levág a kiadásaiból, fájdalommentesen!
+És az egészben az a legjobb, hogy teljesen objektív.
+Így nem tudod "félremagyarázni", hogy nem is eszel olyan sokat éttermekben vagy hogy nem is veszel olyan sok ruhát...
+
+Ha szépen vezetjük -- és ezáltal sínen tartjuk magunkat -- akkor fokozatosan kimászhatunk az adósságokból, tartalékokat képezhetünk, és lépkedhetünk az anyagi függetlenség felé!
+Motivációt ad, ha megbillennél; mert félsz majd szembenézni a következményekkel a hónap végén, ha más okból nem is.
+Eleve általános menedzsment alapelv, hogy "csak azt irányíthatjuk, amit mérünk".
+Na ez ide is nagyon releváns, úgyhogy nincs többé strucc politika!
+
+<br />
 
 
 
@@ -634,22 +647,30 @@ SZÓVAL, 7. lépés: ha már a munka célja a fizetés, akkor dolgozz úgy, hogy
 
 ## <a name="8"></a>A metszéspont
 
-- elkezdjük a megspórolt pénzünket befektetni
-- és az onnan beérkező jövedelmet is feltüntetjük a fali táblázatunkon
-- ha szépen csináljuk, és beüt ugye a kamatos kamat is, akkor előbb vagy utóbb jönni fog a metszéspont
-    - onnantól kezdve pedig mindenki bekaphatja ;)
-- ami nagyon hangsúlyos, hogy ez _belátható időn belül_ jönni fog!
-    - nem kell beletörődni, hogy munkából áll az élet
-- és hogy utána NEM semmittevés jön, hanem amit akarsz
-    - sok példa, van aki még dolgozott, hogy minél biztonságosabb legyen
-    - volt, aki szintén tovább nyomta, de eladományozta a bevételeit
-    - vállalkozások, aktivitások, tanulás... a két pálmafa közé kifeszített függőágyat meg felejtsük már el!
-- az önkénteskedésnek is elég másodrangú kicsengése van
-    - de csak mert a "profi" munkával hasonlítják, és itt is csak az eredményekre koncentrálnak
-    - ha viszont szó szerint nézzük, ott a lényeg: ÖNKÉNT csinálod, nem a pénzért
-- és ha hisszük, ha nem ebben a teljesen el egocentrikusodott világban: az _adás_ fog majd minket a megelégedési görbe maximum pontján is túlvinni!
+Ha az eddigi lépéseket lelkiismeretesen követjük, akkor a tartalékaink egyre jobban csak gyarapodni fognak.
+Elkezdhetjük tehát azt is tervezgetni, milyen hatással is lesz a pénzügyeinkre a megspórolt pénzünk befektetése.
 
+### 8. lépés: Jussunk el a metszéspontig!
 
+A tartalékainkból feltételezhetően beérkező jövedelmet is kezdjük el feltüntetni a fali táblázatunkon!
+Néhány hónapnyi adatrögzítés után látszódni fog a hozamunk trendvonala.
+És mivel a kiadásaink már úgyis "leülepedtek", azt a trendvonalat is magabiztosan előrevetíthetjük.
+Ennek a két vonalnak a találkozása lesz az a pont, ahol -- Arany János szavain tiporva -- "letészhetjük a lantot"!
+
+Ami nagyon hangsúlyos, hogy ez _belátható időn belül_ jönni fog!
+Nem kell beletörődni, hogy munkából áll az élet!
+Ez a tudat pedig nagy lökést adhat, hogy addig is minél jobban teljesítsünk.
+
+A másik, amit érdemes minél hamarabb tisztázni: utána **nem** semmittevés jön, hanem amit akarsz.
+A könyv is sok példát hoz a tévképzetek szétoszlatására.
+Volt aki tovább dolgozott, hogy minél biztonságosabb legyen.
+Volt, aki szintén tovább nyomta, de eladományozta a bevételeit.
+Vállalkozások, aktivitások, tanulás, önkénteskedés...
+A két pálmafa közé kifeszített függőágyat meg felejtsük már el!
+Koncentráljunk inkább arra, hogy mi mindent **adhatunk** majd.
+Mert ha hisszük, ha nem, ebben a teljesen el-egocentrikusodott világban pont az _adás_ fog majd minket a megelégedési görbe maximum pontján is túlvinni!
+
+<br />
 
 
 
