@@ -489,57 +489,67 @@ Na ez ide is nagyon releváns, úgyhogy nincs többé strucc politika!
 
 ## <a name="6"></a>Az Amerikai Álom -- Óccsóér
 
-- a takarékosság / mértékletesség szavak a mai világban elég negatív kicsengést kaptak
-    - arra konkrétan nincs is kifejezés, hogy pont a megelégedési görbe optimumán élek, ahol pont mindenem megvan, de semmi olyan, ami nem kellene
-    - pláne úgy nem, hogy ebben a kifejezésben benne kellene hogy legyen az a sok mentális energia és odafigyelés, amivel én ezt (büszkén) fenntartom
-- Socrates és Plato, az Ó és az Új Testamentum, nagy emberek és csoportok -- mind ezt hirdetik
-    - nekünk mégis furcsa, mert manapság annyira nem ez az alapértelmezés
-    - szóval barátkozzunk szépen a gondolattal
-- és megint: ez nem arra vonatkozik, hogy abszolút értékben mink van... hanem hogy mindre szükségünk van-e, kihasználjuk-e, stb.
-- "To be frugal means to have a high joy-to-stuff ratio."
-    - "Takarékosnak lenni annyit jelent, hogy magas az öröm-per-cucc arányod."
-- persze alapból nem kellene olyan sok cucc, de ami talán még nagyobb baromság, az az, hogy még akkor sem állunk meg élvezni, amikor már van
-- valószínűleg azért akarunk minden annyira az "enyém" falain belülre vonszolni, mert meg vagyunk győződve, hogy a falon kívül "ők" vannak
-    - ha ezt visszacsillapítanánk arra, hogy "mi" vagyunk, akkor egyrészt nem kellene annyi fal, másrészt könnyebben áramolhatnának a dolgok be vagy ki
+A "takarékosság" és "mértékletesség" szavak a mai világban elég negatív kicsengést kaptak.
+Arra pedig konkrétan nincs is kifejezés, hogy pont a megelégedési görbe optimumán élünk, ahol mindenünk megvan, de semmi több.
+Pláne úgy nem, hogy ebben a kifejezésben benne kellene hogy legyen az a sok mentális energia és odafigyelés, amivel ezt (büszkén) fenntartjuk.
 
-Szóval: most jön az, hogy az abszolút pozitív kicsengésű "takarékosság" jegyében tudatosan csökkentjük a kiadásainkat
+Socrates és Plato, az Ó és az Új Testamentum, történelmünk nagy emberei és csoportjai -- mind ezt hirdetik.
+Nekünk mégis furcsa, mert manapság annyira nem ez az alapértelmezés.
+Szóval barátkozzunk szépen a gondolattal!
+És csak ismétlésként: ez nem arra vonatkozik, hogy abszolút értékben mink van...
+Hanem hogy mindre szükségünk van-e, kihasználjuk-e, stb.
 
-- régen egyértelmű volt, hogy takarékosnak kell lenni, mert nekünk kellett izomerővel megdolgozni a többért
-- aztán ipari forradalom, ahonnan már inkább a gépek dolgoznak
-- aztán pedig internet, ami egyszerre könnyít és nehezít a dolgokon
-    - igaz, hogy a sok fórum, tanács, és blog miatt könnyebb spórolni is
-    - de a nyomkövető programok és sütik miatt olyan ínycsiklandozó, személyre szabott reklámokat fogsz kapni, hogy aztán csak győzz ellenállni!
-- nem is feltétlen úgy gondoljunk a "zöld" dolgokra, hogy rögtön cseréljük a dolgainkat
-    - sokkal zöldebb, ha elhasználjuk... vagy ha inkább átgondoljuk, hogy kell-e egyáltalán
-- a "nulladik" lépés, hogy ne akarj másokat lenyűgözni!
+> Takarékosnak lenni annyit jelent, hogy magas az öröm-per-cucc arányod.
+> > To be frugal means to have a high joy-to-stuff ratio.
 
-1. soha ne menj "csak úgy" vásárolni -- csak konkrétan azért, ami kell, listával!
-2. legfeljebb addig nyújtózkodj, amíg az anyagi takaród ér!
-3. gondoskodj arról, amid van...
+Alapból nem kellene olyan sok cucc, de ami talán még nagyobb baromság, az az, hogy még akkor sem állunk meg élvezni, amikor már van.
+Valószínűleg azért akarunk mindent annyira az "enyém" falain belülre vonszolni, mert meg vagyunk győződve, hogy a falon kívül "ők" vannak.
+Ha ezt visszacsillapítanánk arra, hogy "mi" vagyunk, akkor egyrészt nem kellene annyi fal, másrészt könnyebben áramolhatnának a dolgok be vagy ki.
+Tehát az abszolút pozitív kicsengésű "takarékosság" jegyében:
+
+### 6. lépés: Csökkentsük a kiadásainkat!
+
+Régen egyértelmű volt, hogy takarékosnak kell lenni, mert nekünk kellett izomerővel megdolgozni a többért.
+Aztán jött ipari forradalom, ahonnan már inkább a gépek dolgoznak.
+Újabban pedig itt az internet, ami egyszerre könnyít és nehezít a dolgokon.
+Igaz, a sok fórum, tanács, és blog miatt könnyebb spórolni.
+De a nyomkövető programok és sütik miatt olyan ínycsiklandozó, személyre szabott reklámokat fogsz kapni, hogy aztán csak győzz ellenállni!
+
+Nem is feltétlen úgy kellene törekednünk a "zöld" életvitelre, hogy rögtön cseréljük a dolgainkat.
+Sokkal zöldebb, ha elhasználjuk, amink már van...
+Vagy ha inkább átgondoljuk, hogy kell-e egyáltalán.
+A "nulladik" lépés, hogy ne akarj másokat lenyűgözni!
+Amint az megvan, akkor léphetünk tovább a következő alapelvek segítségével:
+
+1. Soha ne menj "csak úgy" vásárolni -- csak konkrétan azért, ami kell, listával!
+2. Legfeljebb addig nyújtózkodj, amíg az anyagi takaród ér!
+3. Gondoskodj arról, amid van...
 4. ...és használd addig, amíg csak lehet!
-5. csináld magad (szinte akármiről is legyen szó)
-6. számíts előre a szükségleteidre
-7. mindig nézz utána, mit veszel -- ár, minőség, tartósság, több használati lehetőség
-8. ha az eddigiek mind stimmelnek, akkor igyekezz a legolcsóbban megvenni, amit épp akarsz
-9. elégítsd ki a szükségleteidet _máshogyan_
-    - nem korlátozni kell magad, csak visszakövetni az aktuális sóvárgásodat a forrásáig, amikor is nagy valószínűséggel rájössz, hogy azt máshogy (olcsóbban) is ki lehet elégíteni
+5. Csináld magad -- szinte akármiről is legyen szó!
+6. Számíts előre a szükségleteidre!
+7. Mindig nézz utána, mit veszel -- ár, minőség, tartósság, több használati lehetőség!
+8. Ha az eddigiek mind stimmelnek, akkor igyekezz a legolcsóbban megvenni, amit épp akarsz!
+9. Elégítsd ki a szükségleteidet _máshogyan_ -- nem korlátozni kell magad, csak visszakövetni az aktuális sóvárgásodat a forrásáig, amikor is nagy valószínűséggel rájössz, hogy azt máshogy (olcsóbban) is ki lehet elégíteni!
 
-"Az embereknek nem nagy kocsi kell, hanem tisztelet. Nem nagy ruhatár, hanem hogy vonzónak [...] érezzék magukat." -- Donella Meadows
-    - "People don't need enormous cars, they need respect. They don't need closets full of clothes, they need to feel attractive [...]"
+> Az embereknek nem nagy kocsi kell, hanem tisztelet. Nem nagy ruhatár, hanem hogy vonzónak [...] érezzék magukat.
+> 
+> -- Donella Meadows
+> > People don't need enormous cars, they need respect. They don't need closets full of clothes, they need to feel attractive [...]
 
-Mindenképpen gondolkozzunk el, hogy
-- hol és mekkora házban/lakásban lakunk
-- hány kocsink legyen -- vagy hogy kell-e egyáltalán
-- mit, mennyit, és hol eszünk
-- saját magunkat hogy tartjuk karban, hogy ne is gyógyszerekre menjen
-- nem lehetne-e osztozkodni (hogy ne kelljen saját valamiből, ha a szomszédét is kölcsön kérheted)
-- kell-e vakációzni
-- mire éri meg biztosítást kötni
-- hogy neveljük a gyerekeket (ha vannak)
-- hogyan ajándékozunk és ünneplünk dolgokat
-- és persze hogy mindezekkel milyen terhet rakunk a bolygóra -- és még úgy is kellenek-e
+Ezek után mindenképpen gondolkozzunk el, hogy:
 
+- Hol és mekkora házban/lakásban lakunk?
+- Hány kocsink legyen -- vagy hogy kell-e kocsi egyáltalán?
+- Mit, mennyit, és hol eszünk?
+- Saját magunkat hogy tartjuk karban, hogy ne is gyógyszerekre menjen?
+- Nem lehetne-e osztozkodni -- hogy ne kelljen saját valamiből, ha a szomszédét is kölcsön kérheted?
+- Kell-e vakációzni?
+- Mire éri meg biztosítást kötni?
+- Hogy neveljük a gyerekeket -- ha vannak?
+- Hogyan ajándékozunk és ünneplünk dolgokat?
+- És persze hogy mindezekkel milyen terhet rakunk a bolygóra -- és még úgy is kellenek-e?
 
+<br />
 
 
 
@@ -570,53 +580,59 @@ Mindenképpen gondolkozzunk el, hogy
 
 ## <a name="7"></a>Az életenergiánk értékelése
 
-- az előző fejezetben úgy próbáltunk meg egyre nagyobb rést nyitni a bevételünk és a kiadásaink között, hogy jól lecsökkentettük a kiadásainkat
-    - na most a másik végét fogjuk meg a dolognak, és jól feltornázzuk a bevételünket!
-- már lehet, hogy ott elbasszuk, hogy hogyan definiáljuk a "munka" fogalmát
-    - van, aki a szolgálatot, a képességeink tökéletesítését és az együttműködést látja benne
-    - van, aki a kényszer robotolást, amit pénzzel kompenzálnak
-    - van, aki szerint maga a szeretet fizikai formája
-    - megpróbálunk ezekből is egy kicsit konzisztensebb, általánosabban igaz leírást összegyúrni, hátha már az változtatna a nézőpontunkon
-- régen az átlag ember 2-3 órát dolgozott napi szinten
-    - de aztán persze jött az Ipari Forradalom, aminek mindenbe bele kell piszkálnia
-    - ennek ellenére vannak modern példái is, hogy 3 óra munka elég lenne
-- gépesítésnek ebben ugye elvileg pont segítenie kellett volna
-    - de a nagy Depresszió miatt megállt a csökkenés
-    - a szabadidő a munkanélküliséggel keveredett az emberek fejében, és hirtelen amorális lett
-    - a fogyasztás meg ugye egyre csak nőtt
-- ezek odáig fajultak, hogy manapság már a munka a vallás
-    - az válaszolja meg a nagy kérdéseinket, mint pl. ki vagyok? miért vagyok itt?
-    - abban keressük az önmegvalósítást, az elismerést, a sikert
-    - minden más rovására
-- annyira a munkánkkal azonosulunk, hogy azt tekintjük a létezésünknek
-    - és ilyen hozzáállással hiába van sok pénzünk a bankban, az önbecsülésünk továbbra is a melótól függ
-- a tágabb értelemben vett munka nagyon sok pszichológiai és szociális szükségletünket kielégítheti
-    - a _fizetett_ munka viszont azért lényeges, mert fizetnek érte
-    - érdemes meglátni (munkamániások!), hogy ennek a kettőnek kb. semmi köze egymáshoz
-        - vagyis a fizetett egy részhalmaza csak a munkának
-    - így a többi szükségletünket máshol/máshogy is kielégíthetnénk
-        - nem muszáj a munkánkban keresni a vallási szerepeket is!
-    - mondhatjuk, hogy lesz egy életed, és ebben a munka csak egy komponens lesz
-    - ha az életenergiád helyes költését tekinted a végcélnak, visszaállhat az egyensúly
-- ha szétkapcsolod a munkát a fizetésedtől, akkor nyugodtabban mondhatod az "X vagyok" helyett, hogy "Y vagyok, de most épp X-szel keresek pénzt"
-- ha ezt megteszed, jöhetnek komolyabb változások
-    - önként vállalhatsz pl. olyat, ami kevesebb pénzt jelent, de jobban támogatja az értékrendedet
-    - a saját értékrended szerint élhetsz ahelyett, hogy hagynád másokét magadra kényszeríteni
-    - a nyugdíjra sem az életed végeként tekintesz, csak a fizetett szakasz végeként, és mellett ugyanolyan aktív maradhatsz, csak már külső behatások nélkül
-    - a fizetetlen munkáidat is komolyabban veszed majd (otthoni dolgok, család, barátságok, önismeret)
-    - hasonlóképp, a szabadidődet is többre becsülöd és jobban élvezed majd
-        - itt ugye rajtad múlik a szerkezet, ahogy a Flow is mondja
-        - de pont ezért csinálhatnál belőle amit csak akarsz
-- logikusnak tűnhet olyan "hivatást" keresni, ahol azért fizetnek, amit amúgy is csinálni szeretnél
-    - de ilyenkor nagyon vigyázzunk, hogy a pénz meg ne mérgezze az a tevékenységet!
+Az előző szekcióban úgy próbáltunk meg egyre nagyobb rést nyitni a bevételünk és a kiadásaink között, hogy jól lecsökkentettük a kiadásainkat.
+Na most a másik végét fogjuk meg a dolognak, és jól feltornázzuk a bevételünket!
+Az viszont nehéz lesz, ha még a "munka" definíciójában sem tudunk megegyezni.
 
-SZÓVAL, 7. lépés: ha már a munka célja a fizetés, akkor dolgozz úgy, hogy megérje!
+Van, aki a szolgálatot, a képességeink tökéletesítését és az együttműködést látja benne.
+Van, aki a kényszer robotolást, amit pénzzel kompenzálnak.
+Van, aki szerint maga a szeretet fizikai formája.
+Meg kellene próbálunk ezekből is egy kicsit konzisztensebb, általánosabban igaz leírást összegyúrni, hátha már az változtatna a nézőpontunkon.
 
-- az új hozzáállásunkat használhatjuk arra, hogy magasabb fizetést szerezzünk
-    - hogy azzal vagy gyorsabban haladhassunk a FI felé
-    - vagy hogy kevesebbet kelljen dolgoznunk az eléghez, és mellette élhessünk
+Ezért megint jön egy kis töri ismétlés.
+Régen az átlag ember 2-3 órát dolgozott napi szinten, gyűjtögetés, vadászat, ilyesmi.
+De aztán persze jött az Ipari Forradalom, aminek természetesen mindenbe **is** bele kellett piszkálnia.
+Ennek ellenére vannak modern példái is, hogy 3 óra munka elég lenne.
 
+A gépesítésnek a munka háttérbe szorításában ugye elvileg pont segítenie kellett volna.
+Ez egy darabig ment is, de a nagy Depresszió miatt megállt a csökkenés.
+A "szabadidő" a munkanélküliséggel keveredett az emberek fejében, és hirtelen amorális lett; a fogyasztás meg ugye egyre csak nőtt.
 
+Mindez odáig fajult, hogy manapság már a munka a vallás.
+Az válaszolja meg a nagy kérdéseinket, mint például "Ki vagyok?", vagy hogy "Miért vagyok itt?".
+Abban keressük az önmegvalósítást, az elismerést, a sikert; minden más rovására.
+Annyira a munkánkkal azonosulunk, hogy azt tekintjük a létezésünknek.
+Ilyen hozzáállás mellett pedig hiába van sok pénzünk a bankban, az önbecsülésünk továbbra is a melótól függ.
+
+Valóban, a tágabb értelemben vett munka nagyon sok pszichológiai és szociális szükségletünket kielégítheti.
+De a _fizetett_ munka viszont azért lényeges, mert fizetnek érte.
+Érdemes meglátni (munkamániások!), hogy ennek a kettőnek kb. semmi köze egymáshoz!
+Vagyis a fizetett munka csupán egy részhalmaza a munkának.
+A többi szükségletünket máshol vagy máshogy is kielégíthetnénk, és nem lenne muszáj a munkánkban keresni a "vallási" szerepeket is!
+Mondhatnánk akár úgy is, hogy lesz egy életed, amiben a munka csak egy komponens.
+Ha az életenergiád helyes költését tekinted a végcélnak, visszaállhat az egyensúly.
+
+Ha szétkapcsoljuk a munkát a fizetéstől, akkor nyugodtabban mondhatjuk az "X vagyok" helyett, hogy "Y vagyok, de most épp X-szel keresek pénzt".
+Ha ezt megtesszük, komolyabb változások jöhetnek!
+
+- Önként vállalhatunk pl. olyat, ami kevesebb pénzt jelent, de jobban támogatja az értékrendünket.
+- A saját értékrendünk szerint élhetünk ahelyett, hogy hagynánk másokét magunkra kényszeríteni.
+- A nyugdíjra sem az életünk végeként tekintenénk, csak a fizetett szakasz végeként, ami után ugyanolyan aktívak maradhatunk, csak már külső behatások nélkül.
+- A fizetetlen munkáinkat is komolyabban vesszük majd -- otthoni dolgok, család, barátságok, önismeret!
+- Hasonlóképp, a szabadidőnket is többre becsülnénk -- és jobban élvezhetnénk.
+
+Logikusnak tűnhet olyan "hivatást" keresni, ahol azért fizetnek, amit amúgy is csinálni szeretnénk.
+De ilyenkor nagyon vigyázzunk, hogy a pénz meg ne mérgezze az a tevékenységet!
+Ha pedig kimondottan a pénzért végzünk valamilyen tevékenységet, akkor legalább intézzük úgy, hogy megérje!
+
+### 7. lépés: Növeljük a bevételeinket!
+
+Az új hozzáállásunkat használhatjuk arra, hogy magasabb fizetést szerezzünk.
+Ha önfejlesztést, befektetést és energiát igényel, akkor beletesszük, mert az életenergiánkat tiszteljük vele.
+Az eredményeket pedig használhatjuk arra, hogy gyorsabban haladhassunk a pénzügyi függetlenség felé.
+Vagy akár arra is, hogy kevesebbet kelljen dolgoznunk az eléghez, és mellette többet élhessünk.
+
+<br />
 
 
 
@@ -701,60 +717,74 @@ Mert ha hisszük, ha nem, ebben a teljesen el-egocentrikusodott világban pont a
 
 ## <a name="9"></a>Befektetés FI módra
 
-- befektetési alapelvek, hogy pénzed dolgozhasson helyetted
-- kezdeti figyelmeztetések:
-    - változnak az idők!
-        - van, hogy a kötvények jobbak, van, hogy még az inflációt sem érik utol
-        - tehát megint csak: aki az elveket érti, az majd megválasztja a saját módszerét
-        - aki pedig vakon követi a módszert az elvek ismerete nélkül, az előbb vagy utóbb rá fog baszni!
-        - ne mondd, hogy nem szóltam.
-    - semmire nincs garancia!
-        - példának régi orosz cári kötvényeket hoz fel, amik ma annyit nem érnek, mint a papír, amire nyomtatták őket
-- a fő cél, hogy magabiztosan tudj befektetni is, el tudj igazodni a sok bullshit közepette
-    - és NE kelljen a profikra hagyatkoznod, akik belőled gazdagszanak meg, miközben te vállalod helyettük a kockázatot
-- nem arról van szó, hogy ne kérj tanácsot
-    - de olyantól tuti ne, aki jutalékot kap utánad
-    - egyszerűen ütközik az érdeketek... neki az a jó, ha olyat veszel, ami után nagy jutalékot kap
-    - szóval ha tanácsot is kérsz, olyantól kérj, akinek ezért fizetsz, de cserébe tényleg a Te érdekedet képviseli!
-    - és ettől függetlenül mindenképp legyél tájékozott, hogy egyáltalán értsd a lehetőségeidet, és megfontolt döntéseket tudj hozni
-- helyes hozzáállással az inflációtól sem kell annyira félni
-    - oké, a "fogyasztói kosár" lehet, hogy tényleg megy felfelé
-    - de abban nincs benne a sok eddigi elv, mint pl. hogy évszaknak megfelelően vásárolsz, időtálló és javítható termékeket veszel, karbantartod őket, és egyáltalán nem inflálod az életszínvonaladat a többiekkel az elég fölé
-    - a tudatod gyorsabban képes tágulni, mint az infláció, ezért fektess inkább magadba
-        - kreatív megoldásokkal menedzselhető lesz sok terület
-- persze ettől az infláció mint hatás még létezik -- ha nem is olyan félelmetes
-    - a befektetésed hozama a névleges hozam MÍNUSZ a díjak, adók, és az infláció
-    - szóval ha a hozamod nem tud lépést tartani az inflációval, akkor érdemes átgondolni egy kicsit agresszívabb stratégiát
-    - persze minél nagyobb a potenciális hozam, annál nagyobb annak a veszélye is, hogy buksz vele
-    - szóval bármit is csinálsz, előtte legyél tisztában a saját kockázattűrő képességeddel
-- a FI 3 alappillére: alaptőke, "párnázás", és akár a cache
-    - alaptőke
-        - bevételt termeljen
-        - legyen "teljesen" biztonságban (vagyis amennyire csak lehet)
-        - likvidálható legyen
-        - ne fogyjon semmilyen díj miatt
-        - a belőle érkező bevételed legyen biztos és kiszámítható
-        - kaphasd kp-ban (ne csak automatikus újra befektetéssel és hasonlók)
-        - ebbe se zabáljon bele lehetőleg semmi díj vagy jutalék
-        - és ez a folyamat a beállítása után legyen teljesen automatikus
-        - ezek miatt leginkább a kötvények, abból is az állami kincstárjegyek ajánlottak
-            - sok Amerika-specifikus részlet, de az elvek általánosak
-            - ezekből van infláció ellen védett verzió is, kicsit kisebb hozammal, de nagyobb biztonsággal
-            - illetve ugye index-ek, ami ilyeneket tartalmaznak meghatározott arányban
-        - van, hogy a kötvény kamata nagyon alacsony, ilyenkor érdemes lehet mást is figyelembe venni
-            - ne egyesével válogassunk részvényeket
-            - aktívan menedzselt vs. index alapok
-            - nagyon figyeljünk a költségekre, vételi/eladási költségeket kerüljük, etc.
-            - nagyon fontos, hogy megadóztatnak-e
-        - általánosan fontos a befektetési fajtás közötti elosztás
-            - részvények, kötvények, ingatlan, készpénz, nyersanyagok
-    - párnázás
-        - kb. 6 havi megélhetésed félretéve, hogy ne okozzon gondot semmi fluktuáció vagy váratlan változás
-    - cache (rejtekhely, titkos raktár?)
-        - ez pedig már az a rés, ami a befektetési bevételeid és a kiadásaid között nyílik
-        - lehet, hogy FI után már még kevesebbet költesz
-        - vagy attól még marad ilyen innen-onnan bevételed
-        - és ez nem "kísért meg", hanem csak gyűlik extra biztonságnak
+Végül eljutunk a befektetési alapelvekig, hogy a pénzünk dolgozhasson helyettünk.
+Kezdeti figyelmeztetések: változnak az idők, és semmire nincs garancia!
+Van, hogy a kötvények jobbak, de van olyan is, hogy még az inflációt sem érik utol.
+És van olyan is, hogy borul az egész rendszer.
+Példának régi orosz cári kötvényeket hoz fel, amik ma annyit nem érnek, mint a papír, amire nyomtatták őket.
+Szóval legyünk vele tisztában, hogy itt mindig is lesz kockázat; de minimalizálni azért tudjuk.
+
+A fő cél, hogy magabiztosan tudjunk befektetni, és el tudjunk igazodni a sok átverés közepette.
+Mindezt úgy, hogy **ne** kelljen a profikra hagyatkoznunk, akik belőlünk gazdagodnak meg, miközben mi vállaljuk helyettük a kockázatot.
+Nyilván nem arról van szó, hogy ne kérjünk tanácsot.
+De olyantól biztos ne, aki jutalékot kap utánunk!
+Ez egyszerű érdekütközés...
+Nekik az a jó, ha olyat veszünk, ami után nagy jutalékot kaphatnak -- függetlenül attól, hogy az nekünk jó-e.
+Szóval ha hagyatkozunk is valakire, az mindenképp olyan legyen, akinek ezért fizetünk!
+Cserébe viszont ő tényleg a mi érdekeinket fogja képviseli!
+És ettől függetlenül is mindenképp érdemes tájékozottnak lenni, hogy általánosságban értsük a lehetőségeinket, és megfontolt döntéseket tudjunk hozni.
+
+Helyes hozzáállással az inflációtól sem kell annyira félni.
+Oké, a "fogyasztói kosár" lehet, hogy tényleg megy felfelé.
+De abban nincs benne a sok eddigi elv, mint mondjuk hogy évszaknak megfelelően vásárolsz, időtálló és javítható termékeket veszel, karbantartod őket, és egyáltalán nem növeled az életszínvonaladat a többiekkel az "elég" fölé.
+"A tudatunk gyorsabban képes tágulni, mint az infláció", ezért fektessünk inkább magunkba!
+Kreatív megoldásokkal menedzselhető lesz sok terület.
+
+Ettől az infláció mint hatás még létezik -- ha nem is olyan félelmetes.
+A befektetések hozama a névleges hozam MÍNUSZ a díjak, adók, és az infláció.
+Szóval ha a hozamunk nem tud lépést tartani már az inflációval sem, akkor érdemes átgondolni egy kicsit agresszívabb stratégiát.
+Persze minél nagyobb a potenciális hozam, annál nagyobb annak a veszélye is, hogy bukunk vele.
+Szóval bármit is csinálunk, előtte legyünk tisztában a saját kockázattűrő képességünkkel!
+    
+A pénzügyi függetlenség 3 alappillére az alaptőke, a "párnázás", és a többlet.
+Ezekből természetesen az **alaptőke** a legfontosabb, amit elég konzervatívan ajánlott befektetni:
+
+- Termeljen bevételt!
+- Legyen "teljesen" biztonságban -- vagyis amennyire csak lehet!
+- Legyen likvidálható!
+- Ne fogyjon semmilyen díj miatt!
+- A belőle érkező bevételünk legyen biztos és kiszámítható!
+- Kaphassuk készpénzben -- ne csak automatikus újra befektetéssel és hasonlók!
+- A bevételünkbe se zabáljon bele lehetőleg semmilyen díj vagy jutalék!
+- És ez a folyamat a beállítása után legyen teljesen automatikus!
+
+Ezek miatt leginkább a kötvények, abból is az állami kincstárjegyek ajánlottak.
+Sok a könyvben az Amerika-specifikus részlet, de az elvek általánosak.
+Ezekből van infláció ellen védett verzió is, kicsit kisebb hozammal, de nagyobb biztonsággal
+Illetve ugye léteznek kötvény alapok is, amik ilyeneket vegyesen tartalmaznak, meghatározott arányban.
+
+Előfordulhat, hogy a kötvények kamata nagyon alacsony; ilyenkor érdemes lehet mást (első sorban: részvényeket) is figyelembe venni.
+De ekkor sem ajánlott egyesével válogassunk részvényeket!
+Fektessünk inkább alapokba, ahol ismét egy vegyes, eltérő szempontok alapján összeválogatott kosarat kapunk.
+Figyeljünk az aktívan menedzselt és az index-követő alapok különbségeire, ezeken belül is a költségekre!
+Általánosan fontos a befektetési fajták közötti elosztás (részvények, kötvények, ingatlan, készpénz, nyersanyagok), hogy "ne egy kosárban legyen az összes tojásunk".
+
+Ezek nyilván csak a nagyon alapvető elvek, nagyon pongyolán, de ennek a könyvnek nem is célja, hogy kompetens befektetőt faragjon belőlünk!
+Csak felhívja a figyelmünket a lépés fontosságára; a részletekért pedig forduljunk máshova -- és nyugalom, fogunk is!
+
+Az alaptőkén továbblépve, a **"párnázás"** kb. 6 havi megélhetésünk félretételét jelenti, hogy ne okozzon gondot semmiféle piaci fluktuáció vagy váratlan változás.
+Ezzel tulajdonképpen eltávolítjuk magunkat a pénzügyi szakadék szélétől, és hatására sztoikusabb nyugalommal tudjuk majd követni a hétköznapok fejleményeit.
+Tekintsünk erre egy lengéscsillapítóként: miatta tehetjük meg, hogy az egyes bukkanók helyett a hosszabb távú úticélunkra koncentrálunk.
+
+Az utolsó komponensünk pedig a **többlet** -- a könyv "cache"-nek, vagyis rejtekhelynek, titkos raktárnak nevezi.
+Ez már az a rés, ami nem hogy a sima bevétel és a kiadások, hanem a _passzív_, _befektetési_ bevétel és a kiadások között nyílik.
+Lehet mondjuk, hogy a pénzügyi függetlenség elérése után már még kevesebbet költünk.
+Vagy attól továbbra is marad innen-onnan némi alkalmi bevételünk.
+Vagy esetleg a befektetéseink még jobban teljesítenek, mint terveztük.
+A lényeg, hogy ez nem "kísért meg", nem vezet a kiadások értelmetlen növeléséhez, hanem csak gyűlik extra biztonságnak.
+Vagy adakozunk belőle.
+Vagy a hagyatékunkat építjük vele.
+Amíg a "megkísértésre" figyelünk, a többi már ránk van bízva...
 
 
 
