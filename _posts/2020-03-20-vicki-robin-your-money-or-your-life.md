@@ -16,20 +16,20 @@ Ehhez azonban a könyv szerint is -- és sok magánbeszélgetésemből tapasztal
 Az objektív szegénységhez a legtöbbünknek köze nincs, de az egyenetlen vagyoneloszlás miatt szubjektíven szegénynek érezzük magunkat még akkor is, ha mindenünk megvan.
 Akkor vajon jobb lenne, ha úgy lenne ugyanennyink, hogy közben másnak sincs több?
 Vagy akár ennyi sem?
-Fontos általános tanulság még, hogy nem csak akkor lehetsz anyagilag független, ha szarásig vagy pénzzel.
-Akkor sem függsz, ha egy kicsit leakaszd magad a fogyasztói kultúráról és megtanulod az igényeidet pénz nélkül kielégíteni.
+Fontos általános tanulság még, hogy nem csak akkor lehetünk anyagilag függetlenek, ha szarásig vagyunk pénzzel.
+Akkor sem "függünk" annyira, ha egy kicsit leakasztjuk magunkat a fogyasztói kultúráról és megtanuljuk az igényeinket pénz nélkül kielégíteni.
 
 Egy régi térképpel nem könnyű tájékozódni, főleg ha azóta sokat változott a terep.
-És a jelenleg általános pénzhez való hozzáállásunk egy nagyon régi térkép az ipari forradalom korából<a href="#footnote-ipari">*</a>.
+És a jelenlegi hozzáállásunk a pénzhez egy nagyon régi térkép, egészen az ipari forradalom korából<a href="#footnote-ipari">*</a>.
 Akkor talán még működött, de ahogy egyre jobban megy a növekedés, a szükségek kielégítéséből kényelem, luxus, és végül konkrét mértéktelenség lett.
 Régen a "megélhetésért dolgozni" még csak egy eszköz volt egy cél érdekében, manapság viszont annyit időt, energiát, és pénz visz el a munka világa, hogy már teljesen azzal azonosítjuk magunkat.
 
 Amíg ebben a mederben gondolkodunk, esélytelen kitörni -- ez nem véletlen!
 Ha viszont hajlandóak vagyunk megkérdőjelezni a fogyasztói társadalom néhány alappillérét, akkor ez a könyv rengeteget segíthet egy új térkép megrajzolásában.
-Olvashatunk benne a pénzügyi intelligenciáról (mi a helyzet?), a pénzügyi integritásról (mi _kellene_ hogy legyen a helyzet?), és végül a pénzügyi függetlenségről (ami idővel természetes következménye lesz az előző kettőnek).
+Olvashatunk benne a pénzügyi intelligenciáról (mi a helyzet?), a pénzügyi integritásról (mi _kellene_, hogy legyen a helyzet?), és végül a pénzügyi függetlenségről (ami idővel természetes következménye lesz az előző kettőnek).
 Hatására pedig jó esetben átalakul az értékrendünk, csökkennek a kiadásaink, elfogynak az adósságaink, növekednek a tartalékaink, és még talán a régi álmok is előkerülnek a süllyesztőből!
 
-Az remélt átalakulásunkhoz a következő 9 lépés vezet:
+A felvázolt átalakuláshoz a következő 9 lépés vezet:
 
 1. [Kössünk békét a múlttal!](#1)
 2. [Kövessük nyomon a jelent!](#2)
@@ -42,9 +42,9 @@ Az remélt átalakulásunkhoz a következő 9 lépés vezet:
 9. [Fektessünk be okosan!](#9)
 
 Kiemelném előre a mottót, ami minden lépésre egyaránt vonatkozik: "NO SHAME, NO BLAME!", vagyis csak semmi szégyen, és semmi ujjal mutogatás!
-Nézz szembe az anyagi valóságoddal józanul, objektíven, és ítélkezés nélkül -- így lesz a legnagyobb esélyed változtatni is!
+Nézzünk szembe az anyagi valóságunkkal józanul, objektíven, és ítélkezés nélkül -- így lesz a legnagyobb esélyünk változtatni is!
 
-<small id="footnote-ipari">* Miért van amúgy az, hogy ahányszor valami emberi idiótaság a téma, az ipari forradalom valahogy minding szóba kerül? Csak nekem gyanús, hogy ott valamit nagyon elfuseráltunk?</small>
+<small id="footnote-ipari">* Miért van amúgy az, hogy ahányszor valami emberi idiótaság a téma, az ipari forradalom valahogy mindig szóba kerül? Csak nekem gyanús, hogy ott valamit nagyon elfuseráltunk?</small>
 
 <br />
 
@@ -89,10 +89,10 @@ Kérdőíves tesztek azt mutatják, hogy mindig csak pont még 50% kellene, és 
 Kár, hogy 50%-kal feljebb is ugyanezt mondja mindenki...
 _Szóljatok, ha gyanús, hogy körbe megyünk!_
 
-Nem elég, hogy magunkkal kibaszunk, még a bolygót is szétpusztítjuk menet közben.
+Nem elég, hogy magunkat ezekbe az ördögi körökbe kergetjük, még a bolygót is szétpusztítjuk menet közben.
 A megoldások helyett sokan még most is arról vitatkoznak, hogy egyáltalán van-e probléma.
 Evolúciós hátrányunk, hogy csak a rövidtávú fenyegetésekre reagálunk hevesen.
-De nagyon meg kellene tanulnunk ezt a hosszú távú katasztrófát előrejelző korai jelekre is alkalmazni.
+De nagyon meg kellene tanulnunk ezt a hevességet a hosszú távú katasztrófát előrejelző korai jelekre is alkalmazni.
 Mert sajnos mire ezekből a problémákból rövid távú lesz, addigra már semmit nem tehetünk majd.
 
 Mindezt nagyrészt a kapitalizmusnak és a fogyasztói társadalomnak köszönhetjük.
@@ -167,34 +167,34 @@ Ha végre a múltból a jelenbe értünk, nézzük meg, _mit_ is jelent az, hogy
 Mindannyiunknak kötelező kapcsolata van vele, de legtöbben mégsem tudjuk, hogy _mi_ is az.
 És enélkül pedig nehéz lesz vele egy mélyebb és helyesebb kapcsolatot kialakítani!
 A könyv 4 különböző _horizonton_ keresztül mutatja be, hogy mennyire nem mindegy, honnan nézzük a dolgokat.
-Gondoljunk erre úgy, mintha a változó magasságokból tekintenénk le egy városra.
+Gondoljunk erre úgy, mintha változó magasságokból tekintenénk le egy városra.
 
 - **Utcaszint** -- fizikai vonatkozások.
 Itt találkozunk a fizikai papír fecnikkel és érmékkel, itt jelenik meg minden fizetett munkánk, minden napi tranzakciónk.
-Ehhez érdemes tudni, hogy milyen számla típusok vannak, hogyan vegyünk fel kölcsönt; hitelkártyák, befektetések
+Ehhez érdemes tudni, hogy milyen számla típusok vannak, hogyan vegyünk fel kölcsönt; hitelkártyák, befektetések,
 adók, biztosítások, jótékonyság, stb.
-Ez lenne kb. a pénzügyi írástudás szintje, de sajnos a legtöbben még ezt a szintet **se** értik.
+Ez lenne kb. a pénzügyi írástudás szintje, de sajnos a legtöbben még ezt a szintet **sem** értik annyira, mint kellene.
 Ha pedig igen, akkor is legfeljebb ezt a szintet.
 Lehet, hogy jobb hitelt tudnak maguknak ezzel a tudással kicsikarni, de azt akkor sem kérdezik meg maguktól, hogy kell-e nekik hitel egyáltalán!
 
 - **Szomszédság az 50. emeletről** -- érzelmi és pszichológiai vonatkozások.
 Az egyén szintje felett elkezdünk mintákat látni a káoszban.
-Fontos, hogy hogyan állsz hozzá ehhez az egész témához, és azt honnan hozod.
-Tisztázd magadban őszintén, hogy milyen vélemény csoportokba tartozol: szereted, utálod, soha nem volt elég, ez a nők dolga, erről nem illik beszélni?
+Itt lesz fontos, hogy hogyan állunk hozzá ehhez az egész pénz témához, és hogy azt honnan hozzuk.
+Tisztázzuk magunkban őszintén, hogy milyen vélemény csoportokba tartozunk: szeretjük, utáljuk, soha nem volt elég, ez a nők dolga, erről nem illik beszélni?
 
-    - **Biztonság**nak tekinted a hideg világ ellen?
-    Ok, tényleg nem árt, ha van miből hol lakni, mit enni, és társai.
-    De ha éjjel pénzzel mászkálsz, az nem fog biztonságot adni.
+    - **Biztonság**nak tekintjük a hideg világ ellen?
+    Ok, tényleg nem árt, ha van hol lakni, mit enni, és társai.
+    De ha éjjel sok készpénzzel mászkálunk az utcán, az nem kimondottabban fog biztonságot adni.
 
-    - **Hatalmas**nak érzed magad tőle?
-    Ok, tényleg jobban azt teheted, amit akarsz.
+    - **Hatalmas**nak érezzük magunkat tőle?
+    Ok, tényleg jobban azt tehetjük, amit akarunk.
     De a szegényeknek is lehet komoly lelki-hatalma -- vegyük mondjuk Gandhit.
 
-    - Társadalmi **elfogadás**t kapsz tőle?
-    Ok, tényleg megolajozhatja egy csomó emberi kapcsolatod.
-    De önmagában nem teremt semmit, csak max megolajoz.
+    - Társadalmi **elfogadás**t kapunk tőle?
+    Ok, tényleg megolajozhatja egy csomó emberi kapcsolatunkat.
+    De önmagában nem teremt semmit, ami nincs; a megolajozás a maximum.
 
-    - **Gonosz**nak tartod?
+    - **Gonosz**nak tartjuk?
     Ok, tényleg lehet vele gonosz dolgokat csinálni.
     De ettől nem a pénz a gonosz, hanem aki a gonoszságot csinálja vele.
 
@@ -202,11 +202,11 @@ Tisztázd magadban őszintén, hogy milyen vélemény csoportokba tartozol: szer
 Bejön a formálisabb definíció, miszerint a pénz nem más, mint univerzális cserealap és értéktár.
 De itt már meglátjuk azt is, hogy csak a hitünk ad értéket a pénznek.
 Nem lehet megenni és nincs mögötte arany sem; csak úgy rámondtuk.
-Keressetek rá, mi is az a "fiat" pénz...
+(Keressetek rá, mi is az a "fiat" pénz...)
 <br />
 Itt jönnek még olyan finomságok, mint pl. az infláció, a recesszió, vagy akár a megélhetési költség.
-Innentől érezzük a társadalom jóvoltából a "több = jobb" elvet és az állandó növekedés utáni hajszát.
-És emiatt egymást is a pénzük alapján ítéljük meg.
+Innentől érezzük -- a társadalom jóvoltából -- a "több = jobb" elvet és az állandó növekedés utáni hajszát.
+És emiatt ítéljük meg egymást is a pénzünk alapján.
 
 - **Helikopteres kilátás** -- személyes felelősség és átalakulás.
 Ha még feljebb megyünk, meglátjuk, hogy a város nem az egész világ.
@@ -228,7 +228,7 @@ Ez az egész első sorban egy hozzáállásbeli változtatás, aminek hatására
 Ezek fényében próbáljuk meg kiértékelni, hogy miért is cseréljük be az életenergiánkat.
 A jelen helyes megítéléséhez egyrészt tudnunk kell a _valós_ órabérünket, illetve hogy mennyi pénz is folyik így át a kezeink között.
 
-#### 2/A. Mennyi az _igazi_ órabéred?
+#### 2/A. Mennyi az _igazi_ órabérünk?
 
 Ez a pont elsőre könnyűnek hangozhat, de komplexebb, mint gondolnánk.
 Nem csak munkabér osztva munkaórákkal!
@@ -236,7 +236,7 @@ Minden olyat is bele kell venni, amit a munkád miatt csinálsz, de nélküle ne
 
 Maga a nyers munka mellett a munkába járás, a helyes öltözködés, a főzés hiánya miatti drágább kaják, a "csináld magad" javítások helyetti cserék vagy szerelői díjak, a munka miatti "leeresztési" és szórakozási szükségletek, a munkahelyi státuszhoz elengedhetetlen vakációk, az munkahelyi stressz miatti esetleges egészségügyi költségek...
 Ezek mennyi időt és pénzt emésztenek fel?
-És akkor ebben még az egyéb "munkáról gondolkozás", a karriertervezés, vagy a széteső életed összekapargatása még nincs is benne...
+És akkor ebben még az egyéb "munkáról gondolkozás", a karriertervezés, vagy a széteső életünk összekapargatása még nincs is benne...
 
 Ha így nézzük, akkor a tényleges óránkénti keresetünk hirtelen elég szomorú lesz.
 De ne szomorkodjunk, mert ezzel a tudással sokkal jobban tudjuk majd optimalizálni az életünket.
@@ -294,7 +294,7 @@ Ha diétaként akarunk hozzáállni, akkor kb. ugyanolyan jól is fog elsülni, 
 
 Legyünk helyette **tudatosak**!
 Itt az alkalom, hogy elkezdjünk külső hatások helyett belső jelekre figyelni, és a konkrét havi költésünk helyett a költési mintáinkat megváltoztatni.
-Mint egy (rendes) kajás életmódváltásnál is: akkor eszel, ha éhes vagy (nem akkor, ha unatkozol, ha jutalmat akarsz, stb.), és nem a konkrét kajákra figyelsz, hanem inkább az étkezésedre úgy általában.
+Mint egy (rendes) kajás életmódváltásnál is: akkor eszünk, ha éhesek vagyunk (nem akkor, ha unatkozunk, ha jutalmat akarunk, stb.), és nem a _konkrét_ kajákra figyelünk, hanem inkább az étkezésünkre úgy általában.
 
 ### 3. lépés: Alakítsuk ki a saját költési kategóriáinkat!
 
@@ -315,7 +315,7 @@ Például amikor már sorban a 8. hónapban kell azt mondanunk, hogy "Na jó, de
 De várhattuk volna!
 És az új ismereteink birtokában senki nem is állíthat meg, hogy ezután már várjuk őket!
 
-Lényeges még, hogy a könyvelés mellett utána el is kell számolni, hogy tényleg annyi pénzünk van-e, mint amennyi az elszámolás szerint kellene, hogy legyen!
+Lényeges még, hogy a könyvelés mellett rendszeresen el is kell számolni, hogy tényleg annyi pénzünk van-e, mint amennyi az elszámolás szerint kellene, hogy legyen!
 Személy szerint én ezt igyekszem nagyon szigorúan venni.
 Például jártam már úgy, hogy a készpénz egyeztetésénél 5 forint hiányzott -- amit végül megtaláltam a szék lába alatt! Említettem már, hogy PONTOSSÁG?!
 
@@ -373,7 +373,7 @@ Ez a fázis nem csak felülvizsgálja a költéseidet, de menet közben gyakorla
 
 ### 4. lépés: A 3 nagy kérdés
 
-A havi, kategóriánkénti összegzésünk ismeretében 3 kérdést teszünk fel magunknak, és a válaszoktól függően egy-egy "+", "0", vagy "-" jelet minden oszlopba:
+A havi, kategóriánkénti összegzésünk ismeretében 3 kérdést teszünk fel magunknak, és a válaszoktól függően egy-egy **`+`**, **`0`**, vagy **`-`** jelet minden oszlopba:
 
 1. Arányosan kapunk-e elégedettséget és értéket az elköltött életenergiánkért az adott kategóriában?
 Hangsúlyoznám: _nem_ baj, ha egyediek vagyunk, és olyanokra költünk, amikre mások szerint nem kellene.
@@ -385,8 +385,9 @@ De ha megélezzük az érzékeinket, akkor idővel könnyű lesz majd pont ott l
 
 2. Egyezik-e ez a kiadás az elveinkkel és az értékrendünkkel?
 Itt ellenőrizhetjük, hogy bort iszunk-e, miközben vizet prédikálunk...
-És ne verjük át magunkat, hogy "de hát az muszáj, annak semmi köze az értékeimhez"!
-Mindig van választásunk, és ha azt választjuk, hogy olyan szituációba kényszerítjük magunkat, ahol már "muszáj", az is a mi lelkünkön szárad!
+És ne verjük át magunkat, hogy "de hát az muszáj, annak semmi köze az értékeimhez".
+Mindig van választásunk!
+Ha azt választjuk, hogy olyan szituációba kényszerítjük magunkat, ahol már "muszáj", az is a mi lelkünkön szárad!
 Mellesleg az életcélunk meghatározásához pont a [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) könyvet ajánlják itt is...
 
 3. Hogy változna az adott kategória, ha nem dolgoznánk?
@@ -451,10 +452,11 @@ Az előző lépés 3 nagy kérdése automatikusan a kiadásaink csökkenéséhez
 Idővel szinte az fogja az örömet okozni, ha _nem_ veszünk meg valamit.
 Tapasztalatok alapján a többség 3 hónapon belül legalább 20%-ot levág a kiadásaiból, fájdalommentesen!
 És az egészben az a legjobb, hogy teljesen objektív.
-Így nem tudod "félremagyarázni", hogy nem is eszel olyan sokat éttermekben vagy hogy nem is veszel olyan sok ruhát...
+Így nem tudjuk "félremagyarázni", hogy nem is eszünk olyan sokat éttermekben vagy hogy nem is veszünk olyan sok ruhát...
+Ott lesz, feketén-fehéren.
 
-Ha szépen vezetjük -- és ezáltal sínen tartjuk magunkat -- akkor fokozatosan kimászhatunk az adósságokból, tartalékokat képezhetünk, és lépkedhetünk az anyagi függetlenség felé!
-Motivációt ad, ha megbillennél; mert félsz majd szembenézni a következményekkel a hónap végén, ha más okból nem is.
+Ha szépen vezetjük a fali táblázatunkat -- és ezáltal sínen tartjuk magunkat -- akkor fokozatosan kimászhatunk az adósságokból, tartalékokat képezhetünk, és lépkedhetünk az anyagi függetlenség felé!
+Motivációt ad akkor is, ha megbillennénk, mert félünk majd szembenézni a következményekkel a hónap végén, ha más okból nem is.
 Eleve általános menedzsment alapelv, hogy "csak azt irányíthatjuk, amit mérünk".
 Na ez ide is nagyon releváns, úgyhogy nincs többé strucc politika!
 
@@ -491,7 +493,7 @@ Na ez ide is nagyon releváns, úgyhogy nincs többé strucc politika!
 
 A "takarékosság" és "mértékletesség" szavak a mai világban elég negatív kicsengést kaptak.
 Arra pedig konkrétan nincs is kifejezés, hogy pont a megelégedési görbe optimumán élünk, ahol mindenünk megvan, de semmi több.
-Pláne úgy nem, hogy ebben a kifejezésben benne kellene hogy legyen az a sok mentális energia és odafigyelés, amivel ezt (büszkén) fenntartjuk.
+Pláne úgy nem, hogy ebben a kifejezésben benne kellene lennie annak a sok mentális energiának és odafigyelésnek is, amivel ezt (büszkén) fenntartjuk.
 
 Socrates és Plato, az Ó és az Új Testamentum, történelmünk nagy emberei és csoportjai -- mind ezt hirdetik.
 Nekünk mégis furcsa, mert manapság annyira nem ez az alapértelmezés.
@@ -503,33 +505,33 @@ Hanem hogy mindre szükségünk van-e, kihasználjuk-e, stb.
 > > To be frugal means to have a high joy-to-stuff ratio.
 
 Alapból nem kellene olyan sok cucc, de ami talán még nagyobb baromság, az az, hogy még akkor sem állunk meg élvezni, amikor már van.
-Valószínűleg azért akarunk mindent annyira az "enyém" falain belülre vonszolni, mert meg vagyunk győződve, hogy a falon kívül "ők" vannak.
-Ha ezt visszacsillapítanánk arra, hogy "mi" vagyunk, akkor egyrészt nem kellene annyi fal, másrészt könnyebben áramolhatnának a dolgok be vagy ki.
+Valószínűleg azért akarunk mindent annyira az "enyém" falain belülre vonszolni, mert meg vagyunk győződve róla, hogy a falon kívül "ők" vannak.
+Ha ezt visszacsillapítanánk egy olyan nézetre, hogy mindenhol csak "mi" vagyunk, akkor egyrészt nem kellene annyi fal, másrészt könnyebben áramolhatnának a dolgok be vagy ki.
 Tehát az abszolút pozitív kicsengésű "takarékosság" jegyében:
 
 ### 6. lépés: Csökkentsük a kiadásainkat!
 
 Régen egyértelmű volt, hogy takarékosnak kell lenni, mert nekünk kellett izomerővel megdolgozni a többért.
-Aztán jött ipari forradalom, ahonnan már inkább a gépek dolgoznak.
+Aztán jött a sokat emlegetett ipari forradalom, ahonnan már inkább a gépek dolgoznak.
 Újabban pedig itt az internet, ami egyszerre könnyít és nehezít a dolgokon.
 Igaz, a sok fórum, tanács, és blog miatt könnyebb spórolni.
 De a nyomkövető programok és sütik miatt olyan ínycsiklandozó, személyre szabott reklámokat fogsz kapni, hogy aztán csak győzz ellenállni!
 
-Nem is feltétlen úgy kellene törekednünk a "zöld" életvitelre, hogy rögtön cseréljük a dolgainkat.
+A "zöld" életvitelre sem feltétlen úgy kellene törekednünk, hogy rögtön lecseréljük a dolgainkat.
 Sokkal zöldebb, ha elhasználjuk, amink már van...
 Vagy ha inkább átgondoljuk, hogy kell-e egyáltalán.
-A "nulladik" lépés, hogy ne akarj másokat lenyűgözni!
+A "nulladik" lépés, hogy ne akarjunk másokat lenyűgözni!
 Amint az megvan, akkor léphetünk tovább a következő alapelvek segítségével:
 
-1. Soha ne menj "csak úgy" vásárolni -- csak konkrétan azért, ami kell, listával!
-2. Legfeljebb addig nyújtózkodj, amíg az anyagi takaród ér!
-3. Gondoskodj arról, amid van...
-4. ...és használd addig, amíg csak lehet!
-5. Csináld magad -- szinte akármiről is legyen szó!
-6. Számíts előre a szükségleteidre!
-7. Mindig nézz utána, mit veszel -- ár, minőség, tartósság, több használati lehetőség!
-8. Ha az eddigiek mind stimmelnek, akkor igyekezz a legolcsóbban megvenni, amit épp akarsz!
-9. Elégítsd ki a szükségleteidet _máshogyan_ -- nem korlátozni kell magad, csak visszakövetni az aktuális sóvárgásodat a forrásáig, amikor is nagy valószínűséggel rájössz, hogy azt máshogy (olcsóbban) is ki lehet elégíteni!
+1. Soha ne menjünk "csak úgy" vásárolni -- csak konkrétan azért, ami kell; listával!
+2. Legfeljebb addig nyújtózkodjunk, amíg az anyagi takarónk ér!
+3. Gondoskodjunk arról, amink van...
+4. ...és használjuk addig, amíg csak lehet!
+5. Csináljuk magunk -- szinte bármiről is legyen szó!
+6. Számítsunk előre a szükségleteinkre!
+7. Mindig nézzünk utána, mit veszünk -- ár, minőség, tartósság, több használati lehetőség!
+8. Ha az eddigiek mind stimmelnek, akkor igyekezzünk a legolcsóbban megvenni, amit épp akarunk!
+9. Elégítsük ki a szükségleteidet _máshogyan_ -- nem korlátozni kell magunkat, csak visszakövetni az aktuális sóvárgásainkat a forrásig, ahol nagy valószínűséggel rájövünk majd, hogy azt máshogy (olcsóbban) is ki lehet elégíteni!
 
 > Az embereknek nem nagy kocsi kell, hanem tisztelet. Nem nagy ruhatár, hanem hogy vonzónak [...] érezzék magukat.
 > 
@@ -541,8 +543,8 @@ Ezek után mindenképpen gondolkozzunk el, hogy:
 - Hol és mekkora házban/lakásban lakunk?
 - Hány kocsink legyen -- vagy hogy kell-e kocsi egyáltalán?
 - Mit, mennyit, és hol eszünk?
-- Saját magunkat hogy tartjuk karban, hogy ne is gyógyszerekre menjen?
-- Nem lehetne-e osztozkodni -- hogy ne kelljen saját valamiből, ha a szomszédét is kölcsön kérheted?
+- Saját magunkat hogy tartjuk karban -- hogy ne is gyógyszerekre menjen?
+- Nem lehetne-e osztozkodni -- hogy ne kelljen saját olyanból, amiből akár a szomszédét is kölcsön kérhetnénk?
 - Kell-e vakációzni?
 - Mire éri meg biztosítást kötni?
 - Hogy neveljük a gyerekeket -- ha vannak?
@@ -591,7 +593,7 @@ Meg kellene próbálunk ezekből is egy kicsit konzisztensebb, általánosabban 
 
 Ezért megint jön egy kis töri ismétlés.
 Régen az átlag ember 2-3 órát dolgozott napi szinten, gyűjtögetés, vadászat, ilyesmi.
-De aztán persze jött az Ipari Forradalom, aminek természetesen mindenbe **is** bele kellett piszkálnia.
+De aztán persze jött az a fránya ipari forradalom, aminek természetesen mindenbe **is** bele kellett piszkálnia.
 Ennek ellenére vannak modern példái is, hogy 3 óra munka elég lenne.
 
 A gépesítésnek a munka háttérbe szorításában ugye elvileg pont segítenie kellett volna.
@@ -615,14 +617,14 @@ Ha az életenergiád helyes költését tekinted a végcélnak, visszaállhat az
 Ha szétkapcsoljuk a munkát a fizetéstől, akkor nyugodtabban mondhatjuk az "X vagyok" helyett, hogy "Y vagyok, de most épp X-szel keresek pénzt".
 Ha ezt megtesszük, komolyabb változások jöhetnek!
 
-- Önként vállalhatunk pl. olyat, ami kevesebb pénzt jelent, de jobban támogatja az értékrendünket.
+- Önként vállalhatunk például olyat, ami kevesebb pénzt jelent, de jobban támogatja az értékrendünket.
 - A saját értékrendünk szerint élhetünk ahelyett, hogy hagynánk másokét magunkra kényszeríteni.
 - A nyugdíjra sem az életünk végeként tekintenénk, csak a fizetett szakasz végeként, ami után ugyanolyan aktívak maradhatunk, csak már külső behatások nélkül.
 - A fizetetlen munkáinkat is komolyabban vesszük majd -- otthoni dolgok, család, barátságok, önismeret!
 - Hasonlóképp, a szabadidőnket is többre becsülnénk -- és jobban élvezhetnénk.
 
 Logikusnak tűnhet olyan "hivatást" keresni, ahol azért fizetnek, amit amúgy is csinálni szeretnénk.
-De ilyenkor nagyon vigyázzunk, hogy a pénz meg ne mérgezze az a tevékenységet!
+De ilyenkor nagyon vigyázzunk, hogy a pénz meg ne "mérgezze" azt a tevékenységet!
 Ha pedig kimondottan a pénzért végzünk valamilyen tevékenységet, akkor legalább intézzük úgy, hogy megérje!
 
 ### 7. lépés: Növeljük a bevételeinket!
@@ -631,6 +633,10 @@ Az új hozzáállásunkat használhatjuk arra, hogy magasabb fizetést szerezzü
 Ha önfejlesztést, befektetést és energiát igényel, akkor beletesszük, mert az életenergiánkat tiszteljük vele.
 Az eredményeket pedig használhatjuk arra, hogy gyorsabban haladhassunk a pénzügyi függetlenség felé.
 Vagy akár arra is, hogy kevesebbet kelljen dolgoznunk az eléghez, és mellette többet élhessünk.
+
+Ahányan vagyunk, annyiféle tevékenységgel keressük a pénzt, úgyhogy konkrét megvalósítási lépésekkel fölösleges is lenne általánosítani.
+Ha az alapelveket megértjük, és egyetértünk, akkor onnantól már "csak" csinálni kell.
+Mindig van felfelé.
 
 <br />
 
@@ -677,7 +683,7 @@ Ami nagyon hangsúlyos, hogy ez _belátható időn belül_ jönni fog!
 Nem kell beletörődni, hogy munkából áll az élet!
 Ez a tudat pedig nagy lökést adhat, hogy addig is minél jobban teljesítsünk.
 
-A másik, amit érdemes minél hamarabb tisztázni: utána **nem** semmittevés jön, hanem amit akarsz.
+A másik, amit érdemes minél hamarabb tisztázni: utána **nem** semmittevés jön, hanem amit csak akarunk.
 A könyv is sok példát hoz a tévképzetek szétoszlatására.
 Volt aki tovább dolgozott, hogy minél biztonságosabb legyen.
 Volt, aki szintén tovább nyomta, de eladományozta a bevételeit.
@@ -751,7 +757,7 @@ Ezekből természetesen az **alaptőke** a legfontosabb, amit elég konzervatív
 
 - Termeljen bevételt!
 - Legyen "teljesen" biztonságban -- vagyis amennyire csak lehet!
-- Legyen likvidálható!
+- Legyen likvidálható -- vagyis ki lehessen venni belőle a pénzt!
 - Ne fogyjon semmilyen díj miatt!
 - A belőle érkező bevételünk legyen biztos és kiszámítható!
 - Kaphassuk készpénzben -- ne csak automatikus újra befektetéssel és hasonlók!
@@ -764,7 +770,7 @@ Ezekből van infláció ellen védett verzió is, kicsit kisebb hozammal, de nag
 Illetve ugye léteznek kötvény alapok is, amik ilyeneket vegyesen tartalmaznak, meghatározott arányban.
 
 Előfordulhat, hogy a kötvények kamata nagyon alacsony; ilyenkor érdemes lehet mást (első sorban: részvényeket) is figyelembe venni.
-De ekkor sem ajánlott egyesével válogassunk részvényeket!
+De ekkor sem ajánlott egyesével válogatnunk a részvényeket!
 Fektessünk inkább alapokba, ahol ismét egy vegyes, eltérő szempontok alapján összeválogatott kosarat kapunk.
 Figyeljünk az aktívan menedzselt és az index-követő alapok különbségeire, ezeken belül is a költségekre!
 Általánosan fontos a befektetési fajták közötti elosztás (részvények, kötvények, ingatlan, készpénz, nyersanyagok), hogy "ne egy kosárban legyen az összes tojásunk".
@@ -774,7 +780,7 @@ Csak felhívja a figyelmünket a lépés fontosságára; a részletekért pedig 
 
 Az alaptőkén továbblépve, a **"párnázás"** kb. 6 havi megélhetésünk félretételét jelenti, hogy ne okozzon gondot semmiféle piaci fluktuáció vagy váratlan változás.
 Ezzel tulajdonképpen eltávolítjuk magunkat a pénzügyi szakadék szélétől, és hatására sztoikusabb nyugalommal tudjuk majd követni a hétköznapok fejleményeit.
-Tekintsünk erre egy lengéscsillapítóként: miatta tehetjük meg, hogy az egyes bukkanók helyett a hosszabb távú úticélunkra koncentrálunk.
+Tekintsünk erre egy lengéscsillapítóként: miatta tehetjük meg, hogy az egyes kátyúk és bukkanók helyett a hosszabb távú úti célunkra koncentrálunk.
 
 Az utolsó komponensünk pedig a **többlet** -- a könyv "cache"-nek, vagyis rejtekhelynek, titkos raktárnak nevezi.
 Ez már az a rés, ami nem hogy a sima bevétel és a kiadások, hanem a _passzív_, _befektetési_ bevétel és a kiadások között nyílik.
@@ -786,7 +792,7 @@ Vagy adakozunk belőle.
 Vagy a hagyatékunkat építjük vele.
 Amíg a "megkísértésre" figyelünk, a többi már ránk van bízva...
 
-
+<br />
 
 
 
@@ -814,3 +820,21 @@ Amíg a "megkísértésre" figyelünk, a többi már ránk van bízva...
 
 
 ## Összefoglalás
+
+És íme!
+Átfogóan, nagy vonalakban mindent tudunk, amit a pénzügyekről tudni kell.
+Mármint minden területet érintettünk, ami az életünk során várhatóan előkerül.
+Persze mindről lehetne külön bejegyzés; vagy könyv; vagy polc; vagy egy egész szakma.
+És van is.
+De ami fontos, hogy **nagy vonalakban** láttuk az egészet.
+Illetve kaptunk mellé egy hozzáállási receptet is, amivel "megnyerhetővé" válik a játszma!
+
+Én pedig pont ezt a kapcsolt szemléletmódot emelném ki fő tanulságként.
+Ha anélkül, lecsupaszítva néznénk a könyvet, akkor gyorsan visszavezethető lenne a rojtosra ismételt "Keress többet! Költs kevesebbet! Fektesd be a különbözetet!" trióra.
+És persze, a trió továbbra is releváns; az az út.
+Csak amíg a társadalmilag alapértelmezett értékrend ketyeg a fejünkben, addig nem fogunk rálépni -- vagy ha igen, akkor sem tudunk majd rajta maradni.
+Mert kínzásnak, önsanyargatásnak és nélkülözésnek élnénk meg.
+
+Jegyezzük hát meg a horizontos hasonlatot, emelkedjünk a fizikai-érzelmi-kulturális szintek fölé, és tekintsünk a pénzre az életenergiánkként!
+Ez adja majd azt a belső "átkapcsolást", ami hatására _önként_ lépünk a trió útjára.
+És akkor már végig is megyünk!
