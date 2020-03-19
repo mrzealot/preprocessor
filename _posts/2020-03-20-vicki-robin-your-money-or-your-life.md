@@ -89,7 +89,7 @@ Kérdőíves tesztek azt mutatják, hogy mindig csak pont még 50% kellene, és 
 Kár, hogy 50%-kal feljebb is ugyanezt mondja mindenki...
 _Szóljatok, ha gyanús, hogy körbe megyünk!_
 
-Nem elég, hogy magunkat ezekbe az ördögi körökbe kergetjük, még a bolygót is szétpusztítjuk menet közben.
+Nem elég, hogy magunkat ezekbe az ördögi körökbe kergetjük, de még a bolygót is elpusztítjuk menet közben.
 A megoldások helyett sokan még most is arról vitatkoznak, hogy egyáltalán van-e probléma.
 Evolúciós hátrányunk, hogy csak a rövidtávú fenyegetésekre reagálunk hevesen.
 De nagyon meg kellene tanulnunk ezt a hevességet a hosszú távú katasztrófát előrejelző korai jelekre is alkalmazni.
@@ -379,7 +379,7 @@ A havi, kategóriánkénti összegzésünk ismeretében 3 kérdést teszünk fel
 Hangsúlyoznám: _nem_ baj, ha egyediek vagyunk, és olyanokra költünk, amikre mások szerint nem kellene.
 Csak _nekünk_ legalább érje már meg, amit csinálunk!
 Ez a gyakorlat bekalibrálja a belső elégedettség szenzorunkat, és idővel egyre jobban fogjuk érezni, hogy tényleg kell-e nekünk az a bizonyos valami.
-Képzeljük úgy el, mintha egy intercity vonat menne "Nem elég"-ből "Túl sok"-ba, és az "Épp elég" csak valahol félúton egy kis falucska lenne.
+Képzeljük el úgy, mintha egy intercity vonat menne "Nem elég"-ből "Túl sok"-ba, és az "Épp elég" csak valahol félúton egy kis falucska lenne.
 Ha nem figyelünk, akkor könnyen el lehet véteni.
 De ha megélezzük az érzékeinket, akkor idővel könnyű lesz majd pont ott leszállni!
 
@@ -531,7 +531,7 @@ Amint az megvan, akkor léphetünk tovább a következő alapelvek segítségév
 6. Számítsunk előre a szükségleteinkre!
 7. Mindig nézzünk utána, mit veszünk -- ár, minőség, tartósság, több használati lehetőség!
 8. Ha az eddigiek mind stimmelnek, akkor igyekezzünk a legolcsóbban megvenni, amit épp akarunk!
-9. Elégítsük ki a szükségleteidet _máshogyan_ -- nem korlátozni kell magunkat, csak visszakövetni az aktuális sóvárgásainkat a forrásig, ahol nagy valószínűséggel rájövünk majd, hogy azt máshogy (olcsóbban) is ki lehet elégíteni!
+9. Elégítsük ki a szükségleteinket _máshogyan_ -- nem korlátozni kell magunkat, csak visszakövetni az aktuális sóvárgásainkat a forrásig, ahol nagy valószínűséggel rájövünk majd, hogy azt máshogy (olcsóbban) is ki lehet elégíteni!
 
 > Az embereknek nem nagy kocsi kell, hanem tisztelet. Nem nagy ruhatár, hanem hogy vonzónak [...] érezzék magukat.
 > 
@@ -690,7 +690,7 @@ Volt, aki szintén tovább nyomta, de eladományozta a bevételeit.
 Vállalkozások, aktivitások, tanulás, önkénteskedés...
 A két pálmafa közé kifeszített függőágyat meg felejtsük már el!
 Koncentráljunk inkább arra, hogy mi mindent **adhatunk** majd.
-Mert ha hisszük, ha nem, ebben a teljesen el-egocentrikusodott világban pont az _adás_ fog majd minket a megelégedési görbe maximum pontján is túlvinni!
+Mert ha hisszük, ha nem, ebben a teljesen egocentrikus világban pont az _adás_ fog majd minket a megelégedési görbe maximum pontján is túlvinni!
 
 <br />
 
