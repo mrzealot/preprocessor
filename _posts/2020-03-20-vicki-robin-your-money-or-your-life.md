@@ -4,11 +4,14 @@ title: Vicki Robin - Your Money or Your Life
 pages: 328
 date: 2020-03-20 15:00
 excerpt: >
+    Az elmúlt két hét minimalizmusa és tudatossága után rátérünk arra, hogy egy hasonló hozzáállás hogyan formálhatja át a személyes pénzügyeinket is.
+    A "Pénzt vagy életet" nagy kedvencem a témában, aminek alapjaként az egyik társszerző saját pénzügyi függetlenedése, majd az ebből kinövő tanfolyamok és évtizedes tanulói visszajelzések szolgálnak.
+    A módszer ígérete nem kevesebb tehát, mint az anyagi függetlenség (financial independence, vagy FI), ami siker esetén azt jelentené, hogy már jóval nyugdíj előtt "nyugdíjazhatnánk" magunkat.
 ---
 
 Az elmúlt két hétben [Henry David Thoreau]({% post_url 2020-03-06-henry-david-thoreau-walden %}) és [Cal Newport]({% post_url 2020-03-13-cal-newport-digital-minimalism %}) jóvoltából sokat hallhattunk az egyszerűségről, a minimalizmusról és a tudatosságról.
 Most pedig rátérünk arra, hogy egy hasonló hozzáállás hogyan formálhatja át a személyes pénzügyeinket is.
-Személyes kedvencem a témában [Vicki Robin -- Your Money or Your Life](https://www.goodreads.com/book/show/5634236-your-money-or-your-life){:target="_blank"} (kb. "Pénzt vagy életet") című könyve, aminek alapjaként az egyik társszerző saját pénzügyi függetlenedése, majd az ebből kinövő tanfolyamok és évtizedes tanulói visszajelzések szolgálnak.
+Kedvencem a témában [Vicki Robin -- Your Money or Your Life](https://www.goodreads.com/book/show/5634236-your-money-or-your-life){:target="_blank"} (kb. "Pénzt vagy életet") című könyve, aminek alapjaként az egyik társszerző saját pénzügyi függetlenedése, majd az ebből kinövő tanfolyamok és évtizedes tanulói visszajelzések szolgálnak.
 
 A módszer ígérete nem kevesebb tehát, mint az anyagi függetlenség (financial independence, vagy FI), ami siker esetén azt jelentené, hogy már jóval nyugdíj előtt "nyugdíjazhatnánk" magunkat.
 Ehhez azonban a könyv szerint is -- és sok magánbeszélgetésemből tapasztalva szerintem is -- az a legelső feltétel, hogy átdefiniáljuk a "gazdagságot", és a célt magát egyáltalán elképzelhetőnek tartsuk.
