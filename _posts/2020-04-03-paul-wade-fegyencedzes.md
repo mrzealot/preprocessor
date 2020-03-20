@@ -240,41 +240,45 @@ Fejlődés tekintetében ismerős lesz a napirend: az első félben a gyertyába
 
 ### 3. Húzódzkodás
 
-- a hátunkat nehezen látni a tükörben, de ettől még nem illene hanyagolni
-    - a markolásunkat is igencsak megerősíti, ami a tenyerünkön és az alkarunkon is érződni fog
-    - illetve ha segít a hiúságunknak, akkor gondoljunk arra, hogy a bicepszünk is durván meg lesz dolgoztatva
-- az evolúció is egyszerűen ebbe az irányba terelget, úgyhogy ne ellenálljunk
-    - emiatt a legbiztonságosabb is
-- a nyomás-mánia mellé különösen jót tesz
-    - kiegyenlíti az első és hátsó erőnlét közti eltéréseket, ezért nehezebben fogunk lesérülni
-- ha hájas vagy, az itt különösen érződni fog, úgyhogy készülj fel
-    - csináld ahogy tudod, és mellette helyes étkezéssel tedd rendbe a zsírpárnáidat!
-- tedd bele az időt, ez nem fog gyorsan menni
-    - a feljebb lépés csak azt mutatja, hogy már fejlődtél
-    - de az a fejlődés attól jön, hogy az alacsonyabb szintű gyakorlatokat unalomig csináltak
-    - úgyhogy ne kapkodj, csak csináld őket
-- általános tippek
-    - ne akadjunk fent a fogáson
-        - ha overhand, ha underhand, ahogy kényelmesebb
-        - a legjobb a gyűrű lenne, mert ott szabadon elfordulhat a kezed, ahogy természetes lenne neki
-    - ne rúgd fel magad a lábaddal -- itt is szép lassú kontroll a cél
-        - _esetleg_ a szetted végén, állóképesség növelési céllal...
-    - ne nyújtsd ki teljesen a kezed, és ne lógj megfeszítetlen vállakkal
-        - az izmaid tartsanak, ne az inak és az ízületek, mert annak hosszú távon nem lesz jó vége
-    - elég, ha az állad a cső fölé ér
-        - kivéve ha ilyen "kirobbanó" céllal csinálod (muscle up), amikor pont az a lényeg, hogy jóval feljebb érj
-- itt is a szokásos formula, az első fele eljuttat a rendes, teljes pullup-ig, ahonnan aztán a második félben -- mindenki egyszerre! -- féloldalasítunk, és fokozatosan elhagyjuk az egyik kezünket
+A hátunkat nehezen látni a tükörben, de ettől még nem illene hanyagolni.
+Ha pedig hátgyakorlat, akkor a húzódzkodásnál nem találunk jobbat.
+Még az evolúció is ebbe az irányba terelget -- és emiatt kb. a legbiztonságosabb lehetőségünk is -- úgyhogy ne ellenálljunk.
+Bónuszként a húzódzkodás a hátunk mellett a markolásunkat is igencsak megerősíti, ami a tenyerünkön és az alkarunkon is érződni fog.
+Illetve ha ez segít a hiúságunknak, akkor gondoljunk arra, hogy a bicepszünk is durván megkapja a magáét!
 
-1) függőleges húzás -- vertical pulls -- 3 x 40
-2) vízszintes húzás -- horizontal pulls -- 3 x 30
-3) bicska húzódzkodás -- jackknife pullups -- 3 x 20
-4) fél húzódzkodás -- half pullups -- 2 x 15
-5) teljes húzódzkodás -- full pullups -- 2 x 10
-6) húzódzkodás szűk kéztartással -- close pullups -- 2 x 10
-7) felemás húzódzkodás -- uneven pullups -- 2 x 9
-8) fél egykezes húzódzkodás -- half one-arm pullups -- 2 x 8
-9) egykezes húzódzkodás törölközővel -- assisted one-arm pullpus -- 2 x 7
-10) egykezes húzódzkodás -- one-arm pullups -- 2 x 6
+A hátunk dedikált edzése a kulturális "nyomás-mánia" mellé különösen jót fog tenni.
+Kiegyenlíti az első és hátsó erőnlét közti eltéréseket, ezért nehezebben fogunk lesérülni.
+A felpakolt zsírtartalékok itt viszont kamatostól érződni fognak, úgyhogy készüljünk fel!
+Csináljuk, ahogy tudjuk, és mellette helyes étkezéssel tegyük rendbe a felesleget!
+
+Általános tippek:
+
+- Ne akadjunk fent a fogáson!
+Lehet felülről, lehet alulról, lehet vegyesen...
+Ahogy kényelmesebb.
+A legjobb igazából a gyűrű lenne, mert ott szabadon és természetesen elfordulhatna a kezünk.
+- Ne "rúgjuk" fel magunkat lábbal -- itt is a szép lassú _kontroll_ a cél!
+_Esetleg_ a szettünk végén, állóképesség növelési céllal "na még ráteszünk egyet"...
+De csak akkor!
+- Ne nyújtsuk ki teljesen a kezünket, és ne lógjunk megfeszítetlen vállakkal!
+Az izmaink tartsanak, ne az inak és az ízületek, mert annak hosszú távon nem lesz jó vége.
+- Elég, ha az állunk a cső fölé ér!
+Kivéve ha ilyen "kirobbanó" céllal csináljuk ("muscle up"), amikor pont az a lényeg, hogy jóval feljebb érjünk.
+
+Fejlődés ügyben itt is a szokásos formula, az első fele eljuttat a rendes, teljes húzódzkodásig, ahonnan aztán a második félben -- mindenki egyszerre! -- féloldalasítunk, és fokozatosan elhagyjuk az egyik kezünket.
+
+1. Függőleges húzás -- Vertical pulls -- `3 x 40`
+2. Vízszintes húzás -- Horizontal pulls -- `3 x 30`
+3. Bicska húzódzkodás -- Jackknife pullups -- `3 x 20`
+4. Fél húzódzkodás -- Half pullups -- `2 x 15`
+5. Teljes húzódzkodás -- Full pullups -- `2 x 10`
+6. Húzódzkodás szűk kéztartással -- Close pullups -- `2 x 10`
+7. Felemás húzódzkodás -- Uneven pullups -- `2 x 9`
+8. Fél egykezes húzódzkodás -- Half one-arm pullups -- `2 x 8`
+9. Egykezes húzódzkodás törölközővel -- Assisted one-arm pullpus -- `2 x 7`
+10. Egykezes húzódzkodás -- One-arm pullups -- `2 x 6`
+
+<br />
 
 
 
@@ -286,35 +290,42 @@ Fejlődés tekintetében ismerős lesz a napirend: az első félben a gyertyába
 
 ### 4. Lábemelés
 
-- a "kis aranyos" fitness kockahasak itt is le vannak oltva
-    - nekünk _igazi_, "pokoli" has kell
-    - minden részében kemény, nem csak az elülső fala, hajlékony, véd, a szerveket is rendesen "tartja"
-- a felüléssel hasonló, de:
-    - ehhez nem kell felszerelés (a progresszivitás miatt a felüléshez kellene)
-    - természetesebb komplex mozdulatra képzi ki az idegrendszert
-    - több izmot mozgat közvetetten
-- általános tippek:
-    - a légvétel erősen hat a törzsizmok összehúzódására, ezért lélegezz ki az emelésnél, és be a leengedésnél
-    - a mély törzsizmok tartják össze a beleidet (kb. mint egy fűző), ezért legyenek feszesek (nehogy szó szerint sérvet kapj) -- erre érdemes nap közben is figyelni; helyes tartás ftw
-    - hagyj ki legalább 2 órát kaja után, hogy ne legyen tele a gyomrod
-    - az _egyenes_ lábemelésben nagyon fontos szerepet játszik a hamstring is -- szóval érdemes nyújtani, ha az akadályozza a helyes formát
-    - nem a has edzéstől lesz kockás a hasad, hanem az alacsony zsírszázalékodtól
-        - és csak hogy hátul is hallják: **nincs** olyan, hogy lokális zsírvesztés
-        - szóval Te csak csináld az erősítés szellemében a gyakorlataidat, a definíciót pedig keresd a konyhában!
-    - újra figyelmeztetés: nem "lengetni" kell a lábakat -- szép lassú, kontrollált mozdulatok!
-- az első félben eljutunk a földön a teljes egyenes lábemelésig, amit aztán a második 5-ben lógva is megcsinálunk
+A "kis aranyos" fitness kockahasak helyett az _igazi_, "pokoli" hasat részesítjük előnyben, aminek nem csak a fényképező-felőli oldala kemény.
+Fontos, hogy hajlékony legyen, hatékonyan védjen és a szerveket is rendesen "tartsa".
+Ennek eléréséhez pedig a lábemelés az első számú ajánlás.
 
-1) térdfelhúzás -- knee tucks -- 3 x 40
-2) térdemelés fekvésben -- flat knee raises -- 3 x 35
-3) hajlított lábemelés fekvésben -- flat bent leg raises -- 3 x 30
-4) béka lábemelés fekvésben -- flat frog raises -- 3 x 25
-5) nyújtott lábemelés fekvésben -- flat straight leg raises -- 2 x 20
-6) térdemelés függeszkedésben -- hanging knee raises -- 2 x 15
-7) hajlított lábemelés függeszkedésben -- hanging bent leg raises -- 2 x 15
-8) béka lábemelés függeszkedésben -- hanging frog raises -- 2 x 15
-9) fél nyújtott lábemelés -- partial straight leg raises -- 2 x 15
-10) nyújtott lábemelés függeszkedésben -- hanging straight leg raises -- 2 x 30
+Sokban hasonlítanak a felüléssel, hiszen nyilván ott kell meghajlanunk mindenképpen.
+A lábemelés azonban egy természetesebb komplex mozdulatra képzi ki az idegrendszert, közvetetten több izmot mozgat és nem kell hozzá felszerelés -- a progresszivitás miatt a felüléshez idővel kellene.
+    
+Általános tippek:
 
+- A légzés erősen hat a törzsizmok összehúzódására, ezért erre érdemes figyelni!
+Lélegezzünk ki az emelésnél, és be a leengedésnél
+- A mély törzsizmok tartják össze a beleidet (kb. mint egy fűző), ezért legyenek feszesek!
+Nehogy szó szerint sérvet kapjunk.
+Erre mellesleg érdemes csak úgy általánosságban, nap közben is figyelni.
+- Hagyjunk ki legalább 2 órát kaja után, hogy ne legyen tele a gyomrunk!
+- Az _egyenes_ lábemelésben nagyon fontos szerepet játszik a hátsó comb izom is -- szóval érdemes nyújtani, ha az akadályozza a helyes formát!
+- Egyértelműnek hangozhat, de azért ismételjük át: **nem** a has edzéstől lesz kockás a hasunk, hanem az alacsony testzsírszázaléktól!
+És csak hogy hátul is hallják: **nincs** olyan, hogy lokális zsírvesztés, és mi csak a hasunkról faragnánk le egy kicsit.
+Tehát mi csak csináljuk az erősítés szellemében a gyakorlatainkat, a definíciót pedig keressük inkább a konyhában!
+- Ide is vonatkozik a figyelmeztetés: nem "lengetni" kell a lábakat -- szép lassú, kontrollált mozdulatok legyenek!
+
+A fejlődési ütemterv pedig _végre_ nem a "féloldalasodásról" szól!
+Az első félben eljutunk a földön a teljes egyenes lábemelésig, amit aztán a második félben _lógva_ is megcsinálunk!
+
+1. Térdfelhúzás -- Knee tucks -- `3 x 40`
+2. Térdemelés fekvésben -- Flat knee raises -- `3 x 35`
+3. Hajlított lábemelés fekvésben -- Flat bent leg raises -- `3 x 30`
+4. Béka lábemelés fekvésben -- Flat frog raises -- `3 x 25`
+5. Nyújtott lábemelés fekvésben -- Flat straight leg raises -- `2 x 20`
+6. Térdemelés függeszkedésben -- Hanging knee raises -- `2 x 15`
+7. Hajlított lábemelés függeszkedésben -- Hanging bent leg raises -- `2 x 15`
+8. Béka lábemelés függeszkedésben -- Hanging frog raises -- `2 x 15`
+9. Fél nyújtott lábemelés -- Partial straight leg raises -- `2 x 15`
+10. Nyújtott lábemelés függeszkedésben -- Hanging straight leg raises -- `2 x 30`
+
+<br />
 
 
 
@@ -326,31 +337,35 @@ Fejlődés tekintetében ismerős lesz a napirend: az első félben a gyertyába
 
 ### 5. Híd
 
-- a gerinced védelme kb. a legfontosabb, amit a légzésen, evésen és alváson felül az egészségedért tehetsz
-    - minden ezen megy keresztül, és ha itt beüt valami, akkor hirtelen mély szarban leszel
-- a hátunkat a modern világban egyre kedvezőtlenebbül használjuk
-    - a két lábra egyenesedés eleve nem tett szívességet, de a laptop elé görnyedés még szomorúbb
-- a gerinced a tetejébe nem is kap tápellátást vérrel, csak mozgás által juthat oda bármi friss
-    - szóval ennél is furcsább, hogy nem mindenkinek ez az első edzési célpontja
-- a keleti kultúrák (szokás szerint) eleve nagyobb hangsúlyt fektetnek rá
-    - csak nyugaton nem "divat"
-- általános tippek:
-    - a gerinced konvex -- vagyis tényleg hátrahajlik, nem "csak" egyenes, míg a végtagjaiddal feltartod magad
-    - a csípőd van a legmagasabban
-    - a kezeid _és_ a lábaid is egyenesek
-    - egyenletesen és mélyeket tudsz lélegezni -- vagyis ki vagy annyira nyúlva, hogy nem kell kapkodni a levegőt
-- az első három "terápiás" lépés felkészíti a hátad, a második három eljuttat a teljes hídig, a végén pedig megtanulhatsz állásból (szó szerint) lemenni hídba -- és akár vissza fel is állni!
+A gerincünk védelme kb. a legfontosabb, amit a légzésen, az evésen és az alváson felül az egészségünkért tehetünk.
+Minden idegpályánk ezen a "fővezetéken" megy keresztül, úgyhogy ha _itt_ beüt valami, akkor hirtelen mély szarban leszünk!
 
-1) rövid híd -- short bridges -- 3 x 50
-2) egyenes híd -- straight bridges -- 3 x 40
-3) híd szögben -- angled bridges -- 3 x 30
-4) híd fejtámasszal -- head bridges -- 2 x 25
-5) fél híd -- half bridges -- 2 x 20
-6) teljes híd -- full bridges -- 2 x 15
-7) falséta (lefelé) -- wall walking bridges (down) -- 2 x 10
-8) falséta (felfelé) -- wall walking bridges (up) -- 2 x 8
-9) híd hátrafelé -- closing bridges -- 2 x 6
-10) hídállásból állásba -- stand-to-stand bridges -- 2 x 10-30
+A hátunkat a modern világban egyre kedvezőtlenebbül használjuk.
+A két lábra egyenesedés eleve nem tett szívességet, de a laptop elé görnyedés még szomorúbb.
+A gerincünk a tetejébe nem is kap tápellátást vérrel; csak mozgás által juthat oda bármi friss.
+Szóval ennél is furcsább, hogy nem mindenkinek ez az első edzési célpontja.
+A keleti kultúrák persze nagyobb hangsúlyt fektetnek rá, de nyugaton nem igazán "divat" -- mostanáig!
+
+Általános tippek:
+
+- A gerincünk konvex -- vagyis tényleg hátrahajlik, nem "csak" egyenes, amíg a végtagjainkkal feltartjuk magunkat!
+- A csípőnk legyen a legmagasabban!
+- A kezeink _és_ a lábaink is legyenek egyenesek!
+- Törekedjünk arra, hogy egyenletesen és mélyeket tudjunk lélegezni -- vagyis legyünk annyira "kinyúlva", hogy már nem kell kapkodnunk a levegőt!
+- Ha most ismerkedünk a híddal, érdemes először a guggolás és a lábemelés 6. lépéséig eljutni, és csak utána kezdeni ezt a sorozatot!
+
+Fejlődésileg az első három "terápiás" lépés felkészíti a hátunkat, a második három eljuttat a teljes hídig, a végén pedig megtanulhatunk állásból (szó szerint) lemenni hídba -- és akár vissza fel is állni!
+
+1. Rövid híd -- Short bridges -- `3 x 50`
+2. Egyenes híd -- Straight bridges -- `3 x 40`
+3. Híd szögben -- Angled bridges -- `3 x 30`
+4. Híd fejtámasszal -- Head bridges -- `2 x 25`
+5. Fél híd -- Half bridges -- `2 x 20`
+6. Teljes híd -- Full bridges -- `2 x 15`
+7. Falséta (lefelé) -- Wall walking bridges (down) -- `2 x 10`
+8. Falséta (felfelé) -- Wall walking bridges (up) -- `2 x 8`
+9. Híd hátrafelé -- Closing bridges -- `2 x 6`
+10. Hídállásból állásba -- Stand-to-stand bridges -- 2 x `10-30`
 
 
 
@@ -362,48 +377,56 @@ Fejlődés tekintetében ismerős lesz a napirend: az első félben a gyertyába
 
 ### 6. Kézenállásban karhajlítás
 
-- mondhatnám, hogy "kézelállásos fekvőtámasz", de az egy kicsit képzavar lenne
-- a vállak kb. a gerinchez hasonló, köztes szerepet játszanak minden kézmozdulatnál, szóval nélkülük nem nagyon menne semmi
-- viszont szinte minden modern edzésféle előbb vagy utóbb sérüléshez/fájdalomhoz vezet a rotátorköpenyben
-    - ami négy izom együttese a vállban, és a nevéből sejthetően a kar forgatásáért felel
-- és még a környező nagy izmok -- amik az előre/hátra, és fel-le mozgásokért felelnek -- jól bírják a terhelést, a rotátorköpeny nem annyira
-- sokan elfogadják, hogy a nagy vállak mellé a fájdalom kötelezően jár, de nem
-    - és még csak nem is a nagy súlyok miatt van, hanem a természetellenes gyakorlatok miatt
-    - fennakadt a lemez, de megint csak: ha olyat csináltatsz a testeddel, amire "tervezték", akkor nem lesz baj
-    - ha pedig olyat, amire nem való, akkor idővel baj lesz. ennyi.
-- a legnagyobb vétkesek a fekve nyomás és a fej fölé nyomás
-    - a kifelé álló könyökök és a teljes mozgástér egyszerűen természetellenesek
-    - ha emelsz valamit a fejed fölé, a könyököd inkább előre néz, nem?
-    - és valami ellökését sem teljesen a melledtől indítod, nem?
-    - pedig gyúrásnál ezek a "tökéletes forma", és a vállad is ez teszi tönkre
-- itt léphet színpadra a kézenállásos karhajlítás
-    - gyakorlatilag a fej fölé nyomás, csak fordítva
-    - viszont itt nem állnak szét a könyökeid
-    - és olyan mélyre sem mehetsz, mert útban lesz a fejed
-    - nem mellesleg a fordított helyzet jót tesz az egyensúlyodnak, és erősíti a keringési és emésztési rendszeredet is
-- általános tippek:
-    - lehet fal mellett vagy szabadon állva is -- de mivel itt az erő a hangsúlyosabb, ezért fal mellett vannak a lépések
-        - ha az egyensúly része neked fontosabb, akkor az első pár lépés után nyugodtan megtanulható az is
-    - a biztonság az első -- az elején egyáltalán azt megszokni, hogy fejjel lefelé vagy
-    - kb. vállszélességben a kezeket
-    - a könyököt -- ahogy beszéltük is -- hagyni, hadd álljon úgy, ahogy akar
-        - hidd el, magától nem fog akarni teljesen szétállni, mert pont abból lenne a baj
-    - egy kis görbület normális és helyes -- ne íveld szükségtelenül sokat a hátad, de ne is próbáld teljesen kiegyenesíteni
-    - nem háttal "csapódunk" a falnak, csak a sarkunk érinti, és az is csak nagyon gyengéden
-    - ha "akad" a sarkad, viselj zoknit, csináld sima felületnél, vagy akár ragaszd le, hogy könnyebben csússzon a lábad
-    - érdemes először a sima fekvőtámasz 6. lépéséig eljutni, és csak utána kezdeni ezt a sorozatot
-- az első félben a fejjel lefelé megszokástól eljutunk a rendes fő gyakorlatig, és aztán a második szakaszban súlyokat teszünk a lábunkra, hogy egyre nehezebb legyen... **neeem!** csak tesztelem, hogy figyeltek-e még, természetesen utána egykezesítjük
+Mondhatnám itt -- és a hivatalos magyar fordítás azt hiszem mondja is -- hogy "kézelállásos fekvőtámasz", de az egy kicsit képzavar lenne.
+Most akkor _fekvő_ támaszban vagyunk, vagy kézenállásban?
+Mindegy, értitek, miről van szó!
 
-1) fejenállás fal mellett -- wall headstands -- 2 perc
-2) varjútartás -- crow stands -- 1 perc
-3) kézenállás fal mellett -- wall handstands -- 2 perc
-4) fél fekvőtámasz kézenállásban -- half handstand pushups -- 2 x 20
-5) fekvőtámasz kézenállásban -- handstand pushups -- 2 x 15
-6) fekvőtámasz kézenállásban, szűk kéztartással -- close handstand pushups -- 2 x 12
-7) felemás fekvőtámasz kézenállásban, labdával -- uneven handstand pushups -- 2 x 10
-8) fél egykezes fekvőtámasz kézenállásban -- half one-arm handstand pushups -- 2 x 8
-9) erőkaros fekvőtámasz kézenállásban -- lever handstand pushups -- 2 x 6
-10) egykezes fekvőtámasz kézenállásban -- one-arm handstand pushups -- 2 x 5
+Az utolsó gyakorlattal a vállakat célozzuk meg, amik kb. a gerinchez hasonló, közvetítői szerepet játszanak minden kézmozdulatnál -- szóval nélkülük nem nagyon menne semmi.
+Viszont szinte minden modern edzésféle előbb vagy utóbb sérüléshez vagy fájdalomhoz vezet a rotátorköpenyben.
+Ezzel a fura névvel négy izom együttesét hívjuk a vállban, amik a nevükből sejthetően a kar forgatásáért felelnek.
+És míg a környező nagy izmok -- amik az előre/hátra, és fel-le mozgásokért felelnek -- jól bírják a terhelést, a rotátorköpeny nem annyira.
+
+Erre sokaknak annyi a "megoldása", hogy egyszerűen elfogadják: a nagy vállak mellé a fájdalom kötelezően jár.
+Pedig nem.
+És még csak nem is a nagy súlyok miatt járunk így, hanem a természetellenes gyakorlatok miatt!
+Ha olyat csináltatnánk a testünkkel, amire "tervezték", akkor nem lenne baj.
+
+A két legnagyobb vétkes a fekve nyomás és a fej fölé nyomás.
+A kifelé álló könyökök és a _teljes_ mozgástér egyszerűen természetellenesek.
+Ha a fejünk fölé emelünk valamit, a könyökünk inkább előre (vagy legalábbis "srégen") áll, nem?
+És valami ellökését sem teljesen a mellünktől vagy a vállunktól indítjuk, nem?
+Pedig gyúrásnál ezek jelentik a "tökéletes formát", és a vállainkat is ez teszi tönkre.
+
+Itt léphet színpadra a kézenállásos karhajlítás, ami gyakorlatilag a fej fölé nyomás, csak saját testsúllyal és fordítva.
+Viszont itt nem állnak szét a könyökeink, és olyan mélyre sem mehetünk -- a fejünk előbb-utóbb útban lesz!
+Nem mellesleg a fordított helyzet jót tesz az egyensúlyunknak, illetve erősíti a keringési és emésztési rendszereinket is.
+
+Általános tippek:
+
+- Lehet fal mellett vagy szabadon állva is -- de mivel itt az erő a hangsúlyosabb, ezért első körben fal mellett ajánlott.
+De ha nekünk az egyensúly része a fontosabb, akkor az első pár lépés után nyugodtan megtanulható az is.
+- A biztonság az legfontosabb, ezért az elején csak szépen lassan próbáljuk egyáltalán azt megszokni, hogy fejjel lefelé vagyunk!
+- Kb. vállszélességbe a kezeket!
+- A könyököt -- ahogy beszéltük is -- hagyni kell, hadd álljon úgy, ahogy akar!
+Higgyük el, magától nem fog akarni teljesen szétállni, mert pont abból lenne a baj.
+- Egy kis görbület normális és helyes -- persze azért ne íveljük szükségtelenül erősen a hátunkat, de ne is próbáljuk teljesen kiegyenesíteni!
+- Kézenállásba lendüléskor nem háttal "csapódunk" a falnak, csak a sarkunk érinti -- és az is csak nagyon gyengéden!
+- Ha esetleg "akad" a sarkunk, viseljünk zoknit, csináljuk sima falfelületnél, vagy akár ragasszuk le, hogy a lábunk könnyebben csúszhasson!
+- Érdemes először a sima fekvőtámasz 6. lépéséig eljutni, és csak utána kezdeni ezt a sorozatot!
+
+Fejlődés téren az első félben a fejjel lefelé fordulás megszokásától eljutunk a rendes fő gyakorlatig, és aztán a második szakaszban súlyokat teszünk a lábunkra, hogy... **Neeem!**
+Csak tesztelem, hogy figyeltek-e még; természetesen utána itt is féloldalasítunk és egykezesítjük.
+
+1. Fejenállás fal mellett -- Wall headstands -- `2 perc`
+2. Varjútartás -- Crow stands -- `1 perc`
+3. Kézenállás fal mellett -- Wall handstands -- `2 perc`
+4. Fél fekvőtámasz kézenállásban -- Half handstand pushups -- `2 x 20`
+5. Fekvőtámasz kézenállásban -- Handstand pushups -- `2 x 15`
+6. Fekvőtámasz kézenállásban, szűk kéztartással -- Close handstand pushups -- `2 x 12`
+7. Felemás fekvőtámasz kézenállásban, labdával -- Uneven handstand pushups -- `2 x 10`
+8. Fél egykezes fekvőtámasz kézenállásban -- Half one-arm handstand pushups -- `2 x 8`
+9. Erőkaros fekvőtámasz kézenállásban -- Lever handstand pushups -- `2 x 6`
+10. Egykezes fekvőtámasz kézenállásban -- One-arm handstand pushups -- `2 x 5`
 
 
 
@@ -430,6 +453,10 @@ Fejlődés tekintetében ismerős lesz a napirend: az első félben a gyertyába
     - mondjuk helyes légzéstechnikát, stabilitást, pozitív és negatív sebességet, stabilan tartott törzset, stb.
 - használd hát ki a teljes folyamatot, "fejd meg", amennyire csak lehet
     - a konzisztenciával sokkal messzebbre fogsz érni... ugye megint a nyúl és a teknős
+    - tedd bele az időt, ez nem fog gyorsan menni
+    - a feljebb lépés csak azt mutatja, hogy már fejlődtél
+    - de az a fejlődés attól jön, hogy az alacsonyabb szintű gyakorlatokat unalomig csináltak
+    - úgyhogy ne kapkodj, csak csináld őket
 - mindig hagyj egy kis energiát a tankban, hogy kontrollálni tudd a mozdulataidat -- első sorban a biztonság kedvéért
 - itt nem kell tudatosan időszakosan visszavenni, nem merül ki a szervezeted mint a testépítőknek
     - de csak akkor, ha ésszel csinálod, lassan és fokozatosan, nem betegen, nem sérülten
