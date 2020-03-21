@@ -31,8 +31,7 @@ Ne hagyjuk, hogy ezek elvonják a figyelmünket az igazi tartalomról; akár egy
 
 Az "igazi tartalom" márpedig örökzöld.
 Letisztult, fokozatos, eszközök nélkül végezhető, minimalista edzési elvek és gyakorlat sorok, amikkel minden porcikánkat átmozgathatjuk.
-Lehet, hogy részben a minimalizmus iránti hajlamom teszi az itteni mondanivalót is még szimpatikusabbá, de akkor is egyet kell értenem az alapfelvetéssel.
-Ha még saját magunkat sem tudjuk rendesen mozgatni, akkor miért kellenek a súlyzók?
+Lehet, hogy részben a minimalizmus iránti hajlamom teszi az itteni mondanivalót is még szimpatikusabbá, de akkor is egyet kell értenem az alapfelvetéssel: ha még saját magunkat sem tudjuk rendesen mozgatni, akkor miért kellenének súlyzók?
 
 Fő fogásunk a "Nagy Hatos", vagyis a 6 központi gyakorlat, amik mindent **is** megmozgatnak.
 Ennél többre nincs szükség, kevesebbel pedig maradnának rések a rendszerben.
@@ -54,7 +53,7 @@ A végső tartalomjegyzék tehát a következő:
     4. [Lábemelés](#4-lábemelés)
     5. [Híd](#5-híd)
     6. [Kézenállásban karhajlítás](#6-kézenállásban-karhajlítás)
-- [A tested bölcsessége](#a-testünk-bölcsessége)
+- [A testünk bölcsessége](#a-testünk-bölcsessége)
 - [Edzéstervek](#edzéstervek)
 
 <br />
@@ -102,7 +101,7 @@ Az izmok nem lesznek útban, mert eleve úgy fejlődnek, ahogy az természetes l
 3. Megfelelő technika mellett ez adhatja a legnagyobb használható erőt is, mert izom izoláció helyett komplex mozdulatokat végzünk!
 A calisthenic úgy használja a testet, ahogy azt a "tervrajz szerint kellene".
 Ezáltal jobban fejleszti a neurális kapcsolatainkat is, ami még jobban számít, mint az izom mérete.
-Sőt, az izoláció konkrétan rossz is lehet, ha leneveli az izmaidat a helyes együttműködésről.
+Sőt, az izoláció konkrétan rossz is lehet, ha leneveli az izmainkat a helyes együttműködésről.
 
 4. Az izmok mellett erősíti az inakat és az ízületeket is!
 Markolási erő, sebesség, egyensúly, koordináció...
@@ -154,6 +153,9 @@ Rendszerint koncentráljunk az alapokra!
 
 ### 1. Fekvőtámaszban karhajlítás
 
+Nagyon hivatalos vagyok, de na...
+A köznyelvi "fekvőtámasz" az csak a kiindulási állapot, onnan még meg kell hajlítani a karunkat!
+Mindegy, nem leszek kocka!
 Elsődleges célpontjaink a mellizom és tricepszek -- de mellette persze egy csomó minden más is, amik közben tartanak.
 És mivel úgyis egy "nyomás-centrikus" kultúrában élünk, ennél több reklám szerintem nem is kell.
 Nézzünk pár általános tippet:
@@ -164,7 +166,7 @@ Később az ujjakat is lehet ugyan fekvőtámaszokkal erősíteni, de azt is csa
 - Lábak szorosan egymás mellett, hogy a stabilizálást a törzsünk végezze!
 - A karok legyenek egyenesek a gyakorlat tetején, de nincs "kiakasztva" a könyök!
 - Tempóban néha jó a gyors is, de általánosságban csak szép lassan és kontrolláltan!
-2 számolás le, 1-ig tart, még 2 fel.
+2 számolás le; 1-ig tart; még 2 fel.
 
 Fejlődés szempontjából az első félidőben "lejutunk a padlóra" falhoz dőléstől a "rendes" fekvőtámaszig.
 Aztán a második felében _féloldalasítunk_, és fokozatosan elhagyjuk az egyik kezünket.
@@ -207,7 +209,7 @@ Emellett az egy lábas guggolás megint jobban teljesít a természetes, egyenle
 
 Általános tippek:
 
-- Különböző mélységek különböző izmokra fókuszálnak, de a teljes mélység mindent megdolgoztat, ezért az legyen a cél!
+- Különböző mélységekkel különböző izmokra fókuszálhatunk, de a teljes mélység mindent megdolgoztat, ezért az legyen a cél!
 Vagyis amikor a combunk hátulja már a vádlidhoz ér.
 - A teljesen lenti pozíció -- a közhiedelemmel ellentétben -- _nem_ rossz a térdednek, ha szép fokozatosan szoktatjuk; dettó a fenti pozícióban teljesen kinyújtásra.
 - A lemenetet is ugyanannyira kell irányítani, mint a felállást!
@@ -244,13 +246,13 @@ Fejlődés tekintetében ismerős lesz a napirend: az első félben a gyertyába
 
 A hátunkat nehezen látni a tükörben, de ettől még nem illene hanyagolni.
 Ha pedig hátgyakorlat, akkor a húzódzkodásnál nem találunk jobbat.
-Még az evolúció is ebbe az irányba terelget -- és emiatt kb. a legbiztonságosabb lehetőségünk is -- úgyhogy ne ellenálljunk.
+Még az evolúció is ebbe az irányba terelget -- és emiatt kb. a legbiztonságosabb lehetőségünk is -- úgyhogy ne ellenálljunk!
 Bónuszként a húzódzkodás a hátunk mellett a markolásunkat is igencsak megerősíti, ami a tenyerünkön és az alkarunkon is érződni fog.
 Illetve ha ez segít a hiúságunknak, akkor gondoljunk arra, hogy a bicepszünk is durván megkapja a magáét!
 
 A hátunk dedikált edzése a kulturális "nyomás-mánia" mellé különösen jót fog tenni.
 Kiegyenlíti az első és hátsó erőnlét közti eltéréseket, ezért nehezebben fogunk lesérülni.
-A felpakolt zsírtartalékok itt viszont kamatostól érződni fognak, úgyhogy készüljünk fel!
+A felpakolt zsírtartalékok itt viszont kamatostól érződnek, úgyhogy készüljünk fel!
 Csináljuk, ahogy tudjuk, és mellette helyes étkezéssel tegyük rendbe a felesleget!
 
 Általános tippek:
@@ -302,15 +304,15 @@ A lábemelés azonban egy természetesebb komplex mozdulatra képzi ki az idegre
 Általános tippek:
 
 - A légzés erősen hat a törzsizmok összehúzódására, ezért erre érdemes figyelni!
-Lélegezzünk ki az emelésnél, és be a leengedésnél
-- A mély törzsizmok tartják össze a beleidet (kb. mint egy fűző), ezért legyenek feszesek!
+Lélegezzünk ki az emelésnél, és be a leengedésnél!
+- A mély törzsizmok tartják össze a beleinket (kb. mint egy fűző), ezért legyenek feszesek!
 Nehogy szó szerint sérvet kapjunk.
 Erre mellesleg érdemes csak úgy általánosságban, nap közben is figyelni.
 - Hagyjunk ki legalább 2 órát kaja után, hogy ne legyen tele a gyomrunk!
 - Az _egyenes_ lábemelésben nagyon fontos szerepet játszik a hátsó comb izom is -- szóval érdemes nyújtani, ha az akadályozza a helyes formát!
-- Egyértelműnek hangozhat, de azért ismételjük át: **nem** a has edzéstől lesz kockás a hasunk, hanem az alacsony testzsírszázaléktól!
+- Egyértelműnek hangozhat, de azért ismételjük át: **nem** a has edzéstől tűnik kockás a hasunk, hanem az alacsony testzsírszázaléktól!
 És csak hogy hátul is hallják: **nincs** olyan, hogy lokális zsírvesztés, és mi csak a hasunkról faragnánk le egy kicsit.
-Tehát mi csak csináljuk az erősítés szellemében a gyakorlatainkat, a definíciót pedig keressük inkább a konyhában!
+Úgyhogy csináljuk az erősítés szellemében a gyakorlatainkat, a szálkás definíciót pedig keressük inkább a konyhában!
 - Ide is vonatkozik a figyelmeztetés: nem "lengetni" kell a lábakat -- szép lassú, kontrollált mozdulatok legyenek!
 
 A fejlődési ütemterv pedig _végre_ nem a "féloldalasodásról" szól!
@@ -367,7 +369,7 @@ Fejlődésileg az első három "terápiás" lépés felkészíti a hátunkat, a 
 7. Falséta (lefelé) -- Wall walking bridges (down) -- `2 x 10`
 8. Falséta (felfelé) -- Wall walking bridges (up) -- `2 x 8`
 9. Híd hátrafelé -- Closing bridges -- `2 x 6`
-10. Hídállásból állásba -- Stand-to-stand bridges -- 2 x `10-30`
+10. Hídállásból állásba -- Stand-to-stand bridges -- `2 x 10-30`
 
 <br />
 
@@ -382,14 +384,15 @@ Fejlődésileg az első három "terápiás" lépés felkészíti a hátunkat, a 
 
 ### 6. Kézenállásban karhajlítás
 
-Mondhatnám itt -- és a hivatalos magyar fordítás mondja is -- hogy "kézelállásos fekvőtámasz", de az egy kicsit képzavar lenne.
+Mondhatnám itt -- és a hivatalos magyar fordítás mondja is -- hogy "kézenállásos fekvőtámasz", de az egy kicsit képzavar lenne.
 Most akkor _fekvő_ támaszban vagyunk, vagy kézenállásban?
-Mindegy, értitek, miről van szó!
+Mindegy, megint kockulok...
+Értitek, miről van szó!
 
 Az utolsó gyakorlattal a vállakat célozzuk meg, amik kb. a gerinchez hasonló, közvetítői szerepet játszanak minden kézmozdulatnál -- szóval nélkülük nem nagyon menne semmi.
 Viszont szinte minden modern edzésféle előbb vagy utóbb sérüléshez vagy fájdalomhoz vezet a rotátorköpenyben.
 Ezzel a fura névvel négy izom együttesét hívjuk a vállban, amik a nevükből sejthetően a kar forgatásáért felelnek.
-És míg a környező nagy izmok -- amik az előre/hátra, és fel-le mozgásokért felelnek -- jól bírják a terhelést, a rotátorköpeny nem annyira.
+És míg a környező nagy izmok -- amik az előre-hátra, és fel-le mozgásokért felelnek -- jól bírják a terhelést, a rotátorköpeny nem annyira.
 
 Erre sokaknak annyi a "megoldása", hogy egyszerűen elfogadják: a nagy vállak mellé a fájdalom kötelezően jár.
 Pedig nem.
@@ -400,7 +403,7 @@ A két legnagyobb vétkes a fekve nyomás és a fej fölé nyomás.
 A kifelé álló könyökök és a _teljes_ mozgástér egyszerűen természetellenesek.
 Ha a fejünk fölé emelünk valamit, a könyökünk inkább előre (vagy legalábbis "srégen") áll, nem?
 És valami ellökését sem teljesen a mellünktől vagy a vállunktól indítjuk, nem?
-Pedig gyúrásnál ezek jelentik a "tökéletes formát", és a vállainkat is ez teszi tönkre.
+Pedig gyúrásnál ezek jelentik a "tökéletes formát", és a vállainkat is ezek teszik tönkre.
 
 Itt léphet színpadra a kézenállásos karhajlítás, ami gyakorlatilag a fej fölé nyomás, csak saját testsúllyal és fordítva.
 Viszont itt nem állnak szét a könyökeink, és olyan mélyre sem mehetünk -- a fejünk előbb-utóbb útban lesz!
@@ -409,7 +412,7 @@ Nem mellesleg a fordított helyzet jót tesz az egyensúlyunknak, illetve erős�
 Általános tippek:
 
 - Lehet fal mellett vagy szabadon állva is -- de mivel itt az erő a hangsúlyosabb, ezért első körben fal mellett ajánlott.
-De ha nekünk az egyensúly része a fontosabb, akkor az első pár lépés után nyugodtan megtanulható az is.
+Ha nekünk az egyensúly része a fontosabb, akkor az első pár lépés után nyugodtan megtanulható az is.
 - A biztonság az legfontosabb, ezért az elején csak szépen lassan próbáljuk egyáltalán azt megszokni, hogy fejjel lefelé vagyunk!
 - Kb. vállszélességbe a kezeket!
 - A könyököt -- ahogy beszéltük is -- hagyni kell, hadd álljon úgy, ahogy akar!
@@ -452,7 +455,7 @@ Csak tesztelem, hogy figyeltek-e még; természetesen utána itt is féloldalas�
 
 A tökéletes gyakorlatok mellé persze kell egy jó rutin -- amire a következő szekcióban fogunk rátérni -- de még azon felül is megvan, ami pótolhatatlan.
 Ilyenek például, hogy hogyan melegítsünk be, milyen tempóban haladjunk, mennyire hajtsuk magunkat keményen...
-Ez az a rész, amik inkább művészet, mint tudomány.
+Ez az a rész, ami inkább művészet, mint tudomány.
 A tetejébe teljesen egyénfüggő!
 Nem mondhatja meg nekünk senki, hogy pontosan hogy csináljuk -- még ha ő magának már szuperül ki is szuszakolta.
 Úgyhogy a legtöbb, amit egy könyv tehet értünk, az annyi, hogy irányba állít, és onnan indulhat a saját tapasztalás.
@@ -559,7 +562,15 @@ Ha viszont edzünk, akkor edzzünk egyedül -- a koncentrációhoz nem kell a sz
 
 ## Összefoglalás
 
-- természetes mozdulatok, funkcionális erő
-- minimalizmus (és főleg a kifogás eltűnése)
-- megfejés!
-- rendszer
+És meg is vagyunk.
+Ez igazából minden, amire egy erős, arányos, ellenálló fizikum eléréséhez valaha szükségünk lehet.
+Minden egyéb opcionális.
+Arról lehet vitatkozni, hogy egy konditerem konkrétan rossz hatással lenne-e ezek helyett (vagy mellett), de szükségesnek _nem_ szükséges.
+
+Ez pedig a minimalizmuson és a függetlenségen felül azért is jó, mert eltüntet egy csomó potenciális kifogást.
+Nem kell kimenni otthonról, nincs drága bérlet, nem kellenek speciális ruhák vagy felszerelések...
+Elég, ha van otthon padló, fal, és valami, amiről lóghatunk!
+
+A szocializálódás, a fitogtatás és a megfelelési kényszer háttérbe szorulásával egyre jobban a funkcionális erőre összpontosíthatunk; amire ezek a természetes, komplex mozdulatok jobb hatással is lesznek.
+És mivel nem lesz kivel versenyezni, magunkra figyelhetünk.
+Nem kapkodunk, "megfejjük" a gyakorlatainkat, fegyelmezett rendszert követünk a hétköznapokban... Mire észbe kapunk, könnyen életünk legjobb formájában találhatjuk magunkat.
