@@ -4,7 +4,9 @@ title: Paul Wade - Fegyencedzés
 pages: 320
 date: 2020-04-03 15:00
 excerpt: >
-    TODO
+    A blog kezdete óta már sokat olvashattunk a saját fejünkön belüli rendrakásról, illetve itt-ott az emberi kapcsolatok és az anyagi minimalizmus is előkerültek.
+    Ami viszont gyanúsan hiányzik, az a saját testünk karbantartása!
+    Ezért erre a hétre a Fegyencedzést választottam, ami nagyon börtönös, keménykedős stílusban ugyan, de nagyon alapvető és értékes test-karbantartási információkat tartalmaz.
 ---
 
 A blog kezdete óta már sokat olvashattunk a saját fejünkön belüli rendrakásról, és itt-ott az emberi kapcsolatok is előkerültek.
@@ -16,7 +18,7 @@ Kezdésnek [Paul Wade -- Fegyencedzés](https://www.goodreads.com/book/show/7305
 Az első kérésem pedig rögtön az lenne mindenkitől, hogy próbáljunk a külsőségek mögé nézni.
 Paul "Coach" Wade eleve sokak szerint fiktív személy, vagy jó esetben is csak egy írói álnév, ezért a személyes sztorik hitelessége alapból nem kap piros pontot.
 És emellett ott a cím, az alcím ("Hogyan törj ki a gyengeségből -- Használd a túléléshez szükséges félelmetes erő elveszett titkait"), a börtönszleng, a mű-keménykedő előadási stílus...
-Szóval na, értem én, miből gondolhatnánk, hogy ez nem annyira passzol Marcus Aurelius és Viktor Frankl mellé.
+Szóval na, értem én, miből gondolhatnánk, hogy ez nem annyira passzol [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) és [Viktor Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) mellé.
 De higgyük el, ha képesek vagyunk a prezentáció helyett inkább a tartalomra fókuszálni, akkor nem fogunk csalódni!
 
 A szerző (állítólag) cingáran került be a börtönbe, és minden felszerelés híján kénytelen volt egymagában megkeményedni.
@@ -52,7 +54,7 @@ A végső tartalomjegyzék tehát a következő:
     4. [Lábemelés](#4-lábemelés)
     5. [Híd](#5-híd)
     6. [Kézenállásban karhajlítás](#6-kézenállásban-karhajlítás)
-- [A tested bölcsessége](#a-tested-bölcsessége)
+- [A tested bölcsessége](#a-testünk-bölcsessége)
 - [Edzéstervek](#edzéstervek)
 
 <br />
@@ -367,6 +369,9 @@ Fejlődésileg az első három "terápiás" lépés felkészíti a hátunkat, a 
 9. Híd hátrafelé -- Closing bridges -- `2 x 6`
 10. Hídállásból állásba -- Stand-to-stand bridges -- 2 x `10-30`
 
+<br />
+
+
 
 
 
@@ -377,7 +382,7 @@ Fejlődésileg az első három "terápiás" lépés felkészíti a hátunkat, a 
 
 ### 6. Kézenállásban karhajlítás
 
-Mondhatnám itt -- és a hivatalos magyar fordítás azt hiszem mondja is -- hogy "kézelállásos fekvőtámasz", de az egy kicsit képzavar lenne.
+Mondhatnám itt -- és a hivatalos magyar fordítás mondja is -- hogy "kézelállásos fekvőtámasz", de az egy kicsit képzavar lenne.
 Most akkor _fekvő_ támaszban vagyunk, vagy kézenállásban?
 Mindegy, értitek, miről van szó!
 
@@ -416,17 +421,20 @@ Higgyük el, magától nem fog akarni teljesen szétállni, mert pont abból len
 
 Fejlődés téren az első félben a fejjel lefelé fordulás megszokásától eljutunk a rendes fő gyakorlatig, és aztán a második szakaszban súlyokat teszünk a lábunkra, hogy... **Neeem!**
 Csak tesztelem, hogy figyeltek-e még; természetesen utána itt is féloldalasítunk és egykezesítjük.
+(Ft. = fekvőtámasz, csak hogy ne legyen olyan sok sortörés.)
 
 1. Fejenállás fal mellett -- Wall headstands -- `2 perc`
 2. Varjútartás -- Crow stands -- `1 perc`
 3. Kézenállás fal mellett -- Wall handstands -- `2 perc`
-4. Fél fekvőtámasz kézenállásban -- Half handstand pushups -- `2 x 20`
-5. Fekvőtámasz kézenállásban -- Handstand pushups -- `2 x 15`
-6. Fekvőtámasz kézenállásban, szűk kéztartással -- Close handstand pushups -- `2 x 12`
-7. Felemás fekvőtámasz kézenállásban, labdával -- Uneven handstand pushups -- `2 x 10`
-8. Fél egykezes fekvőtámasz kézenállásban -- Half one-arm handstand pushups -- `2 x 8`
-9. Erőkaros fekvőtámasz kézenállásban -- Lever handstand pushups -- `2 x 6`
-10. Egykezes fekvőtámasz kézenállásban -- One-arm handstand pushups -- `2 x 5`
+4. Fél ft. kézenállásban -- Half handstand pushups -- `2 x 20`
+5. Ft. kézenállásban -- Handstand pushups -- `2 x 15`
+6. Ft. kézenállásban, szűk kéztartással -- Close handstand pushups -- `2 x 12`
+7. Felemás ft. kézenállásban, labdával -- Uneven handstand pushups -- `2 x 10`
+8. Fél egykezes ft. kézenállásban -- Half one-arm handstand pushups -- `2 x 8`
+9. Erőkaros ft. kézenállásban -- Lever handstand pushups -- `2 x 6`
+10. Egykezes ft. kézenállásban -- One-arm handstand pushups -- `2 x 5`
+
+<br />
 
 
 
@@ -437,48 +445,57 @@ Csak tesztelem, hogy figyeltek-e még; természetesen utána itt is féloldalas�
 
 
 
-## A tested bölcsessége
-
-- a tökéletes gyakorlatok mellé is kell egy jó rutin
-    - de még azon felül is megvan, ami pótolhatatlan
-    - hogy melegítsünk be, milyen tempóban haladjunk, mennyire nyomjuk magunkat keményen
-- ezek azok a részek, amik inkább művészet, mint tudomány
-    - és ez egyénfüggő
-    - nem mondhatja meg neked senki, még ha ő magának már szuperül ki is szuszakolta
-- úgyhogy a legtöbb, amit egy könyv tehet értünk, hogy irányba állít, és onnan indulhat a saját tapasztalás
-- a bemelegítést nem kell túlgondolni, elég relatíve röviden tartani
-    - azt a gyakorlatot csináld, amit edzeni is szeretnél, csak az egyszerűbb verzióit, és magasabb ismétlésszámmal
-- tempó -- ne hagyd ki a kezdetibb lépéseket
-    - egyrészt hova sietsz, másrészt csak azért, mert azok könnyűnek tűnnek, még nem jelenti, hogy nem tanulhatsz közben
-    - mondjuk helyes légzéstechnikát, stabilitást, pozitív és negatív sebességet, stabilan tartott törzset, stb.
-- használd hát ki a teljes folyamatot, "fejd meg", amennyire csak lehet
-    - a konzisztenciával sokkal messzebbre fogsz érni... ugye megint a nyúl és a teknős
-    - tedd bele az időt, ez nem fog gyorsan menni
-    - a feljebb lépés csak azt mutatja, hogy már fejlődtél
-    - de az a fejlődés attól jön, hogy az alacsonyabb szintű gyakorlatokat unalomig csináltak
-    - úgyhogy ne kapkodj, csak csináld őket
-- mindig hagyj egy kis energiát a tankban, hogy kontrollálni tudd a mozdulataidat -- első sorban a biztonság kedvéért
-- itt nem kell tudatosan időszakosan visszavenni, nem merül ki a szervezeted mint a testépítőknek
-    - de csak akkor, ha ésszel csinálod, lassan és fokozatosan, nem betegen, nem sérülten
-- ha nem tudsz egyik lépésről a másikra haladni:
-    - dobd le a zsírt -- az _arányos_ erő egyre fontosabb lesz
-    - pihenj többet
-    - legyél türelmesebb -- és fejd még az előző lépést
-        - A tested a saját ütemében alkalmazkodik -- nem feltétlen a Tiédben.
-    - élj "tisztán" -- semmi drog vagy pia, elég alvás, megfelelő kaja, stb.
-- ne csinálj túl sok munka szettet -- ez inkább az intenzitásról kellene, hogy szóljon, nem a mennyiségről
-- pihenj szettek között, amennyit kell
-    - nyilván ha kevesebb, akkor keményebb lesz
-    - de az fontosabb, hogy rendesen tudd megcsinálni a szetted!
-- a GTD-t megszégyenítő lelkesedéssel mondják itt is: írjuk le a dolgokat!
-    - ahhoz, hogy fokozatosan haladhassunk, tudni kellene, hogy eddig mit és mennyit csináltunk
 
 
 
+## A testünk bölcsessége
+
+A tökéletes gyakorlatok mellé persze kell egy jó rutin -- amire a következő szekcióban fogunk rátérni -- de még azon felül is megvan, ami pótolhatatlan.
+Ilyenek például, hogy hogyan melegítsünk be, milyen tempóban haladjunk, mennyire hajtsuk magunkat keményen...
+Ez az a rész, amik inkább művészet, mint tudomány.
+A tetejébe teljesen egyénfüggő!
+Nem mondhatja meg nekünk senki, hogy pontosan hogy csináljuk -- még ha ő magának már szuperül ki is szuszakolta.
+Úgyhogy a legtöbb, amit egy könyv tehet értünk, az annyi, hogy irányba állít, és onnan indulhat a saját tapasztalás.
+
+A bemelegítést nem kell túlgondolni, elég relatíve röviden tartani.
+Érdemes azt a gyakorlatot csinálni, amit edzeni is szeretnénk, csak az egyszerűbb verzióit, és magasabb ismétlésszámmal.
+Tempó szempontjából pedig az a leglényegesebb, hogy ne hagyjuk ki a kezdetibb lépéseket!
+Egyrészt hova sietünk?!
+Másrészt csak azért, mert azok könnyűnek tűnnek, még nem jelenti, hogy nem tanulhatunk közben.
+Mondjuk helyes légzéstechnikát, stabilitást, pozitív és negatív sebességet, stabilan tartott törzset, stb.
+
+Használjuk hát ki a teljes folyamatot, és "fejjük meg", amennyire csak lehet!
+A konzisztenciával sokkal messzebbre fogunk érni, mint a kapkodással.
+Ugye megint a nyúl és a teknős...
+Tegyük bele az időt, mert ez úgysem fog gyorsan menni!
+A feljebb lépés csak azt mutatja, hogy már fejlődtünk -- de az a fejlődés attól jön, hogy az alacsonyabb szintű gyakorlatokat unalomig csináltuk.
+Úgyhogy ne rohanjunk, csak csináljuk!
+
+Szintén jó, ha mindig hagyunk egy kis energiát a tankban.
+Első sorban hogy kontrollálni tudjuk a mozdulatainkat, és biztonságosan végezhessük a gyakorlatokat.
+Nem kell viszont tudatosan időszakosan visszavenni, nem merül ki a szervezetünk mint a testépítőknek.
+De csak akkor, ha ésszel csináljuk, lassan és fokozatosan, nem betegen, nem sérülten!
+
+Ne csináljunk túl sok munka szettet -- ez az egész inkább az intenzitásról kellene, hogy szóljon, nem a mennyiségről!
+Pihenjünk szettek között, amennyit kell.
+Mondjuk nyilván ha ez a pihenő kevesebb, akkor keményebb lesz az edzés.
+De az fontosabb, hogy rendesen tudjuk megcsinálni a szettet!
+Illetve a [GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %})-t megszégyenítő lelkesedéssel mondják itt is: írjuk le a dolgokat!
+Ahhoz, hogy fokozatosan haladhassunk, tudni kellene, hogy eddig mit és mennyit csináltunk.
+
+Ha nem tudunk egyik lépésről a másikra haladni, akkor toporzékolás helyett csak koncentráljunk az alábbi pontokra:
+
+- Dobjuk le a zsírt -- az _arányos_ erő egyre fontosabb lesz!
+- Pihenjünk többet!
+- Legyünk türelmesebbek -- és "fejjük" még az előző lépést!
+- Éljünk "tisztán" -- semmi drog vagy pia, elég alvás, megfelelő kaja!
+- És persze nem utolsó sorban: hallgassunk a testünk bölcsességére!
 
 
+> A tested a saját ütemében alkalmazkodik -- nem feltétlen a Tiédben!
+> > The body will adapt [...] at its own pace -- not necessarily yours!
 
-
+<br />
 
 
 
@@ -487,33 +504,52 @@ Csak tesztelem, hogy figyeltek-e még; természetesen utána itt is féloldalas�
 
 ## Edzéstervek
 
-- már csak ez hiányzik, hogy teljes legyen a kép
-- csak úgy belecsapni a közepébe az mindössze játszadozás
-    - aki komolyan akarja venni, az egy logikus rendszert követ
-- a börtön jól megtanítja az embert... nahát, a szerző volt börtönben! nektek ez átjött?!
-    - na de komolyan, ott ez nem opcionális, és aki erre rászokik, az sok más helyen is tud majd profitálni belőle
-    - nincs ilyen, hogy van-e kedvem... megcsinálod, amit meg kell csinálni, és kész
-    - utána ott lesz a jóleső sikerélmény, ami helyett lehetett volna a nagy semmi is
-    - valljuk be őszintén, eddig maximum olyan volt, hogy az edzés kihagyását bántuk meg. az edzést magát még soha
-- szóval ezt kint is lehet, csak felelősséget kell vállalnunk a saját rendszerünkért
-    - akinek "nem fér be", annak nagyon torz az értékrendje
-    - a jó kérdés inkább az lenne, hogy megengedheted-e magadnak, hogy ne férjen bele?
-- általános menet: bemelegítés + 2/3 work set, minőség > mennyiség elven
-- általános párosítás:
-    - fekvő + lábemelés
-    - húzódzkodás + guggolás
-    - kézenállás + híd
-- a konkrét rutinok:
-    - kezdőknek csak az első kettő, egyszer-egyszer a héten (H-Cs)
-    - a jobbaknak már mehet a harmadik kettő is egy harmadik napra (H-Sze-P)
-    - a még jobbaknak szétszedhető a 6 gyakorlat 6 napra is (V pihenő)
-    - a legdurvábbak meg csinálhatnak hetente 2 teljes kört
-    - plusz egy ajánlás azoknak, akik inkább az állóképességre mennek (ez is heti 2 kör, napi 10-50 work set, az egész napra szétosztva)
-- a való világban fontos flexibilitás
-    - a rutin van érted, nem fordítva
-    - jó ha vázat és fegyelmet ad, de azon belül kísérletezz, tedd magadévá a rendszert, használd ki a tested újdonsült erejét, sportolj ezt-azt
-- edzz egyedül -- a koncentrációhoz nem kell a szociális élmény
-    - Thoreau / Newport-féle magány, valaki?
+Már csak egy logikusan összeállított edzésterv hiányzik, hogy teljes legyen a kép.
+De hangsúlyozzuk, hogy "csak úgy belecsapni a közepébe" az mindössze játszadozás, _nem_ terv.
+Aki komolyan akarja venni, az egy szigorú rendszert követ.
+
+A börtön jól megtanítja az embert a szigorú napirendre...
+Nahát, a szerző volt börtönben!
+Nektek ez átjött?!
+Épp csak huszadszorra hallunk róla...
+
+De ebben mellesleg igaza van, ott a _rendszer_ nem opcionális, és aki erre rászokik, az sok más helyen is tud majd profitálni belőle!
+Nincs ilyen, hogy "van-e kedvem"...
+Megcsinálod, amit meg kell csinálni, és kész.
+Utána ott lesz majd a jóleső sikerélmény, ami helyett lehetett volna a nagy semmi is.
+Valljuk be őszintén, eddig maximum olyan volt, hogy az edzés kihagyását bántuk meg.
+Én legalább is az edzést magát még soha.
+
+A "csengő szerint élni" kint is lehet, csak felelősséget kell vállalnunk a saját rendszerünkért.
+Akinek pedig ez _nem fér be_ a napjába, annak valahol nagyon eltorzult az értékrendje.
+A jobb kérdés inkább az lenne, hogy megengedhetjük-e magunknak, hogy _ne_ férjen bele?
+
+No de térjünk rá a konkrétumokra.
+Egy általános "menet" bemelegítésből és 2-3 munkaszettből áll, "minőség > mennyiség" elven.
+Az általános párosítások pedig:
+
+- Fekvőtámasz + Lábemelés
+- Húzódzkodás + Guggolás
+- Kézenállás + Híd
+
+Konkrét rutinok tekintetében:
+
+- Kezdőknek csak az első kettő páros ajánlott, egyszer-egyszer a héten (mondjuk hétfő-csütörtök).
+- A jobbaknak már mehet a harmadik, kézenállós-hidas páros is egy harmadik napra (például hétfő-szerda-péntek).
+- A még jobbaknak szétszedhető a 6 gyakorlat 6 napra is (vasárnapi pihenővel).
+- A legdurvábbak pedig csinálhatnak hetente 2 teljes kört (hétfő-kedd-szerdán is lemegy mind a 6, és aztán csütörtök-péntek-szombaton is).
+
+Tegyük még hozzá, hogy a "való világban" nagyon fontos flexibilitás!
+A rutin van értünk, és nem fordítva.
+Jó, ha vázat és fegyelmet ad, de azon belül kísérletezzünk!
+Tegyük magunkévá a rendszert, használjuk ki a testünk újdonsült erejét, sportoljunk a köztes napokon ezt-azt...
+Ha viszont edzünk, akkor edzzünk egyedül -- a koncentrációhoz nem kell a szociális élmény!
+
+<br />
+
+
+
+
 
 
 
@@ -522,3 +558,8 @@ Csak tesztelem, hogy figyeltek-e még; természetesen utána itt is féloldalas�
 
 
 ## Összefoglalás
+
+- természetes mozdulatok, funkcionális erő
+- minimalizmus (és főleg a kifogás eltűnése)
+- megfejés!
+- rendszer
