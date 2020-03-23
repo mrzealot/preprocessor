@@ -97,7 +97,7 @@ De szerencsére pont tudom, hogy [Tóth Andi](https://hulladeknelkul.hu/) ezt a 
 Fontossági sorrendben megyünk, úgyhogy igen, ez a legfontosabb!
 Az a szemét, ami be sem jön az életünkbe, azt kidobnunk sem kell majd.
 De ami még lényegesebb: nem pártoljuk tovább hallgatólagos beleegyezéssel azt a sok pazarlást!
-Ha elfogadjuk a szórólapokat, azzal passzívan ugyan, de tulajdonképpen azt mondjuk, "Igen, ezért érdemes fákat kivágni".
+Gondoljunk csak bele: ha elfogadjuk a szórólapokat, azzal passzívan ugyan, de tulajdonképpen azt mondjuk, "Igen, ezért érdemes fákat kivágni".
 Arról pedig remélem senkivel nem kell vitatkozni, hogy **nem**, ezért nem érdemes fákat kivágni!
 Ezért vállaljuk be az apró kellemetlenséget, és szokjunk hozzá, hogy a szükségtelen dolgokat eleve be sem engedjük az életünkbe!
 
@@ -116,42 +116,43 @@ Ne feledjük, egységben az erő: ha senki nem kér nyugtát, akkor egy idő ut�
 
 #### 2. **K**evesebbel is beérem!
 
-- itt nem függünk senki mástól, önállóan is csökkenthetjük a saját fogyasztásunkat
-- értékeljük ki a múltbéli költéseinket, kérdőjelezzük meg az összes _vélt_ szükségletünket, és meglátjuk majd, hogy milyen kevés dolog marad a végére
-    - ezzel kimegy a fölösleg
-- csökkentsük ennek megfelelően a vásárlási szokásainkat is
-    - ezzel pedig nem jön be helyette új adag fölösleg
-- csökkentsük az olyan egyéb szokásainkat is, amik fogyasztáshoz vezet(het)nek
-    - TV, magazinok, meg úgy egyáltalán bármi, ami a közvéleménynek hatalmat ad felettünk
+Értékeljük ki a múltbéli költéseinket, kérdőjelezzük meg az összes (_vélt!_) szükségletünket, és meglátjuk majd, hogy milyen kevés dolog marad a végére.
+Ezzel kimegy a fölösleg.
+Emellett csökkenthetjük ennek megfelelően a vásárlási szokásainkat is, ami által pedig nem jön be az eddigiek helyett _új_ adag fölösleg.
+Opcionálisan csökkenthetjük még az olyan egyéb szokásainkat is, amik fogyasztáshoz vezet(het)nek, mint például a TV vagy a magazinok.
+Meg úgy egyáltalán bármi, ami a közvéleménynek hatalmat ad felettünk.
 
 
 
-#### 3. **K**ijavítom (újrahasznosítom)
+#### 3. **K**ijavítom, újrahasznosítom
 
-- ide csak akkor jut el valami, ha szükséges (nem utasítottam vissza), és azon belül is belefér abba a kevésbe, ami tényleg kell
-- akkor viszont érdemes minél több használatot kipréselni belőle
-    - ha javítható, akkor javítsuk, és még jelenlegi formájában használhatjuk
-    - ha már nem, akkor a kidobás előtt még kereshetnénk neki egy új szerepet
+Ide csak akkor jut el valami, ha szükséges -- tehát nem utasítottam vissza -- és azon belül is belefér abba a lecsökkentett mennyiségbe, amit beállítottunk.
+Ekkor viszont érdemes minél több használatot kipréselni belőle.
+Ha javítható, akkor javítsuk (vagy javíttassuk), és még jelenlegi formájában használhatjuk.
+Ha _már_ nem, akkor is kereshetnénk neki a kidobás előtt még egy új szerepet.
+Ha pedig egyáltalán nem is volt javítható, akkor fontoljuk meg, hogy legközelebb nem lenne-e érdemesebb egy hosszabb (és meghosszabbítható) életű termék után nézni -- még akkor is, ha jelentősen drágább.
 
 
 
 #### 4. **K**ülön gyűjtöm
 
-- ezt nevezzük gyakran újrahasznosításnak, de ez már a házon kívüli formája
-- járjunk utána, hogy a lakhelyünkön mit és hogy lehet
-- még nagyon gyerekcipőben jár, és nagyon sok együttműködést igényelne, hogy hatékonyan menjen
-- ezért csak ilyen kései lépés -- nem szabad túl erősen erre hagyatkozni!
+Ezt a fázist nevezzük gyakran újrahasznosításnak, de ez már a házon kívüli formája.
+És láthatjuk, hogy mennyi fontos dolgunk van **azelőtt** is, hogy a szelektív kuka előkerülne!
+Járjunk utána, hogy a lakhelyünkön mit és hogy lehet, mert sok mindennél esete válogatja.
+Általánosságban elmondható viszont, hogy még nagyon gyerekcipőben jár ez az egész, és nagyon sok együttműködést igényelne, hogy hatékonyan menjen.
+Nem szabad ezért túl erősen erre hagyatkozni!
 
 
 
 #### 5. **K**omposztálom
 
-- a háztartási hulladék kb. harmada organikus, ami a szeméttelepen kifejtett negatív hatása helyett komposztálva újra hasznos lehet
-- lakhelytől, technológiától, ártól, mérettől függően rengeteg megoldás létezik
-    - a részletekbe most nem megyünk bele, de majd visszatérünk
-    - addig is mindenki kezdjen barátkozni a gondolattal, hogy a panel vagy a társas ház nem kifogás, megoldható!
-- ez jelképezi azt a zárt újrahasznosulási kört, amire az emberi modellnek is épülnie kellett volna!
+A háztartási hulladék kb. harmada organikus, ami a szeméttelepen kifejezetten negatív lenne a hatása; komposztálva viszont újra hasznos lehet.
+Lakhelytől, technológiától, ártól, mérettől (és még kismillió szemponttól) függően rengeteg megoldás létezik.
+A részletekbe terveim szerint majd egy későbbi bejegyzésben visszatérünk, de addig is mindenki kezdjen barátkozni a gondolattal!
+Például manapság már a panel vagy a társas ház sem kifogás, megoldható!
+És érdemes is megoldani, mert a komposztálás jelképezi azt a zárt újrahasznosulási kört, amire az emberi modellnek is épülnie kellett volna!
 
+<br />
 
 
 
@@ -180,63 +181,26 @@ Ne feledjük, egységben az erő: ha senki nem kér nyugtát, akkor egy idő ut�
 
 ## Konkrét tanácsok
 
-- mindig ugyanaz az általános minimalista elvek alkalmazására szolgáló ellenőrzőlista:
-    - működik egyáltalán? vagy lejárt a szavatossága?
-    - rendszeresen használom-e?
-    - ez az egy van-e belőle?
-    - veszélyezteti-e a családom egészségét?
-    - bűntudatból nem merek megválni tőle?
-    - csak azért van, mert mindenki másnak is van ilyenje? más nem válthatná ki?
-    - megéri takarítani?
-    - megéri, hogy foglalja a helyet?
-    - újrahasznosítható?
+Ha a fenti 5 alapelvet megszívleljük, és _ilyen sorrendben_ alkalmazni is próbáljuk a mindennapjainkra, akkor elméletileg készen is vagyunk.
+De ez a könyv ennél azért sokkal praktikusabb, szóval egy-egy vonatkozás konkrét jótanácsaiért érdemes a kapcsolódó fejezetet átlapozni.
+Mindegyik az adott témához testre szabva tartalmazza például ugyanazt az általános, minimalista ellenőrzőlistát:
 
+- Működik egyáltalán? Vagy lejárt a szavatossága?
+- Rendszeresen használom-e?
+- Ez az egy van-e belőle?
+- Veszélyezteti-e a családom egészségét?
+- Bűntudatból nem merek megválni tőle?
+- Csak azért van, mert mindenki másnak is van ilyenje?
+- Más nem válthatná ki?
+- Megéri takarítani?
+- Megéri, hogy foglalja a helyet?
+- Újrahasznosítható?
 
+Ezek mellett sok a receptet is találhatunk -- kajához, tisztítószerhez, művészeti kellékekhez.
+A legfontosabb viszont akkor is az 5K alkalmazása, amire minden fejezet végén, összefoglalás jelleggel kitérünk.
+Na ezeket én is tovább osztanám a lentiekben, néhány vázlatpontommal karöltve:
 
-
-- sok a recept
-    - kajához, tisztítószerhez, művészeti kellékekhez, stb.
-
-
-
-- a bevezetésen felül minden fejezet konkrét, területenkénti tanácsokkal szolgál
-    - egyszerűség = kösz nem + kevesebb
-    - begyűjtés = külön gyűjtés + komposztálás + esetleg sima kuka (ha kell)
-
-
-
-
-
-
-
-
-
-
-### Konyha és bevásárlás
-
-- bevásárlásnál továbbra is a pénztárcánkkal szavazunk, üzenetet küldünk
-- kimérős / csomagolásmentes boltok
-    - ezen a fronton kis hazánkban még nem járunk az élen, de már vannak kezdeményezések
-- vidd a saját tárolódat
-    - nem csak szatyor, de üvegek vagy fedeles tárolók is
-    - a boltban legyél magabiztos, csinálj úgy, mintha mindig is így vásároltál volna, akkor kevesebben akadékoskodnak majd
-    - ha mégis azt mondják, hogy nem lehet, akkor se higgy nekik vakon, kérd a menedzsert...
-- ha nincs kimérős, és a helyi termesztők is csak "nagyüzemi" mértékekben alkudoznak, akkor alapíthatnánk egy vásárlói klubot is
-- ha rendesen tervezünk, akkor heti 1 bevásárlós kör elég mindenhez
-- ilyen alapanyagokhoz Zero Waste recepted is dukálnak
-    - összetevők egyszerűsítése, kategorizálás, "kitapasztalás"
-    - nem kell sok, itt is minimalizmus!
-- az állandó alapélelmiszerek (liszt, cukor, olaj, fűszerek, ...) mellett érdemes forgó kategóriákban is gondolkozni
-    - pl. hüvelyesek, amit egyszer babbal, egyszer lencsével töltünk meg
-    - változatos, de nem egyszerre tárolós, így nem romlik meg
-
-5K ellenőrzőlista:
-
-1. Utasítsd vissza a csomagolt élelmiszereket és a zacskókat!
-2. Minimalizáld a konyhai eszközöket és alakíts ki állandó étrendet!
-3. Vásárolj újrahasználható szatyrokkal és bánj kreatívan a maradékokkal!
-4. Jelölj ki külön tárolókat a különböző típusú hulladékaidnak!
-5. Komposztáld a tényleges maradékokat!
+<br />
 
 
 
@@ -247,27 +211,69 @@ Ne feledjük, egységben az erő: ha senki nem kér nyugtát, akkor egy idő ut�
 
 
 
-### Fürdő és pipere
+#### Konyha és bevásárlás
 
-- hősnőnk rengeteg vad kísérletezésen van túl, még a fanatikusabb fázisából
-    - házi samponok, sminkek, szappanok, ...
-    - de habár kísérletezni hasznos, mindent hosszú távon alkalmazni nem
-    - nekünk már csak azokat a recepteket mutatja be, amik bejöttek
-- nagy lépés, ha szarsz a média kampányokra, amit elhitetik veled, hogy egy csomó mindenre szükséged van
-- ha valami drágát basznál ki, gondolj arra, hogy tanulópénz, és az új szokásaid később sokszorosan megtérítik
-- személyes higiénia téren gondoljunk nagyanyáink és nagyapáink dolgaira, próbáljuk inkább azt a kort megidézni
-- részletes kitekintés a sminkelésre... hölgyeim, hadd ajánljam az eredeti szöveget!
-- gyógyszerek tekintetében elkerülhetetlen valamennyi csomagolás
-    - de maga az életmód rengeteget csökkent rajta
-    - és házi tea/kenőcs/stb. jellegű orvosságokkal még tovább csökkenthető a bolti/receptes körök száma
+Bevásárlásnál továbbra is azt tartsuk észben, hogy a pénztárcánkkal szavazunk, és üzenetet küldünk a gyártónak.
+Ezért igyekezzünk előnyben részesíteni a kimérős (csomagolásmentes) boltokat és termékeket!
+Ezen a fronton kis hazánkban még nem kimondottabban járunk az élen, de már vannak kezdeményezések.
+
+A másik fontos tanulság, hogy mindig vigyük a saját tárolóinkat!
+És itt nem is csak a szatyorról van szó (ami nyilván legyen textil), de üvegekről és fedeles tárolókról is.
+A szerző javaslata -- amit saját tapasztalatból megerősíthetek -- hogy a boltban legyünk magabiztos a különcségünkben!
+Csináljunk úgy, mintha mindig is így vásároltunk volna, és akkor kevesebben akadékoskodnak majd.
+Ha mégis azt mondják, hogy valamit nem lehet, akkor se higgyünk nekik vakon!
+Kérjük a menedzsert, még ha ez először "égő" is, és gyakran kiderül, hogy valahogy csak meg lehet oldani.
+
+Ha a boltban nincs kimérős, és a helyi termesztők is csak "nagyüzemi" mértékekben alkudoznak, akkor újabb tipp: alapíthatnánk egy vásárlói klubot.
+Többed-magunkban kihagyhatjuk a boltot, és már úgy hozzájuthatunk a termékekhez, amikor _még_ be sem csomagolták őket.
+Amit pedig megkapunk "hagyományosabban", azt is érdemes családi kiszerelésekben beszerezni.
+Ha rendesen tervezünk, akkor heti 1 bevásárlós kör elég lehet mindenhez, amivel rengeteg időt, energiát, és üzemanyagot megspórolhatunk.
+
+Az ilyen alapanyagokhoz Zero Waste receptek is dukálnak, ami annyit tesz, hogy ne 97 alapanyagból kotyvasszuk még a zsíros kenyeret is!
+Az összetevők egyszerűsítése, a kategorizálás, és a "kitapasztalás" legyen a cél!
+Az állandó alapélelmiszerek (liszt, cukor, olaj, fűszerek, ...) mellett érdemes úgynevezett "forgó" kategóriákban is gondolkozni.
+Például legyen egy _hüvelyesek_ üveg, amit egyszer babbal, egyszer lencsével töltünk meg.
+Ez változatos, de mégsem "egyszerre tárolós", így kisebb eséllyel romlik ránk.
 
 5K ellenőrzőlista:
 
-1. Ne legyen 60-féle samponod, és ne engedd, hogy a szintetikus alapanyagok hazavágják az egészséged!
-2. Használj többcélú termékeket a napi rutinodban!
-3. Térj át minél több újrahasználható higiéniás megoldásra!
-4. Készítsd el a saját kozmetikumaidat, hogy eleve ne is legyen mit újrahasznosítani!
-5. Komposztáld a haj és köröm hulladékot!
+1. Utasítsuk vissza a csomagolt élelmiszereket és a zacskókat!
+2. Minimalizáljuk a konyhai eszközöket és alakítsunk ki állandó étrendet!
+3. Vásároljunk újrahasználható szatyrokkal és bánjunk kreatívan a maradékokkal!
+4. Jelöljünk ki külön tárolókat a különböző típusú hulladékainknak!
+5. Komposztáljuk a tényleges maradékokat!
+
+
+
+
+
+
+
+
+
+
+#### Fürdő és pipere
+
+Hősnőnk rengeteg vad kísérletezésen van túl, még a fanatikusabb fázisából.
+Házi samponok, sminkek, kozmetikumok; amit csak el tudunk képzelni.
+És habár kísérletezni hasznos, nem minden lesz hosszú távon alkalmazható.
+Ezért nekünk már csak azokat a recepteket mutatja be, amik bejöttek: szappan, mosószer, mosogatószer, ilyesmik.
+
+A szépítkezésben az egyik legnagyobb lépés -- mint ahogy más terülteken is! -- ha szarunk a média kampányokra, amit elhitetik velünk, hogy egy csomó mindenre szükségünk van.
+Ha épp valami drágától kellene megválnunk, tekintsük tanulópénznek.
+Az új szokásaink később sokszorosan megtérítik majd!
+
+Személyes higiénia téren gondoljunk nagyanyáink és nagyapáink dolgaira, próbáljuk inkább azt a kort megidézni!
+És habár gyógyszerek tekintetében elkerülhetetlen valamennyi csomagolás, maga az egészséges életmód rengeteget fog csökkenteni rajta.
+Nyilván nem az ilyen homeopátiás baromságokról van szó, de mondjuk házi tea/kenőcs/stb. jellegű tüneti kezelésekkel még tovább csökkenthető a bolti-receptes körök száma.
+
+5K ellenőrzőlista:
+
+1. Ne legyen 60-féle samponunk, és ne engedjük, hogy a szintetikus alapanyagok hazavágják az egészségünket!
+2. Használjunk többcélú termékeket a napi rutinjainkban!
+3. Térjünk át minél több újrahasználható higiéniás megoldásra!
+4. Készítsük el a saját kozmetikumainkat, hogy eleve ne is legyen mit újrahasznosítani!
+5. Komposztáljuk a haj és köröm hulladékot!
 
 
 
@@ -280,7 +286,7 @@ Ne feledjük, egységben az erő: ha senki nem kér nyugtát, akkor egy idő ut�
 
 
 
-### Háló és gardrób
+#### Háló és gardrób
 
 - ékszer = hamis státusz szimbólum és extra aggodalom... inkább mosolyogj! :)
 - itt aztán tényleg nem kell venni semmit, csak az egyszerűsítés a fontos
@@ -311,7 +317,7 @@ Ne feledjük, egységben az erő: ha senki nem kér nyugtát, akkor egy idő ut�
 
 
 
-### Takarítás és karbantartás
+#### Takarítás és karbantartás
 
 - nagy ház = sok takarítani és javítanivaló
     - jól gondold meg, hogy tényleg kell-e neked, vagy csak a státusz szimbólum miatt akarod
@@ -341,7 +347,7 @@ Megjegyzés: a porcica angolul dust bunny, vagyis por nyuszika. A kulturális ha
 
 
 
-### Dolgozószoba és levélszemét
+#### Dolgozószoba és levélszemét
 
 - a fizikai irodád (asztal, fiókok) és a digitális világod (inbox, fájlrendszer) is legyenek rendezettek!
 - sok papíros kompromisszum, de az igazi megoldás a papírmentesség lenne (amire vannak is tippek, de ez úgyis egyénfüggő)
@@ -373,7 +379,7 @@ Megjegyzés: a porcica angolul dust bunny, vagyis por nyuszika. A kulturális ha
 
 
 
-### Gyerekek és iskola
+#### Gyerekek és iskola
 
 - eleve kezdjük ott, hogy durva túlnépesedés, és nem biztos, hogy kell a gyerek
     - szabad választani, hogy legyen, de ne az legyen az alapértelmezett, hogy "hát persze, hogy kell"
@@ -422,7 +428,7 @@ Megjegyzés: a porcica angolul dust bunny, vagyis por nyuszika. A kulturális ha
 
 
 
-### Ünnepek és ajándékok
+#### Ünnepek és ajándékok
 
 - "We should not blindly follow traditions—there’s no learning in that. We need to understand them."
     - Nem szabad vakon követnünk a hagyományokat -- abban nincs tanulság. Megértenünk kell őket.
@@ -465,7 +471,7 @@ Megjegyzés: a porcica angolul dust bunny, vagyis por nyuszika. A kulturális ha
 
 
 
-### A szabadban
+#### A szabadban
 
 - a házon kívül is ugyanazok az alapelvek vonatkoznak
     - ha előre tervezel, akkor rengeteg szemét keletkezését ki tudod védeni
