@@ -243,6 +243,7 @@ Ez változatos, de mégsem "egyszerre tárolós", így kisebb eséllyel romlik r
 4. Jelöljünk ki külön tárolókat a különböző típusú hulladékainknak!
 5. Komposztáljuk a tényleges maradékokat!
 
+<br />
 
 
 
@@ -275,6 +276,9 @@ Nyilván nem az ilyen homeopátiás baromságokról van szó, de mondjuk házi t
 4. Készítsük el a saját kozmetikumainkat, hogy eleve ne is legyen mit újrahasznosítani!
 5. Komposztáljuk a haj és köröm hulladékot!
 
+<br />
+
+
 
 
 
@@ -288,23 +292,37 @@ Nyilván nem az ilyen homeopátiás baromságokról van szó, de mondjuk házi t
 
 #### Háló és gardrób
 
-- ékszer = hamis státusz szimbólum és extra aggodalom... inkább mosolyogj! :)
-- itt aztán tényleg nem kell venni semmit, csak az egyszerűsítés a fontos
-    - ami nem az alvást, az esetleges olvasást, az öltözködést, vagy a lepedő-akrobatikát támogatja, az minek oda?
-- a nagy baj a ruhatárral van
-    - "The fashion industry is the prime example of [...] creat[ing] obsolescence in otherwise perfectly satisfactory goods." // Ezra Mishan
-- ruhatárnál hasznos a szigorú leltár
-    - és csak úgy jöhet új, ha egy régi megy helyette
-    - ez az ismert kombinációk, és a reggeli "mit vegyek fel" paralízis ellen is nagyon hasznos
-- a használt ruha gondolata nagyon idegen az USA-ban, de sztem kis hazánkban nem annyira rossz a PR-ja, hogy magasztalnom kelljen
+Itt aztán tényleg nem kell venni semmit, csak az egyszerűsítés a fontos.
+Kezdésnek: ami a hálóban nem az alvást, az olvasást, az öltözködést, vagy az esetleges _lepedő-akrobatikát_ támogatja, az minek oda?
+Ez önmagában eltűntet egy csomó sallangot, de a gardróbon belül még nagyobb gondokkal találkozhatunk.
+
+> A divatipar a legjobb példa arra, hogyan teremtünk elavulást az amúgy teljesen megfelelő árucikkeknél.
+>
+> -- Ezra Mishan
+> > The fashion industry is the prime example of [...] creat[ing] obsolescence in otherwise perfectly satisfactory goods.
+
+Úgy küzdhetünk ez ellen a leghatékonyabban, ha egy szigorú leltárt vezetünk be a ruhatárunknál.
+Ezután remélhetőleg magunktól is meglátjuk majd, mennyivel kevesebb is elég lenne, és megválunk a fölöslegtől.
+Karbantartásként pedig érdemes megfogadni, hogy változatlanul tartjuk létszámot.
+Vagyis innentől már csak úgy jöhet majd be bármi új, ha egy régi megy helyette.
+Ezek a módosítások segíthetnek kevesebb alapanyagból is nagyobb hasznot húzni, és önálló ruhadarabok helyett kombinációkban gondolkozni.
+Emellett a hely pazarlás és a reggeli "mit vegyek fel" paralízis ellen is nagyon hasznosak lesznek.
+
+A használt ruha gondolata nagyon idegen az USA-ban, de szerintem kis hazánkban nem annyira rossz a híre, hogy magasztalnom kelljen.
+Illetve az ex-divatmániás szerzőtől különösen erős az a javaslat, hogy az ékszerek -- mint hamis státusz szimbólumok és extra aggodalom -- helyett is inkább mosolyogjunk!
+Emlékezzünk vissza [Vicki Robin]({% post_url 2020-03-20-vicki-robin-your-money-or-your-life %}) tanácsaira, és költsük okosan az életenergiánkat ezen a területen is!
 
 5K ellenőrzőlista:
 
-1. Állj ellen a trendeknek, legyen inkább stílusod!
-2. Minimalizáld a bútoraidat és a ruhatárad is!
-3. Vásárolj használt ruhákat!
-4. Adományozd el a szükségtelenné vált ruháidat!
-5. Komposztáld az organikus anyag maradékokat!
+1. Álljunk ellen a trendeknek, legyen inkább stílusunk!
+2. Minimalizáljuk a bútorainkat és a ruhatárunkat is!
+3. Vásároljunk használt ruhákat!
+4. Adományozzuk el a szükségtelenné vált ruháinkat!
+5. Komposztáljuk az organikus anyag maradékokat!
+
+<br />
+
+
 
 
 
@@ -319,23 +337,35 @@ Nyilván nem az ilyen homeopátiás baromságokról van szó, de mondjuk házi t
 
 #### Takarítás és karbantartás
 
-- nagy ház = sok takarítani és javítanivaló
-    - jól gondold meg, hogy tényleg kell-e neked, vagy csak a státusz szimbólum miatt akarod
-- az ecet és a szódabikarbóna az istenek (ezt asszonykám nálunk is elég jól megszívlelte)
-    - ezekből mindent IS lehet csinálni
-- "Man will be victim of progress!" // szerző nagypapája
-- törekedj a gyors és egyszerű karbantarthatóságra, foglalkozz inkább mással
-    - vizsgáld egyszerűsítő szemszögből a napodat, és biztos lesz ott mit optimalizálni!
+Először azt a kérdést tegyük fel magunknak, hogy **mit** takarítunk.
+Mert egy nagy ház bizony teendővel jár.
+Szóval jól gondoljuk meg, hogy tényleg kell-e az az extra szoba-fürdő-kert-vendégház, vagy csak a státuszunkat akarjuk vele hirdetni!
+
+A maradék élettérben viszont így is úgy is kell majd takarítani, ezért a másik kérdés, hogy ezt **hogyan** szeretnénk.
+Itt pedig az ecet és a szódabikarbóna az egyértelmű győztesek -- ezt asszonykám nálunk is elég jól megszívlelte.
+Ezekből kb. minden célra **is** lehet tisztítószert készíteni.
+És ezekkel az emberek nagyja tisztában is volt egészen addig, amíg a cégek és a reklámok meg nem magyarázták nekünk, miért kell teljesen más a fürdőbe mint a konyhába...
+
+> Az ember a haladás áldozatává válik!
+> > Man will be victim of progress!
+
+Mind a takarítás, mind az egyéb, kiszámítható karbantartások esetében törekedjünk a gyorsaságra és az egyszerűségre!
+Vizsgáljuk "optimalizáló" szemszögből a hétköznapjainkat, és biztosan lesz ott min javítani!
+Az átállás nehézkes lehet, de hosszabb távon sokat csökkenthetünk a napi terheinken.
+A felszabaduló időben pedig foglalkozzunk inkább valami értelmesebbel -- mondjuk olvassunk többet!
 
 5K ellenőrzőlista:
 
-1. Utasítsd vissza az egyszer használatos és antibakteriális tisztítószereket! 
-2. Használj csak ecetet és szódabikarbónát a takarításhoz!
-3. Használj újrahasznosított rongyokat; a javításokhoz pedig kölcsön szerszámokat!
-4. Üvegben vedd az ecetet az újrahasznosíthatóság miatt!
-5. Komposztáld a porcicákat!
+1. Utasítsuk vissza az egyszer használatos és antibakteriális tisztítószereket! 
+2. Használjunk (szinte) _csak_ ecetet és szódabikarbónát a takarításhoz!
+3. Használjunk újrahasznosított rongyokat; a javításokhoz pedig kölcsön szerszámokat!
+4. Üvegben vegyük az ecetet az újrahasznosíthatóság miatt!
+5. Komposztáljuk a porcicákat!
 
-Megjegyzés: a porcica angolul dust bunny, vagyis por nyuszika. A kulturális határok mentén még az állat hasonlatok is megváltoznak! :)
+<small>Megjegyzés: a porcica angolul dust bunny, vagyis por <i>nyuszika</i>. Hát nem aranyos, hogy kulturális határok mentén még az állat hasonlatok is megváltoznak?!</small>
+
+<br />
+
 
 
 
@@ -349,20 +379,24 @@ Megjegyzés: a porcica angolul dust bunny, vagyis por nyuszika. A kulturális ha
 
 #### Dolgozószoba és levélszemét
 
-- a fizikai irodád (asztal, fiókok) és a digitális világod (inbox, fájlrendszer) is legyenek rendezettek!
-- sok papíros kompromisszum, de az igazi megoldás a papírmentesség lenne (amire vannak is tippek, de ez úgyis egyénfüggő)
-- az elektromos hulladék külön kezelendő (akár alkatrésznek adjuk el, akár dedikált feldolgozóhelyre visszük)
-- külön szekció a digitális rendrakásnak, de itt hadd utaljak csak vissza a múlt hétre --> Cal Newport
-- a kéretlen levelek megszűrése kezdeményezést és energia befektetést igényel; de megéri
-    - Amcsiban elterjedtebbnek hangzik, mint nálunk, de azért itt is lenne mit javítani...
+Ajánlott, hogy a fizikai irodánk (asztal, fiókok) és a digitális világunk (inbox, fájlrendszer) is legyenek rendezettek!
+Sok a papíros kompromisszum, de az igazi megoldás a papírmentesség lenne -- amire vannak is tippek, de ez úgyis egyénfüggő.
+Ne feledjük, hogy az elektromos hulladék külön kezelendő; akár alkatrésznek adjuk el, akár dedikált feldolgozóhelyre visszük.
+
+Szerepel még egy külön szekció a digitális rendrakásról, de itt önismétlés helyett hadd utaljak csak vissza a [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %}) bejegyzésemre, ahol ezt már ugye kellően kiveséztük.
+Emellett feljön még a kéretlen levelek és szórólapok megszűrése, ahol igencsak szembe kell úsznunk az árral.
+A rengeteg szükségtelen papírhulladék csökkentése miatt viszont megéri, még ha kezdeményezést és energia befektetést igényel is!
+Mondjuk a szerző leírása alapján Amerikában elterjedtebbnek hangzik, mint nálunk, de azért persze itt is lenne mit javítani...
 
 5K ellenőrzőlista:
 
-1. Mondj nemet a névjegykártyákra, ajándékcsomagokra, tollakra, levelekre, hírújságokra, és szállítási csomagolásokra!
-2. Válassz minőségi íróeszközöket; így valószínűbb, hogy figyelsz is majd rájuk!
-3. Használd újra a csomagolóanyagokat és az egyoldalasan nyomtatott papírokat!
-4. Csak mindkét oldalán használt papírt dobj az újrahasznosítós kukádba!
-5. Komposztáld a ledarált papírt és a hegyezéskor keletkező hulladékot.
+1. Mondjunk nemet a névjegykártyákra, ajándékcsomagokra, tollakra, levelekre, hírújságokra, és szállítási csomagolásokra!
+2. Válasszunk minőségi íróeszközöket; így valószínűbb, hogy figyelünk is majd rájuk!
+3. Használjuk újra a csomagolóanyagokat és az egyoldalasan nyomtatott papírokat!
+4. Csak mindkét oldalán használt papírt dobjunk az újrahasznosítós kukába!
+5. Komposztáljuk a ledarált papírt és a hegyezéskor keletkező hulladékot!
+
+<br />
 
 
 
@@ -381,36 +415,54 @@ Megjegyzés: a porcica angolul dust bunny, vagyis por nyuszika. A kulturális ha
 
 #### Gyerekek és iskola
 
-- eleve kezdjük ott, hogy durva túlnépesedés, és nem biztos, hogy kell a gyerek
-    - szabad választani, hogy legyen, de ne az legyen az alapértelmezett, hogy "hát persze, hogy kell"
-    - legalább gondolkozzunk el rajta
-    - darabszámilag 2-nél még "csak" pótoltuk magunkat, de ez fölé megint csak ésszel menjünk
-    - fogadjunk örökbe, ha nagyon a darabszám a lényeg
-    - és mindenképp tanítsuk a gyerekeknek, hogy vigyázzanak a környezetükre (remélhetőleg példamutatással, mert mi is épp azt tesszük)
-- a "gyerekek miatt nem lehet" az legtöbbször tényleg csak kifogás
-    - ezt használjuk azokra a dolgokra, amiket mi nem akarunk
-    - mert társadalmilag nem elfogadott, hogy a nevelési stratégiába beleszólhat bárki is -- és így tudjuk, hogy ez lesz a beszélgetés vége.
-    - másoknak lehet hazudni -- amin, csak úgy megsúgom, mindenki átlát -- de magunknak miért?
-- más szemszögből: pont a gyerekek miatt is lenne még fontosabb ezt az életmódot elsajátítani
-    - kevesebb igény = kevesebb munka = több idő a gyerekekre (is)
-    - és szerintem a 20. kacat vagy konzol helyett nekik is jobb lesz, ha ott tudunk lenni mellettük
-- tippek: szoktassuk őket napirendre, hagyjunk nekik teret, tanuljunk meg nemet mondani, limitáljuk a TV-t és társait, segítsünk nekik megérteni az értékrendünket, hirdessük a természet szeretetét, vonjuk be őket, vásároljunk együtt, ajándékozzunk nekik tárgyak helyett élményeket, és játsszunk velük!
-- vállaljunk felelősséget az elburjánzó játéközönért
-    - nem a gyerek hibája, hogy játszik velük, hanem a miénk, amiért egyáltalán beengedtünk annyi kacatot a lakásba
-- ahogy nekünk is vissza kell utasítanunk sok mindent, tanítsuk ezt meg a gyerekeknek is
-- az iskolák sok külső dolgot "rád kényszeríthetnek", vegyél nagy levegőket
-- csomagolj kaját: ha már az otthoni étrend rendben van, akkor tudhatod, hogy bent is azt eszi-e a gyerek
-    - itt is feljön a Furoshiki, jó ötlet... :)
-- ne pakoljuk tele a napjaikat mindennel, hagyjunk struktúrálatlan időt
-- 
+Eleve kezdjük ott a témát, hogy a bolygónk durván túlnépesedett, és egyáltalán nem biztos, hogy _kell_ gyerek!
+Nyilván továbbra is szabad választani, hogy legyen -- de ne az legyen az **alapértelmezett**, hogy "Hát még szép, hogy kell!".
+Legalább gondolkozzunk el rajta!
+És habár darabszámilag 2-nél még "csak" pótoltuk magunkat, ez fölé csak nagyon ésszel menjünk!
+Ha nagyon a darabszám a lényeg, fontoljuk meg az örökbefogadást!
+Ezektől függetlenül pedig _mindenképp_ tanítsuk meg a gyerekeknek, hogy vigyázzanak a környezetükre -- remélhetőleg példamutatással, mert mi is épp azt tesszük.
+
+Másik kényes téma, de akkor is bedobjuk a közösbe: a "gyerekek miatt nem lehet" az legtöbbször tényleg csak kifogás.
+Azért kerül szóba, mert a könyv szerint sokszor szoktak ezzel tiltakozni a zero waste életstílus ellen.
+Lássuk be, hogy ezt a szöveget azokra a dolgokra használjuk, amiket _mi_ magunk nem akarunk.
+És mivel társadalmilag nem elfogadott, hogy a nevelési stratégiába beleszólhat bárki is, ezért tudjuk, hogy várhatóan ez lesz a beszélgetés vége.
+Másoknak lehet hazudni -- amin, csak úgy megsúgom, mindenki átlát -- de magunknak miért?
+
+Más szemszögből: pont a gyerekek miatt lenne még fontosabb ezt az életmódot elsajátítani
+Kevesebb igény = kevesebb munka = több idő a gyerekekre (is)!
+És szerintem a 20. kacat vagy konzol helyett nekik is jobb lesz, ha ott tudunk lenni mellettük.
+
+Konkrét tippek:
+
+- Szoktassuk őket napirendre, de ne pakoljuk tele a napjaikat mindennel!
+Hagyjunk nekik teret és struktúrálatlan időt.
+- Tanuljunk meg nemet mondani!
+Limitáljuk a TV-t és társait; illetve ahogy nekünk is vissza kell utasítanunk sok mindent, tanítsuk ezt meg a gyerekeknek is.
+- Segítsünk nekik megérteni az értékrendünket!
+- Hirdessük a természet szeretetét!
+- Vonjuk be őket, vásároljunk együtt!
+- Ajándékozzunk nekik tárgyak helyett élményeket!
+- Vállaljunk felelősséget az elburjánzó játéközönért!
+Nem a gyerek hibája, hogy játszik velük, hanem a miénk, amiért egyáltalán beengedtünk annyi kacatot a lakásba.
+Áldozzuk inkább rá az időt, és játsszunk velük!
+- Az iskolák sok külső dolgot "ránk kényszeríthetnek", vegyünk nagy levegőket!
+- Csomagoljunk nekik kaját!
+Ha már az otthoni étrend rendben van, akkor nyugodtak lehetünk, hogy bent is azt eszi-e a gyerek.
+
 
 5K ellenőrzőlista:
 
-1. Utasítsd vissza az ingyen cuccokat, extra iskolai papírokat és a laminálást!
-2. Egyszerűsítsd a játékokat és az iskola utáni aktivitásokat!
-3. Vegyél használt ruhákat és iskolai kellékeket!
-4. Alakítsd a szemeted egy részét művészeti kellékekké!
-5. Komposztáld a művészkedéses maradékokat!
+1. Utasítsuk vissza az ingyen cuccokat, extra iskolai papírokat és a laminálást!
+2. Egyszerűsítsük a játékokat és az iskola utáni aktivitásokat!
+3. Vegyünk használt ruhákat és iskolai kellékeket!
+4. Alakítsuk a szemetünk egy részét művészeti kellékekké!
+5. Komposztáljuk a művészkedéses maradékokat!
+
+<br />
+
+
+
+
 
 
 
