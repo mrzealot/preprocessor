@@ -4,7 +4,11 @@ title: Bea Johnson - Zero Waste Otthon
 pages: 304
 date: 2020-03-27 15:00
 excerpt: >
-    TODO
+    Ez a hét még mindig minimalizmus, és már megint modern alkalmazhatóság, de most digitális helyett "analóg", és gazdasági helyett házon belüli vonatkozásaiban.
+    Erős hangsúllyal a szemét termelésre, és a környezetünk megóvására!
+    Ha nincs sok cuccunk -- és azt is okosan használjuk, amink van -- akkor egy "mellékhatás" lesz tulajdonképpen, hogy nem termelünk (annyi) szemetet.
+    Fordított szemszögből viszont lehet, hogy egyeseket pont a környezetvédelem és a szeméttermelés csökkentése vezet majd be az egyéb minimalista elvekbe is.
+    Ezért választottam tehát ezt a könyvet az ehavi "minimalizmus kvartett" záró elemének.
 ---
 
 
@@ -482,33 +486,43 @@ Ha már az otthoni étrend rendben van, akkor nyugodtak lehetünk, hogy bent is 
 
 #### Ünnepek és ajándékok
 
-- "We should not blindly follow traditions—there’s no learning in that. We need to understand them."
-    - Nem szabad vakon követnünk a hagyományokat -- abban nincs tanulság. Megértenünk kell őket.
-- a lényeg, hogy itt is lépjünk hátra, és ismerjük fel, hogy miért csináljuk, amit csinálunk
-    - a szomszédokkal versengés megy és stresszeljük magunkat?
-    - nem lenne jobb lazítani minőségi időt együtt tölteni?
-- magukkal a tradíciókkal semmi baj nincs (a lelkünknek fontos lehet a rituálé, lehet előre várni, struktúrát ad az évnek, ...)
-    - de nem kell túlzásokba esni, itt is csak egyszerűen
-- a dekorációkra tesszük fel a fejezetenkénti kérdés listánkat
-    - nálunk is ez volt, és még a fa sem "élte túl"
-- szokjunk le az üdvözlőlapozásról is
-    - a könyv szerint digitális valami van helyette, de én még inkább a Digitális Minimalizmust említeném itt
-    - ha számít a kapcsolat, akkor beszélgessünk, ha nem, akkor meg ne
-- a Húsvétban érdemes megfontolni a böjtöt
-    - na nem vallásos értelemben, csak hogy próbáljunk ki valami újat
-    - aminek előre tudjuk, hogy van lejárati ideje, ezért kockázatmentes
-    - de mégis felrázhatja a hétköznapokat
-- mint a gyerekeknél, itt is ajándékozzunk tárgyak helyett inkább élményeket
-    - vagy az időnket/szakértelmünket, ehető vagy felhasználható dolgokat, stb.
-- a kapás oldalról pedig tudassuk mindenkivel jó előre, hogy milyen elveket követünk
+A lényeg, hogy itt is lépjünk hátra, és ismerjük fel, hogy miért csináljuk, amit csinálunk.
+Könnyen lehet, hogy csak a szomszédokkal versengés megy és fölöslegesen stresszeljük magunkat.
+Nem lenne jobb lazítani, és inkább egy kis minőségi időt a családdal tölteni?
+
+> Nem szabad vakon követnünk a hagyományokat -- abban nincs tanulság. Megértenünk kell őket.
+>
+> -- Indián közmondás
+> > We should not blindly follow traditions -- there's no learning in that. We need to understand them.
+
+Magukkal a tradíciókkal természetesen semmi baj nincs -- a lelkünknek fontos lehet a rituálé, lehet előre várni, struktúrát ad az évnek, stb.
+De nem kell túlzásokba esni, itt is csak egyszerűen!
+A dekoráció nagy valószínűséggel sok háztartásban megtizedelhető lenne -- nálunk például még a Karácsonyfa sem "élte túl" a tisztogatásokat.
+
+Szokjunk le az üdvözlőlapozásról is!
+A könyv szerint digitális _valami_ van helyette, de én még inkább a [Digitális Minimalizmust]({% post_url 2020-03-13-cal-newport-digital-minimalism %}) említeném itt (megint).
+Ha számít a kapcsolat, akkor beszélgessünk; ha nem, akkor meg ne!
+Illetve -- mint a gyerekeknél említettük -- itt is ajándékozzunk tárgyak helyett inkább élményeket!
+Vagy az időnket, a szakértelmünket, ehető vagy felhasználható dolgokat, stb.
+A _kapás_ oldalról pedig tudassuk mindenkivel jó előre, hogy milyen elveket követünk!
+
+Még egy megjegyzés a Húsvétról: érdemes megfontolni a böjtöt.
+Na persze _nem_ vallásos értelemben, csak hogy próbáljunk ki valami újat.
+És ez alatt érthetjük a szokásosabb lemondást, vagy valami _vállalását_ is.
+Ha előre tudjuk, hogy van lejárati ideje, akkor bizonyos szemszögből kockázatmentes, de mégis felrázhatja a hétköznapokat.
 
 5K ellenőrzőlista:
 
-1. Utasítsd vissza a kéretlen tárgyi ajándékokat; preferáld inkább a fogyasztható dolgokat!
-2. Egyszerűsítsd az ünnepi dekorációidat; adj esélyt az ehető dekorációknak!
-3. Cserélj, kölcsönözz, vagy vegyél használt jelmezeket!
-4. Gyűjtsd külön az édesség csomagolásokat és az üdvözlőlapokat!
-5. Komposztáld a Húsvéti tojáshéjakat és egyéb organikus ünnepi maradékokat!
+1. Utasítsuk vissza a kéretlen tárgyi ajándékokat; preferáljuk inkább a fogyasztható dolgokat!
+2. Egyszerűsítsük az ünnepi dekorációinkat; adjunk esélyt például az ehető dekorációknak!
+3. Cseréljünk, kölcsönözzünk, vagy vegyünk használt jelmezeket!
+4. Gyűjtsük külön az édesség csomagolásokat és az üdvözlőlapokat!
+5. Komposztáljuk a Húsvéti tojáshéjakat és egyéb organikus ünnepi maradékokat!
+
+<br />
+
+
+
 
 
 
@@ -525,24 +539,24 @@ Ha már az otthoni étrend rendben van, akkor nyugodtak lehetünk, hogy bent is 
 
 #### A szabadban
 
-- a házon kívül is ugyanazok az alapelvek vonatkoznak
-    - ha előre tervezel, akkor rengeteg szemét keletkezését ki tudod védeni
-    - legyen nálad edény a maradékoknak, termosz a kávénak, stb.
-- piknikezés vagy kemping esetén is komposztálhatunk
-    - csak ássunk neki egy kis gödröt vagy árkot, tegyük bele az organikus maradékokat, és takarjuk be földdel
-- a repülésnek nagyon durva az ökológiai lábnyoma, úgyhogy kerüljük, ha csak tudjuk
-- amíg elvagyunk, a házunkat/lakásunkat akár ki is adhatnánk egy kis plusz profitért
-    - ez valamilyen szinten velejárója lehet annak a szemléletnek, ha már nem azonosulunk annyira a cuccainkkal, hanem tényleg csak használjuk őket
+Ne felejtsük el, hogy a házon kívül is ugyanazok az alapelvek érvényesek.
+Ha előre tervezünk, akkor rengeteg szemét keletkezését eleve ki tudjuk védeni.
+Legyen nálunk edény a maradékoknak, termosz a kávénak, stb.
+Emellett akár piknikezés vagy kemping esetén is komposztálhatunk.
+Csak ássunk neki egy kis gödröt vagy árkot, tegyük bele az organikus maradékokat, és takarjuk be földdel.
+
+De attól, hogy kirándulunk, próbáljunk inkább közeli helyeket megcélozni a világ másik csücske helyett!
+A repülésnek nagyon durva az ökológiai lábnyoma, ezért csak elkerülhetetlen esetekben legyen az a megoldás!
 
 5K ellenőrzőlista:
 
-1. Készülj előre, hogy hirtelen helyzetekben is vissza tudd utasítani az extra szalvétákat, a szívószálakat, a repülőn a fülhallgatókat és hasonlókat!
-2. Csak akkor repülj, ha más lehetőséged nincs!
-3. Használj saját sampont a hotelekben is!
-4. Figyelj, hogy a kempinges cuccaidat is újrahasznosíthasd!
-5. Próbáld ki az árokkomposztálást, ha úton vagy szabadban vagy!
+1. Készüljünk előre, hogy hirtelen helyzetekben is vissza tudjuk utasítani az extra szalvétákat, a szívószálakat, és hasonló eldobható dolgokat!
+2. Csak akkor repüljünk, ha más lehetőségünk nincs!
+3. Használjunk saját sampont a hotelekben is!
+4. Figyeljünk rá, hogy a kempinges cuccainkat is újrahasznosíthatjuk!
+5. Próbáljuk ki az árokkomposztálást, ha úton vagy szabadban vagyunk!
 
-
+<br />
 
 
 
@@ -566,35 +580,36 @@ Ha már az otthoni étrend rendben van, akkor nyugodtak lehetünk, hogy bent is 
 
 ## A Zero Waste jelene és jövője
 
-A Zero Waste életmód előnyei:
-- anyagilag is megéri (kevesebb fogyasztás, tárolás, karbantartás, okosabb használat, eladások vagy bérbe adások)
-- egészségügyileg is megéri (a műanyag csomagolások mellőzése miatt nem kerülsz kapcsolatba annyi vegyszerrel)
-    - és emiatt nem mellesleg a szenny kaják nagyja is eltűnik
-- idő szempontjából is megéri (a vásárlás eltűnése és a háztartás egyszerűsödése miatt több idő jut fontosabb dolgokra)
+Remélhetőleg a fenti szekciók jól szemléltetik, hogy a Zero Waste életmód:
 
-- tudatlanság --> tudatosság --> cselekvés --> izoláció --> magabiztosság --> részvétel
-- ha eljutsz odáig, hogy már autópilótán mennek az elvek, kialakult a személyes rendszered, visszaadhatsz a közösségnek, ha:
+- Anyagilag is megéri -- kevesebb fogyasztás, tárolás, karbantartás, okosabb használat, eladások vagy bérbe adások;
+- Egészségügyileg is megéri -- a műanyag csomagolások mellőzése miatt nem kerülsz kapcsolatba annyi vegyszerrel, és emiatt nem mellesleg a szenny kaják nagyja is eltűnik; és
+- Idő szempontjából is megéri -- a vásárlás eltűnése és a háztartás egyszerűsödése miatt több idő jut fontosabb dolgokra!
 
-1. az életmód követe leszel
-    - magadon felül már másnak is segítesz elsajátítani ezeket a lépéseket
-2. hallatod a hangod
-    - ha valami még nem úgy van, ahogy szerinted kellene, szólj! kérd!
-    - beszélj tulajdonosokkal, írj leveleket
-3. kezdeményezel
-    - vagy akár csináld magad (non-profit vagy akár for-profit módon)
-    - szervezz dolgokat, tarts tanfolyamokat, vegyél részt a jogalkotásban, vagy építs céget egy ötleted köré
+És ezek mind élvezhetőek már ma, senkire és semmire nem kell várnunk.
+De attól, hogy fizikai akadályok épp nincsenek, kellemetlenségekkel természetesen találkozni fogunk az átállás alatt.
+Az "áldásos tudatlanságból" először mindig fájdalmas átpottyanni a tudatosságba.
+És ha innen a cselekvés felé vesszük az irányt, akkor egy nagy dózis izolációra is készülhetünk.
+Sokan fognak legyinteni, fintorogni, értetlenkedni és lenézni...
+De ezen a fázison csak át kell esni; utána az újdonsült tudatosságunk miatt magabiztosabbak leszünk, mint valaha.
 
+Előbb vagy utóbb eljutunk odáig, hogy már autópilótán mennek az elvek és kialakult a személyes rendszerünk.
+Ezen a ponton pedig akár el is kezdhetnénk visszaadni a közösségnek.
+Lehetünk mondjuk az életmód "követei", ahol magunkon felül már másnak is segíthetünk elsajátítani ezeket a lépéseket.
+Hallathatjuk a hangunkat, és szólhatunk, ha valami még nem úgy megy a világban, ahogy szerintünk kellene.
+És nem utolsó sorban persze kezdeményezhetünk is: szervezzünk dolgokat, tartsunk tanfolyamokat, vegyünk részt a jogalkotásban, vagy akár építsünk vállalkozást egy ötletünk köré.
 
+Sokáig fog tartani, mire az emberek megértik a Zero Waste-tel -- vagy akár csak úgy általánosságban a minimalizmussal -- kapcsolatban, hogy nem megfoszt az élvezetektől, hanem pont hogy helyet csinál a fontos dolgoknak az életedben!
+Napjaink szemete igazából csak gondatlan tervezés és elégtelen infrastruktúra eredménye.
+Egy optimális világban nem küzdeni kellene a szemét ellen, hanem a mentesség lenne a társadalmi alap.
 
-- sokáig fog tartani, mire az emberek megértik a zero waste-tel (vagy akár csak úgy általánosságban a minimalizmussal) kapcsolatban, hogy nem megfoszt az élvezetektől, hanem pont hogy helyet csinál a fontos dolgoknak az életedben!
-- napjaink szemete igazából csak gondatlan tervezés és elégtelen infrastruktúra
-- egy optimális világban nem küzdeni kellene a szemét ellen, hanem az lenne a társadalmi alap
-    - nem kellene visszautasítani, mert eleve nem adna senki, mert az pazarlás
-    - az anyagi "gazdagság" sem státuszt, hanem felelőtlen viselkedést jelentene a közvéleményben
-- tárgyak helyett legyen inkább az a hagyatékunk, hogy a következő nemzedéket ezekre az értékekre neveljük
-    - mi is rengeteget tehetünk, hogy előre lendítsük a világot a Zero Waste irányba
-    - de ha egy olyan generációt hagyunk magunk után, akik ezzel az értékrenddel nőttek fel, az a legbiztosabb hosszútávú stratégia
+Nem kellene visszautasítani, mert eleve nem adna senki -- mert az pazarlás!
+Az anyagi "gazdagság" sem státuszt, hanem felelőtlen viselkedést jelentene a közvéleményben.
+Tárgyak helyett legyen inkább az a hagyatékunk, hogy a következő nemzedéket ezekre az értékekre neveljük.
+Persze mi is rengeteget tehetünk, hogy előre lendítsük a világot a Zero Waste irányba.
+De ha egy olyan generációt hagyunk magunk után, akik ezzel az értékrenddel nőttek fel, az a legbiztosabb hosszútávú stratégia!
 
+<br />
 
 
 
@@ -616,3 +631,9 @@ A Zero Waste életmód előnyei:
 
 ## Összefoglalás
 
+- általános minimalizmus
+- alapelv: nem megvonás, hanem az értékrendünk fizikai megnyilvánulása
+    - senki nem vesz el tőlünk semmit
+- az itt felsorolt tippek is csak tippek -- mindenki úgy alkalmazza a saját életére, ahogy jónak látja...
+- a lényeg továbbra is annyi, hogy legyünk tudatosak, vizsgáljuk felül a világképünket, és vállaljuk a saját felelősségünket az ügyben.
+- ha ez átment, akkor elég lesz az 5K-t megjegyeznünk emlékeztetőnek. ha nem, akkor viszont valószínűleg nem lesz elég rendbe vágni a gardróbot...
