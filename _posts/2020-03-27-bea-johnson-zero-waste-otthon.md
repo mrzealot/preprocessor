@@ -42,11 +42,12 @@ Jól látszik tehát, hogy ezzel is túlzásba lehet esni, és idővel ehhez az 
 Megint az egyensúly a nehéz!
 De ha egyszer megvan, akkor sok pozitívummal járhat a módszer.
 A könyv állítása szerint mínusz 40% éves költség, több idő és energia másra, és érezhetően jobb egészség!
+Nyilván volt min javítani, de akkor is...
 
 A teljesen _zéró_ a mai világban kb. elérhetetlen.
 De nem is lenne praktikus elérni... És nem is fontos!
 Ami fontos, hogy felelősséget vállaljunk a jelenlegi helyzetért, szavazzunk a pénztárcánkkal, és megtegyük, amit lehet.
-A továbbiakban megtanulhatjuk a Zero Waste 5 alapelvét, helyiségenkénti és aktivitásonkénti tanácsokat kapunk a betartásukra, végül pedig áttekintjük a jelenlegi helyzetet és igyekszünk optimistán tekinteni a jövő felé:
+A továbbiakban megtanulhatjuk a Zero Waste 5 alapelvét, helyiségenkénti és aktivitásonkénti tanácsokat kapunk a betartásukra, végül pedig átvesszük a jelenlegi helyzetet és igyekszünk optimistán tekinteni a jövő felé:
 
 1. [Az 5 alapelv](#az-5-alapelv)
 2. [Konkrét tanácsok](#konkrét-tanácsok)
@@ -87,10 +88,10 @@ A továbbiakban megtanulhatjuk a Zero Waste 5 alapelvét, helyiségenkénti és 
 Attól, hogy kidobjuk a szemetet, még nem tűnik el; csak már nem látjuk.
 A környezetünket viszont akkor is mérgezi, ha nem látjuk!
 Ezt pedig úgy lehetne a leghatékonyabban orvosolni, ha eleve meg sem termelnénk azt a bizonyos szemetet.
-A Zero Waste (vagyis Nulla Hulladék... Nulladék?) egy erre irányuló fogyasztói filozófia, ahol az újrahasznosítás már csak az egyik utolsó mentsvár.
+A Zero Waste (vagyis Nulla Hulladék... _Nulladék?_) egy erre irányuló fogyasztói filozófia, ahol az újrahasznosítás már csak az egyik utolsó mentsvár.
 Nem meglepően megint inkább a hozzáállásunkon kell változtatnunk!
 
-Az eredeti, angol változatban a módszer alapja az **5R** (refuse, reduce, reuse, recycle, rot), ahol a hivatalos magyar fordítás sajnos nem tartotta meg a szellemes és emlékezetes kezdőbetű-egyezést.
+Az eredeti, angol változatban a módszer alapja az **5R** (refuse, reduce, reuse, recycle, rot), aminél a hivatalos magyar fordítás sajnos nem tartotta meg a szellemes és emlékezetes kezdőbetű-egyezést.
 De szerencsére pont tudom, hogy [Tóth Andi](https://hulladeknelkul.hu/) ezt a hiányosságot már pótolta!
 Így lesz az 5R-ből az 5K szabály, amiből az első kettő a megelőzésről, a harmadik a tudatos használatról, a 4-5. pedig a felelős eltüntetésről szól.
 
@@ -150,9 +151,10 @@ Nem szabad ezért túl erősen erre hagyatkozni!
 
 #### 5. **K**omposztálom
 
-A háztartási hulladék kb. harmada organikus, ami a szeméttelepen kifejezetten negatív lenne a hatása; komposztálva viszont újra hasznos lehet.
+A háztartási hulladék kb. harmada organikus, aminek a szeméttelepen kifejezetten negatív lenne a hatása.
+Komposztálva viszont újra hasznos lehet.
 Lakhelytől, technológiától, ártól, mérettől (és még kismillió szemponttól) függően rengeteg megoldás létezik.
-A részletekbe terveim szerint majd egy későbbi bejegyzésben visszatérünk, de addig is mindenki kezdjen barátkozni a gondolattal!
+A részletekre terveim szerint majd egy későbbi bejegyzésben visszatérünk, de addig is mindenki kezdjen barátkozni a gondolattal!
 Például manapság már a panel vagy a társas ház sem kifogás, megoldható!
 És érdemes is megoldani, mert a komposztálás jelképezi azt a zárt újrahasznosulási kört, amire az emberi modellnek is épülnie kellett volna!
 
@@ -200,7 +202,8 @@ Mindegyik az adott témához testre szabva tartalmazza például ugyanazt az ál
 - Megéri, hogy foglalja a helyet?
 - Újrahasznosítható?
 
-Ezek mellett sok a receptet is találhatunk -- kajához, tisztítószerhez, művészeti kellékekhez.
+Ha mindegyiken végigzongorázunk, látványos lesz az eredménye!
+Ezek mellett sok receptet is találhatunk -- kajához, tisztítószerhez, művészeti kellékekhez.
 A legfontosabb viszont akkor is az 5K alkalmazása, amire minden fejezet végén, összefoglalás jelleggel kitérünk.
 Na ezeket én is tovább osztanám a lentiekben, néhány vázlatpontommal karöltve:
 
@@ -222,13 +225,13 @@ Ezért igyekezzünk előnyben részesíteni a kimérős (csomagolásmentes) bolt
 Ezen a fronton kis hazánkban még nem kimondottabban járunk az élen, de már vannak kezdeményezések.
 
 A másik fontos tanulság, hogy mindig vigyük a saját tárolóinkat!
-És itt nem is csak a szatyorról van szó (ami nyilván legyen textil), de üvegekről és fedeles tárolókról is.
+És itt nem csak a szatyorról van szó (ami nyilván legyen textil), de üvegekről és fedeles tárolókról is.
 A szerző javaslata -- amit saját tapasztalatból megerősíthetek -- hogy a boltban legyünk magabiztos a különcségünkben!
 Csináljunk úgy, mintha mindig is így vásároltunk volna, és akkor kevesebben akadékoskodnak majd.
 Ha mégis azt mondják, hogy valamit nem lehet, akkor se higgyünk nekik vakon!
 Kérjük a menedzsert, még ha ez először "égő" is, és gyakran kiderül, hogy valahogy csak meg lehet oldani.
 
-Ha a boltban nincs kimérős, és a helyi termesztők is csak "nagyüzemi" mértékekben alkudoznak, akkor újabb tipp: alapíthatnánk egy vásárlói klubot.
+Ha a boltban nincs kimérős, és a helyi termelők is csak "nagyüzemi" mértékekben alkudoznak, akkor újabb tipp: alapíthatnánk egy vásárlói klubot.
 Többed-magunkban kihagyhatjuk a boltot, és már úgy hozzájuthatunk a termékekhez, amikor _még_ be sem csomagolták őket.
 Amit pedig megkapunk "hagyományosabban", azt is érdemes családi kiszerelésekben beszerezni.
 Ha rendesen tervezünk, akkor heti 1 bevásárlós kör elég lehet mindenhez, amivel rengeteg időt, energiát, és üzemanyagot megspórolhatunk.
@@ -239,7 +242,7 @@ Az állandó alapélelmiszerek (liszt, cukor, olaj, fűszerek, ...) mellett érd
 Például legyen egy _hüvelyesek_ üveg, amit egyszer babbal, egyszer lencsével töltünk meg.
 Ez változatos, de mégsem "egyszerre tárolós", így kisebb eséllyel romlik ránk.
 
-5K ellenőrzőlista:
+**5K ellenőrzőlista:**
 
 1. Utasítsuk vissza a csomagolt élelmiszereket és a zacskókat!
 2. Minimalizáljuk a konyhai eszközöket és alakítsunk ki állandó étrendet!
@@ -272,7 +275,7 @@ Személyes higiénia téren gondoljunk nagyanyáink és nagyapáink dolgaira, pr
 És habár gyógyszerek tekintetében elkerülhetetlen valamennyi csomagolás, maga az egészséges életmód rengeteget fog csökkenteni rajta.
 Nyilván nem az ilyen homeopátiás baromságokról van szó, de mondjuk házi tea/kenőcs/stb. jellegű tüneti kezelésekkel még tovább csökkenthető a bolti-receptes körök száma.
 
-5K ellenőrzőlista:
+**5K ellenőrzőlista:**
 
 1. Ne legyen 60-féle samponunk, és ne engedjük, hogy a szintetikus alapanyagok hazavágják az egészségünket!
 2. Használjunk többcélú termékeket a napi rutinjainkban!
@@ -306,17 +309,18 @@ Ez önmagában eltűntet egy csomó sallangot, de a gardróbon belül még nagyo
 > > The fashion industry is the prime example of [...] creat[ing] obsolescence in otherwise perfectly satisfactory goods.
 
 Úgy küzdhetünk ez ellen a leghatékonyabban, ha egy szigorú leltárt vezetünk be a ruhatárunknál.
-Ezután remélhetőleg magunktól is meglátjuk majd, mennyivel kevesebb is elég lenne, és megválunk a fölöslegtől.
-Karbantartásként pedig érdemes megfogadni, hogy változatlanul tartjuk létszámot.
+Miután szembesültünk mindenünkkel, remélhetőleg magunktól is meglátjuk majd, mennyivel kevesebb is elég lenne, és megválunk a fölöslegtől.
+Karbantartásként pedig érdemes megfogadni, hogy változatlanul tartjuk a létszámot.
 Vagyis innentől már csak úgy jöhet majd be bármi új, ha egy régi megy helyette.
 Ezek a módosítások segíthetnek kevesebb alapanyagból is nagyobb hasznot húzni, és önálló ruhadarabok helyett kombinációkban gondolkozni.
-Emellett a hely pazarlás és a reggeli "mit vegyek fel" paralízis ellen is nagyon hasznosak lesznek.
+Emellett a hely pazarlás és a reggeli "mit vegyek fel" paralízis ellen is nagyot léphetünk előre.
 
 A használt ruha gondolata nagyon idegen az USA-ban, de szerintem kis hazánkban nem annyira rossz a híre, hogy magasztalnom kelljen.
-Illetve az ex-divatmániás szerzőtől különösen erős az a javaslat, hogy az ékszerek -- mint hamis státusz szimbólumok és extra aggodalom -- helyett is inkább mosolyogjunk!
+Éljünk vele!
+Illetve az ex-divatmániás szerzőtől különösen erős az a javaslat, hogy az ékszerek -- mint hamis státusz szimbólumok és extra aggodalom források -- helyett is inkább mosolyogjunk!
 Emlékezzünk vissza [Vicki Robin]({% post_url 2020-03-20-vicki-robin-your-money-or-your-life %}) tanácsaira, és költsük okosan az életenergiánkat ezen a területen is!
 
-5K ellenőrzőlista:
+**5K ellenőrzőlista:**
 
 1. Álljunk ellen a trendeknek, legyen inkább stílusunk!
 2. Minimalizáljuk a bútorainkat és a ruhatárunkat is!
@@ -343,7 +347,7 @@ Emlékezzünk vissza [Vicki Robin]({% post_url 2020-03-20-vicki-robin-your-money
 
 Először azt a kérdést tegyük fel magunknak, hogy **mit** takarítunk.
 Mert egy nagy ház bizony teendővel jár.
-Szóval jól gondoljuk meg, hogy tényleg kell-e az az extra szoba-fürdő-kert-vendégház, vagy csak a státuszunkat akarjuk vele hirdetni!
+Szóval jól gondoljuk meg, hogy tényleg kell-e az az extra szoba-fürdő-kert-vendégház, vagy csak a társadalmi státuszunkat akarjuk vele hirdetni!
 
 A maradék élettérben viszont így is úgy is kell majd takarítani, ezért a másik kérdés, hogy ezt **hogyan** szeretnénk.
 Itt pedig az ecet és a szódabikarbóna az egyértelmű győztesek -- ezt asszonykám nálunk is elég jól megszívlelte.
@@ -358,7 +362,7 @@ Vizsgáljuk "optimalizáló" szemszögből a hétköznapjainkat, és biztosan le
 Az átállás nehézkes lehet, de hosszabb távon sokat csökkenthetünk a napi terheinken.
 A felszabaduló időben pedig foglalkozzunk inkább valami értelmesebbel -- mondjuk olvassunk többet!
 
-5K ellenőrzőlista:
+**5K ellenőrzőlista:**
 
 1. Utasítsuk vissza az egyszer használatos és antibakteriális tisztítószereket! 
 2. Használjunk (szinte) _csak_ ecetet és szódabikarbónát a takarításhoz!
@@ -392,7 +396,7 @@ Emellett feljön még a kéretlen levelek és szórólapok megszűrése, ahol ig
 A rengeteg szükségtelen papírhulladék csökkentése miatt viszont megéri, még ha kezdeményezést és energia befektetést igényel is!
 Mondjuk a szerző leírása alapján Amerikában elterjedtebbnek hangzik, mint nálunk, de azért persze itt is lenne mit javítani...
 
-5K ellenőrzőlista:
+**5K ellenőrzőlista:**
 
 1. Mondjunk nemet a névjegykártyákra, ajándékcsomagokra, tollakra, levelekre, hírújságokra, és szállítási csomagolásokra!
 2. Válasszunk minőségi íróeszközöket; így valószínűbb, hogy figyelünk is majd rájuk!
@@ -422,24 +426,24 @@ Mondjuk a szerző leírása alapján Amerikában elterjedtebbnek hangzik, mint n
 Eleve kezdjük ott a témát, hogy a bolygónk durván túlnépesedett, és egyáltalán nem biztos, hogy _kell_ gyerek!
 Nyilván továbbra is szabad választani, hogy legyen -- de ne az legyen az **alapértelmezett**, hogy "Hát még szép, hogy kell!".
 Legalább gondolkozzunk el rajta!
-És habár darabszámilag 2-nél még "csak" pótoltuk magunkat, ez fölé csak nagyon ésszel menjünk!
+És habár darabszámilag 2-nél még épphogy pótoltuk magunkat, ez fölé csak nagyon ésszel menjünk!
 Ha nagyon a darabszám a lényeg, fontoljuk meg az örökbefogadást!
 Ezektől függetlenül pedig _mindenképp_ tanítsuk meg a gyerekeknek, hogy vigyázzanak a környezetükre -- remélhetőleg példamutatással, mert mi is épp azt tesszük.
 
 Másik kényes téma, de akkor is bedobjuk a közösbe: a "gyerekek miatt nem lehet" az legtöbbször tényleg csak kifogás.
-Azért kerül szóba, mert a könyv szerint sokszor szoktak ezzel tiltakozni a zero waste életstílus ellen.
+Azért kerül szóba, mert a könyv szerint sokszor szoktak ezzel tiltakozni a Zero Waste életstílus ellen.
 Lássuk be, hogy ezt a szöveget azokra a dolgokra használjuk, amiket _mi_ magunk nem akarunk.
 És mivel társadalmilag nem elfogadott, hogy a nevelési stratégiába beleszólhat bárki is, ezért tudjuk, hogy várhatóan ez lesz a beszélgetés vége.
 Másoknak lehet hazudni -- amin, csak úgy megsúgom, mindenki átlát -- de magunknak miért?
 
-Más szemszögből: pont a gyerekek miatt lenne még fontosabb ezt az életmódot elsajátítani
+Más szemszögből: pont a gyerekek miatt lenne még fontosabb ezt az életmódot elsajátítani.
 Kevesebb igény = kevesebb munka = több idő a gyerekekre (is)!
 És szerintem a 20. kacat vagy konzol helyett nekik is jobb lesz, ha ott tudunk lenni mellettük.
 
 Konkrét tippek:
 
 - Szoktassuk őket napirendre, de ne pakoljuk tele a napjaikat mindennel!
-Hagyjunk nekik teret és struktúrálatlan időt.
+Hagyjunk nekik teret és struktúrálatlan időt is!
 - Tanuljunk meg nemet mondani!
 Limitáljuk a TV-t és társait; illetve ahogy nekünk is vissza kell utasítanunk sok mindent, tanítsuk ezt meg a gyerekeknek is.
 - Segítsünk nekik megérteni az értékrendünket!
@@ -451,10 +455,10 @@ Nem a gyerek hibája, hogy játszik velük, hanem a miénk, amiért egyáltalán
 Áldozzuk inkább rá az időt, és játsszunk velük!
 - Az iskolák sok külső dolgot "ránk kényszeríthetnek", vegyünk nagy levegőket!
 - Csomagoljunk nekik kaját!
-Ha már az otthoni étrend rendben van, akkor nyugodtak lehetünk, hogy bent is azt eszi-e a gyerek.
+Ha már az otthoni étrend rendben van, akkor így nyugodtak lehetünk, hogy bent is rendesen eszik-e a gyerek.
 
 
-5K ellenőrzőlista:
+**5K ellenőrzőlista:**
 
 1. Utasítsuk vissza az ingyen cuccokat, extra iskolai papírokat és a laminálást!
 2. Egyszerűsítsük a játékokat és az iskola utáni aktivitásokat!
@@ -511,10 +515,10 @@ Na persze _nem_ vallásos értelemben, csak hogy próbáljunk ki valami újat.
 És ez alatt érthetjük a szokásosabb lemondást, vagy valami _vállalását_ is.
 Ha előre tudjuk, hogy van lejárati ideje, akkor bizonyos szemszögből kockázatmentes, de mégis felrázhatja a hétköznapokat.
 
-5K ellenőrzőlista:
+**5K ellenőrzőlista:**
 
 1. Utasítsuk vissza a kéretlen tárgyi ajándékokat; preferáljuk inkább a fogyasztható dolgokat!
-2. Egyszerűsítsük az ünnepi dekorációinkat; adjunk esélyt például az ehető dekorációknak!
+2. Egyszerűsítsük az ünnepi díszítést; adjunk esélyt például az ehető dekorációknak!
 3. Cseréljünk, kölcsönözzünk, vagy vegyünk használt jelmezeket!
 4. Gyűjtsük külön az édesség csomagolásokat és az üdvözlőlapokat!
 5. Komposztáljuk a Húsvéti tojáshéjakat és egyéb organikus ünnepi maradékokat!
@@ -548,7 +552,7 @@ Csak ássunk neki egy kis gödröt vagy árkot, tegyük bele az organikus marad�
 De attól, hogy kirándulunk, próbáljunk inkább közeli helyeket megcélozni a világ másik csücske helyett!
 A repülésnek nagyon durva az ökológiai lábnyoma, ezért csak elkerülhetetlen esetekben legyen az a megoldás!
 
-5K ellenőrzőlista:
+**5K ellenőrzőlista:**
 
 1. Készüljünk előre, hogy hirtelen helyzetekben is vissza tudjuk utasítani az extra szalvétákat, a szívószálakat, és hasonló eldobható dolgokat!
 2. Csak akkor repüljünk, ha más lehetőségünk nincs!
@@ -583,11 +587,11 @@ A repülésnek nagyon durva az ökológiai lábnyoma, ezért csak elkerülhetetl
 Remélhetőleg a fenti szekciók jól szemléltetik, hogy a Zero Waste életmód:
 
 - Anyagilag is megéri -- kevesebb fogyasztás, tárolás, karbantartás, okosabb használat, eladások vagy bérbe adások;
-- Egészségügyileg is megéri -- a műanyag csomagolások mellőzése miatt nem kerülsz kapcsolatba annyi vegyszerrel, és emiatt nem mellesleg a szenny kaják nagyja is eltűnik; és
+- Egészségügyileg is megéri -- a műanyag csomagolások mellőzése miatt nem kerülünk kapcsolatba annyi vegyszerrel, és emiatt nem mellesleg a szenny kaják nagyja is eltűnik; és
 - Idő szempontjából is megéri -- a vásárlás eltűnése és a háztartás egyszerűsödése miatt több idő jut fontosabb dolgokra!
 
 És ezek mind élvezhetőek már ma, senkire és semmire nem kell várnunk.
-De attól, hogy fizikai akadályok épp nincsenek, kellemetlenségekkel természetesen találkozni fogunk az átállás alatt.
+Persze attól, hogy fizikai akadályok épp nincsenek, kellemetlenségekkel természetesen találkozni fogunk az átállás alatt.
 Az "áldásos tudatlanságból" először mindig fájdalmas átpottyanni a tudatosságba.
 És ha innen a cselekvés felé vesszük az irányt, akkor egy nagy dózis izolációra is készülhetünk.
 Sokan fognak legyinteni, fintorogni, értetlenkedni és lenézni...
@@ -595,19 +599,19 @@ De ezen a fázison csak át kell esni; utána az újdonsült tudatosságunk miat
 
 Előbb vagy utóbb eljutunk odáig, hogy már autópilótán mennek az elvek és kialakult a személyes rendszerünk.
 Ezen a ponton pedig akár el is kezdhetnénk visszaadni a közösségnek.
-Lehetünk mondjuk az életmód "követei", ahol magunkon felül már másnak is segíthetünk elsajátítani ezeket a lépéseket.
+Lehetünk mondjuk az életmód "nagykövetei", ahol magunkon felül már másnak is segíthetünk elsajátítani ezeket a lépéseket.
 Hallathatjuk a hangunkat, és szólhatunk, ha valami még nem úgy megy a világban, ahogy szerintünk kellene.
-És nem utolsó sorban persze kezdeményezhetünk is: szervezzünk dolgokat, tartsunk tanfolyamokat, vegyünk részt a jogalkotásban, vagy akár építsünk vállalkozást egy ötletünk köré.
+És nem utolsó sorban persze kezdeményezhetünk is: szervezzünk dolgokat, tartsunk tanfolyamokat, vegyünk részt a jogalkotásban, vagy akár építsünk vállalkozást egy öko-ötletünk köré.
 
-Sokáig fog tartani, mire az emberek megértik a Zero Waste-tel -- vagy akár csak úgy általánosságban a minimalizmussal -- kapcsolatban, hogy nem megfoszt az élvezetektől, hanem pont hogy helyet csinál a fontos dolgoknak az életedben!
+Sokáig fog tartani, mire az emberek megértik a Zero Waste-tel -- vagy akár csak úgy általánosságban a minimalizmussal -- kapcsolatban, hogy nem megfoszt az élvezetektől, hanem pont hogy helyet csinál a fontos dolgoknak az életünkben!
 Napjaink szemete igazából csak gondatlan tervezés és elégtelen infrastruktúra eredménye.
 Egy optimális világban nem küzdeni kellene a szemét ellen, hanem a mentesség lenne a társadalmi alap.
 
 Nem kellene visszautasítani, mert eleve nem adna senki -- mert az pazarlás!
 Az anyagi "gazdagság" sem státuszt, hanem felelőtlen viselkedést jelentene a közvéleményben.
 Tárgyak helyett legyen inkább az a hagyatékunk, hogy a következő nemzedéket ezekre az értékekre neveljük.
-Persze mi is rengeteget tehetünk, hogy előre lendítsük a világot a Zero Waste irányba.
-De ha egy olyan generációt hagyunk magunk után, akik ezzel az értékrenddel nőttek fel, az a legbiztosabb hosszútávú stratégia!
+Persze mi magunk is rengeteget tehetünk, hogy előre lendítsük a világot a Zero Waste irányba.
+De a legbiztosabb hosszútávú stratégia az, ha egy olyan generációt hagyunk magunk után, akik ezzel az értékrenddel nőttek fel!
 
 <br />
 
@@ -631,9 +635,13 @@ De ha egy olyan generációt hagyunk magunk után, akik ezzel az értékrenddel 
 
 ## Összefoglalás
 
-- általános minimalizmus
-- alapelv: nem megvonás, hanem az értékrendünk fizikai megnyilvánulása
-    - senki nem vesz el tőlünk semmit
-- az itt felsorolt tippek is csak tippek -- mindenki úgy alkalmazza a saját életére, ahogy jónak látja...
-- a lényeg továbbra is annyi, hogy legyünk tudatosak, vizsgáljuk felül a világképünket, és vállaljuk a saját felelősségünket az ügyben.
-- ha ez átment, akkor elég lesz az 5K-t megjegyeznünk emlékeztetőnek. ha nem, akkor viszont valószínűleg nem lesz elég rendbe vágni a gardróbot...
+Láthattunk tehát egy sor általános minimalista alapelvet a hulladékmentesség és a környezetvédelem szemszögéből -- egyben, és szobánkénti bontásban is.
+És habár némelyik terület jellemzően Amerikaibb hozzáállást takar, nekünk sem árt a lecke.
+Valószínűnek tartom, hogy mi is csak azért nem pazarlunk USA-szintű látványossággal, mert nincs miből.
+Ha lenne, sokan egyből leszállnának a morális magas lóról -- és mennének egyenesen a plázába.
+
+Higgyük el, hogy a könyv nem a megvonásról, hanem az értékrendünk helyrebillentéséről (és annak fizikai megnyilvánulásáról) szól!
+Senki nem vesz el tőlünk semmit!
+Az felsorolt tippek sem kötelezőek -- mindenki úgy alkalmazza a saját életére, ahogy jónak látja...
+A lényeg továbbra is annyi, hogy legyünk tudatosak, vizsgáljuk felül a világképünket, és vállaljuk a saját felelősségünket az ügyben.
+Ha ez átment, akkor elég lesz az 5K-t megjegyeznünk emlékeztetőnek, és rendben leszünk.
