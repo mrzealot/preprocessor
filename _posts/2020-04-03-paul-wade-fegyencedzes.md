@@ -111,7 +111,7 @@ A teljes "csomag".
 Csak nézzük meg például a tornászokat.
 
 6. Természetesen szabályozza a testsúlyt!
-Vagy legalábbis természetesen _ösztönöz_ a testsúlyunk párhuzamos szabályzására.
+Vagy legalábbis természetesen _ösztönöz_ a testsúlyunk párhuzamos szabályozására.
 Nagy béllel is lehet nagyot fekve nyomni, de egy kezes húzódzkodást csinálni nem igazán.
 
 Szerencsére a börtönök egyfajta buborékként működtek ebből a szempontból, és megőrizték a régi iskolát.
@@ -298,7 +298,7 @@ A "kis aranyos" fitness kockahasak helyett az _igazi_, "pokoli" hasat részesít
 Fontos, hogy hajlékony legyen, hatékonyan védjen és a szerveket is rendesen "tartsa".
 Ennek eléréséhez pedig a lábemelés az első számú ajánlás.
 
-Sokban hasonlítanak a felüléssel, hiszen nyilván ott kell meghajlanunk mindenképpen.
+Sokban hasonlítanak a felüléssel, hiszen nyilván ugyanott kell meghajlítanunk magunkat.
 A lábemelés azonban egy természetesebb komplex mozdulatra képzi ki az idegrendszert, közvetetten több izmot mozgat és nem kell hozzá felszerelés -- a progresszivitás miatt a felüléshez idővel kellene.
     
 Általános tippek:
@@ -310,7 +310,7 @@ Nehogy szó szerint sérvet kapjunk.
 Erre mellesleg érdemes csak úgy általánosságban, nap közben is figyelni.
 - Hagyjunk ki legalább 2 órát kaja után, hogy ne legyen tele a gyomrunk!
 - Az _egyenes_ lábemelésben nagyon fontos szerepet játszik a hátsó comb izom is -- szóval érdemes nyújtani, ha az akadályozza a helyes formát!
-- Egyértelműnek hangozhat, de azért ismételjük át: **nem** a has edzéstől tűnik kockás a hasunk, hanem az alacsony testzsírszázaléktól!
+- Egyértelműnek hangozhat, de azért ismételjük át: **nem** a has edzéstől tűnik kockásnak a hasunk, hanem az alacsony testzsírszázaléktól!
 És csak hogy hátul is hallják: **nincs** olyan, hogy lokális zsírvesztés, és mi csak a hasunkról faragnánk le egy kicsit.
 Úgyhogy csináljuk az erősítés szellemében a gyakorlatainkat, a szálkás definíciót pedig keressük inkább a konyhában!
 - Ide is vonatkozik a figyelmeztetés: nem "lengetni" kell a lábakat -- szép lassú, kontrollált mozdulatok legyenek!
@@ -391,7 +391,7 @@ Mindegy, megint kockulok...
 
 Az utolsó gyakorlattal a vállakat célozzuk meg, amik kb. a gerinchez hasonló, közvetítői szerepet játszanak minden kézmozdulatnál -- szóval nélkülük nem nagyon menne semmi.
 Viszont szinte minden modern edzésféle előbb vagy utóbb sérüléshez vagy fájdalomhoz vezet a rotátorköpenyben.
-Ezzel a fura névvel négy izom együttesét hívjuk a vállban, amik a nevükből sejthetően a kar forgatásáért felelnek.
+Ezzel a fura névvel négy izom együttesére gondolunk a vállban, amik a nevükből sejthetően a kar forgatásáért felelnek.
 És míg a környező nagy izmok -- amik az előre-hátra, és fel-le mozgásokért felelnek -- jól bírják a terhelést, a rotátorköpeny nem annyira.
 
 Erre sokaknak annyi a "megoldása", hogy egyszerűen elfogadják: a nagy vállak mellé a fájdalom kötelezően jár.
@@ -423,7 +423,7 @@ Higgyük el, magától nem fog akarni teljesen szétállni, mert pont abból len
 - Érdemes először a sima fekvőtámasz 6. lépéséig eljutni, és csak utána kezdeni ezt a sorozatot!
 
 Fejlődés téren az első félben a fejjel lefelé fordulás megszokásától eljutunk a rendes fő gyakorlatig, és aztán a második szakaszban súlyokat teszünk a lábunkra, hogy... **Neeem!**
-Csak tesztelem, hogy figyeltek-e még; természetesen utána itt is féloldalasítunk és egykezesítjük.
+Csak tesztelem, hogy figyeltek-e még; természetesen utána itt is féloldalasítunk és fokozatosan elhagyjuk az egyik kezünket.
 (Ft. = fekvőtámasz, csak hogy ne legyen olyan sok sortörés.)
 
 1. Fejenállás fal mellett -- Wall headstands -- `2 perc`
@@ -462,7 +462,7 @@ Nem mondhatja meg nekünk senki, hogy pontosan hogy csináljuk -- még ha ő mag
 
 A bemelegítést nem kell túlgondolni, elég relatíve röviden tartani.
 Érdemes azt a gyakorlatot csinálni, amit edzeni is szeretnénk, csak az egyszerűbb verzióit, és magasabb ismétlésszámmal.
-Tempó szempontjából pedig az a leglényegesebb, hogy ne hagyjuk ki a kezdetibb lépéseket!
+Tempó szempontjából pedig az a leglényegesebb, hogy ne hagyjuk ki a kezdeti lépéseket!
 Egyrészt hova sietünk?!
 Másrészt csak azért, mert azok könnyűnek tűnnek, még nem jelenti, hogy nem tanulhatunk közben.
 Mondjuk helyes légzéstechnikát, stabilitást, pozitív és negatív sebességet, stabilan tartott törzset, stb.
@@ -521,7 +521,7 @@ Nincs ilyen, hogy "van-e kedvem"...
 Megcsinálod, amit meg kell csinálni, és kész.
 Utána ott lesz majd a jóleső sikerélmény, ami helyett lehetett volna a nagy semmi is.
 Valljuk be őszintén, eddig maximum olyan volt, hogy az edzés kihagyását bántuk meg.
-Én legalább is az edzést magát még soha.
+Legalábbis én személy szerint az edzést magát még soha.
 
 A "csengő szerint élni" kint is lehet, csak felelősséget kell vállalnunk a saját rendszerünkért.
 Akinek pedig ez _nem fér be_ a napjába, annak valahol nagyon eltorzult az értékrendje.
