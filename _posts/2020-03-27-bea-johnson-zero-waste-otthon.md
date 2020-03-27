@@ -47,7 +47,7 @@ Nyilván volt min javítani, de akkor is...
 A teljesen _zéró_ a mai világban kb. elérhetetlen.
 De nem is lenne praktikus elérni... És nem is fontos!
 Ami fontos, hogy felelősséget vállaljunk a jelenlegi helyzetért, szavazzunk a pénztárcánkkal, és megtegyük, amit lehet.
-A továbbiakban megtanulhatjuk a Zero Waste 5 alapelvét, helyiségenkénti és aktivitásonkénti tanácsokat kapunk a betartásukra, végül pedig átvesszük a jelenlegi helyzetet és igyekszünk optimistán tekinteni a jövő felé:
+A továbbiakban megtanulhatjuk a Zero Waste 5 alapelvét, helyiségenként és aktivitásonként kapunk tanácsokat a betartásukra, végül pedig átvesszük a jelenlegi helyzetet és igyekszünk optimistán tekinteni a jövő felé:
 
 1. [Az 5 alapelv](#az-5-alapelv)
 2. [Konkrét tanácsok](#konkrét-tanácsok)
@@ -270,10 +270,10 @@ Ezért nekünk már csak azokat a recepteket mutatja be, amik bejöttek: szappan
 A szépítkezésben az egyik legnagyobb lépés -- mint ahogy más terülteken is! -- ha szarunk a média kampányokra, amit elhitetik velünk, hogy egy csomó mindenre szükségünk van.
 Ha épp valami drágától kellene megválnunk, tekintsük tanulópénznek.
 Az új szokásaink később sokszorosan megtérítik majd!
-
 Személyes higiénia téren gondoljunk nagyanyáink és nagyapáink dolgaira, próbáljuk inkább azt a kort megidézni!
-És habár gyógyszerek tekintetében elkerülhetetlen valamennyi csomagolás, maga az egészséges életmód rengeteget fog csökkenteni rajta.
-Nyilván nem az ilyen homeopátiás baromságokról van szó, de mondjuk házi tea/kenőcs/stb. jellegű tüneti kezelésekkel még tovább csökkenthető a bolti-receptes körök száma.
+
+Gyógyszerek tekintetében pedig elkerülhetetlen valamennyi csomagolás, de maga az egészséges életmód rengeteget fog csökkenteni rajta.
+Nyilván nem az ilyen homeopátiás baromságokról van szó, de mondjuk házi jellegű tüneti kezelésekkel (tea, krém, stb.) még tovább csökkenthető a gyógyszertári, receptes körök száma.
 
 **5K ellenőrzőlista:**
 
@@ -463,7 +463,7 @@ Ha már az otthoni étrend rendben van, akkor így nyugodtak lehetünk, hogy ben
 1. Utasítsuk vissza az ingyen cuccokat, extra iskolai papírokat és a laminálást!
 2. Egyszerűsítsük a játékokat és az iskola utáni aktivitásokat!
 3. Vegyünk használt ruhákat és iskolai kellékeket!
-4. Alakítsuk a szemetünk egy részét művészeti kellékekké!
+4. Alakítsuk a szemetünk egy részét művészeti kellékké!
 5. Komposztáljuk a művészkedéses maradékokat!
 
 <br />
@@ -642,6 +642,6 @@ Ha lenne, sokan egyből leszállnának a morális magas lóról -- és mennének
 
 Higgyük el, hogy a könyv nem a megvonásról, hanem az értékrendünk helyrebillentéséről (és annak fizikai megnyilvánulásáról) szól!
 Senki nem vesz el tőlünk semmit!
-Az felsorolt tippek sem kötelezőek -- mindenki úgy alkalmazza a saját életére, ahogy jónak látja...
+A felsorolt tippek sem kötelezőek -- mindenki úgy alkalmazza a saját életére, ahogy jónak látja...
 A lényeg továbbra is annyi, hogy legyünk tudatosak, vizsgáljuk felül a világképünket, és vállaljuk a saját felelősségünket az ügyben.
 Ha ez átment, akkor elég lesz az 5K-t megjegyeznünk emlékeztetőnek, és rendben leszünk.
