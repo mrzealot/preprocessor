@@ -65,7 +65,7 @@ A tartalomjegyzék kisebb szerkezeti átalakítások után a következőként al
 
 ## Makrók és hormonok
 
-Kezdjük a legfontosabbal: az izomzatunk és a napi aktivitási szintünk meghatározza, hogy mennyi kalóriára van szükségünk.
+Kezdjük a legfontosabbal: az izomzatunk (és az aktivitási szintünk) határozza meg, hogy naponta mennyi kalóriára van szükségünk.
 Ha legalább ennyit -- vagy ennél többet -- eszünk, akkor **nem** lesz súlyvesztés.
 Miért lenne?!
 A kalóriákkal a bevitt energia mennyiséget mérjük, és ha a szervezetünk megkapja az energiát, amire szüksége van, akkor mi a fenéért nyúlna a zsírtartalékokhoz?
@@ -82,7 +82,7 @@ Ha a csicsás kifejezés nem is ismerős, a fajtái biztosan: így hívjuk együ
 
 - A **fehérjék** grammonként 4 kalóriát tartalmaznak, és az izmok építéséhez elengedhetetlenek. Egyelőre ennyit elég is róluk tudnunk.
 - A **szénhidrátok** esetében szintén 4 kalória / gramm, és erősen meg kell különböztetnünk az egyszerű (cukor, "rossz") és összetett (zöldség, "jó") változatokat.
-- A **zsírok** grammonként 9 (!) kalóriát jelentenek, és itt pedig a telített (szobahőmérsékleten szilárd) és telítetlen (szobahőmérsékleten folyékony) között teszünk különbséget.
+- A **zsírok** grammonként 9 (!) kalóriát jelentenek, és itt pedig a telített (szobahőmérsékleten szilárd) és telítetlen (szobahőmérsékleten folyékony) változatok között teszünk különbséget.
 
 Ezekből mind vércukor lesz (valahogy), amit aztán energiaként hasznosítunk.
 A testünk viszont relatíve szigorú keretek között szeretné tartani a vércukor szintünket, amire hormonokat használ.
@@ -94,12 +94,21 @@ Az inzulin kvázi ellentéte pedig a **glukagon**, ami akkor aktiválódik, ha a
 Ő ilyenkor elkezdi visszalapátolni a raktárakból a cukrot a vérbe, illetve segíti a _leplombált_ zsírsejtek megnyitását is a plusz energiáért.
 Ellentétes szerepe miatt mindig kb. egyensúlyban kell lennie az inzulinnal: ha az egyikből sok van, akkor a másikból annyival kevesebb lesz.
 
-Mi itt a kajálástól a zsírvesztésig szeretnénk eljutni, úgyhogy a fentiek ismeretében ismételjünk egy kicsit:
+Mi itt ugye jó esetben a kajálástól a zsírvesztésig szeretnénk eljutni, úgyhogy a fentiek ismeretében ismételjünk egy kicsit:
 
 1. A makrótápanyagaink (fehérje/szénhidrát/zsír) szintjét az határozza meg, hogy mit eszünk.
 2. A zsírosodást és zsírtalanodást pedig az határozza meg, hogy hogy áll épp az inzulin/glukagon egyensúlyunk.
 
 Ezek után már "csak" annyi kell, hogy megvizsgáljuk a makrók hatását a hormonjainkra.
+
+<br />
+
+
+
+
+
+
+
 
 
 
@@ -117,35 +126,48 @@ Ezek után már "csak" annyi kell, hogy megvizsgáljuk a makrók hatását a hor
 
 ## Makrók kontra hormonok
 
-- carb típusok magyarázata, ugyanaz lesz velük, de más tempóban (és ez a lényeg) 
-    - az egyszerű szénhidrátok nagyobb inzulin tüskét okoznak, mint a komplexek
-- a komplexen belül vannak "rostos" carbok, amik még tovább lassítják a felszívódás sebességét
-- most jön a gond: kevés rost és sok egyszerű carb inzulin-ilag olyan, mint a túlevés
-    - még akkor is, ha kalória-ilag beleférnél a keretedbe
-- kis segédek
-    - a sok inzulin magasabb LPL szintet is eredményez, ami miatt a zsírt bontani sem lehet
-    - és mint látjuk, ehhez nem is feltétlen kell túlenni!!!
-- a glukagon pont az ellentét
-    - neki is van kis segédje, HSL, ami meg felszabadítja a zsírt
-- ha egyszerre vannak jelen, akkor a glukagon kb. visszafogja az inzulint egy kicsit
-- ha a zsír inzulinnal van jelen, akkor több raktározódik belőle
-- az arány azért fontos, mert máshogy hatnak a hormonokra
-    - ezért máshogy menne a tárolásuk, ha más megosztásban vinnél be akár pont ugyanennyi kalóriát!
+Itt áll (remélhetőleg) össze, hogy a mennyiségen felül miért számít a minőség is.
+A különböző makrók ugyanis jelentősen eltérő hatással vannak a hormonjainkra és a zsírháztartásunkra.
 
-- inzulinérzékenység kialakulása
-    - főleg telített zsírok rendszeres fogyasztása
-    - de: stressz, dohányzás, drogok, alkohol, edzés hiánya, sok egyszerű carb, kevés rost, nagy testzsír százalék
-    - ekkor az alap mennyiség nem elég, ezért kapsz még
-    - emiatt meg aztán tényleg minden zsírban köt ki, bontás meg nincs (LPL)
+**A szénhidrátoknál a felszívódási sebesség a fontos!**
+Az egyszerűek egyszerűen (vagyis gyorsan) szívódnak fel, ami miatt hirtelen megdobják a vércukor szintünket.
+Erre a válasz természetesen egy _nagy_ löket inzulin, és sok inzulin mellett akkor is mehet zsírraktározás, ha amúgy a napi kalóriabevitelünk deficitben van.
+És _ez_ az, amit sokan figyelmen kívül hagynak!
 
-- a kövérség csak még jobban rátesz erre az egész inzulin mizériára
-    - aki kövér, annak sokkal szigorúbban kell figyelnie a dolgokra, mert a teste bizonyos értelemben "kövérségre van beállva"
+Megoldásként válasszuk az összetett, lassabban és fokozatosabban felszívódó szénhidrátokat (zöldségek, hüvelyesek, teljes kiőrlésű dolgok), amik akár ugyanannyi kalória mellett sem eredményeznek olyan magas inzulin szintet.
+Sőt, a bennük lévő rost -- egy valag más pozitív hatása mellett -- tovább lassítja az egyéb tápanyagok felszívódását is.
 
+Szóval a logikus "sok szénhidrát = sok inzulin" mellé jegyezzük meg egy lényeges kiegészítésnek: akkor is lehet sok inzulin, ha viszonylag kevés, de gyorsan felszívódó szénhidrátot fogyasztunk.
+És sok inzulin mellett ugye több minden megy zsírba, és mellesleg nem lehet zsírt veszteni!
 
-- az inzulinszint a vércukor függvénye
-    - ha gyorsan nagyon tele leszünk, akkor sok
-    - ha szép lassan fokozatosan, akkor kevés
+**A zsírok aránya az elraktározott zsír mennyiségét befolyásolja!**
+Ha a sok zsírral egyszerre magas az inzulinunk, akkor az amúgy is elvárható zsírtárolás alkalmával többet rakunk el.
+Ezért, habár kelleni épp kell némi zsiradék is az étrendünkbe, csak ésszel!
 
+Ezen belül is igyekezzünk a telítetlen zsírokat (olajok, magvak) előnyben részesíteni.
+Igaz, hogy kis dózisban a telítettekre is szükség van, de nagy mennyiségekben egy csomó rossz hatásuk lehet.
+Sűrítik a vért, és ezzel párhuzamosan az ereket meg pont szűkítik.
+A BuilderShop hasonlatával élve: "Mintha csak egy szűk szívószálon keresztül szeretnénk tejbegrízt enni".
+
+**A fehérjék a glukagon termelést stimulálják!**
+A glukagon pedig mondhatni "visszafogja" az inzulin raktározó hatását, és emellett még a zsírbontást is támogatja.
+Arról nem is beszélve, hogy a fehérjék milyen fontos szerepet játszanak az izmok karbantartásában és fejlődésében.
+
+Ezekből pedig jól látszik, miért nem elég a kalóriák számolgatása, ha közben csipszet és csokit eszünk.
+Jegyezzük meg, hogy a kalóriák mellett az inzulin a másik nagy játékos a helyes táplálkozásban és a zsírraktáraink féken tartásában!
+Ügyelnünk kell a _mennyit?_ mellett a _mit?_ kérdésére is, mert egy adott kalóriamennyiséget két különböző makró-megosztás hatására két nagyon eltérő módon is tárolhatunk.
+Ha ezt a tényt sokáig figyelmen kívül hagyjuk, akkor egyre mélyebb gödörbe fogunk kerülni -- ahonnan ráadásul egyre nehezebb lesz kimászni.
+
+A gödör alatt természetesen a kövérséget értem, de térjünk ki egy kicsit az "egyre nehezebb kimászást" ihlető **inzulinérzékenység**re is.
+Ez annyit takar, hogy az izmaink -- részben a rendszeresen magas inzulinszinthez alkalmazkodva -- egyre kevésbé lesznek érzékenyek az inzulinra, és ezért egyre nehezebben tárolnak majd vércukrot.
+De a szervezet ugye továbbra is szinten akarja tartani a vércukorszintet, ezért még több inzulint termel és valahova csak azért is betuszkolja a fölösleget!
+Ha az izmokba nem meg, akkor majd megy a zsírba.
+
+Ezt tovább tetézhetjük sok telített zsír fogyasztásával -- ami szintén roncsolják az izmaink inzulin érzékenységét -- de a stressz, a dohányzás, a drogok, az alkohol, az edzés hiánya, a sok egyszerű szénhidrát, a kevés rost és a nagy testzsír százalék is rátehet egy lapáttal.
+Magyarán szólva: aki kövér, annak még a szervezete is bizonyos értelemben "kövérségre van beállva".
+Persze soha nem késő visszafordulni, csak ahogy mondtuk, egyre nehezebb lesz.
+
+<br />
 
 
 
@@ -168,33 +190,38 @@ Ezek után már "csak" annyi kell, hogy megvizsgáljuk a makrók hatását a hor
 
 ## Evolúció és genetika
 
+Érthető -- de sajnos helytelen -- reakció lenne, ha az eddigiek fényében azt mondanánk: "Ez túl bonyolult, inkább koplalok!"
+Elvégre akkor biztos a kalória deficit _és_ az alacsony inzulin szint is, nem?
+A legdurvább az egészben, hogy egy darabig még úgy is tűnne, hogy eredményes a módszer és szépen haladunk.
+Persze ez csak illúzió...
 
-- mondhatnánk, hogy "Hát jó, akkor nem koplalok, és kész"
-- sajnos nem
-- egy darabig lehet, hogy eredményesnek **tűnik**, de aztán megáll
+A "gond" az, hogy a testünk egy finomhangolt túlélő gépezet.
+És a túlélés nem feltétlenül kompatibilis a fitness magazinok címlapjaival.
+A szervezetünk az evolúció során arra fejlődött, hogy átvészelje az éhezéseket is.
+Ezért tartós kalóriahiány esetén hosszú távra tervez.
 
-- a testünk egy túlélő gépezet
-    - arra fejlődött az evolúció során, hogy éhezéseket is átvészeljen
-    - napjaink bőségéhez nem volt idő alkalmazkodni, úgyhogy muszáj lesz _ésszel_ hozzáállnunk
+Emlékszünk még, hogy azt mondtuk: "az izomzatunk határozza meg, hogy naponta mennyi kalóriára van szükségünk"?
+Na, hát a szervezetünk nem hülye.
+Ha azt hiszi, hogy éhezés jön, akkor nem a nagy izomzathoz passzoló ütemben kezdi el felemészteni a tartalékokat, hanem először is leépíti az izmokat.
+Így már kevesebb kalória is elég lesz a napi fenntartáshoz, amit a jelenlegi tartalékokból tovább tud majd fedezni.
 
-- a zsír nem állandó, hanem folyton felszabadul és új rakódik le a helyére
-    - szóval nem koplalni kell, hogy ne menjen be semmi
-    - csak úgy enni, hogy akadályozzuk az új zsír lerakódását
-    - és akkor a folyamatos kis égetgetés idővel leolvasztja a felesleget
+Szóval lehet fogyni a koplalással, és a mérleg mutatni is fogja.
+A baj csak az, hogy ez izomból (és az izom által megkötött vízből) megy.
+Ezzel pedig csökkentjük a napi kalória szükségletünket is.
+Vagyis ha egyszer újra enni kezdünk, a korábbi étrendünk arányaiban már még rosszabbnak számít majd, és gyorsan szalad minden fölösleg a raktárakba.
+Zsírt veszteni úgy kell tehát, hogy szép óvatosan "rávesszük" a testünket -- maximum 10-15% kalóriacsökkentéssel, és helyes táplálkozással.
 
-- éhezési mód említése --> túlélés volt a cél, nem a fitness címlap
-    - előbb a BMR-t csökkentjük le, hogy aztán majd a zsírraktárak tovább elegek legyenek
-    - úgy kell zsírt veszteni, hogy szép óvatosan "rávesszük" a testünket
-    - ha kényszeríteni próbáljuk, akkor megmakacsolja magát, és csak azért sem!
-        - ha meg pont ez után akarunk bekajálni, akkor az meg az anyagcsere lassulás miatt pláne zsírba megy
-    - max 10-15%!
+Sokan küszködnek az eddigiekkel, és a kudarcokat követő reakciókat embere válogatja.
+Kiemelném azonban az egyik legtanulságosabb alkategóriát, ahol mindenért a [genetika](/pics/genetics.jpg) a hibás.
+"Ilyen a testalkatom!", ["Vastagok a csontjaim"](/pics/big-bones.jpg), stb.
+Legyünk tisztában vele, hogy az ilyen "körülmények áldozata" szerepkör az esetek túlnyomó többségében csak kamu.
+Persze, a testalkatunk, a zsírsejtjeink száma és a tárolási hajlam is lehet változó...
+De leginkább a szokásaink vezetnek ide -- és a kifogásaink.
+Illetve hiába vannak apró eltérések a genetikai határaink között, ha már csak a határok _megközelítéséhez_ Schwarzenegger-féle szinten kellene lenni.
+Szóval ne rinyáljunk, vállaljuk a felelősséget, és tartsuk karban magunkat!
 
-- a testalkatunk, a zsírsejtjeink száma, a tárolási hajlam változhat
-    - de leginkább a szokásaink vezetnek ide, és a kifogásaink
-    - csak a genetika miatt, vastagok a csontjaim, stb.
-        - Genetics: https://i.imgur.com/8gwNV.jpg
-        - Big bones: https://piximus.net/media/29526/xray-of-a-980-pound-man-4.jpg
-    - lehet, hogy apró eltérések vannak a genetikai határaink között, de azt kb. csak a Schwarzenegger-ek közelítik egyáltalán meg, úgyhogy ne rinyáljunk!
+
+
 
 
 
@@ -223,26 +250,31 @@ Ezek után már "csak" annyi kell, hogy megvizsgáljuk a makrók hatását a hor
 
 ## Az edzés szerepe
 
-- növelj izmokat, meg tedd rendbe az inzulin érzékenységüket edzéssel, és visszabillenthető
-- BMR, izomfüggő
-    - ezt lehet korrigálni aktivitási szint szerint
-- alkalmazkodás, BMR csökkenés --> izom csökkenés
-    - max fogyási tempó = fél/egy kiló per hét
-    - ha gyorsabb, akkor tuti, hogy izmot is vesztünk
 - edzéssel nem lehet egy szar étrendet rendbe tenni
     - de egy jó étrenddel akár edzés nélkül is lehet zsírtalanodni
-    - viszont sokkal nehezebb (és amit a zsír alatt mutatni szeretnénk se lesz olyan meggyőző)
-- aerob vs. anaerob edzések
-    - aerob = energia égetés, szívnek/tüdőnek jó, nagyobb arányban táplálkozik zsírból, DE: izom megtartásban nem segít
-        - szintén DE: adaptálódás
-        - valamilyen szinten olyan, mint a kalóriáknál is: a több nem feltétlen jobb, csak mértékkel
-        - intenzitás: lötyögés vs. HIIT
-            - százalékban honnan megy több vs. mennyi megy összesen
-            - szóval ha úgyis az extra kalória égetés a lényeg (a kondicionáláson felül), akkor inkább HIIT
-        - időzítés: reggel a legjobb
-            - de lényeg, hogy ne nagyon legyen neki könnyen elérhető glikogén, szóval max. ne egyél előtte 2-3 órával már olyat
-    - anaerob = izom megtartás, vagy akár növelés, BMR növelés, könnyebben fenntartható zsírvesztés
-        - valamivel fedezni kell az edzést, valamivel fedezni kell a regenerálódást, a nagyobb izomtömeg állandó plusz égetést csinál, ÉS még a tetejébe inzulinérzékenyebb is lesz, ami miatt jobban ide tárolódik a jövőben minden (és nem a zsírba)
+- viszont sokkal nehezebb (és amit a zsír alatt mutatni szeretnénk se lesz olyan meggyőző)
+- enélkül készüljünk a fifti-fifti effektre
+
+    
+- ha edzünk, akkor anaerob!
+    - növelj izmokat, meg tedd rendbe az inzulin érzékenységüket edzéssel, és visszabillenthető
+- anaerob = izom megtartás, vagy akár növelés, BMR növelés, könnyebben fenntartható zsírvesztés
+    - valamivel fedezni kell az edzést, valamivel fedezni kell a regenerálódást, a nagyobb izomtömeg állandó plusz égetést csinál, ÉS még a tetejébe inzulinérzékenyebb is lesz, ami miatt jobban ide tárolódik a jövőben minden (és nem a zsírba)
+- így lehet 80-20, vagy még jobb
+
+
+- aerob = energia égetés, szívnek/tüdőnek jó, nagyobb arányban táplálkozik zsírból, DE: izom megtartásban nem segít
+    - szintén DE: adaptálódás
+    - valamilyen szinten olyan, mint a kalóriáknál is: a több nem feltétlen jobb, csak mértékkel
+        - alkalmazkodás, BMR csökkenés --> izom csökkenés
+            - max fogyási tempó = fél/egy kiló per hét
+            - ha gyorsabb, akkor tuti, hogy izmot is vesztünk
+    - intenzitás: lötyögés vs. HIIT
+        - százalékban honnan megy több vs. mennyi megy összesen
+        - szóval ha úgyis az extra kalória égetés a lényeg (a kondicionáláson felül), akkor inkább HIIT
+    - időzítés: reggel a legjobb
+        - de lényeg, hogy ne nagyon legyen neki könnyen elérhető glikogén, szóval max. ne egyél előtte 2-3 órával már olyat
+    
 
 
 
