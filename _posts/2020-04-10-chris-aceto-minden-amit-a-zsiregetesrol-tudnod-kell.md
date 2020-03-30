@@ -4,11 +4,15 @@ title: Chris Aceto - Minden, amit a zsírégetésről tudnod kell
 pages: 170
 date: 2020-04-10 15:00
 excerpt: >
-    TODO
+    A testünk karbantartását a Fegyencedzés után a helyes táplálkozási szokásokkal folytatjuk.
+    És be kell, hogy valljam, ez sokkal nagyobb fejfájást okozott, mint amire számítottam.
+    Nem volt ugyanis könnyű olyan könyvet találni, ami rendesen tárgyalja az alapokat.
+    Az egyik véglet érthető, de propagandát nyomna le a torkunkon; a másik véglet meg szó szerint egy szerves kémia tankönyv.
+    Chris Aceto könyve azonban egy ritka középút.
 ---
 
 A testünk karbantartását a [Fegyencedzés]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) után a helyes táplálkozási szokásokkal folytatjuk.
-És be kell, hogy valljam, ez sokkal nagyobb fejfájást okozott, mint gondoltam.
+És be kell, hogy valljam, ez sokkal nagyobb fejfájást okozott, mint amire számítottam.
 Nem volt ugyanis könnyű olyan könyvet találni, ami rendesen tárgyalja az alapokat.
 
 Persze rengeteg a könyv a témában, de az nagyon szubjektív, hogy a "rendesen" és az "alapok" itt mit jelentenek.
@@ -19,11 +23,11 @@ Ez a csoport pedig nem kimondottabban az "alapok" -- legalábbis nagyon nem alap
 
 [Chris Aceto -- Everything You Need to Know About Fat Loss](https://www.goodreads.com/book/show/588271.Everything_You_Need_To_Know_About_Fat_Loss){:target="_blank"} (vagyis kb. "Minden, amit a zsírégetésről tudnod kell") című könyve egy ritka középút.
 Nem a propagandát nyomja az arcunkba, és habár tartalmaz hormonháztartásos alapokat (amik nagyon fontosak!), mégis közérthető szinten marad.
-Az gyakori ismétlések és a hemzsegő nyelvtani hibák miatt szépirodalmi szempontból nem egy főnyeremény, de tartalmilag betalált.
+A gyakori ismétlések és a hemzsegő nyelvtani hibák miatt szépirodalmi szempontból nem egy főnyeremény, de tartalmilag betalált.
 
 Szóval hiába nehéz a sok szarból kitúrni a gyöngyszemeket, szerintem most sikerült.
 És mivel annyi téves információ kering a piacon, itt most megpróbálunk a vitathatatlan tényekre alapozni.
-Nincs hátsó szándék, nincsenek etikai megtérítés és nem adunk el semmit.
+Nincs hátsó szándék, nincsenek etikai megtérítések és nem adnak el nekünk semmit.
 Csak segítséget kapunk, hogy ne a félreértések és a tudatlanság miatt ne sikerüljön rendben tartani magunkat.
 
 A cím amúgy ne tévesszen meg senkit, amiről itt szó lesz, az _nem_ csak fogyni vágyóknak szól!
@@ -211,7 +215,8 @@ Ezzel pedig csökkentjük a napi kalória szükségletünket is.
 Vagyis ha egyszer újra enni kezdünk, a korábbi étrendünk arányaiban már még rosszabbnak számít majd, és gyorsan szalad minden fölösleg a raktárakba.
 Zsírt veszteni úgy kell tehát, hogy szép óvatosan "rávesszük" a testünket -- maximum 10-15% kalóriacsökkentéssel, és helyes táplálkozással.
 
-Sokan küszködnek az eddigiekkel, és a kudarcokat követő reakciókat embere válogatja.
+Mindez nyilván nem könnyű.
+Sokan küszködnek, és a kudarcot követő reakciókat embere válogatja.
 Kiemelném azonban az egyik legtanulságosabb alkategóriát, ahol mindenért a [genetika](/pics/genetics.jpg) a hibás.
 "Ilyen a testalkatom!", ["Vastagok a csontjaim"](/pics/big-bones.jpg), stb.
 Legyünk tisztában vele, hogy az ilyen "körülmények áldozata" szerepkör az esetek túlnyomó többségében csak kamu.
@@ -220,6 +225,7 @@ De leginkább a szokásaink vezetnek ide -- és a kifogásaink.
 Illetve hiába vannak apró eltérések a genetikai határaink között, ha már csak a határok _megközelítéséhez_ Schwarzenegger-féle szinten kellene lenni.
 Szóval ne rinyáljunk, vállaljuk a felelősséget, és tartsuk karban magunkat!
 
+<br />
 
 
 
@@ -250,30 +256,51 @@ Szóval ne rinyáljunk, vállaljuk a felelősséget, és tartsuk karban magunkat
 
 ## Az edzés szerepe
 
-- edzéssel nem lehet egy szar étrendet rendbe tenni
-    - de egy jó étrenddel akár edzés nélkül is lehet zsírtalanodni
-- viszont sokkal nehezebb (és amit a zsír alatt mutatni szeretnénk se lesz olyan meggyőző)
-- enélkül készüljünk a fifti-fifti effektre
+Fontos előre leszögeznünk, hogy edzéssel nem lehet egy szar étrendet rendbe tenni!
+És habár igaz, hogy egy jó étrenddel akár edzés nélkül is lehet zsírtalanodni, az sokkal nehezebb -- plusz amit a zsír alatt mutatni szeretnénk se lesz olyan meggyőző.
+Leginkább azért, mert a zsírral együtt izmot is veszteni fogunk, kb. 50%-50% arányban.
+Igen, sajnos jól látjátok, az egész eddigi precíz kalória és makró belövés mind "csak" azért volt, hogy a súlyvesztésünknek legalább a **fele** zsírból mehessen!
 
+További rossz hír, hogy ezen az arányon **aerob** (cardio) edzésekkel sem tudunk javítani.
+Persze ettől azért ne vessük el őket!
+Az izom megtartásában nem segítenek ugyan, de extra energia égetésnek, illetve a szívünk és a tüdőnk karbantartásának kiválóak.
+Amikre figyeljünk a műfajban:
     
-- ha edzünk, akkor anaerob!
-    - növelj izmokat, meg tedd rendbe az inzulin érzékenységüket edzéssel, és visszabillenthető
-- anaerob = izom megtartás, vagy akár növelés, BMR növelés, könnyebben fenntartható zsírvesztés
-    - valamivel fedezni kell az edzést, valamivel fedezni kell a regenerálódást, a nagyobb izomtömeg állandó plusz égetést csinál, ÉS még a tetejébe inzulinérzékenyebb is lesz, ami miatt jobban ide tárolódik a jövőben minden (és nem a zsírba)
-- így lehet 80-20, vagy még jobb
+- A több nem feltétlen jobb, ezért csak mértékkel!
+Valamilyen szinten olyan ez itt is, mint a kalóriáknál.
+Az adaptálódás az alap energiaigényünk csökkenéséhez vezethet, amit ugye _nem_ akarunk.
+Illetve ha túl gyorsan fogyunk a hatására (több, mint fél-egy kiló per hét), akkor biztos, hogy azt az izmaink bánják.
+
+- Fontos az intenzitás!
+Persze, lazább _lötyögés_ mellett nagyobb százalékban megy az energia zsírból...
+De egy intenzívebb intervallum edzés pedig annyival többet éget, hogy még a kisebb arányú zsírégetés mellett is azzal járunk jobban.
+Szóval ha úgyis az extra kalória égetés a lényeg (a kondicionáláson felül), akkor inkább tegyük oda magunkat!
+
+- Számíthat az időzítés is!
+A természetes _koplalt_ állapot miatt talán reggel a legjobb.
+De lényeg inkább az, hogy ne nagyon legyen neki könnyen elérhető izom és máj cukor -- hogy a zsírhoz kelljen nyúlnia.
+Szóval ha nem is reggel, akkor legalább előtte 2-3 órával már ne együnk.
+
+Na jó, jó, ez mind szép, de akkor mivel úszhatjuk meg, hogy a leadott kilók fele az izomból fogyjon?
+A válasz az **anaerob**, vagyis valamilyen nehéz ellenállás mellett végzett gyakorlatok.
+Direkt nem csak úgy mondom, hogy "súlyzós edzés", mert ahogy a [Fegyencedzésben]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) láthattuk, súlyzó nem feltétlen kell hozzá.
+De attól értitek na: "gyúrni kell"!
+
+Ennek hatására a "fifti-fifti" zsír-izom vesztési arány 80%-20%-ra javulhat, vagy akár még tovább!
+Az izmok megtartása -- vagy akár növelése -- pedig magasan tartja az energiaigényünket, könnyebben fenntartható lesz a zsírvesztés, és idővel még az inzulin érzékenységüket is visszabillentheti.
+Ezek miatt összesített kalóriaszükségletben sincs párja!
+
+1. Valamivel fedezni kell magát az edzést,
+2. valamivel fedezni kell a regenerálódást,
+3. a nagyobb izomtömeg állandó plusz égetést garantál, és
+4. még a tetejébe inzulinérzékenyebbé is teszi az izmokat, ami miatt jobban ide tárolódik a jövőben minden -- és nem a zsírba!
+
+Az eddigiek alapján felállíthatunk tehát egy fontossági sorrendet: a helyes étrend elengedhetetlen, a "súlyzós" edzés **erősen ajánlott**, és mellé a cardio opcionális rásegítés.
+A kirakós egyetlen hiányzó eleme az alvás -- de arról majd bővebben a jövő héten...
+
+<br />
 
 
-- aerob = energia égetés, szívnek/tüdőnek jó, nagyobb arányban táplálkozik zsírból, DE: izom megtartásban nem segít
-    - szintén DE: adaptálódás
-    - valamilyen szinten olyan, mint a kalóriáknál is: a több nem feltétlen jobb, csak mértékkel
-        - alkalmazkodás, BMR csökkenés --> izom csökkenés
-            - max fogyási tempó = fél/egy kiló per hét
-            - ha gyorsabb, akkor tuti, hogy izmot is vesztünk
-    - intenzitás: lötyögés vs. HIIT
-        - százalékban honnan megy több vs. mennyi megy összesen
-        - szóval ha úgyis az extra kalória égetés a lényeg (a kondicionáláson felül), akkor inkább HIIT
-    - időzítés: reggel a legjobb
-        - de lényeg, hogy ne nagyon legyen neki könnyen elérhető glikogén, szóval max. ne egyél előtte 2-3 órával már olyat
     
 
 
@@ -301,39 +328,54 @@ Szóval ne rinyáljunk, vállaljuk a felelősséget, és tartsuk karban magunkat
 
 ## A tanulság
 
-Szedjük akkor szépen össze, amit eddig tanultunk, és rázzuk helyre a gyakori tévedéseket!
-Tegyük mindezt egy párbeszéd formájában, ahol képzeletbeli, egyszerű észjárású, ámde annál hájasabb cimboránkat szeretnénk jó útra terelni:
+Szedjük akkor szépen össze, amit tanultunk, és rázzuk helyre a gyakori tévedéseket!
+Tegyük mindezt egy párbeszéd formájában, ahol egy képzeletbeli, egyszerű észjárású, ámde annál hájasabb cimboránkat szeretnénk jó útra terelgetni:
 
-- nem tudok fogyni, pedig nem is eszek sokat
-    - de, sokat eszel
-    - az más kérdés, hogy nem méred
-    - követni kell a kalóriákat
-        - de legalábbis a tested változása, hogy lásd, hogy reagálsz
-        - mint ahogy YMOYL-ban is mondtuk: ha egy folyamatot nem mérünk, akkor nem is irányíthatjuk
-- jó, akkor koplalok
-    - evolúció és BMR
-- jó, akkor eszek "épp csak" kevesebbet. De azt hamburgerből és sajttortából is össze lehet ám rakni!
-    - persze, csak akkor nem fog működni
-    - lásd hormonos rész
-    - követni kell a makrókat is (legalább nagyjából)
-    - pár jó kaja ajánlat
-        - sovány fehérje: csirkemellfilé, pulykamellfilé, a sovány marhahús, a tengeri halfélék, tojásfehérje, sovány túró.
-        - komplex szénhidrátok: zöldségekre, hüvelyesekre, valamint a barna vagy basmati rizsre, teljes kiőrlésű dolgok.
-        - telítetlen zsírok: halolaj, lenmagolaj, extra szűz olivaolaj, kókuszzsír
-- jó, akkor eszek rendes kajákból "épp csak" kevesebbet. De azt úgy is lehet, hogy kihagyok egy pár kaját, hogy aztán jól bezabálhassak!
-    - nope, lásd megint a hormonos rész
-    - fontos a bontás
-        - több apróbb kaja = laposabb inzulin tüskék = jobb környezet a zsírvesztéshez
-- jó, akkor eszek normális kajákat normális mennyiségben, normális időközönként... Most boldog vagy?!
-    - hát, ha neked elég a fifti-fifti, akkor igen
-    - súlyvesztés != zsírvesztés
-            - a másik lehetséges félreértés, amit már az elején tegyünk rendbe: fogyni zsírból akarunk!
-            - az nem a teljes kép, amit a mérleg mutat
-            - száraz tömeget (mint pl. izom, ízületek, csontok, szervek) nem szeretnénk veszteni... (erre még visszatérünk)
-            - szóval a mi szemszögünkből a fogyás és a "szálkásodás" most egy lapra megy
-        - magában vagy aerobbal "fifti-fifti" a zsír és az izom vesztés
-        - anaerob mellett sokkal inkább 80-20 a zsír javára, vagy még jobb
+**Nem tudok fogyni, pedig nem is eszek sokat!**
 
+De, sokat eszel.
+Az más kérdés, hogy nem méred.
+Követni kell a kalóriákat, de legalábbis a tested változását, hogy lásd, hogy reagálsz.
+Mint ahogy a [Pénzt vagy életet]({% post_url 2020-03-20-vicki-robin-your-money-or-your-life %}) bejegyzésben is mondtuk: ha egy folyamatot nem mérünk, akkor nem is irányíthatjuk!
+
+**Jó, akkor koplalok!**
+
+Azzal csak annyit fogsz elérni, hogy az leépíted az izmaidat.
+Ezzel az energia igényed is lejjebb megy, így a tetejébe amikor újra enni kezdesz, még jobban el fogsz hízni.
+Csak szép óvatosan kell csökkenteni a bevitelt!
+
+**Jó, akkor eszek "épp csak" kevesebbet. De azt hamburgerből és sajttortából is össze lehet ám rakni!**
+
+Persze, csak akkor nem fog működni.
+Követni kell a makrókat is (legalább nagyjából), és hogy egy adott arány milyen hatással van rád.
+Pár jó kaja ajánlat:
+
+- Sovány fehérje: csirkemellfilé, pulykamellfilé, sovány marhahús, tengeri halfélék, tojásfehérje, sovány túró.
+- Komplex szénhidrátok: zöldségek, hüvelyesek, barna vagy basmati rizs, teljes kiőrlésű dolgok.
+- Telítetlen zsírok: halolaj, lenmagolaj, extra szűz olivaolaj, kókuszzsír.
+
+**Jó, akkor eszek rendes kajákból "épp csak" kevesebbet. De azt úgy is lehet, hogy kihagyok egy pár kaját, hogy aztán jól bezabálhassak!**
+
+Megint nem talált.
+Fontos a bontás, mert több apróbb kaja = laposabb inzulin megugrások = jobb környezet a zsírvesztéshez.
+
+**Jó, jó, jó! Akkor eszek normális kajákat normális mennyiségben, normális időközönként... Ez már csak elég?!**
+
+Hát, ha neked elég a "fifti-fifti", akkor igen.
+De amúgy sajnos a _súlyvesztés_ nem ugyanaz, mint a _zsírvesztés_!
+Az nem a teljes kép, amit a mérleg mutat, mert "száraz" tömeget (mint pl. izom, ízületek, csontok, szervek) _nem_ akarunk veszteni!
+És ha magában -- vagy akár aerob edzéssel karöltve -- hagyatkozol az új étrendedre, ott az elvesztett súly fele bizony hasznos száraz tömeg lesz.
+Ha viszont _anaerob_ ("súlyzós") edzéseket is beépítesz, akkor a fogyás sokkal inkább 80%-20% körül lesz a zsír javára, vagy még jobb...
+
+**Tehát akkor normális kaják normális mennyiségben, normális időközönként, súlyzós edzéssel... Mi a rákot csináljak még?!**
+
+Mittudomén...
+Mondjuk ne igyál alkoholt, ne cigizz, ne drogozz, és ne legyél folytonos stressz alatt!
+Igyál elég vizet, melegíts be edzés előtt, aludj eleget, és vizsgáltasd ki magad rendszeresen!
+Tömören: figyelj oda magadra!
+Kezdésnek ennyi elég.
+
+<br />
 
 
 
@@ -365,20 +407,22 @@ Tegyük mindezt egy párbeszéd formájában, ahol képzeletbeli, egyszerű ész
 
 ## Amit kihagytam
 
-- melyik tápanyagot mennyire hatékonyan lehet feldolgozni
-- termogenikus hatás
-- kalória ciklizálás
-- kortizol, tesztoszteron, növekedési hormon
-- ketózis
-- étrend kiegészítők
-    - aki ezt rendesen csinálja, és hosszú távra tervez a gyors eredmények helyett, annak ez sztem nem szabad, hogy szükséges legyen.
-- időzítés
-    - reggel és edzés után menjen inkább a magasabb carb
-        - reggel, mert üresek a tárak, és edzés után, mert épp most ürítetted a tárakat
-    - alvás előtt kevésbé (hacsak nem akkor edzettél), mert akkor jobban fog menni a regeneráció
+Igyekeztem egy olyan összefoglalót kihozni ebből a témából, amit én is olvasni szerettem volna egy jó 10 éve.
+Elsők között azt próbáltam szem előtt tartani, hogy minél könnyebben emészthető, és széles körben értelmezhető legyen a lényeg.
+Emiatt viszont minden olyat kihagytam, amit kihagyhattam a törzs mondanivaló torzítása nélkül.
+A könyvben említésre kerül az ittenieken felül:
 
+- A makrók hasznosítási hatékonysága
+- Az ételek termogenikus hatása
+- A kalória ciklizálás
+- A kortizol, a tesztoszteron, a növekedési hormon...
+- A ketózis
+- Étrend kiegészítők
+- Részletesebb étkezés és edzés időzítések
 
+Meg vagyok azonban győződve, hogy aki az itt feldolgozott anyagot megérti és betartja, azoknak bőven lesz annyira stabil alapja, hogy érdeklődés esetén a kihagyott elemeket önszorgalomból kivesézze.
 
+<br />
 
 
 
@@ -402,13 +446,11 @@ Tegyük mindezt egy párbeszéd formájában, ahol képzeletbeli, egyszerű ész
 
 ## Összefoglalás
 
+Láthattuk, hogy a helyes táplálkozás -- habár nem atomfizika, de azért -- nem is olyan egyszerű, mint sokan gondolják.
+Amit mindenképp jegyezzünk meg, az az, hogy a kalóriákon felül az _inzulin_ a másik nagy játékos!
+Ez főként annyit jelent, hogy a kajáink mennyiségén felül a minőség is legyen cél!
+A másik aláhúzott rész, hogy ha hatékonyan és fenntarthatóan akarunk zsírt veszteni, akkor a súlyzós (vagy testsúlyos!) edzésről se feledkezzünk meg!
 
-- szóval a kalóriákon felül jegyezzük meg, hogy az inzulin a másik nagy játékos!
-    - ezért az kajáink mennyiségén felül a minőség is legyen cél!
-    - amit most már remélhetőleg meg is tudunk helyesen ítélni
-- ha hatékonyan és fenntarthatóan akarunk zsírt veszteni, akkor súlyzós vagy testsúlyos edzés
-    - de újra: ez nem váltja ki a helyes étrendet, csak megsegíti
-- még tömörebben: a lényeg, hogy a mennyiség mellett a minőség is számít
-    - és mozogni sem árt mellette
-- láthattuk, hogy habár nem atomfizika, de azért nem is olyan egyszerű, mint sokan gondolják
-    - a fentiek tudatában viszont semmi nem akadályozhat meg minket, hogy végleg rendbe tegyük magunkat
+Igen, jól látjátok, ennyire összetömörítve tényleg az unalomig ismételt "Egyél tisztán és mozogj többet!" közhelynél kötünk ki.
+De remélem ennél azért egy kicsit jobban sikerült árnyalni a képet.
+Az árnyaltabb kép birtokában pedig már tényleg minden adott ahhoz, hogy végleg rendbe tegyük magunkat!
