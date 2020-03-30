@@ -36,7 +36,7 @@ Itt azonban a zsírvesztés irányából közelítünk, mert egészség szempont
 A tartalomjegyzék kisebb szerkezeti átalakítások után a következőként alakul:
 
 - [Makrók és hormonok](#makrók-és-hormonok)
-- [Makrók kontra hormonok](#makrók-kontra-hormonok)
+- [Makrók _kontra_ hormonok](#makrók-kontra-hormonok)
 - [Evolúció és genetika](#evolúció-és-genetika)
 - [Az edzés szerepe](#az-edzés-szerepe)
 - [A tanulság](#a-tanulság)
@@ -72,21 +72,21 @@ A tartalomjegyzék kisebb szerkezeti átalakítások után a következőként al
 Kezdjük a legfontosabbal: az izomzatunk (és az aktivitási szintünk) határozza meg, hogy naponta mennyi kalóriára van szükségünk.
 Ha legalább ennyit -- vagy ennél többet -- eszünk, akkor **nem** lesz súlyvesztés.
 Miért lenne?!
-A kalóriákkal a bevitt energia mennyiséget mérjük, és ha a szervezetünk megkapja az energiát, amire szüksége van, akkor mi a fenéért nyúlna a zsírtartalékokhoz?
+A kalóriákkal a bevitt energia mennyiséget mérjük, és ha a szervezetünk megkapja az energiát, amire szüksége van, akkor mi a fenéért nyúlna a tartalékokhoz?
 Szóval ezt már most nyugodtan leszögezhetjük: a fogyáshoz a napi kalóriaszükségletünk _alatt_ kell ennünk!
 
 De most jön csak a csavar, mert ez önmagában nem elég!
 Ha elég lenne, akkor korlátozottabb beviteli mennyiségek mellett akár csipsz és csoki étrenddel is szálkásíthatnánk.
 Na persze **fogyni** lehet csipsszel és csokival is, csak a végeredmény nem lesz épp gusztusos.
-Az felelős pedig nem más, mint a bevitt makrotápanyagok aránya, és ahogy a hormonjaink ezekre reagálnak.
+A felelős pedig nem más, mint a bevitt makrótápanyagok aránya, és ahogy a hormonjaink ezekre reagálnak.
 
 Menjünk sorban.
-A makrotápanyagok minden élelmünk alapvető alkotóelemei.
+A makrótápanyagok minden élelmünk alapvető alkotóelemei.
 Ha a csicsás kifejezés nem is ismerős, a fajtái biztosan: így hívjuk együtt a fehérjéket, a szénhidrátokat, és a zsírokat.
 
 - A **fehérjék** grammonként 4 kalóriát tartalmaznak, és az izmok építéséhez elengedhetetlenek. Egyelőre ennyit elég is róluk tudnunk.
 - A **szénhidrátok** esetében szintén 4 kalória / gramm, és erősen meg kell különböztetnünk az egyszerű (cukor, "rossz") és összetett (zöldség, "jó") változatokat.
-- A **zsírok** grammonként 9 (!) kalóriát jelentenek, és itt pedig a telített (szobahőmérsékleten szilárd) és telítetlen (szobahőmérsékleten folyékony) változatok között teszünk különbséget.
+- A **zsírok** grammonként 9 (!) kalóriát jelentenek, és itt pedig a telített (szobahőmérsékleten szilárd, "rossz?") és telítetlen (szobahőmérsékleten folyékony, "jó") változatok között teszünk különbséget.
 
 Ezekből mind vércukor lesz (valahogy), amit aztán energiaként hasznosítunk.
 A testünk viszont relatíve szigorú keretek között szeretné tartani a vércukor szintünket, amire hormonokat használ.
@@ -128,7 +128,7 @@ Ezek után már "csak" annyi kell, hogy megvizsgáljuk a makrók hatását a hor
 
 
 
-## Makrók kontra hormonok
+## Makrók _kontra_ hormonok
 
 Itt áll (remélhetőleg) össze, hogy a mennyiségen felül miért számít a minőség is.
 A különböző makrók ugyanis jelentősen eltérő hatással vannak a hormonjainkra és a zsírháztartásunkra.
@@ -142,7 +142,7 @@ Megoldásként válasszuk az összetett, lassabban és fokozatosabban felszívó
 Sőt, a bennük lévő rost -- egy valag más pozitív hatása mellett -- tovább lassítja az egyéb tápanyagok felszívódását is.
 
 Szóval a logikus "sok szénhidrát = sok inzulin" mellé jegyezzük meg egy lényeges kiegészítésnek: akkor is lehet sok inzulin, ha viszonylag kevés, de gyorsan felszívódó szénhidrátot fogyasztunk.
-És sok inzulin mellett ugye több minden megy zsírba, és mellesleg nem lehet zsírt veszteni!
+És sok inzulin hatására ugye több minden megy zsírba, és mellesleg nem lehet zsírt veszteni!
 
 **A zsírok aránya az elraktározott zsír mennyiségét befolyásolja!**
 Ha a sok zsírral egyszerre magas az inzulinunk, akkor az amúgy is elvárható zsírtárolás alkalmával többet rakunk el.
@@ -159,15 +159,15 @@ Arról nem is beszélve, hogy a fehérjék milyen fontos szerepet játszanak az 
 
 Ezekből pedig jól látszik, miért nem elég a kalóriák számolgatása, ha közben csipszet és csokit eszünk.
 Jegyezzük meg, hogy a kalóriák mellett az inzulin a másik nagy játékos a helyes táplálkozásban és a zsírraktáraink féken tartásában!
-Ügyelnünk kell a _mennyit?_ mellett a _mit?_ kérdésére is, mert egy adott kalóriamennyiséget két különböző makró-megosztás hatására két nagyon eltérő módon is tárolhatunk.
+Ügyelnünk kell a `Mennyit?` mellett a `Mit?` kérdésére is, mert egy adott kalóriamennyiséget két különböző makró-megosztás hatására két nagyon eltérő módon is tárolhatunk.
 Ha ezt a tényt sokáig figyelmen kívül hagyjuk, akkor egyre mélyebb gödörbe fogunk kerülni -- ahonnan ráadásul egyre nehezebb lesz kimászni.
 
-A gödör alatt természetesen a kövérséget értem, de térjünk ki egy kicsit az "egyre nehezebb kimászást" ihlető **inzulinérzékenység**re is.
+A gödör alatt természetesen az elhízást értem, de térjünk ki egy kicsit az "egyre nehezebb kimászást" ihlető **inzulinérzékenység**re is.
 Ez annyit takar, hogy az izmaink -- részben a rendszeresen magas inzulinszinthez alkalmazkodva -- egyre kevésbé lesznek érzékenyek az inzulinra, és ezért egyre nehezebben tárolnak majd vércukrot.
 De a szervezet ugye továbbra is szinten akarja tartani a vércukorszintet, ezért még több inzulint termel és valahova csak azért is betuszkolja a fölösleget!
 Ha az izmokba nem meg, akkor majd megy a zsírba.
 
-Ezt tovább tetézhetjük sok telített zsír fogyasztásával -- ami szintén roncsolják az izmaink inzulin érzékenységét -- de a stressz, a dohányzás, a drogok, az alkohol, az edzés hiánya, a sok egyszerű szénhidrát, a kevés rost és a nagy testzsír százalék is rátehet egy lapáttal.
+Ezt tovább tetézhetjük sok telített zsír fogyasztásával -- ami szintén roncsolják az izmaink inzulin érzékenységét -- de a stressz, a dohányzás, a drogok, az alkohol, az edzés hiánya, a sok egyszerű szénhidrát, a kevés rost és a nagy testzsír százalék is rátehetnek egy lapáttal.
 Magyarán szólva: aki kövér, annak még a szervezete is bizonyos értelemben "kövérségre van beállva".
 Persze soha nem késő visszafordulni, csak ahogy mondtuk, egyre nehezebb lesz.
 
@@ -213,7 +213,7 @@ Szóval lehet fogyni a koplalással, és a mérleg mutatni is fogja.
 A baj csak az, hogy ez izomból (és az izom által megkötött vízből) megy.
 Ezzel pedig csökkentjük a napi kalória szükségletünket is.
 Vagyis ha egyszer újra enni kezdünk, a korábbi étrendünk arányaiban már még rosszabbnak számít majd, és gyorsan szalad minden fölösleg a raktárakba.
-Zsírt veszteni úgy kell tehát, hogy szép óvatosan "rávesszük" a testünket -- maximum 10-15% kalóriacsökkentéssel, és helyes táplálkozással.
+Zsírt veszteni úgy kell tehát, hogy kényszerítés helyett szép óvatosan "rávesszük" a testünket -- maximum 10-15% kalóriacsökkentéssel, és helyes makró-megosztású táplálkozással.
 
 Mindez nyilván nem könnyű.
 Sokan küszködnek, és a kudarcot követő reakciókat embere válogatja.
@@ -261,9 +261,9 @@ Fontos előre leszögeznünk, hogy edzéssel nem lehet egy szar étrendet rendbe
 Leginkább azért, mert a zsírral együtt izmot is veszteni fogunk, kb. 50%-50% arányban.
 Igen, sajnos jól látjátok, az egész eddigi precíz kalória és makró belövés mind "csak" azért volt, hogy a súlyvesztésünknek legalább a **fele** zsírból mehessen!
 
-További rossz hír, hogy ezen az arányon **aerob** (cardio) edzésekkel sem tudunk javítani.
+További rossz hír, hogy ezen az arányon **aerob** (cardio) edzésekkel sem igazán tudunk javítani.
 Persze ettől azért ne vessük el őket!
-Az izom megtartásában nem segítenek ugyan, de extra energia égetésnek, illetve a szívünk és a tüdőnk karbantartásának kiválóak.
+Az izom megtartásában nem segítenek ugyan, de extra energia égetésnek, illetve a szívünk és a tüdőnk gatyába rázására kiválóak.
 Amikre figyeljünk a műfajban:
     
 - A több nem feltétlen jobb, ezért csak mértékkel!
@@ -273,7 +273,7 @@ Illetve ha túl gyorsan fogyunk a hatására (több, mint fél-egy kiló per hé
 
 - Fontos az intenzitás!
 Persze, lazább _lötyögés_ mellett nagyobb százalékban megy az energia zsírból...
-De egy intenzívebb intervallum edzés pedig annyival többet éget, hogy még a kisebb arányú zsírégetés mellett is azzal járunk jobban.
+De egy intenzívebb intervallum edzés pedig annyival több energiába kerül, hogy még a kisebb arányú zsírégetés mellett is azzal járunk jobban.
 Szóval ha úgyis az extra kalória égetés a lényeg (a kondicionáláson felül), akkor inkább tegyük oda magunkat!
 
 - Számíthat az időzítés is!
@@ -340,7 +340,7 @@ Mint ahogy a [Pénzt vagy életet]({% post_url 2020-03-20-vicki-robin-your-money
 
 **Jó, akkor koplalok!**
 
-Azzal csak annyit fogsz elérni, hogy az leépíted az izmaidat.
+Azzal csak annyit fogsz elérni, hogy leépíted az izmaidat.
 Ezzel az energia igényed is lejjebb megy, így a tetejébe amikor újra enni kezdesz, még jobban el fogsz hízni.
 Csak szép óvatosan kell csökkenteni a bevitelt!
 
@@ -369,11 +369,11 @@ Ha viszont _anaerob_ ("súlyzós") edzéseket is beépítesz, akkor a fogyás so
 
 **Tehát akkor normális kaják normális mennyiségben, normális időközönként, súlyzós edzéssel... Mi a rákot csináljak még?!**
 
-Mittudomén...
+Mittudomén.
 Mondjuk ne igyál alkoholt, ne cigizz, ne drogozz, és ne legyél folytonos stressz alatt!
 Igyál elég vizet, melegíts be edzés előtt, aludj eleget, és vizsgáltasd ki magad rendszeresen!
 Tömören: figyelj oda magadra!
-Kezdésnek ennyi elég.
+Kezdésnek ennyi elég...
 
 <br />
 
@@ -409,7 +409,7 @@ Kezdésnek ennyi elég.
 
 Igyekeztem egy olyan összefoglalót kihozni ebből a témából, amit én is olvasni szerettem volna egy jó 10 éve.
 Elsők között azt próbáltam szem előtt tartani, hogy minél könnyebben emészthető, és széles körben értelmezhető legyen a lényeg.
-Emiatt viszont minden olyat kihagytam, amit kihagyhattam a törzs mondanivaló torzítása nélkül.
+Emiatt viszont minden olyat kihagytam, amit csak kihagyhattam a törzs mondanivaló torzítása nélkül.
 A könyvben említésre kerül az ittenieken felül:
 
 - A makrók hasznosítási hatékonysága
@@ -420,7 +420,7 @@ A könyvben említésre kerül az ittenieken felül:
 - Étrend kiegészítők
 - Részletesebb étkezés és edzés időzítések
 
-Meg vagyok azonban győződve, hogy aki az itt feldolgozott anyagot megérti és betartja, azoknak bőven lesz annyira stabil alapja, hogy érdeklődés esetén a kihagyott elemeket önszorgalomból kivesézze.
+Meg vagyok azonban győződve róla, hogy aki az itt feldolgozott anyagot megérti és betartja, annak bőven lesz annyira stabil alaptudása, hogy érdeklődés esetén a kihagyott elemeket önszorgalomból kivesézze.
 
 <br />
 
@@ -449,7 +449,7 @@ Meg vagyok azonban győződve, hogy aki az itt feldolgozott anyagot megérti és
 Láthattuk, hogy a helyes táplálkozás -- habár nem atomfizika, de azért -- nem is olyan egyszerű, mint sokan gondolják.
 Amit mindenképp jegyezzünk meg, az az, hogy a kalóriákon felül az _inzulin_ a másik nagy játékos!
 Ez főként annyit jelent, hogy a kajáink mennyiségén felül a minőség is legyen cél!
-A másik aláhúzott rész, hogy ha hatékonyan és fenntarthatóan akarunk zsírt veszteni, akkor a súlyzós (vagy testsúlyos!) edzésről se feledkezzünk meg!
+A másik aláhúzott rész pedig az, hogy ha hatékonyan és fenntarthatóan akarunk zsírt veszteni, akkor a súlyzós (vagy testsúlyos!) edzésről se feledkezzünk meg!
 
 Igen, jól látjátok, ennyire összetömörítve tényleg az unalomig ismételt "Egyél tisztán és mozogj többet!" közhelynél kötünk ki.
 De remélem ennél azért egy kicsit jobban sikerült árnyalni a képet.
