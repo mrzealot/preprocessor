@@ -142,7 +142,7 @@ Megoldásként válasszuk az összetett, lassabban és fokozatosabban felszívó
 Sőt, a bennük lévő rost -- egy valag más pozitív hatása mellett -- tovább lassítja az egyéb tápanyagok felszívódását is.
 
 Szóval a logikus "sok szénhidrát = sok inzulin" mellé jegyezzük meg egy lényeges kiegészítésnek: akkor is lehet sok inzulin, ha viszonylag kevés, de gyorsan felszívódó szénhidrátot fogyasztunk.
-És sok inzulin hatására ugye több minden megy zsírba, és mellesleg nem lehet zsírt veszteni!
+És sok inzulin hatására ugye több minden megy zsírba, és mellesleg nem lehet zsírt veszteni -- emlékezzünk, a zsírpárnák bontása is "be van tiltva"!
 
 **A zsírok aránya az elraktározott zsír mennyiségét befolyásolja!**
 Ha a sok zsírral egyszerre magas az inzulinunk, akkor az amúgy is elvárható zsírtárolás alkalmával többet rakunk el.
@@ -151,7 +151,7 @@ Ezért, habár kelleni épp kell némi zsiradék is az étrendünkbe, csak éssz
 Ezen belül is igyekezzünk a telítetlen zsírokat (olajok, magvak) előnyben részesíteni.
 Igaz, hogy kis dózisban a telítettekre is szükség van, de nagy mennyiségekben egy csomó rossz hatásuk lehet.
 Sűrítik a vért, és ezzel párhuzamosan az ereket meg pont szűkítik.
-A BuilderShop hasonlatával élve: "Mintha csak egy szűk szívószálon keresztül szeretnénk tejbegrízt enni".
+A [Shop.Builder](https://shop.builder.hu/) hasonlatával élve: "Mintha csak egy szűk szívószálon keresztül szeretnénk tejbegrízt enni".
 
 **A fehérjék a glukagon termelést stimulálják!**
 A glukagon pedig mondhatni "visszafogja" az inzulin raktározó hatását, és emellett még a zsírbontást is támogatja.
@@ -165,7 +165,7 @@ Ha ezt a tényt sokáig figyelmen kívül hagyjuk, akkor egyre mélyebb gödörb
 A gödör alatt természetesen az elhízást értem, de térjünk ki egy kicsit az "egyre nehezebb kimászást" ihlető **inzulinérzékenység**re is.
 Ez annyit takar, hogy az izmaink -- részben a rendszeresen magas inzulinszinthez alkalmazkodva -- egyre kevésbé lesznek érzékenyek az inzulinra, és ezért egyre nehezebben tárolnak majd vércukrot.
 De a szervezet ugye továbbra is szinten akarja tartani a vércukorszintet, ezért még több inzulint termel és valahova csak azért is betuszkolja a fölösleget!
-Ha az izmokba nem meg, akkor majd megy a zsírba.
+Ha az izmokba nem megy, akkor majd megy a zsírba.
 
 Ezt tovább tetézhetjük sok telített zsír fogyasztásával -- ami szintén roncsolják az izmaink inzulin érzékenységét -- de a stressz, a dohányzás, a drogok, az alkohol, az edzés hiánya, a sok egyszerű szénhidrát, a kevés rost és a nagy testzsír százalék is rátehetnek egy lapáttal.
 Magyarán szólva: aki kövér, annak még a szervezete is bizonyos értelemben "kövérségre van beállva".
@@ -351,7 +351,7 @@ Követni kell a makrókat is (legalább nagyjából), és hogy egy adott arány 
 Pár jó kaja ajánlat:
 
 - Sovány fehérje: csirkemellfilé, pulykamellfilé, sovány marhahús, tengeri halfélék, tojásfehérje, sovány túró.
-- Komplex szénhidrátok: zöldségek, hüvelyesek, barna vagy basmati rizs, teljes kiőrlésű dolgok.
+- Komplex szénhidrátok: zöldségek, hüvelyesek, zab, barna vagy basmati rizs, teljes kiőrlésű dolgok.
 - Telítetlen zsírok: halolaj, lenmagolaj, extra szűz olivaolaj, kókuszzsír.
 
 **Jó, akkor eszek rendes kajákból "épp csak" kevesebbet. De azt úgy is lehet, hogy kihagyok egy pár kaját, hogy aztán jól bezabálhassak!**
