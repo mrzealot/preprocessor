@@ -7,34 +7,23 @@ excerpt: >
     TODO
 ---
 
-A helyes [edzési]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) és [táplálkozási]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}) szokások után már csak a regenerálódás van hátra.
+A helyes [edzési]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) és [táplálkozási]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}) szokások után már csak a regenerálódás van hátra a "testünk karbantartása" rovatban.
 Erre a célra pedig [Christie Aschwanden - Good to Go](https://www.goodreads.com/book/show/45894059-good-to-go){:target="_blank"} (vagyis kb. "Menetkész") című könyve ideális -- és aktuális -- választás, amiben tudományos újságírói szemszögből, üdítő józansággal vizsgálhatjuk napjaink felépülés-mániáját.
 
+A 90-es és a 2000-es években a regenerálódás még csak egy főnév volt.
+Vagyis egy olyan időszak, amikor nem csináltunk semmit, csak szépen felépültünk; mondjuk alvás, lazsálás, vagy olvasgatás közben.
+Ehhez képest mára szinte ige lett belőle.
+Nem csak keményen edzünk, de keményen is regenerálódunk!
+Bármit is jelentsen ez a képzavar.
 
-- a 90-es és a 2000-es években a "recovery" még csak egy főnév volt
-    - vagyis amikor nem csináltál semmit, csak szépen felépültél, mondjuk alvás, lazsálás, vagy olvasgatás közben
-- mára már ige lett
-    - nem csak keményen edzünk, de keményen regenerálódunk is! bármit is jelentsen ez a képzavar...
-- aztán aki ebben akar önmegvalósítani, mindenféle agyament dologba belefoghat, akár borban is fürödhet
-    - és ebben persze nem kis üzlet van az élelmeseknek
+Sokan akadnak, akik ebben akarnak kitűnni a tömegből.
+Mindenféle agyament dologba belefognak, az egzotikus étrend kiegészítőktől kezdve a súlyozott pizsamákon át egészen a borban fürdésig.
+Ebben persze nem kis üzlet van az élelmeseknek.
+És ha jó a marketing, akkor talán fel sem tűnik, hogy tudományosan semmi alapjuk.
 
-## "Épp így van" tudomány
+Ezen szeretnénk most úgy változtatni, hogy objektíven vizsgáljuk az elterjedt felépülési módszereket -- és hogy mennyire bízhatunk a mögöttük álló "bizonyítékokban":
 
-- edzés utáni sörivás hatásának vizsgálata
-    - relatíve felelősségteljes, komoly teszt
-        - double blind, megszokott folyamatok alkalmazása, statisztikai kiértékelés
-    - de mégis egy csomó zavaró tényező, amit nem vettek figyelembe
-    - mutatja, hogy hiába a "jó szándék", akkor is lehet rossz következtetéseket levonni
-    - veszély: "épp így van", vagy "pont kijön" magyarázatok
-        - figyelni kell, hogy mi a biztos, és mit teszünk hozzá feltételezésként
-- szóval a sör és az edzés kapcsolatáról nem tudtunk meg sokat
-    - viszont cserébe a tudományos kutatási folyamatokkal kapcsolatban rendesen elbizonytalanodtunk... hurrá?
-- nem csak azt kell kérdezni, hogy működik-e
-    - hanem pl. hogy honnan tudnánk egyáltalán biztosan, hogy működik?
-    - mit mérnénk? és az, amit mérünk, mennyire áll közel a való életben tapasztaltakhoz?
-- science != answers, science = uncertainty reduction
-
-
+- [Bizonytalanság](#bizonytalanság)
 - [Ivás](#ivás)
 - [Evés](#evés)
 - [Jegelés](#jegelés)
@@ -46,37 +35,120 @@ Erre a célra pedig [Christie Aschwanden - Good to Go](https://www.goodreads.com
 - [Mérés](#mérés)
 - [Placebo](#placebo)
 
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Bizonytalanság
+
+A könyv tudományos hozzáállásába egy jó szándékú "háztáji" kísérlettel kapunk betekintést, amiben az edzés utáni sörfogyasztás hatásait vizsgálják.
+Ez elsőre komolytalannak hangozhat, de kutató ismerősökön keresztül, egyetemi labort és felszerelést használva egy relatíve felelősségteljes, "igazi" kísérletet végeznek.
+Arra is részletesen kitérünk azonban, hogy minden komolyság ellenére is milyen sok zavaró tényező marad, amiket nem vesznek figyelembe.
+És ez _nem_ a "házi" kísérlet miatt van -- a többiek is ilyesmikből vonják le a következtetéseiket.
+
+Ezért lesz olyan veszélyes, ha a kutatóknak valamilyen külső motivációja, vagy "hátsó szándéka" van.
+Na nem kell semmi tudatosan rossz indulatúra gondolni.
+De ha előre tudjuk, hogy egy bizonyos jelenséget próbálunk bizonyítani, akkor emiatt könnyen megeshet, hogy eleve részrehajló kísérletünk tervezünk.
+Vagy a méréseinkbe pont azt az eredményt "magyarázzuk bele".
+Ezt nevezi a könyv "épp így van" tudománynak, vagy "pont kijön" magyarázatoknak.
+
+Szóval végül a sör és az edzés kapcsolatáról nem tudtunk meg sokat.
+Persze ez egyetlen, mindössze pár embert érintő kísérletecskétől nem is nagyon elvárható.
+Viszont cserébe a tudományos kutatási folyamatok megbízhatóságával kapcsolatban rendesen elbizonytalanodhatunk...
+Hurrá?
+
+A lényeg, hogy nem csak azt kell kérdezni, hogy valami működik-e!
+Hanem például azt is, hogy honnan tudnánk egyáltalán biztosan, hogy működik?
+Mit mérnénk?
+És az, amit mérünk, mennyire áll közel a való életben tapasztaltakhoz?
+Mi a biztos, és mit teszünk hozzá feltételezésként?
+
+A tudomány nem a kész válaszokról szól tehát, hanem a bizonytalanság folyamatos csökkentéséről!
+Próbáljuk ezért ennek fényében értelmezni minden további szekció tanulságait!
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Ivás
 
-- ha egy ismert atléta mögé áll valaminek, akkor minek a tudomány?
-    - nem a kutatási eredmények adják el a terméket, hanem egy jó sztori
-- ok-okozati viszony illúziója --> celeb ajánlások
-- Gatorade sztori
-    - hogy lett az egyszerű, sós-cukros vízből világmárka
-    - a kutatást is marketing célokra használták
-    - ebben a kontextusban elektrolit ~= só, de persze ők "elektrolit"-ként emlegetik, mert az tudományosan hangzik
-    - eddig valahogy elég volt enni és vizet inni edzés után, de most már valami speciális kell!
-- létezik konkrétan olyan kutató csapat, akik más kutatások megbízhatóságát vizsgálják
-    - át is nyálazták 40 év sportital kutatását, és elég gyenge bizonyítékokat találtak
-    - volt, hogy a Gatorade-et a semmihez hasonlították, és úgy jobban teljesítettek az alanyok
-        - mindjárt be is szarok... tényleg?!
-        - kaptak cukrot a többiek semmijéhez képest... naná, hogy jobban teljesítenek!
-    - vagy egyértelmű volt a placebo és a tényleges termék közti különbség, ezzel teljesen semlegesítve minden olyan elővigyázatosságot, ami miatt a placebo-nak egyáltalán létjogosultsága lenne
-    - és az ilyen nevetséges tanulmányokból vont le a média olyan általános érvényű, végleges következtetéseket, hogy "ez egyszerűen működik!" köszi!
-- már eleve azt nem támogatják a való világbeli eredmények, hogy a dehidratáltság annyira rossz
-    - példa egy él maratonfutó, aki nem iszik, mégis nyer
-    - de ha a testhőmérsékletét mérjük, akkor ivással alacsonyabbra jön ki
-    - és ha mi azt jobbnak tekintjük, akkor tárá, máris dönthetünk az ivás javára
-- az igazság az, hogy a túlivás (hyponatraemia) sokkal veszélyesebb
-    - de mivel annyira az "igyál! igyál! igyál!" üzenete épült be a köztudatba, mégis ezt látjuk gyakrabban
-    - amúgy meg nincs semmi baj az ivási ingerünkkel, ha azt követjük, akkor már nem lehet nagy baj
-    - másik kutatások azt a következtetést vonják le, hogy az "akkor iszok, ha szomjas vagyok" nem jár teljesítmény csökkenéssel még a komoly hosszú távú atlétáknál sem
-    - de hát abban nincs pénz, könyörgöm! szóval GATORADE!
-- több 10 millió éves evolúció után ne mondja senki, hogy kutatókra és sztár atléták tanácsára van szükségünk, hogy egyáltalán működőképesen tudjuk tartani a saját testünket!
-    - figyeljünk a jelekre, hallgassunk a testünkre, más nem fontos
+Ha egy ismert atléta mögé áll valaminek, akkor minek a tudomány?
+Nem a kutatási eredmények adják el a terméket, hanem egy jó sztori!
+A Gatorade sztorijánál pedig nem is kell jobb.
 
+Betekintést kaphatunk abba, hogyan lett az egyszerű, sós-cukros vízből világmárka.
+És hogy honnan jön a divat, hogy a kutatásokat és a "tudományosságot" is marketing célokra használják.
+Ebben a kontextusban ugyanis az "elektrolit" kb. annyit jelent, hogy "só", de persze ők elektrolitként emlegetik, mert az tudományosan hangzik.
+Könnyebb úgy beállítani, mint egy új, extra szükségletet, amit (lássunk csodát!) az ő termékük pont kielégít.
+Eddig valahogy elég volt enni és vizet inni edzés után, de most már valami speciális kell!
+
+Létezik azonban konkrétan olyan kutató csapat, akik más kutatások megbízhatóságát vizsgálják.
+Át is nyálazták 40 év sportital kutatását, és mondjuk úgy, hogy elég gyenge bizonyítékokat találtak.
+Volt olyan kísérlet, ahol a Gatorade-et a _semmihez_ hasonlították, és ilyen esetben a Gatorade-es alanyok jobban teljesítettek.
+Mindjárt be is szarok... Tényleg?!
+Kaptak cukros vizet a többiek **semmi**jéhez képest.
+Naná, hogy jobban teljesítenek!
+Csak hát ehhez minek a Gatorade?
+Nem lehetne mondjuk -- nem is tudom -- enni valamit előtte?
+
+Gyakori ezen felül az olyan kísérlet is, ahol egyértelmű volt a placebo és a tényleges termék közti különbség.
+Ezzel pedig egy mozdulattal teljesen semlegesítettek minden olyan elővigyázatosságot, ami miatt a placebo-nak egyáltalán létjogosultsága lenne.
+Mert ha egyszer tudom, hogy melyiknek _kellene_ hatnia, és melyiknek nem, akkor az eredményt ugye akár oda is képzelhetem.
+**Ez** a placebo...
+És ilyen nevetséges tanulmányokból vont le a média olyan általános érvényű, végleges következtetéseket, hogy "Ez egyszerűen működik!"
+Hát köszönjük szépen!
+
+Ha még általánosabban nézzük, akkor már eleve azt sem támogatják a való világbeli eredmények, hogy a dehidratáltság annyira rossz lenne.
+Példaként élvonalbeli maratonfutókat hoz a könyv, akik nem isznak, mégis nyernek.
+Csak hát a kutatások eldöntötték, hogy a testhőmérsékletet kell mérni ahhoz, hogy a teljesítményünk megbecsülhessük.
+És mivel ivás mellett átlagosan alacsonyabbra jön testhőmérséklet, ezért _tárá_, máris dönthetünk az ivás javára.
+
+Az igazság az, hogy gyakorlati tapasztalatok alapján a túlivás (_hyponatraemia_) sokkal veszélyesebb.
+De mivel az "igyál! igyál! igyál!" üzenet annyira beépült a köztudatba, mégis ezt látjuk gyakrabban.
+Amúgy meg nincs semmi baj az evolúciótól kapott ivási ingerünkkel; ha azt követjük, akkor már nem lehet nagy baj.
+Olyan kutatások is léteznek, amik szerint az "akkor iszok, ha szomjas vagyok" nem jár teljesítmény csökkenéssel még a komoly hosszú távú atlétáknál sem.
+Csak hát abban nincs pénz, könyörgöm!
+Szóval GATORADE!
+
+<br />
 
 
 
@@ -109,29 +181,34 @@ Erre a célra pedig [Christie Aschwanden - Good to Go](https://www.goodreads.com
 
 ## Evés
 
-- régebben dokumentumfilmekben mutatták, ahogy kb. "rendes" főtt kaját esznek az atléták esténként, hogy regenerálódjanak és bírják a másnapi iramot is
-    - semmi extra, csak sok (a kalóriaszükséglet miatt)
-- aztán persze ez is egyre jobban eltudományosodott
-    - energia szeletek ilyen-olyan kikísérletezett recepttel
-    - kimondott "recovery" italok, specifikus fehérje-szénhidrát arányokkal
-    - kutatások, hogy mindezt mikor kell bevinni, hogy minél jobban hasson
-        - jujj-jujj, sietni kell, pontosan
-- de ha ránézünk, megint a semmihez hasonlították a "valami, csak máskor" helyett
-    - a precíz "edzés utáni ablak" pedig inkább hangárajtó
-    - nem annyira az időzítés volt a fontos, mint inkább a pótlás maga
-    - és eleve: ez az egész csak akkor számít, ha annyira hamar akarsz újra edzeni
-        - ha nem, másnapra úgyis újra tele lesznek a raktáraid
-        - szóval nem a regenerálódásunkat hátráltattuk, csak nem éltünk a gyorsítósávval (amire nem volt szükségünk)
-- lehet, hogy van tökéletes tápanyag adagolás
-    - de a testünk amúgy is elég jó az egyensúly fenntartásában (homeosztázis)
-    - szóval talán itt is "diminishing returns", nem is éri meg ennyire precízen molyolni
-        - még tán az atléták szintjén se... hát még nekünk, hétköznapi embereknek
-    - kb. mint a benzin oktánszáma: számít, igen, de az egy picit fontosabb, hogy milyen motorba öntjük...
-    - Usain Bolt Chicken Nuggets-eket evett, egy kosárlabda csapatnál a mogyoróvajas-lekváros kenyér (PB&J) a nyerő
-- manapság változnak a trendek, és az alacsony zsírtartalom helyett a "természetes" a titkos kulcsszó
-    - de ezek sem jobbak semmivel, csak most épp jobb a társadalmi megítélésük
-    - ugye-ugye megint azok a fránya alapelvek... amiket ha nem értünk, akkor bármivel meg lehet minket etetni
+A szerző felidézi, ahogy régebbi dokumentumfilmekben még "rendes", főtt kaját lát az atléták asztalán.
+Semmi extra, csak a kalóriaszükséglet miatt relatíve sok -- hogy legyen miből regenerálódni és bírják a másnapi iramot is.
+Mára persze ez is egyre jobban eltudományosodott.
 
+Energia szeletek ilyen-olyan kikísérletezett receptekkel.
+Kimondott "recovery" italok, specifikus fehérje-szénhidrát arányokkal.
+Kutatások, hogy mindezt mikor kell bevinni, hogy minél jobban hasson.
+Jujj-jujj, sietni kell, pontosan!
+
+De ha ránézünk, ezeket a módszereket megint a semmihez hasonlították a "valami, csak máskor" helyett.
+A precíz edzés utáni tápanyagbeviteli ablak pedig inkább hangárajtó méretű!
+Nem annyira az időzítés volt a fontos, mint inkább a pótlás maga.
+És eleve: ez az egész csak akkor számít, ha annyira hamar akarnánk újra edzeni.
+Ha nem, akkor másnapra úgyis újra tele lesznek a raktáraink, szóval nem tök mindegy?
+Nem a regenerálódásunkat hátráltattuk, csak nem éltünk egy olyan gyorsítósávval, amire nem volt szükségünk.
+
+Ettől nyilván lehetséges, hogy létezik a tökéletes tápanyag adagolás.
+De a fontosabb kérdés, hogy érdekes-e ez számunkra?
+A testünk amúgy is elég jó az egyensúly (_homeosztázis_) fenntartásában, szóval egyáltalán nem biztos, hogy megéri ennyire precízen _molyolni_ ezen.
+Még tán az atléták szintjén sem.
+Hát még nekünk, hétköznapi embereknek...
+
+Egy kicsit olyan ez, mint ahogy benzin oktánszáma hat a teljesítményre: számít, igen, de az egy picit fontosabb, hogy milyen motorba öntjük!
+És csak érzékeltetésnek: Usain Bolt Chicken Nuggets-eket evett az Olimpián, és egy vezető kosárlabda csapatnál a mogyoróvajas-lekváros kenyér (PB&J) a nyerő.
+[Múlt héten]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}) ugye beszéltünk arról, hogy az ilyenek rossz arányban, hosszú távon nem a legjobb döntések.
+De ha szigorúan a regenerálódás szemszögéből nézzük, akkor láthatjuk, hogy nincsenek nagy szakadékok, úgyhogy ne aggódjuk túl!
+
+<br />
 
 
 
@@ -612,6 +689,9 @@ Erre a célra pedig [Christie Aschwanden - Good to Go](https://www.goodreads.com
 
 
 ## Összefoglalás
+
+- több 10 millió éves evolúció után ne mondja senki, hogy kutatókra és sztár atléták tanácsára van szükségünk, hogy egyáltalán működőképesen tudjuk tartani a saját testünket!
+    - figyeljünk a jelekre, hallgassunk a testünkre, más nem fontos
 
 - a legfontosabb tanulság: hallgassunk a testünkre!
 - ahogy idősödünk, egyre több pihenés kell majd a teljes regenerálódáshoz
