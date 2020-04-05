@@ -17,7 +17,7 @@ Nem volt ugyanis könnyű olyan könyvet találni, ami rendesen tárgyalja az al
 
 Persze rengeteg a könyv a témában, de az nagyon szubjektív, hogy a "rendesen" és az "alapok" itt mit jelentenek.
 Sok olyannal találkoztam, amiknek hátsó szándékaik voltak -- a leggyakrabban az, hogy "legyél vegán", de emellett előfordult a "böjtölj", a "fókuszálj a ketogén diétára", és az "el kell adni a kapcsolódó termékeket" is.
-Ha szándékosan ezek köré szőtt mondanivaló kapok, az nálam nem "rendes"!
+Ha szándékosan ezek köré szőtt mondanivalót kapok, az nálam nem "rendes"!
 Ha viszont ennél tudományosabbat szerettem volna, akkor a következő megálló a konkrét biokémia tankönyv volt, képletekkel és reakciókkal.
 Ez a csoport pedig nem kimondottabban az "alapok" -- legalábbis nagyon nem alap szinten!
 
@@ -91,7 +91,7 @@ Ha a csicsás kifejezés nem is ismerős, a fajtái biztosan: így hívjuk együ
 Ezekből mind vércukor lesz (valahogy), amit aztán energiaként hasznosítunk.
 A testünk viszont relatíve szigorú keretek között szeretné tartani a vércukor szintünket, amire hormonokat használ.
 Az **inzulin** szerepe, hogy elpakolja a fölösleget -- először az izmokba és a májba, de ha azok tele vannak, akkor bizony zsírtartaléknak.
-És minél jobban megszalad a vércukor szintünk, annál több lesz az inzulin is, hogy többed-magában rendet tudjon tenni.
+És minél jobban megszalad a vércukor szintünk, annál több lesz az inzulin is, hogy többedmagával rendet tudjon tenni.
 Magas inzulin esetén a tetejébe a zsírpárnák bontása is "be van tiltva", mert hát ugye ha túl sok az energia, akkor nehogy már még több legyen!
 
 Az inzulin kvázi ellentéte pedig a **glukagon**, ami akkor aktiválódik, ha a vércukor szintünk túl alacsony.
@@ -167,7 +167,7 @@ Ez annyit takar, hogy az izmaink -- részben a rendszeresen magas inzulinszinthe
 De a szervezet ugye továbbra is szinten akarja tartani a vércukorszintet, ezért még több inzulint termel és valahova csak azért is betuszkolja a fölösleget!
 Ha az izmokba nem megy, akkor majd megy a zsírba.
 
-Ezt tovább tetézhetjük sok telített zsír fogyasztásával -- ami szintén roncsolják az izmaink inzulin érzékenységét -- de a stressz, a dohányzás, a drogok, az alkohol, az edzés hiánya, a sok egyszerű szénhidrát, a kevés rost és a nagy testzsír százalék is rátehetnek egy lapáttal.
+Ezt tovább tetézhetjük sok telített zsír fogyasztásával -- ami szintén roncsolja az izmaink inzulin érzékenységét -- de a stressz, a dohányzás, a drogok, az alkohol, az edzés hiánya, a sok egyszerű szénhidrát, a kevés rost és a nagy testzsír százalék is rátehetnek egy lapáttal.
 Magyarán szólva: aki kövér, annak még a szervezete is bizonyos értelemben "kövérségre van beállva".
 Persze soha nem késő visszafordulni, csak ahogy mondtuk, egyre nehezebb lesz.
 
@@ -287,7 +287,7 @@ Direkt nem csak úgy mondom, hogy "súlyzós edzés", mert ahogy a [Fegyencedzé
 De attól értitek na: "gyúrni kell"!
 
 Ennek hatására a "fifti-fifti" zsír-izom vesztési arány 80%-20%-ra javulhat, vagy akár még tovább!
-Az izmok megtartása -- vagy akár növelése -- pedig magasan tartja az energiaigényünket, könnyebben fenntartható lesz a zsírvesztés, és idővel még az inzulin érzékenységüket is visszabillentheti.
+Az izmok megtartása -- vagy akár növelése -- pedig magasan tartja az energiaigényünket, könnyebben fenntartható lesz a zsírvesztés és idővel még az inzulin érzékenységünket is visszabillentheti.
 Ezek miatt összesített kalóriaszükségletben sincs párja!
 
 1. Valamivel fedezni kell magát az edzést,
@@ -352,7 +352,7 @@ Pár jó kaja ajánlat:
 
 - Sovány fehérje: csirkemellfilé, pulykamellfilé, sovány marhahús, tengeri halfélék, tojásfehérje, sovány túró.
 - Komplex szénhidrátok: zöldségek, hüvelyesek, zab, barna vagy basmati rizs, teljes kiőrlésű dolgok.
-- Telítetlen zsírok: halolaj, lenmagolaj, extra szűz olivaolaj, kókuszzsír.
+- Telítetlen zsírok: halolaj, lenmagolaj, extra szűz olívaolaj, kókuszzsír.
 
 **Jó, akkor eszek rendes kajákból "épp csak" kevesebbet. De azt úgy is lehet, hogy kihagyok egy pár kaját, hogy aztán jól bezabálhassak!**
 
