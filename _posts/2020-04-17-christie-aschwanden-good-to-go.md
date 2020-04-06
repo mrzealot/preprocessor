@@ -241,30 +241,32 @@ De ha szigorúan a regenerálódás szemszögéből nézzük, akkor láthatjuk, 
 
 ## Jegelés
 
-- RICE = Rest, Ice, Compression, Elevation
-    - és amióta ezt ennyire hirdetik, a jegelés teljesen hétköznapivá vált
-- hasonlóan a jeges fürdőkkel
-    - nagyon szar, de talán pont ettől népszerű (no pain, no gain)
-    - pszichológiai torzítás: ha fáj, akkor biztos nagyon hatásos --> aktív placebo
-- ellenérvek: pont a természetes gyógyulásunkat lassítjuk vele
-    - ha karambol van az autópályán, akkor sem lassítani akarjuk a forgalmat, hanem lehetővé tenni, hogy a mentő és a tűzoltók minél hamarabb odaérhessenek
-    - egyre több a kutatás, ami ezt belátja, és hibát még senki nem nagyon talált benne
-- szóval igazából két iskola versenyez
-    - hamarabb jobban érzem magam vs. hosszabb távon jobban fejlődök
-    - ezért van olyan is, aki azt mondja, hogy úgy alkalmazzuk, ami a célunk vele
-    - ha erősítés van, akkor adjuk fel azt a kis plusz teljesítményt a nagyobb adaptációért
-    - ha viszont szezon, és gyorsan kell újra teljesíteni (és úgy érezzük, hogy jót tesz), akkor jegeljünk
-- és ha szubjektíven nézzük, akkor sokan kimutatják, hogy jobban érzik magukat utána
-    - na most persze ez megint lehet rossz kutatás eredménye is
-    - azt nagyon nehéz ugye elrejteni, hogy valaki tényleg jeges fürdőt kap-e -- valahogy mindig észreveszik...
-    - innentől viszont a vélt javulás már megint lehet placebo :/
-    - ez lehet általános tanulság is: ha valamit szubjektíven mérünk, és nincs rá meggyőző placebo, akkor még kutatásokkal együtt sem meggyőző!
-- sokkal valószínűbb, hogy pszichológiai a hatás
-    - a tudat, hogy tettél magadért valamit, még ha konkrét fiziológiai hatása nincs is
-- esik még szó a cryoterápiáról (nitrogénnel hűtés egy álló csőben), ahol szintén csak úgy röpködött a bullshit
-    - hiába mínusz száz akárhány fokos a levegő, bőrön csak mínusz pár fokos csökkenés érezhető
+Régebben a RICE (Rest, Ice, Compression, Elevation; vagyis kb. pihentetés, jegelés, kompresszió, és magasan tartás) kezdte hirdetni a jegelés előnyeit, és azóta a jeges fürdőkkel és a nitrogén hűtésű cryoterápiával megint jól elszaladt a ló.
+Közös tulajdonságuk, hogy mind nagyon szar; de talán pont ettől népszerűek
+Felléphet ugyanis egy olyan pszichológiai torzítás, hogy ha fáj, akkor biztos nagyon hatásos.
+A "no pain, no gain" hozzáállás tehát aktív placebo szerepet tölthet be.
 
+Ha viszont kicsit tudományosabban nézzük a témát, egyből jönnek az ellenérvek, hiszen pont a természetes gyógyulásunkat lassítjuk vele.
+A vérbőség és a gyulladás pont a karbantartó folyamatok jele.
+És ha karambol van az autópályán, akkor sem lassítani akarjuk a forgalmat, hanem lehetővé tenni, hogy a mentő és a tűzoltók minél hamarabb odaérhessenek.
+Ezt egyre több kutatás is belátja, hibát pedig még senki nem nagyon talált benne.
 
+Szóval igazából két iskola versenyez: vagy hamarabb érezhetem jobban magam, vagy jobban fejlődhetek hosszabb távon.
+Ezért köthetünk akár olyan kompromisszumot is, hogy úgy alkalmazzuk, ami a célunk vele.
+Ha erősítés van, akkor adjuk fel azt a kis plusz pillanatnyi teljesítményt a nagyobb adaptációért!
+Ha viszont "szezon" van, és gyorsan kell újra teljesíteni (és úgy érezzük, hogy jót tesz), akkor jegeljünk!
+
+Tisztán szubjektív szemmel nézve sokan kimutatják, hogy jobban érzik magukat utána, de ez persze megint lehet rossz kutatás eredménye is.
+Azt nagyon nehéz ugye elrejteni, hogy valaki tényleg jeges fürdőt kap-e -- az alanyok valahogy _mindig_ észreveszik...
+Innentől viszont a vélt javulás már megint lehet placebo.
+Sőt, ezt akár általános tanulságnak is megfogalmazhatjuk: ha valamit szubjektíven mérünk, és nincs rá _meggyőző_ placebo, akkor még kutatásokkal együtt sem garantált, hogy tényleg az hat és nem csak odaképzeljük!
+
+Mindent összevetve sokkal valószínűbb, hogy ez az egész jeges mizéria pszichológiai hatású.
+A tudat segít, hogy tettünk magunkért valamit -- még ha konkrét fiziológiai hatása nincs is.
+Megjegyezném emellett, hogy én is szigorú menetrend szerint tartok hideg zuhanyokat, de kizárólag a pszichológiai hatás miatt.
+Szerintem a "legyőztem magam" tudat már megéri -- csak a konkrét fiziológiai hatás hiányával azért legyünk tisztában.   
+
+<br />
 
 
 
@@ -296,25 +298,26 @@ De ha szigorúan a regenerálódás szemszögéből nézzük, akkor láthatjuk, 
 
 ## Keringés
 
-- a vér szállítja a tápanyagot oda, a szemetet meg el a sejtektől
-    - szóval ha jobban folyik, akkor jobban megy a regenerálódás, QED
-- ehhez pedig általában a meleg ajánlott, hogy tágítsa az ereket
-    - infra szauna?
-    - de vajon mitől lesz jobb, hogy infra, mintha csak simán meleg lenne, azt senki nem tudja
-- vagy masszázs, hogy átnyúzzuk az izmokat
-    - itt feljön, hogy kipréseljenek dolgokat, de hogy épp mit, az évről évre változik
-    - de itt sincs semmi bizonyíték, hogy hat
-    - csak úgy érzed, hogy jól esik
-    - vagy akár csak hogy mélyebb agy-test kapcsolatot kapsz tőle, jobban tisztában leszel a saját testeddel --> megint a pszichológiai placebo
-- foam roller --> kb. semmit nem tudunk
-    - van elmélet, hogy mitől segítHETne, de nincs bizonyítva semmi
-    - ha segít is, akkor is leginkább a kötőszövetekre hat
-- vaagy kompressziós harisnyák
-    - némi pozitív hatás, de ugyanaz a placebo veszély
-- vagy akár pulzáló csizma, ami segíti a keringést
-    - dettó
-- szóval ha nincs mit kipréselni, csak a keringetés a lényeg, akkor miért is nem kocogunk / tekerünk / ugrálunk lazán egy kicsit tovább?
-    - eleve az edzés pörgeti a legjobban a keringést, minek ehhez bármi is?
+Az erre alapuló regenerációs stratégiák egyszerű felvetéssel dolgoznak.
+A vér szállítja a tápanyagot oda, a szemetet meg el a sejtektől.
+Szóval ha jobban folyik a vér, akkor jobban megy a regenerálódás.
+Pont.
+
+Ehhez sokszor a meleget ajánlják, hogy tágítsa az ereket -- legyen az hagyományos vagy infra.
+De lehet masszázs is, hogy átnyúzzuk az izmokat.
+Itt feljön, hogy ki szeretnénk préselni dolgokat az izmainkból.
+De hogy épp mit, az évről évre változik.
+Semmi bizonyíték, hogy hatna...
+De ez legalább jobban esik, mint a jegelés!
+
+Lehet még ilyen szivacsgörgőket (foam roller) használni, amiknél legalább van elmélet, hogy mitől segít_het_ne; de bizonyítva itt sincs semmi.
+Vagy mondjuk kompressziós harisnyák?
+Némi pozitív hatás mérhető, de fennáll ugyanaz a placebo veszély, mind eddig is.
+Vagy akár pulzáló csizma?
+Dettó.
+
+Szóval ha nincs mit kipréselni -- már pedig egyelőre nem tudunk ilyenről -- és csak a keringetés a lényeg, akkor miért is nem kocogunk, tekerünk vagy ugrálunk lazán egy kicsit tovább?
+A cardio típusú edzések eleve arra vannak, hogy a keringésünket pörgessék, szóval minek ehhez bármi más?
 
 
 
@@ -348,31 +351,29 @@ De ha szigorúan a regenerálódás szemszögéből nézzük, akkor láthatjuk, 
 
 ## Relaxálás
 
-- minden idióta tud _még többet_ edzeni
-    - ahhoz kell az ész, hogy pihenjünk is megfelelően
-- lebegő tankok ~= érzékmegvonó tankok
-    - mély relax, hősnőnket nagyon meggyőzte
-- a regenerációnak komoly mentális komponense van
-    - akkor tudunk megbirkózni az edzéssel, ha fejben is hisszük
-    - de a pszichológiai, stresszkezelési, és hasonló vonatkozásokat eddig igencsak figyelmen kívül hagyták
-- több kutatás is mutatja, hogy az érzelmi stressz is kb. ugyanannyira akadályozza a fejlődést, mintha túledzenéd magad
-    - nagyobb sérülési esély!
-    - és cserébe ezt még azzal is tovább növelhetjük, ha úgy érezzük, hogy nem tudunk megbirkózni vele
-- csak kint lenni (mondjuk sétálni egyet) sokat segíthet
-    - de egyénfüggő
-    - csak erre is figyelmet kellene fordítani!
-    - meg kell keresni a hozzánk illő relaxációs rutint
-- meting feljön a sztoikus filozófia
-    - nem mindig tudjuk a stressz okát eltüntetni
-    - de ha megváltoztatjuk, hogy hogyan _reagálunk_ a stresszre, azzal visszavesszük az irányítást
-- meditáció!
-    - de még persze ezt is gamifikáljuk fejre való EEG pánttal és hang visszajelzésekkel
-    - de a kompetitív embereknek legalább adott valamit, amire koncentrálhatnak, és így talán használják is
-    - bizonyos szemszögből a lebegő tank is egy ránk kényszerített meditációs forma volt
-- szóval végül megint oda jutunk, hogy a hozzáállásunk mennyit számít
-    - ki gondolná?! :)
-    - itt érdemes belegondolni, hogy akik csak vakon menetelnek, hogy "meg ne törjék a sorozatot" sokszor csak leépítik magukat a fejlődés helyett
-    - ha nem gépiesen, hanem ésszel állnánk a dolgainkhoz, akkor helyesebben is pihennénk, amivel hosszabb távon többre is mennénk
+Minden idióta tud _még többet_ edzeni...
+Ahhoz kell az ész, hogy pihenjünk is mellé megfelelően.
+Fel kell ismernünk, hogy a regenerációnak komoly mentális komponense van.
+
+Sok szubjektív teszt mutatja, hogy akkor tudunk megbirkózni egy adott edzéssel, ha fejben is hisszük, hogy meg tudunk vele birkózni.
+Arra is utalnak jelek, hogy az érzelmi stressz is kb. ugyanannyira akadályozza a fejlődést, mintha túledzenénk magunkat!
+Nagyobb lesz a sérülési esély -- amit ugye csak tovább tetézünk azzal, ha úgy érezzük, hogy nem tudunk megbirkózni vele.
+Ezek ellenére a pszichológiai, stresszkezelési és hasonló vonatkozásokat eddig igencsak figyelmen kívül hagyták a felépülésben.
+
+Már az sokat segíthet, ha egyszerűen kint vagyunk -- mondjuk sétálunk egyet.
+De ez persze egyénfüggő, ezért ha a séta nem a mi asztalunk, akkor igyekezzünk megkeresni a hozzánk illő relaxációs rutint.
+Emellett megint előkerül a [sztoikus filozófia]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) is, hiszen nem mindig tudjuk majd eltüntetni a stressz okát.
+De ha megváltoztatjuk, hogy hogyan _reagálunk_ a stresszre, azzal visszavehetjük az irányítást!
+
+Relaxálás témában természetesen elmaradhatatlan javaslat a meditáció!
+De ezt a könyvet nyilván nem a meditáció gyakorlati része érdekli, hanem hogy milyen kütyüket lehet eladni a megtámogatására.
+Találkozhatunk érzékmegvonó tankokkal, amik tulajdonképpen ránk kényszerítik a meditálást, és EEG fejpántokhoz kapcsolt telefonos alkalmazásokkal, amik pedig játékosítják a folyamatot.
+
+Összességében megint oda jutunk, hogy a hozzáállásunk mennyit számít.
+Ki gondolta volna?!
+És habár konkrét relaxációs technikák terén nem leszünk sokkal okosabbak, azt a két dolgot mindenképp jegyezzük meg, hogy 1) _valami_ relaxáció szükséges, és 2) ehhez semmi "cucc" nem kell!
+Akik csak vakon menetelnek -- hogy "meg ne törjék a sorozatot" -- azok sokszor csak leépítik magukat a fejlődés helyett.
+Ha viszont mi nem gépiesen, hanem ésszel állnánk a dolgainkhoz, akkor helyesebben (és többet) pihennénk, amivel hosszabb távon többre is mennénk!
 
 
 
