@@ -31,7 +31,6 @@ Ezen szeretnénk most úgy változtatni, hogy objektíven vizsgáljuk az elterje
 - [Relaxálás](#relaxálás)
 - [Alvás](#alvás)
 - [Kiegészítés](#kiegészítés)
-- [Túledzés](#túledzés)
 - [Mérés](#mérés)
 - [Placebo](#placebo)
 
@@ -407,36 +406,46 @@ Ha viszont mi nem gépiesen, hanem ésszel állnánk a dolgainkhoz, akkor helyes
 
 ## Alvás
 
-- csoda pizsama teszt
-    - Egy csodapizsama gyártója azt nyilatkozta, hogy a termék segít "megnyitni" a jobb alvás lehetőségét. De azt már nem tette hozzá, hogy mi miatt is volt a jó alvás eddig zárva...
-- "Insofar as there exists any magical secret for recovery, sleep is it."
-   - "Ha létezik valami varázslatos titok a regenerálódásra, akkor az az alvás."
-   - szóval nem a pizsit kell figyelni, hanem az alvást
-- elég mennyiség, rendszeres lefekvési és felkelési idők, lehetőség szerint hűvösebb és zaj/fénymentes környezet
-    - alvás előtt fél órával már nincs képernyő használat
-    - vagy legalábbis csak kékfény-szűrősen, mert különben belezavarhat az alvási ritmusunkba
-- mennyiségileg 7 és 9 közé teszik az átlag szükségletet
-    - könnyen tesztelhető, ha ébresztő nélkül fekszünk le egy párszor, és megnézzük, hogy a testünk mire vágyik magától
-    - a legtöbben, akik azt mondják, hogy nekik elég 4-5-6 óra, igazából csak jobban viselik az alvásmegvonást, mint az átlag... de attól még van!
-    - kb. hasonló hatásokkal lehet, mintha besörözve próbálnánk normálisan működni -- a sörök mennyisége pedig nyilván arányos azzal, hogy mennyit alvást hagytunk ki
-    - az immunrendszerünkre is kihat --> tesztben a 6 vagy kevesebben alvók sokkal könnyebben kaptak el vírusokat, mint akik 7-et vagy többet aludtak
-    - az alvás egyik fázisa rögzíti a tanult mozdulati mintákat is, szóval helyesebben "gyakorlat PLUSZ ALVÁS teszi a mestert"
-    - ez korrelál a legjobban a várható teljesítménnyel
-- nem kell hinni a karperecednek
-    - sokan teljesen jól alszanak, de a mérőeszközük nem úgy érzi
-    - és fordítva...
-    - nem lehet mindet számokra fordítani, pláne nem pontatlan eszközökkel -- figyeljük inkább a testünk reakcióit
-    - maga a visszajelzés igazzá teheti a jóslatát --> megint a placebo
-- az inszomniások nagyon gyakran túlbecsülik, hogy mennyit voltak ébren az éjszaka
-    - ne nézzük az órát, tereljük el a figyelmünket az aggodalmaskodásról
-- ne akadjunk fent egy-egy rossz éjszakán
-    - tekintsünk inkább úgy az alvásunkra, mintha egy heti keretünk lenne
-- egy kosaras edző is úgy javította a csapat teljesítményét, hogy teljesen az alvásra koncentrált
-    - aköré szervezte az egész napirendjüket, nincs időzóna átállás, nincs korai kelés
-    - inkább valamelyik edzés-féle legyen arrébb tolva (vagy akár maradjon el), ha az alvás rovására menne
-- még konkrétan a "durmi délutánt" is ajánlják, nem csak óvodásoknak, hanem elit atlétáknak is
+> Ha létezik valami varázslatos titok a regenerálódásra, akkor az az alvás.
+> > Insofar as there exists any magical secret for recovery, sleep is it.
 
+Mennyiségileg 7 és 9 közé teszik az átlag szükségletet, de embere válogatja.
+Könnyen tesztelhetjük a sajátunkat például úgy, ha ébresztő nélkül fekszünk le egy párszor, és megnézzük, hogy a testünk mire vágyik.
+A legtöbben, akik azt mondják, hogy nekik elég a napi 4-5-6 óra, igazából csak jobban viselik az alvásmegvonást, mint az átlag. 
+De attól még olyan állapotban vannak!
+    
+A kialvatlanság pedig veszélyesen hasonlít ahhoz, mintha besörözve próbálnánk normálisan működni -- a sörök mennyisége pedig nyilván arányos azzal, hogy mennyi alvást hagytunk ki.
+Ezen felül az immunrendszerünkre is kihat!
+Egy tesztben a 6 órát vagy kevesebbet alvók sokkal könnyebben kaptak el vírusokat, mint akik 7-et vagy többet aludtak.
+És hogy ne csak a negatívumokkal foglalkozzunk: az alvás egyik fázisa rögzíti a tanult mozdulati mintákat is.
+Szóval helyesebben úgy hangozna a közismert mondás, hogy "gyakorlat **plusz alvás** teszi a mestert!"
+Plusz sok felmérésben az alvás mennyisége korrelál a legjobban a várható teljesítménnyel.
 
+Egy kosaras edző is úgy javította a csapat teljesítményét, hogy teljesen az alvásra koncentrált.
+Aköré szervezte az egész napirendjüket, hogy ne legyen se időzóna átállás se korai kelés.
+Inkább valamelyik edzés legyen arrébb tolva -- vagy akár maradjon el -- ha az alvás rovására menne!
+
+Tehát leszögezhetjük, hogy találtunk egy ténylegesen fontos regenerálódási területet!
+Innentől pedig szinte egyenesen következik, hogy egyesek megpróbálnak majd ebből profitálni.
+Egy súlyozott, alvássegítő _csodapizsama_ gyártója azt nyilatkozta például, hogy a termék segít "megnyitni" a jobb alvás lehetőségét.
+De azt már nem tette hozzá, hogy mi miatt is volt a jó alvás eddig zárva...
+Nem kell emellett az okos karpereceinknek sem túlzottan hinni!
+Kórházi pontosságú műszerek kimutatták, hogy sokan teljesen jól alszanak, de a mérőeszközük nem úgy érzi -- vagy épp fordítva.
+Nem lehet mindet számokra fordítani, pláne nem pontatlan eszközökkel, ezért figyeljük inkább a testünk reakcióit!
+Főleg úgy, hogy maga a hibás visszajelzés igazzá teheti a saját jóslatát!
+
+A alvás fontossága ellenére se akadjunk azonban fent egy-egy rossz éjszakán!
+Tekintsünk inkább úgy az alvásunkra, mintha egy _heti_ keretünk lenne, és az elmaradásokat próbáljuk ráadásokkal kiegyensúlyozni!
+Ne feledjük azt sem, hogy fejben sokat javíthatunk vagy ronthatunk a helyzeten.
+Az inszomniások mondjuk nagyon gyakran túlbecsülik, hogy mennyit voltak ébren az éjszaka -- mert annyira rosszul élik meg.
+Ne nézzük az órát, tereljük el a figyelmünket az aggodalmaskodásról, és reggelig több kikapcs összejön, mint gondolnánk!
+
+Ha optimalizálni szeretnénk, akkor a mennyiségen felül -- és a kütyük helyett -- figyeljünk a rendszeres lefekvési és felkelési időkre, és lehetőség szerint hűvösebb, sötétebb és zajmentesebb környezetben aludjunk!
+Illetve alvás előtt fél órával már ne legyen képernyő használat -- vagy legalábbis csak kékfény-szűrősen, mert különben belezavarhat az alvási ciklusunkba.
+De kiemelném, hogy mindez csak finomhangolás.
+A lényeg az, hogy aludjunk eleget!
+
+<br />
 
 
 
@@ -468,80 +477,44 @@ Ha viszont mi nem gépiesen, hanem ésszel állnánk a dolgainkhoz, akkor helyes
 
 ## Kiegészítés
 
-- étrend kiegészítők, mű vagy természetes
-    - és olyan állításokkal a címkéken, hogy belepirulunk
-    - ezt "optimalizálja", azzal "szinergisztikusan együttműködik", a harmadiknál meg "lézer pontossággal hat"
-    - közben persze lószar nincs mögötte, vagy jobb esetben is csak az ilyen Gatorade-minőségű tanulmányok
-        - és sokszor azoknak a forrásoknak is érdeke, hogy ezt az eredményt hozzák ki a végére :/
-- multivitamin sem kellene egy normális étrend mellett
-    - csak a marketing itt is elhiteti velünk, hogy "mi van, ha valamit kihagytunk"
-    - FOMO
-- sok manapság az olyan folyóirat is, ahol nincs peer-review
-    - ha fizetsz, akkor publikálják az eredményeidet
-    - az eredményeid pedig könnyebben lesznek pozitívak úgy, ha senki nem ellenőrzi, hogy eleve szar a kísérleted
-    - a negatívakat meg amúgy is elrakhatod egy fiókba, így napfényt már csak a pozitív lát :/
-    - “I think predatory publishers pose the biggest threat to science since the Inquisition,” // Jeffrey Beall
-        - Szerintem a ragadozó kiadók jelentik a legnagyobb veszélyt a tudományra az Inkvizíció óta
-- és mindeddig az volt az alapfelvetés, hogy "ha nem is hat annyira, mint mondják, bajt akkor sem csinálunk vele"
-    - kivéve ha titokban olyan tiltott dopping szerek is voltak benne, ami miatt nem egy atlétát eltiltottak (hiába nem tudott róla)
-    - vagy akár a hétköznapi ember is megbetegszik tőle (évente 23.000 sürgősségi eset csak az USA-ban)
-    - egy csomó minden nincs bevizsgálva, mert nem a gyártónak kell bizonyítania, hogy a cucca jó, hanem a kormánynak, hogy rossz
-        - de még csak bejelenteni sem kötelesek, szóval könnyen lehet, hogy a kormánynál nem is tudnak róla!
-- megint oda jutunk vissza, hogy mindez csak azért kell, mert meggyőztek minket, hogy kell
-    - mi meg elhisszük, úgy, hogy közben nem értünk hozzá
-    - de miért is kellene a testünknek mozgás után valami extra, mikor evolúciósan arra lett tervezve, hogy mozogjon?
-    - eddig is megoldottuk kajával...
-- és hogy miért győztek meg? mert kurva sok pénz van benne!
-    - mindenkinek jut egy kicsi a húsos fazék közelében, ezért sokan hirdetik
-    - és a többieknek meg ettől lesz hihető -- hiszen annyi helyről látják
+Az étrend kiegészítők a következő csoport, ahol igencsak arcpirító állításokkal találkozhatunk a címkéken.
+Ezt "optimalizálja", azzal "szinergisztikusan együttműködik", a harmadiknál meg "lézer pontossággal hat".
+Közben persze lószar nincs mögötte, vagy jobb esetben is csak az ilyen Gatorade-minőségű tanulmányok.
+És sokszor azoknak a forrásoknak is érdeke, hogy ezt az eredményt hozzák ki a végére!
+
+Innen pedig áttérünk egy még kellemetlenebb témára.
+Sok ugyanis manapság az olyan folyóirat, ahol nincs "peer-review" -- vagyis nincsenek független bírálók, akik átnézik és végső soron engedélyezik egy-egy kutatás publikálhatóságát.
+Ha fizetsz ezeknek az úgynevezett "ragadozó kiadóknak", akkor publikálják az eredményeidet.
+Ennyi.
+
+Remélem látjuk, miért nem kimondottabban erős egy ilyen "bizonyíték".
+És kutatóként megerősíthetem: ha senki nem ellenőrizné a munkámat -- plusz egy gerinctelen féreg lennék -- akkor én is nagyon könnyen tudnék torz kísérletekkel, eltitkolt kudarcokkal és "átmasszírozott" számokkal pozitív eredményeket kihozni!
+Igyatok ti is kénsavat, mert az egyik tesztnél volt olyan patkány, ami nem döglött bele!
+
+> Szerintem a ragadozó kiadók jelentik a legnagyobb veszélyt a tudományra az Inkvizíció óta
+>
+> -- Jeffrey Beall
+> > I think predatory publishers pose the biggest threat to science since the Inquisition.
+
+Az iparág képviselői valószínűleg azért tudtak aludni éjszaka, mert mindeddig az volt az alapfelvetés, hogy "ha nem is hat annyira, mint mondják, bajt akkor sem csinálunk vele".
+Kivéve ha titokban olyan tiltott dopping szerek is voltak benne, ami miatt nem egy atlétát eltiltottak -- hiába nem tudott róla.
+Vagy akár a hétköznapi ember is megbetegszik tőle, mondjuk abban az évi 23.000 sürgősségi esetben csak az USA területén!
+Sok esetben csak úgy feltételezzük, hogy egy termék be van vizsgálva, de közben még csak bejelenteni sem kötelesek.
+
+Megint oda jutunk vissza, hogy mindez csak azért kell, mert meggyőztek minket, hogy kell.
+De miért is kellene a testünknek mozgás után valami extra, mikor evolúciósan arra lett tervezve, hogy mozogjon?
+Eddig érdekesen minden szükségletünket meg tudtuk oldani rendes kajával, most meg hirtelen minden _is_ kell.
+És hogy miért győztek meg?
+Mert marha sok pénz van benne!
+A húsos fazék közelében mindenkinek jut egy kicsi, ezért sokan hirdetik.
+A többieknek meg pont ettől lesz hihető -- hiszen annyi helyről látják.
+
+<br />
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Túledzés
-
-- túledzés szindróma
-    - a stressz már nem okoz adaptációt, csak fáradságot
-    - ez igazából a megfelelő regenerálódás hiánya
-    - “There’s a belief out there that you can’t overtrain, you can only under-recover,” // Shona Halson
-        - "Sokan hiszik, hogy nem tudunk túledzeni, csak alul-regenerálódni"
-- megint: a stressz az stressz
-    - a testünknek mindegy, hogy fizikai vagy lelki/érzelmi
-- és ismét tanulság: ha kell a pihenő, akkor pihenjünk
-    - ha erőltetés hosszú távon csak rosszra vezet
-    - ~kiégés, és kezelése (pszichológiailag is)
-    - hallgassunk a testünkre!
-- vírusok és betegségek után is lehet hasonló
-    - ha ilyenkor is edzünk, és hagyunk a vírusnak teret nyerni, akkor hosszú távra is csökkentheti a teljesítményünket
-- ha egyszer túlcsúszunk a határvonalon, onnan már nagyon nehéz visszamászni
-    - szóval figyeljünk a megelőzésre, ne égjünk ki!
 
 
 
