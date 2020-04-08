@@ -548,40 +548,49 @@ A többieknek meg pont ettől lesz hihető -- hiszen annyi helyről látják.
 
 ## Mérés
 
-- vajon hogy lehet mérni hogy haladunk-e?
-    - és hogy _jól_ haladunk-e? elég gyorsan haladunk-e? vagy épp _túl_ gyorsan?
-    - viszont ezek nagyon nehéz kérdések
-- kb. minden regenerálódott atléta egyforma, de minden "regenerálatlan" a maga módján regenerálatlan
-    - kutatások szerint ez mindenkinél más, de ha valakinél pl. egyszer torokfájás jelzi, akkor valószínű, hogy máskor is az fogja
-- sokan próbálják ezt manapság adatokkal megoldani
-    - vérvizsgálat, stb.
-    - de az innen kinyert számok könnyen lehetnek megtévesztőek, más is hathat rájuk
-    - szóval jó esetben is csak akkor megbízható, ha rendszeresen és hosszú távon figyelünk valamit
-- és természetesen ezt is lehet rosszul használni
-    - pl. nincs is semmi bajunk, de ezzel kapunk egy új tényezőt, ami miatt aggódhatunk
-    - ésszel kell értelmezni az eredményeket
-    - legyünk tisztában vele pl. hogy az ajánlott határértékek is általában 95%-os konfidencia intervallumok alapján készülnek
-    - vagyis az esetek 5%-a úgy is lehet ezeken kívül, hogy igazából semmi rendellenes nincs a háttérben
-        - és ezt még szűkebbre lehet venni, ha valakinek mondjuk érdeke, hogy kilógjon valami, ami miatt gyakrabban mehetsz tesztekre
-    - a saját alapvonalunkhoz képest szabad csak hasonlítgatni --> amihez meg ugye kell egy saját alapvonal --> még több teszt
-    - McNamara tévedés: "Nem minden számít, ami mérhető. És nem minden mérhető, ami számít."
-- nem is feltétlen a metrika a fontos (mert sokszor ugyanazt üzenik), hanem hogy mit üzennek
-    - ha konzisztensen terheled magad, akkor relatíve védve leszel, tudsz regenerálódni, stb.
-    - de ha hirtelen megnyomod, akkor nagyobb a sérülés esélye, és több idő is kell regenerálódni
-    - ezért veszélyes, ha sérülés után "be akarjuk pótolni" a kimaradást
-    - azzal csak még könnyebben lesérülünk, még nehezebben regenerálódunk, és megyünk körbe
-    - hagyjunk magunknak időt visszarázódni, fokozatosan és lassan emeljük a terhelést
-    - és terhelés alatt nem is feltétlen azt értjük, hogy hány kilométert futottunk vagy hány kilót nyomtunk fekve
-        - hanem hogy azt mennyire komoly megterhelésként éltük meg
-        - ugyanaz a terhelés két különböző embernek nagyon mást jelenthet
-- megint feljön: a pszichológiai terhelés ugyanúgy számít, mint a fizikai
-    - szóval erről a területről is érdemes metrikákat gyűjteni, ha már gyűjtünk
-    - sőt, innen érdemes igazán, meta-kutatás mutatja is, hogy a szubjektív túlterhelési értékelések sokkal jobbak, mint bármelyik objektív metrika
-    - egyszerűen még nem vagyunk azon a szinten, hogy az objektív metrikáink elég pontosak legyenek
-    - viszont ha nagyon hiszünk bennük, akkor önbeteljesítő jóslatokká válhatnak
-- szóóóóval: hallgassunk a testünkre!
-    - tanuljuk meg értelmezni a saját jelzéseinket! figyeljünk oda, ne legyintsük csak úgy le, ha épp nem érezzük magunkat a toppon.
-    - és pláne ne hasonlítsuk magunkat másokhoz, akiknek radikálisan más igényeik lehetnek!
+Regenerálódás téren felmerülhet, hogy vajon hogyan lehet mérni a haladásunkat?
+És hogy _jól_ haladunk-e?
+Elég gyorsan haladunk-e?
+Vagy épp _túl_ gyorsan?
+Viszont ezek sajnos nagyon nehéz kérdések.
+
+Ennek a tetejébe -- habár kb. minden regenerálódott ember szinte egyforma -- minden "regenerálatlan" ember a maga módján regenerálatlan.
+Kutatások szerint az erre utaló jel mindenkinél más, de ha egy adott személynél például egyszer torokfájás jelzi, akkor legalább annyi valószínű, hogy máskor is az fogja.
+
+Sokan próbálják ezt manapság adatokkal -- jellemzően vérvizsgálatokkal -- megoldani.
+De ne feledjük, hogy az innen kinyert számok könnyen lehetnek megtévesztőek, mert más is hathat rájuk.
+Jó esetben is csak akkor megbízhatóak, ha rendszeresen és hosszú távon figyeljük ugyanazt a dolgot.
+
+És természetesen ezt is lehet rosszul használni.
+Mondjuk ha nincs is semmi bajunk, de ezzel kapunk egy új tényezőt, ami miatt aggódhatunk.
+Ésszel kell tehát értelmezni az eredményeket!
+Legyünk tisztában vele, hogy az ajánlott határértékek általában 95%-os "konfidencia intervallumok" alapján készülnek.
+Ez emberi nyelven azt jelenti, hogy az esetek 5%-a úgy is lehet ezeken a határokon kívül, hogy igazából semmi rendellenes nincs a háttérben.
+
+Ezt persze még szűkebbre lehet venni, ha valakinek mondjuk érdeke, hogy kilógjon valami, ami miatt gyakrabban mehetünk tesztekre.
+Sőt, eleve csak a saját alapvonalunkhoz képest szabad hasonlítgatni, amihez meg ugye először is kell egy saját alapvonal.
+Kitaláltuk, ez még több teszt!
+Nem biztos, hogy ér ennyit az egész -- amit a McNamara tévedés is alátámaszt: "Nem minden számít, ami mérhető. És nem minden mérhető, ami számít."
+
+Koncentráljunk inkább az alapokra!
+Ha konzisztensen terheljük magunkat, akkor relatíve védve leszünk, és tudunk majd regenerálódni.
+De ha hirtelen megnyomjuk, akkor nagyobb a sérülés esélye, és több idő is kell helyre billenni.
+Különösen veszélyes, ha sérülés után "be akarjuk pótolni" a kimaradást, hiszen azzal csak még könnyebben lesérülünk.
+Így még nehezebben regenerálódunk, amit majd még jobban be akarunk pótolni, és megyünk körbe...
+
+Hagyjunk magunknak időt visszarázódni, fokozatosan és lassan emeljük a terhelést!
+És terhelés alatt nem is feltétlen azt értjük, hogy hány kilométert futottunk vagy hány kilót nyomtunk fekve, hanem hogy azt mennyire komoly megterhelésként éltük meg.
+Gondoljunk csak bele: ugyanaz a terhelés két különböző embernek nagyon mást jelenthet.
+
+És ehhez kapcsolódóan megint feljön, hogy a _pszichológiai_ terhelés ugyanúgy számít, mint a fizikai -- ha nem jobban!
+Szóval ha már gyűjtünk, akkor erről a területről is érdemes metrikákat gyűjteni.
+Sőt, innen érdemes igazán!
+Számos kutatás mutatja, hogy a szubjektív túlterhelési értékelések sokkal jobbak, mint bármelyik objektív mérőszám.
+
+A tanulság -- talán nem meglepően -- megint az, hogy hallgassunk a testünkre!
+Tanuljuk meg értelmezni a saját jelzéseinket!
+Figyeljünk oda, ne legyintsük csak úgy le, ha épp nem érezzük magunkat a "toppon"!
+És pláne ne hasonlítsuk magunkat másokhoz, akiknek radikálisan más igényeik lehetnek!
 
 
 
@@ -615,25 +624,34 @@ A többieknek meg pont ettől lesz hihető -- hiszen annyi helyről látják.
 
 ## Placebo
 
-- szinte minden valahol a faszság-alvás skálán mozog
-    - mert nem annyira egyértelműen jó, mint az alvás, de nem is lehet egyértelműen elutasítani
-    - DE: egyrészt mindnek kicsi a hatása
-    - másrészt ezek a hatások nem adódnak össze
-    - ez pedig valószínűleg azért van, mert mindnek ugyanaz a hatása: a placebo hatás!
-- de ez **nem** jelenti, hogy ez rossz
-    - csak azt, hogy nem fiziológiailag hat, hanem a fejünk csinálja
-    - de attól történik valami!
-    - szóval ha meg vagyunk győződve róla, hogy valami hatásos, akkor valamilyen szinten valószínűleg az is lesz
-    - ad valami aktív tennivalót, miközben a testünk végzi a dolgát
-    - proaktívnak érezzük magunkat, mintha nálunk lenne az irányítás
-        - példa: a rövid séta miatt hosszúnak tűnt a csomag kiadás a reptéren, még úgy is, hogy próbálták gyorsítani
-        - de ha nem a kiadás lett gyorsabb, hanem a séta hosszabb (és ezért a teljes idő nagyobb százalékát töltötték az emberek aktívan), a reklamációk szinte megszűntek.
-    - ha érezzük is, hogy valami történik (ha jó, ha rossz), akkor nagyobb a valószínűsége, hogy hatni fog
-- egy csomó regenerációs központ nagy valószínűséggel a "sámán" effekt miatt működik
-    - egy rituálé odamenni, más kezébe adni a gyógyulásod, furcsa eszközöket használni
-    - de már magában az is hathat, hogy egyáltalán rákényszerítenek, hogy kivegyünk némi dedikált időt a napunkból, amit tényleg a pihenés jegyében töltünk
-- mint ahogy a metrikáknál mondtuk, itt is igaz: az számít igazán, hogy hogy érezzük magunkat tőle
-    - szubjektivitás > objektivitás, ha a regenerációról van szó
+Az eddigiek alapján minden valahol a komplett faszság és az aranyat érő alvás közti skálán mozog.
+Semmi más nem annyira egyértelműen jó, mint az alvás, de némi pozitívumot azért csak mutatnak.
+Tovább árnyalhatjuk azonban a képet, ha együtt vizsgáljuk ezeket az egyéb felépülési területeket.
+
+Ha a jegelés 3%-ot segít és a szaunázás is 3%-ot segít, akkor együtt mennyit?
+A válasz sajnos nem 6%, csak a jó öreg 3%.
+Nem adódnak össze; és ez nagy valószínűséggel azért lehet, mert ugyanaz az igazi "tettes" a háttérben -- a placebo hatás!
+
+De ez **nem** jelenti, hogy ez rossz!
+Csak azt, hogy nem fiziológiailag hat, hanem a fejünk csinálja.
+De attól történik valami!
+Szóval ha meg vagyunk győződve róla, hogy valami hatásos, akkor valamilyen szinten valószínűleg az is lesz.
+Még ha csak úgy is, hogy ad valami aktív tennivalót, miközben a testünk végzi a dolgát.
+
+Ha proaktívnak érezzük magunkat, akkor olyan lesz, mintha nálunk lenne az irányítás.
+Ezt pedig a könyv egy zseniális példával szemlélteti.
+Egy reptéren a leszállástól a csomagkiadóig nagyon rövid volt a séta, és emiatt hosszúnak tűnt a várakozás, ami sok panaszhoz vezetett.
+Próbáltak ezen a csomagok oldaláról gyorsítani -- mérhető eredménnyel -- de még így is folyamatosan érkeztek a panaszok!
+Az áttörés ott következett be, amikor nem a kiadást igyekeztek tovább gyorsítani, hanem a sétát tették hosszabbá!
+Az emberek így a teljes várakozási idő nagyobb százalékát töltötték aktívan, és a reklamációk szinte megszűntek.
+Láthatjuk tehát, hogy mennyit számíthat a megítélésünk!
+
+Egy csomó regenerációs központ nagy valószínűséggel az ilyen "sámán" effektek miatt működik.
+Egy rituálé odamenni, más kezébe adni a gyógyulásunkat, furcsa eszközöket használni...
+De már magában az is hathat, hogy egyáltalán rákényszerítenek, hogy kivegyünk némi dedikált időt a napunkból, amit tényleg a pihenés jegyében töltünk.
+
+Mint ahogy a mérésnél mondtuk, itt is igaz: az számít igazán, hogy hogy érezzük magunkat tőle!
+Kocka fejjel nehéz ezt beismerni, de a szubjektivitás üti az objektivitást, ha a regenerációról van szó!
 
 
 
@@ -664,14 +682,16 @@ A többieknek meg pont ettől lesz hihető -- hiszen annyi helyről látják.
 
 ## Összefoglalás
 
-- több 10 millió éves evolúció után ne mondja senki, hogy kutatókra és sztár atléták tanácsára van szükségünk, hogy egyáltalán működőképesen tudjuk tartani a saját testünket!
-    - figyeljünk a jelekre, hallgassunk a testünkre, más nem fontos
+Több 10 millió éves evolúció után nekem ne mondja senki, hogy kutatókra és sztár atléták tanácsára van szükségünk, hogy egyáltalán működőképesen tudjuk tartani a saját testünket!
+Láthattuk, hogy az evés-ivás, a hideg-meleg és a pihenés-vitaminozás területeket is lehet atomfizika szinten művelni, de nem igazán éri meg túlaggódni.
 
-- a legfontosabb tanulság: hallgassunk a testünkre!
-- ahogy idősödünk, egyre több pihenés kell majd a teljes regenerálódáshoz
-    - úgyhogy ehhez jó, ha előre szoktatjuk magunkat
-- két nagyon ellentétes példa
-    - az egyik mindent IS csinál, a másik meg csak a testére hallgat
-    - de ez megint csak a reptéri csomagkiadás
-    - akinek minden IS kell, mert úgy érzi produktívnak a várakozást, az használja csak
-    - de a szerző az itt megtanultak fényében az "ami jól esik"-re szavaz --> én is
+A legfontosabb tanulság, hogy aludjunk eleget!
+Az az arany sztenderd, és semmi más a közelébe sem ér.
+Ha ez megvan, akkor a többi vonatkozásban pedig jóformán szabad kezet kapunk.
+Tanuljunk meg figyelni a jelekre és hallgassunk a testünkre!
+
+Ha a jeges fürdőtől érezzük keménynek magunkat, akkor senki nem tilt el tőle.
+Ha a reptéri "produktív várakozást" szeretjük inkább, akkor sétáljunk hosszabbat a csomagkiadóig.
+Ez nem matek óra, nem csak egy jó válasz van; itt most a szubjektivitás is számít!
+Csodát persze ne várjunk semmitől -- mert igazolt hatás kb. egy szál sincs -- de a placebo valós.
+Szóval a rendes alváson felül csináljuk azt, "ami jól esik"!
