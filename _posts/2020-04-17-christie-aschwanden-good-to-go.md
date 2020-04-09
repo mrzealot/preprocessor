@@ -21,7 +21,8 @@ Mindenféle agyament dologba belefognak, az egzotikus étrend kiegészítőktől
 Ebben persze nem kis üzlet van az élelmeseknek.
 És ha jó a marketing, akkor talán fel sem tűnik, hogy tudományosan semmi alapjuk.
 
-Ezen szeretnénk most úgy változtatni, hogy objektíven vizsgáljuk az elterjedt felépülési módszereket -- és hogy mennyire bízhatunk a mögöttük álló "bizonyítékokban":
+Ezen szeretnénk most úgy változtatni, hogy objektíven vizsgáljuk az elterjedt felépülési módszereket -- és hogy mennyire bízhatunk a mögöttük álló "bizonyítékokban".
+A tartalom a következőképp alakul:
 
 - [Bizonytalanság](#bizonytalanság)
 - [Ivás](#ivás)
@@ -61,7 +62,7 @@ Arra is részletesen kitérünk azonban, hogy minden komolyság ellenére is mil
 
 Ezért lesz olyan veszélyes, ha a kutatóknak valamilyen külső motivációja, vagy "hátsó szándéka" van.
 Na nem kell semmi tudatosan rossz indulatúra gondolni.
-De ha előre tudjuk, hogy egy bizonyos jelenséget próbálunk bizonyítani, akkor emiatt könnyen megeshet, hogy eleve részrehajló kísérletünk tervezünk.
+De ha előre tudjuk, hogy egy bizonyos jelenséget próbálunk bizonyítani, akkor emiatt könnyen megeshet, hogy eleve részrehajló kísérletet tervezünk.
 Vagy a méréseinkbe pont azt az eredményt "magyarázzuk bele".
 Ezt nevezi a könyv "épp így van" tudománynak, vagy "pont kijön" magyarázatoknak.
 
@@ -114,7 +115,7 @@ Nem a kutatási eredmények adják el a terméket, hanem egy jó sztori!
 A Gatorade sztorijánál pedig nem is kell jobb.
 
 Betekintést kaphatunk abba, hogyan lett az egyszerű, sós-cukros vízből világmárka.
-És hogy honnan jön a divat, hogy a kutatásokat és a "tudományosságot" is marketing célokra használják.
+És itt kezdődött az a divat is, hogy a kutatásokat és a "tudományosságot" is marketing célokra használják.
 Ebben a kontextusban ugyanis az "elektrolit" kb. annyit jelent, hogy "só", de persze ők elektrolitként emlegetik, mert az tudományosan hangzik.
 Könnyebb úgy beállítani, mint egy új, extra szükségletet, amit (lássunk csodát!) az ő termékük pont kielégít.
 Eddig valahogy elég volt enni és vizet inni edzés után, de most már valami speciális kell!
@@ -124,7 +125,7 @@ Létezik azonban konkrétan olyan kutató csapat, akik más kutatások megbízha
 Volt olyan kísérlet, ahol a Gatorade-et a _semmihez_ hasonlították, és ilyen esetben a Gatorade-es alanyok jobban teljesítettek.
 Mindjárt be is szarok... Tényleg?!
 Kaptak cukros vizet a többiek **semmi**jéhez képest.
-Naná, hogy jobban teljesítenek!
+Naná, hogy jobban teljesítettek!
 Csak hát ehhez minek a Gatorade?
 Nem lehetne mondjuk -- nem is tudom -- enni valamit előtte?
 
@@ -143,7 +144,7 @@ Csak hát a kutatások eldöntötték, hogy a testhőmérsékletet kell mérni a
 Az igazság az, hogy gyakorlati tapasztalatok alapján a túlivás (_hyponatraemia_) sokkal veszélyesebb.
 De mivel az "igyál! igyál! igyál!" üzenet annyira beépült a köztudatba, mégis ezt látjuk gyakrabban.
 Amúgy meg nincs semmi baj az evolúciótól kapott ivási ingerünkkel; ha azt követjük, akkor már nem lehet nagy baj.
-Olyan kutatások is léteznek, amik szerint az "akkor iszok, ha szomjas vagyok" nem jár teljesítmény csökkenéssel még a komoly hosszú távú atlétáknál sem.
+Olyan kutatások is léteznek, amik szerint az "akkor iszok, ha szomjas vagyok" nem jár teljesítménycsökkenéssel még a komoly hosszú távú atlétáknál sem.
 Csak hát abban nincs pénz, könyörgöm!
 Szóval GATORADE!
 
@@ -190,7 +191,7 @@ Kutatások, hogy mindezt mikor kell bevinni, hogy minél jobban hasson.
 Jujj-jujj, sietni kell, pontosan!
 
 De ha ránézünk, ezeket a módszereket megint a semmihez hasonlították a "valami, csak máskor" helyett.
-A precíz edzés utáni tápanyagbeviteli ablak pedig inkább hangárajtó méretű!
+A precíz edzés utáni tápanyagbeviteli időablak pedig inkább hangárajtó méretű!
 Nem annyira az időzítés volt a fontos, mint inkább a pótlás maga.
 És eleve: ez az egész csak akkor számít, ha annyira hamar akarnánk újra edzeni.
 Ha nem, akkor másnapra úgyis újra tele lesznek a raktáraink, szóval nem tök mindegy?
@@ -202,7 +203,7 @@ A testünk amúgy is elég jó az egyensúly (_homeosztázis_) fenntartásában,
 Még tán az atléták szintjén sem.
 Hát még nekünk, hétköznapi embereknek...
 
-Egy kicsit olyan ez, mint ahogy benzin oktánszáma hat a teljesítményre: számít, igen, de az egy picit fontosabb, hogy milyen motorba öntjük!
+Egy kicsit olyan ez, mint ahogy a benzin oktánszáma hat a teljesítményre: számít, igen, de az egy picit fontosabb, hogy milyen motorba öntjük!
 És csak érzékeltetésnek: Usain Bolt Chicken Nuggets-eket evett az Olimpián, és egy vezető kosárlabda csapatnál a mogyoróvajas-lekváros kenyér (PB&J) a nyerő.
 [Múlt héten]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}) ugye beszéltünk arról, hogy az ilyenek rossz arányban, hosszú távon nem a legjobb döntések.
 De ha szigorúan a regenerálódás szemszögéből nézzük, akkor láthatjuk, hogy nincsenek nagy szakadékok, úgyhogy ne aggódjuk túl!
@@ -240,8 +241,8 @@ De ha szigorúan a regenerálódás szemszögéből nézzük, akkor láthatjuk, 
 
 ## Jegelés
 
-Régebben a RICE (Rest, Ice, Compression, Elevation; vagyis kb. pihentetés, jegelés, kompresszió, és magasan tartás) kezdte hirdetni a jegelés előnyeit, és azóta a jeges fürdőkkel és a nitrogén hűtésű cryoterápiával megint jól elszaladt a ló.
-Közös tulajdonságuk, hogy mind nagyon szar; de talán pont ettől népszerűek
+Régebben a RICE (Rest, Ice, Compression, Elevation; vagyis kb. pihentetés, jegelés, kompresszió, és magasan tartás) módszer kezdte hirdetni a jegelés előnyeit, és azóta a jeges fürdőkkel és a nitrogén hűtésű cryoterápiával megint jól elszaladt a ló.
+Közös tulajdonságuk, hogy mind nagyon szar érzés; de talán pont ettől népszerűek!
 Felléphet ugyanis egy olyan pszichológiai torzítás, hogy ha fáj, akkor biztos nagyon hatásos.
 A "no pain, no gain" hozzáállás tehát aktív placebo szerepet tölthet be.
 
@@ -251,8 +252,8 @@ A vérbőség és a gyulladás pont a karbantartó folyamatok jele.
 Ezt egyre több kutatás is belátja, hibát pedig még senki nem nagyon talált benne.
 
 Szóval igazából két iskola versenyez: vagy hamarabb érezhetem jobban magam, vagy jobban fejlődhetek hosszabb távon.
-Ezért köthetünk akár olyan kompromisszumot is, hogy úgy alkalmazzuk, ami a célunk vele.
-Ha erősítés van, akkor adjuk fel azt a kis plusz pillanatnyi teljesítményt a nagyobb adaptációért!
+Ezért köthetünk akár olyan kompromisszumot is, hogy annak megfelelően alkalmazzuk, ami a célunk vele.
+Ha erősítés van, akkor adjuk fel azt a kis plusz pillanatnyi enyhülést a nagyobb adaptációért!
 Ha viszont "szezon" van, és gyorsan kell újra teljesíteni (és úgy érezzük, hogy jót tesz), akkor jegeljünk!
 
 Tisztán szubjektív szemmel nézve sokan kimutatják, hogy jobban érzik magukat utána, de ez persze megint lehet rossz kutatás eredménye is.
@@ -302,23 +303,23 @@ A vér szállítja a tápanyagot oda, a szemetet meg el a sejtektől.
 Szóval ha jobban folyik a vér, akkor jobban megy a regenerálódás.
 Pont.
 
-Ehhez sokszor a meleget ajánlják, hogy tágítsa az ereket -- legyen az hagyományos vagy infra.
+Ehhez sokszor a szaunázást ajánlják, hogy a meleg tágítsa az ereket -- jöjjön az hagyományos vagy _infra_ forrásból.
 De lehet masszázs is, hogy átnyúzzuk az izmokat.
 Itt feljön, hogy ki szeretnénk préselni dolgokat az izmainkból.
 De hogy épp mit, az évről évre változik.
 Semmi bizonyíték, hogy hatna...
 De ez legalább jobban esik, mint a jegelés!
 
-Lehet még ilyen szivacsgörgőket (foam roller) használni, amiknél legalább van elmélet, hogy mitől segít_het_ne; de bizonyítva itt sincs semmi.
+Lehet még ilyen szivacsgörgőket (foam roller) használni, amiknél legalább van elmélet, hogy mitől segíthetne; de bizonyítva itt sincs semmi.
 Vagy mondjuk kompressziós harisnyák?
 Némi pozitív hatás mérhető, de fennáll ugyanaz a placebo veszély, mind eddig is.
-Vagy akár pulzáló csizma?
+Pulzáló csizma?
 Dettó.
 
 Szóval ha nincs mit kipréselni -- már pedig egyelőre nem tudunk ilyenről -- és csak a keringetés a lényeg, akkor miért is nem kocogunk, tekerünk vagy ugrálunk lazán egy kicsit tovább?
 A cardio típusú edzések eleve arra vannak, hogy a keringésünket pörgessék, szóval minek ehhez bármi más?
 
-
+<br />
 
 
 
@@ -374,7 +375,7 @@ Ki gondolta volna?!
 Akik csak vakon menetelnek -- hogy "meg ne törjék a sorozatot" -- azok sokszor csak leépítik magukat a fejlődés helyett.
 Ha viszont mi nem gépiesen, hanem ésszel állnánk a dolgainkhoz, akkor helyesebben (és többet) pihennénk, amivel hosszabb távon többre is mennénk!
 
-
+<br />
 
 
 
@@ -419,23 +420,23 @@ Ezen felül az immunrendszerünkre is kihat!
 Egy tesztben a 6 órát vagy kevesebbet alvók sokkal könnyebben kaptak el vírusokat, mint akik 7-et vagy többet aludtak.
 És hogy ne csak a negatívumokkal foglalkozzunk: az alvás egyik fázisa rögzíti a tanult mozdulati mintákat is.
 Szóval helyesebben úgy hangozna a közismert mondás, hogy "gyakorlat **plusz alvás** teszi a mestert!"
-Plusz sok felmérésben az alvás mennyisége korrelál a legjobban a várható teljesítménnyel.
+Sok felmérésben szintén az alvás mennyisége korrelál a legjobban a várható teljesítménnyel.
 
 Egy kosaras edző is úgy javította a csapat teljesítményét, hogy teljesen az alvásra koncentrált.
 Aköré szervezte az egész napirendjüket, hogy ne legyen se időzóna átállás se korai kelés.
 Inkább valamelyik edzés legyen arrébb tolva -- vagy akár maradjon el -- ha az alvás rovására menne!
 
 Tehát leszögezhetjük, hogy találtunk egy ténylegesen fontos regenerálódási területet!
-Innentől pedig szinte egyenesen következik, hogy egyesek megpróbálnak majd ebből profitálni.
+Innentől pedig egyenesen következik, hogy lesznek, akik megpróbálnak majd ebből profitálni.
 Egy súlyozott, alvássegítő _csodapizsama_ gyártója azt nyilatkozta például, hogy a termék segít "megnyitni" a jobb alvás lehetőségét.
 De azt már nem tette hozzá, hogy mi miatt is volt a jó alvás eddig zárva...
 Nem kell emellett az okos karpereceinknek sem túlzottan hinni!
 Kórházi pontosságú műszerek kimutatták, hogy sokan teljesen jól alszanak, de a mérőeszközük nem úgy érzi -- vagy épp fordítva.
 Nem lehet mindet számokra fordítani, pláne nem pontatlan eszközökkel, ezért figyeljük inkább a testünk reakcióit!
-Főleg úgy, hogy maga a hibás visszajelzés igazzá teheti a saját jóslatát!
+Ha túl mélyen hiszünk benne, akkor maga a hibás visszajelzés fogja igazzá tenni a saját jóslatát.
 
 A alvás fontossága ellenére se akadjunk azonban fent egy-egy rossz éjszakán!
-Tekintsünk inkább úgy az alvásunkra, mintha egy _heti_ keretünk lenne, és az elmaradásokat próbáljuk ráadásokkal kiegyensúlyozni!
+Tekintsünk inkább úgy az alvásunkra, mintha egy _heti_ keretünk lenne, és az elmaradásokat próbáljuk ráadásokkal kiegyensúlyozni.
 Ne feledjük azt sem, hogy fejben sokat javíthatunk vagy ronthatunk a helyzeten.
 Az inszomniások mondjuk nagyon gyakran túlbecsülik, hogy mennyit voltak ébren az éjszaka -- mert annyira rosszul élik meg.
 Ne nézzük az órát, tereljük el a figyelmünket az aggodalmaskodásról, és reggelig több kikapcs összejön, mint gondolnánk!
@@ -489,19 +490,19 @@ Ennyi.
 
 Remélem látjuk, miért nem kimondottabban erős egy ilyen "bizonyíték".
 És kutatóként megerősíthetem: ha senki nem ellenőrizné a munkámat -- plusz egy gerinctelen féreg lennék -- akkor én is nagyon könnyen tudnék torz kísérletekkel, eltitkolt kudarcokkal és "átmasszírozott" számokkal pozitív eredményeket kihozni!
-Igyatok ti is kénsavat, mert az egyik tesztnél volt olyan patkány, ami nem döglött bele!
+Igyatok ti is kénsavat, mert az egyik tesztnél véletlen pont volt olyan patkány, amelyik nem döglött bele!
 
-> Szerintem a ragadozó kiadók jelentik a legnagyobb veszélyt a tudományra az Inkvizíció óta
+> Szerintem a ragadozó kiadók jelentik a legnagyobb veszélyt a tudományra az Inkvizíció óta.
 >
 > -- Jeffrey Beall
 > > I think predatory publishers pose the biggest threat to science since the Inquisition.
 
 Az iparág képviselői valószínűleg azért tudtak aludni éjszaka, mert mindeddig az volt az alapfelvetés, hogy "ha nem is hat annyira, mint mondják, bajt akkor sem csinálunk vele".
 Kivéve ha titokban olyan tiltott dopping szerek is voltak benne, ami miatt nem egy atlétát eltiltottak -- hiába nem tudott róla.
-Vagy akár a hétköznapi ember is megbetegszik tőle, mondjuk abban az évi 23.000 sürgősségi esetben csak az USA területén!
+Vagy akár a hétköznapi ember is megbetegszik tőle, mondjuk abban az átlagos évi 23.000 sürgősségi esetben csak az USA területén!
 Sok esetben csak úgy feltételezzük, hogy egy termék be van vizsgálva, de közben még csak bejelenteni sem kötelesek.
 
-Megint oda jutunk vissza, hogy mindez csak azért kell, mert meggyőztek minket, hogy kell.
+Megint oda jutunk vissza, hogy ez az egész táplálék kiegészítés -- a maga piruláival és vitaminjaival -- csak azért kell, mert meggyőztek minket, hogy kell.
 De miért is kellene a testünknek mozgás után valami extra, mikor evolúciósan arra lett tervezve, hogy mozogjon?
 Eddig érdekesen minden szükségletünket meg tudtuk oldani rendes kajával, most meg hirtelen minden _is_ kell.
 És hogy miért győztek meg?
@@ -555,7 +556,7 @@ Vagy épp _túl_ gyorsan?
 Viszont ezek sajnos nagyon nehéz kérdések.
 
 Ennek a tetejébe -- habár kb. minden regenerálódott ember szinte egyforma -- minden "regenerálatlan" ember a maga módján regenerálatlan.
-Kutatások szerint az erre utaló jel mindenkinél más, de ha egy adott személynél például egyszer torokfájás jelzi, akkor legalább annyi valószínű, hogy máskor is az fogja.
+Kutatások szerint az erre utaló jel mindenkinél más, de ha egy adott személynél például egyszer torokfájás jelzi, akkor legalább annyi valószínű, hogy máskor is torokfájás fogja jelezni.
 
 Sokan próbálják ezt manapság adatokkal -- jellemzően vérvizsgálatokkal -- megoldani.
 De ne feledjük, hogy az innen kinyert számok könnyen lehetnek megtévesztőek, mert más is hathat rájuk.
@@ -570,7 +571,7 @@ Ez emberi nyelven azt jelenti, hogy az esetek 5%-a úgy is lehet ezeken a határ
 Ezt persze még szűkebbre lehet venni, ha valakinek mondjuk érdeke, hogy kilógjon valami, ami miatt gyakrabban mehetünk tesztekre.
 Sőt, eleve csak a saját alapvonalunkhoz képest szabad hasonlítgatni, amihez meg ugye először is kell egy saját alapvonal.
 Kitaláltuk, ez még több teszt!
-Nem biztos, hogy ér ennyit az egész -- amit a McNamara tévedés is alátámaszt: "Nem minden számít, ami mérhető. És nem minden mérhető, ami számít."
+Nem biztos, hogy ér ennyit az egész -- amit az úgynevezett [_McNamara tévedés_](https://en.wikipedia.org/wiki/McNamara_fallacy){:target="_blank"} is alátámaszt: "Nem minden számít, ami mérhető. És nem minden mérhető, ami számít."
 
 Koncentráljunk inkább az alapokra!
 Ha konzisztensen terheljük magunkat, akkor relatíve védve leszünk, és tudunk majd regenerálódni.
@@ -592,7 +593,7 @@ Tanuljuk meg értelmezni a saját jelzéseinket!
 Figyeljünk oda, ne legyintsük csak úgy le, ha épp nem érezzük magunkat a "toppon"!
 És pláne ne hasonlítsuk magunkat másokhoz, akiknek radikálisan más igényeik lehetnek!
 
-
+<br />
 
 
 
@@ -628,12 +629,12 @@ Az eddigiek alapján minden valahol a komplett faszság és az aranyat érő alv
 Semmi más nem annyira egyértelműen jó, mint az alvás, de némi pozitívumot azért csak mutatnak.
 Tovább árnyalhatjuk azonban a képet, ha együtt vizsgáljuk ezeket az egyéb felépülési területeket.
 
-Ha a jegelés 3%-ot segít és a szaunázás is 3%-ot segít, akkor együtt mennyit?
-A válasz sajnos nem 6%, csak a jó öreg 3%.
+Ha például a jegelés 3%-ot segít a felépülési sebességünkben és a szaunázás is 3%-ot segít, akkor együtt mennyit?
+A válasz sajnos nem 6%, csak a jó öreg 3...
 Nem adódnak össze; és ez nagy valószínűséggel azért lehet, mert ugyanaz az igazi "tettes" a háttérben -- a placebo hatás!
 
-De ez **nem** jelenti, hogy ez rossz!
-Csak azt, hogy nem fiziológiailag hat, hanem a fejünk csinálja.
+De ez **nem** jelenti, hogy bármelyik is "rossz"!
+Csak azt, hogy nem fiziológiailag hatnak, hanem a fejünk csinálja.
 De attól történik valami!
 Szóval ha meg vagyunk győződve róla, hogy valami hatásos, akkor valamilyen szinten valószínűleg az is lesz.
 Még ha csak úgy is, hogy ad valami aktív tennivalót, miközben a testünk végzi a dolgát.
@@ -651,9 +652,9 @@ Egy rituálé odamenni, más kezébe adni a gyógyulásunkat, furcsa eszközöke
 De már magában az is hathat, hogy egyáltalán rákényszerítenek, hogy kivegyünk némi dedikált időt a napunkból, amit tényleg a pihenés jegyében töltünk.
 
 Mint ahogy a mérésnél mondtuk, itt is igaz: az számít igazán, hogy hogy érezzük magunkat tőle!
-Kocka fejjel nehéz ezt beismerni, de a szubjektivitás üti az objektivitást, ha a regenerációról van szó!
+Kocka fejjel nehéz ezt beismerni, de a szubjektivitás üti az objektivitást, ha a regenerálódásról van szó!
 
-
+<br />
 
 
 
