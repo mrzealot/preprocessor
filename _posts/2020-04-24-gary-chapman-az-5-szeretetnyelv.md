@@ -56,22 +56,22 @@ A tartalom a következőképp alakul:
 
 ## <a name="hova"></a>Hova lesz a szerelem?
 
-- kérdezik tőle, hogy miért borulnak mindig be a házasságok
-    - pedig ő próbálja, de nem ér semmit
-- hát azért nem, mert nem is egy nyelvet beszéltek
-    - teljesen jó a hasonlat, ha sima nyelvekre és kommunikációra gondolunk
-    - ha nem beszéljük egymásét, akkor csak mutogatni meg nyögdécselni lehet
-- házassági tanácsadóként ezt fedezte fel a szerző is:
-    - nem az a fő baj, hogy a könyvek/magazinok/TV show-k szerelmi tippjei konkrétan rosszak
-    - csak nagyon nem mindegy, hogy kinél működnek
-    - ha angolul beszélsz, akkor mindegy, mennyire ékesszólóan fejezed ki magad egy olyannak, aki csak kínaiul ért
-- 5 fő szeretetnyelvet különítünk el
-    - de mint az igazi nyelveknél, itt is lehet mindegyiken belül számos "dialektus"
-    - csak a képzeletünk szabhat határt annak, hogy épp hogyan fejezzük ki a szeretetünket a másik felé
-    - de ettől még hasznos lesz értenünk a fő kategóriákat, hogy a háttérben megláthassuk az összefüggéseket
-- szóval a tanulság, hogy természetesen **nem** kell a kapcsolatoknak ellaposodni a házasság után
-    - viszont nagy valószínűséggel meg kell majd tanulnunk egy második nyelvet is
-    - és kb. számíthatunk hasonló kaliberű munkára is!
+Hősünk leggyakrabban azzal a kérdéssel kerül szembe, hogy vajon hova lesz a szerelem -- mondjuk házasság után?
+A válasz pedig ugyanaz, mint ami miatt külföldön nem tudjuk megértetni magunkat: nem egy nyelvet beszélünk!
+A mutogatással és a nyögdécseléssel pedig a másik fél hamar belefárad.
+
+Nem az a fő baj, hogy a könyvek/magazinok/TV show-k szerelmi tippjei konkrétan rosszak.
+Csak nagyon nem mindegy, hogy kinél működnek.
+Ha angolul beszélünk, akkor tök mindegy, mennyire ékesszólóan fejezzük ki magunkat egy olyannak, aki csak kínaiul ért!
+
+Tanácsadói tapasztalatai alapján a szerző 5 fő szeretetnyelvet különít el.
+De mint az igazi nyelveknél, nyilván itt is lehet mindegyiken belül számos "dialektus".
+Csak a képzeletünk szabhat határt annak, hogy épp hogyan fejezzük ki a szeretetünket a másik felé.
+De ettől még hasznos lesz értenünk a fő kategóriákat, hogy a háttérben megláthassuk az összefüggéseket.
+
+Szóval a kiindulási kérdésre az a válasz, hogy természetesen **nem** kell a kapcsolatoknak ellaposodni a házasság után!
+Viszont nem fog mindig minden csak úgy magától menni.
+Nagy valószínűséggel meg kell majd tanulnunk egy második nyelvet -- és akárcsak az igazi nyelveknél, itt is hasonló kaliberű munkára számíthatunk!
 
 <br />
 
@@ -96,19 +96,26 @@ A tartalom a következőképp alakul:
 
 ## <a name="tank"></a>Tartsuk tele a szeretettankot!
 
-- maga a szeretet/szerelem egy elég sokfunkciós (és ezért összezavaró) kifejezés
-    - ételeket, tárgyakat, állatokat, a természetet, embereket, vagy akár magát a szerelmet is lehet szeretni
-    - használhatjuk okként házasságtörésre, társfüggőségre, rossz nevelési szokásokra
-    - de itt most nem is feltétlen cél ebben a katyvaszban rendet tenni
-    - csak abban szeretne segíteni, hogy az egészséges élethez szükséges szeretetet minél könnyebben tudjuk átadni
-- képzeljük azt, hogy mindannyiunkban van egy szeretettank
-    - ha ez tele, akkor minden rendben, ha pedig üres, akkor egyre kétségbeesettebben fogjuk keresni a módját, hogy újratölthessük
-- és ezért borulnak a házasságok -- még akkor is, ha előtte minden jónak tűnt
-    - maga a szerelem (a lila köd, a rózsaszín felhő, stb.) egy ideig meg tudja tölteni a tankunkat
-    - de ha elmúlik (és el fog), akkor újra felszínre bukkan a szeretet igényünk
-    - amit ha a másik nem tud rendesen kielégíteni, akkor bizony baj lesz
-- eltarthat egy darabig, amíg kiürül a tank, de magától nem oldódik meg a gond, ha folyton csak ürül
-    - szóval ha nem akarunk metaforikusan lerobbanni, akkor meg kell tanulnunk a párunk szeretetnyelvén beszélni, és fokozatosan töltögetni a szeretettankját
+Maga a "szeretet" egy elég sokfunkciós -- és ezért összezavaró -- kifejezés.
+Ételeket, tárgyakat, állatokat, a természetet, embereket, vagy akár magát a szerelmet is lehet szeretni.
+Magyarban a "szerelem" egy kicsit segít ezt a sokszoros többértelműséget feloldani, de még így sem vagyunk sokkal előrébb.
+Azt is használhatjuk okként házasságtörésre, társfüggőségre, rossz nevelési szokásokra.
+De itt most nem is feltétlen cél ebben a katyvaszban rendet tenni.
+A könyv inkább abban szeretne segíteni, hogy az egészséges élethez szükséges szeretetet minél könnyebben tudjuk úgy átadni, hogy azt a másik oldalon érezzék is.
+
+Képzeljük azt, hogy az autók benzintankjaihoz hasonlóan mindannyiunkban van egy "szeretettank"!
+Ha ez tele, akkor minden rendben, ha pedig üres, akkor egyre kétségbeesettebben fogjuk keresni a módját, hogy újratölthessük.
+Ez a mentális modell ugyanis sokat segíthet megértenünk, hogy miért _borulnak be_ olyan házasságok is, ahol előtte minden jónak tűnt.
+
+Maga a szerelem -- a lila köd, a rózsaszín felhő, vagy bármi egyéb valamilyen színű valami -- egy ideig önmagában is meg tudja tölteni a tankunkat.
+Lehet, hogy a másik gyökeresen mást (vagy máshogy) ad, mint ami nekünk jó lenne, de ezt a szerelem ügyesen elfedi.
+Egy darabig!
+De ha elmúlik -- és el fog! -- akkor újra felszínre bukkan a hétköznapi, valós szeretet igényünk.
+Ha pedig a másik azzal már nem tud mit kezdeni, akkor bizony baj lesz.
+
+Eltarthat egy darabig, amíg kiürül a tank, de magától nem oldódik meg a gond, ha folyton csak ürül!
+Egy autótól sem várnánk, hogy soha ne kelljen tankolni, csak mert eredetileg tele tankkal vettük...
+Szóval ha nem akarunk metaforikusan lerobbanni, akkor meg kell tanulnunk a párunk szeretetnyelvén beszélni, és fokozatosan töltögetni a szeretettankját!
 
 <br />
 
@@ -133,24 +140,24 @@ A tartalom a következőképp alakul:
 
 ## <a name="szerelem"></a>Szerelembe esés
 
-- hosszas hasonlatok és leírások, hogy nahát, milyen nagyszerű érzés is szerelmesnek lenni
-    - a lényeg, hogy amíg tart, addig nem látjuk meg a másik "hibáit"
-        - és itt "hiba" alatt az inkompatibilitásokat értem...
-        - ami nekünk hiba, az másnak lehet, hogy pont egy vonzó vonás (nem bug, feature!)
-    - a másik fontos, hogy ez a szakasz soha nem tart örökké
-        - átlagban 2 év körül
-- utána pedig maradnak a hajszálak a lefolyóban, a "hogy álljon a wc papír", és egyéb sztereotipikus viták
-    - erre pedig lehet visszavonulással/továbblépéssel/válással reagálni
-    - vagy neki lehet esni a kemény munkának, hogy együtt fejlődjünk, és összecsiszolódjunk
-- mások már azt is javasolták, hogy az ilyen vakon szerelembe esésre legyen inkább valami már kifejezés
-    - mert ez nem tudatos, nem mi választjuk
-    - nincs benne erőfeszítés
-    - egyáltalán nem fókuszál a fejlődésre -- sem a sajátunkra, sem a másik félére
-- az igazi szeretet/szerelem ott kezdődik, hogy kijózanodva "munkához látunk"
-    - nem kényszeredve és szenvedve együtt maradunk, mint a nagyszüleink generációjában olyan sokat
-    - se nem menekülünk hanyatt homlok, mint ahogy az manapság divatosabb
-    - hanem munkához látunk. elkezdjük építeni az igazi szeretetet a partnerünkkel
-- ehhez jöhet igazán jól a következő 5 szeretetnyelv ismerete!
+Itt egy kicsit részletesebben kitérünk arra a bizonyos rózsaszín felhőre.
+Hosszas hasonlatok és leírások, hogy nahát, milyen nagyszerű érzés is szerelmesnek lenni!
+A lényeg, hogy amíg tart, addig nem látjuk meg a másik "hibáit" -- és itt "hiba" alatt természetesen az inkompatibilitásokat értjük.
+Hiszen ami nekünk hiba, az másnak lehet, hogy pont egy vonzó vonás -- programozó szakzsargonban "nem bug, feature!"
+
+De mint említettük, ez a szakasz soha nem tart örökké.
+Felmérések szerint átlagban 2 évre számíthatunk, utána viszont maradnak a hajszálak a lefolyóban, a "hogy álljon a wc papír", és egyéb sztereotipikus viták.
+Erre pedig lehet visszavonulással, továbblépéssel, válással reagálni.
+**Vagy**: neki lehet esni a kemény munkának, hogy együtt fejlődjünk, és összecsiszolódjunk!
+
+Mások már azt is javasolták, hogy az ilyen vakon szerelembe esésre legyen inkább valami más kifejezés, hogy kellően meg tudjuk különböztetni.
+Valami szándékosan negatív kicsengésű, ami jól érzékelteti, hogy ez nem tudatos, nem mi választjuk, nincs benne erőfeszítés, és egyáltalán nem fókuszál a fejlődésre -- sem a sajátunkra, sem a másik félére!
+
+Az igazi szeretet/szerelem ott kezdődik, hogy kijózanodva "munkához látunk".
+Nem kényszeredve és szenvedve együtt maradunk, mint a nagyszüleink generációjában olyan sokan!
+Se nem menekülünk hanyatt homlok, mint ahogy az manapság divatosabb!
+Hanem munkához látunk, és elkezdjük építeni az igazi szeretetet a partnerünkkel.
+Na ehhez jöhet igazán jól a következő 5 szeretetnyelv ismerete!
 
 <br />
 
@@ -175,33 +182,44 @@ A tartalom a következőképp alakul:
 
 ## <a name="1"></a>1. Elismerő szavak
 
-- “I can live for two months on a good compliment.” // Mark Twain
-    - Egy jó dicséreten két hónapig is elélek.
-- Semmi stratégiázás, csak kerek perec megmondjuk a másiknak, hogy értékeljük valamilyen tettét vagy tulajdonságát
-- példa: ha a párunk nem azt (vagy nem úgy) csinálja, amit (ahogy) mi szeretnénk, akkor _ne_ azt mondogassuk folyton, ami nem jó.
-    - jó, nyilván tudjon róla, de ne rágjuk a fülét
-    - mondjuk azt, amit értékelünk, hogy csinál
-    - így sokkal nagyobb az esélye, hogy majd azt is megcsinálja, amit szeretnénk
-- nem muszáj a dicséret, lehet biztatás is
-    - érdeklődjünk mi is egy kicsit a párunk érdeklődési területei iránt
-    - és fejezzük ki, hogy hiszünk benne, meg tudja csinálni, ilyesmi
-    - de ez ne a mi célunk vagy akaratunk legyen, amit ráerőltetnénk
-- a kedves szavak is sokat számítanak
-    - a hangsúly még annál is sokkal fontosabb, hogy konkrétan _mit mondunk_
-    - legyünk kedvesek, és még akkor is kedvesen válaszoljunk, ha a másik mérges
-        - vissza mérgeskedéssel ritkán csillapodnak a kedélyek
-- sok ellentét lesz, de a pontszámok és a "ki győzött" helyett a megbocsátás a helyes út
-    - "They insist on bringing into today the failures of yesterday and in so doing, they pollute a potentially wonderful day."
-        - "Sokan ragaszkodnak hozzá, hogy a tegnap kudarcait áthozzák mára, és ezzel beszennyezzenek egy potenciálisan nagyszerű napot."
-    - "Forgiveness is not a feeling; it is a commitment."
-        - "A megbocsátás nem egy érzés, hanem egy döntés."
-- soha ne követeljünk, csak kérjünk
-    - a követelések alá-fölérendelt (vagy akár szülő-gyerek) viszonyt jelentenének, aminek egy felnőtt, érett párkapcsolatban nincs helye
-- véletlen sem kell hazudni, csak figyeljünk oda, hogy kimondjuk azokat a pozitív dolgokat, amiket amúgy is gondolunk
-    - dicsérjük meg a másikat minden nap
-    - ha hallunk valahol szép-elegáns-kifejező elismerő szavakat, jegyezzük meg őket otthonra
-    - dicsérjük mások előtt, vagy akár a háta mögött is
-        - ha visszajut hozzá, annál nagyobbat szól majd
+> Egy jó dicséreten két hónapig is elélek.
+>
+> -- Mark Twain
+> > I can live for two months on a good compliment.
+
+Az egyik "legegyenesebb" módszer, ha kimondjuk a pozitív gondolatainkat.
+Semmi stratégiázás, csak kerek perec megmondjuk a másiknak, hogy értékeljük valamilyen tettét vagy tulajdonságát.
+És itt aláhúzott a pozitív gondolat!
+Ha a párunk mondjuk nem azt (vagy nem úgy) csinálja, amit (ahogy) mi szeretnénk, akkor _ne_ azt mondogassuk folyton, ami nincs ínyünkre!
+Jó, nyilván tudjon róla, de ne rágjuk a fülét!
+Hangsúlyozzuk inkább azt, amit értékelünk!
+Ilyen környezetben sokkal nagyobb az esélye, hogy majd a javításra szoruló területeket is megjavítja.
+
+Na nem muszáj persze csak a dicséretekre szorítkozni, lehet biztatni is.
+Érdeklődjünk mi is egy kicsit a párunk érdeklődési területei iránt!
+Fejezzük ki, hogy hiszünk benne, hogy meg tudja csinálni, ilyesmi...
+De fontos, hogy ez _ne_ a mi célunk vagy akaratunk legyen, amit ráerőltetnénk!
+A saját érdeklődésében támogassuk!
+
+A kedves szavak is sokat számítanak.
+Vegyük tudomásul, hogy a _hangsúly_ még annál is sokkal fontosabb, mint hogy konkrétan _mit mondunk_!
+Legyünk kedvesek, és még akkor is kedvesen válaszoljunk, ha a másik mérges!
+Vissza mérgeskedéssel ritkán csillapodnak a kedélyek...
+Sok ellentét lesz, de vitákban a pontszámok követése és a "ki győzött" helyett a megbocsátás a helyes út.
+
+> Sokan ragaszkodnak hozzá, hogy a tegnap kudarcait áthozzák mára, és ezzel beszennyezzenek egy potenciálisan nagyszerű napot.
+> > They insist on bringing into today the failures of yesterday and in so doing, they pollute a potentially wonderful day.
+
+> A megbocsátás nem egy érzés, hanem egy döntés.
+> > Forgiveness is not a feeling; it is a commitment.
+
+Hasonló mederben gondolkodva: soha ne követeljünk, csak kérjünk!
+A követelések alá-fölérendelt (vagy akár szülő-gyerek) jellegű viszonyt jelentenének, aminek egy felnőtt, érett párkapcsolatban nincs helye.
+
+Félreértés ne essék, véletlen sem kell hazudni, vagy "odaképzelni" dolgokat, amik nincsenek ott!
+Csak figyeljünk oda, hogy kimondjuk azokat a pozitív dolgokat, amiket amúgy is gondolunk!
+Dicsérjük meg a másikat minden nap!
+
 <br />
 
 
