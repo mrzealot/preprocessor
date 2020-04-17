@@ -4,11 +4,12 @@ title: Christie Aschwanden - Good to Go
 pages: 320
 date: 2020-04-17 15:00
 excerpt: >
-    TODO
+    A helyes edzési és táplálkozási szokások után már csak a regenerálódás van hátra a "testünk karbantartása" rovatban.
+    Erre a célra pedig Christie Aschwanden -- Good to Go (vagyis kb. "Menetkész") című könyve ideális -- és aktuális -- választás, amiben tudományos újságírói szemszögből, üdítő józansággal vizsgálhatjuk napjaink felépülés-mániáját.
 ---
 
 A helyes [edzési]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) és [táplálkozási]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}) szokások után már csak a regenerálódás van hátra a "testünk karbantartása" rovatban.
-Erre a célra pedig [Christie Aschwanden - Good to Go](https://www.goodreads.com/book/show/45894059-good-to-go){:target="_blank"} (vagyis kb. "Menetkész") című könyve ideális -- és aktuális -- választás, amiben tudományos újságírói szemszögből, üdítő józansággal vizsgálhatjuk napjaink felépülés-mániáját.
+Erre a célra pedig [Christie Aschwanden -- Good to Go](https://www.goodreads.com/book/show/45894059-good-to-go){:target="_blank"} (vagyis kb. "Menetkész") című könyve ideális -- és aktuális -- választás, amiben tudományos újságírói szemszögből, üdítő józansággal vizsgálhatjuk napjaink felépülés-mániáját.
 
 A 90-es és a 2000-es években a regenerálódás még csak egy főnév volt.
 Vagyis egy olyan időszak, amikor nem csináltunk semmit, csak szépen felépültünk; mondjuk alvás, lazsálás, vagy olvasgatás közben.
