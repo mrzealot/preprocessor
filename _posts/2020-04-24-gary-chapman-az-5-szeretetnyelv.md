@@ -243,40 +243,39 @@ Dicsérjük meg a másikat minden nap!
 
 ## <a name="2"></a>2. Minőségi idő
 
-- osztatlan figyelem
-    - vagyis nem együtt TV-zünk vagy ilyesmi
-    - szó szerint az életünket adjuk egymásnak
-- nagy a különbség az közellét és az együttlét között
-    - együtt csak akkor vagyunk, ha a másikra figyelünk
-    - nem csak úgy ott motoszkál a háttérben
-    - vagy épp csak fél füllel figyelünk a mondanivalójára
-- minőségi beszélgetés
-    - ez az elismerő szavak helyett inkább a hallgatáson alapul
-    - együtt érzés, megértés, kérdések
-    - nem megoldani kell a másik problémáját, hanem meghallgatni
-        - a kapcsolatunk nem egy teljesítendő projekt vagy egy megoldandó probléma.
-        - sokan pont csak addig hallgatnak, amíg meg nem értik a problémát és ki nem találják a saját megoldásukat
-            - utána pedig rögtön beszélni kezdenek
-    - praktikus tippek a hallgatáshoz:
-        - tartsuk a szemkontaktust (hogy jelezzük is figyelmünket, és hogy tényleg ott is tartsa a figyelmünket)
-        - ne csináljunk közben mást -- ha nem tudjuk a teljes figyelmünket adni, akkor inkább kérjünk halasztást
-        - keressük ki a mondanivalóból, hogy mit érezhet épp, és akár kérdezzünk is rá
-            - ebben nyilván a testbeszéd, a hangsúly, és sok egyéb "jel" is segíthet
-        - fogjuk vissza magunkat, és **ne** vágjunk közbe!
-            - most épp hallgatunk, ugye, nem beszélünk
-    - persze emellett beszélni is meg kell tanulni, hogy oda-vissza legyen
-        - fejezzük ki az érzéseinket
-        - illetve egyáltalán tanuljuk meg észrevenni és tudatosítani a saját érzéseinket
-            - sokan élünk a gondolatok világában, ahol ezek régóta elnyomott dolgok, szóval ez lehet nehéz
-        - próbáljuk meg az otthonon kívül gyakorolni, hogy feljegyezzük, mit érzünk egyes eseményekkel kapcsolatban
-        - a személyiségünk is számít persze: csacsogó vs. hallgatag
-            - de mindkettőnek valahova középre kell húzni
-        - napi minimum beszélgetés ajánlás: 3-3 dolog, ami történt, és hogy mit éreztünk ezekkel kapcsolatban
-- minőségi tevékenységek
-    - legalább az egyik szereti, a másik pedig hajlandó, de mindketten tisztában vannak vele, hogy miért csinálják együtt: hogy kifejezzék a szeretetüket egymás felé
-    - időt kell rá szakítani, amit lehet, hogy magunktól kell elvennünk
-    - és lehet, hogy időnként olyat fogunk csinálni, amit magunktól soha nem csinálnánk
-    - de akkor is megéri, mert egy szerető kapcsolatban élhetünk, ami bőven kárpótol majd
+A második módszer, ha az osztatlan figyelmünket ajándékozzuk a másiknak.
+Nem együtt TV-zünk vagy ilyesmi, hanem szó szerint az életünket adjuk egymásnak.
+Nagy a különbség ugyanis az közellét és az együttlét között!
+Együtt csak akkor vagyunk, ha a másikra figyelünk.
+Nem csak úgy ott motoszkál a háttérben, vagy épp csak fél füllel figyelünk a mondanivalójára.
+
+Leggyakoribb formája a minőségi beszélgetés, ami az elismerő szavak helyett inkább a hallgatáson alapul.
+Az együttérzésünket persze fejezzük ki, adjuk a megértésünk jelét, vagy feltehetünk pontosító kérdéseket.
+De ezeken felül nem megoldani kell a másik problémáját, hanem meghallgatni!
+Ne feledjük, hogy a kapcsolatunk nem egy teljesítendő projekt vagy egy megoldandó probléma.
+Sokan -- köztük jómagam, az analitikus agyam és a nagy pofám -- pont csak addig hallgatnak, amíg meg nem értik a problémát és ki nem találják rá a saját megoldásukat.
+Ezután pedig rögtön beszélni kezdenek, ami nagy hiba.
+
+Néhány praktikus tipp a hallgatáshoz:
+- Tartsuk a szemkontaktust, hogy jelezzük a figyelmünket -- és hogy tényleg ott is tartsa a figyelmünket!
+- Ne csináljunk közben mást -- ha nem tudjuk a teljes figyelmünket adni, akkor inkább kérjünk halasztást!
+- Keressük ki a mondanivalóból, hogy mit érezhet épp, és akár kérdezzünk is rá!
+Ebben nyilván a testbeszéd, a hangsúly, és sok egyéb "jel" is segíthet...
+- Fogjuk vissza magunkat, és **ne** vágjunk közbe!
+Most épp hallgatunk, ugye, nem beszélünk...
+            
+Persze emellett azért beszélni is érdemes megtanulni, hogy oda-vissza is mehessen a kommunikáció.
+Fontos, hogy fejezzük ki az érzéseinket -- illetve először is egyáltalán tanuljuk meg észrevenni és tudatosítani a saját érzéseinket.
+Sokan élünk a gondolatok és a tudatosság világában, ahol az érzések régóta elnyomott dolgok, szóval ez kezdetben nehéz lehet.
+Próbáljuk meg az otthonunkon kívül gyakorolni -- és akár feljegyezni -- hogy mit érzünk egyes eseményekkel kapcsolatban.
+A beszélgetések mennyiségében persze a személyiségünk is számítani fog, de a csacsogóknak és a hallgatagoknak is valahova középre kell tartaniuk.
+A könyv napi minimum beszélgetés ajánlása: 3-3 dolog, ami aznap történt, és hogy mit éreztünk ezek kapcsán.
+
+Megemlítjük még a minőségi tevékenységeket is, ahol legalább az egyik szereti, a másik pedig minimum "hajlandó".
+A lényeg, hogy mindketten tisztában legyenek vele, miért csinálják együtt: hogy kifejezzék a szeretetüket egymás felé!
+Időt kell rá szakítani, amit lehet, hogy magunktól kell elvennünk.
+És könnyen lehet, hogy időnként olyat fogunk csinálni, amit magunktól soha nem csinálnánk.
+De akkor is megéri, mert egy szerető kapcsolatban élhetünk, és az bőven kárpótol majd!
 
 <br />
 
@@ -301,24 +300,27 @@ Dicsérjük meg a másikat minden nap!
 
 ## <a name="3"></a>3. Ajándékozás
 
-- antropológiailag alátámasztott --> általános emberi szokás
-- az számít igazán, hogy a másik gondolt ránk, és ezt ki is fejezi
-    - szóval (mint ahogy azt lassan megszokhatjuk) az anyagi érték itt sem játszik
-        - nem csak venni lehet, készíthetünk is
-    - maga a szimbólum viszont érzelmi jelentőséggel bír
-    - nyilván itt is vannak szintek (kinek számít ugye ez a szeretetnyelv)
-    - van pl. akinél a jegygyűrű levétele súlyos problémákat jelez a kapcsolatában
-    - és van olyan is (mondjuk mi az asszonykámmal), akik eleve nem viselik
-- különösen nehéz lehet úgy adni, ha mi közben spórolósak vagyunk
-    - mondhatnánk, hogy mi sem veszünk magunknak semmit, akkor miért vegyünk a másiknak?
-    - de ezzel figyelmen kívül hagyjuk azt, hogy igazából igenis veszünk magunkat valamit: anyagi biztonságot, és a vele járó lelki békét
-    - ha viszont a másiknak nem ez jelenti a boldogságot, akkor fektessünk be arra a területre is
-    - szinte garantált, hogy hosszú távon ez lesz a legjobb befektetésünk
-- krízisek idején a jelenlétünk is ajándéknak számíthat
-    - ez nem teljesen olyan, mint a minőségi idő, mert nem a teljes figyelem a hangsúlyos
-    - de mi magunk is lehetünk a szimbólum, és a jelenlétünkkel a szeretetünket fejezzük ki
-- itt is (kb. kúraszerűen) megpróbálhatunk egy ideig rendszeresen ajándékozni, és meglátjuk, mi lesz
-    - ha ez a párunk szeretetnyelve, ki fog virágozni
+A harmadik szeretetnyelv az ajándékozás, ami egy antropológiailag alátámasztottan általános emberi szokás.
+És a tetejébe itt tényleg az számít igazán, hogy a másik gondolt ránk, és ezt ki is fejezi!
+Szóval -- mint ahogy azt lassan megszokhatjuk -- az anyagi érték itt sem játszik.
+Sőt, eleve ajándékot nem csak venni lehet, hanem készíteni is, amivel a klasszikus "értékét" gyakran azonnal nullázzuk.
+Maga a szimbólum viszont a megfelelő ember számára komoly érzelmi jelentőséggel bírhat.
+
+Nyilván annak is vannak szintjei, hogy ki mekkora jelentőséget tulajdonít a tárgyaknak és ennek a szeretetnyelvnek egyáltalán.
+Van például olyan, akinél a jegygyűrű levétele súlyos problémákat jelez a kapcsolatában.
+De van olyan is -- mondjuk az asszonykámmal mi is -- akik eleve nem viselik.
+És ez semmiféle bajt nem jelent... Ugye? Ugye Manó?!
+
+Különösen nehéz lehet úgy adni, ha mi magunk közben spórolósak vagyunk.
+Joggal mondhatnánk, hogy mi sem veszünk magunknak semmit, akkor miért vegyünk a másiknak?
+De ezzel figyelmen kívül hagyjuk azt, hogy igazából igenis veszünk magunkat valamit: anyagi biztonságot, és a vele járó lelki békét.
+Ha viszont a másiknak nem ez jelenti a boldogságot, akkor fektessünk be arra a területre is!
+Mondjuk ha sejtjük, hogy ez a párunk szeretetnyelve, akkor próbáljunk meg egy ideig rendszeresen (kb. kúraszerűen) ajándékozni, és meglátjuk, mi lesz.
+Szinte garantált, hogy hosszú távon ez lesz a legjobb befektetésünk.
+
+Érdemes megjegyezni, hogy krízisek idején a puszta jelenlétünk is ajándéknak számíthat.
+Ez nem teljesen olyan, mint a minőségi idő, mert nem a teljes figyelem a hangsúlyos.
+De mi magunk is lehetünk a szimbolikus ajándék, és a jelenlétünkkel a szeretetünket fejezzük ki.
 
 <br />
 
@@ -343,23 +345,25 @@ Dicsérjük meg a másikat minden nap!
 
 ## <a name="4"></a>4. Szívességek
 
-- kb. a házimunkák, mosás/főzés/takarítás, lakás/kocsi/udvar karbantartás, ilyesmik
-- itt kb. tekinthetjük "dialektusoknak", hogy miféle tevékenységeket végzünk a másik helyett, vagy milyen szívességeket teszünk neki
-- de fontos megjegyezni, hogy ezeket nem szabad elvárni
-    - legyen B tervünk, ha nem kapjuk meg, és ne legyen természetes, hogy megkapjuk
-    - "Requests give direction to love, but demands stop the flow of love."
-        - "A kérések utat mutatnak a szeretetnek, míg a követelések gátat szabnak neki."
-    - ez vonatkozik az érzelmi manipulációra, a fenyegetésre, az "elnyomásra" is
-        - ha nem magától adja, akkor az nem szeretet
-- ennek kapcsán meglátás: ne vegyük készpénznek, hogy a másik mit tesz értünk a "szerelmes" időszak alatt
-    - mert mint tudjuk, akkor kb. -- Kiss Ádám szavaival -- be vagyunk baszva/szívva/fújva/lőve
-    - a józan énünktől pedig nem az várható
-- érdemes a másik kritikájára is odafigyelni
-    - sokszor rámutat, hogy mi az ami _neki_ igazán fontos lenne
-- szükség lehet egy valag sztereotípiát felülvizsgálni
-    - lehet, hogy a szüleinktől vagy a társadalomtól nem azt a képet kaptuk, hogy egy férfi is cserélhet pelenkát vagy egy nő is lenyírhatja a füvet
-    - de ettől még nekünk lehet, hogy pont ez lesz az optimális felállás
-    - ilyen esetekben természetesen számítani kell ügyetlenkedésre a kezdeti időszakokban, de már ekkor is érződni fog, hogy a jó irányba haladunk-e
+A negyedik szeretetnyelv a szívességek, vagy "szolgálattételek" kategóriája, ahova a mosás/főzés/takarítás, lakás/kocsi/udvar karbantartás és hasonszőrű társai tartoznak.
+Gyakorlatilag tekinthetjük "dialektusoknak" azt, hogy épp miféle tevékenységeket végzünk a másik helyett; vagyis milyen szívességeket teszünk neki.
+
+De fontos leszögeznünk, hogy ezeket nem szabad _elvárni_!
+Legyen B tervünk arra az esetre, ha nem kapjuk meg, és ne legyen természetes, hogy megkapjuk!
+Ez durvább esetekben természetesen vonatkozik az érzelmi manipulációra, a fenyegetésre, az "elnyomásra" is.
+Általánosságban elmondható, hogy ha a másik nem magától adja, akkor az nem szeretet.
+
+> A kérések utat mutatnak a szeretetnek, míg a követelések gátat szabnak neki.
+> > Requests give direction to love, but demands stop the flow of love.
+
+A korábban említett szerelmi "zombiság" kapcsán ide tartozik, hogy az akkoriban kapott szívességeket se vegyük készpénznek!
+Hiszen mint tudjuk, akkoriban kb. -- Kiss Ádám szavaival -- be vagyunk baszva/szívva/fújva/lőve, és ugyanaz a szintű szolgálatkészség a józan énünktől már nem biztos, hogy elvárható.
+
+Készüljünk fel, hogy szükség lehet egy valag sztereotípiát felülvizsgálni.
+Lehet mondjuk, hogy a szüleinktől vagy a társadalomtól nem azt a képet kaptuk, hogy egy férfi is cserélhet pelenkát vagy egy nő is lenyírhatja a füvet.
+De ettől még nekünk lehet, hogy pont ez lesz az optimális felállás!
+Ilyen esetekben természetesen számítani kell ügyetlenkedésre a kezdeti időszakokban, de már ekkor is érződni fog, hogy a jó irányba haladunk-e.
+Érdemes a másik kritikájára is odafigyelni, mert az sokszor rámutat, hogy _neki_ mi lenne az igazán fontos.
 
 <br />
 
@@ -384,15 +388,20 @@ Dicsérjük meg a másikat minden nap!
 
 ## <a name="5"></a>5. Testi érintés
 
+Végül az ötödik szeretetnyelv
 - sok irányból alátámasztott, hogy a gyerekeknek is szükségük van érintésre az egészséges fejlődéshez
     - és hát persze a párunk iránti szeretet kifejezésére sem utolsó
-- régi mondás tartja, hogy "egy férfi szívéhez a hasán keresztül vezet az út"
-    - és habár néha ez igaz is, egyáltalán nem általános
-    - példa, ahol a gourmet kaja sem pótolta a szexuális közelséget
+
 - lehet közvetlen (pl. masszázs vagy konkrétan szex), de lehet közvetetten csak egy simítás, egy kézfogás, egy ölelés
     - sőt, nem is muszáj egyenes úton a szexualitásra asszociálni, bármilyen érintés játszhat
     - figyeljünk persze itt is, hogy a társunknak mi a jó
     - és azt adjuk, ami neki jó, ne azt, amit adni akarunk
+
+- férfiaknál a szex "becsapós" lehet
+    - a fizikai szükséglet eléggé ösztönösen lökdös minket a szakadék szélére, ami miatt könnyen gondolhatjuk, hogy ez a legfontosabb
+    - de ha ezen kívül nem annyira vágyunk az érintésre, akkor sokkal valószínűbb, hogy valamelyik másik a legfontosabb érzelmi szemszögből
+    - márpedig a legtöbb kapcsolatban a szexuális problémáknak nem fizikai, hanem érzelmi okai vannak
+
 - krízis idején főleg ne hanyagoljuk az érintést, ha a társunknak ez az elsődleges szeretetnyelve
 
 <br />
@@ -419,10 +428,6 @@ Dicsérjük meg a másikat minden nap!
 ## <a name="sajat"></a>A saját szeretetnyelvünk felfedezése
 
 - nyilván a párunkét is tudnunk kell, de első körben a sajátunkat sem ártana
-- férfiaknál a szex "becsapós" lehet
-    - a fizikai szükséglet eléggé ösztönösen lökdös minket a szakadék szélére, ami miatt könnyen gondolhatjuk, hogy ez a legfontosabb
-    - de ha ezen kívül nem annyira vágyunk az érintésre, akkor sokkal valószínűbb, hogy valamelyik másik a legfontosabb érzelmi szemszögből
-    - márpedig a legtöbb kapcsolatban a szexuális problémáknak nem fizikai, hanem érzelmi okai vannak
 - ha nem ugrik be egyből, akkor próbáljunk arra gondolni, mi idegesít a legjobban a társunk viselkedésében
     - lehet, hogy pont az mutatja meg, hogy mit tartunk igazán fontosnak
 - vagy visszanézhetünk arra is, hogy milyen dolgokra kértük a legtöbbször a múltban
