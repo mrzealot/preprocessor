@@ -4,7 +4,11 @@ title: Gary Chapman - Az 5 szeretetnyelv
 pages: 209
 date: 2020-04-24 15:00
 excerpt: >
-    TODO
+    Amiről viszont még nem beszéltünk sokat, azok az emberi kapcsolatok, azon belül is a párkapcsolatok.
+    Ezt a hiányosságot Gary Chapman -- Az 5 szeretetnyelv című könyvével szeretném most orvosolni.
+    Referenciának említhetném, hogy a szerző több mint 30 éves házassági tanácsadói pályafutást tudhat maga mögött.
+    Vagy hogy egy 40 éve tartó boldog házassággal büszkélkedhet, ami jelen esetben szintén nem árt.
+    De ami még ezeket is üti: tanácsot kértem a témában, és a feleségem ezt a könyvet ajánlotta!
 ---
 
 Az elmúlt három hét anyaga után vegyük úgy, hogy fizikailag kellően egészségesek tudunk maradni.
@@ -388,21 +392,20 @@ Ilyen esetekben természetesen számítani kell ügyetlenkedésre a kezdeti idő
 
 ## <a name="5"></a>5. Testi érintés
 
-Végül az ötödik szeretetnyelv
-- sok irányból alátámasztott, hogy a gyerekeknek is szükségük van érintésre az egészséges fejlődéshez
-    - és hát persze a párunk iránti szeretet kifejezésére sem utolsó
+Végül az ötödik szeretetnyelv a testi érintés, ami igen sok irányból alátámasztott.
+Például sokan igazolták, hogy már a gyerekeknek is szükségük van az érintésre az egészséges fejlődéshez.
+És hát persze a párunk iránti szeretet kifejezésére sem utolsó
 
-- lehet közvetlen (pl. masszázs vagy konkrétan szex), de lehet közvetetten csak egy simítás, egy kézfogás, egy ölelés
-    - sőt, nem is muszáj egyenes úton a szexualitásra asszociálni, bármilyen érintés játszhat
-    - figyeljünk persze itt is, hogy a társunknak mi a jó
-    - és azt adjuk, ami neki jó, ne azt, amit adni akarunk
+Dialektusokat illetően legtöbbször a közvetlen formájára asszociálunk -- mondjuk masszázsra vagy konkrétan szexre.
+De ide tartozik közvetetten csak egy simítás, egy kézfogás, vagy egy ölelés is.
+Sőt, nem is muszáj hogy az egésznek bármilyen szexuális vonzata legyen, bármilyen "egyéb" érintés is játszhat.
+Figyeljünk persze itt is, hogy a társunknak mi a jó, és azt adjuk -- ne azt, amit adni akarunk!
+Krízisek idején pedig főleg ne hanyagoljuk az érintést, ha úgy gondoljuk, hogy a társunknak ez az elsődleges szeretetnyelve!
 
-- férfiaknál a szex "becsapós" lehet
-    - a fizikai szükséglet eléggé ösztönösen lökdös minket a szakadék szélére, ami miatt könnyen gondolhatjuk, hogy ez a legfontosabb
-    - de ha ezen kívül nem annyira vágyunk az érintésre, akkor sokkal valószínűbb, hogy valamelyik másik a legfontosabb érzelmi szemszögből
-    - márpedig a legtöbb kapcsolatban a szexuális problémáknak nem fizikai, hanem érzelmi okai vannak
-
-- krízis idején főleg ne hanyagoljuk az érintést, ha a társunknak ez az elsődleges szeretetnyelve
+Megjegyezzük azonban, hogy a férfiaknál a szex "becsapós" lehet.
+Mondjuk úgy, hogy a fizikai szükséglet eléggé ösztönösen lökdös minket a szakadék szélére, ami miatt könnyen gondolhatjuk, hogy ez a legfontosabb.
+De ha _azon_ kívül nem annyira vágyunk az érintésre, akkor sokkal valószínűbb, hogy valamelyik másik a legfontosabb szeretetnyelvünk érzelmi szemszögből.
+Márpedig a legtöbb kapcsolatban a szexuális problémáknak nem fizikai, hanem érzelmi okai vannak.
 
 <br />
 
@@ -427,21 +430,30 @@ Végül az ötödik szeretetnyelv
 
 ## <a name="sajat"></a>A saját szeretetnyelvünk felfedezése
 
-- nyilván a párunkét is tudnunk kell, de első körben a sajátunkat sem ártana
-- ha nem ugrik be egyből, akkor próbáljunk arra gondolni, mi idegesít a legjobban a társunk viselkedésében
-    - lehet, hogy pont az mutatja meg, hogy mit tartunk igazán fontosnak
-- vagy visszanézhetünk arra is, hogy milyen dolgokra kértük a legtöbbször a múltban
-    - ha pedig ezek a kérések nem nagyon teljesültek, az valószínűleg azért lehet, mert a másik oldalon nyaggatásként értelmezték
-- még egy jó stratégia, hogy megfigyeljük, mi hogyan próbáljuk a szeretetünket kifejezni a másik felé
-    - lehet, hogy azért jön az a bizonyos kifejezési forma belőlünk, mert mi is arra vágynánk
-    - persze ez alapulhat családi vagy társadalmi mintákon is, szóval nem biztos... de egy próbát megér átgondolni
-- a megállapítás nehéz lehet, ha
-    - régóta tele a szeretettankunk (a fene tudja, mitől, hiszen minden rendben), vagy ha
-    - régóta üres a szeretettankunk (a fene tudja, mitől, hiszen semmi nincs rendben!)
-- tegyük csökkenő fontossági sorrendbe a nyelveket magunknak, és becsüljük meg őket a párunknak is
-    - és aztán persze beszéljük meg, hogy ne sötétben tapogatózás legyen
-- tankos játék
-    - esténként (mondjuk heti 3x, vagy ilyesmi) kérdezzük meg a másikat, hogy hogy áll a tankja, és hogy mit tehetnénk, hogy feltöltsük
+Nyilván az a végső cél, hogy a párunk szeretetnyelvét is tudjuk és "beszéljük", de első körben a sajátunkat sem ártana ismernünk!
+Ez az új fogalomrendszer ismeretében lehet annyira egyszerű is, hogy egy pillanatig belegondolunk, és a válasz magától értetődik.
+Ha viszont nem ugrik be egyből, akkor próbálkozhatunk a másik irányból is.
+Gondoljunk például arra, mi idegesít a legjobban a társunk viselkedésében!
+Lehet, hogy pont az mutatja majd meg, hogy mit tartunk igazán fontosnak.
+
+Visszanézhetünk emellett arra is, hogy milyen dolgokra kértük a párunkat a legtöbbször a múltban.
+Ha pedig ezek a kérések nem nagyon teljesültek, az valószínűleg azért lehet, mert a másik oldalon nyaggatásként értelmezték.
+Ettől persze a mi jelenlegi önvizsgálatunkat megválaszolja -- csak majd prezentálni máshogy lesz érdemes a jövőben.
+
+Még egy jó stratégia, hogy megfigyeljük, mi hogyan próbáljuk a szeretetünket kifejezni a másik felé.
+Könnyen lehet, hogy belőlünk is azért jön az a bizonyos kifejezési forma, mert mi is arra vágynánk.
+Persze ez alapulhat családi vagy társadalmi mintákon is, szóval garancia nyilván nincs...
+De egy próbát megér átgondolni.
+
+A megállapítás nehéz lehet, ha
+
+- túl régóta _tele_ a szeretettankunk -- a fene tudja, mitől, hiszen minden rendben; vagy ha
+- túl régóta _üres_ a szeretettankunk -- a fene tudja, mitől, hiszen semmi nincs rendben!
+
+De az esetleges nehézségek ellenére tegyük tisztába a dolgokat.
+Tegyük csökkenő fontossági sorrendbe a nyelveket magunknak, és becsüljük meg őket a párunknak is!
+És aztán persze beszéljük meg, hogy ne sötétben tapogatózás legyen!
+A könyv javaslata egy "tankos" játék, ahol esténként -- mondjuk heti háromszor, vagy ilyesmi -- kérdezzük meg a másikat kerek perec, hogy hogy áll a tankja, és hogy mit tehetnénk, hogy feltöltsük!
 
 <br />
 
@@ -466,38 +478,36 @@ Végül az ötödik szeretetnyelv
 
 ## <a name="dontes"></a>A szeretet egy döntés
 
-- a múlt helytelen döntései nem kell, hogy jövőre is kihassanak (emlékezzünk a fenti idézetre)
-    - van választásunk, és akár a válás szélén is választhatjuk azt, hogy menteni akarjuk a kapcsolatunkat!
-- na és mi van akkor, ha a párunk szeretetnyelve nekünk "természetellenes"?
-    - "na és akkor mi van?" :)
-    - ez is egy választás
-    - annál nagyobb szeretetet fejezek ki vele, amikor mégis megcsinálom
-    - felkelni is felkelünk valamiért, még ha nem is érezzük épp úgy magunkat
-        - de aztán utána mégis úgy érezzük, hogy jól tettük
-        - vagyis a tetteink előrébb jártak, mint az érzéseink!
-        - szóval tegyünk itt is így, és jönnek majd az érzések is
+A múlt helytelen döntései nem kell, hogy jövőre is kihassanak -- emlékezzünk a fenti idézetre!
+Van választásunk, és akár a válás szélén is választhatjuk azt, hogy menteni akarjuk a kapcsolatunkat.
 
-- significance, self-worth, security
-    - jelentőségteljes élet, önértékelés, biztonság
-- a szeretet mindet megmozgatja
-    - ha a párom szeret, akkor mellette biztonságban lehetek, és biztos értékes is vagyok, mert érdemes vagyok a szeretetére
-    - akár az életem jelentését is megtalálhatom ebben (ha nem is _csak_ ebben)
+Sokan teszik itt fel a kérdést: Mi van akkor, ha a párunk szeretetnyelve nekünk "természetellenes"?
+Erre a szerző válasza pedig mindig ugyanaz: "na és akkor mi van?!"
+Ez is csak egy választás.
+Vegyük úgy, hogy annál nagyobb szeretetet fejezek ki vele, amikor mégis megcsináljuk
 
-- végszükség esetén egyoldalúan is elindítható a folyamat
-    - Jézus szavaival: "szeressük az ellenségeinket" elven...
-- válasszuk szét a szeretetet, mint érzést, és a szeretetet, mint cselekvést
-    - nem képmutatás --> nem kérünk senkit, hogy érezzen olyat, amit nem érez
-    - de csinálhatunk olyat, amivel a másiknak szeretnénk örömet okozni
-    - ebben pedig semmi képmutatás nincs, ez csak egy választás
-    - az, hogy a másik erre hogy reagál, az már más kérdés
-    - lehet, hogy az miatt majd a mi érzéseink is változni fognak
-- csináljunk egy hat hónapos kúrát
-    - addig szüntessük be a panaszkodást a mi vonalunkról
-    - és tegyünk meg, amit csak tudunk a másik elsődleges szeretetnyelve ügyében
-    - előre jelentsük be, hogy komolyan gondoljuk, és havonta kérjünk visszacsatolást
-    - pozitív visszajelzések esetén kérjünk mi is egy-egy dolgot, ami a mi elsődleges szeretetnyelvünkhöz kapcsolódik
-        - ezzel kb. ráneveljük a másikat, hogy hogyan szeressen minket
-        - és közben, ahogy a mi szeretettankunk is elkezd telni, hátha egyre jobban átbillenünk a cselekvés-féle szeretetből az érzés felé!
+Felkelni is felkelünk reggelente valamiért, még ha nem is érezzük épp úgy magunkat.
+De aztán utána mégis úgy érezzük, hogy jól tettük.
+Vagyis a tetteink előrébb jártak, mint az érzéseink!
+Nincs más dolgunk, csak tegyünk itt is így.
+Ha a szándék megvan, akkor menjenek a tettek, és idővel jönnek majd az érzések is.
+
+A szeretet a jelentőségteljes élet iránti vágyunkat, az önértékelésünket, és a biztonságérzetünket is "megmozgatja".
+Ha a párunk szeret, akkor mellette biztonságban lehetünk, és minden bizonnyal értékesek is vagyunk, ha egyszer érdemesek vagyunk a szeretetére!
+Akár az életünk jelentését is megtalálhatjuk ebben -- ha nem is _csak_ ebben.
+Ezért igazán megéri a szeretetért küzdeni és beletenni a munkát!
+
+Végszükség esetén akár egyoldalúan is elindítható a folyamat, "szeressük az ellenségeinket" elven.
+Válasszuk szét a szeretetet, mint érzést, és a szeretetet, mint cselekvést.
+Így nem érhet minket a képmutatás vádja sem, mert nem kérünk senkit, hogy érezzen olyat, amit nem érez.
+De attól csinálhatunk olyat, amivel a másiknak szeretnénk örömet okozni.
+Ez megint csak egy választás, viszont a másik reakciói miatt idővel a mi érzéseink is változhatnak.
+
+Gyakorlati szempontból próbálkozhatunk mondjuk egy hat hónapos kúrával.
+Addig (ideiglenesen!) szüntessük be a panaszkodást a mi vonalunkról és tegyünk meg, amit csak tudunk a másik elsődleges szeretetnyelve ügyében.
+Előre jelentsük be, hogy komolyan gondoljuk, és havonta kérjünk visszajelzést.
+Pozitív "kritika" esetén kérjünk mi is egy-egy dolgot, ami a mi elsődleges szeretetnyelvünkhöz kapcsolódik -- ezzel kb. ránevelve a másikat, hogy hogyan szeressen minket.
+És ahogy a mi szeretettankunk is elkezd telni, hátha egyre jobban átbillenünk majd a cselekvés-féle szeretetből az érzés-féle szeretet felé!
 
 <br />
 
@@ -522,17 +532,21 @@ Végül az ötödik szeretetnyelv
 
 ## <a name="gyerekek"></a>Gyerekek és szeretetnyelvek
 
-- a gyerekekre is ugyanúgy vonatkoznak a fentiek
-- sőt, náluk még szinte könnyebb is lehet megállapítani, mert tudat alatt ők is azt csinálják velünk
-    - nincs még "fölötte" a társadalmi, civilizációs réteg, ezért valószínűleg maguktól úgy próbálják majd a szeretetüket kifejezni felénk, ahogy szeretnék, hogy mi is szeressük őket
-- sok fiatalkori kicsapongás (pláne túl korai, szexuális jellegűek) arra vezethető vissza, hogy a gyereknek üres a szeretettankja
-    - mondjuk vették neki a labdákat és a bicikliket, de senki nem labdázott vele vagy ment vele biciklizni...
-- példa mind az 5-re, sorban
-    - "Why is it that as the child gets older, our “Words of Affirmation” turn to words of condemnation?"
-        - "Miért van az, hogy ahogy a gyerek egyre idősebb lesz, az elismerő szavainkból elítélő szavak lesznek?"
-- biztos minden szülő nagyon szereti a gyerekét, de az is majdnem biztos, hogy a nagyja nem jól szereti -- vagy legalábbis szerethetné jobban
-- fontos felismerni, hogy minden gyerek különböző
-    - attól, hogy az egyiknél működött az ajándékozgatás, nem higgyük vakon, hogy a másiknál is menni fog
+Eddig leginkább a párkapcsolatok kontextusában beszéltünk a szeretetnyelvekről, de természetesen a gyerekekre is ugyanúgy vonatkozik a fentiek nagyja.
+Sőt, náluk még szinte könnyebb is lehet megállapítani az elsődleges szeretetnyelvet, mert tudat alatt ők is azt csinálják velünk.
+Nincs még a gyermeki észjárásuk "fölött" a társadalmi/civilizációs réteg, ezért valószínűleg maguktól úgy próbálják majd a szeretetüket kifejezni felénk, ahogy szeretnék, hogy mi is szeressük őket.
+
+A könyv szerint a fiatalkori kicsapongások -- pláne a túl korai, szexuális jellegűek -- nagy része arra vezethető vissza, hogy a gyereknek üres a szeretettankja.
+Mondjuk vették neki a labdákat és a bicikliket, de senki nem labdázott vagy biciklizett vele...
+És aztán elkezdjük egyre jobban a fejükre önteni az elvárásainkat, és a sikereik helyett a kudarcaikra koncentrálunk.
+
+> Miért van az, hogy ahogy a gyerek egyre idősebb lesz, az elismerő szavainkból elítélő szavak lesznek?
+> > Why is it that as the child gets older, our “Words of Affirmation” turn to words of condemnation?
+
+Biztos, hogy minden szülő nagyon szereti a gyerekét.
+De az is majdnem biztos, hogy a nagyja nem jól szereti -- vagy legalábbis szerethetné jobban.
+Fontos felismerni, hogy minden gyerek különböző, és már náluk is erősen számít, hogy _hogyan_ szeretjük őket -- akár ugyanazon a családon belül.
+Attól, hogy az egyiknél működött az ajándékozgatás, ne higgyük vakon, hogy a másiknál is menni fog!
 
 <br />
 
@@ -557,6 +571,12 @@ Végül az ötödik szeretetnyelv
 
 ## Összefoglalás
 
-- nem egyetemi könyvtárakba vagy tananyagokba szánja a könyvet, hanem konkrétan a házaspárok kezébe
-    - hátha tudnak belőle profitálni
-- gondoljunk bele, mennyivel produktívabban hasznosíthatnánk az energiáinkat, ha nem a meg nem kapott szeretetet próbálnánk pótolni az életünkben 
+A könyv három (számomra) legfontosabb mondanivalója, hogy a fenntartható szeretethez 1) kommunikálni kell, 2) a másik igényei szerint kell kifejeznünk a szeretetünket, és 3) ez egy valag munka.
+Ezt pedig tökéletesen kifejezi a nyelves hasonlat, ami 1) eleve a kommunikációra épít, 2) az "egymás mellett elbeszélés" veszélyét is szemléletesen mutatja, és 3) pont olyan kaliberű munkaként állítja be az egészet, mintha egy új nyelvet tanulnánk.
+
+Szóval használjuk az itt felvázolt fogalomrendszert és beszélgessünk a másikkal a szeretetnyelvek ismeretében!
+Szuszakoljuk ki a szeretésen felül, hogy _hogyan_ szeressük!
+És aztán tegyük bele az erőfeszítést, és szeressük úgy!
+
+Ha pedig bármikor az lenne az benyomásunk, hogy a szeretet puszta "karbantartása" nem éri meg ezt a sok befektetést, akkor jusson eszünkbe, milyen lenne a hiányát kompenzálni!
+Higgyük el, hogy sokkal produktívabban hasznosíthatjuk az energiáinkat, ha nem épp a meg nem kapott szeretetet próbáljuk pótolni az életünkben...
