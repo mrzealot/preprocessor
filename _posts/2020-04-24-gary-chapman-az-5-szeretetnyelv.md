@@ -313,7 +313,7 @@ Maga a szimbólum viszont a megfelelő ember számára komoly érzelmi jelentős
 
 Nyilván annak is vannak szintjei, hogy ki mekkora jelentőséget tulajdonít a tárgyaknak és ennek a szeretetnyelvnek egyáltalán.
 Lehet például olyan, akinél a jegygyűrű levétele súlyos problémákat jelez a kapcsolatában.
-De van olyan is -- mondjuk az asszonykámmal mi is -- akik eleve nem viselik.
+De van olyan is -- mondjuk az asszonykámmal a mi esetünkben is -- ahol eleve nem viselik.
 És ez semmiféle bajt nem jelent... Ugye? Ugye Manó?!
 
 Különösen nehéz lehet úgy adni, ha mi magunk közben spórolósak vagyunk.
@@ -579,5 +579,5 @@ Szóval használjuk az itt felvázolt fogalomrendszert és beszélgessünk a má
 Szuszakoljuk ki a szeretésen felül, hogy _hogyan_ szeressük!
 És aztán tegyük bele az erőfeszítést, és szeressük úgy!
 
-Ha pedig bármikor az lenne az benyomásunk, hogy a szeretet puszta "karbantartása" nem éri meg ezt a sok befektetést, akkor jusson eszünkbe, milyen lenne a hiányát kompenzálni!
+Ha pedig bármikor az lenne a benyomásunk, hogy a szeretet puszta "karbantartása" nem éri meg ezt a sok befektetést, akkor jusson eszünkbe, milyen lenne a hiányát kompenzálni!
 Higgyük el, hogy sokkal produktívabban hasznosíthatjuk az energiáinkat, ha nem épp a meg nem kapott szeretetet próbáljuk pótolni az életünkben...
