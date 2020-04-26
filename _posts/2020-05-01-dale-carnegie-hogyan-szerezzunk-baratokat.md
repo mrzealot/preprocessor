@@ -6,13 +6,13 @@ date: 2020-05-01 15:00
 excerpt: >
     Ez alkalommal a múlt hét párkapcsolatai fókuszát a barátokon keresztül egészen az ismeretlenekkel való bánásmódig szélesítjük ki.
     A téma "nagy öregje" pedig természetesen nem lehet más, mint Dale Carnegie, aki "Hogyan szerezzük barátokat és befolyásoljuk az embereket" című könyvében alapvető stratégiákat fogalmaz meg.
-    A könyv eredetileg 1936-ban jelent meg, és azóta is tizen-millió példányszámban viszik, mint a cukrot.
+    A könyv eredetileg 1936-ban jelent meg, és azóta is tizen-milliós példányszámban viszik, mint a cukrot.
     Ráfoghatjuk tehát, hogy kiállta az idő próbáját.
 ---
 
 Ez alkalommal a múlt hét párkapcsolatai fókuszát a barátokon keresztül egészen az ismeretlenekkel való bánásmódig szélesítjük ki.
 A téma "nagy öregje" pedig természetesen nem lehet más, mint Dale Carnegie, aki ["Hogyan szerezzük barátokat és befolyásoljuk az embereket"](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"} című könyvében alapvető stratégiákat fogalmaz meg.
-A könyv eredetileg 1936-ban jelent meg, és azóta is tizen-millió példányszámban viszik, mint a cukrot.
+A könyv eredetileg 1936-ban jelent meg, és azóta is tizen-milliós példányszámban viszik, mint a cukrot.
 Ráfoghatjuk tehát, hogy kiállta az idő próbáját.
 Hangvétel szempontjából pedig vehetjük kb. úgy, mint a [Hatalom 48 törvénye]({% post_url 2020-01-28-robert-greene-the-48-laws-of-power %}) szöges ellentétét, mert itt a Machiavelli-jellegű manipuláció helyett igyekszünk majd egy kicsit emberségesebbek lenni.
 
@@ -87,7 +87,7 @@ Van, aki másokkal szolgáltatja ki magát.
 Sőt, olyan is van, aki szó szerint megőrül, mert ott keresi a saját fontosságát -- egy saját világban, ha már a valóság nem volt elég jó.
 
 Ha pedig ennyire fontos, hogy fontosak legyünk, akkor gondoljunk csak bele, mennyit számíthatna, ha még a megőrülés _előtt_ értékelnénk az embertársainkat!
-Itt erősen keresztezzük az [elismerő szavak]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}) szeretetnyelvét is, sok példával a dicséretek pozitív hatására, illetve a házastársainkat szükségtelen kiéheztetésére.
+Itt erősen keresztezzük az [elismerő szavak]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}) szeretetnyelvét, sok példával a dicséretek pozitív hatására, illetve a házastársaink szükségtelen kiéheztetésére.
 
 Megemlítjük itt is, hogy ez nem összekeverendő a hízelgéssel, ami nem működik, és ne is működjön!
 Őszintén találni kell valamit, amivel kapcsolatban pozitívak lehetünk -- ami nem szabadna, hogy problémát okozzon.
@@ -95,7 +95,7 @@ Megemlítjük itt is, hogy ez nem összekeverendő a hízelgéssel, ami nem műk
 > Ha egy pillanatra nem magunkkal volnánk elfoglalva és a másik ember értékeire gondolnánk, nem kellene olyan olcsó és hamis hízelgésre hagyatkoznunk, ami már majdnem _azelőtt_ kiszúrható, hogy elhagyná a szánkat.
 > > Now, if we stop thinking about ourselves for a while and begin to think of the other person's good points, we won't have to resort to flattery so cheap and false that it can be spotted almost before it is out of the mouth.
 
-Tudatosítsuk magunkban, hogy mind a munkás ismeretségeink, mint a személyes kapcsolataink másik végén olyan emberek vannak, akik szintén elismerésre vágynak.
+Tudatosítsuk magunkban, hogy mind a munkahelyi ismeretségeink, mint a személyes kapcsolataink másik végén olyan emberek vannak, akik szintén elismerésre vágynak.
 Próbáljunk ezért ilyen kis értékelés/elismerés morzsákat hagyni magunk után, amerre csak járunk!
 
 <br />
@@ -111,11 +111,11 @@ Olyan csalit kell használni, ami a halhoz illik.
 Lehet, hogy én pont a tejszínhabos epret szeretem, de attól a horogra még kukacot teszek.
 Mindenki azzal van elfoglalva, hogy ő mit akar.
 Szóval ha akarunk tőle valamit, akkor mi is azzal legyünk elfoglalva -- ne a sajátunkkal, mint a többiek!
-Az tehát a dolgunk, hogy megmutassuk a kapcsolatot aközött, amit mi szeretnénk tőle, és valami olyan között, amit ő akar.
+Annyi a dolgunk, hogy megmutassuk a kapcsolatot aközött, amit mi szeretnénk tőle, és valami olyan között, amit ő akar.
 
 Visszautalnék az előző pontra, miszerint mindent azért teszünk, mert mi akarjuk.
 Még amikor mondjuk adakozunk, az is azért van, mert jobban akartunk adakozni, mint megtartani a pénzünket.
-Vagyis a meggyőzés alapja: mit tehetnék, amitől meg _akarná_ csinálni?
+Vagyis a meggyőzés alapja: mit tehetnénk, amitől meg _akarná_ csinálni?
 Ha a saját gondjainkra koncentrálunk, az a másik felet egyáltalán nem fogja érdekelni.
 Fogalmazzuk úgy, hogy az ő szemszöge legyen az elsődleges, és egyből nagyobb hajlandóság lesz az együttműködésre!
     
@@ -125,8 +125,8 @@ Fogalmazzuk úgy, hogy az ő szemszöge legyen az elsődleges, és egyből nagyo
 > > If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.
 
 Mivel mindenki csak saját magát igyekszik szolgálni, ezért ha mi tényleg arra törekszünk, hogy másoknak segítsünk, nagyon hamar ki fogunk tűnni.
-Egyszerűen mert nem nagyon lesz "versenytársunk", aki ilyen hozzáállású.
-De az előző "hízelgéses" figyelmeztetéséhez hasonlóan itt is megjegyezzük: ez nem manipuláció, nem win-lose!
+Egyszerűen nem nagyon lesz versenytársunk, aki ilyen hozzáállású.
+De az előző "hízelgéses" figyelmeztetéséhez hasonlóan itt is megjegyezzük: ez nem manipuláció, nem _win-lose_!
 Mindkét félnek nyerni kell a tranzakción!
 Mi csak megtanuljuk úgy előadni a helyzetet, hogy a másik fél nyereségére tesszük a hangsúlyt -- mert őt az érdekli.
 
@@ -168,10 +168,10 @@ Mi csak megtanuljuk úgy előadni a helyzetet, hogy a másik fél nyereségére 
 Már [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) is megmondta, hogy törődnünk kell másokkal!
 Egyszerűen érződni fog a beszédünkön, az írásunkon, a kisugárzásunkon.
 Sok példa szerepel a fejezetben, ahogy nagy emberek "nem szállnak el maguktól", illetve kis emberek is jó tett helyébe jót várhatnak, ha úgy viselkednek.
-Utána néznek a másik érdeklődésének, megjegyezik a születésnapját, invitáló hanggal veszik fel a telefont...
+Utána néznek a másik érdeklődéseinek, megjegyezik a születésnapját, invitáló hanggal veszik fel a telefont...
 De nem ragozom, értjük.
 
-> Akkor érdekelnek minket mások, ha mi érdekeljük őket.
+> Akkor érdeklődünk mások iránt, ha mi érdekeljük őket.
 >
 > -- Publius Syrus
 > > We are interested in others when they are interested in us.
@@ -189,7 +189,7 @@ Szóval mosolyogjunk többet!
 És ezzel kb. össze is foglaltuk a fejezetet.
 Bónusz két idézet:
 
-> Látszólag a tett az érzést követi, de igazából kéz a kézben járnak; és ha a szabályozzuk a tetteinket (amiket tudatosan irányíthatunk), közvetetten az érzéseinket is befolyásolhatjuk (amit tudatosan nem irányíthatnánk).
+> Látszólag a tett az érzést követi, de igazából kéz a kézben járnak; és ha szabályozzuk a tetteinket (amiket tudatosan irányíthatunk), közvetetten az érzéseinket is befolyásolhatjuk (amiket tudatosan nem irányíthatnánk).
 >
 > -- William James
 > > Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not.
@@ -267,9 +267,9 @@ Hanem azért, mert ez jó érzéssel tölti majd el, nekünk pedig nem kerül se
 
 A legtöbb vallásban és ősi filozófiában megvan valamilyen formában a következő: "Úgy bánj másokkal, ahogy szeretnéd, hogy veled bánjanak!"
 Na most erre nem kell addig várni, amíg majd mások kezdik el csinálni velünk, mert ezzel az erővel mind várhatunk egy darabig...
-Kezdjünk mi így bánni másokkal, és meg lesz az eredménye!
+Kezdjünk _mi_ így bánni másokkal, és meg lesz az eredménye!
 
-És csak hogy félreértés ne legyen, megint hangsúlyozzuk: elég nagy különbség van az olcsó hízelgés és az között, hogy őszintén találunk valamit a másikban, ami miatt felnézhetünk rá.
+És csak hogy félreértés ne essék, megint hangsúlyozzuk: elég nagy különbség van az olcsó hízelgés és az között, hogy őszintén találunk valamit a másikban, ami miatt felnézhetünk rá.
 Mindenki jobbnak hiszi magát, mint bárki, akivel találkozik.
 És ha általánosan nem is, valamilyen szemszögből biztosan igaza van!
 Na ezeket kell nekünk is megtanulnunk meglátni -- és nyíltan elismerni -- hogy látványosan jobbak lehessenek a kapcsolataink.
@@ -313,15 +313,15 @@ Na ezeket kell nekünk is megtanulnunk meglátni -- és nyíltan elismerni -- ho
 
 Egy vitából úgy lehet a legtöbbet kihozni, ha elkerüljük.
 Hiszen -- mint már láttuk -- senkit nem lehet az akarata ellenére meggyőzni.
-Szóval egy vita során tulajdonképpen választhatunk az akadémikus, hivatalos, színpadi győzelem vagy a másik fél jóakarata között.
-És ha elsőre nem is úgy hangzik, az utóbbival többre megyünk.
+Szóval egy vita során tulajdonképpen választhatunk az akadémikus, hivatalos, színpadi győzelem vagy a másik fél jóindulata között.
+És ha elsőre esetleg nem is úgy hangzik, a jóindulattal többre megyünk.
 
 A félreértéseket sem vitával, hanem diplomáciával, és a másik nézőpontjának figyelembe vételével lehet hatékonyan megoldani.
 Kezeljük a nézeteltéréseket inkább tanulási lehetőségként!
 Hátha feljön valami olyan, amire addig nem gondoltunk -- vagy legalábbis nem úgy.
 
 Általános jótanácsok, hogy maradjunk nyugodtak, beszéd előtt hallgassunk, legyünk őszinték, ne kapkodjunk el semmit, és keressünk olyan pontot, amiben egyet értünk!
-Tekintsünk úgy a dologra, hogy mindketten ugyanaz a téma iránt érdekelődünk -- még ha épp különböző oldalon is állunk jelenleg.
+Tekintsünk úgy a dologra, hogy mindketten ugyanaz a téma iránt érdekelődünk -- még ha jelenleg épp különböző oldalon is állunk.
 Az ilyen közös érdeklődésből akár későbbi baráti kapcsolat is lehet...
 
 <br />
@@ -331,7 +331,7 @@ Az ilyen közös érdeklődésből akár későbbi baráti kapcsolat is lehet...
 #### 3.2 -- Tiszteljük a másik véleményét! Soha ne mondjuk, hogy "Tévedsz!"
 
 Sőt, még csak mondanunk sem nagyon kell, mert már a hangsúlyunkkal vagy a testbeszédünkkel lekicsinyelhetjük a másik véleményét.
-És ha az érzéseit megsértjük, akkor onnantól már semmilyen logikával meg nem győzzük őket az igazunkról.
+És ha az érzéseit megsértjük, akkor onnantól már semmilyen logikával meg nem győzzük az igazunkról.
 
 > Nem taníthatunk másoknak semmit; csak abban segíthetünk nekik, hogy maguktól ráébredjenek.
 >
@@ -347,18 +347,18 @@ Különben is, mindannyian rengetegszer tévedünk, szóval könnyen lehet, hogy
 És még ha nekünk is van igazunk, akkor sem ártana úgy hozzáállni, hogy "Nézd, lehet, hogy tévedek, de"...
 Vagy mondjuk "Nem most lenne az első alkalom, hogy én tévedek, szóval nézzük ezt meg közelebbről"...
 Ilyesmi.
-Ilyenkor a másik fél is nyitottabb lesz talán elismerni, hogy talán ő téved.
+Ilyenkor a másik fél is nyitottabb lesz elismerni, hogy talán ő téved.
 De maga a folyamat is sokkal kevésbé lesz feszült, amíg ezt "lebokszoljuk" vele!
 
-Sajnálatos tény, de általában nagyon lazán és kevés körültekintéssel formáljuk a meggyőződéseink nagyját.
-Csak aztán ha egyszer ezeket valaki/valami kívülről fenyegeti, akkor aztán nagyon erősen tudjuk védeni őket.
+Sajnálatos tény, de általában lazán és kevés körültekintéssel formáljuk a meggyőződéseink nagyját.
+Viszont ha egyszer ezeket valaki kívülről fenyegeti, akkor aztán nagyon erősen tudjuk védeni őket.
 És persze nem a konkrét meggyőződések miatt, hanem mert azok a **mi** meggyőződéseink!
 
 Ezért kell nagyon finoman állni a másikhoz!
 Magának még talán bevallja, ha valamiben téved, és _esetleg_ másoknak is, ha épp azzal tűnhet morálisan felsőbbrendűnek, hogy belátja.
 Viszont ha megpróbáljuk lenyomni a torkán, akkor még a tényszerű igazság is keserű lesz.
-Kerüljük ezért a _dogmatikus_ állításokat, mint például "ez mindig így van", "bizonyosság", "általános érvényű", stb.
-Hangsúlyozzuk, hogy az álláspontunk az csak a véleményünk, legyünk nyitottak a másik véleményére is, és majd ebből a kettőből remélhetőleg kijön valami.
+Kerüljük ezért a _dogmatikus_ állításokat, mint például "ez mindig így van", "biztosan", "általános érvényű", stb.
+Hangsúlyozzuk, hogy az álláspontunk csak egy vélemény, legyünk nyitottak a másik véleményére is, és majd ebből a kettőből remélhetőleg kijön valami.
 
 <br />
 
@@ -366,9 +366,10 @@ Hangsúlyozzuk, hogy az álláspontunk az csak a véleményünk, legyünk nyitot
 
 #### 3.3 -- Ha tévedünk, valljuk be gyorsan és nyomatékosan!
 
-Ha tudjuk, hogy úgyis baj van, akkor álljunk bele, és mondjuk ki mi, amit a másik mondana!
-Ezzel lényegesen tompíthatjuk is a másik oldal haragját -- akár még akár a mi oldalunkra is állhatnak.
-Erről kicsi a 8 mérföldes végső rap csata jutott eszembe, ahol... SPOILER ALERT!... a másik mellett saját magát is leosztja, hogy az ellenfélnek ne maradjon mondanivalója.
+Ha tudjuk, hogy úgyis baj van, akkor ismerjük be!
+Álljunk bele, és mondjuk ki mi magunk, amit különben ránk mondanának!
+Ezzel lényegesen tompíthatjuk a másik oldal haragját -- ki tudja, akár még a mi oldalunkra is állhatnak.
+Erről kicsit a 8 mérföldes végső rap csata jut eszembe, ahol... SPOILER ALERT!... főhősünk az ellenfele mellett saját magát is "leosztja", és így az ellenfélnek egyszerűen nem marad mondanivalója.
 
 Az sem mellékes, hogy ha azonnal megvan a "bűnbak", akkor a felelős keresése helyett annál hamarabb rátérhetünk a megoldásra.
 Plusz ettől sokkal egyenesebbnek is tűnhetünk -- nem keresünk alibit, nem kenjük másra, beleállunk!
@@ -382,7 +383,7 @@ Plusz ettől sokkal egyenesebbnek is tűnhetünk -- nem keresünk alibit, nem ke
 Ha eleve ökölbe szorított kézzel megyünk, akkor a másik oldalon is csak öklökbe szorult kezekre számíthatunk.
 Ha viszont kölcsönös megértést és kompromisszumot keresünk, akkor még a végén kiderül, hogy nem is olyan áthidalhatatlanok az ellentéteink.
 Ide illő Ezópusi tanmese, hogy a szél vagy a nap tudja gyorsabban levetetni a vándorral a kabátját.
-A szél hiába fúj egyre erősebben, a vándor csak jobban magára húzza a kabátját.
+A szél hiába fúj egyre erősebben, a vándor csak jobban magára húzza a kabátot.
 Amikor viszont a nap rásüt, egyből vetkőzni kezd...
 
 <br />
@@ -398,8 +399,8 @@ Lehetőleg minél kevesebbet kelljen azt mondani a másiknak, hogy "nem", és mi
 Ha már egyszer eljutottunk a "nem"-ig, onnan nagyon nehéz visszafordulni -- mert onnantól be kellene látni, hogy **mégis** igen!
 Vagyis tévedtünk, és ezt elismerni bizony sértené az egónkat!
 
-Szókrátész vitamódszere is ezen alapul.
-Haladjunk apró lépésekben, amikben a másik fél is könnyen egyetért, és előbb vagy utóbb (szinte észrevétlenül) elfogadja majd az ezekből levont következtetéseinket.
+Szókratész vitamódszere is ezen alapul.
+Haladjunk apró lépésekben, amikkel a másik fél is könnyen egyetért, és előbb vagy utóbb (szinte észrevétlenül) elfogadja majd az ezekből levont következtetéseinket.
 Akár olyanokat is, amiket magukban (a lépések nélkül) élből elutasított volna!
 
 <br />
@@ -417,13 +418,13 @@ Ha a másik kibeszélheti magát nekünk, utána sokkal együttműködőbb hangu
 
 
 
-#### 3.7 -- Intézzük úgy, hogy az ötlet inkább a másikénak tűnjön!
+#### <a name="37"></a>3.7 -- Intézzük úgy, hogy az ötlet inkább a másikénak tűnjön!
 
 Mind jobban bízunk azokban az ötletekben, amik a sajátjaink; és kevésbé azokban, amiket készen, ezüst tálcán kínálnak.
-Ezért igyekezzünk mi sem "készen" tálalni a dolgokat.
+Ezért igyekezzünk mi sem _készen_ tálalni a dolgokat.
 Inkább csak javasoljunk és terelgessünk -- hadd vonja le a másik a saját következtetését!
-Jó esetben ugyanoda fog majd kilyukadni, mint amit mondtunk volna neki.
-Csak így a saját ötlete, amihez mindjárt máshogy fog hozzáállni!
+Jó esetben ugyanoda fog majd kilyukadni, mint amit amúgy is mondtunk volna neki.
+Csak így a "saját ötlete", amihez mindjárt máshogy fog hozzáállni!
 
 <br />
 
@@ -462,10 +463,10 @@ Próbáljunk meg együttérezni velük, és cserébe talán ők is hajlandóbbak
 > -- J. P. Morgan
 > > A man generally has two reasons for doing a thing. One that sounds good, and a real one.
 
-Érdemes lehet észben tartanunk a fent említett különbséget különbséget.
-A másik oldalon úgyis az igazira fognak gondolni, azzal nincs "tennivalónk" -- sőt, lehet, hogy nem is tudjuk.
+Érdemes lehet észben tartanunk a fent említett különbséget.
+A másik oldalon úgyis az igazira fognak gondolni, azzal nincs "tennivalónk" -- sőt, lehet, hogy soha nem is fogjuk tudni.
 De ha adunk nekik egy jól hangzó indokot, azzal sokkal könnyebben meggyőzhetjük őket.
-Tegyünk úgy, mintha igazak, jó lelkűek és igazságosak lennének, és akkor nagy valószínűséggel így is fognak viselkedni!
+Tegyünk úgy, mintha erkölcsösek, jó lelkűek és igazságosak lennének, és akkor nagy valószínűséggel így is fognak viselkedni!
 
 <br />
 
@@ -474,7 +475,7 @@ Tegyünk úgy, mintha igazak, jó lelkűek és igazságosak lennének, és akkor
 #### 3.11 -- Dramatizáljuk az ötleteinket!
 
 Nem elég, hogy igazunk van, ha ezt mások nem látják meg.
-És ne is várjuk el, hogy ők csak úgy "belelássák" az igazunkat, mert ez egyszerűen nem az ő felelősségük!
+És ne is várjuk el, hogy ők csak úgy "belelássák" a mondanivalónkba az igazunkat, mert ez egyszerűen nem az ő felelősségük!
 Vegyük a fáradságot, és tegyük látványossá nekik -- mint ahogy erről már [többször is]({% post_url 2020-01-28-robert-greene-the-48-laws-of-power %}) [beszéltünk]({% post_url 2020-02-29-bill-walsh-the-score-takes-care-of-itself %}).
 
 <br />
@@ -483,8 +484,8 @@ Vegyük a fáradságot, és tegyük látványossá nekik -- mint ahogy erről m�
 
 #### 3.12 -- Csináljunk belőle kihívást!
 
-Utalnék a fejezet alcímére ("Ha semmi más nem megy, akkor próbálkozzunk ezzel"), ami erősen arra utal, hogy ez csak végszükség esetén ajánlatos.
-De akkor viszont megpróbálhatjuk valami olyasmit alkalmazni, mint kb. a hisztis gyerekekkel eljátszott "Úgysem tudsz még 3 kanállal megenni!" esete.
+Kiemelném a fejezet alcímét ("Ha semmi más nem megy, akkor próbálkozzunk ezzel"), ami erősen arra utal, hogy ez csak végszükség esetén ajánlatos.
+De akkor viszont megpróbálhatunk valami olyasmit alkalmazni, mint kb. a hisztis gyerekekkel eljátszott "Úgysem tudsz még 3 kanállal megenni!" stratégia.
 Ez meglepően nagy arányban működhet felnőtteknél is, ha megfelelő a tét...
 Csináljunk ezért játszmát abból, amiről meg akarjuk győzni a másikat, és úgy már hátha elég érdekes lesz, hogy bele is menjen!
 
@@ -533,7 +534,8 @@ Bónusz tipp: "de" helyett használjunk "és"-t, hogy a bevezető dicséret ne �
 
 #### 4.2 -- Közvetetten mutassunk rá a hibára!
 
-Mutassunk példát, hogy abból a másik magától ismerhesse fel, mit csinál rosszul.
+A [3.7](#37)-es ponthoz hasonlóan itt is jót tehet, ha nem az emlegetett ezüst tálcán tálalunk mindent.
+Mutassunk példát, hogy abból a másik _magától_ ismerhesse fel, mit csinál rosszul.
 Kb. ennyi.
 
 <br />
@@ -556,11 +558,12 @@ Különösen ha fiatalabbakról van szó, gondoljunk bele, hogy mi akkoriban hol
 
 #### 4.4 -- Kérdezzünk az utasítás helyett!
 
-A "Csináld ezt!" helyett az "Ez nem lenne jobb?" mindjárt máshogy hangzik.
-És ha a másik részt vehet a beszélgetésben, a gondolatmenetben, ami végül az "utasításhoz" vezet, akkor sokkal könnyebben elfogadja, hogy az a helyes döntés.
-Plusz ezzel aktiválhatjuk a másik fél kreativitását is.
+A "Csináld ezt!" helyett az "Ez nem lenne jobb?" mindjárt máshogy hangzik, nem?
+(Figyeltük, hogy ezt is kérdésként fogalmaztam inkább, mint utasításnak?)
+És ha a másik részt vehet a beszélgetésben -- a gondolatmenetben, ami végül az "utasításhoz" vezetne -- akkor sokkal könnyebben elfogadja, hogy az a helyes döntés.
+Plusz ezzel aktiválhatjuk a másik fél kreativitását.
 Ki tudja...
-Ha végleges, kész tények elé állítás helyett nyitottak vagyunk az ő javaslataira is, akkor lehet, hogy még jobb dolog sül ki belőle a végén!
+Ha a kész tények elé állítás helyett nyitottak vagyunk az ő javaslataira is, akkor lehet, hogy valami _még jobb_ sül ki belőle a végén!
 
 <br />
 
@@ -571,7 +574,7 @@ Ha végleges, kész tények elé állítás helyett nyitottak vagyunk az ő java
 A probléma megoldásának ritkán szükséges része a másik megaláztatása.
 Mi ezt mégis gyakran önként tesszük mellé, mert "csak azért is" nekünk volt igazunk, és "Háháá!", most az egész világ láthatja.
 Ha ehelyett szépen "csendben" intéznénk a dolgot, és hagynánk, hogy a másik is emelt fővel távozhasson a végén, az mindenkinek sokkal jobb lehetne.
-A hibáztatás, a felelős keresése sokszor nem létszükség -- és ilyenkor tekintsünk is el tőle!
+A hibáztatás vagy a felelős keresése sokszor nem létszükség -- és ilyenkor tekintsünk is el tőle!
 
 <br />
 
@@ -593,8 +596,8 @@ Minél részletesebb a dicséret, annál jobb, mert annál kisebb az esélye, ho
 #### 4.7 -- Adjunk a másiknak olyan jó hírnevet, amihez aztán felérhet!
 
 Ha régen volt valamilyen tulajdonsága, amit mostanában hiányolunk, akkor emlékeztessük rá!
-Az lesz az egyik legnagyobb motiváció, ha saját magához kell felérnie.
-Ha pedig nincs meg valamilyen tulajdonsága, egyszerűen "képzeljük oda"!
+Az lesz az egyik legnagyobb motiváció, ha egykori önmagához kell majd felérnie.
+Ha pedig nincs meg az a bizonyos tulajdonsága, akkor egyszerűen "képzeljük oda"!
 Hátha ennek örömére ő is odaképzeli, és mindenkit meglep majd, ahogy beváltja a jóslatunkat.
 
 <br />
