@@ -87,12 +87,12 @@ Van, aki másokkal szolgáltatja ki magát.
 Sőt, olyan is van, aki szó szerint megőrül, mert ott keresi a saját fontosságát -- egy saját világban, ha már a valóság nem volt elég jó.
 
 Ha pedig ennyire fontos, hogy fontosak legyünk, akkor gondoljunk csak bele, mennyit számíthatna, ha még a megőrülés _előtt_ értékelnénk az embertársainkat!
-Itt erősen keresztezzük az [elismerő szavak]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}) szeretetnyelvét, sok példával a dicséretek pozitív hatására, illetve a házastársaink szükségtelen kiéheztetésére.
+Itt erősen keresztezzük az [elismerő szavak]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}) szeretetnyelvét, sok példával a dicséretek pozitív hatására, illetve a házastársunk szükségtelen "kiéheztetésére".
 
 Megemlítjük itt is, hogy ez nem összekeverendő a hízelgéssel, ami nem működik, és ne is működjön!
 Őszintén találni kell valamit, amivel kapcsolatban pozitívak lehetünk -- ami nem szabadna, hogy problémát okozzon.
 
-> Ha egy pillanatra nem magunkkal volnánk elfoglalva és a másik ember értékeire gondolnánk, nem kellene olyan olcsó és hamis hízelgésre hagyatkoznunk, ami már majdnem _azelőtt_ kiszúrható, hogy elhagyná a szánkat.
+> Ha egy pillanatra nem magunkkal lennénk elfoglalva és a másik ember értékeire gondolnánk, nem kellene olyan olcsó és hamis hízelgésre hagyatkoznunk, ami már majdnem _azelőtt_ kiszúrható, hogy elhagyná a szánkat.
 > > Now, if we stop thinking about ourselves for a while and begin to think of the other person's good points, we won't have to resort to flattery so cheap and false that it can be spotted almost before it is out of the mouth.
 
 Tudatosítsuk magunkban, hogy mind a munkahelyi ismeretségeink, mint a személyes kapcsolataink másik végén olyan emberek vannak, akik szintén elismerésre vágynak.
@@ -168,7 +168,7 @@ Mi csak megtanuljuk úgy előadni a helyzetet, hogy a másik fél nyereségére 
 Már [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) is megmondta, hogy törődnünk kell másokkal!
 Egyszerűen érződni fog a beszédünkön, az írásunkon, a kisugárzásunkon.
 Sok példa szerepel a fejezetben, ahogy nagy emberek "nem szállnak el maguktól", illetve kis emberek is jó tett helyébe jót várhatnak, ha úgy viselkednek.
-Utána néznek a másik érdeklődéseinek, megjegyezik a születésnapját, invitáló hanggal veszik fel a telefont...
+Utána néznek a másik érdeklődéseinek, megjegyzik a születésnapját, invitáló hanggal veszik fel a telefont...
 De nem ragozom, értjük.
 
 > Akkor érdeklődünk mások iránt, ha mi érdekeljük őket.
@@ -411,7 +411,7 @@ Akár olyanokat is, amiket magukban (a lépések nélkül) élből elutasított 
 
 Amúgy is valószínűtlen, hogy a másik figyelni tudna ránk, amíg van mondanivalója.
 Szóval hiába _tűnik úgy_, mintha mi beszélnénk, amikor belevágunk a szavába, valójában hiába!
-Ez persze ez nem csak a vitákra, hanem úgy általában az emberi kapcsolatokra is vonatkozik -- mint azt a [2.4](#24)-es pontban is láttuk.
+Ez persze nem csak a vitákra, hanem úgy általában az emberi kapcsolatokra is vonatkozik -- mint azt a [2.4](#24)-es pontban is láttuk.
 Ha a másik kibeszélheti magát nekünk, utána sokkal együttműködőbb hangulatban lesz.
 
 <br />
@@ -445,7 +445,7 @@ Ezért ha együtt akarunk működni másokkal, akkor át kell látnunk, hogy mi 
 
 Mindenkit a körülményei tesznek azzá, ami.
 
-> Az egyetlen oka, hogy nem vagy csörgőkígyó, az az, hogy se apád, se anyád nem voltak csörgőkígyók.
+> Az egyetlen oka, hogy nem vagy csörgőkígyó, az az, hogy a szüleid sem voltak csörgőkígyók.
 > > The only reason [...] that you are not a rattlesnake is that your mother and father weren't rattlesnakes.
 
 Nekünk sem jár például olyan sok érdem azért, ahol tartunk az életünkben -- legalábbis annyi biztos nem, mint hisszük.
