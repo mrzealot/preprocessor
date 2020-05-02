@@ -1,81 +1,139 @@
 ---
-date: 2020-04-05
-labels:
-- meditation
-- mindfulness
-- progression
-- mental_training
-- awareness
-- enlightenment
+layout: post
+title: John Yates - The Mind Illuminated
+pages: 504
+date: 2020-05-08 15:00
+excerpt: >
 ---
 
-# Jegyzetek
+Az "elme" vonalon egy nagy adósságom van még a teljes lefedettség érdekében: a meditáció.
+Annyit hallunk róla, és annyira univerzálisan elismert, hogy jó hatással van...
+Mégis általánosságban annyira keveset tudunk róla és pláne annyira ritkán része a mindennapjainknak.
 
-- a buddhista meditációs módszerek (vallási háttér nélküli!) integrációja a tudományos nézetekkel
+Ezért próbáltam egy olyan könyvet keresni, ami keleti miszticizmus és vallási felhangok nélkül áll a témához.
+Ami legalább _valamennyire_ tudományosan és "nyugatiasan" fogalmaz, hogy nekünk is könnyen emészthető -- és az életünkbe integrálható! -- legyen.
+Az eredmény [Dr. John Yates -- The Mind Illuminated](https://www.goodreads.com/book/show/25942786-the-mind-illuminated){:target="_blank"} (kb. "A megvilágosodott elme") című könyve.
+Túl sokat nem tudok a szerzőről a tizenéves pszichológiai/kognitív/neurológiai kutatási hátterén és a negyven-x éves meditációs múltján felül, de ennyi (a könyv széles körű elismertségével együtt) nekem bőven elég.
 
-# Tartalom
+Az első átfogó tanulság, ami olvasás közben többször is felmerült bennem, az az, hogy "ez olyan sűrű, mint a nagyi bablevese".
+És ezt abszolút jó értelemben mondom.
+Valószínűleg részben az is besegít, hogy ez számomra egy teljesen új terület, de mégis...
+Csak az első 180 oldalból 7000 szónyi vázlatot sikerült összehoznom, ahol ezért ideiglenesen meg is álltam.
+Kis ferdítéssel mondhatjuk, hogy a könyv szerkezetileg a kezdő-haladó-mester fejlődési utat követi, és abból -- pláne ilyen információ áradat mellett -- a kezdő szint egyelőre elég is lesz.
 
-## Intro
+Viszont mivel csak a kezdő szint is 7000 szó, ezért még ezt is ketté bontom, hogy ne komplett novellákat kelljen olvasnotok.
+Ezen a héten megismerkedünk az alapfogalmakkal, a folyamattal, a célokkal és az akadályokkal, hogy a jövő héten már a tényleges lépésekkel foglalkozhassunk.
+A tartalom tehát a következőképpen alakul:
 
-- leginkább egy praktikus útmutatónak készült
-- sok helyen részletezik, hogy ez miért jó
-    - de arra már sokkal kevesebb forrás van, hogy _hogyan_ is kellene csinálni
-    - hogy működik az elménk, hogyan edzzük, mik a lépések?
+- [Bevezetés](#bevezetés)
+- [Folyamat](#folyamat)
+- [Célok](#célok)
+- [Akadályok](#akadályok)
 
-- meditáció = tudomány, az elme szisztematikus edzése
-- számos kézzel fogható előnnyel jár
-    - mélyebb koncentráció, alacsonyabb vérnyomás, jobb minőségű alvás
-    - krónikus fájdalom, stressz, szorongás, depresszió kezelése
-    - mélyebb önismeret, amivel hatékonyabban változtathatunk az életünk azon területein, amiken kellene
-- és ez mind csak járulékos haszon
-    - ezen felül módosult tudatállapotok: öröm, boldogság, elégedettség, béke
-    - és végül akár megvilágosodás is (ami egy végleges kiút a fájdalomból)
+<br />
 
-- de ezen felül a meditáció = művészet
-- egy mélyebb irányítás magunk felett, amivel nem csak a tudatunkra, de másokra is hatással lehetünk
-- a saját érzékelésünket formáljuk, mint egy műalkotást
 
-- "Habár a fájdalom és az élvezet elkerülhetetlen részei minden ember életének, a szenvedés és a boldogság teljesen opcionálisak."
-    - "Although pain and pleasure are an inevitable part of human life, suffering and happiness are entirely optional."
 
-- a könyv ötlete onnan született, hogy milyen sok meditálót ismer, akik az elszántságuk és komoly gyakorlatuk ellenére sem érték el a magasabb szinteket
-    - ami hiányzott, az egy kézzel fogható "térkép" volt a folyamathoz
-    - mikor mit kell csinálni, mire kell figyelni, és hogyan kell haladni
-- nyilván létezik már ilyen az elmúlt párEZER évből
-    - a baj csak az, hogy elég kriptikusak, nagyon kevés elérhető egyáltalán európai nyelveken
-    - és ha el is érnénk se mennénk vele sokra, mert ha a fordító/kutató nem volt tapasztalt meditáló, akkor honnan értelmezhette volna
-    - illetve sokszor nem is nagyon volt MIT értelmezni, mert mivel kolostori környezetben gyakorolták az elveket, nyugodtan feltételezhető volt, hogy az alapokkal mindenki tisztában van
-        - ezért nem kimondottabban hemzsegtek a példák és illusztrációk
-        - amik pedig nekünk modern "nyugati" embereknek nagyon nem ártanának!
-- szóval ami itt az újdonság igazából, az a kombináció
-    - egyesítjük a tradicionális meglátásokat a menet közben elért tudományos ismeretekkel, mindezt pedig egy tapasztalt meditáló értelmezi és fordítja le nekünk közembereknek is érthető formába
 
-- pár fogalom letisztázása előre
-    - samatha ~ nyugalom (+ egykedvűség + öröm)
-    - vipassana ~ felismerés
-    - samadhi ~ koncentráció
-    - sati ~ tudatosság
-- ezekből lesz a megvilágosodás
-    - tudatosság + koncentráció = nyugalom
-    - tudatosság + koncentráció = felismerés(ek)
-    - külön külön is mehet, de ha mindkettő megvan, akkor
-    - nyugalom + felismerés = megvilágosodás
-- sok gyakorlat különválasztja az alapokat
-    - de tudatosság nélkül a koncentráció csak egy áldásos tompasághoz vezet
-    - fordítva pedig sok mindent fogunk észlelni, de össze-vissza, mert semmi irányításunk nem lesz felette
-- az 5 nagy felismerés
-    - mulandóság, üresség, a szenvedés természete, "minden mindennek összefügg", és végül az "én-telenség" (ez az utolsó a megvilágosodás)
-    - ezek kb. kiszámíthatatlanul jönnek, bármikor beüthetnek, de a tudatosság és a koncentráció fejlesztésével előkészíthetjük nekik a terepet (és nagyban növelhetjük a valószínűségüket)
 
-- könyv használata
-    - elő összefoglaló
-    - minden szinthez egy-egy dedikált fejezet
-    - interlude-ok (köztes fejezetek), ahol plusz infókat kapunk
-        - hogy vezessünk be a hétköznapjainkba egy konzisztens meditációs rendszert
-        - mik lesznek a nehézségek, amiken át kell majd zökkennünk
-        - hogy működik a tudatosság
-        - és aztán bonyolultabb elme-modellek és segítségek a magasabb szintek könnyebb értelmezéséhez
-- nem muszáj szekvenciálisan végigolvasni elejétől a végéig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Bevezetés
+
+A könyv leginkább egy praktikus útmutatónak készült.
+Sok helyen részletezik, hogy ez az egész meditáció "biznisz" miért jó, de arra már sokkal kevesebb forrás van, hogy _hogyan_ is kellene csinálni.
+Hogy működik az elménk, hogyan edzzük, mik a lépések?
+Ezeket a hiányosságokat igyekszünk majd pótolni -- de először azért itt is vegyük át, hogy miért is jó ez az egész.
+
+A meditáció tulajdonképpen az elme szisztematikus edzése.
+Számos kézzel fogható előnnyel jár, mint például:
+
+- Mélyebb koncentráció, alacsonyabb vérnyomás, jobb minőségű alvás.
+- Krónikus fájdalom, stressz, szorongás, depresszió kezelése.
+- Mélyebb önismeret, amivel hatékonyabban változtathatunk az életünk azon területein, amiken kellene.
+
+És habár ezek mind csak "járulékos haszonnak" minősülnek a végcélként kitűzött módosult tudatállapotok mellett (öröm, boldogság, elégedettség, béke és akár "megvilágosodás"), már önmagukban sem megvetendőek.
+Újra előkerülnek továbbá a sztoikus nézetek is, hiszen az érzékelésünk tudatos formálásával nagyon hasonló eredményeket érhetünk el:
+
+> Habár a fájdalom és az élvezet elkerülhetetlen részei minden ember életének, a szenvedés és a boldogság teljesen opcionálisak.
+> > Although pain and pleasure are an inevitable part of human life, suffering and happiness are entirely optional.
+
+A könyv ötlete onnan született, hogy a szerző milyen sok meditálót ismer, akik az elszántságuk és komoly gyakorlatuk ellenére sem érték el a magasabb szinteket.
+Ami hiányzott, az egy kézzel fogható "térkép" volt a folyamathoz.
+Mikor mit kell csinálni, mire kell figyelni, és hogyan kell haladni.
+
+Nyilván létezik már ilyen térkép az elmúlt pár**ezer** évből; a baj csak az, hogy elég kriptikusak, nagyon kevés elérhető egyáltalán európai nyelveken.
+És ha el is érnénk se mennénk vele sokra, mert ha a fordító/kutató nem volt tapasztalt meditáló, akkor honnan értelmezhette volna.
+Illetve sokszor nem is nagyon volt **mit** értelmezni!
+Mivel kolostori környezetben gyakorolták az elveket, nyugodtan feltételezhető volt, hogy az alapokkal mindenki tisztában van.
+Ezért nem kimondottabban hemzsegtek a példák és illusztrációk, amik pedig nekünk modern "nyugati" embereknek nagyon nem ártanának!
+
+Szóval ami itt igazából újdonság számba megy, az a kombináció.
+Egyesítjük a tradicionális meglátásokat a menet közben elért tudományos ismeretekkel, mindezt pedig egy tapasztalt meditáló értelmezi és fordítja le nekünk közembereknek is érthető formába.
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Folyamat
+
 
 - 10 lépés
     - mindhez megvan, hogy mit kellene éreznünk, milyen problémákat kell legyőznünk, ilyesmi
@@ -115,9 +173,56 @@ Végül pedig pár jó tanács:
 Szóval csak csináljuk (mint ahogy egy kertész is csak gondozza a kertet), és a maga idejében minden ki fog virágozni!
 
 
+- könyv használata
+    - elő összefoglaló
+    - minden szinthez egy-egy dedikált fejezet
+    - interlude-ok (köztes fejezetek), ahol plusz infókat kapunk
+        - hogy vezessünk be a hétköznapjainkba egy konzisztens meditációs rendszert
+        - mik lesznek a nehézségek, amiken át kell majd zökkennünk
+        - hogy működik a tudatosság
+        - és aztán bonyolultabb elme-modellek és segítségek a magasabb szintek könnyebb értelmezéséhez
+- nem muszáj szekvenciálisan végigolvasni elejétől a végéig
 
 
-## 1. közjáték - Tudatos tapasztalás és a meditáció céljai
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Célok
 
 - ez a legalapabb térkép az elménkről
     - ez ahhoz lesz hasznos, hogy a szintek "útvonalaival" bejárhassuk
@@ -216,6 +321,10 @@ Szóval csak csináljuk (mint ahogy egy kertész is csak gondozza a kertet), és
         - ha ezen a skálán vizsgáljuk magunkat, rájövünk, hogy a napjaink nagy része változó mértékű tompaságban telik
         - ha meditálunk, akkor ezt az átlagot tolhatjuk az életveszélyes/atlétás szint felé, _folyamatosan_!
 
+- sok gyakorlat különválasztja az alapokat
+    - de tudatosság nélkül a koncentráció csak egy áldásos tompasághoz vezet
+    - fordítva pedig sok mindent fogunk észlelni, de össze-vissza, mert semmi irányításunk nem lesz felette
+
 - Zen hasonlat: az elménk egy tó
     - ha a víz zavaros, akkor nem láthatjuk sem a fenekét, sem amit visszatükröz
     - a stabil figyelem nyugtatja le a vizet, a tó feneke a belső érzékelésünk, a visszatükröződés a külső érzékelésünk
@@ -225,10 +334,45 @@ Szóval csak csináljuk (mint ahogy egy kertész is csak gondozza a kertet), és
     - nem csak a csendes tóhoz kell megérkezni, hanem megtanulni, hogy mitől lesz csendes!
     - journey before destination!
 
+<br />
 
 
 
-## 2. közjáték -- Az 5 akadály
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Akadályok
 
 - az itt leírtak elsajátítása teljesen természetes, és bárkinek mehet
 - de menet közben óhatatlanul is találkozni fogunk az 5 akadállyal
@@ -316,3 +460,40 @@ Szóval csak csináljuk (mint ahogy egy kertész is csak gondozza a kertet), és
 - de mind legyőzhető
     - és egy bizonyos szint után már vissza sem jönnek!
 
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Összefoglalás
