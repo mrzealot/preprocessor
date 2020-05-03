@@ -134,56 +134,45 @@ Egyesítjük a tradicionális meglátásokat a menet közben elért tudományos 
 
 ## Folyamat
 
+Hogy a megfelelő sorrendben fejleszthessük a meditációs gyakorlatunkat, a könyv 10 lépésre bontja a folyamatot.
+Mindhez megvan, hogy mit kellene éreznünk, milyen problémákat kell legyőznünk, ilyesmi.
+És mivel egymásra épülnek, nem érdemes "csapongani"!
+Csak szépen sorban.
 
-- 10 lépés
-    - mindhez megvan, hogy mit kellene éreznünk, milyen problémákat kell legyőznünk, ilyesmi
-    - általában változó ideig tartanak
-    - egymásra épülnek, nem érdemes "csapongani", csak szépen sorban
-- a tényleges haladásunk itt sem várható, hogy tökéletesen lineáris legyen
-    - visszaeshetünk, vagy váratlanul (ideiglenesen!) előre ugorhatunk
-    - lehetnek jobb és rosszabb heteink, napjaink, vagy akár egy-egy alkalmon belül is változhat sok minden
-    - ezeknek ne higgyünk! valami akkor megy, ha konzisztensen megy! és baj is csak akkor van, ha konzisztensen baj van...
-- a külső, "világi" események nyilván befolyásolhatják a tempót
-    - de rendszeres, napi gyakorlással akár hónapok vagy 1-2 év alatt is eljuthatunk a szintek végére
-    - nem kellenek évtizedek, se kolostoros elzártság
-- nagyon fontos, hogy a meditáció során "tanultak" a hétköznapjainkba is átszivárogjanak
-    - ha a manapság tipikus beskatulyázást csináljuk, és elzárjuk meditációt az életünk többi részétől (mint általában a munkát és a magánéletet szoktuk), akkor számíthatunk rá, hogy sokkal lassabban fogunk haladni
-- 4 nagy mérföldkő
-    - 1-3 kezdő
-    - 4-6 képzett
-    - 7 átmenet
-    - 8-10 szakértő
+Ráadásként a 10 szinten belül 4 nagy mérföldkövet is megfogalmazunk:
 
-- mindez az én (ego) szemszögéből van megfogalmazva, de nem lehet erőltetni
-    - ez én-telenség mint megvilágosodás lehet, hogy egy végső állapot, de előre érdemes tudatosítani, legalább intellektuálisan
-    - nem mi irányítunk
-    - mi csak annyit tehetünk, hogy egy bizonyos szándékot alakítunk ki és tartunk folytonosan az elménkben
-        - kb. mint ahogy labdázni is csak szeretnénk (vagyis formálunk és tartunk az elménkben egy ilyen szándékot), és ennek hatására a testünk előbb-utóbb alkalmazkodik.
-        - de (ahogy a Fegyencedzés is mondta az edzési folyamatokra) a saját ütemében, nem a miénkben!
-    - ha tartjuk a szándékot, akkor az elménk is megtanul helyesen reagálni (mint az izmaink is), és idővel szokássá válik, egyre könnyebb lesz
-- és ha ebből a szándék --> mentális akció --> mentális szokás szemszögből nézzük, az egész folyamat sokkal egyszerűbb, mint ahogy azt a 10 lépés mutatja
-- tartsuk azt a szándékot, hogy:
+- 1-3 -- Kezdő (folyamatos figyelem)
+- 4-6 -- Képzett (folyamatos és kizárólagos figyelem)
+- 7 -- Átmenet (erőfeszítés nélküli stabil figyelem)
+- 8-10 -- Szakértő (tartósan módosult tudatállapot, nyugalom, egykedvűség, öröm)
 
+A tényleges haladásunk persze itt sem várható, hogy tökéletesen lineáris legyen.
+A szintek általában eleve változó ideig tartanak.
+És ennek a tetejébe visszaeshetünk, vagy akár váratlanul (ideiglenesen!) előre is ugorhatunk.
+Lehetnek jobb és rosszabb heteink, napjaink, vagy akár egy-egy alkalmon belül is változhat sok minden.
+Ezeknek ne higgyünk!
+Valami akkor megy, ha konzisztensen megy!
+Viszont ebből következően baj is csak akkor van, ha konzisztensen baj van...
+
+A külső, "világi" események nyilván befolyásolhatják a tempót.
+Ezért nagyon fontos, hogy a meditáció során "tanultak" a hétköznapjainkba is átszivárogjanak!
+Ha a manapság tipikus _beskatulyázást_ csináljuk, és elzárjuk a meditációt az életünk többi részétől -- mint általában a munkát és a magánéletet szoktuk -- akkor számíthatunk rá, hogy sokkal lassabban fogunk haladni.
+De rendszeres, napi gyakorlással és "nem elzárással" akár hónapok vagy 1-2 év alatt is eljuthatunk a szintek végére.
+Nem kellenek sem évtizedek, sem kolostoros elzártság.
+
+Mindez az _én_ (ego) szemszögéből van megfogalmazva, de igazából jobban járunk, ha minél hamarabb elkezdjük tudatosítani magunkban, hogy nem mi irányítunk!
+Mi csak annyit tehetünk, hogy egy bizonyos szándékot alakítunk ki és tartunk folytonosan az elménkben.
+Kb. mint ahogy egy sportot is csak szeretnénk profin művelni...
+Formálunk és tartunk az elménkben egy ilyen szándékot, és ennek hatására a testünk előbb-utóbb alkalmazkodik.
+De -- ahogy például a [Fegyencedzés]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) is mondta az edzési folyamatokra -- a saját ütemében, nem a miénkben!
 
 Végül pedig pár jó tanács:
-- ha minden kalandozás miatt mérgesek leszünk, az olyan, mintha pár gaz miatt az egész kertet felszántanánk
-- ha erőltetni akarjuk, hogy stabil legyen a figyelmünk, az olyan, mintha úgy szeretnénk gyorsabban növeszteni a fát, hogy felfelé húzzuk a csemetét
-- ha pedig a meditációs örömöt kergetjük idő előtt, az olyan, mintha szétfeszítenénk egy rügyet, hogy hamarabb virágozzon
 
-Szóval csak csináljuk (mint ahogy egy kertész is csak gondozza a kertet), és a maga idejében minden ki fog virágozni!
+- Ha minden meditáció közbeni elkalandozás miatt mérgesek leszünk, az olyan, mintha pár gaz miatt az egész kertet felszántanánk.
+- Ha erőltetni akarjuk, hogy stabil legyen a figyelmünk, az olyan, mintha úgy szeretnénk gyorsabban növeszteni a fát, hogy felfelé húzzuk a hajtását.
+- Ha pedig a meditációs örömöt kergetjük idő előtt, az olyan, mintha szétfeszítenénk egy rügyet, hogy hamarabb virágozzon.
 
-
-- könyv használata
-    - elő összefoglaló
-    - minden szinthez egy-egy dedikált fejezet
-    - interlude-ok (köztes fejezetek), ahol plusz infókat kapunk
-        - hogy vezessünk be a hétköznapjainkba egy konzisztens meditációs rendszert
-        - mik lesznek a nehézségek, amiken át kell majd zökkennünk
-        - hogy működik a tudatosság
-        - és aztán bonyolultabb elme-modellek és segítségek a magasabb szintek könnyebb értelmezéséhez
-- nem muszáj szekvenciálisan végigolvasni elejétől a végéig
-
-
+Szóval mi csak csináljuk -- mint ahogy egy kertész is "csak" gondozza a kertet -- és a maga idejében minden ki fog virágozni!
 
 <br />
 
@@ -224,115 +213,107 @@ Szóval csak csináljuk (mint ahogy egy kertész is csak gondozza a kertet), és
 
 ## Célok
 
-- ez a legalapabb térkép az elménkről
-    - ez ahhoz lesz hasznos, hogy a szintek "útvonalaival" bejárhassuk
-- idővel persze elmélyül a tudásunk, amihez már jobb lesz egy komplexebb térkép
-    - és idővel kapunk is ilyet... de most még ez elég
-- amit pedig elérhetünk, az a 1) stabil figyelem és a 2) tudatosság
+A meditáció célja a stabil figyelem és a tudatosság párhuzamos elérése.
+Ez így elég egyszerűnek hangozhat -- és később lesz is majd bonyolultabb elme-modellünk, ami a magasabb szintek megértésében segíthet.
+De egyelőre ennyi elég.
 
-- figyelem vs. érzékelés (attention vs. awareness)
-    - kb. mint a látásnál is fókusz vs. perifériás látás
-    - egyik sem "jobb" mint a másik... csak két _féle_ befogadási módjai a világnak
-    - a figyelem élesebb, de egyszerre csak egy (vagy kevés) dologra irányul
-    - az érzékelés pedig tompa, de sokkal befogadóbb, és a dolgok kapcsolataival is tud mit kezdeni
-        - kb. kontextust ad?
-- igazából ez a szétválasztás vezet a két fő célhoz is
-    - a figyelemből lesz a stabil (folytonos, kizárólagos) figyelem
-    - az érzékelésből pedig a tudatosság (mindfulness)
+A figyelem és a tudatosság közti különbséget próbáljuk úgy elképzelni, mint ahogy a szemünk esetében a fókusz és a perifériás látás mások.
+Egyik sem "jobb" mint a másik...
+Csak két _féle_ befogadási módjai a világnak.
+A figyelem élesebb, de egyszerre csak egy (vagy kevés) dologra irányul.
+Az érzékelés pedig tompa, de sokkal befogadóbb, és a dolgok kapcsolataival is tud mit kezdeni -- mondjuk, hogy kontextust ad.
 
-- stabil figyelem
-    - alapok
-        - nem igazán koncentráció, mert az elég gyakori szó, és sok mindent mögé képzelnénk, ami nem is oda való
-        - inkább "stabil figyelem"
-        - vagyis: irányítani és fenntartani a figyelem fókuszát, és a hatókörét is
-        - ez nem csak a világ megtapasztalásához, de saját magunk megismeréséhez is sokkal hasznosabb lesz!
-    - spontán figyelem mozgások
-        - pásztázás, leragadás, vagy alternálás
-        - az első kettő kb. triviális, de a harmadikat már felismerni is nehéz
-        - úgy tűnhet, hogy egyszerre több dologra is figyelünk, de igazából egyszerre mindig csak egy dologra tudunk
-            - olyan ez, mint a szálak az időosztásos rendszerekben (ha nincs több fizikai mag a processzorban)
-        - ez még akkor is fennállhat, amikor már viszonylag tapasztalt meditálók vagyunk, és _látszólag_ csak egy dologra irányul a figyelmünk
-            - de közben valami a perifériás érzékelésből "kilóg" a többi közül
-            - ilyenkor is váltakozik a figyelmünk az és a fő tárgy között, csak már nem egyforma arányban
-    - szándékos figyelem irányítás ÉS fenntartás
-        - ugye erre akarjuk a spontán részt leváltani
-        - az irányítás része kb. triviális, csak ott tartani nem lehet szándékosan
-        - egy tudatalatti folyamat dönti el, hogy épp mi a fontos, és az irányítja át
-        - de tudatosan fenntartott elhatározásokkal befolyásolhatjuk ezt a tudatalatti folyamatot is
-        - ha tudatosan és folytonosan azt sulykoljuk magunkba, hogy a légzés figyelése fontos, az segít előrébb hozni a rangsorban
-        - és ha mindig visszalökdössük, ahányszor csak elkalandozik, akkor azzal is nagyban előre hozzuk a rangsorban
-        - egy idő után pedig azt fogjuk észrevenni, hogy már eleve olyan a rangsor, hogy el sem megy róla
-        - ennyi már a 4-es szinten is meglehet, de ha az alternálást is el szeretnénk tüntetni, az még nehezebb
-        - az ilyen szándékok konzisztens fenntartásával megtanuljuk magunkat átformálni, és ez nyilván nem csak a légzésünkre fog vonatkozni!
-    - a hatókör meghatározása
-        - ha már tudjuk tartani a figyelmünk fókuszát, akkor a "szélességét" is megtanuljuk irányítani
-        - az egyik véglet, amikor képesek leszünk teljesen egy dologra összpontosítani, és minden mást kizárni
-        - a másik véglet, amikor teljesen kinyithatjuk a hatókört, és mindenre egyszerre figyelni
-            - amikor kb. figyelem = érzékelés, non-fókusz
-            - ilyenkor alapból minden homályos lenne (a nagy mennyiség miatt)
-            - de növelhetjük az elménk képességét a másik fő vonalon...
 
-- tudatosság
-    - alapok
-        - nem leragadni a szűk fókuszban, hanem a nagy egészet is átlátni
-        - tisztában leszünk a lehetőségeinkkel, ezért helyesebben választhatunk majd
-        - ez adja majd az erőt, hogy azzá formálhassuk magunkat, amivé szeretnénk
-        - és végül meglátásokhoz (és megvilágosodáshoz) vezet majd
-    - a tudatosság nem a legmegfelelőbb szó erre
-        - mindig tudatában vagyunk valaminek
-        - csak így már a megfelelő dolgoknak leszünk tudatában
-        - a tudatosság igazából a figyelmünk és az érzékelésünk optimális együttműködése
-    - különbségek a tudatosság és a figyelem között
-        - átfogó vs. fókuszált
-        - mindenből szűr vs. a tudatosság opcióiból választ
-        - ösztönös(ebb) vs. tudatos
-        - gyors vs. lassabb
-        - objektívebb vs. személyesebb
-    - tudatossággal figyelhetjük meg az elménk viselkedését is
-        - figyelemmel nem, mert a figyelem is az elménk viselkedése
-        - "ki figyeli a figyelőket?" :)
-        - ez volt az a szép szó --> metakognitív introspektív tudatosság
-    - ezeken alapulnak a döntéseink
-        - csak ez a két infó forrás áll a rendelkezésünkre
-        - szóval bármit is döntünk, azt ezek alapján döntjük el
-        - és ezért ha fejlesztjük őket, akkor helyesebb döntéseket is tudunk majd hozni!
-    - azért szorul fejlesztésre, mert
-        1. alapból nagyon fejletlen az érzékelésünk, és
-        2. a figyelmünk önmagában nem elég, hogy folyamatosan fenntartson egy tudatosságot
-        - erősen túlhasználjuk a figyelmet, mert az "könnyen", tudatosan irányítható
-        - emiatt viszont az érzékelésünk "elsorvad"
-        - de ezt meditációval helyre billenthetjük
-    - emellett az is fontos, hogy a nyers elme-kapacitásunkat növeljük
-        - a két oldal közös energia forrásból táplálkozik
-        - ha hirtelen nagyon odafókuszálunk valamire, akkor már nem marad energiánk az érzékelésünket is fenntartani
-        - ezért "borul el az agyunk" pl. egy veszekedés alatt
-            - valamire nagyon ráfigyeltünk
-            - de már nincs kontextus, ami megmondaná, hogy jó-e az, hogy pont erre figyelünk
-        - ha nem növeljük meg a nyers kapacitást, akkor az ilyen nagy koncentrációt igénylő helyzetek mindig az érzékelésünk rovására fognak menni
-            - ami miatt nem fogunk tudni optimális döntéseket hozni
-        - ha viszont nagyon el akarunk lazulni, hogy az érzékelésünk kapjon teret, akkor meg figyelni nem fogunk tudni!
-        - ahhoz, hogy mind a kettő párhuzamosan futhasson, nagyobb kapacitás kell!
-    - ez is olyan, mint a fizikai edzés
-        - csak úgy lehet nagyobb kapacitásra szert tenni, ha egyszerre aktiváljuk a figyelmünket és az érzékelésünket is
-        - minél többet gyakoroljuk, annál jobban mehet mindkettő egyszerre, akár teljes gőzzel is
-    - nézzük meg, mi a skála
-        - életveszélyben, vagy csúcsatlétáknál igencsak komoly mentális teljesítmény figyelhető meg
-        - a másik véglet pedig a teljes betompulás, a mély alvás
-        - ha ezen a skálán vizsgáljuk magunkat, rájövünk, hogy a napjaink nagy része változó mértékű tompaságban telik
-        - ha meditálunk, akkor ezt az átlagot tolhatjuk az életveszélyes/atlétás szint felé, _folyamatosan_!
 
-- sok gyakorlat különválasztja az alapokat
-    - de tudatosság nélkül a koncentráció csak egy áldásos tompasághoz vezet
-    - fordítva pedig sok mindent fogunk észlelni, de össze-vissza, mert semmi irányításunk nem lesz felette
 
-- Zen hasonlat: az elménk egy tó
-    - ha a víz zavaros, akkor nem láthatjuk sem a fenekét, sem amit visszatükröz
-    - a stabil figyelem nyugtatja le a vizet, a tó feneke a belső érzékelésünk, a visszatükröződés a külső érzékelésünk
-    - a tudatosság a fény, ami miatt mindezt láthatjuk
+#### Stabil figyelem
 
-- és mindentől függetlenül: próbáljuk élvezni a folyamatot
-    - nem csak a csendes tóhoz kell megérkezni, hanem megtanulni, hogy mitől lesz csendes!
-    - journey before destination!
+Nem igazán jó szó ide a "koncentráció", mert az elég hétköznapi, és emiatt sok mindent mögé képzelnénk, ami nem is oda való.
+Inkább használjuk a "stabil figyelem" kifejezést, vagyis: irányítani és fenntartani a figyelem fókuszát és hatókörét.
+Ez nem csak a világ megtapasztalásához, de saját magunk megismeréséhez is sokkal hasznosabb lesz!
+
+Legnagyobb ellenségeink ebben az esetben a spontán figyelem mozgások.
+A _pásztázás_ és a _leragadás_ még relatíve egyszerűek -- keresünk valami érdekesebbet, és aztán ott ragadunk -- de van egy harmadik típusa is.
+Az alternálás az, amikor úgy tűnik, hogy egyszerre több dologra is figyelünk.
+De igazából egyszerre mindig csak egy dologra tudunk, szóval ezt az illúziót csak a gyors váltakozás kelti.
+És ezt nemhogy orvosolni, de már csak felismerni sem könnyű!
+
+A szándékos figyelem irányítás **és** fenntartás során ugye ezeket a spontán részeket szeretnénk "leváltani".
+Az irányítás része kb. triviális, de ott tartani sajnos nem lehet szándékosan.
+Egy tudatalatti folyamat dönti el, hogy épp mi a fontos, és az irányítja oda a figyelmünket
+De tudatosan fenntartott elhatározásokkal befolyásolhatjuk ezt a tudatalatti folyamatot is!
+
+Ha például következetesen azt sulykoljuk magunkba, hogy a légzés figyelése fontos, az segít előrébb hozni a tudatalatti rangsorban.
+És ha mindig visszalökdössük oda a figyelmünket, ahányszor csak elkalandozik, akkor azzal is nagyban előre hozzuk a rangsorban.
+Egy idő után pedig azt fogjuk észrevenni, hogy már eleve olyan a rangsor, hogy el sem megy róla.
+Az ilyen szándékok konzisztens fenntartásával megtanuljuk magunkat átformálni, és ez idővel nyilván nem csak a légzésünkre fog vonatkozni!
+
+Fontos még a figyelmünk hatókörének meghatározása.
+Ha már tudjuk tartani a figyelmünk fókuszát, akkor a "szélességét" is megtanuljuk irányítani.
+Az egyik véglet, amikor képesek leszünk teljesen egy dologra összpontosítani, és minden mást kizárni.
+A másik véglet pedig az, amikor képesek leszünk majd teljesen kinyitni a hatókört, és mindenre egyszerre figyelni.
+Kb. figyelem = érzékelés, ami egyfajta "non-fókusz".
+Ilyenkor alapból minden homályos lenne a betóduló adatmennyiség miatt, de ez ellen növelhetjük az elménk nyers kapacitását a másik fő vonalon...
+
+
+
+
+#### Tudatosság
+
+Itt az a lényeg, hogy ne ragadjunk le a szűk fókuszban, hanem a nagy egészet is képesek legyünk átlátni.
+A tudatosságunkon keresztül beszűrődő információk alapján alapulnak a döntéseink.
+Ezért ha fejlesztjük, akkor jobban tisztában leszünk a lehetőségeinkkel, és helyesebb döntéseket hozhatunk.
+Ez adja majd az erőt, hogy azzá formálhassuk magunkat, amivé szeretnénk.
+És végül meglátásokhoz -- és akár _megvilágosodáshoz_ -- vezet majd!
+    
+A tudatosság talán nem is a legmegfelelőbb szó erre, mert _valaminek_ mindig tudatában vagyunk.
+Csak így már remélhetőleg a **megfelelő** dolgoknak leszünk tudatában!
+A tudatosság igazából nem más, mint a figyelmünk és az érzékelésünk optimális együttműködése.
+A figyelemmel szemben itt átfogóbb, objektívebb képet kapunk, amikre ezen a szinten ösztönösebben és gyorsabban tudunk reagálni.
+
+Emellett a tudatossággal figyelhetjük meg a saját elménk viselkedését is.
+Figyelemmel nem, mert a figyelem is az elménk viselkedése.
+"Ki figyeli a figyelőket?"
+
+A tudatosságunk azért szorul fejlesztésre, mert alapból nagyon fejletlen az érzékelésünk.
+A figyelmünk pedig önmagában nem elég, hogy folyamatosan fenntartson egy bizonyos szintű tudatosságot.
+Már így is erősen túlhasználjuk a figyelmet, mert az "könnyen", tudatosan irányítható.
+Emiatt viszont az érzékelésünk "elsorvad" -- amit viszont meditációval helyre billenthetünk.
+
+Emellett az is fontos, hogy a nyers elme-kapacitásunkat növeljük.
+A két oldal (figyelem vs. érzékelés) ugyanis közös energia forrásból táplálkozik.
+Ha hirtelen nagyon odafókuszálunk valamire, akkor már nem marad energiánk az érzékelésünket is fenntartani.
+Ezért "borul el az agyunk" például egy veszekedés alatt.
+
+Ha valamire nagyon ráfigyelünk, akkor már nem marad keret a kontextusra, ami megmondaná, hogy egyáltalán jó-e az, hogy pont arra figyelünk.
+Ha nem növeljük meg az elménk nyers kapacitást, akkor az ilyen nagy koncentrációt igénylő helyzetek mindig az érzékelésünk rovására fognak menni.
+És ezért nem fogunk tudni optimális döntéseket hozni!
+Ha viszont nagyon el akarunk lazulni, hogy az érzékelésünk kapjon teret, akkor meg figyelni nem fogunk tudni!
+Ahhoz, hogy mind a kettő párhuzamosan futhasson, egyszerűen nagyobb kapacitás kell!
+
+Tekintsünk erre is úgy, mint a fizikai edzésre.
+Csak úgy lehet nagyobb kapacitásra szert tenni, ha egyszerre aktiváljuk a figyelmünket és az érzékelésünket is.
+Minél többet gyakoroljuk, annál jobban mehet mindkettő egyszerre, akár teljes gőzzel is.
+Nézzük csak meg, mi is a skála!
+Életveszélyben, vagy mondjuk csúcsatlétáknál, igencsak komoly mentális teljesítmény figyelhető meg.
+A másik véglet pedig a teljes betompulás, a mély alvás.
+Ha ezen a skálán vizsgáljuk magunkat, rájövünk, hogy a napjaink nagy része változó mértékű tompaságban telik.
+Ha viszont meditálunk -- vagyis rendszeresen tornáztatjuk a mentális kapacitásunkat -- akkor ezt az átlagot látványosan az életveszélyes/atlétás szint felé tolhatjuk, _folyamatosan_!
+
+<br />
+
+Sok konkrét meditációs gyakorlat különválasztja az alapokat, de ezzel a könyv nagyon nem ért egyet.
+Tudatosság nélkül a koncentráció csak egy áldásos tompasághoz vezet.
+Fordítva pedig sok mindent fogunk észlelni, de össze-vissza, mert semmi irányításunk nem lesz felette.
+
+Egy népszerű Zen hasonlattal élve: az elménk egy tó.
+Ha a víz zavaros, akkor nem láthatjuk sem a fenekét, sem amit visszatükröz.
+A stabil figyelem nyugtatja le a vizet, a tó feneke a belső érzékelésünk, a visszatükröződés a külső érzékelésünk.
+A tudatosság pedig a fény, ami miatt mindezt láthatjuk.
+
+És mindentől függetlenül: próbáljuk élvezni a folyamatot!
+Nem csak a csendes tóhoz kell megérkezni, hanem megtanulni, hogy mitől lesz csendes!
+"Journey before destination!"
 
 <br />
 
