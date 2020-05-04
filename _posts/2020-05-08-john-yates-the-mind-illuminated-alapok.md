@@ -1,17 +1,17 @@
 ---
 layout: post
-title: John Yates - The Mind Illuminated
+title: John Yates - The Mind Illuminated - Alapok
 pages: 504
 date: 2020-05-08 15:00
 excerpt: >
-    Annyit hallunk a meditációról, és annyira univerzálisan elismert, hogy jó hatással van...
+    Annyit hallunk a meditációról, és annyira univerzálisan elismert, hogy jó hatással van ránk...
     Mégis általánosságban annyira keveset tudunk róla és pláne annyira ritkán része a mindennapjainknak.
     Ezért próbáltam egy olyan könyvet keresni, ami nekünk is könnyen emészthető -- és az életünkbe integrálható! -- formában tárgyalja a témát.
     Az eredmény Dr. John Yates -- The Mind Illuminated (kb. "A megvilágosodott elme") című könyve.
 ---
 
 Az "elme" vonalon egy nagy adósságom van még a teljes lefedettség érdekében: a meditáció.
-Annyit hallunk róla, és annyira univerzálisan elismert, hogy jó hatással van...
+Annyit hallunk róla, és annyira univerzálisan elismert, hogy jó hatással van ránk...
 Mégis általánosságban annyira keveset tudunk róla és pláne annyira ritkán része a mindennapjainknak.
 
 Ezért próbáltam egy olyan könyvet keresni, ami keleti miszticizmus és vallási felhangok nélkül áll a témához.
@@ -19,7 +19,7 @@ Ami legalább _valamennyire_ tudományosan és "nyugatiasan" fogalmaz, hogy nek�
 Az eredmény [Dr. John Yates -- The Mind Illuminated](https://www.goodreads.com/book/show/25942786-the-mind-illuminated){:target="_blank"} (kb. "A megvilágosodott elme") című könyve.
 Túl sokat nem tudok a szerzőről a tizenéves pszichológiai/kognitív/neurológiai kutatási hátterén és a negyven-x éves meditációs múltján felül, de ennyi (a könyv széles körű elismertségével együtt) nekem bőven elég.
 
-Az első átfogó tanulság, ami olvasás közben többször is felmerült bennem, az az, hogy "ez olyan sűrű, mint a nagyi bablevese".
+Az első átfogó tanulság, ami olvasás közben többször is felmerült bennem, hogy ez bizony "olyan sűrű, mint a nagyi bablevese".
 És ezt abszolút jó értelemben mondom.
 Valószínűleg részben az is besegít, hogy ez számomra egy teljesen új terület, de mégis...
 Csak az első 180 oldalból 7000 szónyi vázlatot sikerült összehoznom, ahol ezért ideiglenesen meg is álltam.
@@ -83,7 +83,7 @@ Számos kézzel fogható előnnyel jár, mint például:
 - Mélyebb önismeret, amivel hatékonyabban változtathatunk az életünk azon területein, amiken kellene.
 
 És habár ezek mind csak "járulékos haszonnak" minősülnek a végcélként kitűzött módosult tudatállapotok mellett (öröm, boldogság, elégedettség, béke és akár "megvilágosodás"), már önmagukban sem megvetendőek.
-Újra előkerülnek továbbá a sztoikus nézetek is, hiszen az érzékelésünk tudatos formálásával nagyon hasonló eredményeket érhetünk el:
+Újra előkerülnek továbbá a [sztoikus nézetek]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) is, hiszen az érzékelésünk tudatos formálásával nagyon hasonló eredményeket érhetünk el:
 
 > Habár a fájdalom és az élvezet elkerülhetetlen részei minden ember életének, a szenvedés és a boldogság teljesen opcionálisak.
 > > Although pain and pleasure are an inevitable part of human life, suffering and happiness are entirely optional.
@@ -139,11 +139,11 @@ Egyesítjük a tradicionális meglátásokat a menet közben elért tudományos 
 ## Folyamat
 
 Hogy a megfelelő sorrendben fejleszthessük a meditációs gyakorlatunkat, a könyv 10 lépésre bontja a folyamatot.
-Mindhez megvan, hogy mit kellene éreznünk, milyen problémákat kell legyőznünk, ilyesmi.
+Mindhez megvan, hogy mit kellene épp éreznünk, milyen problémákat kellene legyőznünk, ilyesmi.
 És mivel egymásra épülnek, nem érdemes "csapongani"!
 Csak szépen sorban.
 
-Ráadásként a 10 szinten belül 4 nagy mérföldkövet is megfogalmazunk:
+Ráadásként a 10 szinten belül 4 nagy mérföldkövet is megfogalmazunk (zárójelben a szakasz fő céljával):
 
 - 1-3 -- Kezdő (folyamatos figyelem)
 - 4-6 -- Képzett (folyamatos és kizárólagos figyelem)
@@ -151,32 +151,31 @@ Ráadásként a 10 szinten belül 4 nagy mérföldkövet is megfogalmazunk:
 - 8-10 -- Szakértő (tartósan módosult tudatállapot, nyugalom, egykedvűség, öröm)
 
 A tényleges haladásunk persze itt sem várható, hogy tökéletesen lineáris legyen.
-A szintek általában eleve változó ideig tartanak.
-És ennek a tetejébe visszaeshetünk, vagy akár váratlanul (ideiglenesen!) előre is ugorhatunk.
+A szintek általában eleve változó ideig tartanak, és ennek a tetejébe vissza is eshetünk, vagy akár váratlanul (ideiglenesen!) előre is ugorhatunk.
 Lehetnek jobb és rosszabb heteink, napjaink, vagy akár egy-egy alkalmon belül is változhat sok minden.
 Ezeknek ne higgyünk!
 Valami akkor megy, ha konzisztensen megy!
-Viszont ebből következően baj is csak akkor van, ha konzisztensen baj van...
+Viszont ebből következik, hogy baj is csak akkor van, ha konzisztensen baj van...
 
 A külső, "világi" események nyilván befolyásolhatják a tempót.
 Ezért nagyon fontos, hogy a meditáció során "tanultak" a hétköznapjainkba is átszivárogjanak!
 Ha a manapság tipikus _beskatulyázást_ csináljuk, és elzárjuk a meditációt az életünk többi részétől -- mint általában a munkát és a magánéletet szoktuk -- akkor számíthatunk rá, hogy sokkal lassabban fogunk haladni.
 De rendszeres, napi gyakorlással és "nem elzárással" akár hónapok vagy 1-2 év alatt is eljuthatunk a szintek végére.
-Nem kellenek sem évtizedek, sem kolostoros elzártság.
+Nem kellenek sem évtizedek, sem kolostoros izoláció.
 
 Mindez az _én_ (ego) szemszögéből van megfogalmazva, de igazából jobban járunk, ha minél hamarabb elkezdjük tudatosítani magunkban, hogy nem mi irányítunk!
 Mi csak annyit tehetünk, hogy egy bizonyos szándékot alakítunk ki és tartunk folytonosan az elménkben.
-Kb. mint ahogy egy sportot is csak szeretnénk profin művelni...
+Kb. mint ahogy egy sportot is csak _szeretnénk_ profin művelni...
 Formálunk és tartunk az elménkben egy ilyen szándékot, és ennek hatására a testünk előbb-utóbb alkalmazkodik.
 De -- ahogy például a [Fegyencedzés]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) is mondta az edzési folyamatokra -- a saját ütemében, nem a miénkben!
 
 Végül pedig pár jó tanács:
 
 - Ha minden meditáció közbeni elkalandozás miatt mérgesek leszünk, az olyan, mintha pár gaz miatt az egész kertet felszántanánk.
-- Ha erőltetni akarjuk, hogy stabil legyen a figyelmünk, az olyan, mintha úgy szeretnénk gyorsabban növeszteni a fát, hogy felfelé húzzuk a hajtását.
+- Ha erőltetni akarjuk, hogy stabil legyen a figyelmünk, az olyan, mintha úgy szeretnénk gyorsabban növeszteni egy fát, hogy felfelé húzzuk a hajtását.
 - Ha pedig a meditációs örömöt kergetjük idő előtt, az olyan, mintha szétfeszítenénk egy rügyet, hogy hamarabb virágozzon.
 
-Szóval mi csak csináljuk -- mint ahogy egy kertész is "csak" gondozza a kertet -- és a maga idejében minden ki fog virágozni!
+Szóval mi csak csináljuk a kis dolgunkat -- mint ahogy egy kertész is "csak" gondozza a kertet -- és a maga idejében minden ki fog virágozni!
 
 <br />
 
@@ -225,7 +224,7 @@ A figyelem és a tudatosság közti különbséget próbáljuk úgy elképzelni,
 Egyik sem "jobb" mint a másik...
 Csak két _féle_ befogadási módjai a világnak.
 A figyelem élesebb, de egyszerre csak egy (vagy kevés) dologra irányul.
-Az érzékelés pedig tompa, de sokkal befogadóbb, és a dolgok kapcsolataival is tud mit kezdeni -- mondjuk, hogy kontextust ad.
+Az érzékelés pedig tompa, de sokkal befogadóbb, és a dolgok kapcsolataival is tud mit kezdeni -- mondjuk úgy, hogy kontextust ad.
 
 
 
@@ -239,24 +238,24 @@ Ez nem csak a világ megtapasztalásához, de saját magunk megismeréséhez is 
 Legnagyobb ellenségeink ebben az esetben a spontán figyelem mozgások.
 A _pásztázás_ és a _leragadás_ még relatíve egyszerűek -- keresünk valami érdekesebbet, és aztán ott ragadunk -- de van egy harmadik típusa is.
 Az alternálás az, amikor úgy tűnik, hogy egyszerre több dologra is figyelünk.
-De igazából egyszerre mindig csak egy dologra tudunk, szóval ezt az illúziót csak a gyors váltakozás kelti.
+De ez csak úgy **tűnik**, mert igazából egyszerre mindig legfeljebb egy dologra tudunk fókuszálni.
+A többirányú figyelem illúzióját csak a gyors váltakozás kelti.
 És ezt nemhogy orvosolni, de már csak felismerni sem könnyű!
 
 A szándékos figyelem irányítás **és** fenntartás során ugye ezeket a spontán részeket szeretnénk "leváltani".
 Az irányítás része kb. triviális, de ott tartani sajnos nem lehet szándékosan.
-Egy tudatalatti folyamat dönti el, hogy épp mi a fontos, és az irányítja oda a figyelmünket
+Egy tudatalatti folyamat dönti el, hogy épp mi a fontos, és az irányítja oda a figyelmünket.
 De tudatosan fenntartott elhatározásokkal befolyásolhatjuk ezt a tudatalatti folyamatot is!
 
 Ha például következetesen azt sulykoljuk magunkba, hogy a légzés figyelése fontos, az segít előrébb hozni a tudatalatti rangsorban.
-És ha mindig visszalökdössük oda a figyelmünket, ahányszor csak elkalandozik, akkor azzal is nagyban előre hozzuk a rangsorban.
-Egy idő után pedig azt fogjuk észrevenni, hogy már eleve olyan a rangsor, hogy el sem megy róla.
+És ha mindig visszalökdössük oda a figyelmünket, ahányszor csak elkalandozik, akkor azzal még előrébb hozzuk.
+Egy idő után pedig azt fogjuk észrevenni, hogy már eleve olyan a rangsor, hogy el sem megy a légzésünkről.
 Az ilyen szándékok konzisztens fenntartásával megtanuljuk magunkat átformálni, és ez idővel nyilván nem csak a légzésünkre fog vonatkozni!
 
 Fontos még a figyelmünk hatókörének meghatározása.
 Ha már tudjuk tartani a figyelmünk fókuszát, akkor a "szélességét" is megtanuljuk irányítani.
 Az egyik véglet, amikor képesek leszünk teljesen egy dologra összpontosítani, és minden mást kizárni.
-A másik véglet pedig az, amikor képesek leszünk majd teljesen kinyitni a hatókört, és mindenre egyszerre figyelni.
-Kb. figyelem = érzékelés, ami egyfajta "non-fókusz".
+A másik véglet pedig az, amikor képesek leszünk majd teljesen kiterjeszteni a hatókört, és mindenre egyszerre figyelni -- egyfajta _"non-fókusz"_.
 Ilyenkor alapból minden homályos lenne a betóduló adatmennyiség miatt, de ez ellen növelhetjük az elménk nyers kapacitását a másik fő vonalon...
 
 
@@ -265,10 +264,9 @@ Ilyenkor alapból minden homályos lenne a betóduló adatmennyiség miatt, de e
 #### Tudatosság
 
 Itt az a lényeg, hogy ne ragadjunk le a szűk fókuszban, hanem a nagy egészet is képesek legyünk átlátni.
-A tudatosságunkon keresztül beszűrődő információk alapján alapulnak a döntéseink.
-Ezért ha fejlesztjük, akkor jobban tisztában leszünk a lehetőségeinkkel, és helyesebb döntéseket hozhatunk.
-Ez adja majd az erőt, hogy azzá formálhassuk magunkat, amivé szeretnénk.
-És végül meglátásokhoz -- és akár _megvilágosodáshoz_ -- vezet majd!
+A tudatosságunkon keresztül beszűrődő információkon alapulnak a döntéseink, ezért ha fejlesztjük, akkor jobban tisztában leszünk a lehetőségeinkkel, és helyesebb döntéseket hozhatunk.
+Ez adja majd az erőt, hogy azzá formálhassuk magunkat, akivé szeretnénk.
+És végül meglátásokhoz -- vagy akár _megvilágosodáshoz_ -- is vezethet!
     
 A tudatosság talán nem is a legmegfelelőbb szó erre, mert _valaminek_ mindig tudatában vagyunk.
 Csak így már remélhetőleg a **megfelelő** dolgoknak leszünk tudatában!
@@ -279,36 +277,38 @@ Emellett a tudatossággal figyelhetjük meg a saját elménk viselkedését is.
 Figyelemmel nem, mert a figyelem is az elménk viselkedése.
 "Ki figyeli a figyelőket?"
 
-A tudatosságunk azért szorul fejlesztésre, mert alapból nagyon fejletlen az érzékelésünk.
-A figyelmünk pedig önmagában nem elég, hogy folyamatosan fenntartson egy bizonyos szintű tudatosságot.
+A tudatosságunk azért szorul fejlesztésre, mert alapból nagyon ritka az egyensúly.
+Az érzékelésünk általában fejletlen, a figyelmünk pedig önmagában nem elég, hogy folyamatosan fenntartson egy bizonyos szintű tudatosságot.
 Már így is erősen túlhasználjuk a figyelmet, mert az "könnyen", tudatosan irányítható.
-Emiatt viszont az érzékelésünk "elsorvad" -- amit viszont meditációval helyre billenthetünk.
+Emiatt viszont az érzékelésünk csak még tovább "sorvad"...
+Na ezt szeretnénk a meditációval helyre billenteni!
 
-Emellett az is fontos, hogy a nyers elme-kapacitásunkat növeljük.
-A két oldal (figyelem vs. érzékelés) ugyanis közös energia forrásból táplálkozik.
+Fontos még, hogy ezáltal a nyers elme-kapacitásunkat is növeljük.
+A két oldal (figyelem kontra érzékelés) ugyanis közös energia forrásból táplálkozik.
 Ha hirtelen nagyon odafókuszálunk valamire, akkor már nem marad energiánk az érzékelésünket is fenntartani.
 Ezért "borul el az agyunk" például egy veszekedés alatt.
 
-Ha valamire nagyon ráfigyelünk, akkor már nem marad keret a kontextusra, ami megmondaná, hogy egyáltalán jó-e az, hogy pont arra figyelünk.
-Ha nem növeljük meg az elménk nyers kapacitást, akkor az ilyen nagy koncentrációt igénylő helyzetek mindig az érzékelésünk rovására fognak menni.
+Ha valamire nagyon odafigyelünk, akkor már nem marad költségvetésünk a kontextusra -- ami például megmondaná, hogy egyáltalán jó-e az, hogy pont arra figyelünk.
+Ha nem növeljük meg az elménk nyers kapacitását, akkor az ilyen nagy koncentrációt igénylő helyzetek mindig az érzékelésünk rovására fognak menni.
 És ezért nem fogunk tudni optimális döntéseket hozni!
-Ha viszont nagyon el akarunk lazulni, hogy az érzékelésünk kapjon teret, akkor meg figyelni nem fogunk tudni!
+Ha viszont nagyon el akarunk lazulni (hogy végre az érzékelésünk is kapjon egy kis teret), akkor meg figyelni nem fogunk tudni!
 Ahhoz, hogy mind a kettő párhuzamosan futhasson, egyszerűen nagyobb kapacitás kell!
 
 Tekintsünk erre is úgy, mint a fizikai edzésre.
-Csak úgy lehet nagyobb kapacitásra szert tenni, ha egyszerre aktiváljuk a figyelmünket és az érzékelésünket is.
+Csak úgy lehet nagyobb teljesítményre szert tenni, ha egyszerre aktiváljuk a figyelmünket és az érzékelésünket is.
 Minél többet gyakoroljuk, annál jobban mehet mindkettő egyszerre, akár teljes gőzzel is.
 Nézzük csak meg, mi is a skála!
-Életveszélyben, vagy mondjuk csúcsatlétáknál, igencsak komoly mentális teljesítmény figyelhető meg.
+Életveszélyben, vagy mondjuk csúcsatlétáknál, igencsak komoly mentális aktivitás figyelhető meg.
 A másik véglet pedig a teljes betompulás, a mély alvás.
-Ha ezen a skálán vizsgáljuk magunkat, rájövünk, hogy a napjaink nagy része változó mértékű tompaságban telik.
+Ha ezen a skálán vizsgáljuk magunkat, rájövünk, hogy a napjaink nagy része változó mértékű bambulással telik.
 Ha viszont meditálunk -- vagyis rendszeresen tornáztatjuk a mentális kapacitásunkat -- akkor ezt az átlagot látványosan az életveszélyes/atlétás szint felé tolhatjuk, _folyamatosan_!
 
 <br />
 
-Sok konkrét meditációs gyakorlat különválasztja az alapokat, de ezzel a könyv nagyon nem ért egyet.
+Sok konkrét meditációs gyakorlat különválasztja az alapokat, de ezzel a könyv határozottan nem ért egyet.
 Tudatosság nélkül a koncentráció csak egy áldásos tompasághoz vezet.
 Fordítva pedig sok mindent fogunk észlelni, de össze-vissza, mert semmi irányításunk nem lesz felette.
+Igyekezzünk ezért mindkettőre egyformán hangsúlyt fektetni!
 
 Egy népszerű Zen hasonlattal élve: az elménk egy tó.
 Ha a víz zavaros, akkor nem láthatjuk sem a fenekét, sem amit visszatükröz.
@@ -360,15 +360,16 @@ Nem csak a csendes tóhoz kell megérkezni, hanem megtanulni, hogy mitől lesz c
 ## Akadályok
 
 A meditáció elsajátítása teljesen természetes, és bárkinek elérhető.
-De menet közben óhatatlanul is találkozni fogunk az 5 akadállyal!
-Ezért hasznos lehet ezekkel minél előbb megismerni, hogy a helyükön tudjuk kezelni őket.
+De menet közben óhatatlanul is találkozni fogunk akadályokkal -- amiket a könyv 5 nagy kategóriába sorol.
+Hasznos lehet ezekkel minél előbb megismerni, hogy később a helyükön tudjuk kezelni őket.
 
-Fontos meglátnunk, hogy ezek az akadályok igazából csak olyan hajlamok, amik evolúciós érvekkel magyarázhatók.
-Vagyis volt, amikor hasznosak voltak, és segítettek a túlélésben, de manapság már meglennénk nélkülük -- sőt!
+Mindegyik akadálynál fontos azonban meglátnunk, hogy ezek igazából csak olyan hajlamok, amik evolúciós szerepükkel magyarázhatók.
+Vagyis volt idő, amikor még hasznosak voltak, és segítettek a túlélésben!
+Manapság viszont már meglennénk nélkülük -- sőt!
 Ezért fejlesztünk majd úgy nevezett "meditációs faktorokat", amik kb. ezekkel ellentétesek, és idővel kioltják majd őket.
-És mivel van egy intelligens, civilizált agyunk, ezek az őskövület hajlamok nélkül is túl fogunk élni!
+Mivel van egy intelligens, civilizált agyunk, ezek az őskövület hajlamok nélkül is túl fogunk élni!
 
-Nem mellesleg ez az 5 akadály az oka továbbá minden _drámának_ az életünkben, és a hamis sztoriknak is, amiket magunknak mesélünk...
+Nem mellesleg ez az 5 akadály az oka minden _drámának_ az életünkben -- vagy a hamis sztoriknak, amiket magunknak mesélünk...
 Ezért a meditációtól függetlenül fontos, hogy a hétköznapi életben is megtanuljuk kezelni őket.
 
 
@@ -384,7 +385,7 @@ A mai (civilizált, bőséges) világban viszont sokkal inkább csak a baj van v
 
 A meditáció nem elnyomni segít ezeket, hanem azt mutatja meg, hogy mennyi fájdalomhoz is vezethetnek.
 Emiatt remélhetőleg magunktól engedjük majd el őket -- vagy legalábbis nem tesszük olyan magasra a fontossági sorrendben.
-Na nem _érzéketlenek_ leszünk rájuk...
+Na nem _érzéketlenek_ leszünk velük kapcsolatban...
 Csak a helyükön tudjuk értékelni őket.
 A vágyódás helyét pedig a szeretet, a kedvesség, és a jelen értékelése veheti majd át.
 
@@ -395,7 +396,7 @@ Hiszen ha ezeket önerőnkből is megkapjuk, akkor az elérésükhöz nem lesz t
 
 #### 2. Irtózás
 
-Ide tartozik mindenféle kellemetlenség kerülés
+Ide tartozik mindenféle kellemetlenség kerülése.
 Elégedetlenség, hibáztatás, türelmetlenség, unalom emberek vagy tárgyak felé -- lényegében a fenti 4 páros negatív oldalai.
 Az evolúciós (túlélést segítő) szerepe is a világi vágyakéhoz hasonló, de ugyanúgy vált szükségtelenné is.
 A meditációs gyakorlatunkból fakadó boldogsággal kiváltható, mert egy kiegyensúlyozott állapotban a kedvesség és együttérzés lesz az alapértelmezett reakciónk. 
@@ -408,17 +409,18 @@ A halasztgatás és az aktivitások kerülése személyes "kedvenceim", amiken i
 Érdekes módon önmagukban azonban ezekkel sem lenne gond.
 
 A lustaság miatt értékeljük újra, hogy jó-e az, amit csinálunk?
-Ha nem, akkor hasznosabb lenne mással foglalkozni; ha igen, akkor pedig felveti, hogy vajon nincs-e hatékonyabb módszer? 
+Ha nem, akkor nem lenne hasznosabb mással foglalkozni?
+Ha igen, akkor pedig felveti, hogy vajon nincs-e hatékonyabb módszer? 
 Jó esetben tehát ez nem más, mint hogy gondolkozzunk, mielőtt csak úgy nekiesünk valaminek.
-A letargia pedig azt jelzi, hogy épp semmi érdekes nem történik, ezért az időt hasznosabb lenne pihenéssel tölteni.
+A letargia ezzel szemben azt jelzi, hogy épp _semmi_ érdekes nem történik, ezért az időt hasznosabb lenne pihenéssel tölteni.
 
 A baj ott kezdődik, amikor ezeket az érzéseket nem tudjuk irányítani, ezért alkalmatlan helyzetekben is felütik az undok fejüket.
 Akkor pedig már mindegy, mit akarnánk...
-Lustaságból bele sem fogunk; vagy ha mégis, akkor a letargia miatt pedig azt sem fejezzük be.
+Lustaságból bele sem fogunk; vagy ha mégis, akkor a letargia miatt még azt sem fejezzük be, amibe már belefogtunk.
 
-Ellenszerek a motiváció és a "csak azért is" megcsinálás.
+Ellenszereik a motiváció és a "csak azért is" megcsinálás.
 Az ide tartozó meditációs faktor pedig az irányított figyelem.
-Azzal jobban rá tudjuk majd venni magunkat, hogy mibe vágjunk bele -- és hogy be is fejezzük, amibe belevágtunk.
+Azzal jobban meg tudjuk majd győzni magunkat arról, hogy mibe vágjunk bele -- és hogy be is fejezzük, amibe belevágtunk.
 
 
 
@@ -428,7 +430,7 @@ Ebben a szövegkörnyezetben a bánat a múltbéli, az aggodalom pedig a jövőb
 Evolúciós hasznuk, hogy a hibák kijavítására és a bizonytalan jövőre való felkészülésre ösztönöznek.
 A kellemetlenség miatt pedig nem is fogjuk megismételni a hibáinkat.
 Ha viszont nem tesszük, amire ösztönöznek, akkor csak a stressz marad utánuk!
-Lehet, hogy nem is teljesen vagyunk tisztában, hogy mit vagy hogyan kellene, de belül azért is rág!
+Lehet, hogy nem is teljesen vagyunk tisztában, hogy mit vagy hogyan kellene, de belül azért olyankor is rág!
 
 Ha lecsillapítjuk az elménket, akkor ezek előbb vagy utóbb a felszínre fognak kerülni.
 Ha pedig (az előbb említett irányított figyelemmel) rendbe is tesszük őket, akkor megszűnik a "rágás"!
@@ -455,7 +457,7 @@ Kicsit 22-es csapdája, nem?
 Leggyakoribb formája az önmagunkban kételkedés.
 Nem megy ez nekem; nem vagyok olyan jó, mint mások!
 Ha azonban a figyelmünk irányítása mellett a fenntartását is gyakoroljuk (mondjuk teszem azt meditációval), akkor megtanulhatunk a kétség ellenére is tovább menni.
-A későbbi tapasztalat és bizonyosság pedig egyre jobban eloszlatja majd a későbbi kételyeinket is.
+A későbbi tapasztalat és bizonyosság pedig egyre jobban eloszlatja majd a későbbi kételyeinket...
 Így is "ördögi kör" marad, csak most már a saját szolgálatunkba állítva!
 
 <br />
@@ -464,10 +466,10 @@ Végigvettük tehát, hogy a meditáció hogyan segíthet a hétköznapi problé
 De ne feledjük, hogy maguk a meditáció során felmerülő problémák is mind ezekre vezethetők vissza!
 
 - Halasztgatás, rendszertelen meditálás
-- Figyelem elterelések, felejtés, kalandozás
+- Figyelem elterelések, felejtés, elkalandozás
 - Türelmetlenség
 - Nyugtalan, irányíthatatlan elme
-- Önkétség
+- Önmagunk kétségbe vonása
 - Eltompulás, bealvás
 - Fizikai kényelmetlenség
 
@@ -512,9 +514,9 @@ De ezek -- mint ahogy általánosságban a problémáink -- mind legyőzhetők!
 
 ## Összefoglalás
 
-És alapozásnak "mindössze" ennyi.
-Láthattuk, hogy a meditáció miért éri meg, hogyan haladhatunk vele, mik lesznek céljaink, és hogy milyen akadályokra számíthatunk út közben.
+Hát, alapozásnak "mindössze" ennyi.
+Láthattuk, hogy a meditáció miért éri meg, hogyan haladhatunk vele, mik lesznek a céljaink, és hogy milyen akadályokra számíthatunk út közben.
 
-A konkrét (kezdő szintű) lépésekre a jövő héten kerítünk sort.
+Ezek fényében a konkrét (kezdő szintű) lépésekre a jövő héten kerítünk sort.
 Aki nem bír addig várni, annak egy mondatban annyit tudnék javasolni elöljáróban, hogy "Üljünk napi kb. 20 percet csukott szemmel, és figyeljük a légzésünket!"
 De higgyük el, hogy lehet erről ennél jóval többet is mondani...

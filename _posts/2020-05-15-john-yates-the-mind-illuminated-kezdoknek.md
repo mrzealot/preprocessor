@@ -1,12 +1,8 @@
 ---
-date: 2020-04-05
-labels:
-- meditation
-- mindfulness
-- progression
-- mental_training
-- awareness
-- enlightenment
+layout: post
+title: John Yates - The Mind Illuminated - Kezdőknek
+date: 2020-05-15 15:00
+excerpt: >
 ---
 
 1. A napi rendszer felállítása
