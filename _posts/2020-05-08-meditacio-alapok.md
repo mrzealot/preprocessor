@@ -4,6 +4,10 @@ title: John Yates - The Mind Illuminated
 pages: 504
 date: 2020-05-08 15:00
 excerpt: >
+    Annyit hallunk a meditációról, és annyira univerzálisan elismert, hogy jó hatással van...
+    Mégis általánosságban annyira keveset tudunk róla és pláne annyira ritkán része a mindennapjainknak.
+    Ezért próbáltam egy olyan könyvet keresni, ami nekünk is könnyen emészthető -- és az életünkbe integrálható! -- formában tárgyalja a témát.
+    Az eredmény Dr. John Yates -- The Mind Illuminated (kb. "A megvilágosodott elme") című könyve.
 ---
 
 Az "elme" vonalon egy nagy adósságom van még a teljes lefedettség érdekében: a meditáció.
@@ -355,91 +359,120 @@ Nem csak a csendes tóhoz kell megérkezni, hanem megtanulni, hogy mitől lesz c
 
 ## Akadályok
 
-- az itt leírtak elsajátítása teljesen természetes, és bárkinek mehet
-- de menet közben óhatatlanul is találkozni fogunk az 5 akadállyal
-- jó ezeket minél előbb megismerni, hogy a helyükön tudjuk őket kezelni
-- fontos látni, hogy ezek az akadályok igazából csak olyan hajlamok, amik evolúciós érvekkel magyarázhatók
-    - volt, amikor hasznosak voltak, és segítettek a túlélésben
-    - de manapság már meglennénk nélkülük, sőt!
-- ezért fejlesztünk majd ún. meditációs faktorokat, amik ezeknek kb. az ellentéteik, és kioltják majd őket
-    - és mivel van egy intelligens, civilizált agyunk, ezek nélkül is túl fogunk élni!
-- ez az 5 az oka minden drámának az életünkben, és a sztoriknak, amiket magunknak mesélünk
-    - ezért a meditáció mellett fontos, hogy a hétköznapi életben is megtanuljuk kezelni őket
+A meditáció elsajátítása teljesen természetes, és bárkinek elérhető.
+De menet közben óhatatlanul is találkozni fogunk az 5 akadállyal!
+Ezért hasznos lehet ezekkel minél előbb megismerni, hogy a helyükön tudjuk kezelni őket.
 
-1. Világi vágyak
-    - szerzés/vesztés, élvezet/fájdalom, hírnév/feledés, dicséret/hibáztatás
-        - kb. ezeknek a pároknak a pozitív oldala
-    - ezek mind annyira általános és mélyen belénk égett ingerek, hogy szinte el sem tudjuk képzelni az életet nélkülük
-    - nem is véletlen égtek belénk, mert az evolúció során nagy szolgálatot tettek
-    - a mai (civilizált, bőséges) világban viszont inkább a baj van velük -- túlfogyasztás, kapcsolati gondok, mentális zavarok
-    - a meditáció nem elnyomni segít ezeket, hanem azt mutatja meg, hogy mennyi fájdalomhoz is vezethetnek
-        - ami miatt mi magunktól engedjük el -- vagy legalábbis nem tesszük olyan magasra a fontossági sorrendben
-        - nem érzéketlenek leszünk rájuk, csak a helyükön tudjuk értékelni őket
-        - a vágyódás helyét pedig szeretet, kedvesség, és a jelen értékelése veheti majd át
-    - ellentéte az elme egységesítése
-        - alapból örömöt, nyugalmat és elégedettséget okoz
-        - ezért ezek eléréséhez nem lesz többé külső dolgokra szükségünk
-2. Irtózás
-    - ide tartozik mindenféle kellemetlenség kerülés
-        - legdurvább formájában utálat
-        - de lehet elégedetlenség, hibáztatás, türelmetlenség, unalom emberek vagy tárgyak felé
-        - a fenti negatív párja
-    - az evolúciós (túlélést segítő) szerepe is hasonló
-    - az élvezet/boldogság meditációs faktorral kiváltható
-        - kedvesség, együttérzés, ártalmatlanság
-3. Lustaság és letargia
-    - halasztgatás, és az aktivitások kerülése
-    - a lustaság miatt értékeljük újra, hogy jó-e az, amit csinálunk?
-        - ha nem, akkor hasznosabb lenne mással foglalkozni
-        - ha igen, akkor nincs-e hatékonyabb módszer? gondolkozzunk, mielőtt csak úgy nekiesünk
-    - a letargia pedig azt jelzi, hogy épp semmi érdekes nem történik
-        - ezért az időt hasznosabb lenne pihenéssel tölteni
-    - lustaságból bele sem fogunk, a letargia miatt pedig azt sem fejezzük be, amibe mégis belefogunk
-    - ellenszerek a motiváció, vagy a "csak megcsinálás"
-    - az ide tartozó meditációs faktor az irányított figyelem
-        - azzal jobban rá tudjuk majd venni magunkat, hogy mibe vágjunk bele
-        - és hogy be is fejezzük, amibe belevágtunk
-4. Bánat és aggodalom miatti nyugtalanság
-    - bánat = múltbéli dolgok miatti nyugtalanság
-    - aggódás = jövőbeli dolgok miatti nyugtalanság
-    - evolúciós hasznuk, hogy a hibák kijavítására és a bizonytalan jövőre való felkészülésre ösztönöznek
-        - a kellemetlenség miatt pedig nem is fogjuk megismételni a hibáinkat
-    - ha viszont nem tesszük, amire ösztönöznek, akkor csak a stressz marad
-        - lehet, hogy nem is teljesen vagyunk tisztában, hogy mit/hogy kellene, de belül azért is rág
-    - ha lecsillapítjuk az elménket, akkor ezek előbb vagy utóbb a felszínre fognak kerülni
-        - és ha rendbe tesszük őket, akkor megszűnik a "rágás"
-    - emellett pedig egy "erényes" életet élünk
-        - és ez nem morális vagy, ami valami külső kényszer miatt alkalmazkodik, és követhető vakon
-        - itt belül kell egyenesbe kerülni, és majd abból fakad, hogy a viselkedésünk is kiegyenesedik
-        - és így nem gyártjuk újra a megbánni vagy aggódni valót
-    - ellentéte a meditációs öröm
-        - ami nem hagy helyet semmilyen nyugtalanságnak
-5. Kétség
-    - amíg a megkérdőjelezésről szól, addig ok
-        - nem hiszünk vakon, tényleg úgy van-e, érdemes-e, hagyjuk-e
-        - ebben kicsit olyan, mint a lustaság
-    - a baj akkor van, ha maga a megkérdőjelezési folyamat helyett az érzelmi bizonytalanságra reagálunk
-        - és emiatt esetleg el sem jutunk a személyes tapasztalásig, amikor eloszlana a kétely
-    - a legerősebb ellenszere, a bizalom és a magabiztosság, ami a sikerből fakad
-        - de ahhoz először el kell jutni a sikerig, amihez kitartás kell, amihez pedig már előre meg kell birkózni a kétséggel
-        - kicsit 22-es csapdája
-    - leggyakoribb formája az önmagunkban kételkedés
-        - nem megy ez nekem
-        - nem vagyok olyan jó, mint mások
-    - meditációs faktor ellene a fenntartott figyelem
-        - megtanulunk a kétség ellenére is tovább menni
-        - a későbbi tapasztalat és bizonyosság pedig egyre jobban eloszlatja majd a későbbi kételyeinket is
+Fontos meglátnunk, hogy ezek az akadályok igazából csak olyan hajlamok, amik evolúciós érvekkel magyarázhatók.
+Vagyis volt, amikor hasznosak voltak, és segítettek a túlélésben, de manapság már meglennénk nélkülük -- sőt!
+Ezért fejlesztünk majd úgy nevezett "meditációs faktorokat", amik kb. ezekkel ellentétesek, és idővel kioltják majd őket.
+És mivel van egy intelligens, civilizált agyunk, ezek az őskövület hajlamok nélkül is túl fogunk élni!
 
-- a meditáció során felmerülő problémák is mind ezekre vezethetők vissza
-    - halasztgatás, rendszertelen meditálás
-    - figyelem elterelések, felejtés, kalandozás
-    - türelmetlenség
-    - nyugtalan, irányíthatatlan elme
-    - önkétség
-    - eltompulás, bealvás
-    - fizikai kényelmetlenség
-- de mind legyőzhető
-    - és egy bizonyos szint után már vissza sem jönnek!
+Nem mellesleg ez az 5 akadály az oka továbbá minden _drámának_ az életünkben, és a hamis sztoriknak is, amiket magunknak mesélünk...
+Ezért a meditációtól függetlenül fontos, hogy a hétköznapi életben is megtanuljuk kezelni őket.
+
+
+
+#### 1. Világi vágyak
+
+A világi dolgokhoz való hozzáállásaink nagyja lefedhető a következő 4 párossal: szerzés/vesztés, élvezet/fájdalom, hírnév/feledés, dicséret/hibáztatás.
+Na a világi vágyak kategória kb. ezeknek a pároknak a pozitív oldalaiból -- illetve azoknak a túlértékeléséből -- áll.
+
+Ezek mind annyira általános és mélyen belénk égett ingerek, hogy szinte el sem tudjuk képzelni az életet nélkülük.
+Persze nem is véletlen égtek belénk, mert az evolúció során nagy szolgálatot tettek.
+A mai (civilizált, bőséges) világban viszont sokkal inkább csak a baj van velük -- túlfogyasztás, kapcsolati gondok, mentális zavarok.
+
+A meditáció nem elnyomni segít ezeket, hanem azt mutatja meg, hogy mennyi fájdalomhoz is vezethetnek.
+Emiatt remélhetőleg magunktól engedjük majd el őket -- vagy legalábbis nem tesszük olyan magasra a fontossági sorrendben.
+Na nem _érzéketlenek_ leszünk rájuk...
+Csak a helyükön tudjuk értékelni őket.
+A vágyódás helyét pedig a szeretet, a kedvesség, és a jelen értékelése veheti majd át.
+
+Ellensúlyozni az elme egységesítésével, és az abból fakadó örömmel, nyugalommal és elégedettséggel leszünk képesek.
+Hiszen ha ezeket önerőnkből is megkapjuk, akkor az elérésükhöz nem lesz többé külső dolgokra szükségünk.
+
+
+
+#### 2. Irtózás
+
+Ide tartozik mindenféle kellemetlenség kerülés
+Elégedetlenség, hibáztatás, türelmetlenség, unalom emberek vagy tárgyak felé -- lényegében a fenti 4 páros negatív oldalai.
+Az evolúciós (túlélést segítő) szerepe is a világi vágyakéhoz hasonló, de ugyanúgy vált szükségtelenné is.
+A meditációs gyakorlatunkból fakadó boldogsággal kiváltható, mert egy kiegyensúlyozott állapotban a kedvesség és együttérzés lesz az alapértelmezett reakciónk. 
+
+
+
+#### 3. Lustaság és letargia
+
+A halasztgatás és az aktivitások kerülése személyes "kedvenceim", amiken igazán nem bánnám, ha segíteni lehetne!
+Érdekes módon önmagukban azonban ezekkel sem lenne gond.
+
+A lustaság miatt értékeljük újra, hogy jó-e az, amit csinálunk?
+Ha nem, akkor hasznosabb lenne mással foglalkozni; ha igen, akkor pedig felveti, hogy vajon nincs-e hatékonyabb módszer? 
+Jó esetben tehát ez nem más, mint hogy gondolkozzunk, mielőtt csak úgy nekiesünk valaminek.
+A letargia pedig azt jelzi, hogy épp semmi érdekes nem történik, ezért az időt hasznosabb lenne pihenéssel tölteni.
+
+A baj ott kezdődik, amikor ezeket az érzéseket nem tudjuk irányítani, ezért alkalmatlan helyzetekben is felütik az undok fejüket.
+Akkor pedig már mindegy, mit akarnánk...
+Lustaságból bele sem fogunk; vagy ha mégis, akkor a letargia miatt pedig azt sem fejezzük be.
+
+Ellenszerek a motiváció és a "csak azért is" megcsinálás.
+Az ide tartozó meditációs faktor pedig az irányított figyelem.
+Azzal jobban rá tudjuk majd venni magunkat, hogy mibe vágjunk bele -- és hogy be is fejezzük, amibe belevágtunk.
+
+
+
+#### 4. Bánat és aggodalom miatti nyugtalanság
+
+Ebben a szövegkörnyezetben a bánat a múltbéli, az aggodalom pedig a jövőbeli dolgokra vonatkozik.
+Evolúciós hasznuk, hogy a hibák kijavítására és a bizonytalan jövőre való felkészülésre ösztönöznek.
+A kellemetlenség miatt pedig nem is fogjuk megismételni a hibáinkat.
+Ha viszont nem tesszük, amire ösztönöznek, akkor csak a stressz marad utánuk!
+Lehet, hogy nem is teljesen vagyunk tisztában, hogy mit vagy hogyan kellene, de belül azért is rág!
+
+Ha lecsillapítjuk az elménket, akkor ezek előbb vagy utóbb a felszínre fognak kerülni.
+Ha pedig (az előbb említett irányított figyelemmel) rendbe is tesszük őket, akkor megszűnik a "rágás"!
+
+Emellett persze érdemes egy _erényes_ életet élünk.
+És ezt itt nem morális kicsengéssel használjuk, ahol valami külső kényszer miatt alkalmazkodnánk.
+Itt belül kell egyenesbe kerülni, és majd abból fakad, hogy a viselkedésünk is kiegyenesedik.
+Így pedig természetesen nem is gyártjuk újra a megbánni vagy aggódni valót.
+
+Ellentéte a meditációs öröm, ami nem hagy helyet semmilyen nyugtalanságnak.
+
+#### 5. Kétség
+
+Amíg a megkérdőjelezésről szól, addig teljesen helyénvaló!
+Nem hiszünk vakon, hanem inkább utánajárunk: tényleg úgy van-e, érdemes-e, hagyjuk-e?
+Ennyiből kicsit olyan, mint a lustaság.
+A baj akkor van, ha maga a megkérdőjelezési folyamat helyett az érzelmi bizonytalanságra reagálunk.
+Emiatt pedig esetleg el sem jutunk a személyes tapasztalásig, amikor eloszlana a kétely.
+
+A legerősebb ellenszere a bizalom és a magabiztosság, ami a sikerből fakad.
+De hát ahhoz először el kell jutni a sikerig... amihez kitartás kell... amihez pedig már előre meg kell birkózni a kétséggel.
+Kicsit 22-es csapdája, nem?
+
+Leggyakoribb formája az önmagunkban kételkedés.
+Nem megy ez nekem; nem vagyok olyan jó, mint mások!
+Ha azonban a figyelmünk irányítása mellett a fenntartását is gyakoroljuk (mondjuk teszem azt meditációval), akkor megtanulhatunk a kétség ellenére is tovább menni.
+A későbbi tapasztalat és bizonyosság pedig egyre jobban eloszlatja majd a későbbi kételyeinket is.
+Így is "ördögi kör" marad, csak most már a saját szolgálatunkba állítva!
+
+<br />
+
+Végigvettük tehát, hogy a meditáció hogyan segíthet a hétköznapi problémáinkon.
+De ne feledjük, hogy maguk a meditáció során felmerülő problémák is mind ezekre vezethetők vissza!
+
+- Halasztgatás, rendszertelen meditálás
+- Figyelem elterelések, felejtés, kalandozás
+- Türelmetlenség
+- Nyugtalan, irányíthatatlan elme
+- Önkétség
+- Eltompulás, bealvás
+- Fizikai kényelmetlenség
+
+De ezek -- mint ahogy általánosságban a problémáink -- mind legyőzhetők!
+És ami még jobb: egy bizonyos szint után már vissza sem jönnek!
 
 <br />
 
@@ -478,3 +511,10 @@ Nem csak a csendes tóhoz kell megérkezni, hanem megtanulni, hogy mitől lesz c
 
 
 ## Összefoglalás
+
+És alapozásnak "mindössze" ennyi.
+Láthattuk, hogy a meditáció miért éri meg, hogyan haladhatunk vele, mik lesznek céljaink, és hogy milyen akadályokra számíthatunk út közben.
+
+A konkrét (kezdő szintű) lépésekre a jövő héten kerítünk sort.
+Aki nem bír addig várni, annak egy mondatban annyit tudnék javasolni elöljáróban, hogy "Üljünk napi kb. 20 percet csukott szemmel, és figyeljük a légzésünket!"
+De higgyük el, hogy lehet erről ennél jóval többet is mondani...
