@@ -3,107 +3,153 @@ layout: post
 title: John Yates - The Mind Illuminated - Kezdőknek
 date: 2020-05-15 15:00
 excerpt: >
+    A múlt heti alapozó után végre belecsaphatunk a metaforikus lecsóba és érdemben is elkezdhetünk meditálni.
+    Útmutatóként természetesen továbbra is Dr. John Yates -- The Mind Illuminated című gyakorlatias kalauzát használjuk.
+    Aki esetleg még nem olvasta volna az alapokat, az lapozzon vissza nyugodtan, megvárjuk.
+    Ha viszont már tisztában vagyunk vele, hogy miért jó ez az egész, és hogy milyen célokat szeretnénk vele elérni, akkor előre!
 ---
 
-1. A napi rendszer felállítása
-    - infó: a rendszerességen felül az is nagyon fontos, hogy "odategyük" magunkat. nem csak végigüljük a kiszabott időt álmodozva vagy a napunkat tervezgetve!
-    - cél: rendszeres napi meditációs gyakorlat felállítása
-    - akadályok: ellenállás, halasztgatás, fáradság, türelmetlenség, unalom, motiválatlanság
-    - képességek: rutinok kitalálása, konkrét célok lefektetése, önfegyelem és szorgalom fejlesztése
-    - mesterszint: soha nem marad ki a napi meditáció
+A múlt heti alapozó után végre belecsaphatunk a metaforikus lecsóba és érdemben is elkezdhetünk meditálni.
+Útmutatóként természetesen továbbra is [Dr. John Yates -- The Mind Illuminated](https://www.goodreads.com/book/show/25942786-the-mind-illuminated){:target="_blank"} című gyakorlatias kalauzát használjuk.
+Aki esetleg még nem olvasta volna az [alapokat]({% post_url 2020-05-08-john-yates-the-mind-illuminated-alapok %}), az lapozzon vissza nyugodtan, megvárjuk.
+Ha viszont már tisztában vagyunk vele, hogy miért jó ez az egész, és hogy milyen célokat szeretnénk vele elérni, akkor előre!
+A 10 lépésből ma az első hárommal foglalkozunk ([#1](#1), [#2](#2), [#3](#3)), ami a belátható jövőben bőven elég is lesz.
 
-2. Megtört figyelem és az elkalandozás legyőzése
-    - infó: első körben "csak" a légzésünkre szeretnénk figyelni. ez persze nem lesz ilyen könnyű, mert az elménk folyamatosan gyártani fogja a figyelem eltereléseket, amik hatására elfelejtjük, hogy mi is az aktuális célunk, és a figyelmünk elkalandozik. ebben a fázisban csak magára az elkalandozásra figyelünk
-    - cél: rövidíteni a kalandozást, és hosszabbítani a fenntartott figyelmet
-    - akadályok: maga az elkalandozás, és a türelmetlenség
-    - képességek: erősítjük a spontán, befelé figyelő tudatosságot. vagyis egy "aha" pillanatban észrevesszük, amint épp nem azt csináljuk, amit kellene. ennek köszönhetően ezek a kalandozások egyre rövidebbek lesznek, és tovább tudunk majd a meditáció tárgyára (jelen esetben a légzésünkre) koncentrálni.
-    - mesterszint: percekig tudunk a tárgyra figyelni, miközben a kalandozások általában már csak másodpercesek
-
-3. Tartós figyelem és a felejtés legyőzése
-    - infó: kb. azon az úton megyünk tovább, amit a 2. lépésben is láttunk, csak itt már teljesen megszüntetjük az elkalandozást azzal, hogy magát a felejtést igyekszünk megelőzni. emellett viszont gyakori probléma lesz a "bealvás", amit szintén el szeretnénk kerülni.
-    - cél: a felejtés és az elalvás legyőzése
-    - akadályok: figyelem elterelések, felejtés, elkalandozás, és álmosság
-    - képességek: a **légzés követése** és **összekapcsolás** technikákkal hosszabbítjuk a figyelmes időszakot és megtanuljuk felismerni a felejtést, a **címkézés** és **becsekkolás** technikákkal pedig elkaphatjuk a figyelem elterelő tényezőket _mielőtt_ felejtést okozhatnának.
-    - mesterszint: ritka felejtés, ritka elalvás
-
-Itt az első mérföldkő: folyamatos figyelem
-
-
-1. rendszeresen meditálunk
-    - ha nem jön össze, ne ostorozzuk magunkat, csak erősítsünk a szándékon
-2. figyeljük az "aha" pillanatot, visszatereljük a figyelmünket a légzésre, illetve úgy figyeljük a légzést, hogy közben a perifériás érzékelésünk sem halványul el
-    - nem erőltethetjük, hogy ne kalandozzunk el, vagy hogy ne felejtsünk
-    - csak a fenti 3-ra figyeljünk, és idővel menni fog
-3. rendszeresen figyelünk befelé, hogy még azelőtt felejtenénk vagy bealudnánk
-
-
-- belevágás a közepébe
-
-1. póz
-    - szék vagy földön párna, de kényelmesen!
-    - hát-nyak-fej egyenesen előre-hátra és oldalról is
-    - kezdésnek ajánlott csukott szemmel (talán úgy könnyebb), de nyitva is lehet
-2. relax
-    - engedjük el a fizikai feszültséget
-    - engedjük el a mentális feszültséget is
-    - élvezzük, hogy megengedtük magunknak, hogy egy kicsit elszabaduljunk a világ elől
-3. szándék és lélegzet
-    - határozzuk el, hogy végig szorgalmasan gyakorolni fogunk
-    - lélegezzünk az orrunkon természetesen (ne irányítsuk)
-    - vagy az orrunk/szánk körüli, vagy a hasunk körüli légzési élményre koncentráljunk, ez lesz a meditáció tárgya
-    - a figyelmünket irányítsuk erre, miközben az érzékelésünk nyitott marad
-    - próbáljuk a figyelmünket a tárgyon tartani. amikor elkerülhetetlenül elkalandozik, és észrevesszük, mentálisan veregessük magunkat vállon
-        - nem kell semmi frusztráció, ez természetes
-        - inkább azt éljük meg sikernek, hogy elkaptuk
-    - finoman de határozottan tereljük vissza a figyelmünket a tárgyra
-    - ismételjük ezt a 3-as lépést amíg le nem telik az időnk
-        - és ne feledjük: csak úgy lehet rosszul meditálni, ha kihagyjuk!
+<br />
 
 
 
-## 1. szint - A napi rendszer felállítása
 
-- Meditációs alapok
-    - 6 lépéses bevezetés
-        - ezt a listát végigzongorázzuk minden egyes alkalom előtt
-        1. motiváció -- miért csinálom
-        2. célok -- az eddigiek fényében mit szeretnék elérni ez alkalommal
-        3. elvárások -- próbáljuk elengedni, amit esetleg elvárunk magunktól, mert abból csak a baj van
-        4. szorgalom -- fogadjuk meg, hogy a meditáció ideje alatt a célunknak megfelelően, folyamatosan gyakorolni fogunk
-        5. elterelések -- van-e valami aktuális, ami előreláthatólag bele fog zavarni a meditációnkba
-        6. póz -- próbáljunk helyesen, egyenesen, stabilan és kényelmesen ülni
-    - A meditáció tárgya
-        - mindenfélére lehetne fókuszálni, de itt erősen a légzés ajánlott
-        - és a légzés alatt a légzés által okozott érzéseket értjük
-            - nem magát a levegőt követjük
-        - lehet figyelni a hasunknál, a mellkasunknál, de az orr az ajánlott (mert ott érzékenyebb)
-    - 4 lépéses figyelem beszűkítés
-        1. a jelen
-            - már ezzel kizárunk egy csomó mindent, ami nem itt és most van
-            - a jelenből még bármire figyelhetünk, de ne kezdjünk el gondolkozni rajta, mert az nagy valószínűséggel kivezet a jelenből
-            - igyekezzünk jó sztoikus módra megkülönböztetni és szétválasztani a fizikai érzékeink által jelzett információkat és a mi mentális reakcióinkat ezekre
-                - lehet, hogy nyomást érzünk, amit mi negatívan címkézünk meg, hogy "kellemetlen"
-                - de ez két külön lépés
-                - a kellemes érzéseknél fürödjünk a kellemességben, a kellemetleneknél pedig csak engedjük el őket
-            - általános mantra a figyelem elterelésekre, hogy "hadd jöjjön, hadd legyen, hadd menjen"
-            - szintén általános minden lépésre: ha elkalandozik a figyelmünk, akkor örüljünk, hogy elkaptuk, és tereljük szépen vissza
-        2. a testünk
-            - leszűkítjük a figyelem hatókörét, minden más mehet a háttérbe
-            - az érzékelésünkből nyilván nem zárunk ki semmit (mert azt próbáljuk minél szélesebben és élesebben tartani), de a figyelmünk csak a testünkön belüli dolgokra irányul
-            - (remélhetőleg) utolsó igazítások a testtartásunkon
-            - ha nagyon elterelődünk, akkor visszafelé is léphetünk, visszafókuszálunk a jelenre, és aztán vágunk bele újra
-            - az se baj, ha ezen túl se jutunk (vagy akár már a jelenben megállunk), majd alakul ez
-                - mi csak ugye egy tartós szándékot mutatunk a tudatalattinknak, és majd ő csinálj a többit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="1"></a>1. szint -- A napi rendszer felállítása
+
+Furcsán hangozhat, de a folyamat nehezével igazából pont a legelején találkozunk: ki kell ugyanis alakítanunk egy napirendet.
+Gyakorlatilag a _legfontosabb_, amit a meditációs "karrierünk" érdekében tehetünk, hogy egyszerűen minden nap leülünk egy kicsit meditálni.
+Nagyon radikálisan hangzik, tudom...
+De mégis!
+
+A 4 akadály, amivel a valószínűleg találkozni fogunk:
+
+1. **Idő** -- mint bármi másnál is, erre sem lesz kimaradó szabadidőnk, ezért időt kell rá szakítani!
+
+2. **Halasztgatás** -- ha nem elég fontos, akkor mindig jön majd elé valami. Prioritást kell belőle csinálni!
+
+3. **Ellenállás** -- magunktól akkor is álmodozni fogunk, ha már leültünk meditálni. Fenn kell tartanunk a motivációnkat és szorgalmasan kell a célra figyelnünk!
+
+4. **Kételkedés** -- amikor nem megy (legalábbis nem olyan gyorsan, ahogy mi szeretnénk), akkor óhatatlanul elkezdünk majd kételyt érezni. Nem megy ez nekünk, nem nekünk való, stb. Na ilyenkor a legfontosabb, hogy bízni tudjunk a rendszerben, és csak csináljuk tovább!
+
+A fő megoldás igazából mindre a **szorgalom**!
+Megcsináljuk az időt; odaülünk, és szorgalmasan figyelünk arra, amire kell; és közben bízunk benne, hogy ennek tényleg olyan hatása lesz hosszú távon, ami nekünk megéri...
+Ennyi.
+
+#### Bele a közepébe!
+
+A könyv 4 praktikus lépést kínál a hirtelen nekilóduláshoz:
+
+1. **Hely és idő kiválasztása**:
+Lehetőleg minden nap ugyanakkor, ugyanott, hogy annál könnyebben rendszer lehessen belőle.
+Egy reggel vagy esti időponttal jobban járunk, nap közben nehezebb lesz.
+Érdemes másokkal is közölni, hogy ez a mi időnk, nem leszünk elérhetőek!
+Kezdésnek 15-20 perc elég, de ezt idővel ajánlott fokozatosan 45-ig tornázni.
+
+2. **Helyes póz**:
+A képeken látott _lótusz póz_ csak haladóknak -- és különben is semmi szükség rá!
+Csak tegyük keresztbe a lábainkat, a hát-nyak-fej legyen egyenes, és kész.
+Ülhetünk széken, padon, földön egy párnán...
+A lényeg, hogy minél relaxáltabban üljünk, hogy hosszabb távon se legyen fájdalom -- vagy legalábbis csak minimális.
+Ha elhelyezkedtünk, akkor pedig onnantól igyekezzünk minél mozdulatlanabbak maradni.
+Számítsunk némi kellemetlenségre -- nem mindent lehet mocorgással kiküszöbölni!
+
+3. **Helyes hozzáállás**:
+El kell tüntetnünk az ítélkezést és az elvárásokat.
+Ha felmerül, hogy "szenvedünk", vagy hogy "nehezen" (esetleg "lassan") haladunk, akkor már baj van a hozzáállásunkkal!
+Mint az alábbiakban látni fogjuk, meditáció alatt _nagyon_ egyszerű dolgokat kell csak csinálni.
+Amivel igazából szenvedünk, az az, hogy a valóság nem illeszkedik a fejünkben elképzelt, idealizált képhez arról, ahol tartanunk _kellene_.
+Ehelyett bízzunk a módszerben, és magunkban, hogy szorgalommal igenis meg tudjuk csinálni!
+
+4. **A motiváció fenntartása**:
+Érdemes a témában olvasgatni, nézelődni, stb.
+Ha nem is feltétlen informálódás céljából, akkor csak azért, hogy fenntartsuk a téma iránti érdeklődésünket.
+Emlékeztessük magunkat, hogy miért csináljuk, és igyekezzünk akár másokat is inspirálni!
+
+#### És mi kell _csinálni_!?
+
+A konkrét meditációs alkalmakat egy 6 elemű mentális lista végigzongorázásával érdemes indítani -- csak hogy nehogy véletlen is lista-hiányunk legyen:
+
+1. Motiváció -- miért csináljuk?
+2. Célok -- az eddigiek fényében mit szeretnénk elérni ez alkalommal?
+3. Elvárások -- próbáljuk elengedni, amit esetleg elvárunk magunktól, mert abból csak a baj van!
+4. Szorgalom -- fogadjuk meg, hogy a meditáció ideje alatt a célunknak megfelelően, folyamatosan gyakorolni fogunk!
+5. Elterelések -- van-e valami aktuális, ami előreláthatólag bele fog zavarni a meditációnkba?
+6. Póz -- próbáljunk helyesen, egyenesen, stabilan és kényelmesen ülni!
+
+Ezután pedig (végre!) a meditációnk tárgyára fordíthatjuk a figyelmünket.
+Ez a tárgy elvileg bármi lehetne, de _erősen_ ajánlott, hogy a légzésünket válasszuk.
+És azon belül sem a levegőt követjük, hanem a légzésünk által kiváltott érzésekre fókuszálunk!
+Lehet figyelni a hasunknál, a mellkasunknál, de az orrunknál ajánlott (mert ott érzékenyebb).
+
+A hirtelen légzésre "ugrás" helyett érdemes a figyelmünket fokozatosan beszűkíteni.
+Első lépésünk a **jelen**, amivel már most kizárunk egy csomó mindent, ami nem itt és most van.
+Ezen a ponton a jelenből még bármire figyelhetünk, de ne kezdjünk el gondolkozni rajta, mert az nagy valószínűséggel távolabbra vezet majd!
+
+Igyekezzünk jó sztoikusok módjára megkülönböztetni és szétválasztani a fizikai érzékeink által jelzett információkat és a mi mentális reakcióinkat ezekre!
+Lehet, hogy nyomást érzünk a lábunkban, amit mi negatívan címkézünk meg, hogy "kellemetlen".
+De ez ugye két külön lépés!
+A kellemes érzéseknél fürödjünk a kellemességben, a kellemetleneknél pedig csak engedjük el őket.
+
+És ha már az elengedésről van szó: általános mantra a figyelem elterelésekre, hogy "hadd jöjjön, hadd legyen, hadd menjen".
+Illetve egy emlékeztető az alapokból: ha (amikor!) elkalandozik a figyelmünk, ne legyünk mérgesek!
+Örüljünk, hogy elkaptuk, és tereljük szépen vissza!
+
+Második lépésben leszűkítjük a figyelem hatókörét a **test**ünkre -- minden más mehet a háttérbe.
+Az érzékelésünkből nyilván továbbra sem zárunk ki semmit (mert azt próbáljuk minél szélesebben és élesebben tartani), de a figyelmünk már csak a testünkön belüli dolgokra irányul.
+Itt végezhetjük el a (remélhetőleg) utolsó igazítások a testtartásunkon is.
+
+- ha nagyon elterelődünk, akkor visszafelé is léphetünk, visszafókuszálunk a jelenre, és aztán vágunk bele újra
+- az se baj, ha ezen túl se jutunk (vagy akár már a jelenben megállunk), majd alakul ez
+    - mi csak ugye egy tartós szándékot mutatunk a tudatalattinknak, és majd ő csinálj a többit
+
         3. a légzésünk
             - ha a test megvan, onnan már alapból a légzés felé fogunk húzni, mert az az egyetlen mozgás kb.
             - figyelhetünk a has/mellkas/arc/orr részre
             - lélegezzünk természetesen, ne erőltessük vagy túlozzuk el
                 - csak megfigyelők vagyunk!
             - figyeljünk minden pozitív érzésre, és akár "mesterségesen" is generáljunk nyugalmat, örömöt, boldogságot
+
         4. a légzésünk az orrunknál
             - most pedig már csak az orrunknál történő ki-be érzésekre figyelünk
+            - a lélegzetek számolása segíthet stabilizálni a figyelmünket
+
     - A számolás előnyei
-        - a lélegzetek számolása segíthet stabilizálni a figyelmünket
         - itt még nem baj, ha magunkban "beszélünk" magunkhoz, amíg az a lélegzethez és a számoláshoz kapcsolódik
         - legalább 5, legfeljebb 10
         - az is számíthat, hogy mit tekintünk egy lélegzet elejének és végének
@@ -111,48 +157,50 @@ Itt az első mérföldkő: folyamatos figyelem
             - ha viszont mondjuk ki/szünet/be, akkor könnyebben átlendülhetünk
         - ha nem a légzésünket figyeljük, akkor is jó lehet a számolás
             - Pavlov-i reflex, ráneveljük magunkat, hogy meditáció jön
-- A napirend kialakítása
-    - 4 akadály
-        1. idő -- mint bármi másnál is, erre sem lesz kimaradó szabadidőnk, időt kell rá szakítani!
-        2. halasztgatás -- ha nem elég fontos, akkor mindig jön majd elé valami. prioritást kell belőle csinálni!
-        3. ellenállás -- magunktól akkor is álmodozni fogunk, ha már leültünk meditálni. fenn kell tartanunk a motivációt és szorgalmasan kell csinálni!
-        4. amikor nem megy (legalábbis nem olyan gyorsan, ahogy mi szeretnénk), akkor óhatatlanul elkezdünk majd kételyt érezni. nem megy ez nekünk, nem nekünk való, stb. bízni kell a rendszerben, és csak csinálni!
-    - a fő megoldás a szorgalom
-        - megcsináljuk az időt, odaülünk, és szorgalmasan figyelünk arra, amire kell, és közben bízunk benne, hogy ennek tényleg olyan hatása lesz hosszú távon, ami nekünk megéri. ennyi.
-    - 4 praktikus lépés
-        1. hely és idő kiválasztása
-            - lehetőleg minden nap ugyanakkor, ugyanott
-            - reggel vagy este jobb, nap közben nehezebb lesz
-            - mások is tudják, hogy ez a mi időnk, nem vagyunk elérhetőek!
-            - kezdésnek 15-20 perc elég, amit idővel fokozatosan 45-ig tornázzunk
-            - jó, ha van társ, még ha csak néha is
-        2. helyes tartás
-            - lótusz póz csak haladóknak -- és különben is semmi szükség rá
-            - csak lábak keresztbe, egyenes hát
-            - széken, padon, földön egy párnán
-            - minél relaxáltabban üljünk, hogy hosszabb távon se legyen fájdalom (vagy csak minimális)
-            - igyekezzünk minél mozdulatlanabbak maradni
-            - számítsunk némi kellemetlenségre -- nem mindent lehet mocorgással kiküszöbölni!
-        3. helyes hozzáállás
-            - el kell tüntetnünk az ítélkezést és az elvárásokat
-            - ha felmerül, hogy "szenvedünk", hogy "nehezen" vagy "lassan" haladunk, akkor már baj van a hozzáállásunkkal!
-            - vegyük észre, hogy a meditáció alatt _nagyon_ egyszerű dolgokat kell csinálni
-            - amivel igazából szenvedünk, az az, hogy a valóság nem illeszkedik a fejünkben elképzelt, idealizált képhez, ahol tartanunk _kellene_
-            - ehelyett bízzunk a módszerben, és magunkban, hogy szorgalommal igenis meg tudjuk csinálni
-        4. a motiváció fenntartása
-            - érdemes a témában olvasgatni, nézelődni, stb.
-                - ha nem is informálódás céljából, csak azért, hogy fenntartsuk a téma iránti érdeklődésünket
-            - emlékeztessük magunkat, hogy miért csináljuk
-            - igyekezzünk másokat is inspirálni
+
+Végül pedig egy megjegyzés ehhez a sok listához, tipphez és trükkhöz: ne aggódjuk túl!
 
 > Az a jó meditáció, amit megcsináltál -- az egyetlen rossz pedig az, amit nem csináltál meg.
 >
 > Stephanie Nash
 > > A good meditation is one you did -- the only bad meditation is one you didn't do.
 
+<br />
 
 
-## 2. szint - Megtört figyelem és az elkalandozás legyőzése
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="2"></a>2. szint -- Az elkalandozások legyőzése
 
 - ha már megvan a rendszeres napi meditáció, akkor itt elkezdjük fejleszteni a mentális képességeinket
     - úgy, hogy egyre tovább tudunk már a lélegzetünkre figyelni, és egyre kevesebbszer (és olyankor is egyre rövidebb ideig) kalandozunk el
@@ -178,6 +226,7 @@ Itt az első mérföldkő: folyamatos figyelem
             - ezzel viszont tulajdonképpen arra neveljük a tudatalattinkat, hogy "hé, inkább ne is ébressz fel, mert olyankor úgyis szarul érzem magam"
         - az elkalandozás elkerülhetetlen, de reagálhatunk a felébredésre pozitívan
             - ezzel pedig fokozatosan arra neveljük a tudatalattinkat, hogy minél hamarabb ébresszen fel, ha ilyen van
+            - képzeljük azt, hogy szó szerint vállon veregetjük magunkat, amiért "felébresztett" az elkalandozás közben
             - ez lesz idővel olyan gyors, hogy lényegében el sem kalandozunk, és máris újra ott vagyunk
     - figyelem (át)irányítás
         - az egyik fő célunk ugye, hogy tudatosan irányíthassuk, hogy mire figyelünk
@@ -247,8 +296,41 @@ Egy formula a sikeres meditációhoz:
 - figyeljünk -- de ne ítélkezzünk. csak legyünk tudatában, hogy valami történik
 - hadd jöjjön, hadd legyen, hadd menjen -- ne próbáljunk "elnyomni" semmit
 
+<br />
 
-## 3. szint - Tartós figyelem és a felejtés legyőzése
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="3"></a>3. szint -- A felejtés legyőzése
 
 - hogy történik a felejtés
     - a háttér érzékelésünk + a folyamatos gondolataink tele vannak potenciális elterelésekkel
@@ -339,3 +421,38 @@ Egy formula a sikeres meditációhoz:
         - a túl kinti és a túl benti fókusz között próbálunk egy egyensúlyt találni
     - a becsekkolás folyamán a tompulást is ellenőrizhetjük, hogy minél hamarabb tudjunk korrigálni
         - és ha jön is a tompulás, tekintsük ezt alkalomnak arra, hogy közelebbről megvizsgálhassuk és tanulhassunk róla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Összefoglalás
+
