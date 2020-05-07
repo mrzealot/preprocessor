@@ -367,95 +367,116 @@ Segítségükkel végül oda juthatunk, hogy a folyamatok összhangban dolgoznak
 
 ## <a name="3"></a>3. szint -- A felejtés legyőzése
 
-- hogy történik a felejtés
-    - a háttér érzékelésünk + a folyamatos gondolataink tele vannak potenciális elterelésekkel
-    - akkor lesz elterelés, ha elkezdünk figyelmet fordítani rá
-    - apró vs. nagy
-        - ha még a légzés van a középpontban de már alternál a figyelmünk valami másra is, akkor apró
-        - ha átveszi a légzés helyét a reflektorfényben, akkor nagy
-    - és a nagyból lesz a felejtés is, amikor annyira arra figyelünk, hogy "elfelejtünk" visszaugrálni a háttérbe csúszott légzésre
-- hogy előzzük meg
-    - a következő négy technikát használva elkapjuk az eltereléseket, mielőtt még felejtést okoznának
-    - ehhez először kell a 2. szint, hogy relatíve folytonosan tudjuk tartani a figyelmünket a légzésen
-        - hogy stabil legyen a figyelmünk, és befelé fordulhassunk egy kicsit
-        - kb. mint egy csónak a viharos tengeren, és a figyelmünk a horgony
-        - ha nem stabil, akkor nem tudunk felállni a csónakban, hogy körülnézzünk
-        - ha igen, akkor viszont számíthatunk a hullámokra, és talán még azok ellenére is stabilan tudjuk tartani a csónakot
-- figyelem fenntartása
-    - itt extra játékokat adunk az elménknek, hogy a lélegzet figyelése érdekesebb legyen
-        - hátha így majd még tovább fenn tudjuk tartani a figyelmünket
-    - **követés**
-        - ugyanúgy, mint a második lépésben, csak még részletesebben
-        - ha a ki/be és szünet időzítések pontosan megvannak, akkor kezdhetünk ezeken belül is külön-külön érzéseket keresni
-        - állítólag akár tizen-x diszjunkt dolgot is érezhetünk, ha nagyon ráfókuszálunk
-        - és ezzel biztosan munkára tudjuk fogni a figyelmünket
-        - de közben továbbra se engedjük, hogy a külső érzékelésünk tompuljon vagy kikapcsoljon!
-            - akkor hajlamosabbak lennénk a felejtésre és a bealvásra is
-        - ne feledjük: a figyelem és az érzékelés _egyszerre_ kell, hogy növelni tudjuk a mentális képességeinket
-    - **összekapcsolás**
-        - kb. a követés, csak még extrémebb részletekkel
-        - nem csak magukban figyeljük meg a jelenségeket, hanem össze is vetjük őket
-        - ki és belégzés hosszainak különbsége? melyik szünet a hosszabb?
-        - hogyan változik ez a meditáció alatt? gyorsabban lélegzek most? nagyobb szüneteket tartok, mint eddig?
-        - később már akár a mentális állapotunkhoz is kapcsolhatjuk: ha ideges vagyok, akkor gyorsabb a belégzés, mint a ki? mélyebb vagy épp sekélyebb lélegzeteket veszek ilyenkor?... 
-        - ez nem is csak a figyelem szempontjából lehet jó, hanem arra is, hogy megtanuljuk tudatosabban észlelni a lelkiállapotainkat
-        - itt érdemes elkezdeni visszavenni a belső dialógust, és egyre inkább csendben, non-verbálisan gondolkozni a lélegzetről
-- introspektív érzékelés fejlesztése
-    - azt ugye folyamatosan igyekszünk fenntartani, hogy a külső érzékelésünk megmaradjon a figyelem mellett
-        - de az is nagyon jó lenne, ha befelé is tudnánk érzékelni, még ha a figyelmünk továbbra is a légzésre irányul
-        - így tisztában lehetünk majd azzal is, hogy mi történik az elménken belül
-    - **címkézés**
-        - eddig a spontán ébredésekre hagyatkoztunk
-            - és jó esetben a pozitív értékelésük miatt egyre sűrűbbek is lettek
-        - ezen felül érdemes az ébredés pillanatában megcímkézni, hogy min is gondolkoztunk épp, amikor felébredtünk
-            - legjobb semleges címkéket használni, mint pl. "emlékezés" vagy "tervezés", hogy ne legyen negatív kicsengése
-            - és aztán persze ezt nem elemezzük tovább, hogy miért, mert az csak további elterelés... megyünk vissza a légzésre
-        - ha ezt elég sokáig csináljuk, az megerősíti a befelé irányuló érzékelésünket annyira, hogy idővel esetleg már a felejtés _előtt_ is el tudjuk kapni azokat az eltereléseket, amik majd a felejtést okoznák
-    - **becsekkolás**
-        - itt pedig a befelé irányuló **figyelmet** használjuk ki
-        - igen, jól látjuk, ehhez valóban el kell venni egy kicsit a figyelmet a lélegzetről
-            - ezért olyan fontos, hogy amúgy relatíve stabil legyen a figyelmünk
-        - ha tudatosan befelé fordulunk egy kicsit (mondjuk kb. 5-10 lélegzetenként), akkor készíthetünk egy pillanatképet a jelenlegi lelkiállapotunkról
-            - itt pedig felismerhetünk nagyobb eltereléseket is még az _előtt_, hogy megfeledkeznénk a lélegzetről
-            - erre is jó a címkézés --> tudhatjuk, hogy mire kell jobban vigyázni a pillanatképeken
-        - plusz ezzel edzzük a befelé forduló érzékelésünket
-            - igen, most még tudatosan kell figyelni, de ezzel neveljük magunkat, hogy fontos, amilyen infót onnan kaphatunk
-            - ezért megtanulunk folyamatosan, a háttérben, tudat alatt tisztában lenni vele, hogy később már a figyelem se kelljen hozzá
-            - gondoljunk csak a hétköznapi életre, mondjuk sportkocsikkal vagy cipőkkel vagy karórákkal vagy mechanikus billentyűzetekkel. ha sok tudatos figyelmet fordítunk rájuk (mert mondjuk az a hobbink vagy az érdeklődési körünk), akkor egy idő után tudatos figyelem _nélkül_ is feltűnnek az ilyen dolgok, nem?
-                - na ezt csináljuk itt is!
-- fájdalom és kellemetlenségek kezelése
-    - akkor is rengeteget mocorgunk, amikor épp nem mozgunk
-    - és ez nagyon gyorsan ki fog bukni, amikor épp teljesen mozdulatlanok próbálunk lenni
-        - jönnek majd a kényelmetlenségek, a fájások, a viszketések, a zsibbadások...
-    - de persze ehhez is hozzá lehet szokni, és idővel sokkal jobb lesz (sőt, lesz, hogy már érezni sem fogjuk)
-    - próbáljuk eleve kényelmesnek megválasztani a pozíciónkat
-    - amikor jön valami fájdalom, próbáljuk minél tovább (szó szerint) figyelmen kívül hagyni
-        - ha már nem tudjuk, akkor tegyük azt a meditáció tárgyává a légzés helyett, és próbáljunk még kitartani
-        - ha muszáj mozdulni, akkor is minél tudatosabban tegyük
-            - előre találjuk ki, hogy hogyan fogunk mozdulni, és figyeljünk a mozdulatra
-            - sokszor ilyenkor máshol keletkezik zavar
-            - és ez talán segít megérteni, hogy nem sok értelme van a mozgásnak, fájdalom mindenképp jöhet
-        - megláthatjuk, hogy a fájdalom elkerülhetetlen, de a szenvedés opcionális
-- tompulás és álmosság kezelése
-    - egész életünkben arra neveltük magunkat, hogy ha befelé fordulunk, akkor alvás jön
-    - vehetjük úgy, hogy a tompulás is egyfajta elterelés
-        - csak itt nem másra száll át a figyelem, hanem csak "elpazarlódik" a semmire
-    - fontos, hogy itt a meditáció miatti tompulásról van szó
-        - ha egyszerűen csak kialvatlanok vagyunk, vagy valami más miatt bambulunk, azt nem itt kell megoldani!
-    - a gyenge tompulás csak annyi, hogy már nem figyeled olyan élesen a lélegzetet
-        - de ebből lesz az erős tompulás/álmosodás is, amiből már könnyű átcsúszni az elalvásba
-    - ha egyszer már erős a tompulás, ott nem nagyon tudunk segítség nélkül, csak szándékkal visszafordulni
-        - jöjjünk ki belőle legalább annyira, hogy egy pár percen belül se jelentkezzen újra
-        - tippek:
-            - vegyünk mély lélegzeteket
-            - feszítsük meg és lazítsuk el az izmainkat
-            - meditáljunk állva, vagy akár séta közben
-            - legrosszabb esetben mossuk meg az arcunkat hideg vízzel és próbáljuk újra
-    - ha bármikor azt érezzük, hogy a külső érzékelésünk tompul, tágítsuk a figyelmünk hatókörét
-        - vagy akár engedjük el a légzést egy kicsit, hogy egy teljes, széles érzékeléssel "visszarántsuk" magunkat
-        - a túl kinti és a túl benti fókusz között próbálunk egy egyensúlyt találni
-    - a becsekkolás folyamán a tompulást is ellenőrizhetjük, hogy minél hamarabb tudjunk korrigálni
-        - és ha jön is a tompulás, tekintsük ezt alkalomnak arra, hogy közelebbről megvizsgálhassuk és tanulhassunk róla
+Ezen a ponton nyugodtan vehetjük úgy, hogy az elkalandozást már "legyőztük" -- hiszen relatíve ritka, és olyankor sem tart sokáig.
+A következő célunk az lesz, hogy ezt a maradékot is rendbe tegyük.
+Mégpedig úgy, hogy eleve el se feledkezzünk a légzésünkről.
+
+A háttér érzékelésünk és a gondolataink folyamatosan tele vannak potenciális elterelésekkel, de baj akkor lesz, ha elkezdünk figyelmet fordítani rájuk.
+Ha még a légzés van a középpontban de már alternál a figyelmünk valami másra is, akkor nevezhetjük az elterelést "gyengének".
+Ha átveszi a légzés helyét a reflektorfényben, akkor "erős".
+Ha pedig kellően el is merülünk benne, akkor elfelejthetjük azt is, hogy innen a háttérbe csúszott légzésre kellene visszatérni.
+A következő technikák segítségével remélhetőleg még azelőtt kaphatjuk el az ilyen nagyobb eltereléseket, hogy felejtést okozhatnának.
+
+
+
+#### A figyelem fenntartása
+
+A folyamatos fókusz érdekében itt tulajdonképpen "extra játékokat" adunk az elménknek, hogy a lélegzet figyelése érdekesebb legyen -- hátha így majd tovább ott marad.
+Például ha a második szintes ki/be és szünet időzítések pontosan megvannak a légzésünkhöz, akkor kezdhetünk ezeken belül is külön-külön érzéseket keresni.
+Állítólag akár tizen-x diszjunkt dolgot is érezhetünk, ha nagyon koncentrálunk.
+
+Egy másik tipp, hogy ne csak magukban, hanem egymáshoz viszonyítva is figyeljük meg a jelenségeket.
+Mennyi a ki- és belégzés hosszainak különbsége?
+Melyik előtt van hosszabb szünet?
+Hogyan változik ez a meditáció alatt?
+Gyorsabban lélegzek most, mint az elején?
+Nagyobb szüneteket tartok, mint eddig?
+
+Később már akár a mentális állapotunkhoz is kapcsolhatjuk a megfigyeléseinket.
+Ha ideges vagyok, akkor gyorsabb a belégzés, mint a ki?
+Mélyebb vagy épp sekélyebb lélegzeteket veszek ilyenkor?
+És ez nem is csak a figyelem szempontjából válik a javunkra, hanem a lelkiállapotainkat is megtanulhatjuk tudatosabban észlelni.
+
+Ezek közben persze továbbra se engedjük, hogy a külső érzékelésünk tompuljon vagy kikapcsoljon!
+Ne feledjük: a figyelem és az érzékelés _egyszerre_ kell, hogy növelni tudjuk a mentális képességeinket.
+Illetve innentől érdemes visszább venni a belső dialógust is, és egyre inkább "csendben", non-verbálisan gondolkozni a lélegzetünkről.
+
+
+
+
+#### A befelé irányuló érzékelés fejlesztése
+
+A külső érzékelésünk fenntartása mellett az is nagyon jó lenne, ha _befelé_ is tudnánk érzékelni -- még ha a figyelmünk továbbra is a légzésre irányul.
+Így tisztában lehetnénk azzal is, hogy mi történik az elménken belül, és valamilyen szinten előre védekezhetnénk a közeledő elterelések ellen.
+
+Eddig ugye a spontán ébredésekre hagyatkoztunk és jó esetben a pozitív értékelésük miatt azok egyre sűrűbbek is lettek.
+Ezen felül érdemes az ébredés pillanatában **megcímkézni**, hogy min is gondolkoztunk épp, amikor felébredtünk.
+Ha ezt elég sokáig csináljuk, az megerősíti a befelé irányuló érzékelésünket -- akár annyira, hogy már a felejtés _előtt_ is el tudjuk kapni azokat az eltereléseket, amik majd a felejtést okoznák!
+A legjobb semleges címkéket használni, mint pl. "visszaemlékezés" vagy "tervezés", hogy ne legyen negatív kicsengése!
+És aztán persze nem elemezni tovább, hogy miért, mert az csak további elterelés...
+Megyünk vissza a légzésre!
+
+Egy másik jó technika lehet az úgynevezett **"becsekkolás"**, ahol a befelé irányuló **figyelmet** használjuk ki.
+Igen, jól látjuk, ehhez valóban el kell venni egy kicsit a figyelmet a lélegzetről -- ezért is olyan fontos, hogy amúgy relatíve stabil legyen a figyelmünk.
+Viszont ha egyszer-egyszer tudatosan befelé fordulunk egy kicsit (mondjuk kb. 5-10 lélegzetenként), akkor készíthetünk egy pillanatképet a jelenlegi lelkiállapotunkról.
+Ott pedig felismerhetünk nagyobb eltereléseket is még az _előtt_, hogy megfeledkeznénk a lélegzetről!
+A címkézéses tapasztalatainkból pedig tudhatjuk, hogy mire kell jobban vigyázni a pillanatképeken...
+
+A befelé figyelés tulajdonképpen edzi a befelé forduló érzékelésünket.
+Hiszen lehet, hogy most még tudatosan kell figyelni, de ezzel arra neveljük magunkat, hogy fontos, amilyen infót onnan kaphatunk.
+Ezért megtanulunk folyamatosan, a háttérben, tudat alatt tisztában lenni ezekkel az infókkal, hogy később már a figyelem se kelljen hozzájuk.
+Gondoljunk csak a hétköznapi életre, mondjuk a sportkocsikkal vagy a cipőkkel (vagy egyes kockáknak a mechanikus billentyűzetekkel).
+Ha sok tudatos figyelmet fordítunk egy adott területre (mert mondjuk az a hobbink), akkor egy idő után tudatos figyelem _nélkül_ is feltűnnek az ilyen dolgok, nem?
+Na ezt csináljuk itt is!
+
+
+
+#### A fájdalom és a kellemetlenségek kezelése
+
+Általánosságban elmondható, hogy olyankor is rengeteget mocorgunk, amikor épp nem mozgunk.
+Na ez meditáció során nagyon gyorsan ki fog bukni, amikor épp teljesen mozdulatlanok próbálunk lenni.
+Jönnek majd a kényelmetlenségek, a fájások, a viszketések, a zsibbadások...
+
+De higgyük el, ehhez is hozzá lehet szokni, és idővel sokkal jobb lesz.
+Sőt, lesz, hogy már érezni sem fogjuk.
+Első sorban nyilván próbáljuk eleve kényelmesnek megválasztani a pozíciónkat.
+Amikor pedig elkerülhetetlenül érkezik valami fájdalom, egyszerűen próbáljuk minél tovább (szó szerint) figyelmen kívül hagyni!
+
+Akkor sincs baj, ha már annyira zavaról, hogy tényleg nem tudjuk kizárni.
+Megpróbálhatjuk például magát a fájdalmat a meditációnk tárgyává tenni a légzés helyett.
+Ha pedig tényleg muszáj helyezkedni, akkor is minél tudatosabban tegyük!
+Előre találjuk ki, hogy hogyan fogunk mozdulni, és figyeljünk a mozdulatra.
+
+Ilyenkor azonban sokszor valahol máshol keletkezik zavar.
+És ez talán segít majd megérteni, hogy nem sok értelme van a mocorgásnak -- fájdalom mindenképp jöhet.
+Ahogy az alapoknál is mondtuk: "A fájdalom elkerülhetetlen, de a szenvedés opcionális!"
+
+
+
+#### A tompulás és az álmosság kezelése
+
+Egész életünkben arra neveltük magunkat, hogy ha befelé fordulunk, akkor alvás jön.
+Ezért természetes, hogy a meditációs befelé fordulás esetén a szervezetünk először hasonló bealvásos tüneteket produkálhat.
+Vehetjük úgy, hogy a tompulás is egyfajta figyelem elterelés, csak itt nem másra száll át a figyelem, hanem "elpazarlódik" a semmire.
+Fontos azonban, hogy itt tényleg a meditáció miatti tompulásról legyen szó!
+Ha egyszerűen csak kialvatlanok vagyunk, vagy valami más miatt bambulunk, azt nem itt kell megoldani.
+
+A figyelem elterelésekhez hasonlóan itt is megkülönböztethetünk gyenge és erős tompulást.
+A gyenge verzió csak annyi, hogy már nem figyeljük olyan élesen a lélegzetet.
+De ebből lesz az erős tompulás (és álmosodás) is, amiből már könnyű átcsúszni az elalvásba!
+És ha egyszer már eljutunk az erős tompulásig, akkor nem nagyon tudunk segítség nélkül visszafordulni.
+
+Jöjjünk ki belőle legalább annyira, hogy egy pár percen belül ne jelentkezzen újra:
+
+- Vegyünk mély lélegzeteket!
+- Feszítsük meg és lazítsuk el az izmainkat!
+- Meditáljunk állva, vagy akár séta közben!
+- Legrosszabb esetben mossuk meg az arcunkat hideg vízzel és próbáljuk újra!
+
+Ha pedig bármikor azt érezzük, hogy a külső érzékelésünk tompul, tágítsuk a figyelmünk hatókörét!
+Vagy akár engedjük el a légzést egy kicsit, hogy egy teljes, széles érzékeléssel "visszarántsuk" magunkat.
+Gondoljuk azt, hogy a túl kinti és a túl benti fókusz között próbálunk egy egyensúlyt találni.
+A fent említett becsekkolások folyamán a tompulást is ellenőrizhetjük, hogy minél hamarabb tudjunk korrigálni.
 
 
 
@@ -491,3 +512,11 @@ Segítségükkel végül oda juthatunk, hogy a folyamatok összhangban dolgoznak
 
 ## Összefoglalás
 
+> Egy mondatban annyit tudnék javasolni elöljáróban, hogy "Üljünk napi kb. 20 percet csukott szemmel, és figyeljük a légzésünket!"
+> De higgyük el, hogy lehet erről ennél jóval többet is mondani...
+
+A múlt héten így zártuk a meditációs alapozó bejegyzést -- és a most átvettek fényében szerintem mondhatjuk, hogy jogosan.
+Mivel a előreláthatóan ennyi is kellően fel fogja adja a leckét, itt most egyelőre abba is hagynám a The Mind Illuminated feldolgozását.
+A sok részlet ellenére azonban ne felejtsük, hogy a lényeg továbbra is változatlan.
+Ha valamit (még) nem értenénk, vagy valamelyik konkrét technika nem is válna be, akkor sincs ok az aggodalomra.
+Csak, mint már talán említettem, üljünk napi kb. 20 percet csukott szemmel, és figyeljük a légzésünket!
