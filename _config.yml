@@ -45,6 +45,7 @@ permalink: /:categories/:title
 lang: hu
 paginate: 10
 paginate_path: "/:num/"
+future: false
 
 exclude:
   - 'readme.md'

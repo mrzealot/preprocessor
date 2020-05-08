@@ -2,7 +2,7 @@
 layout: post
 title: John Yates - The Mind Illuminated - Alapok
 pages: 504
-date: 2020-05-08 15:00
+date: 2020-05-08 12:00
 excerpt: >
     Annyit hallunk a meditációról, és annyira univerzálisan elismert, hogy jó hatással van ránk...
     Mégis általánosságban annyira keveset tudunk róla és pláne annyira ritkán része a mindennapjainknak.
