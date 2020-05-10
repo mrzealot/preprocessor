@@ -101,7 +101,7 @@ Ehelyett bízzunk a módszerben, és magunkban, hogy szorgalommal igenis meg tud
 Ha nem is feltétlen informálódás céljából, akkor csak azért, hogy fenntartsuk a téma iránti érdeklődésünket.
 Emlékeztessük magunkat, hogy miért csináljuk, és igyekezzünk akár másokat is inspirálni!
 
-#### És mi kell _csinálni_!?
+#### És mit kell _csinálni_?!
 
 A konkrét meditációs alkalmakat egy 6 elemű mentális lista végigzongorázásával érdemes indítani -- csak hogy nehogy véletlen is lista-hiányunk legyen:
 
@@ -265,7 +265,7 @@ Persze ha ezek az oldalkerekek később már nem kellenek, akkor természetesen 
 #### Gyakorlati tippek
 
 Először is, mindeközben az érzékelést nem szabad elhagyni!
-Sokan próbálnak úgy a lélegzésükre koncentrálni, hogy közben a perifériás érzékelést kizárják.
+Sokan próbálnak úgy a légzésükre koncentrálni, hogy közben a perifériás érzékelést kizárják.
 Ez ugye mint tudjuk _nem_ jó...
 A tudatossághoz pont az lenne a lényeg, hogy ezek egyszerre is tudjanak működni!
 Hagyjuk ezért, hogy minden egyéb is csak úgy "ott legyen" a háttérben.
@@ -443,7 +443,7 @@ Sőt, lesz, hogy már érezni sem fogjuk.
 
 Első sorban nyilván próbáljuk eleve kényelmesnek megválasztani a pozíciónkat.
 Amikor pedig elkerülhetetlenül érkezik valami fájdalom, egyszerűen próbáljuk minél tovább (szó szerint) figyelmen kívül hagyni!
-Akkor sincs persze baj, ha már annyira zavaról, hogy tényleg nem tudjuk kizárni.
+Akkor sincs persze baj, ha már annyira zavaró, hogy tényleg nem tudjuk kizárni.
 Megpróbálhatjuk például magát a fájdalmat a meditációnk tárgyává tenni egy darabig a légzés helyett.
 Ha pedig tényleg muszáj helyezkedni, akkor is minél tudatosabban tegyük!
 Előre találjuk ki, hogy hogyan fogunk mozdulni, és figyeljünk a konkrét mozdulatra.
@@ -517,7 +517,7 @@ A fent említett becsekkolások folyamán a tompulást is ellenőrizhetjük, hog
 > De higgyük el, hogy lehet erről ennél jóval többet is mondani...
 
 A múlt héten így zártuk a meditációs alapozó bejegyzést -- és a most átvettek fényében szerintem mondhatjuk, hogy jogosan.
-Mivel a előreláthatóan ennyi is igencsak fel fogja adja a leckét, itt most egyelőre abba is hagynám a _The Mind Illuminated_ feldolgozását.
+Mivel előreláthatóan ennyi is igencsak fel fogja adni a leckét, itt most egyelőre abba is hagynám a _The Mind Illuminated_ feldolgozását.
 A sok részlet ellenére azonban ne felejtsük, hogy a lényeg továbbra is változatlan.
 Ha valamit (még) nem értenénk, vagy valamelyik konkrét technika nem is válna be, akkor sincs ok az aggodalomra.
 Csak, mint már talán említettem, üljünk napi kb. 20 percet csukott szemmel, és figyeljük a légzésünket!
