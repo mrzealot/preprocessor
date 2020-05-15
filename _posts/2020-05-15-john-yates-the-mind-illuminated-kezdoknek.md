@@ -1,7 +1,7 @@
 ---
 layout: post
 title: John Yates - The Mind Illuminated - Kezdőknek
-date: 2020-05-15 15:00
+date: 2020-05-15 00:01
 excerpt: >
     A múlt heti alapozó után végre belecsaphatunk a metaforikus lecsóba és érdemben is elkezdünk meditálni.
     Útmutatóként természetesen továbbra is Dr. John Yates -- The Mind Illuminated című gyakorlatias kalauzát használjuk.
