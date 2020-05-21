@@ -74,108 +74,143 @@ https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic
 
 ## Önfejlesztés
 
+A filozófia nem a hétköznapi teendőkkel foglalkozik, hanem a boldogsággal.
+Mi a fontos?
+Mi nem?
+Hogy kell élni; hogy kell gondolkozni?
+A filozófia arra való, hogy utat mutasson.
+Lehet, hogy nem menő vagy szórakoztató, de nem is ez a dolga.
+Mindegy, hogy Isten vagy a sors rendeli-e el a dolgainkat -- vagy csak a vak szerencse -- a filozófia teszi őket elviselhetővé.
+
+Cserébe viszont a filozófia iránti elköteleződésünket napi szinten erősíteni kell.
+Nem új fogadalmakat kell tenni, hanem megtartani a régieket!
+Illetve nem az alkalmankénti, kiemelkedő teljesítményre kell hajtani.
+Az kb. olyan lenne, mintha egy árus az összes jó portékáját a kirakatba tenné, és aztán a vevő csalódna, amikor belép.
+Sokkal jobb a konzisztens teljesítmény!
+
+Mondhatjuk, hogy a bölcsesség keresése a lelki egészség.
+Anélkül beteg az elménk.
+Na persze "rendben" kell tartani magunkat fizikailag is, de csak mértékkel.
+Nem kell túlzásba vinni és egész nap a testünkön, vagy a világi dolgainkon molyolni!
+Legyen meg gyorsan és egyszerűen, és aztán vissza az agyunkhoz, amit sokkal érdemesebb edzeni.
+
+Fizikai betegségeknél amíg kicsi, addig tagadható, de amint elég nagy lesz, be kell vallanunk (magunknak is).
+Na a fejben ez pont fordítva van: amíg nagy, addig fel sem ismerjük, hogy baj van -- mert akkora baj van.
+Ezért ha már látjuk, hogy baj van, az jó!
+Ha fel szeretnénk gyorsítani a folyamatot, akkor igyekezzünk időnként saját magunkat elítélni és bírálni!
+Hátha ráakadunk valami ellentmondásra, amit nem is úgy kellene csinálnunk...
+Persze onnan még egy valag munka lesz vele, mire változtatunk!
+
+> Tisztában lenni a tévedésünkkel az első lépés a megváltás felé.
+> > A consciousness of wrongdoing is the first step to salvation.
+
+Seneca barátunk elég absztrakt, metafizikás értekezés is bocsátkozik, de a lényeg, hogy a testünk és a szellemünk két különböző dolog -- és legyen a szellemünknél a gyeplő!
+Hogy a test dolgai (az élvezetek keresése vagy a fájdalmak elöl menekülés) ne tudják befolyásolni a józan ítélőképességünket!
+
+<br />
+
+Elfogultnak hangozhat egy filozófustól, de az ún. liberális tanulmányokkal szemben is erősen ajánlott a filozófiát előnyben részesítenünk.
+Lehet, hogy az irodalom izgalmas történeteket mesél, de azt nem mondja meg, hogy a saját életünk izgalmaira hogy reagáljunk.
+Lehet, hogy a matek megtanít rá, hogy mekkora a házunk, de a filozófia tanít meg arra, hogy mekkora házra van szükségünk.
+A gazdaság tanítja meg, hogy hogyan ne veszítsük el a vagyonunk egy kis részét sem, de azt nem, hogy akkor is tudjunk mosolyogni, ha mégis elvesztenénk az egészet!
+
+Az emlegetett liberális tanulmányok arra jók, hogy előkészítsék az agyat.
+Felhúzzák egy olyan szintre, ahol már a morális tanulságokat is be tudja fogadni.
+Mondjuk úgy, hogy köztes állapotok -- de nem szükségesek!
+Könyvek nélkül is lehet valaki bölcs (csak könyvekkel könnyebb).
+Az a fontos, hogy a filozófiával nem az intellektusunkat, hanem a jellemünket kell fejleszteni!
+
+A bátorság, a hűség, az önfegyelem, az emberség...
+Ezek az igazán fontos dolgok!
+Ezeknek kell a hely a fejünkben -- ezért jól válogassuk meg, hogy a többiből mennyire pazarlunk kapacitást!
+
+A _mit_ mellett az sem mindegy, hogy _hogyan_ tanulunk!
+Ugyanabból a könyvből rengeteg lecke kiolvasható.
+Legyen rajtunk a "filozófia szemüveg", és próbáljuk úgy értelmezni az olvasottakat, hogy azok vajon hogyan tudnák az életünket még jobb irányba terelgetni!
+És aztán persze ültessük gyakorlatba a tanultakat!
+Kevés rosszabb, mint a képmutatás; amikor egyesek olyan tanokat hirdetnek, amiket ők maguk sem tartanak be.
+
+> Ki kell vadásznunk a hasznos és nemes tudásmorzsákat amik azonnali, gyakorlati hatással lehetnek az életünkre, és addig tanulni őket, amíg a szavakból tettek nem lesznek.
+> > We should hunt out the helpful pieces of teaching, and the spirited and noble-minded sayings which are capable of immediate practical application and learn them so well that words become works.
+
+A bölcsességért nem kell imádkozni; magunknak kell kikaparni!
+A bölcsességben (és a filozófiában) pont az a legértékesebb, hogy nem osztogatják ingyen.
+Módja viszont mindenkinek van megszerezni...
+
+<br />
+
+Nagyon tetszett az egyik történetben egy iparos válasza arra, hogy ugyan miért szöszmötöl olyan sokat valamin, amit olyan kevesen fognak látni.
+
+> Nekem a kevés is elég; egy is elég lenne; és semennyi is elég lenne.
+> > A few is enough for me; so is one; and so is none.
+
+Vagyis akkor is számít, hogy milyen minőséget ad ki a kezéből, ha azt utána senki nem is fogja látni.
+(Ez egyelőre kísértetiesen emlékeztet a blogra, ami gondosan, a legjobb tudásom szerint írok gyakorlatilag csak magamnak.)
+
+Kell tehát egy ideál -- egy példakép, akihez folyamatosan hasonlíthatjuk magunkat.
+Ha mindent úgy mondunk és teszünk, mintha figyelne, akkor egyből egyenesebbek leszünk.
+
+> Vonalzó nélkül a görbéből sem lesz egyenes.
+> > Without a ruler to do it against you won't make the crooked straight.
+
+De természetesen jól válasszuk meg azokat is, akik véleményére **nem** adunk!
+
+> Ha minden cselekvésre fárasztóként tekintünk az nem igazi pihenés, csak egy gerinctelen tehetetlenség.
+> The state of mind that looks on all activity as tiresome is not true repose, but a spineless inertia.
+
+> Ne kövesd azok példáját, akik a figyelemre sóvárognak, nem a saját fejlődésükre.
+> > Refrain from following the example of those whose craving is for attention, not their own improvement.
+
+<br />
+
+A sok pozitív tanács között akad azért néhány olyan is, hogy mit **ne** tegyünk.
+Ne legyünk például soha részegek, mert az tulajdonképpen egy önként vállalt őrültség, és a mértékletesség teljes hiánya.
+Ügyeljünk emellett a haragunkra is -- ha nem is a mértékletesség, de legalább a saját józan eszünk megőrzése érdekében.
+
+Enyhén kiosztjuk azokat is, akik nem használják ki a napfényt.
+Honnan tudhatnák, hogy _hogyan_ kell élni, amikor még azt sem tudják, hogy _mikor_ kellene?!
+És a kritika kiterjeszthetjük minden "természetellenes" életmódra.
+Ez is leginkább azért van, hogy a figyelmet felkeltsék -- a helyes, természetes életmód egyszerű.
+
+Ne legyünk komolytalanok, akik csak szórakozásból hallgatnak filozófusokat!
+Ha csak a látszat vagy az esetleges későbbi felemlegetés miatt jegyzetelünk, akkor az később is pont annyit fog érni, mint ott helyben: semennyit.
+Legyünk inkább nyitottak, hátha önkéntelenül is ragad ránk valami!
+
+Az idézetek jók egy darabig, mint tanító eszközök, de előbb vagy utóbb mindenkinek a saját lábára kell állnia!
+Jobb ha van egy saját, átfogó filozófiánk, mintha agyatlanul mások szösszeneteinek egy kis csokrára hagyatkozunk.
+Ne mindig csak értelmezők legyünk...
+Legyünk alkotók!
+
+<br />
+
+Mindez persze egy nehéz és lassú folyamat, de higgyünk benne, hogy menni fog!
+
+> Nem azért veszítjük el az önbizalmunkat, mert nehéz; azért nehéz, mert nincs önbizalmunk.
+> > It's not because they're hard that we lose confidence; they're hard because we lack the confidence.
+
+És ha mindössze afelé haladunk, hogy egyre jobban tudunk saját magunk barátai lenni, már az nagy szó!
+
+> Hogy mit haladtam? Kezdek a saját barátom lenni.
+>
+> -- Hecato
+> > What progress have I made? I am beginning to be my own friend.
+
+<br />
 
 
-- már az is fejlődés, ha meglátjuk, hogy mi mindenben kell még fejlődnünk
-- ha afelé haladunk, hogy egyre jobban tudunk saját magunk barátai lenni, az már nagy szó!
-- frankó idézet: válasz arra, hogy egy iparos miért molyol sokat valamit, amit olyan kevesen fognak látni
-    - "Nekem a kevés is elég; egy is elég lenne; és semennyi is elég lenne."
-    - vagyis akkor is számít, hogy mit ad ki a kezéből, ha azt utána senki nem is fogja látni
-    - ez egyelőre kísértetiesen emlékeztet a blogra, ami gondosan, a legjobb tudásom szerint írok gyakorlatilag csak magamnak :D
-- kell egy példakép, akihez folyamatosan hasonlíthatjuk magunkat
-    - mindent úgy mondunk és teszünk, mintha figyelne
-    - egyből egyenesebbek leszünk
-- bölcsesség keresése == egészség
-    - anélkül beteg az elménk, és a testünk is csak úgy lehet erős, ahogy egy önkívületben őrjöngő is erős lehet
-    - na persze "rendben" kell tartani magunkat fizikailag is, de csak mértékkel
-    - nem kell túlzásba vinni és egész nap azon molyolni
-    - legyen meg gyorsan és egyszerűen, és aztán vissza az agyadhoz, amit sokkal érdemesebb edzeni
-- oké, hogy a bölcsesség vezet a boldog (vagy egyáltalán tűrhető) élethez
-    - de ezt napi szinten erősíteni kell ám
-    - nem új fogadalmakat kell tenni, hanem megtartani a régieket
-- a filozófia arra való, hogy utat mutasson
-    - lehet, hogy nem menő vagy szórakoztató, de nem is ez a dolga
-    - mindegy, hogy Isten vagy a sors rendeli-e el a dolgainkat (vagy csak vak szerencse), a filozófia teszi elviselhetővé
-
-- ügyeljünk a haragunkra
-    - ha nem is a mértékletesség, de a saját józan eszünk megőrzése érdekében
-- hogy változhassunk, először tisztában kell lennünk azzal, hogy valami rosszat csinálunk
-    - igyekezzünk ezért időnként magunkat is elítélni és bírálni
-    - hátha ráakadunk valami ellentmondásra, amit nem is úgy kellene csinálnunk...
-- az idézetek jók egy darabig, mint tanító eszközök
-    - de előbb vagy utóbb mindenkinek a saját lábára kell állnia
-    - jobb ha van egy saját, átfogó filozófiánk, mintha mások szösszeneteinek egy kis csokrára hagyatkoznánk
-    - ne mindig csak értelmezők legyünk... legyünk alkotók!
-- a bölcsességért nem kell imádkozni, magunknak kell kikaparni!
-- fizikai betegségeknél amíg kicsi, addig tagadható
-    - de amikor nagy lesz, akkor be kell vallanunk magunknak is
-    - a fejben pont fordítva: amíg nagy, addig fel sem ismerjük, hogy baj van
-    - ezért ha már látjuk, hogy baj van, az már jó!
-        - de aztán persze még egy valag munka lesz vele, mire rendet teszünk!
-- elég absztrakt metafizikás értekezés
-    - de a lényeg, hogy a testünk és a szellemünk két különböző dolog, és a szellemünknél legyen a gyeplő
-    - a test dolgai (élvezetek keresése vagy a fájdalmak elöl menekülés) ne tudja befolyásolni a józan ítélőképességünket!
-- napirend
-    - reggeli futás + hideg fürdő + reggeli
-    - aztán egy kis "alvás"? csak pár percre
-- itt átváltunk a részegség elleni kiselőadásra
-    - Zeno egy elég szar hasonlattal próbálta bizonyítani
-        - de attól, hogy a bizonyítása szar, még igaza volt
-    - önként vállalt őrültség
-    - a mértékletesség teljes hiánya
-- liberális tanulmányok vs. filozófia
-    - lehet, hogy az irodalom izgalmas történeteket mesél, de azt nem mondja meg, hogy a saját életünk izgalmaira hogy reagáljunk
-    - lehet, hogy a matek megtanít rá, hogy mekkora a házunk, de a filozófia tanít meg arra, hogy mekkora házra van szükségünk
-    - megtanítják, hogy hogy ne veszítsem el a földünk egy kis részét sem, de azt nem, hogy akkor is tudjunk mosolyogni, ha elvesztenénk az egészet
-- arra jók, hogy előkészítsék az agyat arra, hogy a morális tanulságokat is be tudja fogadni
-    - mondjuk úgy, hogy köztes állapotok
-    - de nem szükségesek! könyvek nélkül is lehet valaki bölcs (csak könyvekkel könnyebb)
-- bátorság, hűség, önfegyelem, emberség
-    - ezek az igazán fontos dolgok
-    - ezeknek kell a hely a fejünkben -- ezért jól válogassuk meg, hogy a többiből mennyire pazarlunk energiát!
-- a filozófiában és a bölcsességben pont az a legértékesebb, hogy nincs ingyen osztogatva
-    - de módja mindenkinek van megszerezni...
-- a filozófia nem a hétköznapi teendőkkel foglalkozik, hanem a boldogsággal
-    - mi a fontos, mi nem, hogy kell élni, hogy kell gondolkozni...
-- sokan csak szórakozásból hallgatnak filozófusokat
-    - vagy mondjuk jegyzetelnek, de csak a továbbosztás miatt, ami a későbbi hallgatóságnak is pont annyit fog érni, mint a jegyzetelőnek: semennyit.
-    - ha viszont nyitottak vagyunk, akkor önkéntelenül is ragad ránk valami
-- a filozófiával nem az intellektusunkat kell fejleszteni, hanem a jellemünket!
-- ugyanabból a könyvből rengeteg lecke kiolvasható
-    - ezért nem csak az számít, hogy mit olvasunk, hanem az is, hogy _hogyan_!
-    - legyen rajtunk a filozófia szemüveg, és próbáljuk úgy értelmezni az olvasottakat, hogy azok hogyan tudnák az életünket még jobb irányba terelgetni
-    - és aztán persze ültessük a tanultakat gyakorlatba! kevés rosszabb, mint a képmutatás, amivel egyesek olyan tanokat hirdetnek, amiket ők maguk sem tartanak be
-- enyhe kritika azokra, akik nem használják ki a napfényt
-    - honnan tudhatnák, hogy _hogyan_ kell élni, amikor még azt sem tudják, hogy _mikor_ kellene :)
-- és a kritika kiterjesztése minden "természetellenes" életmódra
-    - ez is leginkább azért van, hogy a figyelmet felkeltsék
-    - de a helyes, természetes élet egyszerű
 
 
-> the state of mind that looks on all activity as tiresome is not true repose, but a spineless inertia.
 
-> refrain from following the example of those whose craving is for attention, not their own improvement,
 
-> I’ll tell you what took my fancy in the writings of Hecato today. ‘What progress have I made? I am beginning to be my own friend
 
-> ‘A few is enough for me; so is one; and so is none.’
 
-> The supreme ideal does not call for any external aids. It is homegrown, wholly self-developed. Once it starts looking outside itself for any part of itself it is on the way to being dominated by fortune.
 
-> Without a ruler to do it against you won’t make the crooked straight.
 
-> ‘To live under constraint is a misfortune, but there is no constraint to live under constraint.’
-Epicurus
 
-> ‘A consciousness of wrongdoing is the first step to salvation.’
 
-> And there is nothing so certain as the fact that the harmful consequences of inactivity are dissipated by activity.
 
-> It’s not because they’re hard that we lose confidence; they’re hard because we lack the confidence.
 
-> the puny degenerate spirit which struggles, and which sees nothing right in the way the universe is ordered, and would rather reform the gods than reform itself.
 
-> We should hunt out the helpful pieces of teaching, and the spirited and noble-minded sayings which are capable of immediate practical application and learn them so well that words become works.
 
 
 
@@ -222,7 +257,7 @@ Epicurus
 
 > Nothing is so useful that it can be of any service in the mere passing.
 
-> Philosophy, likewise, tells all other occupations: ‘It’s not my intention to accept whatever time is left over from you; you shall have, instead, what I reject.’
+> Philosophy, likewise, tells all other occupations: ‘It's not my intention to accept whatever time is left over from you; you shall have, instead, what I reject.'
 
 
 
@@ -345,22 +380,24 @@ Epicurus
 
 > It is not the man who has too little who is poor, but the one who hankers after more.
 
-> You ask what is the proper limit to a person’s wealth? First, having what is essential, and second, having what is enough.
+> You ask what is the proper limit to a person's wealth? First, having what is essential, and second, having what is enough.
 
 > we think these things are ours when in fact it is we who are caught.
 
-> Epicurus: ‘If you shape your life according to nature, you will never be poor; if according to people’s opinions, you will never be rich.’
+> Epicurus: ‘If you shape your life according to nature, you will never be poor; if according to people's opinions, you will never be rich.'
 
-> Socrates said to someone who was making the same complaint: ‘How can you wonder your travels do you no good, when you carry yourself around with you? You are saddled with the very thing that drove you away.’
+> Socrates said to someone who was making the same complaint: ‘How can you wonder your travels do you no good, when you carry yourself around with you? You are saddled with the very thing that drove you away.'
 
 > Where you arrive does not matter so much as what sort of person you are when you arrive there.
 
 > I force my mind to become self-absorbed and not let outside things distract it. There can be absolute bedlam without so long as there is no commotion within,
-> For what is the good of having silence throughout the neighbourhood if one’s emotions are in turmoil?
+> For what is the good of having silence throughout the neighbourhood if one's emotions are in turmoil?
 
-> It is in no man’s power to have whatever he wants; but he has it in his power not to wish for what he hasn’t got, and cheerfully make the most of the things that do come his way.
+> It is in no man's power to have whatever he wants; but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way.
 
-> Look at the number of things we buy because others have bought them or because they’re in most people’s houses.
+> Look at the number of things we buy because others have bought them or because they're in most people's houses.
+
+> The supreme ideal does not call for any external aids. It is homegrown, wholly self-developed. Once it starts looking outside itself for any part of itself it is on the way to being dominated by fortune.
 
 
 
@@ -410,7 +447,7 @@ Epicurus
 
 > Trusting everyone is as much a fault as trusting no one
 
-> ‘I shall show you,’ said Hecato, ‘a love philtre compounded without drug or herb or witch’s spell. It is this: if you wish to be loved, love.’
+> ‘I shall show you,' said Hecato, ‘a love philtre compounded without drug or herb or witch's spell. It is this: if you wish to be loved, love.'
 
 > A person adopted as a friend for the sake of his usefulness will be cultivated only for so long as he is useful.
 These are what are commonly called fair-weather friendships.
@@ -529,9 +566,6 @@ These are what are commonly called fair-weather friendships.
     - érdemes ezért havonta/időnként olyan önkéntes szegénységet szimulálni, ami szoktat arra, hogy mi lenne, ha tényleg így járnánk
     - nem nagy cucc, mert a világon sok millió koldus és éhező csinálja nap mint nap
     - de mi _önkéntesen_ csináljuk, és ez benne a nagy szó
-- nem az alkalmankénti, kiemelkedő teljesítményre kell hajtani
-    - az kb. olyan lenne, mintha egy árus az összes jó portékáját a kirakatba tenné, és aztán a vevő csalódna, amikor belép
-    - sokkal jobb a konzisztens teljesítmény
 
 - mellékszálon: nem kell mindent előre tudni, de mindenre fel kell készülni
     - így aztán főleg mindegy, hogy mi lesz
@@ -550,7 +584,7 @@ These are what are commonly called fair-weather friendships.
 
 > No one confines his unhappiness to the present.
 
-> set aside now and then a number of days during which you will be content with the plainest of food, and very little of it, and with rough, coarse clothing, and will ask yourself, ‘Is this what one used to dread?’
+> set aside now and then a number of days during which you will be content with the plainest of food, and very little of it, and with rough, coarse clothing, and will ask yourself, ‘Is this what one used to dread?'
 
 > It is in times of security that the spirit should be preparing itself to deal with difficult times;
 
@@ -560,7 +594,10 @@ These are what are commonly called fair-weather friendships.
 
 > It is essential to make oneself used to putting up with a little.
 
+> the puny degenerate spirit which struggles, and which sees nothing right in the way the universe is ordered, and would rather reform the gods than reform itself.
 
+> ‘To live under constraint is a misfortune, but there is no constraint to live under constraint.'
+Epicurus
 
 
 
