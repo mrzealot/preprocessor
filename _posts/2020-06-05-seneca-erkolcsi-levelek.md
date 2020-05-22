@@ -6,42 +6,44 @@ date: 2020-06-05 00:01
 excerpt: >
 ---
 
-https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic
+Gyakran ajánlott olvasási "módszertan", hogy igyekezzünk minden könyv esetén legalább egy-egy hivatkozott/kapcsolódó kötetet is elolvasni.
+Így idővel sokkal teljesebben lefedhetjük az adott területet, és mellesleg kb. soha nem fogunk kifogyni az olvasnivalókból.
+Úgy döntöttem ezért, hogy az első, mindent (nagyon felületesen) érintő adag végeztével futok még egy kört -- az eddigi könyvek hivatkozásai alapján.
+Bőven ráérek majd utána új szálakat indítani vagy egy specifikus témára rászállni...
 
-# Jegyzetek
+Első állomásunk ugye [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) elmélkedésekkel teli naplója volt, ezért a mostani célunk az ott tanultakat továbbgondolni.
+Mivel azonban Marcus személyiségénél fontosabb maga sztoikus filozófia, a szigorú értelemben vett "hivatkozás" helyett egy tematikusan kapcsolódó kötetet választottam.
+Heti áldozatunk [Lucius Annaeus Seneca -- Erkölcsi levelek](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic){:target="_blank"} című gyűjteménye.
 
-- karrierje
-    - kétszer is száműzték, de aztán tehetségének köszönhetően csak visszakerült a húsosfazék közelébe
-    - Nero tanítója és tanácsadója volt sokáig
-    - egy ideig igazából nála volt a tényleges hatalom
-    - de emiatt került később a feketelistára is
-    - visszavonult, de pár évre rá (egy összeesküvés lelepleződése miatt, amiben lehet, hogy benne sem volt) "megkérték", hogy legyen öngyilkos
-- karaktere
-    - sok vád érte, hogy nem ért fel azokhoz a magasztos elvekhez, amiket prédikált
-        - de nagy vagyona ellenére egyszerűen étkezett, aludt, fürdött, és edzett
-        - állítása szerint a gazdagsághoz való hozzáállása sokkal többet elmond, mint a gazdagsága
-    - van, aki azt is kritizálja, hogy nem szállt nyíltan szembe az ellene forduló Nero-val, és inkább visszavonult
-        - de ha így addig is tovább filozofálhatott és lényeges műveket írhatott, akkor nem jobb így mindenkinek?
-- filozófiája
-    - a sztoicizmusnak átfogó (és időnként változatos) logikai és kozmológiai véleményei is voltak
-    - de a mi szemszögünkből a lényeg a morális tanítások, amik relatíve stabilak
-    - minden ember testvér, és mindenkinek a felsőbb akarat szerint kell élnie az életét
-        - ezért a természet törvényeinek megfelelően kell élni és panaszkodás nélkül, _teljesen_ elfogadni azt, amit a sors hoz
-        - ebből következik, hogy nem szabad nagy értéket tulajdonítani olyan dolgoknak, amiket a sors bármikor elvehet tőlünk
-    - a természetnek pedig úgy lehet megfelelni, ha a szükséges dolgokra figyelünk (minimalizmus kb. beépítve) és emellett élesítjük az elménket (mert az különböztet meg az állatoktól) hogy legyőzhessük a fájdalomtól/haláltól való félelmet
-    - a bölcsesség, hogy ezeket meglássuk + kellő bátorság és önkontroll, hogy be is tartsuk + igazságosság másokkal = a legfőbb ideál (erényes, erkölcsös élet)
-    - ami viszont megakadályozta a sztoicizmus szélesebb körű elterjedését, az leginkább az, hogy mennyire magas elvárásokat támasztott, és látszólagosan az "egyből 100%" volt az elvárás.
-        - ezzel szemben Seneca sokat tett azért, hogy humanizálja az irányzatot, és hogy fokozatosságot adjon hozzá
-        - úgy is lehet a "végső" erények felé törekedni, hogy még nincs mindenben ott az ember...
-        - Seneca sztoicizmusa tehát sokkal inkább a közembernek íródott mint a fanatikusoknak
-        - ha a mások megtérítése a célunk, akkor nem lehetünk túl különbözőek tőlük, mert nem lesznek velünk empatikusak
-        - szabad a barátokat meggyászolni, szabad a saját tökéletlenségünk ellenére is törekedni...
-- irodalmilag
-    - legfontosabbak ezek a levelek, amik utána maradtak
-    - stílusában nehézkesen emészthető a modern közönség számára
-        - szinte minden mondata idézhető önmagában, de egyben nagyon tömör
-        - egyesek szerint az írási stílusával épphogy elvett a tanításai erejéből
+Szerzőnk tehetségének köszönhetően többszöri száműzetésből is hatalmi pozícióba tudott visszakapaszkodni.
+Később Nero császár tanítója/tanácsadója volt (de ezt ne vessük a szemére), és jó ideig az ő kezében volt az igazi irányítás.
+Nekünk azonban mégis a "nyugdíjas" időszaka a legfontosabb, amikor is megfogalmazta erkölcsi leveleit egy fiatal barátjának.
+Ezekből pedig alapos, mégis emberi képet kaphatunk a sztoikusok értékrendjéről.
 
+Talán az akadályozta meg leginkább a sztoicizmus szélesebb körű elterjedését, hogy mennyire magas elvárásokat támasztott a követőivel szemben.
+Egyből 100%, nincs kecmec!
+Magát Seneca-t is sok vád érte, hogy nem ért fel azokhoz a magasztos elvekhez, amiket prédikált.
+De jelentős vagyona ellenére egyszerűen étkezett, aludt, fürdött, és edzett.
+Saját állítása szerint a gazdagsághoz való hozzáállása sokkal többet elmond, mint a gazdagsága.
+
+Seneca sokat tett azért, hogy humanizálja az irányzatot, és hogy fokozatosságot adjon a szigor mellé.
+Sztoicizmusa tehát sokkal inkább a közembernek íródott mint a fanatikusoknak.
+Végül is ha mások megtérítése a célunk, akkor nem lehetünk **túl** különbözőek tőlük...
+Miért ne lehetne úgy is a "végső" erények felé törekedni, hogy még nem vagyunk mindenben tökéletesek?
+
+Ezt az összefoglalót is igyekeztem a [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %})-os bejegyzés mintájára tematikusan csoportosítani, és idézetekkel gazdagon megszórni.
+Maguk a kategóriák is (nem meglepő módon) nagyon hasonlóan alakulnak:
+
+- [Önfejlesztés](#önfejlesztés)
+- [Fókusz](#fókusz)
+- [Tanítás](#tanítás)
+- [Minimalizmus és ragaszkodás](#minimalizmus)
+- [Barátok](#barátok)
+- [Beilleszkedés](#beilleszkedés)
+- [Felkészülés és elfogadás](#felkészülés)
+- [Öregkor és halál](#halál)
+
+<br />
 
 
 
@@ -232,32 +234,44 @@ Mindez persze egy nehéz és lassú folyamat, de higgyünk benne, hogy menni fog
 
 ## Fókusz
 
-- ne ugráljunk könyvről könyvre, ötletről ötletre anélkül, hogy megemésztenénk
-    - ássuk bele magunkat mélyebben egy-egy témába, és az többet fog érni, mint érintőlegesen belekóstolni többe
+A filozófia egy teljes munkaidős állás.
+Persze ezt egy gazdag arisztokratának könnyebb mondania a szolgákkal ellátott birtokáról, de attól még nem lesz kevésbé igaza.
+Ha betegek lennénk, akkor sem a munkával törődnénk a saját egészségünk helyett.
+De a fejünk közben "beteg", és a filozófia az egyetlen, ami kigyógyíthatja.
+Prioritást kell ezért csinálnunk belőle -- nem elég csak olyankor foglalkozni vele, amikor a körülmények engedik!
 
-- logika fikázás
-    - nem kell ilyen absztrakt, értelmetlen, szó-kifacsaró vitákra pazarolni az időt
-    - a filozófiának az a szerepe, hogy tanácsot adjon! hogy segítsen a boldogtalanoknak!
-    - meg kell mutatni, hogy a természet törvényei milyen egyszerűek
-        - hogy aki azokat követi, az milyen könnyen boldog lehet
-        - és hogy aki nem, az milyen könnyen lehet boldogtalan!
-- ha az egész életünk is hátra lenne még, akkor is kevés az idő
-    - nem pazarolhatjuk ezért olyan dolgokra, amik nem szükségesek!
-- a filozófia egy teljes munkaidős állás
-    - ha beteg lennél, akkor sem a munkával törődnél
-    - de a fejed "beteg", és a filozófia az egyetlen, ami kigyógyíthatja
-    - ezért nem elég csak olyankor foglalkozni vele, amikor a körülmények engedik
-- ésszel kell a tanulás ütemét is megválasztani
-    - kb.: több nap, mint kolbász
-    - nem elég csak úgy belekóstolgatni, de az sem jó, ha folyamatosan csak úgy ömlik
-    - szépen fokozatosan, mértékkel... és ahogy egyre többet tudunk majd, úgy egyre jobban tágul is az elménk a még több befogadásához
-- az idő sokkal gyorsabban telik, mint azt érzékeljük, ezért tessék munkához látni
-    - sőt, a legjava van elöl, amikor még fiatalok és egészségesek vagyunk
-    - ezért jobban tennénk, ha kihasználnánk a pazarlás helyett
+> A filozófia azt mondja minden más elfoglaltságnak: "Nem áll szándékomban annyi idővel beérni, amennyi utánatok marad; ehelyett inkább _rátok_ fog csak annyi jutni, amennyit én meghagyok."
+> > Philosophy [...] tells all other occupations: "It's not my intention to accept whatever time is left over from you; you shall have, instead, what I reject."
 
+Ha még az egész életünk hátra lenne, akkor is kevés lenne az idő!
+Nem pazarolhatjuk tehát olyan dolgokra, amik nem _szükségesek_.
+Különben is, az idő sokkal gyorsabban telik, mint azt érzékeljük -- úgyhogy tessék munkához látni!
+Sőt, a legjava van elöl, amikor még fiatalok és egészségesek vagyunk.
+Jobban tennénk, ha kihasználnánk az elpazarlás helyett...
+
+És ha már csináljuk, tegyük bele az energiát!
+Ne ugráljunk könyvről könyvre, ötletről ötletre anélkül, hogy megemésztenénk.
+Ássuk bele magunkat mélyebben egy-egy témába, és az többet fog érni, mint érintőlegesen belekóstolni többe.
+
+> Semmi nem annyira hasznos, hogy akár már futólag is szolgálatot tehetne.
 > Nothing is so useful that it can be of any service in the mere passing.
 
-> Philosophy, likewise, tells all other occupations: ‘It's not my intention to accept whatever time is left over from you; you shall have, instead, what I reject.'
+Az akkori divatnak megfelelően arra is figyelmeztet, hogy ne fecséreljük absztrakt, értelmetlen, szó-kifacsarós vitákra az időnket.
+Ez leginkább arra utal, hogy filozófia és filozófia között is mekkora különbség lehet.
+A mai viszonylatokban viszont én inkább azt mondanám, hogy ne hanyagoljuk csak úgy az egész területet!
+A filozófiának az a szerepe, hogy tanácsot adjon, és hogy segítsen a boldogtalanoknak -- és lássuk be, ez azért manapság is ránk fér!
+Meg kell valahonnan tanulnunk, hogy a természet törvényei milyen egyszerűek.
+Hogy aki azokat követi, az milyen könnyen boldog lehet!
+És hogy aki nem, az pedig milyen könnyen lehet boldogtalan...
+
+Persze azért ésszel kell a tanulás ütemét is megválasztani -- kb. "több nap, mint kolbász" elven.
+Mondtuk ugye, hogy nem elég csak úgy belekóstolgatni, de az sem jó, ha egyből csak úgy ömlik!
+Szépen fokozatosan, mértékkel...
+De ezért is kell nekiesnünk: hogy még szépen fokozatosan is legyen időnk messzire jutni.
+
+
+
+
 
 
 
@@ -278,47 +292,45 @@ Mindez persze egy nehéz és lassú folyamat, de higgyünk benne, hogy menni fog
 
 ## Tanítás
 
-- lehet úgy is tökéletes a belső ideálunk, hogy kívülről nem vagyunk tökéletesek
-    - ha túlzottan eltérünk a "csőcseléktől", akiket megreformálni szeretnénk a példamutatásunkkal, akkor vonakodnak majd bármiben is követni
-    - nem kell kulináris ínyencségekkel megtölteni az asztalt, ha egyszer az egyszerűségre és a természetességre törekszünk, de ugyanakkora hülyeség lenne a hétköznapi sztenderdnél is lejjebb adni csak azért, hogy azzal villogjunk
-- a tanulás egyik legnagyobb előnye, hogy olyan pozícióba hoz, ahol taníthatsz és megoszthatod a tudásod
-- a tanítók és mentorok személyes benyomása többet jelenthet, mint maga a tanításuk --> ezért érdemes személyesen is jelen lenni
-- jó mellékszál a végén: mindegy egy idézetnél, hogy ki mondta... az a lényeg, hogy igaz!
-- nem orvosként ad tanácsot a "beteg" Lucilius-nak, hanem mint egy másik beteg ugyanabban a kórházban, aki ugyanabban szenved
-- a tanítás sem feltétlen segít ezen a helyzeten (mármint az idézetekre való túlzott hagyatkozáson), ha csak egy "titkári" minőségben más hangját hallatjuk
-    - tegyük hozzá a saját értelmezésünket, tegyük a magunkévá!
-    - ha csak vakon követünk, akkor nem hogy nem fogunk semmi újat találni, de még csak nem is keressük!
-- a levelezéssel kapcsolatban: az előkészített és fennhangon elmondott előadások is lehetnek hatékonyak, de a személyesebb, "halkabban elmondott" jótanácsok jobbak
-    - főleg ha tanítani akarunk, nem csak rávenni a tanulásra
-    - illetve: a filozófia tulajdonképpen csak jótanácsok
-- tanárként és nyilvános szónokként nem igazán bizalomgerjesztő, ha hadar az ember
-    - ha az elméje rendezett (az márpedig itt nem árt), akkor az előadásmódja is legyen rendezett
-    - nyilván ne is legyen lassabb vagy vontatottabb, mint kellene
-        - de ha nem megy az arany középút, akkor inkább lassabb legyen, minthogy elmenjen a fülük mellett
-- versben vagy elmés idézetben megfogalmazva sokkal nagyobbat tud ütni ugyanaz az üzenet, ami prózában nem is lenne akkora szám
-    - de ha azzal megfogjuk a hallgatóságot, akkor utána azért prózával is erősítsünk rá
-    - ha a célunk a hallgatóság "meggyógyítása" és az üzenetünk igaz, akkor a magunk oldalára állíthatjuk az érzelmeket
-        - a baj csak ott jön, hogy ez majd meddig tart ki a másik fejében, és hogy tettre inspirálja-e...
-- ha nem is marad meg olyan élesen a lecke, talán az is segít, ha egyáltalán _valami_ megmarad belőle
-    - a jó útra terelgetésben itt az abszolút ideált mutatják, hogy azt célozva legalább a "félig-meddig" eredmény is jelentős lehessen
+> A tanulásban lelt örömöm részben annak köszönhető, hogy így tanítói szerepbe is kerülhetek.
+> > Part of my joy in learning is that it puts me in a position to teach.
 
-> In the case of some sick people it is a matter for congratulation when they come to realize for themselves that they are sick.
+De ez természetesen nem jelenti a tanulási folyamat végét -- annak ugye jó esetben soha nincs vége.
+A jó tanár nem orvosként ad tanácsot a "betegnek", hanem sokkal inkább mint egy másik beteg ugyanabban a kórházban, aki ugyanabban szenved.
 
-> part of my joy in learning is that it puts me in a position to teach;
+Mint ahogy a tanulásnál már említettük, a tanításnál sem feltétlen szerencsés, ha túlzottan az idézetekre hagyatkozunk.
+Ilyenkor egy "titkári" minőségben kb. csak más hangját hallatjuk...
+Rakjuk mellé a saját értelmezésünket!
+Tegyük a magunkévá!
+Ha csak vakon követünk másokat, akkor nem hogy nem fogunk semmi újat találni, de még csak nem is keressük!
 
-> What is required is not a lot of words but effectual ones.
+És ha már "tegyük magunkévá": a tanítók és mentorok személyes benyomása időnként többet jelenthet, mint maga a tanításuk.
+Érdemes lehet ezért személyesen is jelen lenni és inspirálni.
+Ez persze csak akkor működik, ha hitelesek vagyunk -- és nem épp bort iszunk a vizet prédikálás közben.
 
-> People prone to every fault they denounce are walking advertisements of the uselessness of their training.
+> Akik hajlamosak mindarra, ami ellen prédikálnak, azok igazából két lábon járó hirdetései a saját tanításaik haszontalanságának.
+> > People prone to every fault they denounce are walking advertisements of the uselessness of their training.
 
+Ha már az üzenet stimmel, az előadásmódra is akad egy két megjegyzés.
+Például elég részletesen kivesézzük, hogy tanárként és nyilvános szónokként nem igazán bizalomgerjesztő, ha hadar az ember.
+Ha az elméje rendezett (az márpedig itt nem árt), akkor az előadásmódja is legyen rendezett.
+Nyilván nem cél, hogy a kelleténél lassabb vagy vontatottabb legyen a tempó -- de ha nem megy az arany középút, akkor inkább lassabb legyen, minthogy elmenjen a közönség füle mellett!
 
+> Nem sok szóra van szükség, csak hatásosakra.
+> > What is required is not a lot of words but effectual ones.
 
+További tipp, hogy versben vagy elmés idézetben megfogalmazva sokkal nagyobbat tud ütni ugyanaz az üzenet, ami prózában nem is lenne akkora szám.
+De ha azzal megfogjuk a hallgatóságot, akkor utána azért prózával is erősítsünk rá!
+Ha a célunk a hallgatóság "meggyógyítása" és az üzenetünk igaz, akkor a magunk oldalára állíthatjuk az érzelmeiket.
+A baj csak ott jön, hogy ez majd meddig tart ki a másik fejében?
+És hogy tettre inspirálja-e?
+Bár ha már **valami** megmarad, az önmagában siker...
 
+Illetve a levelezéssel kapcsolatban: az előkészített és fennhangon elmondott előadások is lehetnek hatékonyak, de a személyesebb, "halkabban elmondott" jótanácsok még jobbak (ha módunk van rá).
+Főleg ha tanítani akarunk, nem csak rávenni a tanulásra.
+Ne feledjük, hogy a filozófia tulajdonképpen csak egy csokor jótanács.
 
-
-
-
-
-
+<br />
 
 
 
@@ -339,7 +351,24 @@ Mindez persze egy nehéz és lassú folyamat, de higgyünk benne, hogy menni fog
 
 
 
-## Minimalizmus és ragaszkodás
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="minimalizmus"></a>Minimalizmus és ragaszkodás
 
 - ne akarjunk többet, mint ami elég
 - akkor lehetünk csak szabadok, ha a dolgok és az élvezetek helyett a filozófiánk (elveink?) szolgálatába állítjuk az életünket
@@ -479,6 +508,9 @@ These are what are commonly called fair-weather friendships.
 
 ## Beilleszkedés
 
+- lehet úgy is tökéletes a belső ideálunk, hogy kívülről nem vagyunk tökéletesek
+    - ha túlzottan eltérünk a "csőcseléktől", akiket megreformálni szeretnénk a példamutatásunkkal, akkor vonakodnak majd bármiben is követni
+    - nem kell kulináris ínyencségekkel megtölteni az asztalt, ha egyszer az egyszerűségre és a természetességre törekszünk, de ugyanakkora hülyeség lenne a hétköznapi sztenderdnél is lejjebb adni csak azért, hogy azzal villogjunk
 - az önfejlesztés fasza, de csak akkor, ha tényleg önmagunk fejlesztéséért csináljuk
     - ha a külső megbecsülésért és visszajelzésért, akkor már rég rossz
 - a tömegek könnyen "megrontják" az ember fejét
@@ -558,7 +590,7 @@ These are what are commonly called fair-weather friendships.
 
 
 
-## Felkészülés és elfogadás
+## <a name="felkészülés"></a>Felkészülés és elfogadás
 
 - ha lemondunk a reményeinkről, akkor búcsút inthetünk a félelmeinknek is
     - mindkettő abból fakad ugyanis, hogy nem tudjuk magunkat a jelenre korlátozni, előre és utólag is aggódunk
@@ -628,7 +660,7 @@ Epicurus
 
 
 
-## Öregkor és halál
+## <a name="halál"></a>Öregkor és halál
 
 - az öregkor is ugyanolyan élvezetes lehet, ha az ember tudja megfelelően élvezni
     - vagy, akár az is lehet, hogy addigra már kinőjük a élvezetek iráni vágyainkat... és AZ is jó!
