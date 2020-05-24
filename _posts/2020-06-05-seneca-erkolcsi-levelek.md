@@ -37,7 +37,7 @@ Maguk a kategóriák is (nem meglepő módon) nagyon hasonlóan alakulnak:
 - [Önfejlesztés](#önfejlesztés)
 - [Fókusz](#fókusz)
 - [Tanítás](#tanítás)
-- [Minimalizmus és ragaszkodás](#minimalizmus)
+- [Minimalizmus](#minimalizmus)
 - [Barátok](#barátok)
 - [Beilleszkedés](#beilleszkedés)
 - [Felkészülés és elfogadás](#felkészülés)
@@ -254,7 +254,7 @@ Ne ugráljunk könyvről könyvre, ötletről ötletre anélkül, hogy megemész
 Ássuk bele magunkat mélyebben egy-egy témába, és az többet fog érni, mint érintőlegesen belekóstolni többe.
 
 > Semmi nem annyira hasznos, hogy akár már futólag is szolgálatot tehetne.
-> Nothing is so useful that it can be of any service in the mere passing.
+> > Nothing is so useful that it can be of any service in the mere passing.
 
 Az akkori divatnak megfelelően arra is figyelmeztet, hogy ne fecséreljük absztrakt, értelmetlen, szó-kifacsarós vitákra az időnket.
 Ez leginkább arra utal, hogy filozófia és filozófia között is mekkora különbség lehet.
@@ -368,65 +368,98 @@ Ne feledjük, hogy a filozófia tulajdonképpen csak egy csokor jótanács.
 
 
 
-## <a name="minimalizmus"></a>Minimalizmus és ragaszkodás
+## Minimalizmus
 
-- ne akarjunk többet, mint ami elég
-- akkor lehetünk csak szabadok, ha a dolgok és az élvezetek helyett a filozófiánk (elveink?) szolgálatába állítjuk az életünket
-    - a kajánk, a ruhánk, és a házunk is legyen olyan, ami megteszi, de ne jobb
-- vigyázni kell mindennel, amit a sors "dob"
-    - érdemes csapdaként tekinteni rá, mert ahogy jött, úgy el is tűnhet
-    - ha ráfüggünk, akkor tulajdonképpen a tárgy birtokolt minket, és nem fordítva
-- nagy különbség van aközött, hogy milyen körülmények között _tudnánk_ boldogok lenni, és milyen körülményeket választanánk, ha tehetnénk
-    - az igazi sztoikus bölcs akkor is teljesnek érezné magát, ha levágnák egy kezét, de attól még persze preferálná, ha _nem_ vágnák le
-    - ugyanígy a barátokra is: nem arról van szó, hogy az embernek ne legyen barátja, vagy hogy ne akarjon barátot; csak arról, hogy ne legyen _szüksége_ barátra! tudjon magában is boldog lenni!
-- boldogság = elég az, ami van.
-    - nem kell aggódni, hogy "rossz kezekbe kerül", mert hiába hangzik egyszerűen, elég nagy bölcsességet igényel az, hogy tényleg elégedettek tudjunk lenni azzal, amink van
-- legyünk hálásak azért, amink van, és ne idegeskedjünk azon, amink (még) nincs, vagy csak "lesz"
-- a költözés/utazás azért nem segít, mert mi magunk továbbra is ott leszünk
-    - pont azt nem tudjuk hátrahagyni, ami miatt menekülünk
-    - lehet, hogy magunktól a vidéket választanánk, de a városban is el kell tudnunk boldogulni
-- a házát is leírja, aminek kapcsán újra előkerül: nem a házad határozza meg a hangulatodat
-- örömmel tölti el, hogy már nem izgatják annyira a hírek, se a pénzügyei, mert belül békében van
-- kemény minimalizmus érvelés
-    - egy régi nagy karakter (Scipio) felemlegetése, aki önként mondott le a pozíciójáról, és vonult vissza
-    - de akkor is olyan helyre, ami jól védhető és funkcionális volt
-    - a Seneca korabeliek szemében egy lepratelep, mégis megfelelt az egyik legnagyobb embernek
-    - akkor most nekünk minek is ez a sok csicsa?
-- megint a minimalizmus
-    - a bölcsességnek semmi köze a technológiai fejlődéshez
-    - az intelligencia adja a képesség részét, de hogy mindez kellene-e... ha ahhoz nem ártana egy kis bölcsesség
-    - ha meg tudnánk elégedni azzal, amit a földünk ad, akkor a szakácsokra is ugyanakkora szükség lenne, mint a katonákra... semmi.
-- minden, ami kell, könnyen elérhető, és nem igényel nagy idő/energia befektetést
-    - mi tesszük a saját dolgunkat nehezebbé
-- régen még sokkal inkább úgy éltek az emberek, mint ahogy ma is kellene
-    - közel a természethez, minimalistán, egyszerűen
-    - de nagy különbség van aközött, hogy úgy döntünk, nem teszünk rosszat, és aközött, hogy nem is tudjuk, hogy kellene rosszat tenni
-    - a mai emberek már jócskán tudnak rosszat tenni, viszont teszik is
-    - az igazi bölcsesség onnan jönne, hogy már tudnánk, de tudatosan az választjuk, hogy nem tesszük
-        - megint: bátorság, önkontroll, igazság, emberség
-- sok ismétlés, amiről már volt szó
-    - utazás == magában hatástalan, bölcs elmével pedig szükségtelen
+Nagyon egyszerűen: ne akarjunk többet, mint ami elég.
+Ideális esetben a kajánk, a ruhánk, és a házunk is legyen olyan, ami megteszi -- de ne jobb.
+Akkor lehetünk csak "szabadok", ha a dolgok és az élvezetek helyett a filozófiánk (az elveink?) szolgálatába állítjuk az életünket.
+Legyünk hát hálásak azért, amink van, és ne idegeskedjünk azon, amink (még) nincs!
 
-> It is not the man who has too little who is poor, but the one who hankers after more.
+> Nem az a szegény, akinek túl kevés jut, hanem az, aki még többet akar.
+> > It is not the man who has too little who is poor, but the one who hankers after more.
 
-> You ask what is the proper limit to a person's wealth? First, having what is essential, and second, having what is enough.
+> Nézd meg, mennyi mindent veszünk csak azért, mert másoknak is van.
+> > Look at the number of things we buy because others have bought them or because they're in most people's houses.
 
-> we think these things are ours when in fact it is we who are caught.
+Minden, ami igazán _kell_, az relatíve könnyen elérhető, és nem igényel nagy idő/energia befektetést.
+Mi tesszük a saját dolgunkat nehezebbé.
+Régen még sokkal inkább úgy éltek az emberek, mint ahogy ma is kellene -- közel a természethez, 
+minimalistán, egyszerűen.
 
-> Epicurus: ‘If you shape your life according to nature, you will never be poor; if according to people's opinions, you will never be rich.'
+> Ha a természethez igazítod az életedet, soha nem leszel szegény; ha mások véleményéhez, akkor soha nem leszel gazdag.
+>
+> -- Epicurus
+> > If you shape your life according to nature, you will never be poor; if according to people's opinions, you will never be rich.
 
-> Socrates said to someone who was making the same complaint: ‘How can you wonder your travels do you no good, when you carry yourself around with you? You are saddled with the very thing that drove you away.'
+De nagy különbség van aközött, hogy úgy döntünk, nem teszünk rosszat; és aközött, hogy nem is tudjuk, hogy kellene rosszat tenni.
+Az őseink érdemeit azért nem illik túlbecsülni, mert ők még nem is voltak képesek ilyen pofátlan pazarlásra, amit manapság láthatunk.
+A mai emberek pedig már jócskán tudnak rosszat tenni, viszont sajnos teszik is.
+Az igazi bölcsesség onnan jönne, hogy habár tudnánk, tudatosan mégis az választjuk, hogy nem tesszük.
 
-> Where you arrive does not matter so much as what sort of person you are when you arrive there.
+> Senkinek nem lehet meg mindene, amit akar; viszont mindenkinek hatalmában áll nem vágyni arra, amije nincs, és vidáman kihozni a legtöbbet abból, amije van.
+> > It is in no man's power to have whatever he wants; but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way.
 
-> I force my mind to become self-absorbed and not let outside things distract it. There can be absolute bedlam without so long as there is no commotion within,
-> For what is the good of having silence throughout the neighbourhood if one's emotions are in turmoil?
+A másik oldalról nézve: olyankor is vigyázni kell a sors ajándékaival, amikor látszólag semmi akadálya a túlzásba esésnek.
+Érdemes csapdaként tekinteni rá, mert ahogy jött, úgy el is tűnhet.
+Ha viszont menet közben ráfüggünk, akkor tulajdonképpen a tárgy birtokol minket, és nem fordítva.
 
-> It is in no man's power to have whatever he wants; but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way.
+> Azt gondoljuk, hogy ezek a tárgyak a mieink, pedig igazából azok kaptak el minket.
+>
+> -- Tyler Durden... jha nem is, Seneca.
+> > We think these things are ours when in fact it is we who are caught.
 
-> Look at the number of things we buy because others have bought them or because they're in most people's houses.
+A fentiek fényében igyekezzünk tudatosítani magunkban, hogy a boldogságunk nagyban független a körülményeinktől.
+Vagy ahogy a szerző mondja:
 
-> The supreme ideal does not call for any external aids. It is homegrown, wholly self-developed. Once it starts looking outside itself for any part of itself it is on the way to being dominated by fortune.
+> A legfelsőbb erkölcs nem szorul külső segítségre. Teljesen "házi termesztésű". Amint elkezdi bármilyen részét is magán kívül keresni, kiteszi magát a sors szeszélyeinek.
+> > The supreme ideal does not call for any external aids. It is homegrown, wholly self-developed. Once it starts looking outside itself for any part of itself it is on the way to being dominated by fortune.
+
+Ezekből egyenesen következik, hogy a lakhelyünk sem szabad, hogy meghatározza a hangulatunkat.
+Felemlegetjük (egy látogatás keretein belül) Scipio hadvezért is, aki hírneve és vagyona ellenére egy (Seneca kortársai szemszögéből) lepratelepre vonult vissza.
+Ha egy olyan nagy embernek az elég volt, akkor most nekünk minek is ez a sok csicsa?
+Seneca is beköltözött időnként a saját vidéki házából egy zsúfolt, zajos városi lakásba, hogy erre emlékeztesse magát.
+
+> Kényszerítem az elmémet, hogy a külső elterelések helyett magával foglalkozzon. Lehet kívül teljes a téboly, ha belül nincs nyugtalanság.
+> > I force my mind to become self-absorbed and not let outside things distract it. There can be absolute bedlam without so long as there is no commotion within.
+
+> Mi értelme, hogy csend van a szomszédságban, ha a saját érzelmeink zavarosak?
+> > For what is the good of having silence throughout the neighbourhood if one's emotions are in turmoil?
+
+Külön kitérünk még a költözködésekre és az utazásra is, amik ugyanazért nem működnek: mi magunk továbbra is ott leszünk.
+Pont azt nem tudjuk hátrahagyni, ami miatt menekülünk.
+Lehet, hogy magunktól a vidéket választanánk, de a városban is el kell tudnunk boldogulni!
+Az utazás tehát önmagában hatástalan, bölcs elmével pedig szükségtelen.
+
+> Miért csodálkozol, hogy az utazásaid nem tesznek jót, amikor saját magad továbbra is magaddal viszed? Pont azzal vagy felnyergelve, ami innen is elkergetett.
+>
+> -- Socrates
+> > How can you wonder your travels do you no good, when you carry yourself around with you? You are saddled with the very thing that drove you away.'
+
+> Nem annyira az számít, hogy hova érkezel, mint hogy milyen emberként érkezel oda.
+> > Where you arrive does not matter so much as what sort of person you are when you arrive there.
+
+Seneca mérsékelt szigora miatt megjegyezzük azért: nagy különbség van aközött, hogy milyen körülmények között _tudnánk_ boldogok lenni, és milyen körülményeket választanánk, ha tehetnénk.
+Az igazi sztoikus bölcs akkor is teljesnek érezné magát, ha levágnák egy kezét -- de attól még persze preferálná, ha _nem_ vágnák le.
+Ugyanígy a bármi más külső tényezőre is: nem arról van szó, hogy az embernek ne legyen valamije, vagy hogy ne is _akarjon_ valamit.
+A lényeg az, hogy ne legyen **szüksége** rá, és tudjon nélküle is boldog lenni!
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -457,29 +490,34 @@ Ne feledjük, hogy a filozófia tulajdonképpen csak egy csokor jótanács.
 
 ## Barátok
 
-- vigyázz, hogy kiket nevezel a barátaidnak
-    - ha viszont egyszer barátok, akkor onnantól bánj velük nyíltan és beszélj meg velük mindent
-    - a bizalom és a bizalmatlanság között is kell egyféle egyensúly
-    - ugyanúgy, mint a tettek és a relaxálás között
-- a barátság üzenet itt is elhangzik tömören, aminek a technikai részleteit a [friends]() posztban boncolgattuk: ha azt akarod, hogy szeressenek, szeress!
-    - a barátok nem arra valók, hogy kaphass, hanem hogy adhass
-    - ha a barátságban nem maga a barátság a célunk, akkor az egy üzleti kapcsolat, nem barátság
-    - a szerelem is igazából csak egy őrült fajta barátság :)
-- barátság ismétlés
-    - ha nem tartom a másik érdekeit is ugyanúgy szem előtt, mint a sajátjaimat tudnám, akkor nem igazi barát
-    - sokaknak sokféle jelentéssel bírhat a "barát" szó, de mi igyekezzünk nem azt keresni, hogy mit adhat, hanem hogy mit adhatunk!
-- a barátaink társaságát akkor is élvezhetjük, ha távol vannak
-    - gondolhatunk rájuk
-    - másrészt a következő együttlétet is csak jobbá teszi, ha egy kis szünetet tartunk
-- van, hogy másokért is érdemes életben maradnunk
-    - a felesége aggodalmai miatt kezdett el jobban figyelni magára
+Az első, barátokra vonatkozó tanács, hogy vigyázzunk, kiket nevezünk barátnak:
 
-> Trusting everyone is as much a fault as trusting no one
+> Mindenkiben megbízni ugyanolyan hiba, mint senkiben sem bízni.
+> > Trusting everyone is as much a fault as trusting no one.
 
-> ‘I shall show you,' said Hecato, ‘a love philtre compounded without drug or herb or witch's spell. It is this: if you wish to be loved, love.'
+Ha viszont egyszer barátok, akkor onnantól bánjunk velük nyíltan és beszéljünk meg velük mindent!
+A bizalom és a bizalmatlanság között is kell egyféle egyensúly, de legyen ez inkább a mennyiségben, ne a minőségben!
 
-> A person adopted as a friend for the sake of his usefulness will be cultivated only for so long as he is useful.
-These are what are commonly called fair-weather friendships.
+A barátságok ápolásának üzenete is elhangzik tömören -- aminek a technikai részleteit a [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) posztban boncolgattuk:
+
+> Ha azt akarod, hogy szeressenek, szeress!
+>
+> -- Hecato
+> > If you wish to be loved, love.
+
+A barátok nem arra valók, hogy kaphass, hanem hogy adhass.
+Fontos, hogy a másik érdekeit is ugyanúgy szem előtt tudjuk tartani, mint a sajátjainkat.
+Ha a barátságban nem maga a barátság a célunk, akkor az egy üzleti kapcsolat, nem barátság!
+
+> Ezek az úgy nevezett érdekbarátságok.
+> > These are what are commonly called fair-weather friendships.
+
+Ebből a szemszögből nem teszünk különbséget a barátság és a szerelem között, hiszen a szerelem is igazából csak egy őrült fajta barátság.
+
+<br />
+
+
+
 
 
 
