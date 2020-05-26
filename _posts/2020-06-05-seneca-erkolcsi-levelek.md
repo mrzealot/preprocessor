@@ -477,6 +477,86 @@ A lényeg az, hogy ne legyen **szüksége** rá, és tudjon nélküle is boldog 
 
 
 
+## Beilleszkedés
+
+Ha saját magunkkal és az anyagi világgal már (nagyjából) rendben vagyunk, akkor ideje a másokkal való kapcsolatainkra is kitérni egy kicsit.
+Mert az önfejlesztés szép és jó, de csak akkor, ha tényleg önmagunk fejlesztéséért csináljuk.
+Ha ebbe bármilyen formában belekeveredik a külső megbecsülés és visszajelzés igénye, az már rég rossz.
+
+Dicsérjenek persze, ha felnéznek ránk, de mi ne a dicséretért csináljuk.
+Visszafelé pedig mi is nézzük meg, hogy miért dicsérünk másokat.
+A házuk, a földjük, a pénzük nem igazán az övék, csak ott vannak körülöttük...
+A jellemük az övék, semmi más; az pedig akkor tökéletes, ha úgy élnek, ahogy azt a "természet követeli".
+
+> Aki ló vásárlás közben a nyerget és a kantárt vizsgálgatja az állat helyett, az egy idióta.
+> > A man who examines the saddle and bridle and not the animal itself when he is out to buy a horse is a fool.
+
+Az persze mindenkinek elég nehéz helyesen élni, ha körülöttünk a többség nem úgy él.
+Nem hogy csak nem fognak vissza a természetellenes hajlamainktól, még biztatnak is!
+Mondhatjuk, hogy a tömegek könnyen "megrontják" az ember fejét.
+Megingathatnak olyan elhatározások, amiket stabilnak hittünk, és előjöhetnek olyan dolgok is, amikről azt hittük, hogy már sikeresen "száműztük" az életünkből.
+Vigyázzunk tehát, hogy milyen körökben mozgunk!
+Legrosszabb esetben pedig tekintsünk a többség véleményére úgy, mint egy szirén énekére -- "kössük ki magunkat a filozófia árbócához"!
+
+A legegyszerűbben úgy védhetjük meg magunkat mások ellen, ha nem hívjuk fel magunkra a figyelmet.
+Ne legyen nagy vagyonunk -- és azzal se dicsekedjünk, amink van -- és akkor a kapzsik és az irigyek is elkerülnek majd.
+Ne bántsunk meg másokat -- és nézeteltérések esetén legyen könnyű velünk kibékülni!
+Félelem ügyében pedig leginkább arra figyeljünk, hogy éljünk helyesen, és ne adjunk okot, hogy másnak félnie kelljen tőlünk!
+
+A tömeg kerülése természetesen nem azt jelenti, hogy legyünk teljesen antiszociálisak.
+Csak azt, hogy ha nem _ront meg_ a tömeg, akkor hosszú távon talán jobban az emberek hasznára lehetünk.
+Vigyázzunk azonban: attól, hogy nyilvánosan elfordulunk valamitől, még nem biztos, hogy magunkban is "kiirtottuk".
+Egy adott gyengeség belülről is bármikor felütheti a fejét -- ami csak rosszabb lesz, mert rejtett.
+Seneca kioszt például egy visszavonult remetét, akire szintén bölcsként tekintettek, mert visszavonultan élt.
+Viszont az nagyon nem mindegy, hogy valaki a filozófia miatt vonul vissza és megtanulja, hogy hogy kell élni, vagy csak elmenekül mások elől (vagy akár a saját kudarcai elől), hogy aztán otthon élhessen az élvezeteknek.
+Sőt, még feltétlen elmenekülni sem fontos -- saját magunk agyatlan elfoglalásával is elfedhető, hogy belül nincs rend...
+
+A könyv arra is felhívja a figyelmünket, hogy egy társadalom nyelvezete mennyire az értékrendjét tükrözi.
+A túlzott, stilisztikus kifejezések például a hasonlóan túlzó anyagiasságot tükrözhetik.
+És ez egyéni szinten is látszódik.
+Igyekezzünk ezért nem elnézni magunknak azokat a konkrét hibákat sem, amiket a korunk társadalma épp kollektíven elnézne!
+Vigyázzunk az elménk épségére, mert a gondolatain, a szavaink, de még a járásunk is onnan fakad.
+
+Kellően megdorgálva érezzük magunkat?
+Akkor jó, jöhet a Seneca-i mértékletesség: lehet úgy is tökéletes a belső ideálunk, hogy kívülről nem vagyunk tökéletesek.
+Mellesleg ugye ha túlzottan eltérünk másoktól, akkor vonakodnak majd bármiben is követni.
+
+> Célozzunk meg egy olyan életvitelt, ami nem szöges ellentéte a _csőcselékének_, de azért jobb. Különben pont azokat fogjuk visszataszítani és elidegeníteni, akiket meg szeretnénk reformálni.
+> > Let our aim be a way of life not diametrically opposed to, but better than that of the mob. Otherwise we shall repel and alienate the very people whose reform we desire.
+
+Illetve világos, hogy nem kell kulináris ínyencségekkel megtölteni az asztalt, ha egyszer az egyszerűségre és a természetességre törekszünk...
+De ugyanakkora hülyeség lenne a hétköznapi sztenderdnél is lejjebb adni csak azért, hogy azzal villogjunk.
+
+> A filozófia egyszerű életet követel, nem vezeklést.
+> > Philosophy calls for simple living, not for doing penance.
+
+Különösen ünnepekkor próbáljunk nem annyira másnak lenni, hogy kilógjunk!
+Annyira viszont azért legyünk mások, hogy nem vakon és mértéktelenül hajszoljuk az élvezeteket!
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -544,85 +624,6 @@ Ebből a szemszögből nem teszünk különbséget a barátság és a szerelem k
 
 
 
-## Beilleszkedés
-
-- lehet úgy is tökéletes a belső ideálunk, hogy kívülről nem vagyunk tökéletesek
-    - ha túlzottan eltérünk a "csőcseléktől", akiket megreformálni szeretnénk a példamutatásunkkal, akkor vonakodnak majd bármiben is követni
-    - nem kell kulináris ínyencségekkel megtölteni az asztalt, ha egyszer az egyszerűségre és a természetességre törekszünk, de ugyanakkora hülyeség lenne a hétköznapi sztenderdnél is lejjebb adni csak azért, hogy azzal villogjunk
-- az önfejlesztés fasza, de csak akkor, ha tényleg önmagunk fejlesztéséért csináljuk
-    - ha a külső megbecsülésért és visszajelzésért, akkor már rég rossz
-- a tömegek könnyen "megrontják" az ember fejét
-    - meginoghatnak olyan elhatározások, amiket stabilnak hittünk
-    - és előjöhetnek olyan dolgok is, amikről azt hittük, hogy már sikeresen "száműztük" az életünkből
-    - vigyázzunk tehát, hogy milyen körökben mozgunk
-- a tömeg kerülése nem azt jelenti, hogy legyünk antiszociálisak
-    - csak azt, hogy ha nem "ront meg" a tömeg, akkor jobban az emberek hasznára lehetünk talán
-- a természet alapján szabjuk meg a vágyainkat, ne mások véleménye alapján
-    - a természetnek vannak korlátai, de a vélemények miatti elvárásoknak nincsenek
-- ünnepekkor próbáljunk nem annyira másnak lenni, hogy kilógjunk
-    - de annyira viszont azért legyünk mások, hogy nem vakon és mértéktelenül az élvezeteket hajhásszuk
-- ezért dicsérjük az embereket, ami az övék
-    - a házuk, a földjük, a pénzük nem igazán az övé, csak ott vannak körülötte
-    - a jelleme az övé; ami akkor tökéletes, ha úgy él, ahogy azt a természete követeli
-        - csak hát az elég nehéz, ha körülötte a többség nem úgy él
-        - mert nem hogy csak nem fogják vissza a természetellenes hajlamaitól, még biztatják is!
-- miért bánnánk másként a szolgákkal, ők is emberek!
-    - bánjunk úgy az alattunk lévőkkel, ahogy azt szeretnénk, hogy a felettünk lévők bánjanak velünk!
-- egy visszavonult remetét oszt, akire szintén bölcsként tekintettek, mert visszavonultan élt
-    - de az nagyon nem mindegy, hogy valaki a filozófia miatt vonul vissza és megtanulja, hogy hogy kell élni
-    - vagy csak elmenekül mások elől (vagy akár a saját kudarcai elől), hogy aztán otthon élhessen az élvezeteknek
-- a csend túlértékelt
-    - ha belül rend lenne, akkor nem lenne szükségünk rá
-    - ez az alvásra is vonatkozik!
-- saját magunk elfoglalásával elfedhető, hogy belül nincs rend, de ez nyilván csak tüneti kezelés
-- attól, hogy nyilvánosan elfordulunk valamitől, még nem biztos, hogy magunkban is "kiirtottuk"
-    - és belülről bármikor felütheti a fejét (ami csak rosszabb lesz, mert rejtett)
-    - ha pedig tényleg rend lenne, akkor -- mint mondtuk -- egyszerűen nem zavarnának a külvilág dolgai
-- a legegyszerűbben úgy védhetjük meg magunkat mások ellen, ha nem hívjuk fel magunkra a figyelmet
-    - ne legyen nagy vagyonunk, és azzal se dicsekedjünk, amink van, és akkor a kapzsik és az irigyek is elkerülnek majd
-    - ne bántsunk meg másokat és nézeteltérések esetén legyen könnyű velünk kibékülni
-    - félelem ügyében pedig éljünk helyesen, és ne adjunk okot, hogy másnak félnie kelljen tőlünk
-- egy társadalom nyelvezete is az értékrendjét tükrözi
-    - a túlzott, stilisztikus kifejezés a hasonlóan túlzó anyagiasságot tükrözi
-    - sőt, ez egyéni szinten is látszódik
-- persze mindenkinek megvannak a hibái
-    - de sokak a hibáik ellenére lettek híresek, mert olyan korban éltek, ahol azokat a konkrét hibákat épp elnézték nekik
-- vigyázzunk hát az elménk épségére, mert a gondolatain, a szavaink, de még a járásunk is onnan fakad
-- éés megint a minimalizmus
-    - főleg abból a szemszögből, hogy miért követjük vakon a tömeg véleményét...
-    - az ilyen emberekre inkább úgy kellene tekintenünk, hogy bűnös gondolatokat terjesztenek
-        - nem szabad ilyenek társaságát keresnünk, mert már az is elég baj, ha a gondolatot elültetik a fejünkben
-- példa, hogy milyen könnyen érvelhetnek a hedonizmus mellett is
-    - de ezekre úgy kell tekinteni, mint a szirén énekre, és kikötni magunkat a filozófia árbócához (hosszú ó!)
-
-> Let our aim be a way of life not diametrically opposed to, but better than that of the mob. Otherwise we shall repel and alienate the very people whose reform we desire;
-
-> Philosophy calls for simple living, not for doing penance.
-
-> A man who examines the saddle and bridle and not the animal itself when he is out to buy a horse is a fool
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -630,44 +631,45 @@ Ebből a szemszögből nem teszünk különbséget a barátság és a szerelem k
 
 ## <a name="felkészülés"></a>Felkészülés és elfogadás
 
-- ha lemondunk a reményeinkről, akkor búcsút inthetünk a félelmeinknek is
-    - mindkettő abból fakad ugyanis, hogy nem tudjuk magunkat a jelenre korlátozni, előre és utólag is aggódunk
-- a jó időkben kell készülni a rossz időkre!
-    - érdemes ezért havonta/időnként olyan önkéntes szegénységet szimulálni, ami szoktat arra, hogy mi lenne, ha tényleg így járnánk
-    - nem nagy cucc, mert a világon sok millió koldus és éhező csinálja nap mint nap
-    - de mi _önkéntesen_ csináljuk, és ez benne a nagy szó
+Ha lemondunk a reményeinkről, akkor búcsút inthetünk a félelmeinknek is.
+Mindkettő abból fakad ugyanis, hogy nem tudjuk magunkat a jelenre korlátozni, előre és utólag is aggódunk.
 
-- mellékszálon: nem kell mindent előre tudni, de mindenre fel kell készülni
-    - így aztán főleg mindegy, hogy mi lesz
-- mindenre fel kell készülni, nem csak a gyakori eseményekre!
-    - próbáljunk meg mindent elképzelni, ami megtörtén**het**, és akkor talán nem sokkol majd, ami ténylegesen történik
-- el kell fogadni a sorsunkat, méghozzá mindenféle neheztelés nélkül
-    - egyszerűen ezek az élet feltételei -- ha nem tetszik, meg szabad halni :)
-    - amíg viszont itt vagyunk, lássuk be, hogy az élet így működik
-    - mind lehetünk éhesek, szenvedhetünk, megöregedhetünk, és végül úgyis meghalunk
-        - de mindebben semmi rossz vagy gonosz nincs, csak mi tesszük bele
-- példa: Socrates, akinek aztán kijutott az élet csapásaiból, és mégis végig "egykedvű" maradt
-    - nem mondja senki, hogy örülni kell, de megtörni sem szabad
-    - másik példa: Marcus Cato, aki szintén mindent sztoikusan viselt
-- megint az események és a címkézésük elkülönítése
-    - ha nem csinálunk belőle nagy ügyet, akkor nem lesz nagy ügy
+> Senki nem korlátozza a boldogtalanságát a jelenre.
+> > No one confines his unhappiness to the present.
 
-> No one confines his unhappiness to the present.
+És habár a múlton rágódásnak tényleg semmi értelme, a jövőn aggódásból legalább csinálhatunk valami hasznosat is: a jó időkben kell készülni a rossz időkre!
+Érdemes havonta/időnként olyan önkéntes szegénységet szimulálni, ami szoktat arra, hogy mi lenne, ha tényleg így járnánk.
+Nem nagy cucc, mert a világon sok millió koldus és éhező csinálja nap mint nap -- de mi _önkéntesen_ csinálnánk, és ez benne a nagy szó!
 
-> set aside now and then a number of days during which you will be content with the plainest of food, and very little of it, and with rough, coarse clothing, and will ask yourself, ‘Is this what one used to dread?'
+> Jelölj ki egy pár napot, ahol beéred a legegyszerűbb étellel, abból is kevéssel, szakadt ruhákkal, és kérdezd meg magadtól: "Ettől kellene félnem?"
+> > Set aside now and then a number of days during which you will be content with the plainest of food, and very little of it, and with rough, coarse clothing, and will ask yourself, 'Is this what one used to dread?'
 
-> It is in times of security that the spirit should be preparing itself to deal with difficult times;
+> Elengedhetetlen ahhoz szoktatni magunkat, hogy kevéssel is be tudjuk érni.
+> > It is essential to make oneself used to putting up with a little.
 
-> So I look for the best and am prepared for the opposite.
+Nem kell mindent előre tudni, de mindenre fel kell készülni
+És "minden" alatt itt nem csak a gyakori eseményekre gondolunk ám!
+Próbáljunk meg mindent elképzelni, ami megtörtén**het**, és akkor talán nem sokkol majd, ami ténylegesen történik.
 
-> we should be anticipating not merely all that commonly happens but all that is conceivably capable of happening, if we do not want to be overwhelmed and struck numb by rare events as if they were unprecedented ones;
+> A legjobbra számítok, de a legrosszabbra készülök.
+> > I look for the best and am prepared for the opposite.
 
-> It is essential to make oneself used to putting up with a little.
+Ha pedig már készültünk, az nagyban segíthet a másik szükséges fázisban: az elfogadásban.
+El kell fogadni a sorsunkat, méghozzá mindenféle neheztelés nélkül!
+Egyszerűen ezek az élet feltételei -- Seneca kerek perec ki is mondja, hogy "ha nem tetszik, meg szabad halni".
+Amíg viszont itt vagyunk, lássuk be, hogy az élet így működik.
+Mind lehetünk éhesek, szenvedhetünk, megöregedhetünk, és végül úgyis meghalunk...
+De mindebben semmi "rossz" vagy "gonosz" nincs -- azt csak mi tesszük bele.
+Ez ugye megint az események és a címkézésük elkülönítése.
+Ha nem csinálunk belőle nagy ügyet, akkor nem lesz nagy ügy.
 
-> the puny degenerate spirit which struggles, and which sees nothing right in the way the universe is ordered, and would rather reform the gods than reform itself.
+> A satnya, fejletlen lélek folyton szenved, semmit nem lát helyesnek az univerzum rendjében, és inkább az isteneket reformálná meg, mint saját magát.
+> > The puny degenerate spirit which struggles, and which sees nothing right in the way the universe is ordered, and would rather reform the gods than reform itself.
 
-> ‘To live under constraint is a misfortune, but there is no constraint to live under constraint.'
-Epicurus
+> Balszerencse kényszer alatt élni, de senki nem kényszerít, hogy kényszer alatt éljünk.
+> 
+> -- Epicurus
+> > To live under constraint is a misfortune, but there is no constraint to live under constraint.
 
 
 
