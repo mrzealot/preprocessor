@@ -702,80 +702,109 @@ Ha nem csinálunk belőle nagy ügyet, akkor nem lesz nagy ügy.
 
 ## <a name="halál"></a>Öregkor és halál
 
-- az öregkor is ugyanolyan élvezetes lehet, ha az ember tudja megfelelően élvezni
-    - vagy, akár az is lehet, hogy addigra már kinőjük a élvezetek iráni vágyainkat... és AZ is jó!
-- de hát a halállal szembenézni csak nem kellemes
-    - na ja, de ennek semmi köze nem kellene, hogy legyen az idős korhoz!
-    - a sztoikus filozófia szerint már fiatalon is figyelembe kellene venni...
-    - minden nap úgy kell lefeküdni, hogy megtettük, amit meg kellett tennünk
-        - ha a sors még megadja a holnapot is, azt fogadjuk örömmel!
-        - aki úgy áll hozzá, hogy már eddig is "leélte a jussát", annak minden reggel egy lottó ötös, hogy újra felébredt...
-- megint öregség, de csak testileg
-    - fejben pedig továbbra is ugyanolyan friss
-    - és mivel a testhez való kapcsolatát eddig is szándékosan gyengítette, most sem annyira zavaró
-    - hiába mondja a teste, hogy a vénség nem jó, ha a feje szerint (a sok tapasztalat miatt) pont most a legjobb
-        - és ő hajlamosabb a fejére hallgatni
-- ennek kapcsán pedig újra felmerül: "gyakoroljuk a halált"
-    - fel kell készülnünk rá, mert bármikor jöhet
-    - egyrészt éljünk úgy, hogy bármikor is jöhessen
-    - másrészt ne ragaszkodjunk annyira az életünkhöz, hogy majd készek legyünk elengedni is (mert egyszer úgyis el kell!)
-- a halál szimplán csak "nem létezés", amiben a születésünk előtt is volt részünk bőven
-- a halálból (mint bármiből) pedig úgy lehet kitörölni a kényszert, hogy előre eldöntjük, hogy azt akarjuk, amit a sors úgyis ránk kényszerítene
-    - mennyivel elegánsabb lesz kisétálni a bárból zárórakor ahelyett, hogy ki kellene minket dobni...
-- a túlgyászolás is hiba
-    - persze, lehet gyászolni, de csak mértékkel
-    - a gyász mennyiségének semmi köze ahhoz, hogy mennyire volt fontos a másik
-        - hiszen amúgy is a szívünkben fogjuk tartani utána is
-        - és az emlékezés lehet egy pozitív élmény is
-        - a túlzó gyász sokszor csak a közönségnek szól
-        - vagy annyira váratlanul ért -- de az megint a mi hibánk, hogy miért is nem készültünk rá?
-    - amíg itt vannak, gondoljunk arra, hogy egyszer majd nem lesznek
-        - és amikor már nincsenek, gondoljunk arra, amikor még itt voltak
-    - legyen több barátunk!
-        - és addig foglalkozzunk velük, amíg élnek!
-    - az idő úgyis elmulasztja, de az nem túl méltó egy bölcs emberhez
-        - nem mi vetünk véget a gyásznak, hanem csak a gyász un ránk?
-- leginkább a halálról szól utána
-    - nincs olyan, hogy "nem időben jön"
-    - mindig akkor jön, amikor jönnie kell
-    - és ha erkölcsösen éltünk, akkor nem is lesz "befejezetlen"
-    - maga az élet egy rabszolgaság, ha félünk meghalni
-    - de mi van, ha azért nem akarunk meghalni, mert tesszük a kötelességünket és nem akarjuk félbehagyni
-        - egyrészt: meghalni is az élet egyik kötelessége
-        - másrészt: a kötelességeinknek soha nincs vége, ezért olyan sem lehet, hogy "félbehagytuk"
-    - az életünk is olyan, mint egy színdarab
-        - nem az a lényeg, hogy milyen hosszú
-        - hanem hogy milyen "jó", és hogy hogyan lesz vége
-- a betegségek tűrésére is a filozófia a legalkalmasabb
-    - letisztázza előttünk, hogy hogyan tűrjünk, és hogy _miért_ tűrjünk (ha tűrjünk)
-    - vagy megnyugtat azzal kapcsolatban, hogy miért _ne_ tűrjünk, és hogy nézzünk szembe a halállal
-        - nem a halállal van a baj, csak a halálfélelemmel
-- de persze a barátok is sokat segítenek
-    - biztató gondolat bennük tovább élni (ha nem is köztük)
-- a halál mellett csak a fájdalom és az élvezeteink megtörése a kellemetlen a betegségekben
-    - a fájdalom pedig vagy tűrhető, vagy rövid
-        - folyamatosan tűrhetetlen fájdalom nincs, mert belezsibbadunk
-    - megintcsak: szét kell választani az elménket a testünktől, és akkor a test "kellemetlenkedései" esetén az elménkbe visszavonulhatunk
-        - itt is a köznéptől vesszük a fájdalomról alkotott képünket, és azért tűnik annyira rossznak
-        - ha triviálisként tekintenénk rá, akkor sokkal inkább az is lenne!
+Hát igen, sztoicizmus kapcsán nem elkerülhető ez a téma...
+És nem is _kerülendő_, mert valószínűleg bőven van mit helyretenni a gondolkodásunkban.
+Kezdjük mondjuk azzal, ahogy a kultúránk az öregkort kezeli.
+Pedig (az öreg!) Seneca szerint az a fázis is lehet ugyanolyan élvezetes, ha az ember tudja megfelelően élvezni!
+Vagy akár az is lehet, hogy addigra már kinőjük az élvezetek iráni vágyainkat -- és **az** is jó!
 
-"Mindenki annyira boldogtalan, amennyire annak tartja magát" :)
-    - pont az ellentéte annak a Lincoln idézetnek
+A testi öregség elkerülhetetlen, de a lényeg, hogy fejben továbbra is ugyanolyan frissek tudjunk maradni!
+És mivel jó esetben a testhez való kapcsolatunkat eddig is szándékosan gyengítettük, akkoriban sem lesz annyira zavaró.
+Hiába mondja a test, hogy a vénség nem jó, ha a fej szerint (a sok tapasztalat miatt) pont akkor a legjobb.
+Seneca hajlamosabb a fejére hallgatni -- én pedig hajlamos vagyok egyetérteni!
 
-- a bokszolók is durva fájdalmakat kiállnak
-    - nem is csak a meccseken, hanem már az edzés során is
-    - de nem tekintik kibírhatatlannak, ezért ki is bírják
-    - tegyünk mi is így a saját fájdalmainkkal
-        - nem a címért vagy a dicsőségért, hanem a morális életért
-- ha az zavar, hogy mennyire beleszól a dolgunkba akkor pedig gondoljunk erre:
-    - a legfontosabb dolgunk amúgy is az elménkkel van
-    - azt pedig menet közben is használhatjuk
-    - már maga az értékes, hogy méltósággal és ép ésszel viseljük a velünk történteket (see Frankl)
-- és végül: készüljünk mindenre, és akkor nem lesz meglepetés
+A betegségek tűrésére is a filozófia a legalkalmasabb.
+Vagy letisztázza előttünk, hogy hogyan tűrjünk, és hogy _miért_ tűrjünk (ha tűrjünk) -- vagy megnyugtat azzal kapcsolatban, hogy miért _ne_ tűrjünk, és hogy nézzünk szembe a halállal.
+Hiszen nem a halállal van a baj, csak a halálfélelemmel.
 
-> make sure that your faults die before you do.
+> Félsz meghalni -- és mondd csak, az életmódod mennyiben más attól, mintha halott lennél?
+> > You are scared of dying -- and, tell me, is the kind of life you lead really any different from being dead?
 
-> You are scared of dying – and, tell me, is the kind of life you lead really any different from being dead?
+A halálfélelem mellett pedig csak a fájdalom és az élvezeteink megtörése a kellemetlen a betegségekben.
+Ami a fájdalmat illeti: az vagy tűrhető, vagy rövid.
+Folyamatosan tűrhetetlen fájdalom nincs, mert belezsibbadunk.
+Megint előkerül, hogy szét kell választani az elménket a testünktől, és akkor a test "kellemetlenkedései" esetén az elménkbe visszavonulhatunk.
 
-> no one has power over us when death is within our own power.
+Itt (is) a köznéptől vesszük a fájdalomról alkotott képünket, és azért tűnik annyira rossznak.
+Ha triviálisként tekintenénk rá, akkor sokkal inkább az is lenne!
+Gondoljunk mondjuk a bokszolókra, akik durva fájdalmakat kiállnak -- nem is csak a meccseken, hanem már az edzés során is.
+De nem tekintik kibírhatatlannak, ezért ki is bírják.
+Tegyünk mi is így a saját fájdalmainkkal!
+Nem a címért vagy a dicsőségért, hanem a morális életért.
+
+Ha pedig az zavar a betegségben, hogy mennyire beleszól a dolgunkba, akkor gondoljunk erre: a legfontosabb dolgunk amúgy is az elménkkel van.
+És azt ugye menet közben is használhatjuk.
+Már maga az értékes, hogy méltósággal és ép ésszel viseljük a velünk történteket -- mint ahogy ezt [Dr. Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) is biztosan megerősítené.
+
+> Intézd úgy, hogy a hibáid hamarabb haljanak meg, mint te magad.
+> > Make sure that your faults die before you do.
+
+Persze nyafoghatunk tovább, hogy "De hát a halállal szembenézni csak nem kellemes!"
+Na igen ám, de ennek semmi köze nem kellene, hogy legyen az idős korhoz!
+Az előző szekció szerint ugye már fiatalon is figyelembe kellene venni, hogy bármi megtörténhet.
+Ezért kell minden nap úgy lefeküdni, hogy megtettük, amit meg kellett tennünk -- ha ott a vége, hát ott a vége.
+Aki képes úgy hozzáállni, hogy már eddig is "leélte a jussát", annak minden reggel egy lottó ötös pusztán azért, mert újra felébredt!
+
+A halállal kapcsolatban nincs olyan, hogy "nem időben jön".
+Mindig akkor jön, amikor jönnie kell.
+És ha erkölcsösen éltünk, akkor nem is lesz "befejezetlen".
+
+> Maga az élet egy rabszolgaság, ha félünk meghalni.
+> > Life itself is slavery if the courage to die be absent.
+
+De mi van, ha azért nem akarunk meghalni, mert tesszük a kötelességünket és nem akarjuk félbehagyni?
+Egyrészt: meghalni is az élet egyik kötelessége.
+Másrészt: a kötelességeinknek soha nincs vége, ezért olyan sem lehet, hogy "félbehagytuk".
+Az életünk is olyan, mint egy színdarab: nem az a lényeg, hogy milyen hosszú, hanem hogy milyen "jó", és hogy hogyan lesz vége.
+
+Ahogy mindenre, erre is lehet készülni: "gyakoroljuk a halált"!
+Éljünk hát úgy, hogy bármikor is jöhessen.
+Másrészt pedig ne ragaszkodjunk annyira az életünkhöz, hogy majd képtelenek legyünk elengedni -- mert egyszer úgyis el kell!
+Nézzük úgy, hogy a halál szimplán csak "nem létezés", amiben a születésünk előtt is volt részünk bőven.
+Töröljük ki belőle a kényszert: döntsük el, hogy azt akarjuk, amit a sors úgyis ránk kényszerítene!
+Mennyivel elegánsabb lesz kisétálni a bárból zárórakor ahelyett, hogy ki kellene minket dobni...
+
+> Senkinek nem lesz hatalma felettünk ha megbékélünk halállal.
+> > No one has power over us when death is within our own power.
+
+Hogy ne csak a mi halálunkról legyen szó, másé sem muszáj, hogy akkora törést jelentsen.
+A túlgyászolás például hiba.
+Persze, lehet gyászolni, de csak mértékkel.
+A gyász mennyiségének ugyanis (jó esetben) semmi köze ahhoz, hogy mennyire volt fontos a másik.
+Nem túl méltó egy bölcs emberhez, ha nem mi vetünk véget a gyásznak, hanem csak a gyász "un ránk".
+Hiszen amúgy is a szívünkben fogjuk tartani az elhunytat utána is, nem?
+Na ugye!
+
+A túlzó gyász sokszor csak a közönségnek szól.
+Ha pedig őszinte, akkor az azt jelenti, hogy az eset annyira váratlanul ért minket.
+De hát az megint a mi hibánk -- miért is nem készültünk rá?
+Amíg itt vannak, gondoljunk arra, hogy egyszer majd nem lesznek!
+És amikor már nincsenek, gondoljunk arra, amikor még itt voltak!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Összefoglalás
 
