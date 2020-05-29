@@ -3,11 +3,11 @@ layout: post
 title: Seneca - Erkölcsi levelek - 2. felvonás
 date: 2020-06-12 00:01
 excerpt: >
-    A múlt héten Lucius Annaeus Seneca sztoikus jótanácsait szedtük csokorba önfejlesztés, fókusz, tanítás, felkészülés és elfogadás témakörökben.
-    Ezekhez szeretném most hozzátenni a kimaradt négy területet, név szerint a minimalizmust, a társadalmi beilleszkedést, a barátságot és a halál elfogadását.
+    A múlt héten Lucius Annaeus Seneca sztoikus jótanácsait szedtük csokorba önfejlesztés, fókusz, tanítás és elfogadás témakörökben.
+    Ezekhez szeretném most hozzátenni a kimaradt négy területet, név szerint a minimalizmust, a társadalmi beilleszkedést, a barátságot és a halál helyes kezelését.
 ---
 
-A [múlt héten]({% post_url 2020-06-05-seneca-erkolcsi-levelek %}) Lucius Annaeus Seneca sztoikus jótanácsait szedtük csokorba önfejlesztés, fókusz, tanítás, felkészülés és elfogadás témakörökben.
+A [múlt héten]({% post_url 2020-06-05-seneca-erkolcsi-levelek %}) Lucius Annaeus Seneca sztoikus jótanácsait szedtük csokorba önfejlesztés, fókusz, tanítás és elfogadás témakörökben.
 Ezekhez szeretném most hozzátenni a kimaradt négy területet:
 
 - [Minimalizmus](#minimalizmus)
@@ -46,8 +46,8 @@ A többieknek viszont előre!
 
 ## Minimalizmus
 
-Nagyon egyszerűen: ne akarjunk többet, mint ami elég.
-Ideális esetben a kajánk, a ruhánk, és a házunk is legyen olyan, ami megteszi -- de ne jobb.
+Nagyon egyszerűen: ne akarjunk többet, mint ami **elég**.
+Ideális esetben a kajánk, a ruhánk és a házunk is legyen olyan, ami megteszi -- de ne jobb.
 Akkor lehetünk csak "szabadok", ha a dolgok és az élvezetek helyett a filozófiánk (az elveink?) szolgálatába állítjuk az életünket.
 Legyünk hát hálásak azért, amink van, és ne idegeskedjünk azon, amink (még) nincs!
 
@@ -87,7 +87,7 @@ Ha viszont menet közben ráfüggünk, akkor tulajdonképpen a tárgy birtokol m
 A fentiek fényében igyekezzünk tudatosítani magunkban, hogy a boldogságunk nagyban független a körülményeinktől.
 Vagy ahogy a szerző mondja:
 
-> A legfelsőbb erkölcs nem szorul külső segítségre. Teljesen "házi termesztésű". Amint elkezdi bármilyen részét is magán kívül keresni, kiteszi magát a sors szeszélyeinek.
+> A legfelsőbb erkölcs nem szorul külső segítségre. Teljesen házi termesztésű. Amint elkezdi bármilyen részét is magán kívül keresni, kiteszi magát a sors szeszélyeinek.
 > > The supreme ideal does not call for any external aids. It is homegrown, wholly self-developed. Once it starts looking outside itself for any part of itself it is on the way to being dominated by fortune.
 
 Ezekből egyenesen következik, hogy a lakhelyünk sem szabad, hogy meghatározza a hangulatunkat.
@@ -109,12 +109,12 @@ Az utazás tehát önmagában hatástalan, bölcs elmével pedig szükségtelen.
 > Miért csodálkozol, hogy az utazásaid nem tesznek jót, amikor saját magad továbbra is magaddal viszed? Pont azzal vagy felnyergelve, ami innen is elkergetett.
 >
 > -- Socrates
-> > How can you wonder your travels do you no good, when you carry yourself around with you? You are saddled with the very thing that drove you away.'
+> > How can you wonder your travels do you no good, when you carry yourself around with you? You are saddled with the very thing that drove you away.
 
 > Nem annyira az számít, hogy hova érkezel, mint hogy milyen emberként érkezel oda.
 > > Where you arrive does not matter so much as what sort of person you are when you arrive there.
 
-Seneca mérsékelt szigora miatt megjegyezzük azért: nagy különbség van aközött, hogy milyen körülmények között _tudnánk_ boldogok lenni, és milyen körülményeket választanánk, ha tehetnénk.
+Seneca "mérsékelt" szigora miatt megjegyezzük azért: nagy a különbség, hogy milyen körülmények között **tudnánk** boldogok lenni, és milyen körülményeket választanánk, _ha tehetnénk_.
 Az igazi sztoikus bölcs akkor is teljesnek érezné magát, ha levágnák egy kezét -- de attól még persze preferálná, ha _nem_ vágnák le.
 Ugyanígy a bármi más külső tényezőre is: nem arról van szó, hogy az embernek ne legyen valamije, vagy hogy ne is _akarjon_ valamit.
 A lényeg az, hogy ne legyen **szüksége** rá, és tudjon nélküle is boldog lenni!
@@ -167,7 +167,7 @@ A jellemük az övék, semmi más; az pedig akkor tökéletes, ha úgy élnek, a
 > Aki ló vásárlás közben a nyerget és a kantárt vizsgálgatja az állat helyett, az egy idióta.
 > > A man who examines the saddle and bridle and not the animal itself when he is out to buy a horse is a fool.
 
-Az persze mindenkinek elég nehéz helyesen élni, ha körülöttünk a többség nem úgy él.
+Persze elég nehéz olyankor is helyesen élni, ha körülöttünk a többség nem úgy él.
 Nem hogy csak nem fognak vissza a természetellenes hajlamainktól, még biztatnak is!
 Mondhatjuk, hogy a tömegek könnyen "megrontják" az ember fejét.
 Megingathatnak olyan elhatározások, amiket stabilnak hittünk, és előjöhetnek olyan dolgok is, amikről azt hittük, hogy már sikeresen "száműztük" az életünkből.
@@ -191,7 +191,7 @@ A könyv arra is felhívja a figyelmünket, hogy egy társadalom nyelvezete menn
 A túlzott, stilisztikus kifejezések például a hasonlóan túlzó anyagiasságot tükrözhetik.
 És ez egyéni szinten is látszódik.
 Igyekezzünk ezért nem elnézni magunknak azokat a konkrét hibákat sem, amiket a korunk társadalma épp kollektíven elnézne!
-Vigyázzunk az elménk épségére, mert a gondolatain, a szavaink, de még a járásunk is onnan fakad.
+Vigyázzunk az elménk épségére, mert a gondolataink, a szavaink, de még a járásunk is onnan fakad.
 
 Kellően megdorgálva érezzük magunkat?
 Akkor jó, jöhet a Seneca-i mértékletesség: lehet úgy is tökéletes a belső ideálunk, hogy kívülről nem vagyunk tökéletesek.
@@ -251,10 +251,10 @@ Az első, barátokra vonatkozó tanács, hogy vigyázzunk, kiket nevezünk bará
 > Mindenkiben megbízni ugyanolyan hiba, mint senkiben sem bízni.
 > > Trusting everyone is as much a fault as trusting no one.
 
-Ha viszont egyszer barátok, akkor onnantól bánjunk velük nyíltan és beszéljünk meg velük mindent!
+Ha viszont egyszer valaki barát, akkor onnantól bánjunk vele nyíltan és beszéljünk meg vele mindent!
 A bizalom és a bizalmatlanság között is kell egyféle egyensúly, de legyen ez inkább a mennyiségben, ne a minőségben!
 
-A barátságok ápolásának üzenete is elhangzik tömören -- aminek a technikai részleteit a [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) posztban boncolgattuk:
+A barátságok ápolásának üzenete is elhangzik tömören -- aminek a technikai részleteit a [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) bejegyzésben boncolgattuk:
 
 > Ha azt akarod, hogy szeressenek, szeress!
 >
@@ -263,7 +263,7 @@ A barátságok ápolásának üzenete is elhangzik tömören -- aminek a technik
 
 A barátok nem arra valók, hogy kaphass, hanem hogy adhass.
 Fontos, hogy a másik érdekeit is ugyanúgy szem előtt tudjuk tartani, mint a sajátjainkat.
-Ha a barátságban nem maga a barátság a célunk, akkor az egy üzleti kapcsolat, nem barátság!
+Ha a barátságban nem maga a barátság a célunk, akkor az egy üzleti kapcsolat...
 
 > Ezek az úgy nevezett érdekbarátságok.
 > > These are what are commonly called fair-weather friendships.
@@ -313,7 +313,7 @@ Vagy akár az is lehet, hogy addigra már kinőjük az élvezetek iráni vágyai
 A testi öregség elkerülhetetlen, de a lényeg, hogy fejben továbbra is ugyanolyan frissek tudjunk maradni!
 És mivel jó esetben a testhez való kapcsolatunkat eddig is szándékosan gyengítettük, akkoriban sem lesz annyira zavaró.
 Hiába mondja a test, hogy a vénség nem jó, ha a fej szerint (a sok tapasztalat miatt) pont akkor a legjobb.
-Seneca hajlamosabb a fejére hallgatni -- én pedig hajlamos vagyok egyetérteni!
+Seneca hajlamosabb a fejére hallgatni -- én pedig hajlamos vagyok egyetérteni.
 
 A betegségek tűrésére is a filozófia a legalkalmasabb.
 Vagy letisztázza előttünk, hogy hogyan tűrjünk, és hogy _miért_ tűrjünk (ha tűrjünk) -- vagy megnyugtat azzal kapcsolatban, hogy miért _ne_ tűrjünk, és hogy nézzünk szembe a halállal.
@@ -329,7 +329,7 @@ Megint előkerül, hogy szét kell választani az elménket a testünktől, és 
 
 Itt (is) a köznéptől vesszük a fájdalomról alkotott képünket, és azért tűnik annyira rossznak.
 Ha triviálisként tekintenénk rá, akkor sokkal inkább az is lenne!
-Gondoljunk mondjuk a bokszolókra, akik durva fájdalmakat kiállnak -- nem is csak a meccseken, hanem már az edzés során is.
+Gondoljunk mondjuk a bokszolókra, akik durva fájdalmakat állnak ki -- nem is csak a meccseken, hanem már az edzés során is.
 De nem tekintik kibírhatatlannak, ezért ki is bírják.
 Tegyünk mi is így a saját fájdalmainkkal!
 Nem a címért vagy a dicsőségért, hanem a morális életért.
@@ -343,13 +343,13 @@ Már maga az értékes, hogy méltósággal és ép ésszel viseljük a velünk 
 
 Persze nyafoghatunk tovább, hogy "De hát a halállal szembenézni csak nem kellemes!"
 Na igen ám, de ennek semmi köze nem kellene, hogy legyen az idős korhoz!
-Az előző szekció szerint ugye már fiatalon is figyelembe kellene venni, hogy bármi megtörténhet.
+A "mindenre felkészülés" elve alapján ugye már fiatalon is figyelembe kellene venni, hogy bármi megtörténhet.
 Ezért kell minden nap úgy lefeküdni, hogy megtettük, amit meg kellett tennünk -- ha ott a vége, hát ott a vége.
 Aki képes úgy hozzáállni, hogy már eddig is "leélte a jussát", annak minden reggel egy lottó ötös pusztán azért, mert újra felébredt!
 
 A halállal kapcsolatban nincs olyan, hogy "nem időben jön".
 Mindig akkor jön, amikor jönnie kell.
-És ha erkölcsösen éltünk, akkor nem is lesz "befejezetlen".
+És ha erkölcsösen éltünk, akkor semmi nem is lesz "befejezetlen".
 
 > Maga az élet egy rabszolgaság, ha félünk meghalni.
 > > Life itself is slavery if the courage to die be absent.
@@ -360,27 +360,27 @@ Másrészt: a kötelességeinknek soha nincs vége, ezért olyan sem lehet, hogy
 Az életünk is olyan, mint egy színdarab: nem az a lényeg, hogy milyen hosszú, hanem hogy milyen "jó", és hogy hogyan lesz vége.
 
 Ahogy mindenre, erre is lehet készülni: "gyakoroljuk a halált"!
-Éljünk hát úgy, hogy bármikor is jöhessen.
-Másrészt pedig ne ragaszkodjunk annyira az életünkhöz, hogy majd képtelenek legyünk elengedni -- mert egyszer úgyis el kell!
+Éljünk úgy, hogy bármikor jöhessen!
+Másrészt pedig ne ragaszkodjunk annyira az életünkhöz, hogy majd képtelenek legyünk elengedni -- mert egyszer úgyis el kell.
 Nézzük úgy, hogy a halál szimplán csak "nem létezés", amiben a születésünk előtt is volt részünk bőven.
 Töröljük ki belőle a kényszert: döntsük el, hogy azt akarjuk, amit a sors úgyis ránk kényszerítene!
 Mennyivel elegánsabb lesz kisétálni a bárból zárórakor ahelyett, hogy ki kellene minket dobni...
 
-> Senkinek nem lesz hatalma felettünk ha megbékélünk halállal.
+> Senkinek nem lesz hatalma felettünk ha megbékélünk a halállal.
 > > No one has power over us when death is within our own power.
 
-Hogy ne csak a mi halálunkról legyen szó, másé sem muszáj, hogy akkora törést jelentsen.
+Hogy ne csak a mi halálunkról legyen szó: másé sem muszáj, hogy akkora törést jelentsen.
 A túlgyászolás például hiba.
 Persze, lehet gyászolni, de csak mértékkel.
 A gyász mennyiségének ugyanis (jó esetben) semmi köze ahhoz, hogy mennyire volt fontos a másik.
-Nem túl méltó egy bölcs emberhez, ha nem mi vetünk véget a gyásznak, hanem csak a gyász "un ránk".
+Nem túl méltó egy bölcs emberhez, ha nem ő vet véget a gyásznak, hanem csak a gyász "un rá".
 Hiszen amúgy is a szívünkben fogjuk tartani az elhunytat utána is, nem?
 Na ugye!
 
 A túlzó gyász sokszor csak a közönségnek szól.
-Ha pedig őszinte, akkor az azt jelenti, hogy az eset annyira váratlanul ért minket.
+Ha pedig őszinte, akkor az azt jelenti, hogy az eset _annyira_ váratlanul ért minket.
 De hát az megint a mi hibánk -- miért is nem készültünk rá?
-Amíg itt vannak, gondoljunk arra, hogy egyszer majd nem lesznek!
+Amíg itt vannak a szeretteink, gondoljunk arra, hogy egyszer majd nem lesznek!
 És amikor már nincsenek, gondoljunk arra, amikor még itt voltak!
 
 <br />
@@ -411,12 +411,12 @@ Amíg itt vannak, gondoljunk arra, hogy egyszer majd nem lesznek!
 ## Összefoglalás
 
 Lehet, hogy csak én vagyok így vele, de folyton leesik az állam, hogy már 2000 (!!) éve is voltak, akik így gondolkodtak.
-Ez alapján valahogy azt várná az ember, hogy manapság már nagyon nem itt tartunk... Nem?
+Ez alapján valahogy azt várná az ember, hogy manapság már nagyon nem itt kellene tartunk... Nem?
 
 Viszont sajnos még itt tartunk.
-Ugyanúgy hajszoljuk a materialista javakat, ugyanolyan nehezen (és rosszul) kezeljük a többi embert, és ugyanúgy nem tudunk mit kezdeni az öregség, a betegség vagy a halál gondolatával.
+Ugyanúgy hajszoljuk az értelmetlen materialista javakat, ugyanolyan nehezen (és rosszul) kezeljük az embereket, és ugyanúgy nem tudunk mit kezdeni az öregség, a betegség vagy a halál gondolatával.
 
 Na de majd az ókori bölcsesség helyreteszi a fejünket!
-Remélem, hogy ez a pár jótanács -- és a sztoikus filozófia úgy általánosságban -- nektek is ugyanolyan hasznos lesz, mint nekem volt.
+Remélem, hogy ez a pár jótanács -- és a sztoikus filozófia úgy általánosságban -- nektek is legalább annyira hasznos lesz, mint nekem.
 Ki tudja...
 Még a végén megtanulunk élni.
