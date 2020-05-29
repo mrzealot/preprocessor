@@ -4,6 +4,10 @@ title: Seneca - Erkölcsi levelek
 pages: 256
 date: 2020-06-05 00:01
 excerpt: >
+    Gyakran ajánlott olvasási "módszertan", hogy igyekezzünk minden könyv esetén legalább egy-egy hivatkozott/kapcsolódó kötetet is elolvasni.
+    Úgy döntöttem ezért, hogy az első, mindent (nagyon felületesen) érintő adag végeztével futok még egy kört -- az eddigi könyvek hivatkozásai alapján.
+    Első állomásunk ugye Marcus Aurelius elmélkedésekkel teli naplója volt, vagyis a mostani célunk az ott tanultakat továbbgondolni.
+    Erre pedig kiválóan alkalmas Lucius Annaeus Seneca -- Erkölcsi levelek című gyűjteménye.
 ---
 
 Gyakran ajánlott olvasási "módszertan", hogy igyekezzünk minden könyv esetén legalább egy-egy hivatkozott/kapcsolódó kötetet is elolvasni.
@@ -11,12 +15,12 @@ Gyakran ajánlott olvasási "módszertan", hogy igyekezzünk minden könyv eset�
 Úgy döntöttem ezért, hogy az első, mindent (nagyon felületesen) érintő adag végeztével futok még egy kört -- az eddigi könyvek hivatkozásai alapján.
 Bőven ráérek majd utána új szálakat indítani vagy egy specifikus témára rászállni...
 
-Első állomásunk ugye [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) elmélkedésekkel teli naplója volt, ezért a mostani célunk az ott tanultakat továbbgondolni.
+Első állomásunk ugye [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) elmélkedésekkel teli naplója volt, vagyis a mostani célunk az ott tanultakat továbbgondolni.
 Mivel azonban Marcus személyiségénél fontosabb maga sztoikus filozófia, a szigorú értelemben vett "hivatkozás" helyett egy tematikusan kapcsolódó kötetet választottam.
 Heti áldozatunk [Lucius Annaeus Seneca -- Erkölcsi levelek](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic){:target="_blank"} című gyűjteménye.
 
 Szerzőnk tehetségének köszönhetően többszöri száműzetésből is hatalmi pozícióba tudott visszakapaszkodni.
-Később Nero császár tanítója/tanácsadója volt (de ezt ne vessük a szemére), és jó ideig az ő kezében volt az igazi irányítás.
+Nero császár tanítója/tanácsadója volt (de ezt ne vessük a szemére), és jó ideig az ő kezében volt az igazi irányítás.
 Nekünk azonban mégis a "nyugdíjas" időszaka a legfontosabb, amikor is megfogalmazta erkölcsi leveleit egy fiatal barátjának.
 Ezekből pedig alapos, mégis emberi képet kaphatunk a sztoikusok értékrendjéről.
 
@@ -93,8 +97,7 @@ Illetve nem az alkalmankénti, kiemelkedő teljesítményre kell hajtani.
 Az kb. olyan lenne, mintha egy árus az összes jó portékáját a kirakatba tenné, és aztán a vevő csalódna, amikor belép.
 Sokkal jobb a konzisztens teljesítmény!
 
-Mondhatjuk, hogy a bölcsesség keresése a lelki egészség.
-Anélkül beteg az elménk.
+Mondhatjuk, hogy a bölcsesség keresése a lelki egészség, és hogy anélkül beteg az elménk.
 Na persze "rendben" kell tartani magunkat fizikailag is, de csak mértékkel.
 Nem kell túlzásba vinni és egész nap a testünkön, vagy a világi dolgainkon molyolni!
 Legyen meg gyorsan és egyszerűen, és aztán vissza az agyunkhoz, amit sokkal érdemesebb edzeni.
@@ -102,24 +105,24 @@ Legyen meg gyorsan és egyszerűen, és aztán vissza az agyunkhoz, amit sokkal 
 Fizikai betegségeknél amíg kicsi, addig tagadható, de amint elég nagy lesz, be kell vallanunk (magunknak is).
 Na a fejben ez pont fordítva van: amíg nagy, addig fel sem ismerjük, hogy baj van -- mert akkora baj van.
 Ezért ha már látjuk, hogy baj van, az jó!
-Ha fel szeretnénk gyorsítani a folyamatot, akkor igyekezzünk időnként saját magunkat elítélni és bírálni!
+Ha fel szeretnénk gyorsítani a folyamatot, akkor igyekezzünk időnként elítélni és bírálni saját magunkat!
 Hátha ráakadunk valami ellentmondásra, amit nem is úgy kellene csinálnunk...
-Persze onnan még egy valag munka lesz vele, mire változtatunk!
+Persze onnan még egy valag munka lesz vele, mire változtatunk -- de legalább már tudni fogunk róla!
 
 > Tisztában lenni a tévedésünkkel az első lépés a megváltás felé.
 > > A consciousness of wrongdoing is the first step to salvation.
 
-Seneca barátunk elég absztrakt, metafizikás értekezés is bocsátkozik, de a lényeg, hogy a testünk és a szellemünk két különböző dolog -- és legyen a szellemünknél a gyeplő!
-Hogy a test dolgai (az élvezetek keresése vagy a fájdalmak elöl menekülés) ne tudják befolyásolni a józan ítélőképességünket!
+Seneca barátunk elég absztrakt, metafizikás értekezésekbe is bocsátkozik, de a lényeg, hogy a testünk és a szellemünk két különböző dolog -- és legyen a szellemünknél a gyeplő!
+Hogy a test dolgai (az élvezetek keresése vagy a fájdalmak elől menekülés) ne tudják befolyásolni a józan ítélőképességünket!
 
 <br />
 
 Elfogultnak hangozhat egy filozófustól, de az ún. liberális tanulmányokkal szemben is erősen ajánlott a filozófiát előnyben részesítenünk.
 Lehet, hogy az irodalom izgalmas történeteket mesél, de azt nem mondja meg, hogy a saját életünk izgalmaira hogy reagáljunk.
 Lehet, hogy a matek megtanít rá, hogy mekkora a házunk, de a filozófia tanít meg arra, hogy mekkora házra van szükségünk.
-A gazdaság tanítja meg, hogy hogyan ne veszítsük el a vagyonunk egy kis részét sem, de azt nem, hogy akkor is tudjunk mosolyogni, ha mégis elvesztenénk az egészet!
+A gazdaság tanítja meg, hogy hogyan ne veszítsük el a vagyonunk egy kis részét sem; de azt nem, hogy akkor is tudjunk mosolyogni, ha mégis elvesztenénk az egészet!
 
-Az emlegetett liberális tanulmányok arra jók, hogy előkészítsék az agyat.
+Az emlegetett liberális tanulmányok arra jók, hogy "előkészítsék" az agyat.
 Felhúzzák egy olyan szintre, ahol már a morális tanulságokat is be tudja fogadni.
 Mondjuk úgy, hogy köztes állapotok -- de nem szükségesek!
 Könyvek nélkül is lehet valaki bölcs (csak könyvekkel könnyebb).
@@ -135,7 +138,7 @@ Legyen rajtunk a "filozófia szemüveg", és próbáljuk úgy értelmezni az olv
 És aztán persze ültessük gyakorlatba a tanultakat!
 Kevés rosszabb, mint a képmutatás; amikor egyesek olyan tanokat hirdetnek, amiket ők maguk sem tartanak be.
 
-> Ki kell vadásznunk a hasznos és nemes tudásmorzsákat amik azonnali, gyakorlati hatással lehetnek az életünkre, és addig tanulni őket, amíg a szavakból tettek nem lesznek.
+> Ki kell vadásznunk a hasznos és nemes tudásmorzsákat amik azonnali, gyakorlati hatással lehetnek az életünkre; és aztán olyan alaposan megtanulni őket, hogy a szavakból tettek legyenek.
 > > We should hunt out the helpful pieces of teaching, and the spirited and noble-minded sayings which are capable of immediate practical application and learn them so well that words become works.
 
 A bölcsességért nem kell imádkozni; magunknak kell kikaparni!
@@ -153,35 +156,36 @@ Vagyis akkor is számít, hogy milyen minőséget ad ki a kezéből, ha azt utá
 (Ez egyelőre kísértetiesen emlékeztet a blogra, ami gondosan, a legjobb tudásom szerint írok gyakorlatilag csak magamnak.)
 
 Kell tehát egy ideál -- egy példakép, akihez folyamatosan hasonlíthatjuk magunkat.
-Ha mindent úgy mondunk és teszünk, mintha figyelne, akkor egyből egyenesebbek leszünk.
+Ha mindent úgy mondunk és teszünk, mintha "ő" figyelne, akkor egyből _egyenesebbek_ leszünk.
 
 > Vonalzó nélkül a görbéből sem lesz egyenes.
 > > Without a ruler to do it against you won't make the crooked straight.
 
-De természetesen jól válasszuk meg azokat is, akik véleményére **nem** adunk!
+<br />
 
-> Ha minden cselekvésre fárasztóként tekintünk az nem igazi pihenés, csak egy gerinctelen tehetetlenség.
-> The state of mind that looks on all activity as tiresome is not true repose, but a spineless inertia.
+A sok pozitív tanács között akad azért néhány olyan is, hogy mit **ne** tegyünk.
+Jól válasszuk meg például azokat is, akik véleményére **nem** adunk!
 
 > Ne kövesd azok példáját, akik a figyelemre sóvárognak, nem a saját fejlődésükre.
 > > Refrain from following the example of those whose craving is for attention, not their own improvement.
 
-<br />
+Ne legyünk soha részegek, mert az tulajdonképpen egy önként vállalt őrültség, és a mértékletesség teljes hiánya.
+Ügyeljünk a haragunkra is -- ha nem is a mértékletesség, de legalább a saját józan eszünk megőrzése érdekében.
+És ne keverjük a pihenést a lustasággal!
 
-A sok pozitív tanács között akad azért néhány olyan is, hogy mit **ne** tegyünk.
-Ne legyünk például soha részegek, mert az tulajdonképpen egy önként vállalt őrültség, és a mértékletesség teljes hiánya.
-Ügyeljünk emellett a haragunkra is -- ha nem is a mértékletesség, de legalább a saját józan eszünk megőrzése érdekében.
+> Ha minden cselekvésre fárasztóként tekintünk az nem igazi pihenés, csak egy gerinctelen tehetetlenség.
+> > The state of mind that looks on all activity as tiresome is not true repose, but a spineless inertia.
 
 Enyhén kiosztjuk azokat is, akik nem használják ki a napfényt.
 Honnan tudhatnák, hogy _hogyan_ kell élni, amikor még azt sem tudják, hogy _mikor_ kellene?!
-És a kritika kiterjeszthetjük minden "természetellenes" életmódra.
-Ez is leginkább azért van, hogy a figyelmet felkeltsék -- a helyes, természetes életmód egyszerű.
+És a kritika kiterjeszthető minden "természetellenes" életmódra.
+Sokaknál ezek is leginkább azért vannak, hogy a figyelmet felkeltsék -- a helyes, természetes életmód egyszerű.
 
-Ne legyünk komolytalanok, akik csak szórakozásból hallgatnak filozófusokat!
+Ne legyünk komolytalanok, akik csak szórakozásból hallgatják mások tanítását!
 Ha csak a látszat vagy az esetleges későbbi felemlegetés miatt jegyzetelünk, akkor az később is pont annyit fog érni, mint ott helyben: semennyit.
 Legyünk inkább nyitottak, hátha önkéntelenül is ragad ránk valami!
 
-Az idézetek jók egy darabig, mint tanító eszközök, de előbb vagy utóbb mindenkinek a saját lábára kell állnia!
+Végül pedig: az idézetek jók egy darabig, mint tanító eszközök, de előbb vagy utóbb mindenkinek a saját lábára kell állnia!
 Jobb ha van egy saját, átfogó filozófiánk, mintha agyatlanul mások szösszeneteinek egy kis csokrára hagyatkozunk.
 Ne mindig csak értelmezők legyünk...
 Legyünk alkotók!
@@ -193,7 +197,7 @@ Mindez persze egy nehéz és lassú folyamat, de higgyünk benne, hogy menni fog
 > Nem azért veszítjük el az önbizalmunkat, mert nehéz; azért nehéz, mert nincs önbizalmunk.
 > > It's not because they're hard that we lose confidence; they're hard because we lack the confidence.
 
-És ha mindössze afelé haladunk, hogy egyre jobban tudunk saját magunk barátai lenni, már az nagy szó!
+És ha "csak" afelé haladunk, hogy egyre jobban tudunk majd saját magunk barátai lenni, már az nagy szó!
 
 > Hogy mit haladtam? Kezdek a saját barátom lenni.
 >
@@ -250,7 +254,7 @@ Ha még az egész életünk hátra lenne, akkor is kevés lenne az idő!
 Nem pazarolhatjuk tehát olyan dolgokra, amik nem _szükségesek_.
 Különben is, az idő sokkal gyorsabban telik, mint azt érzékeljük -- úgyhogy tessék munkához látni!
 Sőt, a legjava van elöl, amikor még fiatalok és egészségesek vagyunk.
-Jobban tennénk, ha kihasználnánk az elpazarlás helyett...
+Jobban tennénk, ha ezt kihasználnánk az elpazarlása helyett...
 
 És ha már csináljuk, tegyük bele az energiát!
 Ne ugráljunk könyvről könyvre, ötletről ötletre anélkül, hogy megemésztenénk.
@@ -314,7 +318,7 @@ Ez persze csak akkor működik, ha hitelesek vagyunk -- és nem épp bort iszunk
 > Akik hajlamosak mindarra, ami ellen prédikálnak, azok igazából két lábon járó hirdetései a saját tanításaik haszontalanságának.
 > > People prone to every fault they denounce are walking advertisements of the uselessness of their training.
 
-Ha már az üzenet stimmel, az előadásmódra is akad egy két megjegyzés.
+Ha már az üzenet stimmel, az előadásmódra is akad egy-két megjegyzés.
 Például elég részletesen kivesézzük, hogy tanárként és nyilvános szónokként nem igazán bizalomgerjesztő, ha hadar az ember.
 Ha az elméje rendezett (az márpedig itt nem árt), akkor az előadásmódja is legyen rendezett.
 Nyilván nem cél, hogy a kelleténél lassabb vagy vontatottabb legyen a tempó -- de ha nem megy az arany középút, akkor inkább lassabb legyen, minthogy elmenjen a közönség füle mellett!
@@ -381,9 +385,9 @@ Mindkettő abból fakad ugyanis, hogy nem tudjuk magunkat a jelenre korlátozni,
 
 És habár a múlton rágódásnak tényleg semmi értelme, a jövőn aggódásból legalább csinálhatunk valami hasznosat is: a jó időkben kell készülni a rossz időkre!
 Érdemes havonta/időnként olyan önkéntes szegénységet szimulálni, ami szoktat arra, hogy mi lenne, ha tényleg így járnánk.
-Nem nagy cucc, mert a világon sok millió koldus és éhező csinálja nap mint nap -- de mi _önkéntesen_ csinálnánk, és ez benne a nagy szó!
+Nem nagy cucc, mert a világon sok millió koldus és éhező csinálja nap mint nap -- de mi _önkéntesen_ csinálnánk, és ez (lenne) benne a nagy szó!
 
-> Jelölj ki egy pár napot, ahol beéred a legegyszerűbb étellel, abból is kevéssel, szakadt ruhákkal, és kérdezd meg magadtól: "Ettől kellene félnem?"
+> Jelölj ki egy pár napot, ahol beéred a legegyszerűbb étellel, abból is kevéssel, szakadt ruhákkal, és kérdezd meg magadtól: "Ettől féltem?"
 > > Set aside now and then a number of days during which you will be content with the plainest of food, and very little of it, and with rough, coarse clothing, and will ask yourself, 'Is this what one used to dread?'
 
 > Elengedhetetlen ahhoz szoktatni magunkat, hogy kevéssel is be tudjuk érni.
