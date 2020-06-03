@@ -6,24 +6,64 @@ date: 2020-06-19 00:01
 excerpt: >
 ---
 
-https://www.goodreads.com/book/show/385228.On_Liberty
+[Simon Blackburn -- Think]({% post_url 2020-01-07-simon-blackburn-think %}) című könyve egy elég meredek fejes volt a filozófia témakörbe.
+Kapcsolódó irodalomnak egyszerűen annyit írtam fel, hogy "neves filozófusok", amibe beletartozik Descartes, Hume, Kant, stb.
+Az egyetlen konkrét, szerző-cím páros ami többször felmerült és megmaradt, az [John Stuart Mill -- A szabadságról](https://www.goodreads.com/book/show/385228.On_Liberty){:target="_blank"} című esszéje.
+Ezért talán nem meglepő, hogy a héten pont azzal folytatjuk a második körös szaglászásunkat.
+
+John Stuart Mill -- mint kiderült -- kb. mindenről _is_ írt a filozófiai problémák területén belül, és a tetejébe mindegyikhez értett is.
+Alapfilozófiája a haszonelvűség, vagyis hogy úgy kell élni és cselekedni, hogy az a legtöbb élőlénynek a legnagyobb boldogságot hozza.
+Viszont kortársai (az 1800-as évek első felében, kb. mint Thoreau Amerikában) igencsak be voltak ragadva a szokás hatalmába: mindenki legyen egyforma, és mindenki egyforma is _akarjon_ lenni.
+Ehelyett ő arra biztat, hogy merjünk kísérletezni az életünkkel -- hogy objektíven megláthassuk, mitől is lennénk igazán boldogok.
+
+Jelen esszé témája a civil, szociális szabadság; vagyis hogy milyen hatalmat gyakorolhat a társadalom az egyén felett.
+Ezen a téren pedig Mill az elsők között hangsúlyozza, hogy a szubjektív vélemények helyett valami szisztematikus, logikailag védhető megközelítésre lenne szükség.
+Írási stílusában érződik, hogy nem mai csirke; nagyon ékesszóló, érvelései viszont mégis teljesen logikusak és könnyen követhetők.
+Tartalomjegyzékünk a következőképp alakul:
+
+- [Bevezetés](#1)
+- [A szólásszabadságról](#2)
+- [Az egyéniségről](#3)
+- [Az irányítás határairól](#4)
+
+<br />
 
 
-# Jegyzetek
 
-- mindenről _is_ írt a filozófiai problémák területén belül, és a tetejébe mindegyikhez értett is
-- alapfilozófiája a haszonelvűség, vagyis hogy úgy kell élni/cselekedni, hogy az a legtöbb élőlénynek a legnagyobb boldogságot hozza
-    - viszont kortársai igencsak be voltak ragadva a szokás hatalmába (mindenki legyen egyforma, és mindenki egyforma is _akarjon_ lenni)
-    - ehelyett ő arra biztat, hogy merjünk kísérletezni az életünkkel, hogy objektíven megláthassuk, mitől is lennénk igazán boldogok
-- egy korai észrevétel, hogy nagyon ékesszóló, mégis teljesen logikus és könnyű követni!
 
-# Tartalom
 
-## 1. Bevezetés
 
-Témánk a civil, szociális szabadság -- vagyis hogy milyen hatalmat gyakorolhat a társadalom az egyén felett.
-A hatalom és a szabadság harca pedig nagyon nem új keletű, úgyhogy kezdjünk megint egy gyors történelem leckével.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="1"></a>Bevezetés
+
+A hatalom és a szabadság harca nagyon nem új keletű, úgyhogy kezdjünk megint egy gyors történelem leckével.
 A őskori, vezértelen társadalmakban az erős élősködött a gyengébbeken, ezért a népesebb "gyengék" szerint kellett egy "fő erős", aki majd mindenkit a helyén tart a tornasorban.
 Viszont ilyenkor meg a "fő erőst" nem tartja vissza semmi, hogy ő élősködjön a gyengéken _is_, ezért kellettek határok a hatalmának -- ez az egyének "szabadsága".
 Ilyet két módon szerezhettek:
@@ -43,62 +83,67 @@ Ez magában persze nem baj, csak hirtelen megláttuk, hogy így meg a _többség
 Vagyis továbbra is akadhatnak bőven olyan érdekellentétek, amik miatt ugyanúgy szükség lenne azokra a régi hatalom-korlátozó eszközökre.
 Ez a "többség általi elnyomás".
 
-- és ez még hagyján
-    - ha a társadalom irányítja magát, akkor azt nem is csak a képviselőkön keresztül teszi, hanem a közvélemény által is
-    - és habár igaz, hogy azt nem lehet "lefejeztetni", aki a közvélemény ellen sért
-        - viszont cserébe az életünk sokkal privátabb és részletesebb irányítását teszi lehetővé
-    - ezért nem csak a törvények, hanem a közvélemény elnyomása ellen is védeni kell az egyéneket
-- jó, eddig talán még egyet is értünk -- kell húzni valahova egy határt ebben az esetben is
-    - de hova? na ezt még nem tudjuk
-    - abszolút semmi egyetértés senki és senki között
-        - minden kor és ország máshogy oldotta meg a saját határait
-        - és a lakosaiknak ez annyira természetes (ugye a szokás hatalma megint), hogy fel sem tűnik, hogy ez igazából **nem** természetes
-        - vagyis semmi alapvető nincs benne, csak ők épp így döntöttek
-- ha nem adunk értelmes okokat egy szabályozásra, csak az érzéseinkre hagyatkozunk, akkor az csak a véleményünk
-    - és ez nem lesz megalapozottabb attól, hogy többen mondják, nem csak egy ember
-    - a társadalmi osztályok mindig a saját hitük, vágyaik, félelmeik, és értékrendjük alapján tartanak helyesnek vagy helytelennek bizonyos dolgokat
-        - de ezt is sokkal inkább csak érzik, nem észérvekkel magyarázzák
-- eddig ha valaki a kisebbségi/tilos oldalán találta magát, az is csak azzal foglalkozott, hogy meggyőzze a többieket, hogy az adott dologban az ő véleménye a jobb
-    - de azzal leginkább senki nem foglalkozik, hogy mi az, amit egyáltalán szabályozni lehetne
-    - és ha lehetne is, akkor is milyen logikus érvek alapján (nem pedig többségi vélemények alapján!)
-    - az egyetlen jelentős kivétel a vallás
-        - ahol sikerült az egyén jogait fenntartani a társadalommal szemben, és következetesen kijelenteni, hogy ehhez bizony senki másnak semmi köze
-        - de ha ez törvényileg már megy is, a közvélemény szemszögéből még itt is igen nehéz toleránsnak lenni
-    - amiben eddig nem irányított a kormány, azt nagyon nem is akarja bevenni a gyomrunk
-        - de ezzel megint csak az a baj, hogy MIÉRT nem akarjuk
-        - ha csak a személyes ízlésünknek nem megfelelő, akkor az csak egy vélemény
-        - kellene tudni érvelni, hogy az irányítandó **kellene-e** hogy legyen
-            - és ha igen, akkor tessék bevállalni -- akkor is, ha szar
-    - egyszerűen nem is nagyon létezik olyan rendszer, ami alapján objektíven ítélhetnénk meg, hogy valamit helyes-e szabályozni vagy nem
-        - mindenki csak a saját véleményét szajkózza, és az nyer, aki hangosabb (vagy akik többen vannak)
-        - ez gáz
-- ennek a katyvasznak köszönhetően szinte véletlenszerű, hogy egy adott helyzetben a helyes utat választjuk-e
-    - egyszer olyan hatalmat akarunk elvenni a kormányoktól, amiknek tényleg náluk lenne a helye
-    - máskor meg olyanokat adunk nekik, amikhez semmi joguk nem lenne
+És ez még hagyján: ha a társadalom irányítja magát, akkor azt nem is csak a képviselőkön keresztül teszi, hanem a közvélemény által is!
+Igaz ugyan, hogy azt nem lehet "lefejeztetni", aki a közvélemény ellen sért...
+Viszont cserébe az életünk sokkal privátabb és részletesebb irányítását teszi lehetővé!
+Ezért nem csak a törvények, hanem a közvélemény elnyomása ellen is védeni kell az egyéneket.
+
+Tegyük fel, hogy eddig még egyet is értünk -- kell húzni valahova egy határt a "népuralom" esetében is.
+De hova?
+Na ezt még nem tudjuk.
+Abszolút semmi egyetértés senki és senki között.
+Minden kor és ország máshogy oldotta meg a saját határait.
+És a lakosaiknak ez annyira természetes (ugye a szokás hatalma megint), hogy fel sem tűnik, hogy ez igazából **nem** természetes.
+Vagyis semmi alapvető nincs benne, hogy náluk úgy van -- csak ők épp úgy döntöttek.
+
+Ha nem adunk értelmes okokat egy szabályozásra, csak az érzéseinkre hagyatkozunk, akkor az egy vélemény.
+És ez nem lesz megalapozottabb attól, hogy többen mondják, nem csak egy ember.
+A társadalmi osztályok mindig a saját hitük, vágyaik, félelmeik és értékrendjük alapján tartanak helyesnek vagy helytelennek bizonyos dolgokat.
+
+Eddig ha valaki a kisebbségi (tilos?) oldalon találta magát, az is csak azzal foglalkozott, hogy meggyőzze a többieket, hogy az adott dologban az ő véleménye a jobb.
+Azzal leginkább _senki_ nem foglalkozik, hogy mi az, amit egyáltalán szabályozni lehetne.
+És ha lehetne is, akkor milyen logikus érvek alapján -- nem pedig a többségi vélemény jogán!
+
+Az egyetlen jelentős kivétel a vallás, ahol sikerült az egyén jogait fenntartani a társadalommal szemben, és következetesen kijelenteni, hogy ehhez bizony senki másnak semmi köze!
+De ha ez törvényileg már megy is, a közvélemény szemszögéből még itt is igen nehéz toleránsnak lenni.
+
+Amiben eddig nem irányított a kormány, azt nagyon nem is akarja bevenni a gyomrunk.
+De ezzel megint csak az a baj, hogy **miért** nem akarjuk?!
+Ha mindössze a személyes ízlésünknek nem megfelelő, akkor az továbbra is csak egy vélemény!
+Kellene tudni érvelni, hogy az irányítandó **kellene-e** hogy legyen.
+Ha nem, akkor tessék, ott a válasz, hogy miért nem.
+Ha viszont igen, akkor tessék bevállalni -- akkor is, ha szar!
+
+A legnagyobb baj, hogy egyszerűen nem is nagyon létezik olyan rendszer, ami alapján objektíven ítélhetnénk meg, hogy valamit helyes-e szabályozni vagy nem.
+Mindenki csak a saját véleményét szajkózza, és az nyer, aki hangosabb (vagy akik többen vannak).
+Ez gáz, nem?
+És ennek a katyvasznak köszönhetően szinte véletlenszerű, hogy egy adott helyzetben a helyes utat választjuk-e.
+Egyszer olyan hatalmat akarunk elvenni a kormányoktól, amiknek tényleg náluk lenne a helye -- máskor meg olyanokat adunk nekik, amikhez semmi joguk nem lenne...
+
+Mill fő célja, hogy egy egyetlen kérdésből álló tesztet adjon arra, hogy a kormánynak vagy a közvéleménynek van-e köze valamihez.
+Ez pedig a következő: Érint ez mást is?
+Csak akkor korlátozhatjuk ugyanis mások szabadságát, ha a viselkedésük veszélyt jelentene a társadalomra.
+Vagyis az **nem elég**, hogy szerintünk úgy kellene viselkednie, ahogy mi gondoljuk.
+Persze, lehet érvelni neki, kérni, megpróbálni meggyőzni, stb.
+De kényszeríteni nem lehet addig, amíg úgy viselkedik, hogy az másra nem veszélyes.
+Csak azért vagyunk a társadalomnak felelősek, amivel valamilyen módon árthatnánk a neki.
+A saját testünk és elménk felett korlátlan hatalmunk kell, hogy legyen!
+
+Csak ránk tartozik például:
+
+1. Minden befelé forduló: gondolatok, érzések, vélemények, tudományos/vallási/morális megfontolások, önkifejezés, szólásszabadság;
+2. Az életmódunk: ízlés, foglalkozás, hobbi (még ha ökörségnek vagy konkrétan helytelennek is tartják);
+3. A párválasztásunk: bárkivel bármilyen közös megegyezésen alapuló célból összeállhatunk, amíg az másoknak nem árt, mindenki nagykorú, és senki nincs megtévesztve.
+
+Ha ezek nem teljesülnek, akkor egy társadalom nem szabad, nevezzük is akármilyen néven a kormányzati rendszerét.
+
+Mindenkinek természetes hajlama, hogy azt szeretné, ha mások is olyanok legyenek, mint ő.
+Ezért nem várhatjuk el, hogy a társadalom egyénekre "telepedése" magától csökkenjen...
+Hacsak nem állunk ki ellene erős morális meggyőződéssel, hogy miben szabad hatalmat gyakorolni!
+
+<br />
 
 
-- ez az egész esszé(?) arra épül, hogy egy egyetlen kérdésből álló tesztet adjon arra, hogy a kormánynak vagy a közvéleménynek van-e köze valamihez
-    - ez pedig a következő: csak akkor korlátozhatjuk mások szabadságát, ha a viselkedésük amúgy veszélyt jelentene a társadalomra
-    - vagyis az **nem elég**, hogy szerintünk úgy kellene viselkednie, ahogy mi gondoljuk
-    - persze, lehet érvelni neki, kérni, megpróbálni meggyőzni, stb.
-        - de kényszeríteni nem lehet addig, amíg úgy viselkedik, hogy az másra nem veszélyes
-    - csak azért vagyunk a társadalomnak felelősek, amivel valamilyen módon árthatnánk a társadalomnak
-        - a saját testünk és elménk felett korlátlan hatalmunk kell, hogy legyen!
-    - ez nem vonatkozik olyan egyénekre (vagy társadalmakra), akik még nem "nagykorúak"
-        - náluk indokolható, hogy erővel is kordában kell tartani őket a "saját érdekükben"
-        - de utána nem, csak akkor, ha másnak ártana a viselkedésével
-    - fontos következmény még, hogy valami el nem követéséért is járhat büntetés, ha az olyan dolog, ami jogosan elvárható lett volna
-        - nem csak úgy lehet rosszat tenni, hogy tesszük, hanem úgy is, hogy hagyjuk megtörténni
-        - nyilván itt sokkal óvatosabban kell ítélkezni, figyelembe venni a körülményeket, stb.
-        - és jó esetben ilyenkor ott lesz a személyes lelkiismeret is az olyan esetekre, amikre a törvény vagy a közvélemény nem tud kihatni
-- szóval akkor mi a köre a jogos irányításnak?
-    1. minden befelé forduló: gondolatok, érzések, vélemények, tudományos, vallási, morális megfontolások, önkifejezés, szólásszabadság
-    2. az életmódunk (az ízlésünkkel, a foglalkozásunkkal, a hobbijainkkal együtt): amíg nekik nem árt, nem szólhatnak bele (még ha ökörségnek vagy konkrétan helytelennek is tartják)
-    3. a párválasztásunk: bárkivel bármilyen közös megegyezésen alapuló célból összeállhatunk, amíg az másoknak nem árt, mindenki nagykorú, és senki nincs megtévesztve
-- ha ezek nem teljesülnek, akkor egy társadalom nem szabad, legyen akármilyen kormányzati rendszere is
-
-- mindenkinek természetes hajlama, hogy azt szeretné, ha mások is olyanok legyenek, mint ő
-    - ezért nem várhatjuk el, hogy a társadalom egyénekre "telepedése" csökkenjen, hacsak nem állunk ki ellene erős morális meggyőződéssel, hogy miben szabad hatalmat gyakorolni
 
 
 
@@ -106,7 +151,27 @@ Ez a "többség általi elnyomás".
 
 
 
-## 2. A gondolat és szólás szabadsága
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="2"></a>A szólásszabadságról
 
 - habár ez már a könyv írásakor is relatíve elterjedt volt, fontos kitérni rá, hogy ez miért jó, hogy így van
     - mint ugye mondtuk, nem az a lényeg, hogy mi van, hanem hogy mi kellene hogy legyen
@@ -215,13 +280,42 @@ Ez a "többség általi elnyomás".
         - ha a "hitszegők" teret szeretnének nyerni, azt valószínűleg nem is tudnák így elérni
     - szóval persze törekedjünk a "civil" vitára, de első sorban abban, hogy mi hogy állunk hozzá, nem abban, hogy a másik féltől mit várunk el
 
+<br />
 
 
 
 
 
 
-## 3. Az egyéniségről (mint a jólét egy eleméről)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="3"></a>Az egyéniségről
 
 - amíg másoknak nem ártunk vele (és ez persze egy nagyon fontos kikötés), addig a vélemény és szólás szabadsága mellett felhozott érvek ugyanúgy vonatkoznak a véleményeinkből fakadó tettekre
     - kb. mindenki szabadon csinálhasson, amit csak akar, amíg ebben mást sem korlátoz
@@ -275,12 +369,43 @@ Ez a "többség általi elnyomás".
     - ezért kurva gyorsan meg kell értetni a néppel, hogy ez egy jó és fontos dolog, amit nem irtani kellene
     - lehetőleg még mielőtt eljutunk arra a pontra, ahol már nem is csak hogy szokatlan lesz különcnek lenni, hanem már elképzelhetetlen
 
+<br />
 
 
 
 
 
-## 4. A társadalmi irányítás határairól
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="4"></a>Az irányítás határairól
 
 - az egyén nem sértheti mások érdekeit, és emellett köteles "beletenni a részét" a társadalom megvédésébe és működésébe
     - van, amit le lehet fektetni jogként és törvényekkel védeni, a többire pedig ott a közvélemény megítélése
@@ -330,8 +455,6 @@ Ez a "többség általi elnyomás".
 
 
 
-## Alkalmazások
-
 - az eddig lefektetett alapelvet kell elfogadni, hogy utána az alkalmazásukkal minden specifikus területen a "helyes" határhoz juthassunk el
     - de nyilván az nem cél egy kis esszében, hogy a részleteket kifejtsük
     - itt csak egy-két alkalmazás-prototípus következik, amik remélhetőleg példával szolgálnak arra, hogy majd a többit hogy szuszakolja ki mindenki maga
@@ -376,6 +499,30 @@ Ez a "többség általi elnyomás".
     - mert ezzel az egyéneket erősítik, az ő önálló képességeiket "hívják elő", hogy jól csinálhassák meg maguknak a saját dolgukat
     - a baj ott kezdődik, ha megpróbálják kivenni az egyének kezéből a munkát, hogy az államra kelljen hagyatkozniuk
         - a hozzáértés hiányában nem hogy nem fognak érteni a dolgukhoz, de még arra sem lesznek rendesen képesek, hogy megítéljék és kritizálják a kormány munkáját (amivel elszámoltathatnák őket)
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
