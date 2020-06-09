@@ -395,90 +395,88 @@ Amíg a mi életünkbe nem piszkál bele, addig elvi alapon nem tehetjük kénye
 Ha nem segítünk neki, akkor a legrosszabb az lehet, hogy békén hagyjuk.
 
 Ha ezt az alapelvet elfogadjuk, akkor az alkalmazásával később minden specifikus területen a "helyes" határhoz juthatunk el.
-De itt nyilván nem cél, hogy a részleteket is kifejtsük -- az esszé csak egy-két alkalmazás-prototípust tartalmaz.
-Ezek azonban remélhetőleg jó példával szolgálnak arra, hogy majd a többi határt hogyan szuszakolja ki mindenki magának.
+De itt nyilván nem cél, hogy a részleteket is kifejtsük -- az esszé csak egy-két alkalmazás-mintát mutat.
+Ezek azonban remélhetőleg segítenek majd abban, hogy a többi határt hogyan szuszakolja ki mindenki magának.
+
+<br />
+
+Pár konkrét példa arra, ahol **ne** szóljon bele a társadalom:
+
+- Van, aki a vallási intolerancia vádjára is úgy válaszol, hogy "A vallásos ember is intoleráns velem, mert olyan hitet vall, ami engem sért!"
+Ez viszont kb. olyan, mintha a pénztárca tulajdonosának jogait vetnénk össze a tolvajéval...
+"Nem ér, elvette!", mire a tolvaj: "Az nem ér, hogy nálad volt!"
+
+- Mi lenne, ha mondjuk az iszlám sertés-ellenes berögződés miatt egy államban betiltanák a sertés fogyasztást?
+Azt érezzük, hogy ez szar, de miért?
+Vallási intolerancia nem lehet, mert habár nekik nem szabad, olyan nincs, akinek kötelező.
+Vagyis megint oda jutunk, hogy egyszerűen azért, mert a személyes dolgainkba ne ugasson bele senki!
+
+- Van, aki szerint a szeszes italok árusítását is be kell tiltani, mert az neki társadalmi joga, hogy ne veszélyeztessék a biztonságát, ne rombolják a társadalom szerkezetét, ne profitáljanak "helytelen" dolgokból, stb.
+Itt ugye azzal próbálnának takarózni, hogy maga az árulás mást is érintő tevékenység.
+De világos, hogy nem azzal van a baj, hanem az ivással.
+Tehát újra ugyanaz a lényeg: ne legyen _semmi_ szabadság, csak amivel ők is egyetértenek...
+
+- Egy sémára megy az is, amikor megpróbálják betiltani a vasárnapi munkát (ami akkoriban eléggé éles téma volt).
+Lehet rizsálni erről-arról, de ez igazából szintén csak vallásos nézetek rákényszerítése másokra.
+Nyilván nem olyan kegyetlen, mint amikor az Inkvizíció kerékbe törte az eretnekeket, de a mögötte rejlő mentalitás sajnos ugyanaz.
+
+<br />
+
+Pár konkrét példa, ahol igenis **van** beleszólása a társadalomnak:
+
+- A kereskedelem több felet is érint, szóval az fair play lehet.
+Megint más kérdés, hogy érdemes-e.
+A szabad piac lehet, hogy jobban szabályozza a keresletet/kínálatot, mint az állam.
+De itt most nem is ez a fontos, hanem hogy **elvileg** sok esetben szabályozható lenne.
+A tiltásnál is inkább azért nem, mert az nem az eladó, hanem a vevő szabadságát sérti.
+
+- Hasonló a "mérgek" eladása eset: ha nem mondjuk csak gyilkosságra való, akkor korlátozni nem lehet (ugye a vevő jogai).
+De arra nyugodtan kényszeríthetjük az eladót, hogy bizonyos figyelmeztetéseket helyezzen el a csomagoláson.
+Vagy mondjuk vezessen valamilyen nyilvántartást, ami a vásárlást nem gátolja, viszont a jogtalan használatot nagyban megnehezítené.
+
+- Ha elég biztos, hogy bűncselekmény vagy baleset készül, akkor persze nem kell megvárni a bajt, hogy közbeavatkozhassanak.
+Ez ilyenkor nem annyira a szabadság korlátozása, mert bűn esetén eleve nem volt szabad, hogy azt csinálja; balesetnél pedig nem tudta, hogy mi történne, ha azt csinálná, amit csinálni készült.
+Ha viszont csak "veszély" van, akkor jobb csak a figyelmeztetés, és majd az egyén eldönti, hogy mit kezd azzal az információval.
+
+- Ha tenni szabad, akkor javasolni, hirdetni, vagy "felbujtani" szabad-e rá?
+És ha nem szabadna tenni?
+Ilyen értelemen hol van a szólásszabadság "határa", és mi nevezhető közvetetten bűnnek?
+Itt már sokkal zavarosabb lesz a víz, van érvelés mindkét oldalon...
+Úgy általában hevesen vitatott terület lesz, hogy mit jelent az "ártás" része annak a kikötésnek, hogy "ne ártsunk másoknak".
+
+- Ha az életstílus szerint nem is ítélhetünk, bűn esetén mégis figyelembe vehetjük.
+Például részegség esetén alapból ugye semmi közük hozzá.
+De ha mondjuk egy amúgy _ártatlan_ illető valami bűnt követ el részegen, akkor nyugodtan felkerülhet valami listára, ami miatt neki már korlátozottabb lehet az "alkoholfogyasztási engedélye", és visszaeséskor súlyosabb büntetésre is számíthat -- mert ilyenkor az állam már a másokra is kiható ügyeket szabályozza, nem a személyes szabadságát.
+
+- Van, amit **nyilvánosan** nem szabad -- de ez nem a tettet korlátozza, csak a nyilvánosságát, ami ugye másokat is érint, ezért fair play.
+
+- Kb. az egyetlen, amit a szabadság jegyében nem szabad tenni, az az, hogy lemondunk a szabadságunkról -- mert azzal megfosztjuk magunkat a visszavonás jogától.
+Ez valamilyen szinten vonatkozik egyéb, több embert de izoláltan érintő egyezményre (például a házasságra) is.
+Fontos, hogy valamilyen módon azért ki lehessen szállni belőle a körülmények változása miatt.
+
+<br />
+
+Arra is kapunk pár konkrét példát, ahol a társadalom nem szól bele, pedig **kellene**:
+
+- Érdekes mondjuk, hogy bizonyos helyzetekben mennyi hatalmat ad egy egyénnek egy másik felett.
+A férj hatalma a felesége felett (akkoriban, de azért most sem _teljesen_ fényes még a helyzet), vagy az apa hatalma a gyereke felett jóval nagyobb, mint kellene!
+Friss esettanulmányért csak nézzük meg azt a sok oltás-ellenes idiótát...
+
+- Mill kitér a taníttatásra is, ami manapság szerencsére már sokkal jobban gatyába van rázva -- legalábbis bizonyos szemszögből.
+Mert habár igaz, hogy legalább a taníttatás már kötelező, de emellett az állam elég erősen beleszól abba is, hogy _mit_ tanítsanak a gyereknek és _hogyan_!
+Ez pedig megint az egybeolvasztásnak kedvez az egyéniségek helyett.
+
+- És a (szerintem) legfontosabb: egy gyerek világra hozása kötelezettségekkel jár, és itt igenis **lenne** joga beleszólni az államnak, hogy ez legalább egy szintet megüssön!
+Lehet, hogy ezzel most nem leszek túl népszerű, de _miért_ vállalhat bárki csak úgy gyereket?
+A vezetéshez jogosítvány kell, egy kölcsönhöz 96-féle igazolás, de a gyerek csak úgy "becsúszhat"?! 
 
 
-
-
-
-- példák, hogy a saját dolgokba nem ugatunk bele:
-    - van, aki a vallási intolerancia vádjára is úgy válaszol, hogy "a vallásos ember is intoleráns velem, mert olyan hitet vall, ami engem sért"
-        - ez kb. olyan, mintha a pénztárca tulajdonosának jogait vetnénk össze a tolvajéval... "nem ér, elvette!", mire a tolvaj: "az nem ér, hogy nálad volt!"
-    - mi lenne, ha pl. az iszlám miatti sertés-ellen berögződés miatt egy államban betiltanák a sertés fogyasztást?
-        - azt érezzük, hogy ez szar, de miért? vallási intolerancia nem lehet, mert habár nekik nem szabad, olyan nincs, akinek kötelező.
-        - vagyis megint oda jutunk, hogy egyszerűen azért, mert a személyes dolgainkba ne ugasson bele senki!
-    - van, aki szerint a szeszes italok árusítását is be kell tiltani, mert az neki társadalmi joga, hogy ne veszélyeztessék a biztonságát, ne rombolják a társadalom szerkezetét, ne profitáljanak "helytelen" dolgokból, stb.
-        - kb. az alá rejtve, hogy maga az árulás mást is érintő tevékenység, de nem azzal van a baj, hanem az ivással
-        - ez kb. megint ugyanaz, hogy ne legyen _semmi_ szabadság, csak amivel én is egyetértek... kussolj!
-    - vagy hogy vasárnap megpróbáljuk betiltani a munkát (ami akkoriban eléggé éles téma volt)
-        - lehet rizsálni erről-arról, de ez igazából ugyanúgy csak vallásos nézetek rákényszerítése másokra
-        - lehet, hogy nem olyan kegyetlen, mint amikor az Inkvizíció kerékbe tört, de a mögötte rejlő mentalitás ugyanaz
-    - vagy amit a Mormonokkal művelnek
-        - nyugodtan le lehet nézni a hitüket anélkül is, hogy átkényszerítenénk őket a mi oldalunkra
-
-
-
-
-
-
-
-
-
-
-
-
-- a kereskedelem több felet is érint, szóval az fair play lehet
-    - megint más kérdés, hogy érdemes-e
-    - a szabad piac lehet, hogy jobban szabályozza a keresletet/kínálatot, mint az állam
-    - de itt most nem is ez a fontos, hanem hogy **elvileg** sok esetben szabályozható lenne
-    - a tiltásnál is inkább azért nem, mert az nem az eladó, hanem a vevő szabadságát sérti
-- hasonló a "mérgek eladása" eset
-    - ha nem mondjuk csak gyilkosságra való, akkor korlátozni nem lehet (ugye a vevő jogai)
-    - de arra nyugodtak kényszeríthetjük az eladót, hogy bizonyos figyelmeztetést helyezzen el a csomagoláson
-    - vagy valami nyilvántartást vezetni, ami a vásárlást nem gátolja, viszont a jogtalan használatot nagyban megnehezítené
-
-
-
-
-- a elég biztos, hogy bűncselekmény vagy baleset készül, akkor persze nem kell megvárni a bajt, hogy közbeavatkozhassanak
-    - ez ilyenkor nem annyira a szabadság korlátozása, mert bűn esetén eleve nem volt szabad, hogy azt csinálja, balesetnél pedig nem tudta, hogy mi történne, ha azt csinálná, amit csinálni készült
-    - ha viszont csak "veszély" van, akkor jobb csak a figyelmeztetés, és majd az egyén eldönti, hogy mit kezd azzal az információval
-- ha tenni szabad, akkor javasolni, hirdetni, vagy "felbujtani" szabad-e rá
-    - itt már sokkal zavarosabb lesz a víz, van érvelés mindkét oldalon
-- a bizonyos tetteket támogató helyekbe is csak akkor beleszólni, ha másnak gondot okoz
-    - onnan indulnak törvényszegések pl.
-- úgy általában: biztos hevesen vitatott terület lesz, hogy mit jelent az "ártás"
-
-
-
-- részegség esetén alapból semmi közük ugye hozzá
-    - de ha mondjuk így valami bűnt követ ell az illető, akkor felkerülhet valami listára, ami miatt neki már korlátozottabb lehet az "alkoholfogyasztási engedélye", és visszaeséskor súlyosabb büntetésre is számíthat (mert ilyenkor az állam már a másokra is kiható ügyeket szabályozza)
-
-- van, amit nyilvánosan nem szabad
-    - de ez nem a tettet korlátozza, csak a nyilvánosságát, ami ugye másokat is érint, ezért fair play
-- amit a szabadság jegyében nem szabad tenni, az az, hogy lemondunk a szabadságunkról, mert azzal megfosztjuk magunkat a visszavonás jogától
-    - ez valamilyen szinten vonatkozik egyéb, több embert de izoláltan érintő egyezményre (pl. házasság), hogy valamilyen módon azért ki lehessen szállni belőle a körülmények változása miatt
-
-
-
-
-- de amíg van sok olyan eset, ahol az állam jobban korlátoz, mint kellene, olyan is van, ahol pedig nem korlátoz annyira, mint kellene
-    - pl. hogy bizonyos helyzetekben mennyi hatalmat ad egy egyénnek egy másik felett
-    - a férj hatalma a felesége felett (még akkor, de azért most sem _teljesen_ fényes még a helyzet), vagy az apa hatalma a gyereke felett nagyobb, mint kellene
-    - csak nézzük meg azt a sok oltás-ellenes idiótát...
-    - egy gyerek világra hozása kötelezettségekkel jár, és itt igenis _lenne_ joga beleszólni az államnak, hogy ez legalább egy szintet megüssön!
-    - ez a taníttatásra is vonatkozik
-        - de persze nem úgy, hogy az állam mondja meg, hogy _mit_ tanítsanak a gyereknek és _hogyan_! mert az már megint egybeolvasztás lenne az egyéniségek helyett
-        - de azt azért jogosan elvárhatja az állam, hogy LEGYEN! valami oktatás
-    - és persze magára a gyerekvállalásra is... miért vállalhat bárki gyereket? miért?
-
+<br />
     
-- utolsó adag kérdés: mikor _segítsen_ az állam az egyénnek egy bizonyos dologban (ahelyett, hogy csak úgy hagyná, hogy magától csinálja)
-    - amíg az informálásról, a tanácsadásról, az esetleges szabályozásról (mit hogyan kellene csinálni) van szó, addig csak bátran, hadd menjen minden, ami csak mehet
-    - mert ezzel az egyéneket erősítik, az ő önálló képességeiket "hívják elő", hogy jól csinálhassák meg maguknak a saját dolgukat
-    - a baj ott kezdődik, ha megpróbálják kivenni az egyének kezéből a munkát, hogy az államra kelljen hagyatkozniuk
-        - a hozzáértés hiányában nem hogy nem fognak érteni a dolgukhoz, de még arra sem lesznek rendesen képesek, hogy megítéljék és kritizálják a kormány munkáját (amivel elszámoltathatnák őket)
+És végül egy gondolat arról, hogy mikor _segítsen_ az állam az egyénnek egy bizonyos dologban (ahelyett, hogy csak úgy hagyná, hogy magától csinálja).
+A lényeg, hogy amíg az informálásról vagy tanácsadásról van szó, addig csak bátran -- mert ezzel az egyéneket erősítik, az ő önálló képességeiket "hívják elő", hogy jól csinálhassák meg maguknak a saját dolgukat.
+A baj ott kezdődik, ha megpróbálják kivenni az egyének kezéből a munkát, hogy az államra kelljen hagyatkozniuk.
+A hozzáértés hiányában nem hogy nem fognak érteni a dolgukhoz, de még arra sem lesznek rendesen képesek, hogy megítéljék és kritizálják a kormány munkáját (amivel elszámoltathatnák őket).
 
 <br />
 
@@ -513,8 +511,13 @@ Ezek azonban remélhetőleg jó példával szolgálnak arra, hogy majd a többi 
 
 ## Összefoglalás
 
-- és akkor miért is fontos ez az egyén szemszögéből, hogy mit tegyen/tehet az állam
-    - azért is, hogy kordában tudjuk tartani a kormányt, ha túl akar nyúlni a hatáskörén
-    - de legfőképp azért, hogy mi egyének tudjuk, hogy mi az, amiben választhatunk
-        - sőt, ha elfogadjuk a kapott hitek vakon követése vs. döntés érvelést, akkor nem is csak "választhatunk", hanem "kellene választanunk"
-        - ébredjünk fel, lássuk meg, hogy lehet másként is, tanuljunk, tapasztaljunk, mérlegeljünk, és aztán döntsünk magunknak! vállaljunk felelősséget a saját sorsunkért.
+És miért is fontos ez az egyén szemszögéből, hogy mit tegyen vagy _tehet_ az állam?
+Egyrészt azért, hogy kordában tudjuk tartani a kormányt, ha túl akar nyúlni a hatáskörén.
+Másrészt pedig azért, hogy mi egyének tudjuk, hogy mi az, amiben választhatunk.
+Sőt, ha elfogadjuk a fenti "kapott hitek vakon követése kontra döntés" érvelést, akkor nem is csak választ<i>hatunk</i>, hanem választanunk **kellene**.
+
+Lehet, hogy az esszé sok politikai leckét is tartalmaz, de a mi oldalunkról az egyéni tanulságok a legfontosabbak.
+Mondjuk hogy merjünk kibontakozni, és legyen az egyéniségünk a mi személyes "életkísérletünk"!
+Vállaljunk felelősséget a saját sorsunkért!
+Tanuljunk, tapasztaljunk, mérlegeljünk...
+És aztán döntsünk magunknak!
