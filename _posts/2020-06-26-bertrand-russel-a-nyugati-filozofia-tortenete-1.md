@@ -65,87 +65,57 @@ Az ókoron belüli tartalom tanulságosabb részei a következőképpen alakulna
 
 ## A filozófia bölcsője
 
-- az itteniekről nem nagyon maradt fenn semmi közvetlenül -- mindenükről csak mások beszámolói alapján tudunk
-    - és képzelhetjük, hogy mekkora jelentőségű emberek lehettek, ha még a gyakran ellentétes nézeteket valló későbbiek beszámolói alapján is nagynak tűnnek
+A mi modern szemszögünkből mondhatjuk, hogy a görögöknél "indult" a civilizáció.
+Volt persze előtte Egyiptom és Mezopotámia, de az igazi _robbanás_ a görögöknél kezdődött -- kinőni a "barbárságból" az előre gondolkozás által.
+Elterjedt nézetek voltak a hidegfejűség, a józanság és a vágyak helyén való kezelése -- ami az ilyen arisztokrata rétegekre, Homéroszra, Arisztotelészre igazak is lehettek.
+De hát az előrelátás nem annyira kellemes, mint amikor elragadja az embert a szenvedély, ezért a Bacchus/Dionüszosz jellegű szertartásos, misztikus irányzatok is megragadtak.
+A lényeg talán az, hogy itt megvolt valamiféle egyensúly a vallás és a tudomány között.
+Mondhatjuk, hogy a vallásból nőtt ki a filozófia, amikor a tudomány valamilyen szinten visszafogta...
 
-- sok a tudományos haladás (mérések, holdfogyatkozások, ilyesmi)
+A legkorábbi eredmények nem is magukban fontosak, hanem hogy egyáltalán milyen kérdéseket tettek fel már akkoriban.
+Miből áll a világ?
+Hogyan keletkezett?
+Milyen alakú?
+Mi benne a rend?
+Relatíve vallástalan, kereskedővárosi elmék találkozása volt ez Egyiptomi és Babilóniai eszmékkel.
+És amilyen komolysággal kergették a válaszokat, az az utókort is nagyban motiválta.
 
-### A görög civilizáció felemelkedése
+A görögöket manapság vagy túlmagasztalják, vagy le se szarják.
+Mindkét véglet helytelen -- az igazság szokás szerint valahol félúton van.
+A világképeik például már önmagukban nagyszerűek a belső konzisztenciájuk miatt (még ha egyik sem igaz).
+Lehet, hogy az ő korukban még nagyon kezdetlegesek voltak, de finomításokkal valahogy csak túlélték a következő 2000 évet.
+Ami viszont az "egyoldalúságukat" illeti, ott tényleg kijárhat a negatív megítélés.
+Csak a kezdeti és megkérdőjelezhetetlen feltételezésekből induló "deduktív" levezetés volt terítéken -- ellenben a megfigyeléseken alapuló induktív levezetéssel, ami napjaink tudományos módszere, és a legnagyobb modern áttöréseket hozta.
+A félút: próbáljunk szimpatikusak lenni a nézetekkel, de kezeljük őket a helyükön.
 
-- a görögöknél "indult" a civilizáció a mi szemszögünkből
-    - volt persze előtte Egyiptom meg Mezopotámia, de az igazi "robbanás" a görögöknél kezdődött
-- a "barbárságból" kinőni az előre gondolkozás által
-    - de hát az előrelátás nem annyira kellemes, mint amikor elragadja az embert a szenvedély
-        - megint az egyensúlyra lenne szükség
-    - ezért a Bacchus/Dionüszosz jellegű irányzatok is megragadtak
-- a görögökről elterjedt nézet a hidegfejűség, a józanság, a vágyak helyén való kezelése
-    - és ez az ilyen arisztokrata rétegekre, Homéroszra, Arisztotelészre igazak is lehetnek
-    - de azért volt ott ilyen Bacchus-os, Orpheus-os, misztikus szertartásos mindenféle is
-- de a lényeg talán az, hogy itt megvolt valamiféle egyensúly a vallás és a tudomány között
-    - ezért nem ott kötöttek ki, mint a Keleti civilizációk
-    - mondhatjuk, hogy a vallásból nőtt ki a filozófia, amikor a tudomány valamilyen szinten visszafogta?
+Sok látszólagos ellentmondással találkozhatunk, mint például Heraclitus "minden változik" állítása kontra Parmenides "semmi nem változik" nézete.
+Heraclitus oldalán már itt feljön, hogy "nem lehet kétszer ugyanabba a folyóba lépni", vagy hogy "minden nap új".
+Ezzel elég sokaknak baja lesz, hiszen kb. a filozófiák és vallások nagyja az állandóság kereséséről szól.
+És habár a tudomány egyelőre tényleg nem talált semmi igazán állandót, a filozófia azóta sem adja fel.
 
-### A Milétoszi iskola
-- nem is az eredményeik miatt fontosak, hanem hogy egyáltalán milyen kérdéseket tettek fel
-    - miből áll a világ, hogy keletkezett, milyen alakú, mi benne a rend, ...
-    - relatíve vallástalan, kereskedővárosi elmék találkozása Egyiptomi és Babilóniai eszmékkel
-    - és amilyen komolysággal kergették a válaszokat, az az utókort is nagyban motiválta
+Egy másik meglepetés, hogy az atomistákon keresztül már ilyen korán találkozunk a modern tudományos szemlélet nagyjával is: atomok, amik oszthatatlanok, de elválaszthatók; köztük sok üres hely; állandó mozgásban vannak...
+Ettől persze megjegyezzük, hogy ennek a nézetnek nem sok kézzel fogható "alapja" volt.
+Szóval attól, hogy épp igazuk volt (vagy legalábbis jobban igazuk volt, mint a többieknek), ezt akkoriban még nem nagyon tudták alátámasztani semmivel.
 
-### Heraclitus
-
-- a görögöket manapság vagy túlmagasztalják, vagy le se szarják
-    - és mindkét véglet kb. helytelen, az igazság valahol félúton van
-- ami a metafizikai felvetéseiket illeti, jogos az magasztalás
-    - ezek a világképek már önmagukban nagyszerűek a belső konzisztenciájuk miatt, még ha egyik sem igaz
-    - lehet, hogy az ő korukban még nagyon kezdetlegesek voltak, de finomításokkal valahogy csak túlélték a következő 2000 évet
-- ami viszont az "egy oldalúságukat" illeti, nem annyira
-    - csak az axiómákból deduktív levezetés volt terítéken, a megfigyeléseken alapuló induktív levezetés nem (ami napjaink tudományos módszere, és a legnagyobb modern áttöréseket hozta)
-- a félút: próbáljunk szimpatikusak lenni a nézetekkel, amíg át nem látjuk őket teljesen, és aztán viszont próbáljuk őszintén megkritizálni
-    - a lenézés megakadályozza az első fázist, a túlzott magasztalás meg a másodikat
-
-
-- állandó változásban van a világ, van ami épp "felgyullad", van, ami kialszik
-    - már itt feljön, hogy "nem lehet kétszer ugyanabba a folyóba lépni", vagy hogy "minden nap új" ("semmi nem állandó, minden csak épp válik valamivé")
-    - ezzel pedig elég sokaknak baja lesz, hiszen kb. az egész filozófia és vallás is az állandóság kereséséről szól (Isten, örök élet)
-- a tudomány, ahogy halad, egyelőre még tényleg nem talált semmi állandót (atomok, proton/elektron, energia)
-    - a filozófusok nagyon keresnek valamit, ami "időtlen"
-
-
-### Parmenides
-
-- csak hogy ne finomkodjunk, a fenti "minden változik" ellentéteként itt azt állítjuk, hogy "semmi nem változik" :)
-    - Parmenides a logika alapú metafizika megalkotója, akinek a hatása utána sokáig (Hegel-ig) érződik
-    - de a lényeg, hogy megmarad belőle az "anyag állandósága", amit utána nagyon sokáig tartott a filozófián felül a fizika és a teológia is
-- emellett erős monizmus == minden ugyanabból van, csak az Egy létezik
-
-
-### Atomisták 
-
-- Leocipus & Democritus
-- kb. a modern tudományos szemlélet nagyja: atomok, oszthatatlanok, de elválaszthatók, köztük sok üres hely, állandó mozgásban vannak
-    - mondhatjuk, hogy egy középút a monizmus és a pluralizmus között: minden atomokból van, de vannak különböző típusú atomok
-    - a keveredésükből jön a létrejövés, a szétválásukból az elmúlás
-- sokan gondolták, hogy az atomok random mozgása miatt ebben a szemléletben minden csak a véletlen műve, de épp ellenkezőleg
-    - szigorú deterministák voltak
-    - oké, azt továbbra sem tudjuk, hogy hogyan keletkezett a világ
-    - de ha már egyszer van, akkor onnantól kezdve mechanikailag magyarázható, hogy melyik helyzetből melyik következik
-- itt nincs a létezésnek "célja" vagy "értelme", minden előre meghatározott
-    - nagy a különbség, hogy a "miért" kérdését hogy tesszük fel
-    - ha úgy, hogy valamilyen esemény mi célt szolgál, akkor az inkább teológia, és "nem segít"
-    - ha pedig inkább úgy, hogy "milyen előfeltételek vezettek ide", az sokkal tudományosabb lesz, és sokat tanulhatunk belőle
-- ettől még megjegyezzük, hogy ennek a nézetnek nem sok "alapja" volt
-    - szóval attól, hogy épp igazuk volt (vagy legalábbis jobban igazuk volt, mint a többieknek), ezt akkoriban még nem nagyon tudták alátámasztani semmivel
-- és ha már ennyire materializmus és determinizmus, akkor ehhez milyen etika illik
+Sokan gondolták, hogy az atomok véletlenszerű mozgása miatt ebben a szemléletben minden csak a véletlen műve, de épp ellenkezőleg: szigorú deterministák voltak.
+Oké, azt továbbra sem tudjuk, hogy hogyan keletkezett a világ, de ha már egyszer van, akkor onnantól kezdve mechanikailag magyarázható, hogy melyik helyzetből melyik következik.
+Így nincs a létezésnek "célja" vagy "értelme", minden előre meghatározott.
+És hogy milyen etika illik ehhez?
     - legyünk vidámak/boldogok, és ehhez a legjobb út a mértékletesség és a kultúra
     - nem kell semmi erőszakos vagy szenvedélyes (még szex sem, mert akkor elönti az agyad a szenvedély)
     - gyerek sem kell, mert az is csak elvonja az embert a filozófiától
 
 
+- sok a tudományos haladás (mérések, holdfogyatkozások, ilyesmi)
 
 
-- itt véget ér egy korszak, mert akik ezután jönnek, azok sokkal inkább az ember felé fordulnak, és nem törődnek túlzottan sokat az univerzummal
+
+
 
 ### Protagoras
+
+- Új korszakot nyitnak, mert innentől sokkal inkább az ember felé fordulnak, és nem törődnek túlzottan sokat az univerzummal
+
 
 - szofisták ~= magántanárok
 - kontextus: a demokráciában mindenki (szakértelem nélkül) részt vett a rendszerben (pl. bírák) és az emberek is maguk adták elő az ügyeiket
@@ -158,7 +128,6 @@ Az ókoron belüli tartalom tanulságosabb részei a következőképpen alakulna
 - azért is utálták őket, mert abszolút szartak rá, hogy "helyes" következtetésekhez vezet-e majd egy érvelés
     - Platón (és azóta kb. mindenki) úgy érvel dolgok mellett/ellen, hogy megvan, mit akar kihozni belőle, és ezért elfogult
     - főleg etikai dolgoknál veszélyes úgy érvelni, hogy közben már azt hiszik, hogy tudják a konklúziót, amihez el kell jutni az érveléssel --> erre majd figyelni a későbbiekben
-
 
 
 
