@@ -39,7 +39,7 @@ Az ókoron belüli tartalom tanulságosabb részei a következőképpen alakulna
 - [Az epikureisták](#az-epikureisták)
 - [A sztoikusok](#a-sztoikusok)
 
-
+<br />
 
 
 
@@ -97,37 +97,18 @@ Egy másik meglepetés, hogy az atomistákon keresztül már ilyen korán talál
 Ettől persze megjegyezzük, hogy ennek a nézetnek nem sok kézzel fogható "alapja" volt.
 Szóval attól, hogy épp igazuk volt (vagy legalábbis jobban igazuk volt, mint a többieknek), ezt akkoriban még nem nagyon tudták alátámasztani semmivel.
 
-Sokan gondolták, hogy az atomok véletlenszerű mozgása miatt ebben a szemléletben minden csak a véletlen műve, de épp ellenkezőleg: szigorú deterministák voltak.
-Oké, azt továbbra sem tudjuk, hogy hogyan keletkezett a világ, de ha már egyszer van, akkor onnantól kezdve mechanikailag magyarázható, hogy melyik helyzetből melyik következik.
-Így nincs a létezésnek "célja" vagy "értelme", minden előre meghatározott.
-És hogy milyen etika illik ehhez?
-    - legyünk vidámak/boldogok, és ehhez a legjobb út a mértékletesség és a kultúra
-    - nem kell semmi erőszakos vagy szenvedélyes (még szex sem, mert akkor elönti az agyad a szenvedély)
-    - gyerek sem kell, mert az is csak elvonja az embert a filozófiától
+Ahogy egyre jobban közeledünk a "nagy nevekhez", úgy fordul a filozófia érdeklődése is az univerzumról egyre inkább az emberek felé.
+Amikor a demokrácia miatt mindenkinek személyesen kell előadnia az ügyét a bíróságon, akkor a logikai érvelések valahogy hirtelen fontosabbak lesznek, mint hogy kerek-e a világ vagy lapos.
+Ezt az űrt a szofisták (kb. magántanárok, felkészítők), és az ő szkeptikus hozzáállásuk töltötte be.
+A nézőpontok kifacsarása miatt eléggé negatív a későbbi megítélésük, de van mit tanulnunk tőlük: képesek voltak amorálisan, a "helyes" következtetéseket figyelmen kívül hagyva, minden állítás mellett és ellen is érvelni.
+Ez pedig, habár esetenként felháborító, nagyban segít megküzdeni az előítéletekkel.
+Platón (és azóta kb. mindenki) úgy érvel dolgok mellett/ellen, hogy előre megvan, mit akar kihozni belőle -- és ezért elfogult.
+Főleg etikai dolgoknál veszélyes úgy érvelni, hogy közben már azt hisszük, hogy tudják a konklúziót, amihez el kell jutni.
+Erre majd érdemes lesz figyelni a későbbiekben...
+
+<br />
 
 
-- sok a tudományos haladás (mérések, holdfogyatkozások, ilyesmi)
-
-
-
-
-
-### Protagoras
-
-- Új korszakot nyitnak, mert innentől sokkal inkább az ember felé fordulnak, és nem törődnek túlzottan sokat az univerzummal
-
-
-- szofisták ~= magántanárok
-- kontextus: a demokráciában mindenki (szakértelem nélkül) részt vett a rendszerben (pl. bírák) és az emberek is maguk adták elő az ügyeiket
-    - részben erre is készítették fel őket a szofisták
-    - és mivel az ilyen logikai, érvelési kifacsarásokra (is?) specializálódtak, eléggé negatív a későbbi megítélésük (Platón)
-    - mondható, hogy ókori jogászok voltak, amorális hozzáállással -- ami nyilván felháborította azokat, akiknek a filozófia bármilyen szinten keveredett a moralitással vagy a vallással
-- az irányzat, amit behoztak, az a szkepticizmus
-    - van-e olyan, hogy objektív igazság --> Protagoras szerint nincs, minden embernek a saját igaza az igaz
-    - de vannak **jobb** vélemények, még ha igazabbak nincsenek is
-- azért is utálták őket, mert abszolút szartak rá, hogy "helyes" következtetésekhez vezet-e majd egy érvelés
-    - Platón (és azóta kb. mindenki) úgy érvel dolgok mellett/ellen, hogy megvan, mit akar kihozni belőle, és ezért elfogult
-    - főleg etikai dolgoknál veszélyes úgy érvelni, hogy közben már azt hiszik, hogy tudják a konklúziót, amihez el kell jutni az érveléssel --> erre majd figyelni a későbbiekben
 
 
 
@@ -162,40 +143,50 @@ Oké, azt továbbra sem tudjuk, hogy hogyan keletkezett a világ, de ha már egy
 
 ## Szókratész
 
-- amit biztosan tudunk, hogy Athénban tanított, és kb. 70 éves korában halálra ítélték eretnekségért és a fiatalság "megrontásáért"
-- jelentős tanítványai Xenophon és Platón, akik mindketten sokat írtak róla, de nem sokban értenek egyet
-    - Xenophon pl. annyira ártatlan képet fest róla, hogy pont attól lesz hihetetlen -- ha tényleg ilyen lett volna, akkor miért végeztették volna ki?
-- egyik fő vesszőparipája az volt, hogy kompetens emberek kerüljenek hatalmi pozícióba
-    - és meglehet, hogy könnyebb volt elhallgattatni, mint egy véletlen választáson alapuló rendszert ilyen jelentősen megreformálni
-- maga védelmében azt mondja, hogy ő csak azt akarta megcáfolni, amit a Delphi jós mondott róla: hogy ő a legbölcsebb ember
-    - ezért elkezdett körbe járni, keresni a nála bölcsebb embereket (politikusok, költők, művészek) de nem talált. és amikor ráébredt "áldozatai" bölcs-telenségére, azt szépen közölte is velük
-        - a végső következtetése, hogy ő csak annyiban bölcsebb, mint mások, hogy legalább tisztában van vele, hogy nem bölcs
-        - Dunning-Kruger már megint akcióba lép :D
-    - plusz ezeket a tapasztalatait meg is osztotta (ingyen!), ezért ebbe a biznisszbe a tanítványai is beszálltak idővel
-    - nyilvánvaló tehát, hogy az így megalázottak saját bölcsnek tettetésük érdekében ellene fordulnak
-- a korrupciós vádra kicsikarja a bírákból, hogy konkrétan rajta kívül mindenki csak a javára van az ifjúságnak, ami elég ironikus
-- a "hamis istenekről prédikál" mellé már a "teljesen ateista" vád is felkerül
-    - és oké, hogy mindkettő szembemegy az állam isteneinek tiszteletével, de könyörgöm, egymásnak is ellentmondanak :)
-- mint mikor katona volt és parancsra a posztján maradt, most is azt teszi
-    - csak most "Isten" parancsa van érvényben, hogy a filozófia útját kövesse
-    - és az pedig azt követeli tőle, hogy soha ne hagyja abba a tudás keresését és tanítását
-    - és különben is, a bölcs ember nem fél a haláltól -- pl. honnan tudjuk, hogy nem az a jobb döntés?
-- ő az Athéni rezidens bögöly, aki a csipkelődésével felébreszti a népet
-    - ha megölik, az nekik lesz rosszabb
+Első "dedikált" állomásunk Szókratész, aki tekinthető a nyugati morális filozófia atyjának.
+Közvetlenül tőle nem maradt ránk semmi, de tanítványain (Platón és Xenophon) keresztül igencsak hízelgő képet kapunk róla.
+Amit biztosan tudunk, hogy Athénban tanított, és kb. 70 éves korában halálra ítélték eretnekségért és a fiatalság "megrontásáért".
 
-- a lelke teljesen uralkodott a teste felett
-    - beszámolók, hogy milyen rezzenéstelenül (sztoikusan?) viselte az éhséget vagy a hideget
-    - a szerelmi kapcsolatai is csak "Plátóiak" voltak (ha hihetünk Plátónak...), és végül a halál "lenézésével" is ezt bizonyította
-- érdeklődése főként az etika felé húzott
-    - mértékletesség, barátság, bátorság...
-        - nincs konkrét következtetés, de az hangsúlyos, hogy szerinte ezekről mindenkinek gondolkoznia kellene!
-    - állítja, hogy senki nem bűnözik úgy, hogy tudatában lenne, ezért a tökéletes erkölcsösséghez "csak" tudásra van szükség
-- nem "feltalálója", de erős népszerűsítője a dealektikának, a "vitatkozás művészetének"
-    - ez nyilván nem mindenre alkalmas (empirikus tudomány)
-    - de amire igen (vagyis, ahol már eleget tudunk ahhoz, hogy eljuthassunk vele a konklúzióig, csak hát még nem jutottunk el oda), arra igencsak hatásos és szemléletes tud lenni
-- nagyon erősen képesek vagyunk egymásnak ellentmondó véleményen lenni sok dologgal kapcsolatban, hogy az álláspontunk minden esetben épp az legyen, ami nekünk kényelmes
-    - ezt a logikus dialógus jól orvosolja
-    - lehet, hogy itt-ott bejön egy kis fájdalom majd, de legalább konzisztens lesz a vélemény-rendszerünk, és ez nem lebecsülendő!
+Egyik fő vesszőparipája az volt, hogy kompetens emberek kerüljenek hatalmi pozícióba -- milyen radikális, nem?
+Ezért viszont valószínűleg könnyebb volt elhallgattatni, mint egy véletlen választáson alapuló rendszert ilyen jelentősen megreformálni.
+Maga védelmében (Platón szerint) azt mondja, hogy ő csak azt akarta megcáfolni, amit a Delphi jós mondott róla: hogy ő a legbölcsebb ember.
+
+Ezért elkezdett körbe járni, keresni a nála bölcsebb embereket -- politikusok, költők, művészek.
+Csak hát nem talált.
+És amikor ráébredt "áldozatai" _bölcs-telenségére_, azt szépen közölte is velük.
+A végső következtetése, hogy ő csak annyiban bölcsebb, mint mások, hogy legalább tisztában van vele, hogy nem bölcs.
+Még nagyobb baj talán, hogy ezeket a tapasztalatait nyilvánosan (és ingyen!) is megosztotta.
+Sőt, ebbe a biznisszbe később a tanítványai is beszálltak.
+Mondhatni ő volt a rezidens Athéni bögöly, aki a csipkelődésével felébreszti a népet.
+
+Nyilvánvaló tehát, hogy az így megalázottak saját bölcsnek tettetésük érdekében ellene fordulnak.
+Koholt vádakkal gyorsan halálra ítélték -- amit kapcsolatain keresztül könnyen megúszhatott volna, de nem tette.
+Mint mikor katona volt és parancsra a posztján maradt, most is azt teszi.
+Csak most "Isten" parancsa van érvényben, hogy a filozófia útját kövesse.
+Az pedig azt követeli tőle, hogy soha ne hagyja abba a tudás keresését és tanítását.
+És különben is, a bölcs ember nem fél a haláltól -- hiszen honnan tudjuk, hogy nem az a jobb döntés?
+
+A lelke teljesen uralkodott a teste felett.
+Számos beszámoló alapján tudjuk, milyen rezzenéstelenül (sztoikusan?) viselte az éhséget vagy a hideget, illetve a szerelmi kapcsolatai is csak "Plátóiak" voltak -- ha hihetünk Platónnak...
+Végül pedig a halál "lenézésével" is ezt bizonyította.
+
+Érdeklődése főként az etika felé húzott -- mértékletesség, barátság, bátorság...
+Nincs konkrét következtetés, de az hangsúlyos, hogy szerinte ezekről _mindenkinek_ gondolkoznia kellene!
+Állítja továbbá azt is, hogy senki nem bűnözik úgy, hogy tudatában lenne.
+Ezért a tökéletes erkölcsösséghez "csak" tudásra van szükség!
+
+Nem feltalálója, de erős népszerűsítője a dealektikának, vagyis a "vitatkozás művészetének".
+Ez nyilván nem mindenre alkalmas (lásd empirikus tudomány).
+De amire igen -- mondjuk ahol már eleget tudunk ahhoz, hogy eljuthassunk vele a konklúzióig, csak hát még nem jutottunk el oda -- arra viszont igencsak hatásos és szemléletes tud lenni.
+Nagyon is képesek vagyunk egymásnak erősen ellentmondó véleményen lenni sok dologgal kapcsolatban, hogy az álláspontunk minden esetben épp az legyen, ami nekünk kényelmes.
+Ezzel pedig hasznos lehet tisztában lenni -- és némi logikus dialógussal orvosolni.
+Lehet, hogy itt-ott bejön majd vele egy kis fájdalom, de legalább konzisztens lesz a vélemény-rendszerünk, és ez nem lebecsülendő!
+
+<br />
+
+
+
+
 
 
 
@@ -229,13 +220,6 @@ Oké, azt továbbra sem tudjuk, hogy hogyan keletkezett a világ, de ha már egy
 
 ## Platón
 
-### Spárta hatása
-
-- a valós viszonylataik segítették őket győzelemhez, de a "mitológiájuk" az, ami sokáig hatott, legalább Rousseau és Nietzsche koráig
-- Arisztotelész pl. elég rossz színben tünteti fel őket, hogy a nőkre nem terjedt ki a szigor (akik ezért fényűzően élhettek), nem egyenlően oszlott el a vagyon, korrupt volt a politikai rendszer, mindenki megvásárolható volt és a háttérben az élvezeteknek is élt, stb.
-- de nem ez maradt meg az emberekben, hanem a mítosz, miszerint Spárta az egyszerűségen és a haza szolgálatán alapult
-    - mindenkit egyenlően "megkeményítettek", közösen éltek és ettek, a bátorságot és a háborús sikereket tartották mindennél többre
-
 ### Platón véleményeinek forrása
 
 - Platón és Arisztotelész a két legfontosabb, ezért őket nyilván érdemes mindenkinél részletesebben tárgyalni
@@ -254,6 +238,15 @@ Oké, azt továbbra sem tudjuk, hogy hogyan keletkezett a világ, de ha már egy
 
 
 ### Platón utópiája
+
+
+### Spárta hatása
+
+- a valós viszonylataik segítették őket győzelemhez, de a "mitológiájuk" az, ami sokáig hatott, legalább Rousseau és Nietzsche koráig
+- Arisztotelész pl. elég rossz színben tünteti fel őket, hogy a nőkre nem terjedt ki a szigor (akik ezért fényűzően élhettek), nem egyenlően oszlott el a vagyon, korrupt volt a politikai rendszer, mindenki megvásárolható volt és a háttérben az élvezeteknek is élt, stb.
+- de nem ez maradt meg az emberekben, hanem a mítosz, miszerint Spárta az egyszerűségen és a haza szolgálatán alapult
+    - mindenkit egyenlően "megkeményítettek", közösen éltek és ettek, a bátorságot és a háborús sikereket tartották mindennél többre
+
 
 - legfontosabb dialógusa az Állam, amiben az ideális államformáról ír
 - közemberek vs. katonák vs. védelmezők
@@ -278,6 +271,7 @@ Oké, azt továbbra sem tudjuk, hogy hogyan keletkezett a világ, de ha már egy
     - hát, kb. le tudjuk majd győzni a hasonló méretű ellenséget, és mindig lesz mit enni
     - művészet nulla, tudomány és fejlődés nulla (mert minden állandó)
     - szóval... meh
+    
 
 ### Az ötletek elmélete
 
