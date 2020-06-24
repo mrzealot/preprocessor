@@ -220,63 +220,50 @@ Lehet, hogy itt-ott bejön majd vele egy kis fájdalom, de legalább konzisztens
 
 ## Platón
 
-### Platón véleményeinek forrása
-
-- Platón és Arisztotelész a két legfontosabb, ezért őket nyilván érdemes mindenkinél részletesebben tárgyalni
-- Athéni nemes, Szókrátész tanítványa, származása (és Szókrátész elvesztése) miatt gyűlölte a demokráciát
-    - valószínűleg ezért is fordulhatott Spárta felé az ideális rendszert keresve
-- forrásai
-    - Pythagoras (innen veszi az orphikus, misztikus jellegét, a halhatatlanságot, de a matek és az intellektus iránti szeretetét is)
-    - Parmenides (innen veszi a világ örökségét/időtlenségét/változatlanságát, miszerint minden, amit változásnak látunk, csak illúzió)
-    - Heraclitus (akit úgy értelmezett, hogy az ÉSZLELT valóság van állandó változásban; és mivel az igazi valóság állandó, ezért az érzékeinkből nem vonhatunk le semmilyen valós következtetést, csak az intellektusunk alapján --> ennyit az empirikus tudásról)
-    - Socrates (ahonnan az etikai hangsúlyt, és a teológikus > mechanikus magyarázatok véleményt örökölte)
-- innentől logikus, hogy miért egy totalitáriánus, autoritariánus rendszert tekint a "jó" választásnak
-    - megvan A jó, ami örök és változatlan, ezért a kormány is örök és változatlan kellene, hogy legyen olyan irányítás alatt, ami a leginkább mintázza a jót
-    - a politikában csak olyan vehet részt, aki tudja és éli az elveket, különben megronthatná a rendszert belülről
-    - sok oktatás kell, mire egy megfelelően bölcs uralkodót (vagy uralkodó réteget) ki lehet nevelni --> ez egyfajta oligarchia
-    - a "lazítás" elengedhetetlen kelléke a bölcsességnek (sztenderd görög arisztokrata nézet), szóval azért dolgozni ne kelljen már a megélhetésért!
-
+Athéni nemes, Szókratész tanítványa, és kb. mindenben **is** benne volt a keze.
+Van, aki az egész nyugati filozófiát egy sor Platónhoz fűzött lábjegyzetnek nevezi.
+A könyv is nyilván sokkal részletesebben tárgyalja, de itt csak két főbb (és híresebb) ötletét emelném ki: az ideális államot, és az ideák elméletét.
 
 ### Platón utópiája
 
+Arisztokrata származása (és Szókrátész elvesztése) miatt gyűlölte a demokráciát.
+Valószínűleg ezért is fordulhatott az otthoni dolgok helyett Spárta felé az ideális rendszert keresve.
+Persze Spártában sem volt minden fenékig tejfel -- Arisztotelész például elég rossz színben tünteti fel őket, hogy a nőkre nem terjedt ki a szigor (akik ezért fényűzően élhettek), nem egyenlően oszlott el a vagyon, korrupt volt a politikai rendszer, mindenki megvásárolható volt, és a háttérben az élvezeteknek is élt, stb.
+De nem ez maradt meg róluk az emberekben, hanem a mítosz, miszerint Spárta az egyszerűségen és a haza szolgálatán alapult.
+Ahol mindenkit egyenlően "megkeményítettek", közösen éltek és ettek, a bátorságot és a háborús sikereket tartották mindennél többre.
 
-### Spárta hatása
+Ez a modell és _hangulat_ inspirálta (legalább részben) az elképzelt utópiát.
+A társadalom szigorúan rétegezett: közemberekből, katonákból, és védelmezőkből állna -- és a "lényeg" nyilván a védelmezők, és hogy az ő kezükben legyen a hatalom.
+Arra is megvolt a stratégia, hogy ezek a védelmezők a jóféle "jót" tartassák be:
 
-- a valós viszonylataik segítették őket győzelemhez, de a "mitológiájuk" az, ami sokáig hatott, legalább Rousseau és Nietzsche koráig
-- Arisztotelész pl. elég rossz színben tünteti fel őket, hogy a nőkre nem terjedt ki a szigor (akik ezért fényűzően élhettek), nem egyenlően oszlott el a vagyon, korrupt volt a politikai rendszer, mindenki megvásárolható volt és a háttérben az élvezeteknek is élt, stb.
-- de nem ez maradt meg az emberekben, hanem a mítosz, miszerint Spárta az egyszerűségen és a haza szolgálatán alapult
-    - mindenkit egyenlően "megkeményítettek", közösen éltek és ettek, a bátorságot és a háborús sikereket tartották mindennél többre
+- **Oktatás.**
+Először "csak" zene és gimnasztika, de ez ne tévesszen meg. 
+Zene = music = mindenféle "Múzsai", vagyis kb. minden mentális; a gimnasztika pedig minden fizikai.
+De csak szigorú keretek között, cenzúrával, irányítottan!
+Elég később látni a "visszataszító dolgokat" és a háborút, illetve ellen kell állni a csábításoknak, mielőtt felnőtté válnának.
 
+- **Gazdasági tényezők.**
+Erős kommunizmus, mitikus Spárta módra...
+De még az asszonyok és gyerekek tekintetében is osztozkodás -- szinte törzsi, "minden gyerek mindenki gyereke" módra.
 
-- legfontosabb dialógusa az Állam, amiben az ideális államformáról ír
-- közemberek vs. katonák vs. védelmezők
-    - és a "lényeg" a védelmezők, az ő kezükben legyen a hatalom
-- hogy lehet biztosítani, hogy a "jót" tartatják be?
-    - oktatás
-        - először zene és gimnasztika --> zene=music=mindenféle Múzsai, szal kb. minden mentális, a gimnasztika meg minden fizikai
-        - de csak szigorú keretek között, cenzúrával, irányítottan
-        - csak idővel kell látni "visszataszító dolgokat" és háborút, és ellen kell állni a csábításoknak, mielőtt felnőtté válnának
-    - gazdasági tényezők
-        - erős kommunizmus, mitikus Spárta módra
-    - biológia
-        - de még az asszonyok és gyerekek tekintetében is
-            - párzási párválasztás látszólag randomra, de a háttérben eugenikus felhangokkal --> yikes
-    - vallás
-        - a kasztrendszert vallási alapra kell emelni, és az első generáció utántól kezdve mindenki hinni fog benne
-        - nagyon is a "cél szentesíti az eszközt"
-- az igazságot kergetjük, de ennek semmi egyenlőség kicsengése nincs, mint amit a demokratikus rendszerekből megszokhattunk
-    - az pl. nem igazságtalan, hogy csak a védelmezők kezében van a hatalom, mert ők a legbölcsebbek
-    - az lenne csak igazságtalan, ha lennének náluk bölcsebbek a másik osztályokban --> de arra meg ott a felemelés és letaszítás (van átjárás)
-- és mire megyünk mindezzel?
-    - hát, kb. le tudjuk majd győzni a hasonló méretű ellenséget, és mindig lesz mit enni
-    - művészet nulla, tudomány és fejlődés nulla (mert minden állandó)
-    - szóval... meh
-    
+- **Vallás.**
+A kasztrendszert vallási alapra kell emelni, és így az első generáció utántól kezdve mindenki hinni fog benne.
+Mint látható, nagyon is a "cél szentesíti az eszközt" vonalon gondolkozunk.
 
-### Az ötletek elmélete
+Az igazságot kergetjük ugyan, de ennek semmi "egyenlőség" kicsengése nincs, mint amit a demokratikus rendszerekből megszokhattunk.
+Az például nem igazságtalan, hogy csak a védelmezők kezében van a hatalom, mert ők a legbölcsebbek.
+Az lenne csak igazságtalan, ha lennének náluk bölcsebbek a másik osztályokban, de arra meg ott a kasztok közti átjárhatóság (felemelés és letaszítás).
 
-- a fenti utópia csak akkor valósulhat meg, ha a királyok filozófusok, és a filozófusokból lesznek a királyok
-- az ideák -- sok élőlényt hívunk macskának, de ez csak (ahogy Venczel tanár úr is mondotta volt) egy halmaz
+### Az ideák elmélete
+
+A másik fontos területhez az ideák megalapozása, amihez Platón trükkösen összeolvasztja
+
+- Parmenides-t (innen veszi a világ örökségét/időtlenségét/változatlanságát, miszerint minden, amit változásnak látunk, csak illúzió) és
+- Heraclitus-t (akit úgy értelmezett, hogy az **észlelt** valóság van állandó változásban).
+
+Vagyis mivel az igazi valóság állandó, ezért az érzékeinkből nem vonhatunk le semmilyen valós következtetést, csak az intellektusunk alapján.
+Ennyit az empirikus tudásról.
+Az ideák -- sok élőlényt hívunk macskának, de ez csak (ahogy Venczel tanár úr is mondotta volt) egy halmaz
     - vagyis létezik egy eredeti "prototípus", egy macska ideál, amit Isten teremtett, és minden macskaszerű élőlény csak valamilyen szinten részt vesz a macskaságban
     - vagyis a látszólagos macskák (amiket fizikailag érzékelünk) csak illúziók, ezekről csak véleményeink lehetnek; de ha az ötlettel magával foglalkozunk, ott van az abszolút igazság
     - ezért is nem kellenek a művészetek és az anyagiasság, mert nem fontos a különbség az illúziók között
@@ -287,6 +274,14 @@ Lehet, hogy itt-ott bejön majd vele egy kis fájdalom, de legalább konzisztens
     - aki kiszabadul, azt először elvakítja majd kint a fény
     - ha igazi védelmező, akkor visszamegy majd a barlangba, hogy a többieknek is elmesélje, hogy mit tanult kint
     - de a fény miatt már nem fog olyan jól látni a sötétben, ami miatt a többieknek még hülyébbnek tűnhet, mint előtte
+
+- innentől logikus, hogy miért egy totalitáriánus, autoritariánus rendszert tekint a "jó" választásnak
+    - megvan A jó, ami örök és változatlan, ezért a kormány is örök és változatlan kellene, hogy legyen olyan irányítás alatt, ami a leginkább mintázza a jót
+    - a politikában csak olyan vehet részt, aki tudja és éli az elveket, különben megronthatná a rendszert belülről
+    - sok oktatás kell, mire egy megfelelően bölcs uralkodót (vagy uralkodó réteget) ki lehet nevelni --> ez egyfajta oligarchia
+    - a "lazítás" elengedhetetlen kelléke a bölcsességnek (sztenderd görög arisztokrata nézet), szóval azért dolgozni ne kelljen már a megélhetésért!
+
+- a fenti utópia csak akkor valósulhat meg, ha a királyok filozófusok, és a filozófusokból lesznek a királyok
 
 - sok helyen bele lehet kötni (ugye utólag könnyen okos az ember)
     - pl. ha a látszatot látjuk, akkor valahogy az is a valóság része!
@@ -446,60 +441,44 @@ most appropriate to the present day.
 
 ## A megsavanyodás
 
-### A hellenisztikus világ
+Hiába tűntek az evolúció csúcsának, Nagy Sándor hódításai mégis véget vetettek a városállamok korszakának.
+És ezzel a birodalmasítással eltűnt az "én városom vs. a világ", de még a "görögök vs. a világ" nézőpont is, és valamennyire elindult a "mi mind egyek vagyunk", mint egy új nézet.
+A nagy tumultus közepette egyre inkább a specializáció dívott, nem a görög általános műveltség.
+Aki jól helyezkedett, az jól élhetett...
+De semmi biztonság nem volt, stabilitásra csak fejben számíthatott az ember.
 
-- Nagy Sándor hódításai vetettek véget a városállamok korszakának
-    - és ezzel a birodalmasítással eltűnt az "én városom vs. a világ", de még a "görögök vs. a világ" nézőpont is, és valamennyire elindult a "mi mind egyek vagyunk", mint egy új nézet
-- a nagy tumultus közepette egyre inkább a specializáció dívott, nem a görög általános műveltség
-    - aki jól helyezkedett, az jól élhetett... de semmi biztonság nem volt, stabilitásra csak fejben számíthatott az ember
-    - innen egy igencsak sztoikus idézet
+> Az elme önmagában való, s képes a poklot mennyé, a mennyet pedig pokollá tenni.
+>
+> -- John Milton
 
-    > Az elme önmagában való, s képes a poklot mennyé, a mennyet pedig pokollá tenni.
-    >
-    > -- John Milton
+És mint ahogy [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) esetében is láthattuk, az ilyen helyzetek (habár _néhány_ ember számára alkalmat adnak a magasztos viselkedésre) leginkább a morális korrupciót vonzzák.
 
-- mint ahogy Frankl-nél is láthattuk, az ilyen helyzetek (habár _néhány_ ember számára alkalmat adnak a szenti viselkedésre) leginkább a morális korrupciót vonzzák
+> [Ilyen időkben] a filozófia nem a tűz oszlopa többé, ami az igazság keresőinek mutatja az utat; inkább egy mentő, ami a létezésért folytatott küzdelem nyomában szedi fel a gyengéket és a sebesülteket.
+>
+> -- C. F. Angus
+> > Philosophy is no longer the pillar of fire going before a few intrepid seekers after truth: it is rather an ambulance following in the wake of the struggle for existence and picking up the weak and wounded.
 
-    > -- C. F. Angus in Cambridge Ancient History
-    > > Philosophy is no longer the pillar of fire going before a few intrepid seekers after truth: it is rather an ambulance following in the wake of the struggle for existence and picking up the weak and wounded.
+Ez a lelki szituáció a római birodalom instabilitása és igazságtalansága alatt sem lett sokkal fényesebb.
+A "történelmi turbulencia" miatt érthető tehát, hogy miért fordultak Arisztotelész után a filozófusok a "Hogyan alkothatnánk meg az ideális államot?" kérdéstől a "Hogyan élhetnénk helyesen egy helytelen világban?" kérdés irányába.
+Talán ennek is köszönhető, hogy a keleti babonák is egyre jobban felütötték a fejüket.
+Feltételezzük, hogy a görög/római irányzatok azért "fáradtak ki", mert leginkább még ebben az életben szerettek volna valamit elérni, és nem voltak hozzászokva a káoszhoz és a reménytelenséghez.
+Mivel a keletieknek ebben nagyobb tapasztalatuk volt, ezért képesek voltak "készen" kínálni a jobb megoldásokat és vigaszokat.
+Így nyert később a kereszténység is, de egyelőre más megbirkózási mechanizmusokra volt szükség.
 
+A cinikusok válasza az volt, hogy agresszíven elfordultak minden világitól.
+Le a kormánnyal, a házassággal, a magántulajdonnal, a vallással...
+Extrémebb formájában úgy éltek, mint a kutyák (cynic = canine = kutyaszerű).
+Semmi köze a modern "cinikus" szóhasználathoz -- itt nagyon is a tényleges erkölcsi jóságot kergetjük, csak úgy, hogy minden világiról önként mondunk le.
 
-### A római birodalom és a kultúra kapcsolata
+Egy másik irány a szkepticizmus, ami gyakorlatilag _dogmatikus kétely_.
+Nem csak nem tudunk semmit, de nem is tud<b>hat</b>unk semmit, szóval úgyis mindegy.
+Állításuk szerint semmilyen tettről nem látható be sehogy, hogy jobb lenne-e, mint bármelyik másik.
+A korszellemnek megfelelően népszerű volt úgy vélekedni, hogy "Á, az összes többi okoskodó csak megjátssza magát, de mi legalább tudjuk, hogy semmit nem tudunk!"
+Kb. mint ami Szókratészt is bölcsebbé tette mindenkinél.
+A baj csak annyi, hogy habár tagadni mindent tudtak, de semmi jobbat (vagy mást) nem tudtak adni helyette.
+Ezért jöhetett később mindenféle egyéb vallás -- betölteni az űrt.
 
-2. A görögök és a kelet hatása Rómára
-    > Róma a végsőkig kulturális parazitaként élősködött a görögökön.
-    > > To the end, Rome was culturally parasitic on Greece.
-
-    - ezen felül a keleti babonák is egyre jobban betették a lábukat
-        - feltételezzük, hogy a görög/római irányzatok azért "fáradtak ki", mert leginkább még ebben az életben szerettek volna valamit elérni, és nem voltak hozzászokva a káoszhoz és reménytelenséghez
-        - a keletieknek ebben nagyobb tapasztalatuk volt, ezért tudtak "készen" kínálni jobb megoldásokat és vigaszokat
-        - így nyert végül a kereszténység is
-
-
-### Cinikusok és szkeptikusok
-
-- egy adott kor történelme természetesen befolyásolja az általános filozófiai hangulatot is
-    - van, aki kényelmes (mint eddig a görögök)
-    - van, aki reformálni vagy akár lázadni szeretne (mint majd később látjuk)
-    - és van, amikor elnyomás alatt beüt a pesszimizmus, ez élet értelmetlen, stb.
-- a fenti "turbulencia" miatt érthető, hogy miért fordultak Arisztotelész után a filozófusok a "hogyan alkothatnánk meg az ideális államot?" kérdéstől a "hogyan élhetnénk helyesen egy helytelen világban?" kérdés irányába
-    - amin persze gondolkodni lehet, de nem nagyon számítunk rá, hogy ez a közéletre is kihat majd
-
-a cinikusok válasza erre, hogy agresszíven elfordultak minden világitól
-- le a kormánnyal, a házassággal, a magántulajdonnal, a vallással
-- úgy élt, mint egy kutya (cynic == canine == kutyaszerű)
-- semmi köze a modern "cinikus" szóhasználathoz
-        - itt nagyon is a tényleges erkölcsi jóságot kergetjük, csak úgy, hogy minden világiról önként mondunk le
-
-
-másik irány a szkepticizmus, ami gyakorlatilag _dogmatikus kétely_
-    - nem csak nem tudunk semmit, de nem is tudHATunk semmit, szóval úgyis mindegy
-- semmilyen tettről nem látható be sehogy, hogy jobb lenne-e, mint bármelyik másik
-    - ez kb. ilyen whatever-ism, és a korszellemnek megfelelően népszerű is volt, hogy "á, az összes többi okoskodó csak megjátssza magát, de mi legalább tudjuk, hogy semmit nem tudunk" (kb. mint ami Socrates-t is bölcsebbé tette mindenkinél)
-- tagadni tudták is pl. akár Isten létezését is, de semmi jobbat (vagy mást) nem tudtak adni helyette
-    - ezért jött majd mindenféle egyéb vallás, betömni a rést
-    - manapság ezt a tudományba vetett hit tölti be
-
+<br />
 
 
 
@@ -532,32 +511,43 @@ másik irány a szkepticizmus, ami gyakorlatilag _dogmatikus kétely_
 
 ## Az epikureisták
 
-- a sztoikusok igen erősen támadták, kb. lenézték
-    - de _annyira_ azért nem az ellentét ez sem
-    - persze sok mindenben ellentét, de több a közös talapzat, mint a sztoikusok beismerni szerették volna
-- a legfőbb jó az élvezet
-    - és ezen belül is, a legfőbb élvezet a fájdalom hiánya
-    - szóval pl. vad bezabálás < épp ettem, és épp jóllaktam
-        - nem "dinamikus" élvezet, amit kergetni kell és az ellentéte valami fájdalom
-        - inkább statikus, egyensúlyi állapot
-- nem kell gazdagságra vagy hírnévre sem törekedni, mert azzal csak annyit érünk el, hogy nyugtalanok leszünk akkor is, amikor elégedettek is lehetnénk
-- nem kell a nyilvános élet sem, sem a felelősség, sem az esetleges irigyek miatt
-- szexualitás = bannolva, mert az is dinamikus élvezet, és semmi haszna (ha épp bajhoz nem vezet)
+Epikuroszról és követőiről is elmondható, hogy a külvilágtól függetlenül próbálták megtalálni a "jó" életet.
+A sztoikusok igen erősen támadták, és kb. lenézték őket az élvezetekkel kapcsolatos nézeteik miatt, de _annyira_ azért nem szöges ellentétek.
+Persze van azért eltérés bőven, de több a közös talapzat, mint a sztoikusok beismerni szerették volna...
 
+Szóval legfőbb jó az élvezet -- de ezen belül sem mindegy, hogy _milyen_!
+A legfőbb élvezet például egyszerűen a fájdalom hiánya.
+A vad bezabálás kifejezetten **nem** olyan jó, mint amikor épp ettem, és épp jóllaktam.
+Nem a "dinamikus" élvezet az, amit kergetni kell, hanem inkább egy statikus, egyensúlyi állapot.
+
+Nem kell továbbá gazdagságra vagy hírnévre sem törekedni, mert azzal csak annyit érünk el, hogy nyugtalanok leszünk akkor is, amikor elégedettek is lehetnénk.
+Nem kell a nyilvános élet sem -- sem a felelősség, sem az esetleges irigyek miatt.
+Sőt, még a szexualitás is szinte tiltólistán van, mert az is "dinamikus" élvezet, és semmi haszna (ha épp bajhoz nem vezet).
+Tömören összefoglalva:
+
+> Egyél keveset, nehogy elrontsd a hasad; igyál keveset, nehogy másnapos legyél; hagyd a politikát, a szerelmet, és minden erőszakosan szenvedélyes tevékenységet; ne adj túszokat a sorsnak azzal, hogy megházasodsz vagy gyerekeket vállalsz; fejben tanítsd magad arra, hogy a fájdalmak helyett az élvezeteken gondolkozol.
+> 
+> -- Epikurosz
 > > Eat little, for fear of indigestion; drink little, for fear of next morning; eschew politics and love and all violently passionate activities; do not give hostages to fortune by marrying and having children; in your mental life, teach yourself to contemplate pleasures rather than pains.
 
-- a fájdalom vagy rövid, vagy megszokható (ha irányítani tudjuk az elménket és közben jó dolgokra gondolunk)
-- leginkább a félelmet akarta "meggyógyítani", aminek szerinte két fő forrása a vallás és a halál
-    - és a vallás is leginkább azért, mert természetfeletti beavatkozást hirdet az ember életébe, ami a halál után is veszélyeket tartogathat
-    - ezért nála nincs szükségszerűség/determinizmus, és nincs túlvilág sem
-        - léteznek istenek, csak szarnak ránk, ők is visszavonulva, teljes békében és nyugalomban élnek
-    - ha meghalunk, akkor a semmi jön, teljes érzékelhetetlenség --> ami viszont a fájdalom teljes hiánya is, ezért WIN! :)
-- a tudományokat ki nem szarja le
-    - amíg olyan magyarázatokat tudnak adni természetes jelenségekhez, amikben nincsenek benne "az istenek", addig fasza... de csak azért, hogy azzal is a vallás jelentőségét csökkenthessék
-    - egyébként csak puszta kíváncsiság és felesleges
-- jelentős követője Lucretius, aki verses formában írta le gyakorlatilag ugyanazokat a tanokat
-- modern szemmel furcsa lehet, hogy itt a halál utáni élet _hiánya_ és a teljes vallástalanság "felszabadulást" jelent (mert ez ma pont elég depressziósnak bélyegezhető)
-    - de az ő korukban (és a Reneszánsz idején is, amikor Lucretius igazán megtalálta a közönségét) ez jelentette a felszabadulást az egyház elnyomása alól
+A fájdalom vagy rövid, vagy pedig megszokható, ha irányítani tudjuk az elménket és közben jó dolgokra gondolunk.
+Szóval leginkább nem is a fájdalmat, hanem a félelmet akarta "meggyógyítani" -- aminek két fő forrása a vallás és a halál.
+A vallás leginkább azért, mert természetfeletti beavatkozást hirdet az ember életébe, ami a halál után is veszélyeket tartogathat.
+Ezért itt nincs szükségszerűség/determinizmus, és nincs túlvilág sem.
+Léteznek ugyan istenek, csak szarnak ránk!
+Ők is visszavonulva, teljes békében és nyugalomban élnek.
+Tehát nyugalom, ha meghalunk, akkor a semmi jön, a teljes érzékelhetetlenség -- ami viszont a fájdalom teljes hiánya is, ezért az nekünk csak jó lehet.
+
+A tudományokat abszolút lényegtelennek bélyegezzük.
+Maximum addig hasznosak, amíg olyan magyarázatokat tudnak adni természetes jelenségekhez, amikben nincsenek benne "az istenek"!
+De csak azért, hogy azzal is a vallás jelentőségét csökkenthessék.
+Egyébként csak puszta kíváncsiság és felesleges.
+Én azért megkérdezném, hogy "És ha pont a tudományban leljük meg az örömünket?"
+
+Modern szemmel furcsa lehet az is, hogy itt a halál utáni élet _hiánya_ és a teljes vallástalanság jelenti a "felszabadulást" (már csak mert ez manapság elég depressziósnak bélyegezhető).
+De egyből érthetőbb lesz, ha figyelembe vesszük, hogy az ő korukban (és a Reneszánsz idején ismét) pont ez jelentette a felszabadulást az egyház elnyomása alól.
+
+<br />
 
 
 
@@ -596,13 +586,16 @@ másik irány a szkepticizmus, ami gyakorlatilag _dogmatikus kétely_
 - itt nem volt annyira statikus, mint Epicurus-nál, sokkal dinamikusabban változott az idők során
     - de az etikai rész (ami kb. a lényeg) nem sokat változott... inkább csak egyre erősebb hangsúlyt kapott
 - leginkább Socrates volt a példakép (ami, visszatekintve, érthető is)
+
 - Zeno kb. szart a fizikára és a metafizikára
     - csak addig kellett, amíg valamilyen erkölcsi nézetet alátámasztanak
     - a "túlzott" materializmus is annak köszönhető, hogy minél jobban eltávolodjunk az olyan baromságoktól, mint az érzékek megkérdőjelezése vagy az ideák világa
+
 - legfelsőbb a Természet, ami determinisztikusan meghatározza, hogy mi lesz
     - emellett van szabad akarat is, de az kb. annyiban merül ki, hogy önként és dalolva vagy kényszerből vontatva megyünk a kocsi után
 - csak az erkölcs fontos, ami pedig csak a saját irányításunk alatt áll
     - bármi külsőtől megfoszthatnak erővel, de az erkölcsünktől nem
+
 - persze vannak benne logikai bukfencek
     - ha minden determinisztikus a Természet szerint, akkor mi van, ha én a természetem által nem vagyok erkölcsös?
     - illetve ha a gondviselés célja a minél nagyobb mennyiségű erkölcsös élet, akkor honnan ez a sok rossz?
@@ -610,6 +603,9 @@ másik irány a szkepticizmus, ami gyakorlatilag _dogmatikus kétely_
     - oké, hogy nem rogyunk bele, ha pl. meghal a feleségünk vagy a gyerekünk, de azért hogy szinte le se szarjuk?! (mert ugye a mi saját erkölcsösségünkbe nem piszkál bele)
     - illetve a köznek tett szolgálat is csak azért jó, mert alkalmat ad az igazságosságra és az erényre, nem pedig azért, hogy bármiben más javára váljunk
         - mert amiben segíthetnénk neki (etetni az éheseket, jobb törvényeket hozni, stb.), az nem igazi segítség, csak az erkölcs számít
+
+
+        
 - Zeno
     - természet = sors = isten = Zeus = a világ elméje
     - templomokra semmi szükség
