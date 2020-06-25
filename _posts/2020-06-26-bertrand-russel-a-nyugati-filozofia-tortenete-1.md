@@ -232,43 +232,44 @@ A könyv is nyilván sokkal részletesebben tárgyalja, de itt csak két főbb (
 
 ### Platón utópiája
 
-Arisztokrata származása (és Szókrátész elvesztése) miatt gyűlölte a demokráciát.
+Arisztokrata származása (és Szókratész elvesztése) miatt gyűlölte a demokráciát.
 Valószínűleg ezért is fordulhatott az otthoni dolgok helyett Spárta felé az ideális rendszert keresve.
 Persze Spártában sem volt minden fenékig tejfel -- Arisztotelész például elég rossz színben tünteti fel őket, hogy a nőkre nem terjedt ki a szigor (akik ezért fényűzően élhettek), nem egyenlően oszlott el a vagyon, korrupt volt a politikai rendszer, mindenki megvásárolható volt, és a háttérben az élvezeteknek is élt, stb.
 De nem ez maradt meg róluk az emberekben, hanem a mítosz, miszerint Spárta az egyszerűségen és a haza szolgálatán alapult.
 Ahol mindenkit egyenlően "megkeményítettek", közösen éltek és ettek, a bátorságot és a háborús sikereket tartották mindennél többre.
 
 Ez a modell és _hangulat_ inspirálta (legalább részben) az elképzelt utópiát.
-A társadalom szigorúan rétegezett: közemberekből, katonákból, és védelmezőkből állna -- és a "lényeg" nyilván a védelmezők, és hogy az ő kezükben legyen a hatalom.
+A társadalom szigorúan rétegezett: közemberekből, katonákból, és védelmezőkből állna -- a "lényeg" pedig nyilván a védelmezők, és hogy az ő kezükben legyen a hatalom.
 Arra is megvolt a stratégia, hogy ezek a védelmezők a jóféle "jót" tartassák be:
 
 - **Oktatás.**
-Először "csak" zene és gimnasztika, de ez ne tévesszen meg. 
+Először "csak" zene és gimnasztika, de ez ne tévesszen meg senkit.
 Zene = music = mindenféle "Múzsai", vagyis kb. minden mentális; a gimnasztika pedig minden fizikai.
-De csak szigorú keretek között, cenzúrával, irányítottan!
-Elég később látni a "visszataszító dolgokat" és a háborút, illetve ellen kell állni a csábításoknak, mielőtt felnőtté válnának.
+Vagyis lefedtünk mindent, de csak szigorú keretek között, cenzúrával, irányítottan!
+Elég lesz majd később látni a "visszataszító dolgokat" és a háborút, illetve ellen kell állni a csábításoknak, mielőtt felnőtté válnának.
 
 - **Gazdasági tényezők.**
 Erős kommunizmus, mitikus Spárta módra...
 De még az asszonyok és gyerekek tekintetében is osztozkodás -- szinte törzsi, "minden gyerek mindenki gyereke" módra.
 
 - **Vallás.**
-A kasztrendszert vallási alapra kell emelni, és így az első generáció utántól kezdve mindenki hinni fog benne.
+A kasztrendszert vallási alapra kell emelni, és így az első generáció utántól kezdve mindenki alapértelmezetten hinni fog benne.
 Mint látható, nagyon is a "cél szentesíti az eszközt" vonalon gondolkozunk.
 
 Az igazságot kergetjük ugyan, de ennek semmi "egyenlőség" kicsengése nincs, mint amit a demokratikus rendszerekből megszokhattunk.
 Az például nem igazságtalan, hogy csak a védelmezők kezében van a hatalom, mert ők a legbölcsebbek.
 Az lenne csak igazságtalan, ha lennének náluk bölcsebbek a másik osztályokban, de arra meg ott a kasztok közti átjárhatóság (felemelés és letaszítás).
+Láthatjuk tehát, hogy habár nemes gondolat a "bölcsek" kezébe adni a hatalmat, vannak szemöldök-emelgetős részek...
 
 ### Az ideák elmélete
 
-A másik fontos területhez az ideák megalapozása, amihez Platón trükkösen összeolvasztja
+A másik fontos terület az ideák megalapozása, amihez Platón trükkösen összeolvasztja:
 
-- Parmenides-t (innen veszi a világ örökségét/időtlenségét/változatlanságát, miszerint minden, amit változásnak látunk, csak illúzió) és
-- Heraclitus-t (akit úgy értelmezett, hogy az **észlelt** valóság van állandó változásban).
+- Parmenides-t (innen veszi a világ örökségét/időtlenségét/változatlanságát, miszerint minden, amit változásnak látunk, csak illúzió); és
+- Heraclitus-t (akit úgy értelmezett, hogy az **észlelt** valóság van állandó változásban, de a háttérben lévő igazi, érzékelhetetlen világ örök).
 
 Az ideákat képzeljük el így: sok élőlényt hívunk macskának, de ez csak egy halmaz.
-Vagyis létezik egy eredeti "prototípus", egy macska ideál, amit Isten teremtett, és minden macskaszerű élőlény csak valamilyen szinten részt vesz annak a macskaságában.
+Vagyis létezik egy eredeti "prototípus", egy macska ideál, amit _Isten_ teremtett, és minden macskaszerű élőlény csak valamilyen szinten részt vesz annak a macskaságában.
 A látszólagos macskák (amiket fizikailag érzékelünk) csak illúziók, ezekről csak véleményeink lehetnek; de ha az ötlettel magával foglalkozunk, ott van az abszolút igazság.
 Vagyis mivel az igazi valóság állandó, ezért az érzékeinkből nem vonhatunk le semmilyen valós következtetést, csak az intellektusunk alapján.
 Ennyit az empirikus tudásról.
@@ -280,16 +281,16 @@ Még a fejüket sem tudják elfordítani, hogy egymást (vagy a barlangot) tudom
 Akik csak az árnyékokat látják, azoknak elképzelhetetlen, hogy ez csak egy illúzió és nem a valóság.
 Aki pedig esetleg kiszabadul, azt először elvakítja majd kint a fény, de utána rájön az igazságra.
 Ha igazi "védelmező", akkor ezután visszamegy majd a barlangba, hogy a többieknek is elmesélje, mit tanult kint.
-De a fény miatt már nem fog olyan jól látni a sötétben -- és ezért a többieknek még hülyébbnek tűnhet, mint előtte.
+De a fény miatt már nem fog olyan jól látni a sötétben -- és ezért a többiek szemében még hülyébbnek tűnhet, mint előtte.
 
-Innentől logikus az is, hogy miért egy totalitárius rendszert tekint a "jó" választásnak.
+Innentől logikus az is, hogy Platón miért egy totalitárius rendszert tekint "jó" választásnak.
 Hiszen megvan **A** jó, ami örök és változatlan, ezért a kormány is örök és változatlan kellene, hogy legyen -- méghozzá olyan irányítás alatt, ami a leginkább mintázza a jót.
 A politikában csak olyan vehet részt, aki tudja és éli az elveket, különben megronthatná a rendszert belülről.
 És persze sok oktatás kell, mire pár kiválasztottat "megmenekítünk a barlangból" és egy megfelelően bölcs uralkodó réteget kinevelünk.
 
 Ebbe az érvelésbe sok helyen bele lehet kötni (mert ugye utólag könnyen okos az ember).
 Mondjuk ha a látszatot látjuk, akkor valahogy az is a valóság része!
-Vagy ha az egy ideát Isten teremtette, azt hogy?
+Vagy ha egy ideát Isten teremtett, azt hogy?
 Kellett, hogy legyen egy ötlete, hogy mit teremt -- ami pedig pont ez az idea!
 Minden esetre akkor is jelentős mérföldkő, ami kellett a fejlődéshez.
 Az általános igazságok azóta is nagyon sok helyen felbukkannak, mint befolyásoló tényező.
@@ -336,16 +337,16 @@ Akkorát ütött, hogy az elődjeit nézve egy _rocksztár_, az utódok szempont
 Annyira jókat mondott, hogy sokáig mindenki csak úgy feltételezte, hogy mindenben igaza van.
 Ez pedig végső soron visszafogta a tudomány ütemét.
 Ez úgy általánosságban is igaz volt a görög matematikai, fizikai, és csillagászati tudásra valamilyen szinten, de Arisztotelészre kimondottan.
-Tudományos felfedezéseinek túlnyomó többsége manapság már teljesen fölösleges -- de azért sokat elmond, hogy a modern kor áttöréseinek a nagyja onnan jött, hogy megkérdőjeleztünk egy-egy Arisztotelészi alapelvet.
+Tudományos felfedezéseinek túlnyomó többsége manapság már teljesen felesleges -- de azért sokat elmond, hogy a modern kor áttöréseinek a nagyja onnan jött, hogy megkérdőjeleztünk egy-egy Arisztotelészi alapelvet.
 Mi viszont (Platónhoz hasonlóan) inkább az etikai és politikai nézeteivel foglalkozunk, amik még a mai korban is tanulságosak lehetnek.
 
 ### Arisztotelész etikája
 
 Etikája igazából "csak" kifejezi idejének nézeteit -- legalábbis a tapasztalt, művelt emberek szemszögéből.
-Leginkább a középszerű, középkorú, átlagpolgárnak szól, kb. arról, hogy hogy viselkedjen helyes átlagpolgárként.
+Leginkább a középszerű, középkorú átlagpolgárnak szól, hogy hogyan viselkedjen helyes átlagpolgárként.
 Célunk természetesen a boldogság, amit intellektuális vagy morális jó cselekedetekkel tudunk erősíteni.
 
-Legfontosabb az "arany középút", mert szerinte kb. minden erkölcsi vonás leírható két helytelen véglet közti állapotként:
+Legfontosabb az "arany középút", mert szerinte kb. minden erkölcsi vonás leírható két helytelen véglet közti optimális állapotként:
 
 - Bátorság a gyávaság és az elhamarkodottság között,
 - Bőkezűség a zsugoriság és a pazarlás között,
@@ -355,14 +356,14 @@ Legfontosabb az "arany középút", mert szerinte kb. minden erkölcsi vonás le
 Az igazságosságra mondjuk nem nagyon illik... de értjük a mintát.
 Sok vonatkozásában annyira passzol, hogy érdemes megszívlelni (még ha nem is univerzális).
 
-Emellett viszont nem nagyon tér el kora (legalább részben arisztokrata) nézeteitől, ezért az "igazság" nem feltétlen jár együtt az egyenlőséggel.
+Emellett viszont nem nagyon tér el kora (legalább részben arisztokrata) nézeteitől, ezért az igazság nem feltétlen jár együtt az egyenlőséggel.
 Férj/feleség között, szülő/gyerek között, uralkodó/alattvaló között _arányosan_ jár ki a tisztelet és a szeretet.
 És ezzel a különböző "polc-rendszerrel" jogos lenézés és megvetés is jár, még a mintapélda jó ember esetében is.
 Ilyen közegben még az őszinteség is furcsán hangzik:
 
 > Soha ne takarjuk el sem a szeretetünket sem a gyűlöletünket, mert azzal kevesebbre becsülnénk az igazságot, mint hogy mások mit gondolnak rólunk.
 
-Emellett nem nézi semmibe mások dicséretét, lassan jár, kimérten beszél.
+Az ideális ember emellett semmibe veszi mások dicséretét, lassan jár, kimérten beszél.
 Nem baj, ha lenézi az alatta lévőt, mert az csak olyan, mintha az "erős erősebbnek tartaná magát a gyengénél".
 Milyen lehet vajon a hiú ember, ha ez a példakép?!
 
@@ -381,20 +382,20 @@ A legmagasabb élvezet pedig az elmélkedés, ezért minél inkább erre kell t�
 Mivel az etikáról tudományos értelemben semmit nem _tudunk_, ezért a régi is lehet ugyanolyan jó, mint az új.
 Három kérdés, amivel megítélhetünk egy nézetrendszert:
 
-1. Önmagában következetes-e?
+1. Önmagában ellentmondástalan-e?
 2. Konzisztens-e a szerző többi nézetével?
 3. Egyetértünk-e vele?
     
 És fontos, hogy itt csak az első kettő miatt mondhatunk "tévedést", a harmadik miatt csak annyit, hogy nekünk ez konkrétan nem tetszik.
 Az első kettő már pedig itt pipa.
-A harmadiknál szembe jövő egyenlőtlenséget meg mindenki próbálja a helyén kezelni.
+A harmadiknál szembe jövő egyenlőtlenségről meg mindenki alkosson saját véleményt.
 
 ### Arisztotelész politikája
 
-Korához hűen azt vallja, hogy a állam a társadalom "kiteljesedett" formája.
+Korához hűen azt vallja, hogy az állam a társadalom "kiteljesedett" formája.
 De ez a politikán felül az etikához is kapcsolódik: az állam célja nem csak az együtt élés és a törvény, hanem a "jó élet".
 
-Platón utópiáját eléggé kritizáljuk.
+Platón utópiáját viszont eléggé kritizálja.
 Arisztotelész szerint egy "rendes" családban jobb lenne még unokatestvérnek is lenni, mint Platón közös rendszerében fiúnak.
 És nem kellene eltörölni a házastársi hűséget sem.
 Kommunizmus helyett pedig megtenné a közösségi jóindulat a javak használata és élvezete iránt.
@@ -402,7 +403,7 @@ Szóval legyen azért magántulajdon, de a légkör ne legyen annyira görcsöse
 Értsd "tessék kölcsönadni azt a fűnyírót a szomszédnak", csak ókori analógiával...
 
 A családi gazdaság szempontjából a legfontosabb a háztartás és a föld helyes menedzselése.
-A kereskedés már természetellenes(ebb), és az uzsora (vagyis a pénzzel pénz keresés) pedig egyenesen megvetendő.
+A kereskedés már természetellenes(ebb), és az uzsora (vagyis a pénzzel pénzt keresni) pedig egyenesen megvetendő.
 A kamat kérdését leginkább mindenki úgy kezelte, ahogy a kornak épp megfelelő.
 A görögök (és később a kereszténység) is inkább a földbirtokos oldalán álltak, akik inkább voltak adósok, tehát rossz.
 A reformáció óta sokkal inkább kereskedésből és kamatból él a filozófus réteg, ezért azóta jó.
@@ -410,10 +411,10 @@ A reformáció óta sokkal inkább kereskedésből és kamatból él a filozófu
 
 Az állam szervezetét tekintve Arisztotelész egy nagyon logikus, két kérdés mentén értelmezett kategorizálást mutat be:
 
-- Ki irányít? Egy fő, kevesen, vagy sokan?
-- Mi a cél? A köz érdeke, vagy az önérdek?
+1. Ki irányít? Egy fő, kevesen, vagy sokan?
+2. Mi a cél? A köz érdeke, vagy az önérdek?
 
-Ezeknek megfelelően pedig létezik (jóság szerint csökkenő sorrendben):
+Ezeknek megfelelően pedig a következő államformák létezhetnek (jóság szerint csökkenő sorrendben):
 
 - Monarchia (egy fő, közérdek)
 - Arisztokrácia (kevesen, közérdek)
@@ -423,7 +424,7 @@ Ezeknek megfelelően pedig létezik (jóság szerint csökkenő sorrendben):
 - Diktatúra (egy fő, önérdek)
 
 Ezzel kapcsolatban pedig arra biztatnálak, kedves Olvasó, hogy nézz egy kicsit a címkék mögé, és döntsd el magadban, milyen rendszerben is élünk.
-Mert habár papíron alkotmányos kormány ugyan kis hazánk, a valóságban eléggé (diktatúrába hajló) oligarchia szaga van itt a dolgoknak...
+Mert habár papíron alkotmányos kormány ugyan kis hazánk, a valóságban eléggé (diktatúrába hajló!) oligarchia szaga van itt a dolgoknak...
 
 <br />
 
@@ -457,8 +458,8 @@ Mert habár papíron alkotmányos kormány ugyan kis hazánk, a valóságban el�
 
 ## A megsavanyodás
 
-Hiába tűntek az evolúció csúcsának, Nagy Sándor hódításai mégis véget vetettek a városállamok korszakának.
-És ezzel a birodalmasítással eltűnt az "én városom vs. a világ", de még a "görögök vs. a világ" nézőpont is, és valamennyire elindult a "mi mind egyek vagyunk", mint egy új nézet.
+Hiába tűntek előtte az evolúció csúcsának, Nagy Sándor hódításai mégis véget vetettek a városállamok korszakának.
+És ezzel a birodalmasítással eltűnt az "én városom a világ ellen", de még a "görögök a világ ellen" nézőpont is, és valamennyire elindult a "mi mind egyek vagyunk", mint egy új nézet.
 A nagy tumultus közepette egyre inkább a specializáció dívott, nem a görög általános műveltség.
 Aki jól helyezkedett, az jól élhetett...
 De semmi biztonság nem volt, stabilitásra csak fejben számíthatott az ember.
@@ -478,20 +479,21 @@ Ez a lelki szituáció a római birodalom instabilitása és igazságtalansága 
 A "történelmi turbulencia" miatt érthető tehát, hogy miért fordultak Arisztotelész után a filozófusok a "Hogyan alkothatnánk meg az ideális államot?" kérdéstől a "Hogyan élhetnénk helyesen egy helytelen világban?" kérdés irányába.
 Talán ennek is köszönhető, hogy a keleti babonák is egyre jobban felütötték a fejüket.
 Feltételezzük, hogy a görög/római irányzatok azért "fáradtak ki", mert leginkább még ebben az életben szerettek volna valamit elérni, és nem voltak hozzászokva a káoszhoz és a reménytelenséghez.
-Mivel a keletieknek ebben nagyobb tapasztalatuk volt, ezért képesek voltak "készen" kínálni a jobb megoldásokat és vigaszokat.
+Mivel a keletieknek ezekben nagyobb tapasztalatuk volt, ezért képesek voltak készen kínálni a jobb megoldásokat és vigaszokat.
 Így nyert később a kereszténység is, de egyelőre más megbirkózási mechanizmusokra volt szükség.
 
-A cinikusok válasza az volt, hogy agresszíven elfordultak minden világitól.
+A **cinikusok** válasza az volt, hogy agresszíven elfordultak minden világitól.
 Le a kormánnyal, a házassággal, a magántulajdonnal, a vallással...
 Extrémebb formájában úgy éltek, mint a kutyák (cynic = canine = kutyaszerű).
-Semmi köze a modern "cinikus" szóhasználathoz -- itt nagyon is a tényleges erkölcsi jóságot kergetjük, csak úgy, hogy minden világiról önként mondunk le.
+Semmi köze a modern "cinikus" szóhasználathoz -- itt nagyon is a tényleges erkölcsi jóságot kergetjük.
+Csak épp úgy, hogy minden világiról önként mondunk le.
 
-Egy másik irány a szkepticizmus, ami gyakorlatilag _dogmatikus kétely_.
+Egy másik irány a **szkepticizmus**, ami gyakorlatilag _dogmatikus kétely_.
 Nem csak nem tudunk semmit, de nem is tud<b>hat</b>unk semmit, szóval úgyis mindegy.
-Állításuk szerint semmilyen tettről nem látható be sehogy, hogy jobb lenne-e, mint bármelyik másik.
+Állításuk szerint semmilyen tettről nem látható be sehogyan, hogy jobb lenne-e, mint bármelyik másik.
 A korszellemnek megfelelően népszerű volt úgy vélekedni, hogy "Á, az összes többi okoskodó csak megjátssza magát, de mi legalább tudjuk, hogy semmit nem tudunk!"
-Kb. mint ami Szókratészt is bölcsebbé tette mindenkinél.
-A baj csak annyi, hogy habár tagadni mindent tudtak, de semmi jobbat (vagy mást) nem tudtak adni helyette.
+Kb. mint ami Szókratészt is bölcsebbé tette mindenki másnál.
+A baj csak annyi, hogy habár tagadni mindent tudtak, de semmi jobbat nem tudtak adni helyette.
 Ezért jöhetett később mindenféle egyéb vallás -- betölteni az űrt.
 
 <br />
@@ -528,12 +530,12 @@ Ezért jöhetett később mindenféle egyéb vallás -- betölteni az űrt.
 ## Az epikureisták
 
 Epikuroszról és követőiről is elmondható, hogy a külvilágtól függetlenül próbálták megtalálni a "jó" életet.
-A sztoikusok igen erősen támadták, és kb. lenézték őket az élvezetekkel kapcsolatos nézeteik miatt, de _annyira_ azért nem szöges ellentétek.
-Persze van azért eltérés bőven, de több a közös talapzat, mint a sztoikusok beismerni szerették volna...
+A kortárs sztoikusok igen erősen támadták, és kb. lenézték őket az élvezetekkel kapcsolatos nézeteik miatt, de _annyira_ azért nem szöges ellentétek.
+Persze van eltérés bőven, de több a közös talapzat, mint a sztoikusok beismerni szerették volna...
 
-Szóval legfőbb jó az élvezet -- de ezen belül sem mindegy, hogy _milyen_!
+Szóval a legfőbb jó az élvezet -- de ezen belül nem mindegy, hogy _milyen_!
 A legfőbb élvezet például egyszerűen a fájdalom hiánya.
-A vad bezabálás kifejezetten **nem** olyan jó, mint amikor épp ettem, és épp jóllaktam.
+A vad bezabálás kifejezetten **nem** olyan jó, mint amikor épp ettünk, és épp jóllaktunk.
 Nem a "dinamikus" élvezet az, amit kergetni kell, hanem inkább egy statikus, egyensúlyi állapot.
 
 Nem kell továbbá gazdagságra vagy hírnévre sem törekedni, mert azzal csak annyit érünk el, hogy nyugtalanok leszünk akkor is, amikor elégedettek is lehetnénk.
@@ -541,7 +543,7 @@ Nem kell a nyilvános élet sem -- sem a felelősség, sem az esetleges irigyek 
 Sőt, még a szexualitás is szinte tiltólistán van, mert az is "dinamikus" élvezet, és semmi haszna (ha épp bajhoz nem vezet).
 Tömören összefoglalva:
 
-> Egyél keveset, nehogy elrontsd a hasad; igyál keveset, nehogy másnapos legyél; hagyd a politikát, a szerelmet, és minden erőszakosan szenvedélyes tevékenységet; ne adj túszokat a sorsnak azzal, hogy megházasodsz vagy gyerekeket vállalsz; fejben tanítsd magad arra, hogy a fájdalmak helyett az élvezeteken gondolkozol.
+> Egyél keveset, nehogy elrontsd a hasad; igyál keveset, nehogy másnapos legyél; hagyd a politikát, a szerelmet, és minden erőszakosan szenvedélyes tevékenységet; ne adj túszokat a sorsnak azzal, hogy megházasodsz vagy gyerekeket vállalsz; fejben tanítsd magad arra, hogy a fájdalmak helyett az élvezeteken gondolkozz.
 > 
 > -- Epikurosz
 > > Eat little, for fear of indigestion; drink little, for fear of next morning; eschew politics and love and all violently passionate activities; do not give hostages to fortune by marrying and having children; in your mental life, teach yourself to contemplate pleasures rather than pains.
@@ -602,31 +604,33 @@ De egyből érthetőbb lesz, ha figyelembe vesszük, hogy az ő korukban (és a 
 A sztoikusokat már ugye tárgyaltuk [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) és [Seneca]({% post_url 2020-06-05-seneca-erkolcsi-levelek %}) szemszögéből is, úgyhogy nagy meglepetés itt már nem fog érni minket.
 Tudjuk, hogy az etikára fektetik a hangsúlyt, és hogy a külső érzékelés szeretnék elválasztani a belső címkézéstől.
 Készülnek a rosszra, nem félnek a haláltól, és minden elkerülhetetlent ítélkezés nélkül (sztoikusan?) viselnek.
-Leginkább Socrates volt az egyik legkorábbi példakép -- ami, visszatekintve, érthető is.
+Leginkább Szókratész volt az egyik legkorábbi példakép -- ami, visszatekintve, érthető is.
 
-Legfelsőbb a Természet, ami determinisztikusan meghatározza, hogy mi lesz.
+A legfelsőbb hatalom a Természet (nagy T-vel), ami determinisztikusan meghatározza, hogy mi lesz.
 Emellett van azért szabad akarat is, de az kb. annyiban merül ki, hogy önként és dalolva vagy kényszerből vontatva megyünk a kocsi után.
 Csak az erkölcs fontos, ami pedig csak a saját irányításunk alatt áll.
 Bármi külsőtől megfoszthatnak erővel, de az erkölcsünktől nem.
 
 Persze vannak benne logikai bukfencek, mint például a determinizmus és a szabad akarat ellentéte.
 Ha ne ítéljük el a bűnösöket, mert csak a körülményeik miatt cselekednek így, akkor mi magunk is csak a körülményeink miatt tudjuk, hogy mi lenne a helyes -- hol akkor a szabad akaratunk?
-Ha viszont van szabad akaratunk, akkor neki miért nincs?
-És ha van, akkor miért választja a rosszat -- és miért nem hibás érte?
+Ha viszont van szabad akaratunk, akkor a bűnösöknek miért nincs?
+És ha van, akkor miért választják a rosszat -- és miért nem hibásak érte?
 
 Emellett gyakran kritizálják az irányzat érzelmi hidegségét is.
 Na az oké, hogy nem rogyunk bele, ha például meghal a párunk vagy a gyerekünk, de azért hogy szinte le se szarjuk?! -- mert ugye a mi saját erkölcsösségünkbe nem piszkál bele.
-Illetve a köznek tett szolgálat is csak azért jó, mert alkalmat ad az igazságosságra és az erényre, nem pedig azért, hogy bármiben más javára váljunk.
-Hiszen amiben segíthetnénk neki (etetni az éheseket, jobb törvényeket hozni, stb.), az nem igazi segítség, csak az erkölcs számít.
+Illetve a köznek tett szolgálat is csak azért jó, mert alkalmat ad az igazságosságra, nem pedig azért, hogy bármiben más javára váljunk.
+Hiszen amiben segíthetnénk neki (etetni az éheseket, jobb törvényeket hozni, stb.), az nem _igazi_ segítség, ha egyszer csak az erkölcs számít.
 
-Esetleges magyarázat az utóbbira, ha nem az erkölcsöt nézzük, hanem a másik boldogságát.
-Arról mi nem tehetünk, hogy ő nem a "helyes" dolgoktól lesz boldog, de így legalább segíthetünk neki boldognak lenni.
-Az "igazi" megoldás viszont nem fennakadni az ilyen logikai dolgokon, mert nem ez a sztoicizmus lényege.
+Esetleges magyarázat lehet az utóbbira, ha nem az erkölcsöt nézzük, hanem a másik boldogságát.
+Arról mi nem tehetünk, hogy ő nem a helyes dolgoktól lesz boldog, de így legalább segíthetünk neki boldognak lenni.
+Az _igazi_ megoldás viszont nem fennakadni az ilyen logikai dolgokon, mert nem ez a sztoicizmus lényege.
 Nem akadémikus vitákat kell tudni nyerni vele, hanem a mindennapjainkat boldogabbá és kiegyensúlyozottabbá tenni.
+Praktikus filozófia!
 
-Az eredeti görög forrásokból semmi nem maradt fenn, ezért habár a rómaiak leginkább csak "másolták" az elveket, mégis nekik köszönhető a mondanivaló fennmaradása.
-Marcus Aurelius császárként, Seneca nemeskén, és Epictetus rabszolgaként vallották szinte ugyanazokat a nézeteket.
-Látszik tehát, hogy megfelelően "nyílt" elmével még az ilyen durva egyéni szociális különbségek sem tudnak különbséget tenni.
+Az eredeti görög forrásokból minden elveszett, ezért habár a rómaiak leginkább csak "másolták" az elveket, mégis nekik köszönhető a mondanivaló fennmaradása.
+Marcus Aurelius császárként, Seneca nemesként, és Epictetus rabszolgaként vallották szinte ugyanazokat a nézeteket.
+Biztató, hogy megfelelően "nyílt" elmével még az ilyen durva egyéni szociális szakadékok sem tudnak különbséget tenni.
+Marcus és Seneca már megvoltak, Epictetus pedig rajta van a listán...
 
 <br />
 
@@ -662,10 +666,11 @@ Látszik tehát, hogy megfelelően "nyílt" elmével még az ilyen durva egyéni
 
 ## Összefoglalás
 
-Számomra a három legfontosabb tanulság az ókori filozófiai fejleményekből:
+Láthattunk tehát egy "best-of" gyűjteményt a kereszténység elterjedése előtti jelentős filozófiai irányzatokból.
+Ezekből számomra a három legfontosabb tanulság:
 
 1. A társadalmi alapértelmezések alattomosan, megkérdőjelezetlenül osonnak be az ember nézetei közé.
-És ha ez a jelenség még a legnagyobb gondolkodók esetében is ilyen gyakran előfordul, akkor képzelhetjük, hogy a mi fejünk mennyi ilyennel tele lehet.
+És ha ez a jelenség még a legnagyobb gondolkodók esetében is ilyen gyakran előfordul, akkor képzelhetjük, hogy a mi fejünk mennyi ilyennel lehet tele.
 Szóval (mint azt [múlt héten]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) is megjegyeztük) a vakon követés helyett igyekezzük erőszakosan szélesíteni a látókörünket, és aztán tudatosan választani.
 
 2. A belső konzisztencia látványosan többet ér még akár annál is, hogy esetleg igazunk van-e.
