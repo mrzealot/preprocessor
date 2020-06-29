@@ -14,7 +14,7 @@ excerpt: >
 
 Ezen a héten [Csíkszentmihályi Mihály -- Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %}) című könyvének hivatkozásai alapján haladunk tovább.
 És mivel ott többször is utaltak etikai filozófusokra (Arisztotelész, Aquinói Szent Tamás, Spinoza, Nietzsche) -- illetve az etika amúgy is egy kiugró érdeklődési terület az eddig olvasottak alapján -- ezért igyekeztem őket is érintő könyvet választani.
-Szerencsémre Bertrand Russel Nobel-díjra érdemes [A nyugati filozófia története](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) című összefoglalója mindegyiküket tárgyalja.
+Szerencsémre Bertrand Russel Nobel-díjra érdemes [A nyugati filozófia története](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy){:target="_blank"} című összefoglalója mindegyiküket tárgyalja.
 Az már csak hab a tortán, hogy a Flow őt is kimondottan ajánlja, mint olvasandó szerzőt...
 
 Russel meglátása szerint vallási/etikai és tudományos szemlélet is kellett a filozófia kialakulásához.
