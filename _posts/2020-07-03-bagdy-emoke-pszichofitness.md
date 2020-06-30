@@ -65,56 +65,56 @@ A tartalom a következőképp alakul:
 
 ## A stresszről
 
-- distressz (ártalmas stressz) 27-szeres, mint amit bírnánk
-- meg kell érteni, hogy mi ez, hogy működik, és hogy hogyan kell ezt aktívan karbantartani
+Stressz az, amit annak érzünk!
+Ez igencsak semmitmondóan hangozhat, amíg egy kicsit mögé nem nézünk.
+Van ugyanis, ami a nagy többség véleménye alapján "rossz" -- megszégyenítenek, becsapnak, otthagynak, stb. -- de (sztoikus mintára) maga a stressz még nincs címkézve.
+Illetve a nagy többség véleménye csak egy kiindulópont, amin felül az egyéni megítélésünk is nagyon számít.
+Vagyis a stressz jellegét leginkább a rá adott reakciónk határozza meg!
 
-- stressz az, amit annak érzünk!
-    - van, ami a nagy többség véleménye alapján "rossz", de maga a stressz még nincs "címkézve"
-    - illetve a nagy többség véleménye csak egy kiindulópont, ezen felül az egyéni megítélésünk is nagyon számít
-- DI-stressz = ártalmas, következményes
-    - megszégyenítenek, becsapnak, otthagynak, stb.
-    - nem tudod, hogy mit kellene tenni, vagy tudod, de nem vagy képes
-    - beszorulsz, nem tudsz mit tenni
-        - üss vagy fuss reakció, de a modern világban sokszor egyik sem jó, és ott marad impotensen az energia, ami megbetegít
-    - agresszió, frusztráció, regresszió
-        - agresszió
-        - frusztráció
-        - regresszió
-            - visszacsúszás a színvonalad alá (nem annyira "fésülten"), önmagadra méltatlanul
-- na de nem csak rossz stresszek vannak ==> EU-stressz
-    - kihívás, de tudok is rá reagálni (felérek hozzá)
-    - automatikusan megy a válasz
-    - vagyis láthatjuk, hogy minden behatás stressz, csak attól függ, hogy DI vagy EU, hogy mit tudunk vele kezdeni
-- a szervezet hormonális változásai
-    - magasabb agyi aktivációs szint
-    - hormonálisan szimpatikus idegrendszer bekapcsol (adrenalin)
-        - akciókész állapot, keringés, tápanyag, stb.
-- na ha ez a kész állapot a tehetetlenségbe beragad, az a distressz
-    - konkrétan megbetegítjük magunkat --> biokémiai háttér
-    - a különböző érzelmi reakciókhoz gyakorlatilag megvan a hozzá tartozó hormonkoktél
-        - és ezeknek megvannak a "kedvenc" fogadóhelyeik
-        - pl. ha harag/düh, akkor szívkoszorúerek --> nesze egy infarktus
-        - megbántás/megbántottság/rágódás --> tessék, rák
-- ha viszont EU vonalon le tudjuk vezetni, akkor pozitív a visszajelzés
-    - örömközpont, endorfin, immunrendszer stimuláció
-    - vitalitás-generátor!
-    - ha ebből lenne a (jóval!) több, akkor nem betegednénk meg
-- testi - lelki fitness összefügg!
+Ez alapján két fontos alfaját különböztetjük meg.
+Létezik először is <b>di</b>stressz, vagyis ártalmas, következményes stressz.
+Amikor nem tudjuk, hogy mit kellene tenni -- vagy tudjuk, de nem vagyunk rá képesek.
+Mondhatni beszorulunk, és nem tudunk mit tenni.
 
-- általános orvostani javaslat: csökkentsük a stresszt
-- egészségpszichológia: nem feltétlenül...
-    - ezzel az erővel akkor ne járjunk dolgozni és a családdal is kevesebbet találkozzunk?! :)
-    - tanuljunk meg BÁNNI a stresszel, így a mindből EUstresszt tudunk csinálni, ami pedig még jót is tehet
-        - hasznos energia, amit kezelni/levezetni/átirányítani kell
+Gyakori tünetegyüttes az agresszió-frusztráció-regresszió hármas, amikor tehetetlen haragunkban visszacsúszunk a színvonalunk alá.
+(A dokinő szerint ilyenkor "kevésbé fésülten" viselkedünk.)
+Az "üss vagy fuss" reakció evolúciós melléktermékünk, de a modern világban sokszor sajnos egyik sem jó.
+És ott marad impotensen az energia, ami megbetegít...
+Egyes felmérések szerint akár 27-szeres distressz mennyiséget is kaphatunk, mint amit bírnánk!
 
-- pszichofitness = lelki erőnlét fokozó
-    - segít megküzdeni az ártalmas distresszekkel
-    - segít beszerezni a hasznos eustresszeket
-    - arány javítás
-- az öt fő komponens
-    - kacagj, kocogj, lazíts, érints, segíts
-- ez persze felelősséggel is jár, mert innentől tudjuk, hogy mit _kéne_
-    - ha nem csináljuk, akkor a "számla nekünk lesz benyújtva" :)
+Na de nem csak rossz stresszek vannak ám!
+Színre lép az <b>eu</b>stressz, a pozitív változat.
+Amikor szintén ott a kihívás, de tudunk is rá reagálni.
+Felérünk a feladathoz, és automatikusan megy a válasz.
+Vagyis láthatjuk, hogy igazából minden behatás stressz.
+Csak attól függ, hogy DI vagy EU, hogy mit tudunk vele kezdeni...
+
+A szervezet hormonális változásai minden stresszes helyzetben adottak: magasabb agyi aktivációs szint, szimpatikus idegrendszer bekapcsol, pumpál az adrenalin, fokozódik a keringés és a tápanyag feldolgozás, stb.
+Na ha ez az akciókész állapot a tehetetlenségbe ragad, az a distressz.
+Biokémiailag belátható, hogy konkrétan megbetegítjük magunkat.
+A különböző érzelmi reakciókhoz gyakorlatilag létezik egy hozzá tartozó "hormonkoktél", amiknek pedig megvannak a "kedvenc" fogadóhelyeik.
+Ha ezeken a helyeken túl sokáig túl nagy a felesleg, annak bizony nem lesz jó vége.
+Például ha harag/düh, akkor szívkoszorúerek -- nesze egy infarktus!
+Ha megbántás/megbántottság/rágódás --> tessék, rák!
+
+Ha viszont EU vonalon le tudjuk vezetni, akkor nem is csak hogy semleges, de egyenesen pozitív lesz a visszajelzés!
+Bekapcsol az örömközpont, endorfint termelünk, stimuláljuk az immunrendszerünket.
+A szerző szavaival élve ez egy "vitalitás-generátor"!
+Ha pedig ebből az EU oldalból lenne a (jóval!) több, akkor nem betegednénk meg.
+Láthatjuk tehát, hogy a testi--lelki fitness összefügg!
+Népi bölcsesség, hogy "ép testben ép lélek", de mi most azt is hozzátesszük, hogy "az ép lélek épen tartja a testet"...
+
+Általános orvostani javaslat szokott lenne, hogy "csökkentsük a stresszt".
+Az egészségpszichológia szerint viszont nem feltétlenül...
+Ezzel az erővel akkor ne járjunk dolgozni és a családdal is kevesebbet találkozzunk?!
+Tanuljunk meg inkább **bánni** a stresszel, amitől az eustresszé válhat, és még jót is tehet.
+Gondoljunk a stresszre hasznos energiaként, amit nem elkerülni, hanem kezelni/levezetni/átirányítani kell!
+
+És pont erre való a pszichofitness, ami tulajdonképpen egy lelki erőnlét fokozó tanfolyam.
+Segít megküzdeni az ártalmas distresszekkel, segít beszerezni a hasznos eustresszeket, és ezzel egészségesre javítja az arányt.
+Az öt fő komponens (mint ahogy a következő szekciókban tárgyalni fogjuk): kacagj, kocogj, lazíts, érints, és segíts!
+
+<br />
 
 
 
@@ -446,3 +446,7 @@ A tartalom a következőképp alakul:
 
 
 ## Összefoglalás
+
+Illetve a dokinő is kiemeli azt, ami itt a blogon is menetrendszerűen kijön a bejegyzések végére tanulságnak: ez az egész persze felelősséggel is jár!
+Mivel innentől tudjuk, hogy mit _kéne_ tenni, ezért nem marad kifogás.
+És ha nem csináljuk, akkor a "számla úgyis nekünk lesz benyújtva".
