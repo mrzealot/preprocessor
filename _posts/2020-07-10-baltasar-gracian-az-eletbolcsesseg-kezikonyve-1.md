@@ -42,7 +42,7 @@ Megéri? Nem.
 <br />
 > Okos ember többre tartja, ha rászorulnak, mint ha hálásak neki. (5)
 
-Eleve a hálát elvárni naiv dolog; viszont amíg függés van, addig számíthatsz rá, hogy ott lesznek.
+Eleve a hálát elvárni naiv dolog; viszont amíg függés van, addig számíthatunk rá, hogy ott lesznek.
 Aki már "ki van elégítve", akkor könnyebben hátat fordít...
 
 
@@ -80,10 +80,12 @@ Vegyük ezt egy újabb ajánlásnak a blog számára...
 <br />
 > Nem elég a lényeg, a körülmények is fontosak. (14)
 
+Ez pedig akkor egy pont a blog _ellen_?!
+Nem teljesen.
 Visszautalnék itt [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %})-re, ahol szintén ezt mondjuk az igazságokról.
 Ha nem tudunk mellette érvelni, akkor az csak egy vélemény, ami véletlen épp igaz.
 Ha pedig tudunk is, de nem ismerjük (és tesszük magunkévá) a körülményeket, akkor nem is fog olyan erősen hatni az életünkre.
-Szóval a felületes összefoglalás az ismerkedésre elég, de utána tessék belemélyedni a bugyrokba is!
+Szóval a felületes összefoglalás az ismerkedésre elég (és remélhetőleg ezt a fázist könnyíti meg a blog), de utána tessék belemélyedni a bugyrokba is!
 
 
 <br />
@@ -138,8 +140,8 @@ De itt szó szerint kimondja, hogy ez helytelen -- attól, hogy időnként műk�
 
 Sokan tartják, hogy "önzőnek lenni rossz", de ez nem jelenti, hogy a spektrum másik vége lenne az ideális eset!
 Ez is egy Arisztotelész-féle "arany középút", meg kell találni az egyensúlyt!
-Személy szerint többször mondtam már szakmai dolgokkal kapcsolatban, hogy "Az egyik szuperképességem, hogy tudok nemet mondani".
-Fontos viszont, hogy ezt magukra is általánosítsuk, és a saját "helytelen" szándékainknak is tudjunk nemet mondani!
+Személy szerint többször mondtam már szakmai dolgokkal kapcsolatban: "Az egyik szuperképességem, hogy tudok nemet mondani".
+Fontos viszont, hogy ezt magunkra is általánosítsuk, és a saját "helytelen" szándékainknak is tudjunk nemet mondani!
 
 Hasonló mondanivaló az 58-ban ("Takarékoskodjunk magunkkal."), a 70-ben ("A 'nem' és 'igen' kurta szavak, de hosszú megfontolást kívánnak."), és a 252-ben is ("Ne legyünk sem magunké, sem másoké egészen.").
 Illetve az is nagyon fontos, hogy _hogyan_ mondunk nemet -- hogy ne hagyjon keserű szájízt.
@@ -160,7 +162,7 @@ Vakon ne kövessünk semmit és senkit, legyen véleményünk!
 
 Megfelelő szintű befelé figyeléssel (és esetleg némi önmagunk ellen folytatott Szókratészi vitával) felismerhetjük, hogy a véleményeink megalapozottak-e.
 És így remélhetőleg el is tudjuk majd engedni az alaptalanokat.
-Ez persze okozhat már kellemetlen szembesülést, de hosszú távon a következetesség többet fog érni!
+Ez persze okozhat pár kellemetlen szembesülést, de hosszú távon a következetesség többet fog érni!
 
 
 <br />
@@ -197,7 +199,7 @@ Ha viszont már nézeteltérésbe **kell** keveredni (mert mondjuk különben s�
 > A várni tudás. Szívbeli nagyságra vall és derekas türelemre, ha sohasem sietsz és háborogsz. Légy előbb önmagad ura, aztán másoknak is ura leszel. (55)
 
 Persze közben csinálni kell, nem **tétlenül** várni. De attól, hogy közben csináljuk, várni bizony még muszáj lesz!
-Ahogy anyum mondaná, "langsam spazieren!"...
+Ahogy anyum mondaná, "Langsam spazieren!"...
 
 
 <br />
@@ -232,7 +234,7 @@ Attól, hogy én odaillőnek ítéltem meg egy poént, még nem biztos, hogy té
 
 Ide egy gyors anekdota: stratégiai játékban (Hearthstone) néztem egy nagy profi (Hulkeinstein) játékát, és egy konkrét lépést illetőleg nem értettünk egyet.
 Persze ő csak tette a dolgát, viszont a végén mégis úgy alakult a helyzet, hogy az én verzióm jobban sült volna el.
-Amikor ezt szóvá tettem, ő továbbra is kitartott az döntése mellett, miszerint az volt a statisztikailag előnyösebb opció -- és ez nagyon megmaradt.
+Amikor ezt szóvá tettem, ő továbbra is kitartott a döntése mellett, miszerint az volt a statisztikailag előnyösebb opció -- és ez nagyon megmaradt.
 A lényeg: nem feltétlen az eredménytől függ, hogy jó-e az, amit csinálunk!
 Illetve lehet, hogy a rossz is jól (vagy akár jobban) sült volna el -- de ilyenkor nem szabad feledni, hogy az csak mák lett volna...
 
@@ -241,7 +243,7 @@ Illetve lehet, hogy a rossz is jól (vagy akár jobban) sült volna el -- de ily
 > A fül az igazság mellékkapuja és a hazugság főbejárata. (80)
 
 Nyilván itt azért tudományos idényességgel ne kezdjük el boncolgatni az állítás igazságtartalmát...
-De annyit azért nyugodtan leszűrhetünk, hogy "ne pletykálkodjunk"!
+De annyit nyugodtan leszűrhetünk belőle, hogy "ne pletykálkodjunk"!
 
 
 <br />
