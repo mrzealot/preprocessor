@@ -213,56 +213,94 @@ Hasonlóan a 280: "Járjunk egyenes úton. [...] Szolgáljon mások megbízhatat
 
 
 <br />
-- 214: "Ne csináljunk egy bolondságból kettőt. [...] Egy meggondolatlanságot a legokosabb ember is elkövethet, de kettőt már nem, s az elsőt is csak mentében, nem ültében."
+> Ne csináljunk egy bolondságból kettőt. [...] Egy meggondolatlanságot a legokosabb ember is elkövethet, de kettőt már nem, s az elsőt is csak mentében, nem ültében. (214)
+
+Ilyen ugye elvileg csak akkor lehet, ha nem tudatosan éljük az életünket, nem vizsgáljuk felül a döntéseinket, és nem tanulunk a tapasztalatainkból.
+De hát ki tenne ilyet... Ugye?
 
 
 <br />
-- 224: "Ugyanaz a dolog más színben tűnik fel, ha más világításban vesszük szemügyre."
-    - megint sztoicizmus
+> Ugyanaz a dolog más színben tűnik fel, ha más világításban vesszük szemügyre. (224)
+
+Már a könyökünkön jön ki, de hát ez megint csak a sztoicizmus...
 
 
 <br />
-- 231: "Ne mutassunk meg félig kész dolgokat. [...] A dolgok, mielőtt valamivé lesznek, semmik, s amikor lenni kezdenek, még nagyon a semmiség állapotában vannak. [...] Ügyeljen hát minden igaz mester, hogy művét ne lássák embrionális állapotban;"
-    - ebben gyakran hibás vagyok, mert annyira a folyamatra koncentrálok, hogy nem gondolok arra, hogy a végén "nagyobbat szólna"
-    - kérdés persze, hogy mi a cél... ha a népszerűség és az elkápráztatás, akkor persze, a félkész tabu
-    - de én az mellett érvelnék, hogy néha a folyamat bemutatása is fontos lehet, egyéb szempontokból
+> Ne mutassunk meg félig kész dolgokat. [...] A dolgok, mielőtt valamivé lesznek, semmik, s amikor lenni kezdenek, még nagyon a semmiség állapotában vannak. [...] Ügyeljen hát minden igaz mester, hogy művét ne lássák embrionális állapotban. (231)
+
+Ebben gyakran "bűnös" vagyok, mert túlságosan a folyamatra koncentrálok; ezért pedig nem gondolok arra, hogy a végén "nagyobbat szólna".
+Kérdés persze, hogy mi a cél...
+Ha a népszerűség és az elkápráztatás, akkor persze, a félkész tabu.
+De én az mellett érvelnék, hogy néha a folyamat bemutatása is fontos lehet, egyéb szempontokból.
+A lényeg, hogy tudjuk, milyen hatást akarunk elérni -- és ne tegyünk magunknak keresztbe!
 
 
 <br />
-- 232: "Ne csak mindig elmélkedjünk, cselekedjünk is. [...] Mit ér a tudás, ha nem gyakorlati? Az élni tudás manapság az igazi tudás."
-    - valamilyen szinten ez is "arany középút"
-    - hasonlóan 249: "Jöjjön előbb a fő dolog, csak aztán, ha marad hely, a mellékes. [...] Az élni tudáshoz mindenképpen módszer kell."
+> Ne csak mindig elmélkedjünk, cselekedjünk is. [...] Mit ér a tudás, ha nem gyakorlati? Az élni tudás manapság az igazi tudás. (232)
+
+Valamilyen szinten ez is az "arany középút" -- az eszetlen cselekvés ugyanolyan végletes (és rossz), mint a cselekvés nélküli elmélkedés.
 
 
 <br />
-- 240: "Ostobák közt éppoly céltalan bölcsnek lenni, mint őrültek között józannak. Beszéljünk mindenkivel a maga nyelvén."
-    - ne akarjuk a saját hangnemünket ráerőltetni egy-egy szituációra
-    - inkább itt is maradjunk flexibilisek
+> Ostobák közt éppoly céltalan bölcsnek lenni, mint őrültek között józannak. Beszéljünk mindenkivel a maga nyelvén. (240)
+
+Egy szociális elmélet alapján eleve mindenki öntudatlanul is a társasághoz igazítja a stílusát.
+Itt csak annyit mondunk, hogy ez ellen nem is kell küzdeni -- mondjuk hogy minél "autentikusabbak" legyünk -- hanem vállaljuk inkább ezt a viselkedési flexibilitást.
 
 
 <br />
-- 243: "Nincs könnyebb, mint jóravaló embert rászedni. [...] Nem mindig ostobaság, ha túljárnak valaki eszén, néha csak jóság. Kétfajta ember tudja megelőzni a kárt: a tapasztalt, aki a maga, és az okos, aki a más kárán okul."
-    - SZIN-es sztori
+> Nincs könnyebb, mint jóravaló embert rászedni. [...] Nem mindig ostobaság, ha túljárnak valaki eszén, néha csak jóság. Kétfajta ember tudja megelőzni a kárt: a tapasztalt, aki a maga, és az okos, aki a más kárán okul. (243)
+    
+Ide tökéletesen illeszkedik egy SZIN-es anekdota: jegyért álltunk sorban, amikor két lány többek között minket is megkörnyékezett azzal, hogy "vegyük át" az ő jegyeiket kedvezményes áron, mert úgy nyerték, de nekik nem kell.
+Na az ilyenbe a dörzsöltebbek vagy eleve nem mennek bele -- vagy ha igen, akkor is a "kedvezményes árat" látják benne.
+Én viszont őszintén (és igencsak naivan) a "miért ne segítenék" szemszögből néztem a helyzetet.
+Nekik nem kell, én amúgy is ezért jöttem, win-win.
+
+Hát mondanom sem kell, gyorsan "win-lose" lett belőle, amikor a kapunál nem engedtek be vele, mert valami "nem átruházható" meg "nem érvényes"...
+Azóta sem tudom, hogy a lányok vertek-e át, vagy az igen korlátozott fesztivál-ismereteimmel én csináltam valamit rosszul.
+De az biztos, hogy ezután fizethettem az új, teljes árú belépőket.
+Tankönyvi példa a fenti idézetre, nem?
+
+Azért mondom csak el (a "gyónás" megkönnyebbülése mellett), hogy hátha segíthetek vele valakinek elkerülni az ilyen keserű szájízt hagyó szituációkat.
+Legyetek ti az "okosok", ha már én "tapasztalt" kell, hogy legyek...
 
 
 <br />
-- 247: "Igazán csak az idő a miénk: abban él még a hajléktalan is. Az értékes életet gépies robotban vagy túlságosan fennkölt munkában tölteni egyformán szerencsétlen dolog. Ne halmozzuk túl magunkat elfoglaltsággal vagy irigységgel, különben életünk rohanás lesz, és lelkünk megfullad."
-    - ez pedig egy kiváló érvelés amellett, hogy miért is valid, hogy van hobbim, hogy néha kihagyok egy-egy napot, hogy az asszonnyal is kell foglalkozni, hogy kirándulni is kell járni, stb.
-    - nyilván a "gépi robot" helyett próbáljuk a mérleget a "fennkölt munka" felé billenteni, de azért ne MINDIG! mert különben kiégünk
+> Igazán csak az idő a miénk: abban él még a hajléktalan is. Az értékes életet gépies robotban vagy túlságosan fennkölt munkában tölteni egyformán szerencsétlen dolog. Ne halmozzuk túl magunkat elfoglaltsággal vagy irigységgel, különben életünk rohanás lesz, és lelkünk megfullad. (247)
+    
+Kiváló érvelés amellett, hogy miért is teljesen jogos, hogy van hobbim, hogy néha kihagyok egy-egy napot, hogy a kapcsolataimmal is kell foglalkozni, hogy kirándulni is kell járni, stb.
+Nyilván a "gépi robot" helyett próbáljuk a mérleget a "fennkölt munka" felé billenteni, de azért ne **mindig**, mert különben kiégünk!
 
 
 <br />
-- 285: "Ne haljunk bele mások bajába."
-    - persze szabad segíteni, de nagyon vigyázzunk, hogy azért ha esetlen neki nem is lesz jobb, nekünk azért ne legyen rosszabb
+> Jöjjön előbb a fő dolog, csak aztán, ha marad hely, a mellékes. [...] Az élni tudáshoz mindenképpen módszer kell. (249)
+
+Erről az a tanmese jut eszembe, amit Stephen Covey (hamarosan terítékre kerülő) könyve népszerűsített: a nagy kövek, avagy [az élet befőttesüvege](https://www.youtube.com/watch?v=SqGRnlXplx0){:target="_blank"}.
+Ha azt szeretnénk, hogy minden beleférjen, akkor először a nagy dolgokat kell beletenni, és csak utána a kisebbeket.
+Mert ha a kisebbekkel kezdünk, akkor azok kitöltik a helyet -- és pont az igazán fontos dolgoknak nem marad!
+Láthatjuk tehát, hogy a sorrend nagyon is számít!
 
 
 <br />
-- 294: "Előfordul, hogy két ellentmondó ítélet találkozik, s mindkettő magáénak érzi az igazságot, pedig az, önmagához híven, sohasem volt még kétarcú. Haladjon a bölcs ezen a kényes területen megfontoltan, [...] helyezkedjék olykor a másik álláspontra, és vizsgálja meg az ellenfél érveit. Ha így jár el, nem fog mást elvakultan elítélni, sem magának igazat adni."
-    - gyakorlatilag egy az egyben ahogy az On Liberty-ben láttuk
+> Ne haljunk bele mások bajába. (285)
+
+Persze szabad segíteni.
+És nem is arról van szó, hogy ne legyünk empatikusak!
+De nagyon vigyázzunk, hogy ha esetleg a másiknak nem is lesz jobb, nekünk azért semmiképp ne legyen rosszabb!
 
 
 <br />
-- 295: "A nagy tetteket nem tettetni, hanem megtenni kell. [...] Törekedjünk inkább arra, hogy hősök legyünk, mint hogy annak tartsanak."
+> Előfordul, hogy két ellentmondó ítélet találkozik, s mindkettő magáénak érzi az igazságot, pedig az, önmagához híven, sohasem volt még kétarcú. Haladjon a bölcs ezen a kényes területen megfontoltan, [...] helyezkedjék olykor a másik álláspontra, és vizsgálja meg az ellenfél érveit. Ha így jár el, nem fog mást elvakultan elítélni, sem magának igazat adni. (294)
+
+Gyakorlatilag egy az egyben ahogy [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) is mondta...
+
+
+<br />
+> A nagy tetteket nem tettetni, hanem megtenni kell. [...] Törekedjünk inkább arra, hogy hősök legyünk, mint hogy annak tartsanak. (295)
+
+És a végére egy fontos, habár talán nem túl meglepő értékítélet: attól, hogy a látszat is számít, még továbbra is a belső érték a lényeg.
+Természetes, hogy a jótetteink mellett szeretnénk még a tetejébe jó színben is feltűnni.
+De azért akkor is jótett legyen az ösztönös reakciónk, ha épp nem látja senki!
 
 
 <br />
@@ -270,9 +308,9 @@ Hasonlóan a 280: "Járjunk egyenes úton. [...] Szolgáljon mások megbízhatat
 
 ## Összefoglalás
 
-- habár van 1-2 jó meglátás, a nagyja nem annyira "eget rengető" újdonság
-- ettől viszont még mind nagyon jó tanács, csak az életünkre való alkalmazásuk nem könnyű
-- ahhoz pedig nem is az a fontos, hogy vadonatúj és egzotikus legyen a mondanivaló! 
+Habár természetesen volt benne 1-2 friss meglátás, nyugodtan mondhatjuk, hogy Baltasar Gracián szösszeneteinek a nagyja nem annyira "eget rengető" újdonság.
+De ez nem baj, hiszen ettől még mind nagyon jó tanács...
+Az életünkre való alkalmazásuk persze nem könnyű, de ahhoz pedig nem is az a fontos, hogy vadonatúj és egzotikus legyen a mondanivaló! 
 
-- pont az kell, hogy tömören, humorosan és emlékezetesen fejezzük ki a lényeget -- hogy ezek aztán tényleg hathassanak a mindennapjainkra
-- és erre pedig kiváló Baltasar Gracián gyűjteménye, amit időnként mindenképp érdemes lesz átolvasni!
+Szerintem pont az kell, hogy tömören, humorosan és emlékezetesen fejezzük ki a lényeget -- hogy ezek aztán megragadjanak, és tényleg hathassanak a mindennapjainkra.
+Erre pedig kiváló ez a gyűjtemény, amit időnként mindenképp érdemes lesz átolvasni!
