@@ -51,11 +51,11 @@ De hogy most már milyen ékesszólóan rossz...
 > Ne panaszkodjunk soha. (129)
 
 Eleve olyan is volt, hogy soha ne beszéljünk magunkról -- de ha esetleg beszélünk is, az viszont akkor véletlen se panaszkodás legyen!
-Menjen inkább ez is a "pay it forward" elvén: dicsérjünk a másikat, érdeklődjünk az ő dolgai felől, ilyesmi (mint ahogy [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) is megmondta).
+Menjen inkább ez is a "pay it forward" elvén: dicsérjük a másikat, érdeklődjünk az ő dolgai felől, ilyesmi (mint ahogy [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) is megmondta).
 
 
 <br />
-A dolgok értékét nem az adja meg, amik, hanem aminek látszanak. Valamit érni és meg is mutatni annyi, mint kétszer annyit érni. (130)
+> A dolgok értékét nem az adja meg, amik, hanem aminek látszanak. Valamit érni és meg is mutatni annyi, mint kétszer annyit érni. (130)
 
 A látszat sokat számít, de akkor a legjobb, ha van is mögötte valami.
 Szóval itt véletlen se az legyen a tanulság, hogy elég valaminek _látszani_...
@@ -94,8 +94,8 @@ Nem kell persze mindenkire hallgatni -- de az is ugyanakkora baj lehet, ha senki
 <br />
 > Nagy próbája az ítélőképességnek, az őrültség perceiben is megőrizni okosságunkat. (155)
 
-Vagyis azért akkor is igyekezzünk öntudatunknál maradni, ha mérgesek vagyunk.
-Az első asszociációm erre a Trópusi Vihar-os (Tropic Thunder) "Soha ne nyomd fullba a kretént!", csak egy kicsit elegánsabban...
+Vagyis azért akkor is igyekezzünk öntudatunknál maradni, amikor mérgesek vagyunk.
+Az első asszociációm erre a Trópusi Vihar (Tropic Thunder) örök érvényű jótanácsa, miszerint "Soha ne nyomd fullba a kretént!" -- csak persze egy kicsit elegánsabban...
 
 
 <br />
@@ -107,10 +107,10 @@ Mi válogassuk meg, ne a véletlen!
 
 
 <br />
-Tanuljuk meg eltűrni az ostobákat. [...] Akinek lelkülete nem alkalmas a tűrésre, húzódjék vissza önmagába, ha ugyan önmagát képes elviselni. (159)
+> Tanuljuk meg eltűrni az ostobákat. [...] Akinek lelkülete nem alkalmas a tűrésre, húzódjék vissza önmagába, ha ugyan önmagát képes elviselni. (159)
 
 Ismét szépen rámutatunk, hogy a szenvedés legvalószínűbb okai mi magunk vagyunk.
-Ha az elviselést (vagyis a külvilági ingerek pozitívabb címkézését) megtanulnánk, akkor már az "ostobákkal" sem lenne baj.
+Ha az elviselést (vagyis a külvilági ingerek pozitívabb címkézését) megtanulnánk, akkor talán az "ostobákkal" sem lenne akkora baj.
 Ha viszont nem, akkor már magunkkal is gond lesz -- lehet az ostobákig el sem jutunk.
 
 
@@ -159,7 +159,7 @@ Hasonlóan 227: "Ne engedjünk az első benyomásnak. Némelyek úgy kapnak az e
 
 Ez persze nem jelenti azt, hogy minden új után kapadoznunk kellene.
 A 248 hozzá is teszi: "Ne adjunk mindig az utolsónak igazat".
-De attól azért legalább hallgassuk meg az utolsót, és mérlegeljük a véleményét az addigiak fényében.
+De attól azért legalább hallgassuk meg az utolsót is, és mérlegeljük a véleményét az addigiak fényében.
 
 
 <br />
@@ -245,18 +245,18 @@ Valamilyen szinten ez is az "arany középút" -- az eszetlen cselekvés ugyanol
 > Ostobák közt éppoly céltalan bölcsnek lenni, mint őrültek között józannak. Beszéljünk mindenkivel a maga nyelvén. (240)
 
 Egy szociális elmélet alapján eleve mindenki öntudatlanul is a társasághoz igazítja a stílusát.
-Itt csak annyit mondunk, hogy ez ellen nem is kell küzdeni -- mondjuk hogy minél "autentikusabbak" legyünk -- hanem vállaljuk inkább ezt a viselkedési flexibilitást.
+Itt csak annyit mondunk, hogy ez ellen nem is kell küzdeni -- például hogy minél "autentikusabbak" legyünk -- hanem vállaljuk inkább ezt a viselkedési flexibilitást.
 
 
 <br />
 > Nincs könnyebb, mint jóravaló embert rászedni. [...] Nem mindig ostobaság, ha túljárnak valaki eszén, néha csak jóság. Kétfajta ember tudja megelőzni a kárt: a tapasztalt, aki a maga, és az okos, aki a más kárán okul. (243)
     
-Ide tökéletesen illeszkedik egy SZIN-es anekdota: jegyért álltunk sorban, amikor két lány többek között minket is megkörnyékezett azzal, hogy "vegyük át" az ő jegyeiket kedvezményes áron, mert úgy nyerték, de nekik nem kell.
+Ide tökéletesen illeszkedik egy régi [SZIN](https://szin.org/){:target="_blank"}-es anekdota: jegyért álltunk sorban, amikor két lány többek között minket is megkörnyékezett azzal, hogy "vegyük át" az ő jegyeiket kedvezményes áron, mert úgy nyerték, de nekik nem kell.
 Na az ilyenbe a dörzsöltebbek vagy eleve nem mennek bele -- vagy ha igen, akkor is a "kedvezményes árat" látják benne.
 Én viszont őszintén (és igencsak naivan) a "miért ne segítenék" szemszögből néztem a helyzetet.
 Nekik nem kell, én amúgy is ezért jöttem, win-win.
 
-Hát mondanom sem kell, gyorsan "win-lose" lett belőle, amikor a kapunál nem engedtek be vele, mert valami "nem átruházható" meg "nem érvényes"...
+Hát mondanom sem kell, gyorsan "win-lose" lett belőle, amikor a kapunál nem engedtek be vele, mert "nem átruházható" meg "nem érvényes"...
 Azóta sem tudom, hogy a lányok vertek-e át, vagy az igen korlátozott fesztivál-ismereteimmel én csináltam valamit rosszul.
 De az biztos, hogy ezután fizethettem az új, teljes árú belépőket.
 Tankönyvi példa a fenti idézetre, nem?
@@ -268,8 +268,8 @@ Legyetek ti az "okosok", ha már én "tapasztalt" kell, hogy legyek...
 <br />
 > Igazán csak az idő a miénk: abban él még a hajléktalan is. Az értékes életet gépies robotban vagy túlságosan fennkölt munkában tölteni egyformán szerencsétlen dolog. Ne halmozzuk túl magunkat elfoglaltsággal vagy irigységgel, különben életünk rohanás lesz, és lelkünk megfullad. (247)
     
-Kiváló érvelés amellett, hogy miért is teljesen jogos, hogy van hobbim, hogy néha kihagyok egy-egy napot, hogy a kapcsolataimmal is kell foglalkozni, hogy kirándulni is kell járni, stb.
-Nyilván a "gépi robot" helyett próbáljuk a mérleget a "fennkölt munka" felé billenteni, de azért ne **mindig**, mert különben kiégünk!
+Kiváló érvelés amellett, miért is teljesen jogos, hogy van hobbim, hogy néha kihagyok egy-egy napot, hogy a kapcsolataimmal is kell foglalkozni, hogy kirándulni is kell járni, stb.
+Nyilván a "gépi robot" helyett próbáljuk a mérleget a "fennkölt munka" felé billenteni, de azért a szabadidőt se hanyagoljuk, különben kiégünk!
 
 
 <br />
@@ -300,7 +300,7 @@ Gyakorlatilag egy az egyben ahogy [John Stuart Mill]({% post_url 2020-06-19-john
 
 És a végére egy fontos, habár talán nem túl meglepő értékítélet: attól, hogy a látszat is számít, még továbbra is a belső érték a lényeg.
 Természetes, hogy a jótetteink mellett szeretnénk még a tetejébe jó színben is feltűnni.
-De azért akkor is jótett legyen az ösztönös reakciónk, ha épp nem látja senki!
+De azért akkor is a jótett legyen az ösztönös reakciónk, ha épp nem látja senki!
 
 
 <br />
@@ -309,8 +309,8 @@ De azért akkor is jótett legyen az ösztönös reakciónk, ha épp nem látja 
 ## Összefoglalás
 
 Habár természetesen volt benne 1-2 friss meglátás, nyugodtan mondhatjuk, hogy Baltasar Gracián szösszeneteinek a nagyja nem annyira "eget rengető" újdonság.
-De ez nem baj, hiszen ettől még mind nagyon jó tanács...
-Az életünkre való alkalmazásuk persze nem könnyű, de ahhoz pedig nem is az a fontos, hogy vadonatúj és egzotikus legyen a mondanivaló! 
+De ez nem baj, hiszen ettől még mindegyik nagy szolgálatot tehet...
+Persze nem könnyű őket az életünkre alkalmazni, de ahhoz pedig nem is az a fontos, hogy vadonatúj és egzotikus legyen a mondanivaló! 
 
 Szerintem pont az kell, hogy tömören, humorosan és emlékezetesen fejezzük ki a lényeget -- hogy ezek aztán megragadjanak, és tényleg hathassanak a mindennapjainkra.
-Erre pedig kiváló ez a gyűjtemény, amit időnként mindenképp érdemes lesz átolvasni!
+Erre pedig kiváló ez a gyűjtemény, amit időnként feltétlen érdemes lesz átolvasni!
