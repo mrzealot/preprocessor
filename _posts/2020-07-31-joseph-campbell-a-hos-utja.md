@@ -4,7 +4,9 @@ title: Joseph Campbell - A hős útja
 pages: 240
 date: 2020-07-31 00:01
 excerpt: >
-    TODO
+    A nyári "szabadságról" visszatérvén folytatjuk a szokásos olvasgatásunkat.
+    Mai célpontunk (Steven Pressfield -- A művészet háborúja ajánlása alapján) Joseph Campbell életművének legjava.
+    A hős útja Campbell életén keresztül mutatja be munkássága főbb eredményeit -- és hogy a meglátásait alkalmazva hogyan kormányozhatjuk mi is egy autentikusabb irányba az életünket.
 ---
 
 A nyári "szabadságról" visszatérvén folytatjuk a szokásos olvasgatásunkat.
@@ -12,8 +14,8 @@ Mai célpontunk (Steven Pressfield -- [A művészet háborúja]({% post_url 2020
 [A hős útja](https://www.goodreads.com/es/book/show/242531.The_Hero_s_Journey){:target="_blank"} Campbell életén keresztül mutatja be munkássága főbb eredményeit -- és hogy a meglátásait alkalmazva hogyan kormányozhatjuk mi is egy autentikusabb irányba az életünket.
 Joseph barátunk pedig nekem személy szerint annyira inspirálóan hatott, hogy kiegészítésként még egy-két dokumentumfilmet és interjút is néztem a könyv mellé.
 Nem is mondok róla többet, menet közben úgyis kiderül...
-A tartalom a következőképp alakul:
 
+A tartalom a következőképp alakul:
 
 - [A monomítosz](#a-monomítosz)
 - Campbell hősi útja
@@ -22,7 +24,6 @@ A tartalom a következőképp alakul:
     - [A visszatérés](#a-visszatérés)
 - [A vallási tanulság](#a-vallási-tanulság)
 - [A világi tanulság](#a-világi-tanulság)
-- [Tanmese](#tanmese)
 
 <br />
 
@@ -224,61 +225,62 @@ De jobb, ha tisztában vagyunk vele, hogy csak ez a szembenézés után jöhet a
 
 ## A visszatérés
 
-A sok olvasás/olvasás/olvasás után elkezdett írni is, hogy (a tipikus Hero's Journey minta szerint) megossza a "másvilágon" tanultakat
-- "That's the advantage of being mythologically indoctrinated. You know where you are when these stories take place. And they do. Read them not as something that happened out there but as something that is going to happen to you and is happening to you. That's translating this material into spiritual food."
-    - ahogy fent mondtam is, ennek az egésznek az az értelme, hogy megfelelően tudjuk értelmezni a sztorikat, hogy tanulhassunk belőlük
-    - és hogy megfelelően értelmezzük az életünket is, ami szintén hasonló szálakat fog mutatni, ha ismerjük a szálakat, és tudunk a sorok között olvasni
+A sok olvasás/olvasás/olvasás után végül elkezdett írni is, hogy (a tipikus hős útja minta szerint) megossza a "másvilágon" tanultakat.
+Tette mindezt értünk, a többiekért, hogy megfelelően tudjuk értelmezni az életünk sztoriját.
+Az ugyanis meglepően hasonló szálakat fog mutatni a rengeteg mindennel -- ha tudunk a sorok között olvasni.
 
-- és szintén felmerül a "magadtól írsz vs. a múzsa szól hozzád" hasonlat is, ahol ugye kapcsolódunk a war of art-hoz
-- és ahogy párhuzamosan a Joyce elemzést, az indiános dolgait, és a hindu anyagait írta, esett le végképp, hogy egy mitológia van a világon
-    - mindegyik kultúra a saját történelméhez, etikájához és szociális körülményeihez szabja, de attól még ugyanaz a magja mindnek
-    - "The personification is folk; the energy is human."
+> Ez az előnye, ha mitológiailag beavatottak vagyunk. Tudni fogjuk, mi is a helyzet, miközben ezek a sztorik megtörténnek. És megtörténnek! Ne úgy olvassuk hát őket, mintha ezek régen történtek volna valaki mással -- inkább úgy, mintha velünk is megtörténhetnének. Így lesz ebből a nyers alapanyagból spirituális táplálék.
+> > That's the advantage of being mythologically indoctrinated. You know where you are when these stories take place. And they do. Read them not as something that happened out there but as something that is going to happen to you and is happening to you. That's translating this material into spiritual food.
+
+És ahogy párhuzamosan egy Joyce elemzést, az indiános dolgait, és egy megbízatás miatti hindu anyagait írta, akkor esett le végképp, hogy gyakorlatilag egy mitológia van a világon.
+Mindegyik kultúra a saját történelméhez, etikájához és szociális körülményeihez szabja, de attól még ugyanaz a magja mindnek.
+
+> A megszemélyesítés népi; az energia emberi.
+> > The personification is folk; the energy is human.
+
+Ebből született Az ezerarcú Hős című, áttörést hozó könyve, illetve számos más publikációja, előadása és tanítási módszere is.
+Sőt, ezt a tudást használta fel egy pszichológussal való együttműködése során is.
+Az alapfelvetés egyszerű: a kurkász kitalálja, hogy mi a baj a páciensekkel, Campbell pedig hoz rá egy odaillő mitológiai példát, amin keresztül (remélhetőleg) szemlélteti az alanynak, hogy hogyan is kellene viselkednie az adott helyzetben.
+Ez egyszerűsége ellenére azonban igen hatásosnak bizonyult.
+
+Idősebb fejjel visszagondolva az életművére, Campbell számos kézzel fogható tanulságot megfogalmaz.
+A (szerintem) két nagyobbat a következő két szekcióban vesézzük ki, de előbb még ezért fussuk át a többit is:
+
+- Nem baj, ha a társadalom nem igazodik ahhoz az értékrendhez, amit mi belül helyesnek érzünk.
+Ha ők nem is jó irányba haladnak, mi csak menjünk arra -- hátha majd pont mi leszünk a példa!
+
+    > Nem a társadalomnak kell vezetnie és megmentenie a kreatív hőst, hanem pont fordítva.
+    > > It is not society that is to guide and save the creative hero, but precisely the reverse.
+
+    > Nem kell megvárnunk, amíg a társadalom felébred. Az a fontos, hogy az egyén megtalálja a saját útját.
+    > > We don't have to wait for the society to wake up. The important thing is for the individual to find his or her own way.
     
-- "I'm writing all the time now. The real sorrow is that it's cut down on my reading time. There's still a lot to learn."
+- Az időskor a hátrányai mellett jelentős kompenzációval is jár.
+Nincs _annyi_ jövő, ezért tényleg a jelen lesz a fontos.
+És ha már úgyis csak lábjegyzeteket tehetnénk az életünk történetéhez, akkor ahelyett érdemesebb a mostra (és az eddig megéltek felidézésére) koncentrálni.
 
-- The Magic Flight
+    > [...] A jövő már nem annyira fontos, és a jelen olyan vitalitással jön át, ahogy fiatal korunkban nem tudott.
+    > > [...] The future is no longer so important and the present comes through with the vitality it doesn't have in youth.
 
-- együttműködése egy pszichológussal: az megtalálja, hogy mi a baj az emberrel, Campbell pedig hoz rá egy mitológiai példát, amin keresztül (remélhetőleg) szemlélteti az alanynak, hogy hogyan is kellene viselkednie az adott helyzetben
-    - "Sam [Keen] was very good at finding out where people are when they're stuck, when they're in trouble. I don't think you have to go through a deep psychoanalysis for that. There's just some kind of idea that's blocking you. Remove the idea -- the person is released."
-    - ez gyakorlatilag megint a Brave-es élményem, ahol azt az ötletet kellett elvetnem, hogy előre kell a pénz, és utána jön az önmegvalósítás
+- Nagy baj a rétegződés, és hogy senki nem tekinti az egész emberiséget a törzsének vagy a nemzetének.
+Meglehetnének a rituálék és a szimbólumok, amik összefogják az ember életét -- és nem is lenne ekkora káosz.
+De nem tudunk egységesen élni, mert mindenki egyre inkább csak a saját érdekét nézi.
 
+- Mindannyian egy mítosz-szerű sztorit élünk meg az életünk során.
+De az nagyon nem mindegy, hogy ezt tudatosan tesszük, vagy a mítosz csak úgy a háttérben kel életre rajtunk keresztül.
+Szóval jobban tennénk, ha tanulmányoznánk a "lehetőségeket", kiválasztanánk, amivel szimpatizálunk, és aztán tudatosan kormányoznánk abba az irányba...
 
-
-- The Return Threshold + The Master of Two Worlds
-
-- vagyis megosztani, amit a hős az eddigi útja során tanult
-    - ezt Campbellnél nem nagyon kell részletezni, írt és oktatott bőven
-- "[...] he has become my Yoda." // George Lucas on Campbell...
-
-- "It is not society that is to guide and save the creative hero, but precisely the reverse."
-- "We don't have to wait for the society to wake up. The important thing is for the individual to find his or her own way"
-    - nem baj, ha a társadalom nem igazodik ahhoz az értékrendhez, amit bentről érzünk
-    - és nem kell megvárni, amíg majd ők is felismerik
-    - sőt: nekünk kellene segíteni nekik, hogy ismerjék fel!
-- az időskor a hátrányai mellett jelentős kompenzációval is jár: "The experience of the present where the future is no longer so important and the present comes through with the vitality it doesn't have in youth."
-    - nincs jövő, ezért tényleg a jelen lesz a fontos
-    - addigra már leélted az életed, és jogosan élvezheted
-    - itt már úgyis csak lábjegyzeteket tehetnél rá, ami helyett inkább a megéltek felidézése a fontos
-- nagy baj a rétegződés, és hogy senki nem tekinti az egész emberiséget a törzsének
-    - meglennének a rituálék, amit összefogják az ember életét, és nem is lenne ekkora káosz
-    - de nem tudunk egységesen élni, mert mindenki csak a saját érdekét nézi
-- "There's a very big difference between living something consciously and being lived by it."
-    - mindannyian egy mítosz-szerű sztorit élünk meg az életünk során
-    - de nagyon nem mindegy, hogy ezt tudatosan tesszük, vagy a mítosz csak úgy a háttérben kel életre rajtunk keresztül
-    - szóval jól tesszük, ha tanulmányozzuk őket, kiválasztjuk amivel szimpatizálunk, és aztán tudatosan éljük azt a vonalat
-- a civilizációknak is megvannak a fázisai (Goethe, The Ages of the Spirit)
-    - mitikus --> vallásos --> filozofikus --> természetes
-    - és az utóbbiból már semmi nem teremt új világokat, ezért kell is hogy jöjjön valami új, ami megint megmozgatja a mitikus fantáziánkat
-- anandamaya kultúra indiában: különböző burkok/szintek
-    - kaja < levegő < elme < bölcsesség < öröm
-
-- az ego _nem_ az ellenség
-    - az egonk a "valóságfüggvényünk" ami az itthez és a mosthoz kapcsol, értékeli az élményeinket, stb.
-    - szemben a lényünkkel, ami a lehetőségeinket, a potenciálunkat tartalmazza
-    - szóval a cél nem az, hogy eldobjuk az egot (mert akkor elszakadunk a valóságunktól), hanem hogy a lényünk szolgálatába állítsuk (ahelyett, hogy ő lenne a diktátor)
+    > Nagy különbség, hogy tudatosan megélünk valamit, vagy hogy az él meg minket.
+    > > There's a very big difference between living something consciously and being lived by it.
 
 
+- Az ego _nem feltétlen_ az ellenség!
+Az egónk a "valóságfüggvényünk", ami az itthez és a mosthoz kapcsol, értékeli az élményeinket, stb.
+Szemben a lényünkkel, ami a lehetőségeinket, a potenciálunkat tartalmazza.
+Szóval a cél nem az, hogy eldobjuk az egót -- mert akkor elszakadunk a valóságunktól.
+A cél az, hogy az egónkat állítsuk a lényünk szolgálatába, és ne fordítva!
 
+<br />
 
 
 
@@ -313,45 +315,40 @@ A sok olvasás/olvasás/olvasás után elkezdett írni is, hogy (a tipikus Hero'
 
 ## A vallási tanulság
 
-- kelet vs. nyugat ==> önfejlesztés/átalakulás vs. történelmi helyesség (tényleg így volt)
-        - már pedig lehetne a keresztény vonalat is mitikusan "olvasni" és egy teljesen más jelentést kiszedni belőle
-        - csak ott az nem "javasolt", mert ott a pontosságra mennek, nem az egyéni értelmezésre
+Campbell szerint minden mítosz igazából egy isten-metafora.
+Isten az, amit nem tudunk megmagyarázni -- és soha nem is fogjuk tudni.
+Ezért mi magunk választunk egy magyarázatot, amit vele azonosítunk.
+Innentől pedig tiszta haszonelvűség: az a lényeg, hogy az a bizonyos nézet segít-e nekünk?
+Mondhatjuk, hogy minden metafora szimplán csak egy _hazugság_, de attól még segíthet valamit átérezni (ha megérteni nem is).
 
-// dokuból
+De hiába segít úgy, ha közben máshol pedig komolyan árt.
+Ezért is fontos a tudomány és a vallás összeegyeztethetősége.
+Nem jó teljesen szárazon, csak tudományosan szemlélni a dolgokat, mert akkor bizonyos szemszögből üres lesz az élet.
+Oké, hogy nem tudunk mindent, de ha azzal nem foglalkozunk, amit nem is tud<b>hat</b>unk, akkor egy csomó meglátásból és élményből kimaradunk.
+Az sem jó viszont, ha a nem tud<b>hat</b>ó helyére képzelt verziónkat véletlen annyira elhisszük, hogy elkezdjük tényként kezelni.
+Az ilyenből lesz a sötét középkor, az inkvizíció, és a még napjainkban is igencsak jelen lévő intolerancia.
 
-- hasonlat vs. metafora különbség
-        - nem mindegy, hogy úgy fut, mint egy nyúl, vagy hogy "ő egy nyúl"
-    - és Campbell szerint minden mítosz igazából egy isten-metafora
-        - isten az, amit nem tudunk megmagyarázni, és nem is tudHATunk soha
-        - ezért mi magunk választunk egy magyarázatot, amit vele azonosítunk
-    - innentől pedig tiszta haszonelvűség: az a lényeg, hogy az a bizonyos nézet segít-e nekünk?
-        - mondhatjuk, hogy minden metafora csak szimplán hazugság, de attól még segíthet valamit átérezni (ha megérteni nem is)
-    - mondhatni, hogy a lényeg (kicsit megint arany középút-szerűen) a tudomány és a vallás összeegyeztethetősége
-        - nem jó teljesen szárazon, csak tudományosan szemlélni a dolgokat, mert akkor bizonyos szemszögből üres az élet
-            - oké, hogy nem tudunk mindent, de ha azzal nem foglalkozunk, amit nem is tudHATunk, akkor egy csomó meglátásból és élményből kimaradunk
-        - az sem jó viszont, ha a nem tudHATó helyére képzelt verziónkat véletlen annyira elhisszük, hogy elkezdjük tényként kezelni
-            - az ilyenből lesz a sötét középkor, az inkvizíció, és az intolerancia
-    - a nagy csúszás nem is a tudomány és a vallás között van, hanem a régi és az új tudomány között
-        - a nagy vallások régiek, és az akkori tudományhoz alkalmazkodva töltötték ki a réseket
-        - azóta pedig nem nagyon hajlandó senki frissíteni őket
-        - illetve maguk a metaforák is annyira elavulnak, hogy már magyarázni kell őket
-            - ez pedig, (mint a vicceknél) nem túl biztató
+A nagy csúszás tulajdonképpen nem is a tudomány és a vallás között van, hanem a **régi** és az **új** tudomány között.
+A nagy vallások régiek, és ezért nyilván az akkori tudományhoz alkalmazkodva töltötték ki az ismeretlen réseket.
+Azóta viszont nem nagyon hajlandó senki frissíteni őket...
+Illetve maguk a metaforák is annyira elavulnak, hogy már magyarázni kell őket -- ez pedig ugye, akár csak a vicceknél, nem túl biztató.
 
-- "The denotations just don't work, that's all. And I think religious people know that they don't work and that's why they're so damned deliberate and dogmatic about you having to believe what I believe because if you don't then perhaps I'm wrong. They just don't know how to read symbols."
-    - denotation vs. connotation, direkt jelentés vs. "olvasni a sorok között"
+A legnagyobb probléma azonban mégsem az összeegyeztetés, hanem hogy mindent szó szerint kell venni.
+A nyugat kontra kelet ellentét tulajdonképp nem más, mint a történelmi helyesség (tényleg így volt) kontra önfejlesztés/átalakulás.
+Már pedig lehetne a keresztény (és bármelyik egyéb nyugati) vonalat is mitikusan "olvasni" és egy teljesen más, személyre szabott jelentést kiszedni belőle
+Csak hát ott az nem javasolt, mert nyugaton a pontosság a divat, nem az egyéni értelmezés.
 
-- a Tarot kártyából is olyan szimbolizmust olvas ki, miszerint a mennyek eljöveteléhez nem kell egy történelmi eseményre várni
-    - itt van az, csak a megfelelő látásmód kell, hogy észrevehessük!
-        - nem tanuljuk, hogy ez már a menny lehetne, ezért nem is tekintünk úgy rá
-    - a szimbólumok tudnak adni egy "életprogramot", és hogy az élet melyik fázisában hogy lehet jól (és rosszul) lereagálni bizonyos eseményeket
-- a zarándoklatokat is szó szerint értelmezik, és fizikailag megteszik a nagy távolságokat
-    - pedig mindezt befelé kellene, a lelkünkbe, meditálni, gondolkozni, felismerni dolgokat
-    - a zarándoklat is akkor sikeres, ha a fizikai zarándulás közben azért befelé is fordulunk egy kicsit
-    - az már más kérdés, hogy ha tudnánk rendesen befelé fordulni, akkor közben fizikailag akár maradhatnánk egy helyben is!
-- itt (megint) részletezzük fentről: history vs. symbol, szó szerint vesszük vs. mögénézünk
-- nyugat vs. kelet egy vetülete, hogy kövessük istent vs. MI magunk vagyunk az istenek, csak nem tudunk róla
+> A direkt jelentés egyszerűen nem működik, ennyi az egész. És szerintem a vallásos emberek tudják is, hogy nem működik, ezért is annyira rohadt megfontoltak és dogmatikusak azzal kapcsolatban, hogy neked is _pont_ azt kell hinned, mint nekik; mert ha nem, akkor talán lehet, hogy ők is tévednek. Egyszerűen nem tudnak a sorok között olvasni.
+> > The denotations just don't work, that's all. And I think religious people know that they don't work and that's why they're so damned deliberate and dogmatic about you having to believe what I believe because if you don't then perhaps I'm wrong. They just don't know how to read symbols.
 
+A zarándoklatokat is sokan szó szerint értelmezik, és fizikailag megteszik a nagy távolságokat -- pedig mindezt a lelkünkön belül kellene...
+Meditálni, gondolkozni, felismerni dolgokat.
+A zarándoklat is akkor sikeres, ha a fizikai "zarándulás" közben azért befelé is fordulunk egy kicsit.
+Az már más kérdés, hogy ha tudnánk rendesen befelé fordulni, akkor közben fizikailag akár maradhatnánk egy helyben is!
 
+A nyugat kontra kelet egy vetülete lehet az is, hogy kövessük istent, vagy **mi** magunk vagyunk az istenek (csak nem tudunk róla).
+De az utóbbi jó hír lehet, mert "csak" a megfelelő látásmód kell, hogy észrevehessük!
+És ha a menny sem egy hely, hanem egy metafora, akkor akár a Földön is megteremthetnénk magunknak...
 
 
 
@@ -387,79 +384,31 @@ A sok olvasás/olvasás/olvasás után elkezdett írni is, hogy (a tipikus Hero'
 
 ## A világi tanulság
 
-- egy csomó mid-life crisis tárgyalás
-    - lényeg, hogy menjünk arra, amerre menni akarunk
-    - ami biztonságosnak tűnik, az is csak az az értékrend mellett tűnik biztonságosnak, amivel ebben a világban kiértékelünk dolgokat
-    - jó, lehet, hogy lesz mondjuk elég pénzed, de mire mész majd vele, ha utálod az életed?!
+A vallási/spirituális/mentális vonatkozások is nagyot dobhatnak az életmódunkon, de Campbellnek ennél még konkrétabb javaslatai is akadnak.
+Sokat tárgyalja például a (magyarul kapuzárási pániknak csúfolt) mid-life crisis-t.
+Kedvenc hasonlatom a témában, amikor "felérsz a létra tetejére, és akkor veszed észre, hogy rossz falhoz volt támasztva".
 
- - kövessük a belső késztetéseinket a külső parancsok helyett, találjuk meg a helyünket a világban, és olyan ajtók fognak megnyílni, ahol azt sem tudtuk hogy ajtó van (és ami senki másnak nem is nyílna meg)
+> [A szükségletek és a vágyak] belülről kell, hogy fakadjanak, és abban a percben, hogy ezt elengedjük és a kor előírásait vesszük a sajátunk elé, megadtuk magunkat az ördögnek.
+> > [Needs and wants] have to come from one's own inside, and the minute you let that drop and take what the dictation of the time is instead of the dictation of your own eternity, you have capitulated to the devil.
 
-- lehet fizikai hőstett is, de lehet spirituális is
-        - nem feltétlen a tett a lényeg, hanem valami megélése, amit aztán vissza lehet hozni a többieknek
-        (Plato barlangja)
-        - primitív időkben még inkább olyan hősök voltak, akik szörnyeket öltek (mert akkoriban ez kellett)
-        - Jézus / Buddha párhuzamok, kísértések legyőzése, az új rend kialakítása
-        - spirituális értelemben a hős útja egy paradigma váltás, ami után már máshogy látja a világot
-            - ehhez kellenek a megpróbáltatások és a hirtelen _Aha!_ felismerések
-        - kell az ismeretlen, hogy az ottani élmények formatívak lehessenek
-            - és ahogy a Földön szépen lassan elfogytak az ismeretlen dolgok, úgy fordultunk az űr felé is pl. a Star Wars-szal
-        - a bálna gyomrában (vagy SW a szemét kompaktálóban) ~= a tudatos alámerül a tudatalattiba, és újra, erősebben kerül elő
-            - vetíthető napjainkra is, ahol a "rendszer" fenyegeti az emberségünket, az egyéniségünket, és a kibontakozásunkat (kb. mint ahogy Mill is mondta)
-            - és ennek vagy hagyhatjuk, hogy "bedaráljon", vagy hősként keresztülvihetjük a saját emberségünket, és megtaláljuk, hogy hogyan lehetünk a rendszeren belül is önmagunk
-        - ha erőltetetten egy programot próbálunk futtatni, amivel a szívünk/lelkünk nem ért egyet, az kvázi egy skizofréniás repedéshez fog vezetni
-        - tegyük úgy jobbá a világot, hogy magunkat jobbá tesszük
-            - találjuk meg, hogy mit tennénk magunktól, és tegyük azt
-        - Nirvana > Menny, mert az nem helyileg van máshol, hanem akár most is elérhető lenne
-            - ha nem hagyod, hogy a világi vágyak és félelmek irányítsanak, ha megvan a saját központod, és onnan irányítasz kifelé, akkor az életet is lehet úgy élni
-            - belső béke
-        - az egész életünk tekinthető egy nagy meditációnak
-            - csak nagyon nem mindegy, hogy milyen _szinten_ megy ez a meditáció
-            - azon is agyalhatunk, hogy honnan jön a pénz és hogy hova megy
-            - vagy emelhetünk ezen egy (pár) szintet, hogy békében legyünk önmagunkkal
-        - jól mutatja egy társadalom fontossági sorrendjét, hogy milyen célú épületek a legnagyobbak
-            - régen a templomok, hogy a spirituális vonal rendben legyen, és csak aztán a bármi más
-            - később a politikai... ma pedig már inkább a gazdasági
-            - gondoljuk meg, hogy ez jó-e nekünk
+Lehet, hogy a Bibliai bálna gyomra (vagy akár a Star Wars-os szemét kompaktáló) nem valós veszélyek, de napjainkban a "rendszer" is hasonlóan fenyegeti az emberségünket, az egyéniségünket, és a kibontakozásunkat -- kb. mint ahogy [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) is mondta.
+És ennek vagy hagyhatjuk, hogy "bedaráljon", vagy hősként keresztülvihetjük a saját emberségünket, és megtalálhatjuk, hogy hogyan lehetünk a rendszeren belül is önmagunk.
 
-- itt is sokszor elhangzik a "felérsz a létra tetejére, és akkor veszed észre, hogy rossz falhoz volt támasztva" idézet, mint a kapuzárási pánik, avagy az életközépi válság hasonlata
+Ha erőltetetten egy olyan "programot" próbálunk futtatni, amivel a szívünk/lelkünk nem ért egyet, az kvázi egy skizofréniás repedéshez (avagy kognitív disszonanciához) fog vezetni.
+Tegyük inkább úgy jobbá a világot, hogy magunkat jobbá tesszük.
+Találjuk meg, hogy mit tennénk magunktól, és tegyük azt.
 
-- "[Needs and wants] have to come from one's own inside, and the minute you let that drop and take what the dictation of the time is instead of the dictation of your own eternity, you have capitulated to the devil."
+A leglényegesebb üzenet, hogy aktívan kövessük a saját boldogságunkat ("Follow your bliss!").
+És ezt a szerző egészen konkrétan, a szakmaválasztással, a pénzzel, a hétköznapokkal kapcsolatban mondja!
+Csináljuk azt, amit csinálni akarunk, és szó szerint _majd lesz valahogy_.
 
-- "follow your bliss" megint feljön
-    - és konkrétan a szakmaválasztással, a pénzzel kapcsolatban
-    - azt csináld, amit csinálni akarsz, és akkor majd lesz valahogy
-        - na nem feltétlen ami csak szórakozás, hanem ami a mély, belső motivációd
-    - ha pedig nem azt csináljuk, akkor idővel tök mindegy lesz, hogy mennyit keresünk vele
+Ami látszólag egy biztonságosabb választás (egy kitaposottabb ösvény), az is csak az az értékrend mellett tűnik biztonságosnak, amivel a jelenlegi társadalomban kiértékelünk dolgokat.
+Na de mi van, ha minket például pont nem az tesz boldoggá, aminek a társadalom szerint kellene?
+Lehet, hogy lesz elég pénz, de mire megyünk majd vele, ha mellette utáljuk az életünket?!
+Kövessük hát a belső késztetéseinket a külső parancsok helyett, találjuk meg a helyünket a világban, és olyan ajtók fognak megnyílni, ahol azt sem tudtuk, hogy van ajtó!
 
+<br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Tanmese
-
-- golden Buddha analogy is really moving!
-    - Every minus is half of a plus, waiting for a stroke of vertical awareness. -- Alan Cohen
-- zárásnak a "tigris a kecskék között" sztori
-    - a tanulság nyilván ugyanaz, mint az arany Buddhásnak, de sztem az jobb
 
 
 
@@ -491,14 +440,19 @@ A sok olvasás/olvasás/olvasás után elkezdett írni is, hogy (a tipikus Hero'
 
 ## Összefoglalás
 
-- star wars short with George Lucas
-        - nem az a fontos, hogy megmondjuk másoknak a válaszokat az élet nagy dolgaiban... de legalább felkeltsük annyira az érdeklődésüket, hogy ők is feltegyék a kérdést maguknak!
+Campbell üzenete tele van emlékezetes morzsákkal, de legfőképp két "tartóoszlopot" emelnék ki:
 
-- egy fő tanulság, hogy ez a Campbell-i hozzáállás segíthet jobban értelmezni minden fikciót és vallást
-    - ugye leginkább non-fiction, ismeretterjesztő vonalon mozgunk, mert az a konkrét
-    - de az ide húzásomnak lehet az is az oka, hogy nem tudom megfelelően értelmezni a fikciós üzeneteket / szimbólumokat
-    - na de majd ezután! :)
+1. Egyrészt inspirál és bátorságot ad, hogy tényleg a saját utunkat járjuk.
+Ne süppedjünk csak úgy bele a társadalmi alapértelmezésbe; merjünk önmagunknak lenni.
+Ebben erős a kapcsolata A művészet háborújával, miszerint a múzsa/sors/stb. úgyis megjutalmaz, ha őszintén beletesszük valamibe a megfelelő mennyiségű energiát.
+Nem baj, ha az elején még nem látjuk, hogy mi lesz belőle, mert nem is az a fontos -- olyan kell, aminek a folyamatát is élvezni tudjuk, nem csak a végcélját!
 
-- ezt az élményt az irodalomnak kellett volna adnia
-    - kb. mint ahogy a Sapiens-es "aha" pillanatok és a történelem
-    - de jobb később, mint soha...
+2. Másrészt ahhoz is eszközt ad a kezünkben, hogy erre az autentikus viselkedésre hogy találhatnánk rá.
+Ugyanis ha szándékosan mitologikus szemlélettel tekintünk szinten bármilyen történetre -- és azt tudatosan próbáljuk a saját életünkre vetíteni -- akkor gyakorlatilag korlátlan számú példa-forrás tárul elénk.
+Itt a blogon eredetileg ugye inkább a non-fiction, ismeretterjesztő vonalon mozgunk, mert az a konkrét...
+De az ide húzásomnak lehet az is az (egyik) oka, hogy nem tudom megfelelően értelmezni a fikciós üzeneteket és szimbólumokat.
+Na de majd ezután!
+
+Megjegyezném még, hogy szerintem ezt a "mit taníthat nekünk a fikció" élményt valószínűleg az iskolai irodalomnak kellett volna adnia -- kb. mint ahogy a [Sapiens]({% post_url 2020-02-12-yuval-noah-harari-sapiens %})-es "Aha!" pillanatokat a történelemnek.
+**Kellett volna...**
+Minden esetre jobb később, mint soha...
