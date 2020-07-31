@@ -19,9 +19,9 @@ A tartalom a következőképp alakul:
 
 - [A monomítosz](#a-monomítosz)
 - Campbell hősi útja
-    - [Kalandra fel!](#kalandra-fel)
-    - [Az alámerülés](#az-alámerülés)
-    - [A visszatérés](#a-visszatérés)
+    1. [Kalandra fel!](#kalandra-fel)
+    2. [Az alámerülés](#az-alámerülés)
+    3. [A visszatérés](#a-visszatérés)
 - [A vallási tanulság](#a-vallási-tanulság)
 - [A világi tanulság](#a-világi-tanulság)
 
@@ -53,7 +53,7 @@ A mítoszoknál az az igazán fontos, hogy ne csak fantáziaként, hanem potenci
 Etikai és gyakorlati, a saját életünkre alkalmazható tanulságokat vonhatunk le belőlük, ha megfelelő szemmel nézzük őket.
 
 Ezt a folyamatot igyekezett Campbell jelentősen megkönnyíteni és népszerűsíteni.
-Mint ahogy Einstein relativitás elmélete a fizikai, "külső" dolgokat egységesíteni próbálta, ő úgy igyekezett egy egységes _belső_ elméletet kialakítani.
+Mint ahogy Einstein relativitás elmélete a fizikai, "külső" dolgokat próbálta egységesíteni, ő úgy igyekezett egy egységes _belső_ elméletet kialakítani.
 Számtalan ókori/újkori, nyugati/keleti, primitív/civilizált származású mítosz elemzése során pedig pont egy ilyen egységes sémát -- mondhatni, egy legkisebb közös többszöröst -- talált: A hős útját.
 
 Mivel állítása szerint igazából ez minden vallás, mítosz és történet alapja, ezért monomítosznak, avagy az egyetlen mítosznak is nevezte.
@@ -77,7 +77,7 @@ De elkerülni akkor sem tudja majd!
 A sztori vége egy új "normalitás", ahol a hős, tanulva a tapasztalataiból, már mindkét világ ura.
 
 A "hős" persze lehet a lovagi babérokra aspiráló parasztfiú, a megvilágosodást kereső zarándok, vagy az épp kapuzárási pánikját élő 40-es adójogász.
-Ugyanígy lehet a főellenség egy sárkány, a belső démonaink, vagy egy elviselhetetlen főnök; az halál/újjászületés pedig a Bibliás szó szerinti értelmezésen felül lehet csak egy új munkahely vagy egy új szemléletmód.
+Ugyanígy lehet a főellenség egy sárkány, a belső démonaink, vagy egy elviselhetetlen főnök; a halál/újjászületés pedig a Bibliás szó szerinti értelmezésen felül lehet csak egy új munkahely vagy egy új szemléletmód.
 A részletek lényegtelenek, mert a külső világ folyamatosan változik -- de az "emberség" állandó.
 Ezért is vannak ilyen visszatérő minták a mítoszokban: változnak ugyan az időkkel, de azért minden formájukban valahogy visszatükrözik az állandó emberi értékrendet.
 
@@ -115,14 +115,14 @@ De hát ez ugye nem kimondottabban újszerű gondolat -- csak nem figyelünk a l
 
 Egyetemi évei alatt komolyan futott, és visszatekintve itt is megkapjuk, hogy a fizikai mozgás és a mentális tanulás között erős az összefüggés.
 Campbell szerint érdemes kifárasztani magunkat, hogy a fejünk is egy bizonyos "transzba" kerüljön.
-Intellektuális vonalon viszont soha nem akart specializáltan haladni -- ami dehumanizáló!
-Azért is Leonardo da Vinci volt a példakép: a reneszánsz ember, a széles tudás!
+Intellektuális vonalon viszont soha nem akart specializáltan haladni -- mert az dehumanizáló!
+Azért is Leonardo da Vinci volt a példakép: a reneszánsz ember, a széles tudás.
 
 Az életét "megrengető" könyveiként egy Leonardo és egy Buddha életrajzot említ -- amikre biztosan visszatérünk majd.
 A Buddha résznél pedig elkezdte azt is meglátni, hogy nahát, milyen ismerős motívumok...
 És mégis milyen máshogy vannak értelmezve!
-Az Upanishadokban is nagyon hasonló dolgokat talál, csak "intellektuálisan szemszögből".
-Vagyis nem szó szerint vették a metaforát, hanem magyarázták, és magunkra vonatkoztatják.
+Az Upanishadokban is nagyon hasonló dolgokat talál, csak "intellektuális szemszögből".
+Vagyis nem szó szerint vették a metaforát, hanem magyarázták, és magunkra vonatkoztatták.
 Egy ilyen élmény pedig igencsak erősen tud hatni az emberre -- pláne egy katolikus neveltetés után.
 
 <br />
@@ -173,8 +173,8 @@ Engedjük hát, hogy a átlátszódjon rajtunk a megvilágosodás.
 Feltételezem ez alapján kapcsolódunk főleg [A művészet háborújához]({% post_url 2020-02-04-steven-pressfield-a-muveszet-haboruja %})...
 
 Európai "ébredése" után Campbell sajnos pont az USA nagy depressziójába érkezik haza -- de ebből is igyekszik a legtöbbet kihozni.
-További PhD helyett inkább visszavonul egy erdei kabinba, ahol 5 évig kb. megállás nélkül csak olvas és ír.
-Erről már korábban más forrásból is hallottam, és olyan nagy hatással volt rám ez a mentális kép, hogy a részletek elhomályosodása után [kérdeztem is róla](https://www.reddit.com/r/tipofmytongue/comments/ais6cw/tomtbook_or_blog_a_guy_who_spent_years_only/){:target="_blank"}, mert elfelejtettem, kiről volt szó.
+További PhD helyett inkább visszavonul egy erdei kabinba, ahol 5 évig kb. megállás nélkül csak olvas.
+Erről már korábban más forrásból is hallottam, és olyan nagy hatással volt rám ez a mentális kép, hogy a részletek elhomályosodása után [kérdeztem is róla](https://www.reddit.com/r/tipofmytongue/comments/ais6cw/tomtbook_or_blog_a_guy_who_spent_years_only/){:target="_blank"} (bevallom, elfelejtettem, kiről volt szó).
 
 Érdekes meglátás emellett, hogy a PhD-telenségnek is igencsak megvan az előnye, pláne a humánabb területeken: nem hagyta magát beleerőltetni a létező társadalmi kategóriákba.
 Később az egyetemi tanítás is csak azért vonzotta be, mert új volt az iskola, tele "kitaposatlan ösvényekkel".
@@ -182,7 +182,7 @@ Hivatalosan "összehasonlító mitológiát" tanított, de legfőképp a tanuló
 És _nem_ csak arra koncentrálva, hogy mi és hogy történt...
 Hanem hogy ez hogyan hathat konkrétan a tanulói életére?
 Miért fontos ez?
-Kicsit [Totto-chan]({% post_url 2020-05-22-tetsuko-kuroyanagi-totto-chan %}) visszhangokat vélek felfedezni, mivel ugye megint épp az a tanulási folyamat lenne a lényeges, amit **nem** csinálunk!
+Kicsit [Totto-chan]({% post_url 2020-05-22-tetsuko-kuroyanagi-totto-chan %}) visszhangokat vélek felfedezni, mivel ugye megint épp az a tanulási folyamat lenne a lényeges, ami napjainkra **nem** jellemző!
 
 > A megvilágosodást nem lehet tanítani. Különböző módokon persze lehet rá utalni. De ha a másik nem hajlandó evezni a saját kenuját, akkor bizony nem jut át a túlpartra.
 > > You can't teach illumination. You _can_ give different clues to how to get it. But if a person isn't willing to paddle his own canoe he's not going to get across the river.
@@ -226,25 +226,25 @@ De jobb, ha tisztában vagyunk vele, hogy csak ez a szembenézés után jöhet a
 ## A visszatérés
 
 A sok olvasás/olvasás/olvasás után végül elkezdett írni is, hogy (a tipikus hős útja minta szerint) megossza a "másvilágon" tanultakat.
-Tette mindezt értünk, a többiekért, hogy megfelelően tudjuk értelmezni az életünk sztoriját.
-Az ugyanis meglepően hasonló szálakat fog mutatni a rengeteg mindennel -- ha tudunk a sorok között olvasni.
+Tette mindezt értünk, hogy megfelelően tudjuk értelmezni az életünk sztoriját.
+Az ugyanis meglepően hasonló szálakat fog mutatni rengeteg mindennel -- ha tudunk a sorok között olvasni.
 
 > Ez az előnye, ha mitológiailag beavatottak vagyunk. Tudni fogjuk, mi is a helyzet, miközben ezek a sztorik megtörténnek. És megtörténnek! Ne úgy olvassuk hát őket, mintha ezek régen történtek volna valaki mással -- inkább úgy, mintha velünk is megtörténhetnének. Így lesz ebből a nyers alapanyagból spirituális táplálék.
 > > That's the advantage of being mythologically indoctrinated. You know where you are when these stories take place. And they do. Read them not as something that happened out there but as something that is going to happen to you and is happening to you. That's translating this material into spiritual food.
 
-És ahogy párhuzamosan egy Joyce elemzést, az indiános dolgait, és egy megbízatás miatti hindu anyagait írta, akkor esett le végképp, hogy gyakorlatilag egy mitológia van a világon.
+És ahogy párhuzamosan egy Joyce elemzést, az indiános dolgait, és egy megbízatás miatti hindu anyagait írta, akkor esett le végképp, hogy gyakorlatilag egy projekten dolgozik.
 Mindegyik kultúra a saját történelméhez, etikájához és szociális körülményeihez szabja, de attól még ugyanaz a magja mindnek.
 
 > A megszemélyesítés népi; az energia emberi.
 > > The personification is folk; the energy is human.
 
-Ebből született Az ezerarcú Hős című, áttörést hozó könyve, illetve számos más publikációja, előadása és tanítási módszere is.
+Ebből született Az ezerarcú hős című, áttörést hozó könyve, illetve számos más publikációja, előadása és tanítási módszere is.
 Sőt, ezt a tudást használta fel egy pszichológussal való együttműködése során is.
 Az alapfelvetés egyszerű: a kurkász kitalálja, hogy mi a baj a páciensekkel, Campbell pedig hoz rá egy odaillő mitológiai példát, amin keresztül (remélhetőleg) szemlélteti az alanynak, hogy hogyan is kellene viselkednie az adott helyzetben.
-Ez egyszerűsége ellenére azonban igen hatásosnak bizonyult.
+Ez egyszerűsége ellenére igen hatásosnak bizonyult.
 
 Idősebb fejjel visszagondolva az életművére, Campbell számos kézzel fogható tanulságot megfogalmaz.
-A (szerintem) két nagyobbat a következő két szekcióban vesézzük ki, de előbb még ezért fussuk át a többit is:
+A (szerintem) két nagyobbat a következő két szekcióban vesézzük ki, de előbb még azért fussuk át a többit is:
 
 - Nem baj, ha a társadalom nem igazodik ahhoz az értékrendhez, amit mi belül helyesnek érzünk.
 Ha ők nem is jó irányba haladnak, mi csak menjünk arra -- hátha majd pont mi leszünk a példa!
@@ -316,7 +316,7 @@ A cél az, hogy az egónkat állítsuk a lényünk szolgálatába, és ne fordí
 ## A vallási tanulság
 
 Campbell szerint minden mítosz igazából egy isten-metafora.
-Isten az, amit nem tudunk megmagyarázni -- és soha nem is fogjuk tudni.
+Isten az, amit nem tudunk megmagyarázni -- és soha nem is fogunk tudni.
 Ezért mi magunk választunk egy magyarázatot, amit vele azonosítunk.
 Innentől pedig tiszta haszonelvűség: az a lényeg, hogy az a bizonyos nézet segít-e nekünk?
 Mondhatjuk, hogy minden metafora szimplán csak egy _hazugság_, de attól még segíthet valamit átérezni (ha megérteni nem is).
@@ -335,18 +335,18 @@ Illetve maguk a metaforák is annyira elavulnak, hogy már magyarázni kell őke
 
 A legnagyobb probléma azonban mégsem az összeegyeztetés, hanem hogy mindent szó szerint kell venni.
 A nyugat kontra kelet ellentét tulajdonképp nem más, mint a történelmi helyesség (tényleg így volt) kontra önfejlesztés/átalakulás.
-Már pedig lehetne a keresztény (és bármelyik egyéb nyugati) vonalat is mitikusan "olvasni" és egy teljesen más, személyre szabott jelentést kiszedni belőle
+Már pedig lehetne a keresztény (és bármelyik egyéb nyugati) vonalat is mitikusan olvasni és egy teljesen más, személyre szabott jelentést kiszedni belőle.
 Csak hát ott az nem javasolt, mert nyugaton a pontosság a divat, nem az egyéni értelmezés.
 
-> A direkt jelentés egyszerűen nem működik, ennyi az egész. És szerintem a vallásos emberek tudják is, hogy nem működik, ezért is annyira rohadt megfontoltak és dogmatikusak azzal kapcsolatban, hogy neked is _pont_ azt kell hinned, mint nekik; mert ha nem, akkor talán lehet, hogy ők is tévednek. Egyszerűen nem tudnak a sorok között olvasni.
+> A direkt jelentés egyszerűen nem működik, ennyi az egész. És szerintem a vallásos emberek tudják is, hogy nem működik, ezért is annyira átkozottul megfontoltak és dogmatikusak azzal kapcsolatban, hogy neked is **pont** azt kell hinned, mint nekik; mert ha nem, akkor talán lehet, hogy ők is tévednek. Egyszerűen nem tudnak a sorok között olvasni.
 > > The denotations just don't work, that's all. And I think religious people know that they don't work and that's why they're so damned deliberate and dogmatic about you having to believe what I believe because if you don't then perhaps I'm wrong. They just don't know how to read symbols.
 
-A zarándoklatokat is sokan szó szerint értelmezik, és fizikailag megteszik a nagy távolságokat -- pedig mindezt a lelkünkön belül kellene...
+A zarándoklatokat is sokan szó szerint értelmezik, és fizikailag megteszik a nagy távolságokat -- pedig mindezt a lelkükön belül kellene...
 Meditálni, gondolkozni, felismerni dolgokat.
 A zarándoklat is akkor sikeres, ha a fizikai "zarándulás" közben azért befelé is fordulunk egy kicsit.
 Az már más kérdés, hogy ha tudnánk rendesen befelé fordulni, akkor közben fizikailag akár maradhatnánk egy helyben is!
 
-A nyugat kontra kelet egy vetülete lehet az is, hogy kövessük istent, vagy **mi** magunk vagyunk az istenek (csak nem tudunk róla).
+A nyugat kontra kelet végső vetülete, hogy kövessük istent, vagy **mi** magunk vagyunk az istenek (csak nem tudunk róla).
 De az utóbbi jó hír lehet, mert "csak" a megfelelő látásmód kell, hogy észrevehessük!
 És ha a menny sem egy hely, hanem egy metafora, akkor akár a Földön is megteremthetnénk magunknak...
 
@@ -384,7 +384,7 @@ De az utóbbi jó hír lehet, mert "csak" a megfelelő látásmód kell, hogy é
 
 ## A világi tanulság
 
-A vallási/spirituális/mentális vonatkozások is nagyot dobhatnak az életmódunkon, de Campbellnek ennél még konkrétabb javaslatai is akadnak.
+A vallási/spirituális/mentális vonatkozások természetesen nagyot dobhatnak az életmódunkon, de Campbellnek ennél még konkrétabb javaslatai is akadnak.
 Sokat tárgyalja például a (magyarul kapuzárási pániknak csúfolt) mid-life crisis-t.
 Kedvenc hasonlatom a témában, amikor "felérsz a létra tetejére, és akkor veszed észre, hogy rossz falhoz volt támasztva".
 
@@ -394,7 +394,7 @@ Kedvenc hasonlatom a témában, amikor "felérsz a létra tetejére, és akkor v
 Lehet, hogy a Bibliai bálna gyomra (vagy akár a Star Wars-os szemét kompaktáló) nem valós veszélyek, de napjainkban a "rendszer" is hasonlóan fenyegeti az emberségünket, az egyéniségünket, és a kibontakozásunkat -- kb. mint ahogy [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) is mondta.
 És ennek vagy hagyhatjuk, hogy "bedaráljon", vagy hősként keresztülvihetjük a saját emberségünket, és megtalálhatjuk, hogy hogyan lehetünk a rendszeren belül is önmagunk.
 
-Ha erőltetetten egy olyan "programot" próbálunk futtatni, amivel a szívünk/lelkünk nem ért egyet, az kvázi egy skizofréniás repedéshez (avagy kognitív disszonanciához) fog vezetni.
+Ha erőltetetten egy olyan programot próbálunk futtatni, amivel a szívünk/lelkünk nem ért egyet, az kvázi egy skizofréniás repedéshez (avagy kognitív disszonanciához) fog vezetni.
 Tegyük inkább úgy jobbá a világot, hogy magunkat jobbá tesszük.
 Találjuk meg, hogy mit tennénk magunktól, és tegyük azt.
 
@@ -447,12 +447,12 @@ Ne süppedjünk csak úgy bele a társadalmi alapértelmezésbe; merjünk önmag
 Ebben erős a kapcsolata A művészet háborújával, miszerint a múzsa/sors/stb. úgyis megjutalmaz, ha őszintén beletesszük valamibe a megfelelő mennyiségű energiát.
 Nem baj, ha az elején még nem látjuk, hogy mi lesz belőle, mert nem is az a fontos -- olyan kell, aminek a folyamatát is élvezni tudjuk, nem csak a végcélját!
 
-2. Másrészt ahhoz is eszközt ad a kezünkben, hogy erre az autentikus viselkedésre hogy találhatnánk rá.
-Ugyanis ha szándékosan mitologikus szemlélettel tekintünk szinten bármilyen történetre -- és azt tudatosan próbáljuk a saját életünkre vetíteni -- akkor gyakorlatilag korlátlan számú példa-forrás tárul elénk.
+2. Másrészt ahhoz is eszközt ad a kezünkbe, hogy erre az autentikus viselkedésre hogy találhatnánk rá.
+Ugyanis ha szándékosan mitologikus szemlélettel tekintünk szinte bármilyen történetre -- és azt tudatosan próbáljuk a saját életünkre vetíteni -- akkor gyakorlatilag korlátlan számú példa-forrás tárul elénk.
 Itt a blogon eredetileg ugye inkább a non-fiction, ismeretterjesztő vonalon mozgunk, mert az a konkrét...
 De az ide húzásomnak lehet az is az (egyik) oka, hogy nem tudom megfelelően értelmezni a fikciós üzeneteket és szimbólumokat.
 Na de majd ezután!
 
-Megjegyezném még, hogy szerintem ezt a "mit taníthat nekünk a fikció" élményt valószínűleg az iskolai irodalomnak kellett volna adnia -- kb. mint ahogy a [Sapiens]({% post_url 2020-02-12-yuval-noah-harari-sapiens %})-es "Aha!" pillanatokat a történelemnek.
+Megjegyezném még, hogy szerintem ezt a "Mit taníthat nekünk a fikció?" élményt valószínűleg az iskolai irodalomnak kellett volna adnia -- kb. mint ahogy a [Sapiens]({% post_url 2020-02-12-yuval-noah-harari-sapiens %})-es "Aha!" pillanatokat a történelemnek.
 **Kellett volna...**
-Minden esetre jobb később, mint soha...
+Minden esetre jobb későn, mint soha.
