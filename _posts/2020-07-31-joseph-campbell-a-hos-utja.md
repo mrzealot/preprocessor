@@ -443,7 +443,7 @@ Kövessük hát a belső késztetéseinket a külső parancsok helyett, találju
 Campbell üzenete tele van emlékezetes morzsákkal, de legfőképp két "tartóoszlopot" emelnék ki:
 
 1. Egyrészt inspirál és bátorságot ad, hogy tényleg a saját utunkat járjuk.
-Ne süppedjünk csak úgy bele a társadalmi alapértelmezésbe; merjünk önmagunknak lenni.
+Ne süppedjünk csak úgy bele a társadalmi alapértelmezésbe; merjünk önmagunk lenni.
 Ebben erős a kapcsolata A művészet háborújával, miszerint a múzsa/sors/stb. úgyis megjutalmaz, ha őszintén beletesszük valamibe a megfelelő mennyiségű energiát.
 Nem baj, ha az elején még nem látjuk, hogy mi lesz belőle, mert nem is az a fontos -- olyan kell, aminek a folyamatát is élvezni tudjuk, nem csak a végcélját!
 
