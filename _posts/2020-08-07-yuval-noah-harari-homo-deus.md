@@ -7,114 +7,151 @@ excerpt: >
     TODO
 ---
 
-# Jegyzetek
+A héten [Yuval Noah Harari -- Sapiens]({% post_url 2020-02-12-yuval-noah-harari-sapiens %})éhez kellett "társat" választanom, ami nem volt túl nehéz.
+Mivel nagyon bejött a szerző stílusa és meglátásai, ezért most nyilván (a Sapiens kvázi folytatásaként kikiáltott) [Homo Deus](https://www.goodreads.com/book/show/31138556-homo-deus){:target="_blank"} kerül górcső alá.
 
-https://www.goodreads.com/book/show/31138556-homo-deus
+"Folytatás" mivoltából eredően nem meglepő, hogy sok ismerős összefüggés újra előkerül -- rosszmájúan azt mondhatnám, hogy a Sapiens-ből újrahasznosítva.
+Ezekre nem térnék ki részletesebben, viszont melegen ajánlom a visszaolvasást, ha ráértek.
+Ami pedig ide marad, az a múltból egy kicsit a jövő felé fordul.
+Ettől természetesen még mindig inkább történelem mint sci-fi, de a leghangsúlyosabb nem titkoltan a jelen.
+Most kell ugyanis azokat a döntéseket meghoznunk, egyéni és faji szinten, amik ide (vagy esetleg pont hogy _nem_ ide) vezetnek majd.
 
-- Sapiens után Homo Deus --> a múltból kicsit a jövő felé fordulunk
+A tartalom a következőképp alakul:
 
-# Tartalom
+- [Egy új emberi napirend](#1)
+- [Hogy jutottunk idáig?](#2)
+- [Mi baj lehet?](#3)
 
-## Egy új emberi napirend
-
-- évezredekig kb. 3 fő dolog volt, ami foglalkoztatta az emberiséget
-    - éhínség, járványok, és háborúk
-- de érdekes módon ezek napjainkra már szinte menedzselhetővé váltak volna!
-    - na nincsenek "megoldva", de azért nem is olyan a helyzet, mint eddig
-- és ezért jöhet egyáltalán fel a kérdés, hogy "na, akkor most mit is akarunk kezdeni magunkkal?"
-
-- az éhség nagyon sokáig egy igen gyakori és valós veszély volt
-    - manapság már többségünkben elképzelni sem nagyon tudjuk, hogy milyen több napi koplalás után is bizonytalannak lenni a következő étkezést illetően
-- a fertőzésekkel/járványokkal kapcsolatban érdekes pont most (a COVID-19 idején) olvasni ezt a sok pozitívumot, de attól még mindig igaza van
-    - ez is azért tűnik annyira hihetetlenül nagynak és halálosnak, mert már annyira elszoktunk azoktól a régiektől, amit TÉNYLEG annyira halálosak voltak
-    - említi is, hogy az ilyen hirtelen és véletlen állatról emberre ugrás bármikor beüthet
-    - de itt az átfogóbb stratégiáról van szó, miszerint az orvosok gyorsabban haladnak, mint a betegségek, és ez tendencia szempontból csak egyre jobb helyzethez vezet majd
-    - illetve ami fontos, hogy ha ilyen is történne, akkor sem természeti csapásként, hanem emberi mulasztásként tekintenénk rá
-        - és pont ettől lesz kezelhető!
-- háború tekintetében ismétlés a Sapiensből
-    - nem csak ideiglenes béke, hanem tartós
-    - már nincs is annyi értelme / haszna
-    - és az atom miatt az viszont eléggé motivált, hogy NE csináljunk ilyet
-    - már nem a "dzsungel törvénye" uralkodik
-    - ez persze nem jelenti azt, hogy nem lesz baj... csak azt, hogy ha lesz, az a mi hibánk lesz, nem pedig elkerülhetetlen
-
-- na jó, és akkor ha ezek lekerülnek a terítékről, akkor mi jön majd a helyére?
-    - első sorban az ökológiai helyzet kezelése
-        - pont attól tudjuk a régi hármat irányítani, mert akkorára nőttünk
-        - csak ez a nagy növekedés nem fenntartható!
-    - de tegyük fel, hogy még ezt is rendbetesszük
-        - akkor sem fogunk a seggünkön ülni, mert az embernek mindig valami több/jobb kell
-    - valószínű célpontok: halhatatlanság, boldogság, "istenség"
-
-- halhatatlanság ügyben elég nagy az optimizmus
-    - minden csak technikai probléma, nem metafizikai
-    - egyelőre azért langsam, az eddigi élettartam "hosszabbítások" igazából nem hosszabbítottak semmit
-        - csak megakadályozták az **idő előtti** halált
-    - de előbb vagy utóbb valószínűleg úgyis lesz belőle valami
-
-    "If you think that religious fanatics with burning eyes and flowing beards are ruthless, just wait and see what elderly retail moguls and ageing Hollywood starlets will do when they think the elixir of life is within reach."
-
-- boldogság ügyben
-    - már most boldogok akarunk lenni, nem csak a túlvilágon
-        - vehető úgy, mint egy default Epicureanism :)
-    - Bentham/Mill féle utilitárius szemlélet is felmerül, de ezt eddig nem nagyon használták "metrikának"
-        - inkább csak a gazdasági növekedés, a terület, a hatalom...
-        - a munkások legyenek engedelmesek, és tegyék erőssé a nemzetet...
-            - az meg, hogy egyénileg boldogok-e, azt ki nem szarja le?
-    - de most már egyre jobban jön a GDH - gross dometric happiness ötlet is az anyagiak mellé
-    - csak hát ahhoz meg nem elég ám a jobb anyagi viszonylatok
-        - paraphrasing Epicurus again, "it is hard work to be happy."
-        - ha lenne kapcsolat az anyagiak és a boldogság között, akkor felismerhetetlenül boldogabbnak kellene lennünk, mint akár csak az 50-100 évvel ezelőttieknek (mert az anyagi körülményeink között felismerhetetlen a különbség)
-            - de hát ugye nem
-    - úgy látszik, hogy van egy üveg plafon, amit nem tudunk átlépni
-        - pszichológiailag ez nyilván az elvárások vs. valóság
-        - biokémiailag pedig leginkább csak a túlélési ösztön modern kori adaptációja
-            - mindig csak a testi ingerek hatására érzünk bármit is
-            - és ez régóta azt támogatja, hogy egyél még, találj másik társat is... hogy a faj fennmaradjon
-            - de kb. semmi magasztosabb metafizika nincs benne
-            - sem a győzelemmel, sem az oda vezető úttal nem vagyunk hosszú távon elégedettek
-                - meg kellene találni az arany középutat itt is, de mi inkább az extrém stressz és az extrém unalom között pattogunk
-            - úgyhogy elkezdtünk ezen a vonalon motoszkálni
-                - antidepresszánsok, figyelem-serkentők
-            - biokémia vs. Buddha
-                - egyik szerint sem jó, ha az egész életünket a kellemes érzések kergetésére és a fájdalmak kerülésére pazaroljuk
-                - de a biokémia szerint ezt úgy kell elérni, hogy legyen egy folyamatos adag élvezetet nyújtó és fájdalmat csillapító pirulánk
-                - a Buddhisták szerint pedig akkor esetleg... nem is tudom... **ne** kergessük őket.
-            - az megint már kérdés, mennyire jó az, hogy az ilyen társadalmi alapértelmezések miatt az átlagos fájdalomküszöb egyre alacsonyabb, míg az élvezet-elvárás csak egyre magasabb
-
-- isten-ség ügyben
-    - ha már eljutunk arra a szintre, hogy a halállal és a boldogsággal is meg tudunk küzdeni, akkor onnan már más sem lesz akadály
-    - ez pedig rengeteg ajtót nyit majd ott is, ahol most még ajtó sincs
-    - organikus dolgok vs. cyborg vs. non-organikus
-    - nincs sok értelme előre ezen gondolkozni, mert a biotech nagy valószínűséggel arra is használható lesz, hogy az agyunkat megváltoztassuk
-        - és azt a mostani agyunkkal hogy is tudnánk felfogni, hogy majd egy olyan agy milyen lesz vagy mit tart majd fontosnak...
-    - "No clear line separates healing from upgrading."
-
-- lehet, hogy gáz az igazságtalanság (még vannak, akik a háborúval, az éhínséggel és a betegséggel küszködnek, miközben az elit réteg már az istenség felé nyújtózkodik)
-    - de hát ha egyszer így működik a faj
-    - az arisztokratáknak eddig is nagyon más volt az értékrendje, mint a parasztságnak... csak most ezeket a különbségeket húzzuk szét még jobban
-- egy kis kitérés: az jóslatoknak csak akkor van értelmük, ha hatnak az emberek viselkedésére (különben minek)
-    - ha viszont hatnak, akkor gyorsan okafogyottá/pontatlanná tehetik a jóslatot
-    - de ez nem azt jelenti, hogy nem működött... hanem pont azt, hogy működött :)
-    - szóval: nem mondjuk, hogy ez így lesz. Azt mondjuk, hogy az eddigiek fényében az emberiség valószínűleg ebbe az irányba indul. És aztán ha ennek a jóslatnak a hatására már majd odafigyelnek, akkor ez van.
-
-- "Historians study the past not in order to repeat it, but in order to be liberated from it."
-    - nem is főleg jósolni próbálunk, hanem az eddigieket számba véve meglátni, hogy egyáltalán mik a lehetőségeink
-    - hátha így jobban sikerülne kitörni abból az mederből, amibe születtünk
-        - mind természetesnek vesszük a körülményeinket
-        - és csak egy valag tanulással/olvasással/utazással/stb. nyílik ki a szemünk
-    - egy path-dependence lecke a pázsitokon keresztül
-        - "This was when a new rite was added to the suburban liturgy." --> eljutott a középosztályhoz is
-        - "You are of course still free to do it. But you are also free to shake off the cultural cargo bequeathed to you..."
-
-- vannak persze pesszimista képek is
-    - mi van, ha ez a nagy istenség-hajhászat majd olyan gazdasági/politikai/társadalmi felfordulásokat okoz, hogy kinyírjuk magunkat
-    - vagy már nem is ugyanazok lesznek a céljaink utána
-    - vagy ki tudja... de ide kapcsol a jóslatosdi: akkor változtassunk! csináljuk máshogy!
+<br />
 
 
 
-## A Homo Sapiens elfoglalja a világot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="1"></a>Egy új emberi napirend
+
+Évezredekig kb. 3 fő dolog foglalkoztatta az emberiséget: az éhínség, a járványok és a háborúk.
+
+1. Az **éhínség** nagyon sokáig egy igen gyakori és valós veszély volt.
+Manapság már többségünkben elképzelni sem nagyon tudjuk, hogy milyen több napi koplalás után is bizonytalannak lenni a következő étkezést illetően.
+És habár még mindig vannak éhesek, "régi" mércével mérve szinte hihetetlenül kevesen.
+
+2. A fertőzésekkel és **járványokkal** kapcsolatban érdekes pont most (a COVID-19 idején) olvasni ezt a sok pozitívumot, de attól még természetesen igaza van a szerzőnek a hatalmas statisztikai javulásokban.
+Sőt, szerintem a COVID-19 is azért tűnik ennyire nagynak és halálosnak, mert már túlságosan elszoktunk azoktól a régiektől, amik _tényleg_ annyira halálosak voltak.
+És habár egy ilyen hirtelen és véletlen állatról emberre ugrás bármikor beüthet, a lényeg az átfogóbb trend: az orvosok gyorsabban haladnak, mint a betegségek.
+Illetve ha nyakig ér is a fos, manapság már akkor sem természeti csapásként, hanem emberi mulasztásként tekintünk rá -- és pont ettől lesz kezelhető!
+
+3. **Háború** tekintetében pedig ismétlés a Sapiensből: most van először esély a tartós békére, nem csak a háborúk közti szünetekre.
+Egyrészt már nincs is annyi értelme vagy haszna, mint régen.
+Másrészt az atom miatt az viszont eléggé indokolt, hogy **ne** csináljunk ilyet.
+Már nem a "dzsungel törvénye" uralkodik.
+Ez persze nem jelenti azt, hogy nem lesz baj...
+Csak azt, hogy ha lesz, az a mi hibánk lesz, nem pedig elkerülhetetlen.
+
+Összegezve, ez a három terület napjainkra már szinte menedzselhetővé vált!
+Na nincsenek "megoldva", de azért nem is olyan a helyzet, mint eddig.
+És ezért is jöhetett egyáltalán fel a kérdés, hogy "Na, akkor most mit is akarunk kezdeni magunkkal?"
+
+Lesznek rövidebb távú teendők -- első sorban az ökológiai helyzet kezelése.
+Pont attól tudjuk a régi hármat irányítani, mert akkorára nőttünk.
+Csak ez a nagy növekedés ugye nem fenntartható!
+De tegyük fel, hogy még ezt is rendbe tesszük...
+Akkor sem fogunk a seggünkön ülni, mert az embernek mindig valami több/jobb kell.
+A valószínű célpontok pedig a következők: halhatatlanság, boldogság és "istenség".
+
+1. **Halhatatlanság** ügyben elég nagy az optimizmus, mert a régi metafizikai nézetek helyett már minden "csak" egy technikai probléma.
+Egyelőre azért nyugalom: az eddigi élettartam "hosszabbítások" igazából nem hosszabbítottak semmit, csak megakadályozták az _idő előtti_ halált.
+De előbb vagy utóbb valószínűleg úgyis lesz belőle valami.
+
+    > Ha azt hiszed, hogy az égő szemű, lobogó szakállú vallási fanatikusok kegyetlenek, akkor várd csak ki, hogy mire lesznek képesek a vén kereskelmi mogulok és az idősödő Hollywoodi sztárocskák, amikor azt hiszik, hogy az örök élet elixírje elérhetővé vált.
+    > > If you think that religious fanatics with burning eyes and flowing beards are ruthless, just wait and see what elderly retail moguls and ageing Hollywood starlets will do when they think the elixir of life is within reach.
+
+2. **Boldogság** ügyben a legnagyobb áttörés, hogy már most boldogok akarunk lenni, nem csak a túlvilágon.
+Bentham és Mill-féle utilitárius szemlélet is felmerül, de ezt eddig nem nagyon használták mérőszámnak.
+Mindenkit csak a gazdasági növekedés, a terület és a hatalom érdekelt.
+A munkások legyenek engedelmesek, és tegyék erőssé a nemzetet...
+Az meg, hogy egyénileg boldogok-e, azt ki nem szarja le?
+<br />
+<br />
+De most már egyre jobban jön a "bruttó nemzeti boldogság" (GDH, gross dometric happiness) ötlete is az anyagiak mellé.
+Csak hát ahhoz meg ugye nem elég ám hogy jobbak az anyagi viszonylatok!
+Ha lenne kapcsolat az anyagiak és a boldogság között, akkor felismerhetetlenül boldogabbnak kellene lennünk, mint akár csak az 50-100 évvel ezelőttieknek (mert az anyagi körülményeink között felismerhetetlen a különbség).
+Az ókoriakról nem is beszélve!
+De hát ugye nem...
+Epicurus átfogalmazásával azt is mondhatnánk, hogy boldognak lenni bizony kemény munka.
+
+3. Ha pedig eljutunk arra a szintre, hogy a halállal és a boldogsággal is meg tudunk küzdeni, akkor onnan már az **istenség** elérése sem lesz akadály.
+Az organikus dolgoktól eltolódhatunk a cyborg, vagy akár a teljesen mesterséges élet irányába, és egyelőre elképzelhetetlen képességekre tehetünk szert.
+Pont ezért is nehéz előre bármit mondani -- mert rengeteg ajtót nyílik majd ott is, ahol most még ajtó sincs.
+A a biotechnológia például nagy valószínűséggel arra is használható lesz, hogy az agyunkat megváltoztassuk.
+És azt a mostani agyunkkal hogy is tudnánk felfogni, hogy majd egy olyan agy milyen lesz vagy mit tart majd fontosnak...
+    
+    > Nincs éles határ a gyógyítás és a továbbfejlesztés között.
+    > > No clear line separates healing from upgrading.
+
+Szembetűnő lehet az igazságtalanság -- hiszen még vannak azért bőven, akik a háborúval, az éhínséggel és a betegséggel küszködnek, miközben az elit réteg már az istenség felé nyújtózkodik.
+De hát ha egyszer így működik a faj...
+Az arisztokratáknak eddig is nagyon más volt az értékrendje, mint a parasztságnak.
+Most csak ezeket a különbségeket húzzuk szét még jobban.
+
+Illegve egy kis kitérő: a jóslatoknak csak akkor van értelmük, ha hatnak az emberek viselkedésére (különben minek).
+Ha viszont hatnak, akkor az új viselkedés gyorsan okafogyottá vagy pontatlanná teheti a jóslatot.
+De ez nem azt jelenti, hogy nem működött...
+Hanem valószínűleg pont azt, hogy működött!
+Szóval itt nem mondjuk, hogy ez így lesz.
+Azt mondjuk, hogy az eddigiek fényében az emberiség valószínűleg ebbe az irányba indul.
+És aztán ha ennek a jóslatnak a hatására már majd odafigyelnek, akkor ez van.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="2"></a>Hogy jutottunk idáig?
 
 ### Az ember uralta kor
 
@@ -367,7 +404,25 @@ https://www.goodreads.com/book/show/31138556-homo-deus
 
 
 
-## A Homo Sapiens elveszti az irányítást
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="3"></a>Mi baj lehet?
 
 ### Az időzített bomba a laborban
 
@@ -484,3 +539,38 @@ https://www.goodreads.com/book/show/31138556-homo-deus
 1. Science is converging on an all-encompassing dogma, which says that organisms are algorithms, and life is data processing.
 2. Intelligence is decoupling from consciousness.
 3. Non-conscious but highly intelligent algorithms may soon know us better than we know ourselves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Összefoglalás
+
+- "Historians study the past not in order to repeat it, but in order to be liberated from it."
+    - nem is főleg jósolni próbálunk, hanem az eddigieket számba véve meglátni, hogy egyáltalán mik a lehetőségeink
+    - hátha így jobban sikerülne kitörni abból az mederből, amibe születtünk
+        - mind természetesnek vesszük a körülményeinket
+        - és csak egy valag tanulással/olvasással/utazással/stb. nyílik ki a szemünk
+    - egy path-dependence lecke a pázsitokon keresztül
+        - "This was when a new rite was added to the suburban liturgy." --> eljutott a középosztályhoz is
+        - "You are of course still free to do it. But you are also free to shake off the cultural cargo bequeathed to you..."
