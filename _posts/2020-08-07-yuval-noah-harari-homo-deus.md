@@ -108,7 +108,7 @@ Epicurus átfogalmazásával azt is mondhatnánk, hogy boldognak lenni bizony ke
 3. Ha pedig eljutunk arra a szintre, hogy a halállal és a boldogsággal is meg tudunk küzdeni, akkor onnan már az **istenség** elérése sem lesz akadály.
 Az organikus dolgoktól eltolódhatunk a cyborg, vagy akár a teljesen mesterséges élet irányába, és egyelőre elképzelhetetlen képességekre tehetünk szert.
 Pont ezért is nehéz előre bármit mondani -- mert rengeteg ajtót nyílik majd ott is, ahol most még ajtó sincs.
-A a biotechnológia például nagy valószínűséggel arra is használható lesz, hogy az agyunkat megváltoztassuk.
+A biotechnológia például nagy valószínűséggel arra is használható lesz, hogy az agyunkat megváltoztassuk.
 És azt a mostani agyunkkal hogy is tudnánk felfogni, hogy majd egy olyan agy milyen lesz vagy mit tart majd fontosnak...
     
     > Nincs éles határ a gyógyítás és a továbbfejlesztés között.
@@ -153,252 +153,72 @@ Azt mondjuk, hogy az eddigiek fényében az emberiség valószínűleg ebbe az i
 
 ## <a name="2"></a>Hogy jutottunk idáig?
 
-### Az ember uralta kor
+Az állatokkal szemben már rég istenek vagyunk.
+Csak ezen nem szeretünk nagyon gondolkozni, mert nem voltunk épp (az Irány Eldorádó szavaival élve) "kegyes istenek".
+Már mostanáig is majdnem olyan hatással voltunk, mint egy aszteroida...
+Hát még ezután.
 
-- az állatokkal szemben már rég istenek vagyunk
-    - csak ezen nem szeretünk nagyon gondolkozni, mert nem voltunk épp (az Irány Eldorádó szavaival élve) "kegyes istenek".
-- már mostanáig is majdnem olyan hatással voltunk, mint egy aszteroida, hát még ezután
-    - ha a természetes kiválasztódás és az organikus megkötés is eltűnik majd az életből
-- nálunk van először egy ökológiai egység a sok lazán kapcsolt helyett
-- hosszú kitérők, amik már a Sapiensben is voltak
-    - állat kegyetlenség
-    - az érzések mint algoritmusok
-        - és az állatoknak is vannak érzéseik
-- és megint az érdekes kapcsolat: a mezg forradalommal jöttek be az istenes vallások is jobban
-    - az addigi animista hozzáállás már nem volt jó, amikor olyan jól ki lehetett használni és el lehetett nyomni azokat a szerencsétlen állatokat
-    - ezért kellettek az istenek (vagy akár a nagy I betűs Isten), aki szerint ez a világ rendje és jól van ez így
-    - vagyis nem az istenek itt (sem) a lényegesek, hanem az emberek!
-        - eddig csak egy voltunk a sok közül, most már egyértelműen mi vagyunk a főszereplők
-- aztán az ipari forradalommal már Istent is elhallgattattuk, és csak mi maradtunk
-    - manapság már a tudományt imádjuk vallás-szerűen, mert annak köszönhetően mindent megtehetünk, és senki nem szab határt
-    - sőt, _magunkat_ imádjuk --> humanista "vallások"
-    - a liberalizmus, kommunizmus, nácizmus, stb.
-        - ezek mind abból az alapfeltételezésből indulnak ki, hogy az ember valami kitüntetett lény
-- csak nehogy lassan mi is alantas életformák legyünk a szuperemberek vagy a mesterséges intelligenciák között, és majd velünk is így bánjanak
+A nagy előnyünk a rugalmas **és** nagy mértékű együttműködés.
+A hangyák és a méhek is sokan vannak, de merev rendszerben.
+A csimpánzok pedig hiába rugalmasak, ha van egy felső korlát a csapataik létszámában.
+Mi vagyunk az egyetlenek, akik (a közös hiteink és fikcióink miatt) sokan és flexibilisen működünk együtt.
 
-### Az emberi szikra
+Az állatok látványos lehagyása után viszont kellett valaki, akire továbbra is "fogni lehetett" a rossz termést vagy kérni a jó időjárást.
+És többségében innen jönnek az istenek (vagy akár a nagy I betűs Isten), akik szerint ez a világ rendje és jól van ez így.
+Ebből viszont szépen látszik, hogy nem az istenek voltak itt (sem) a lényegesek, hanem az emberek!
+Addig csak egy voltunk a sok közül, utána viszont már egyértelműen mi voltunk a főszereplők.
 
-- "Does might make right?"
-    - az emberek között is megvan (USA vs. Afganisztán), de ott legalább nem etikai alapú
-    - de mi van akkor mondjuk az emberek és a diszkók között... miért értékesebb egy emberi élet?
-- lélek
-    - ez a mítosz formálja az életünk nagy részét, de kb. semmi bizonyíték nincs rá
-- Darwin-tól jobban félünk, mint Einsteintől, mert nem a relativitás fenyegeti a lelkünk létezését
-    - márpedig ha a lélek örök és oszthatatlan (in-dividual, whoa), akkor az nem lehet a természetes kiválasztódás következménye
-- a másik érdekes terület az elme, ami _állítólag_ szintén csak nekünk van
-    - az érzések és a vágyak választanak el a robotoktól
-    - és egyesek szerint az állatoktól is
+Napjainkban még tovább megyünk, hiszen a tudomány dominanciája miatt látszólag már nincs is szükség a mítoszokra.
+De valójában inkább az történik, hogy a tudomány adta képességeinkkel egyre teljesebben tudjuk olyanra formálni a környezetünket, amilyennek a mítoszaink alapján hisszük, hogy lennie kellene.
+Vagyis igenis _vannak_ mítoszaink -- csak nem tűnnek annak, mert túl hihetően tesszük őket valósággá.
+Ennek fényében pedig igazából könnyen összefoglalható a modern élet "szerződése":
 
-- mi is az elme
-    - röviden: nem tudjuk
-    - milliárdnyi agyi elektromos jel cikázik innen oda, és akkor ebből valahogy érzések és gondolatok lesznek
-    - de hogy hogy? ...
-        - maga a komplexitás nem magyarázat ugye semmire, mert ezzel az erővel a forgalmi dugók vagy a tőzsde is öntudatra ébredhetne
-- miért kell egyáltalán elme?
-    - történik ott valami, ami az agyban nem?
-        - ha igen, akkor ez fizikailag hol van? ha az agyban, akkor megintcsak: mi van csak az elmében?
-        - ha nem, akkor meg minek?
-    - van, aki szerint nem is kell vele foglalkozni, mert az aggyal (idővel) minden magyarázható (lesz)
-        - ezen az alapon viszont elég nehezen védhető bármi politikai/etikai... mondjuk a kínzás vagy az erőszak
-    - van olyan is, aki szerint csak egy "melléktermék", mint a motornak a zaj
-        - csak úgy van, de (biológiai értelme) nincs
-        - ez érdekes gondolat, de mellette valahogy talán vicces is, hogy a 21. század elején is csak ennyit tudunk mondani
-- az is lehet, hogy teljesen rossz irányból közelítünk
-    - régen a gőzgép volt a tudomány csúcsa, ezért gőzgépes hasonlatokkal próbálták az emberi szervezetet is jellemezni
-    - most a számítógép a tudomány csúcsa, ezért algoritmikus hasonlatokkal gondolkozunk az elméről
-    - erről is kiderülhet, hogy ugyanolyan naiv, mint a gőzös volt régen
+> Az emberek feladják a jelentőségteljes életet a hatalomért cserébe.
+> > Humans agree to give up meaning in exchange for power.
 
-- visszatérve az állatokra
-    - nem sokat tudunk tehát a tudatról, de az nagyon úgy néz ki, hogy az állatoknak is olyan/olyasmi van, mint nekünk
-    - különben az érzelmekhez kapcsolódó állatkísérleteknek nem is sok értelme lenne
-    - szóval amíg nincs konkrét bizonyíték, inkább errefelé hajlunk, és bizonyítsanak a szkeptikusok
-- van olyan felvetés is, hogy az állatoknak is van tudata, de nem ÖNtudata
-    - vagy hogy a jelenben élnek, de nincsenek tisztában a múlttal vagy a jövővel
-    - de itt sem bizonyítható (még) semmi. választani kell, hogy melyiket tartjuk valószínűbbnek, és a másik oldal bizonyítson :)
+Sokáig elfogadtuk, hogy csak szereplők vagyunk Isten színpadán
+Ezért aztán el is kellett viselnünk mindent, amit a sors dobott.
+És habár ez korlátozta a hatalmunkat, cserébe viszont jelentőségteljesnek éreztük a létezésünket.
+Manapság már nem fogadjuk el a szerepünket; azt csinálunk, amit akarunk!
+A sok fejlődés egyre több hatalmat ad, ami miatt már nem kell elviselnünk azt a sok szart, amit a sors dob -- ezért Istent is "elhallgattattuk", és csak mi maradtunk.
+Így viszont "értelme" sincs annak, amit itt molyolgatunk...
+Csak porszemek vagyunk az univerzumban, és semmi nem számít.
 
-- és akkor miért is vagyunk mi ennyire menők?
-    - intelligencia és eszközkészítés, igen, de azok már régen is megvoltak
-        - talán még jobban is, mint most, és akkor is csak középen voltunk valahol
-    - a kulcs megint a Sapiens-es lecke: a nagymértékű ÉS flexibilis együttműködés
-        - a hangyák és a méhek sokan működnek együtt, de kötötten
-        - a majmok vagy a farkasok flexibilisen működnek együtt, de csak kevesen
-        - mi vagyunk az egyetlenek, akik flexibilisen ÉS sokan, és ezért tartunk itt
-    - ez a fajta együttműködés adja az igazi hatalmat a forradalmak során is
-        - és habár ez laboratóriumi kísérletek során már az állatoknál is az egyenlőség felé hajlik, az emberek nagy tömegekben nagyon nem úgy viselkednek
-    - ide kellenek a (szintén Sapiens-ben emlegetett) elképzelt rendszerek
-        - "Sapiens often use visual marks such as a turban, a beard or a business suit to signal ‘you can trust me, I believe in the same story as you’."
-        - inter-szubjektív szint... sokan azt hiszik, hogy ha valami nem szubjektív, akkor mindjárt objektív, pedig nem
-    - ezek a hit-hálók egy-egy adott pillanatban erősek, mert mindenki a másik hitét erősíti a sajátjával
-        - de idővel változnak a trendek, és az eddig fontos dolgok már szart sem érnek
-        - erre is jó a történelem: figyelni ezeket a hálókat és a változásaikat
-        - hátha ennek köszönhetően az aktuálisra is tudunk majd egy kicsit más szemmel nézni
-- szóval: nagy mértékű ÉS flexibilis együttműködés, amit az inter-szubjektív mese-hálónk ad. EZ a nagy szó.
-    - és ahogy egyre hatalmasabbak leszünk, úgy alakítjuk majd a világot is egyre inkább olyanná, amilyennek képzeljük, hogy lennie kellene
+Pontosan erre "találtuk fel" a humanizmust, az ember-központúságot: hogy kibújhassunk a hatalmunk _árának_ megfizetése alól.
+Manapság már nem az univerzumnak kell értelmet adnia az életünknek, hanem a mi tetteink adnak értelmet a saját életünkön felül az univerzumnak is!
+És ebben nem is az a fontosabb, hogy már nem Isten a jó és rossz forrása.
+Hanem hogy szép fokozatosan el tudtuk hinni magunkról, hogy mi is lehetünk azok.
 
+Régen még a papok tolmácsolták, hogy Isten szerint mi a helyes, most viszont a pszichológusok segítenek.
+De ők is csak annyiban, hogy kapcsolatba (és egyenesbe) kerüljünk a saját érzéseinkkel.
+Hiszen elvégre mi magunk vagyunk a forrása annak, hogy mi a helyes, nem?
+Sőt, már az etikában, a politikában és az esztétikában sem objektív, felsőbbrendű ideálokat kellett követnünk:
 
-## A Homo Sapiens értelmet ad a világnak
+- Etika = "ha jól érzed magad tőle, csináld",
+- Politika = "a szavazó jobban tudja, mi jó neki",
+- Esztétika = "a szépség szubjektív",
+- Gazdaság = "a vásárlónak van igaza",
+- Oktatás = "tanulj meg önálló véleményt formálni".
 
-### A történet mesélők
+Na persze nem teljesen egységes mozgalom ez a humanizmus, sokkal inkább egy mozgalom-csoport.
+A fontosabb ágazatokra a könyv a következő három példát hozza:
 
-- a mezg. forradalomig a kaja miatt nem nagyon lehetett növekedni
-- aztán a pénz és az írás hiánya volt a szűk keresztmetszet (emlékezni a tartozásokra, ügyelni az adminisztrációra, beszedni az adókat, ...)
-- ezután viszont igencsak "megszaladtunk"
-    - istenek ~ cégek
-    - istenkirályok (fáraók) ~ celebek
-    - lényeg, hogy az imidzs fontosabb, mint maga a biológiai lény
-    - és ahogy akkoriban is a fáraókkal vagy az istenekkel, most sem a cégek érik el a célokat, hanem a hús-vér emberek, akik hisznek bennük, és ezért együttműködnek
+- **Liberalizmus** (ami kb. az orthodox humanizmus): mindenki egyedi, és az egyéniségével teszi színesebbé a világot.
+Ezért nem is szabad korlátozni (lásd [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %})).
+A nacionalizmus is ebből nőtt ki, de ott már nem csak az emberek, hanem az államok is "egyedek", ezért tisztelni és ünnepelni kell a különbségeiket.
+Csak aztán ha egyszer átbillen, onnantól nem csak "mások" vagyunk, hanem "jobbak" -- és mindenki más mehet a koncentrációs táborba...
 
-- abból viszont gyakran volt/van baj, ha a valóságot próbáljuk az íráshoz igazítani
-    - nem mi hibáztunk, hanem az úgy van... 1984, valaki?
-    "Written language may have been conceived as a modest way of describing reality, but it gradually became a powerful way to reshape reality."
-    - példáknak lásd: jegy alapú oktatási rendszer, vallási szentírások, a pénz értéke, ...
+- **Szocializmus**: ne annyira a saját belső élményeinkre figyeljünk, hanem mindenkiére.
+Eleve a belső dolgaink nagyban a környezetünk következményei, úgyhogy tessék a _köz_ érdekére kellő hangsúlyt fektetni.
+Az etika persze továbbra is emberi értékekből fakad -- csak a pártéból, nem az egyénekéből.
+És aztán ha a párt az egyének érdekén tapos, akkor nem biztos, hogy jó vége lesz...
 
-- szóval ezek az kooperációt elősegítő hitek valamennyire belepiszkálnak abba is, hogy mi legyen a cél
-    - és hogy milyen metrikákkal mérjük, hogy hogyan is haladunk
-    - ha ezeket elfogadjuk, akkor persze, hogy úgy fog tűnni, hogy jól haladunk :D
-- ezért amikor már nem ezek a hitek szolgálnak minket, hanem mi őket, akkor érdemes hátralépni és átgondolni a dolgokat
-    - persze, **kellenek** a mesék az együttműködéshez
-    - de ne a képzeletbeli dolgok legyenek már a mérce, hogy hogy haladunk!
+- **Evolúciós humanizmus** (amire a leghíresebb példa a nácik voltak): éljen a dzsungel törvény!
+A háború és a konfliktus jó, mert az csak előhozza és felgyorsítja a Darwinista természetes szelekciót.
+Az megint más kérdés, hogy ezt ők egy erős faji alapú megkülönböztetéssel és ultra-nacionalizmussal keverték, illetve hogy konkrétan mit hoztak ki belőle...
 
-### Furcsa páros
-
-- tudomány vs. mítosz/vallás
-    - kb. úgy tűnhet, hogy napjainkban már a tudomány dominanciája miatt nincs is szükség a mítoszokra
-    - de valójában inkább az történik, hogy a tudomány adta képességeinkkel egyre teljesebben tudjuk olyanra formálni a környezetünket, amilyennek a mítoszaink alapján hisszük, hogy lennie kellene
-
-"Religion is anything that confers superhuman legitimacy on human social structures. It legitimises human norms and values by arguing that they reflect superhuman laws."
-
-- zsidó vs. náci vs. modern brit példák
-    - és ebből sokan nem szeretik, ha vallásként tekintenek rájuk, mert valahogy a "vallás" a természetfelettivel és a babonával keveredik
-    - de ettől a kommunizmus és a liberalizmus is ugyanolyan vallás, mint a kereszténység vagy a buddhizmus
-    - csak itt más a rend, és más fedte ezt fel
-
-- vallás vs. spiritualitásra is egy jó kis összehasonlítás
-    - vallás = a rigid, fennálló rendszer elfogadása, kontra spiritualizmus = valami kérdésre válasz keresése, megkérdőjelezés, kutakodás
-    - kicsit úgy, mint ahogy John Stuart Mill is érvelt az individualizmus mellett
-    - etimológia: duális vallásokból, ahol a lelkünk örök és jó, a testünk/világ mulandó és rossz
-        - és mivel a sátán csak mulandót tudott alkotni, ezért a testi örömökkel csábította le a lelkünket "fentről"
-        - ha nem fogadjuk el az itteni "normákat", hanem elkezdjük keresni az igazi természetünket, az olyan, mintha felfedeznénk a lelkünk eredetét --> ezért "spirituális"
-
-- de társadalmi szinten hiába rúgja fel az útkeresés az eddigi rendszereket, mert pont azzal teremt egy új rendszert
-    - a megkérdőjelezés egy ismétlődő (és leginkább egyéni) feladat
-    - journey before destination, megint :)
-
-- a probléma ott van, hogy habár a tudomány nem is _tud_ beleugatni a morális/etikai dolgokba, a vallás azért szabadon megpróbál beleugatni a konkrét világi dolgokba is
-    - nincs abortusz, nincs homoszexualitás, ... ezek nem CSAK etikai nézetek
-    - mindig etikai nézet + konkrét állítás, és ebből a kettőből vonnak le valami következtetést
-    - abortuszellenesség = az élet szent + az élet a fogantatásnál kezdődik
-        - ez elsőbe nem lehet belekötni, de a másodikba igen...
-    - homoszexualitás-ellenesség = engedelmeskedjünk Istennek + Isten szerint az bűn
-        - megint csak: az elsőhöz tényleg semmi köze a tudománynak (mindenki egyenként vitathatja)
-        - viszont az "Isten szerint bűn" rész eléggé gyenge lábakon áll (ki is írta a Bibliát?!)
-
-- de mindez leginkább akkor lenne baj, ha mindketten **az** igazságot keresnék
-    - és hivatalosan azt is keresik
-    - de igazából a vallást a rend, míg a tudományt a hatalom érdekli
-    - szóval ha össze tudnak fogni úgy, hogy egyszerre legyen rend és hatalom, akkor lehet ott együttműködés!
-
-### A modern együttműködés
-
-- a modern élet "szerződése" elég bonyolultnak tűnhet, de igazából könnyen összefoglalható:
-
-"Humans agree to give up meaning in exchange for power."
-
-- eddig elfogadtuk, hogy csak szereplők vagyunk Isten színpadán
-    - ez korlátozta a hatalmunkat, és ezért el is kellett viselnünk mindent, amit a sors dobott
-    - viszont cserébe jelentőségteljesnek éreztük a létezésünket
-- manapság már nem fogadjuk el a szerepünket, azt csinálunk, amit akarunk
-    - a sok fejlődés egyre több hatalmat ad, ami miatt már nem kell elviselnünk azt a sok szart, amit a sors dob
-    - így viszont "értelme" sincs, amit itt molyolunk... csak porszemek vagyunk az univerzumban, és semmi nem számít
-
-- egy kis pénzes/kapitalizmusos ismétlés a Sapiens-ből
-    - a hitel és a növekedés billentettek ki minket a stagnálásból
-    - viszont manapság már annyira vallási szintre emelkedett, hogy etikai ítéleteket is hoz
-        - ha egyszerűbb a szüleidet otthonba adni, mert közben nyugodtan dolgozhatsz, akkor az a "jobb" megoldás
-        - nyugodtan letaposhatjuk a környezetet, mert a növekedés fontosabb
-    - szóval igen, nagyon sok eredmény és együttműködés köszönhető neki, de azért van baj szatyorral
-
-- dupla verseny
-    - mindenki úgy akar élni, ahogy a tehetős Amerikai réteg, ehhez pedig nagyon pörögnie kell a gazdaságnak
-    - viszont ha mindenki úgy élne, akkor kikészülne a bolygó (már most is alig bírja...)
-    - szóval a tudománynak _nagyon_ rendszeresen kell gyártania a csodákat és az áttöréseket
-
-- a nagy baj, hogy a gazdagok kezében van a hatalom
-    - és ők pedig úgy látják, hogy érdemes ezzel a "majd a tudomány kisegít" jövőképpel kísérletezni
-    - mert legrosszabb esetben ők majd akkor is túlélik valahogy, a szegény réteg meg pusztuljon
-    - kecskére káposztát...
-- a szegények meg nem is nagyon tudnak tüntetni, mert a környezet figyelembe vétele ugye lassítaná a növekedést, ami nekik kevesebb pénz -- amiből már most is túl kevés van
-    - szóval csak oda jutunk vissza a végére, hogy valamennyire most is "zero-sum" ez a játszma
-
-- de hát a sikerek nagyok, ezért most már az intézmények is hirdetik a kapzsiságot
-    - az embereknek meg nem kell kétszer mondani
-
-- szóval jah, a hatalom részét megkaptuk az alkunak
-    - a fenntarthatósága ugye kérdéses, de a hatalmunk akkor is tagadhatatlan
-    - mi lesz viszont akkor az "árral"? az élet értelmének eltűnésével?
-
-### A humanista forradalom
-
-- erre "találtuk fel" a humanizmust, az ember-központúságot
-    - nem az univerzumnak kell értelmet adnia az életünknek
-    - hanem a mi tetteinknek kell értelmet adni a saját életünkön felül az univerzumnak is!
-- így értelmezhető az "Isten halott" hozzáállás is
-    - de nem is az a fontosabb, hogy már nem Isten a jó és rossz forrása
-    - hanem hogy szép fokozatosan el tudtuk hinni magunkról, hogy mi is lehetünk azok
-- régen a papok tolmácsolták, hogy Isten szerint mi a helyes
-    - manapság pszichológusok segítenek, de ők is csak annyiban, hogy kapcsolatba és egyenesbe kerüljünk a saját érzéseinkkel
-    - hiszen elvégre mi magunk vagyunk a forrása annak, hogy mi a helyes
-- eddig az etikában, a politikában és az esztétikában is objektív, felsőbbrendű ideálokat kellett követni
-    - most viszont etika = "ha jól érzed magad tőle, csináld"
-    - politika = "a szavazónak van igaza"
-    - esztétika = "a szépség szubjektív"
-    - gazdaság = "a vásárlónak van igaza"
-    - oktatás = "tanulj meg önálló véleményt formálni"
-- a szubjektivitás a tudományos területeken hatalmas áttöréseket hozott
-    - empirikus adatok és elemzésük
-    - csak hát ez az etikára és az esztétikára nem volt túl alkalmas
-    - ehhez kellenek (kiegészítésnek) a tapasztalatok és az érzékenység
-        - minden, amit megélünk, amilyen érzéseket azok generálnak, és amiket gondolunk közben
-        - az érzékenység pedig, hogy ezekre az élményekre figyelünk is, és hagyjuk, hogy befolyásoljanak
-- ettől vált a háború is borzasztóvá
-    - persze eddig is az volt, de a humanizmus előtt a stratégiára és a felsőbbrendű célokra fókuszáltunk
-    - manapság viszont már az egyszerű közkatona érzéseire
-
-- na persze nem teljesen egységes mozgalom ez a humanizmus
-    - sokkal inkább egy mozgalom-csoport
-- ágazatok
-    - liberalizmus (kb. az orthodox humanizmus)
-        - mindenki egyedi, és az egyéniségével teszi színesebbé a világot
-        - ezért nem is szabad korlátozni --> lásd John Stuart Mill
-        - a nacionalizmus is ebből nőtt ki
-            - de itt már nem csak az emberek, hanem az államok is "egyedek"
-            - tisztelni és ünnepelni kell a különbségeket
-            - csak aztán ha egyszer átbillen, onnantól nem csak "mások" vagyunk, hanem "jobbak", és mindenki más mehet a koncentrációs táborba...
-    - szocializmus
-        - ne annyira a saját belső élményeinkre figyeljünk, hanem mindenkiére
-        - eleve a belső dolgaink nagyban a környezetünk következményei
-        - az etika továbbra is emberi értékekből fakad, csak a pártéból, nem az egyénekéből
-    - evolúciós humanizmus (leghíresebb példa a nácik)
-        - a háború/konfliktus jó, mert az csak előhozza és felgyorsítja a Darwinista természetes szelekciót
-        - dzsungel törvény, az erősebb felfalja a gyengébbet, stb.
-        - az más kérdés, hogy ezt ők egy erős faji alapú megkülönböztetéssel és ultra-nacionalizmussal keverték, és hogy konkrétan mit hoztak ki belőle...
-        - de azért az alapötletekből van mit tanulni
-- jó kis összehasonlító példa: Beethoven vs. Johnny B. Goode vs. Pygmie kántálás vs. farkas vonyítás
-    - és hogy melyik irányzat hogy reagálna
-    - liberalizmus: a 3 emberi egyforma, a farkast ki nem szarja le
-    - szocializmus: nincs olyan, hogy önmagáért való művészet, mint hirdet valamilyen szociális/politikai rendszert
-        - ezeket kell mérlegelni, de végeredményben majd dönt a párt kulturális biztosa
-        - a farkas pedig természetesen senkit nem érdekel
-    - evolúciós humanizmus: ha már belátjuk, hogy a farkas senkit nem érdekel, akkor azt miért nem látjuk, hogy az emberi dolgok között is ugyanilyen jelentős minőségbeli különbségek lehetnek
-        - Beethoven egyértelműen jobb, mint Check Berry vagy a pigmeusok... Pont.
-
-- fontos üzenet: szép és jó a filozófiai kifinomultság, de azok az irányzatok mindig elsorvadtak, amik csak a múltba akartak kapaszkodni
-    - a jelen (és a közeljövő?) gazdasági és technológiai adottságait figyelembe kell venni, különben idővel lényegtelenné válik az irányzat
-    - valamilyen szinten megint a "jelen korra értelmezés"
-        - vagyis jók azok a régi szövegek, csak modernizálni és újraértelmezni kell őket, hogy relevánsak maradhassanak!
-
-- a kommunizmus is csak az elektromosság és a gőzgép segítségével lehetett sikeres, mert az alapelveinek betartásához kellettek ezek az új képességek
-    - mondhatni, hogy ez volt az első "techno-vallás"
+Szóval remélhetőleg látjuk, hogy extrém esetekben mindenből lehet gond -- de azért az alapötletekből van mit tanulni.
+A közös szál pedig végig jelen van: az ember az élet jelentésének forrása.
 
 
 
@@ -424,40 +244,44 @@ Azt mondjuk, hogy az eddigiek fényében az emberiség valószínűleg ebbe az i
 
 ## <a name="3"></a>Mi baj lehet?
 
-### Az időzített bomba a laborban
+Az egész modern liberalizmusos-demokratikus-szabadpiacos rendszer arra épül, hogy mindenki tényleg tudja, mi a jó neki.
+És ez még csak nem is arról szól, hogy tudjuk-e egyáltalán a saját érdekünket, hanem hogy van-e egyáltalán olyan, hogy "szabad akarat"?
+És ha agyi stimulációval szimulálni lehet majd bármit, akkor meg aztán pláne hova lesz a "szabadság" része?
 
-- az egész modern liberalizmusos-demokratikus-szabadpiacos rendszer arra épül, hogy mindenki tényleg tudja, mi a jó neki
-    - és ez még csak nem is arról szól, hogy tudjuk-e egyáltalán a saját érdekünket
-    - hanem hogy van-e egyáltalán olyan, hogy "szabad akarat"
-    - és ha agyi stimulációval szimulálni lehet majd bármit, akkor meg aztán pláne hova lesz a "szabadság" része?
-- mondhatnánk, hogy "de hát akkor majd pont hogy erősödik a szabadság, mert segítünk magunkat az _igazi_ vágyaink irányába terelni"
-    - de erre is vannak kísérletek, hogy belül sem **egy** igaz személyiségünk van
-    - csak különböző hangok/vélemények/ingerek/reakciók, és ezekből valahogy összegyúrunk egyet, ami legalább valamennyire konzisztensnek tűnik a külvilág felé
-        - jobb vs. bal agyfélteke
-        - tapasztaló vs. narráló én
-- leginkább a narráló énnel azonosítjuk "magunkat"
-    - viszont itt elég 1984-es kreativitással megy az élményeink vágása, szerkesztése, és átértelmezése napról-napra
-    - szó szerint mi magunk adunk értelmet a szenvedésünknek, még akkor is, ha objektíven nem volt neki... ouch
-        - a vallásos áldozások is ide kapcsolódnak
-        - ha már áldoztam, akkor onnantól még jobban hiszek... mert ha véletlen kiderül, hogy tévedtem, akkor hiába volt az áldozat
-    - vagyis az is csak egy sztori, hogy kik vagyunk
-        - nincs ilyen, hogy vagyunk valakik
-        - olyan van, hogy bemeséljük magunknak, hogy kik vagyunk
-        - ez egyrészről kicsit lehangoló
-        - másrészt viszont legyen vigasz, hogy a bemesélés átköltésével teljesen meg tudjuk változtatni az életünket bármiféle külső változtatás nélkül is
-            - sztoicizmus ftw!
-- a sztoicizmus referenciából is érezhető, de ebben természetesen semmi nagy újdonság nincs
-    - lehet, hogy egyénileg beüt egy-egy meglátás, amivel még nem találkoztunk
-    - de "faji szinten" ezek már ismert dolgok
-    - csak hát mi ugye a kognitív disszonancia mesterei vagyunk ("Humans are masters of cognitive dissonance") és eddig is ügyesen összeillesztettük a sztorijainkat látszólag össze NEM illő darabokból is
-- és mi is akkor itt a ketyegő bomba?
-    - ha nem az, hogy ez nem összeilleszthető a régebbi etikai és politikai rendszerekkel?
-    - az, hogy ezek majd sok új, a hétköznapokat is érintő technológiához fognak vezetni
-        - addig könnyű homokba dugni a fejünket, amíg csak intellektuális vitáról van szó
-        - de majd ha az utcán is ez jön szembe, akkor kelleni fognak az új vallási/politikai struktúrák
+Mondhatnánk, hogy "De hát akkor majd pont hogy erősödik a szabadság, mert segítünk magunkat az _igazi_ vágyaink irányába terelni".
+De ez azért megtévesztő, mert belül sem **egy** igaz személyiségünk van -- csak különböző hangok, vélemények, ingerek és reakciók.
+Ezekből próbálunk valahogy összegyúrni egyet, ami legalább valamennyire konzisztensnek tűnik a külvilág felé.
+Van tehát egy "tapasztaló én", aki megéli a dolgokat, és egy "narráló én", aki pedig a krónikát írja a megéltekről.
 
-### A nagy szétválás
+Habár legtöbbször a narráló énnel azonosítjuk "magunkat", érdemes tudni, hogy itt azért elég [1984]({% post_url 2020-05-29-george-orwell-1984 %})-es kreativitással megy az élményeink vágása, szerkesztése, és átértelmezése napról-napra.
+Szó szerint mi magunk adunk értelmet a szenvedésünknek, még akkor is, ha objektíven nem volt neki...
+Uhh!
 
+Összességében tehát az is csak egy sztori, hogy kik vagyunk.
+Ez egyrészről kicsit lehangoló -- másrészt viszont legyen vigasz, hogy a bemesélés átköltésével teljesen meg tudjuk változtatni az életünket bármiféle külső változtatás nélkül is.
+Pont mint ahogy a [sztoicizmus]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) is hirdeti már egy kis ideje!
+
+Na jó, de ha ezt már évezredek óta tudjuk, akkor mi ebben az újdonság?
+És főleg hol a probléma?
+Ott, hogy ugye lassan ezekbe az agyi folyamatokba is bele tudunk majd piszkálni.
+Már most is sokan serkentőkön, nyugtatókon, antidepresszánsokon és fájdalomcsillapítókon élünk -- és mi lesz itt még!
+
+Ez a piszkálódás viszont egyáltalán nem biztos, hogy a "jó" irányba megy majd.
+Elvégre nincs egy szánkba rágott térkép, hogy merre menjünk.
+Másrészt valószínűleg itt is a gazdasági és politikai érdekek fognak szerepet kapni az emberi érdekek felett.
+Figyelj jobban és dolgozz gyorsabban!
+Ja, hogy közben már nem érzel olyan mélyen és szürkébbek lettek a napjaid?
+Azt ki nem szarja le...
+
+A talán még nagyobb probléma pedig az, hogy a humanista vallásunk megborul.
+Aszerint az "egy igaz belső hangunk" az isten, azt kell követni.
+De mi lesz vajon, ha már azt is állítgatni tudjuk, hogy mit mondjon a belső hang?
+Akkor onnantól kinek a kezében van a morális felelősség?
+
+<br />
+<br />
+
+Ha a laborokról a gépekre fordítjuk a tekintetünket, akkor sem rózsás a helyzet.
 - márpedig a hétköznapokban az ember igencsak "veszti az értékét"
     - eddig az intelligencia és az öntudat kéz a kézben jártak
     - és mindegy is volt, hogy melyik a fontosabb, mert úgyis csak az ember tudta mindkettőt hozni
@@ -474,8 +298,6 @@ Azt mondjuk, hogy az eddigiek fényében az emberiség valószínűleg ebbe az i
     - de a modern tudományok szerint igenis osztható a belső hangom, ami vagy determinisztikusan vagy randomra dönt (de NEM szabadon), és ezért egy gépi algoritmus akár sokkal jobban is ismerhetne, mint én magam (ha meglenne a megfelelő eszközkészlete és adatmennyisége)
     - na, hát mostanában pont efelé haladunk
     - és így lesz a filozófia, a meditáció és a pszichoanalízis helyett biometrikus adatgyűjtés és automatikus kiértékelés
-        - ezek alapján pedig az egy autentikus hang megint könnyen válhat többfelé a különböző szerveink érdekei alapján
-        - "I may stop searching for my inner voice, and instead consult my inner genetic parliament."
     - de hát ha egyszer gyakrabban lesz igazuk, mint nekünk, akkor hülyék lennénk nem hallgatni rájuk
         - "The system will never know me perfectly, and will never be infallible. But there is no need for that. Liberalism will collapse on the day the system knows me better than I know myself. Which is less difficult than it may sound, given that most people don’t really know themselves well."
     - és így "hiába" marad meg az ember, ha közben összeolvad egy nagy katyvasznyi elektromechanikus jelbe és biológiai génhalmazba, amit algoritmusok vezérelnek
@@ -491,26 +313,7 @@ Azt mondjuk, hogy az eddigiek fényében az emberiség valószínűleg ebbe az i
     - ebbe is belebukhat a liberalizmus
     - és akár egy teljesen új "faj" is létrejöhet, legalább annyira a mostani képességeink felett lesz, mint amennyire a Neander völgyi alatta
 
-### A tudat óceánja
 
-- két nagy irányzat a jövő vallására:
-    - techno-humanizmus (ebben a fejezetben)
-    - adat-vallás (a következőben)
-- ha a kognitív forradalomnál egy minimális DNS mutáció elég volt, hogy egyszerű majmokból a világ urai legyünk
-    - akkor egy kis rásegítéssel elhozhatnánk egy második kognitív forradalmat is, nem?
-    - lépést kell valahogy tartani a gépekkel, ha relevánsak akarunk maradni
-- ahogy ott megnyílt az interszubjektív régió, hátha most majd valami még újabb jön
-    - de még a mostani mentális állapotainkról is vajmi keveset tudunk -- hát még arról, hogy mi jöhet még...
-    - leginkább csak a betegségek (szub-normatív) és a nyugati/művelt/ipari/gazdag/demokratikus (WEIRD) részekről
-        - és akkor még az állatokat nem is érintettük -- akiktől valószínűleg lemaradunk legalább ebben-abban
-- egyre közelebb kerülünk ahhoz, hogy ebbe a folyamatba mi is belepiszkáljunk
-    - csak aztán majd jó irányba piszkálunk-e...
-    - egyrészt azt sem tudjuk, hogy merre menjünk
-    - másrészt valszeg itt is a gazdasági és politikai érdekek fognak szerepet kapni
-        - figyelj jobban és dolgozz gyorsabban... ja, hogy közben már nem érzel olyan mélyen és szürkébbek lettek a napjaid? ki nem szarja le...
-- a másik nagy probléma, hogy ugye a humanista vallás szerint az "egy igaz belső hangunk" az isten, azt kell követni
-    - de mi lesz, ha már az is állítgatni tudjuk, hogy mit mondjon a belső hang?
-    - akkor onnantól kinek a kezében van a morális felelősség?
 
 ### Az adat vallás
 
