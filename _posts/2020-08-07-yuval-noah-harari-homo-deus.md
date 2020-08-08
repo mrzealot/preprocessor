@@ -127,7 +127,7 @@ Szóval itt nem mondjuk, hogy ez így lesz.
 Azt mondjuk, hogy az eddigiek fényében az emberiség valószínűleg ebbe az irányba indul.
 És aztán ha ennek a jóslatnak a hatására már majd odafigyelnek, akkor ez van.
 
-
+<br />
 
 
 
@@ -220,7 +220,7 @@ Az megint más kérdés, hogy ezt ők egy erős faji alapú megkülönböztetés
 Szóval remélhetőleg látjuk, hogy extrém esetekben mindenből lehet gond -- de azért az alapötletekből van mit tanulni.
 A közös szál pedig végig jelen van: az ember az élet jelentésének forrása.
 
-
+<br />
 
 
 
@@ -282,66 +282,49 @@ Akkor onnantól kinek a kezében van a morális felelősség?
 <br />
 
 Ha a laborokról a gépekre fordítjuk a tekintetünket, akkor sem rózsás a helyzet.
-- márpedig a hétköznapokban az ember igencsak "veszti az értékét"
-    - eddig az intelligencia és az öntudat kéz a kézben jártak
-    - és mindegy is volt, hogy melyik a fontosabb, mert úgyis csak az ember tudta mindkettőt hozni
-    - de manapság a gépek behoznak, és lassan le is hagynak intelligencia téren
-    - lehet, hogy öntudatuk még ugyanúgy nincs, mint ahogy eddig se volt
-    - de az extra intelligencia miatt meglátszik, hogy arra a hadseregnek vagy a szabad piacnak nincs is igazán szüksége!
-- még a végén ott kötünk ki, hogy mi a fenét is kezdjünk majd azzal a sok felesleges emberrel :)
-    - szép fokozatosan a mezg, az ipar, és most már a szolgáltatási szektor is gépiesítés "áldozata" lesz
-    - sőt, igazából még a művészetet sem tekinthetjük egyedülállóan "emberi" tevékenységnek
-    - vagyis 1) fennáll a veszélye, hogy teljesen haszontalanok leszünk
+Mondjuk úgy, hogy az ember igencsak "veszti az értékét".
+Eddig az intelligencia és az öntudat kéz a kézben jártak, ezért mindegy is volt, hogy melyik a fontosabb -- úgyis csak az ember tudta mindkettőt produkálni.
+De manapság a gépek behoznak, és lassan le is hagynak minket intelligencia téren.
+Lehet, hogy öntudatuk még ugyanúgy nincs (mint ahogy eddig se volt), de az extra intelligencia miatt meglátszik, hogy öntudatra a hadseregnek vagy a szabad piacnak nincs is igazán szüksége!
 
-2) ha nem is leszünk azok, mert valamiért kellenek majd emberek, akkor is lehet, hogy az egyéniség közben elveszik
-    - a liberalizmus szerint van egy oszthatatlan belső hangom ami szabad, ezért én ismerem magam a legjobban
-    - de a modern tudományok szerint igenis osztható a belső hangom, ami vagy determinisztikusan vagy randomra dönt (de NEM szabadon), és ezért egy gépi algoritmus akár sokkal jobban is ismerhetne, mint én magam (ha meglenne a megfelelő eszközkészlete és adatmennyisége)
-    - na, hát mostanában pont efelé haladunk
-    - és így lesz a filozófia, a meditáció és a pszichoanalízis helyett biometrikus adatgyűjtés és automatikus kiértékelés
-    - de hát ha egyszer gyakrabban lesz igazuk, mint nekünk, akkor hülyék lennénk nem hallgatni rájuk
-        - "The system will never know me perfectly, and will never be infallible. But there is no need for that. Liberalism will collapse on the day the system knows me better than I know myself. Which is less difficult than it may sound, given that most people don’t really know themselves well."
-    - és így "hiába" marad meg az ember, ha közben összeolvad egy nagy katyvasznyi elektromechanikus jelbe és biológiai génhalmazba, amit algoritmusok vezérelnek
-        - és ez nem feltétlen "rossz"... csak már egyáltalán nem liberális, ahol az ember a szent
+Ha ezt előrevetítjük a jövőre, három kimenet elképzelhető:
 
-3) tegyük fel, hogy tényleg maradnak emberek, aki "kiismerhetetlenek" lesznek a gépeknek, és így megmaradhat az egyéniségük
-    - ez viszont csak ahhoz fog hozzásegíteni, hogy a társadalmi egyenlőtlenség még jobban szétnyíljon
-    - oké, gazdaságilag a liberalizmusba is be van építve... de ott azért "igazi" biológiai különbségek nincsenek az emberek között
-        - ez viszont nincs kőbe vésve, és idővel megváltozhat
-    - eddig inkább a mínuszból akartuk felhozni a betegeket a nullára
-    - de mostanában egyre inkább az egészségeseket akarjuk még tovább fejleszteni
-    - és ha már a hadipar és a gazdaság sem a tömegeken, hanem a felső réteg teljesítményén múlik, akkor miért is fáradozzunk azzal, hogy azt a sok mínuszost felhozzuk a nullára, ha cserébe egy pár embert tovább is fejleszthetünk
-    - ebbe is belebukhat a liberalizmus
-    - és akár egy teljesen új "faj" is létrejöhet, legalább annyira a mostani képességeink felett lesz, mint amennyire a Neander völgyi alatta
+1. Ott kötünk ki, hogy mi a fenét is kezdjünk majd azzal a sok felesleges emberrel.
+Szép fokozatosan a mezőgazdasági, az ipar, és most már a szolgáltatási szektor is gépiesítés "áldozata" lesz.
+Sőt, a gépi tanulás friss áttörései miatt igazából már a művészetet sem tekinthetjük egyedülállóan "emberi" tevékenységnek.
+A lényeg, hogy a tudomány jelenlegi tendenciái alapján a biomechanikus (értsd, emberi) és az elektronikus (értsd, gépi) "algoritmusok" igazából ugyanolyan algoritmusok, csak más kivitelben...
+És ha az elektronikusak valaha is teljesen ki tudják váltani az emberieket, akkor onnantól bizony könnyen haszontalanná válhatunk...
+
+2. Tegyük fel, hogy nem leszünk haszontalanok -- mert mondjuk valamiért továbbra is kellenek majd emberek.
+Akkor is lehet, hogy az egyéniség közben elveszik.
+A liberalizmus szerint (ismétlésként) van egy oszthatatlan belső hangom ami szabad, ezért én ismerem magam a legjobban.
+De a modern tudományok szerint igenis osztható a belső hangom, ami vagy determinisztikusan vagy véletlenszerűen dönt (de **nem** szabadon).
+Ebből viszont következik, hogy egy gépi algoritmus akár sokkal jobban is ismerhetne, mint én magam -- ha meglenne a megfelelő eszközkészlete és adatmennyisége.
+Na, hát mostanában pont efelé haladunk.
+
+    Így lesz a filozófia, a meditáció és a pszichoanalízis helyett biometrikus adatgyűjtés és automatikus kiértékelés.
+    És így olvad majd össze az ember egy nagy katyvasznyi elektromechanikus jelbe és biológiai génhalmazba, amit algoritmusok vezérelnek.
+    De hát ha egyszer gyakrabban lesz igazuk, mint nekünk, akkor hülyék lennénk nem hallgatni rájuk.
+    Szóval ez nem feltétlen lenne "rossz"... csak már egyáltalán nem liberális, ahol az ember a szent.
+
+    > A rendszer soha nem ismer majd tökéletesen, és soha nem lesz tévedhetetlen. De arra nincs is szükség. A liberalizmus már aznap elbukik, amint a rendszer _jobban_ ismer mint én magamat. Ami nem is lesz olyan nehéz mint ahogy hangzik, tekintve hogy a legtöbb ember nem igazán ismeri magát.
+    > > The system will never know me perfectly, and will never be infallible. But there is no need for that. Liberalism will collapse on the day the system knows me better than I know myself. Which is less difficult than it may sound, given that most people don't really know themselves well.
+
+3. Tegyük fel, hogy tényleg lesznek emberek, akik "kiismerhetetlenek" a gépek számára, és így megmaradhat az egyéniségük.
+Ez viszont csak ahhoz fog hozzásegíteni, hogy a társadalmi egyenlőtlenség még jobban szétnyíljon
+Oké, gazdaságilag valamennyire a liberalizmusba is be van építve...
+De ott azért "igazi" biológiai különbségek nincsenek az emberek között.
+Ez viszont nincs kőbe vésve, és idővel megváltozhat!
+
+    Eddig inkább a mínuszból akartuk felhozni a betegeket a nullára.
+    De mostanában egyre inkább az egészségeseket akarjuk még tovább fejleszteni.
+    És ha már a hadipar és a gazdaság sem a tömegeken, hanem a felső réteg teljesítményén múlik, akkor miért is fáradozzunk azzal, hogy azt a sok mínuszost felhozzuk a nullára -- ha cserébe egy pár embert a nulláról a "pluszba" emelhetünk?
+    Akár egy teljesen új "faj" is létrejöhet így, ami legalább annyira a mostani képességeink felett lesz, mint amennyire a Neander völgyi alatta volt.
+    És nekünk _többieknek_ ez valószínűleg nem lesz kellemes.
+
+<br />
 
 
-
-### Az adat vallás
-
-- itt pedig az a lényeg, hogy a biomechanikus és az elektronikus "algoritmusok" igazából ugyanolyan algoritmusok, csak más kivitelben...
-    - és ha egyszer az elektronikusak behozzák (és lehagyják) az emberieket, akkor onnantól bizony nagy bajban leszünk...
-- mindent az adat-áramlás és adat-feldolgozás szemszögéből nézünk
-    - kb. kapitalizmus == elosztott számítás vs. kommunizmus == centrális számítás
-- manapság már még durvább víziókat is meg lehetne valósítani, mint a régi kommunistáknak/náciknak voltak
-    - de ehelyett a modern diktátorok még mindig csak az atombombák szintjén nyomorognak
-    - "that is so 1945."
-    - ebből is látszik, hogy az adatfeldolgozás sebessége fogja meghatározni a jövőbeli gazdasági/politikai rendszereket
-    - nem mondjuk, hogy visszamegyünk a diktatúrákhoz... de könnyen lehet, hogy a demokratikus intézmények is elavulttá válnak
-- a legfőbb jó az információ áramlás, a rossz az áram blokkolása
-    - az egész történelem magyarázható az emberi faj "számítási kapacitásának" növelésével
-        - kognitív forradalom == korlátlan kapcsolódási képesség (az inter-szubjektív szférán keresztül)
-        - mezg forradalom == több kaja == több ember == több processzor
-        - írás és pénz == szorosabb kapcsolat a processzorok között
-        - tudományos forradalom == még szorosabb kapcsolat + szabad infó áramlás
-- persze ez nem garancia, hogy jó
-    - pl. ki mondja, hogy az univerzumban tényleg minden a döntésekről szól
-    - vagy hogy az érzéseink csak döntés-segítő algoritmusok
-    - de hát a kereszténységet vagy a kommunizmust sem akadályozta meg, hogy a tévedései ellenére igencsak elterjedjen
-
-- ha hosszabb távon akarunk gondolkozni, akkor ezek lesznek a nagy problémák valószínűleg:
-
-1. Science is converging on an all-encompassing dogma, which says that organisms are algorithms, and life is data processing.
-2. Intelligence is decoupling from consciousness.
-3. Non-conscious but highly intelligent algorithms may soon know us better than we know ourselves.
 
 
 
@@ -369,11 +352,28 @@ Ha a laborokról a gépekre fordítjuk a tekintetünket, akkor sem rózsás a he
 
 ## Összefoglalás
 
-- "Historians study the past not in order to repeat it, but in order to be liberated from it."
-    - nem is főleg jósolni próbálunk, hanem az eddigieket számba véve meglátni, hogy egyáltalán mik a lehetőségeink
-    - hátha így jobban sikerülne kitörni abból az mederből, amibe születtünk
-        - mind természetesnek vesszük a körülményeinket
-        - és csak egy valag tanulással/olvasással/utazással/stb. nyílik ki a szemünk
-    - egy path-dependence lecke a pázsitokon keresztül
-        - "This was when a new rite was added to the suburban liturgy." --> eljutott a középosztályhoz is
-        - "You are of course still free to do it. But you are also free to shake off the cultural cargo bequeathed to you..."
+Gyorsan átfutottuk tehát, hogy mi is emelt minket az állatok (és az istenek!) fölé, illetve hogy ez az új hatalom milyen hátulütőkkel járhat számunkra a jövőben.
+De itt nem is főleg jósolni próbálunk, hanem inkább az eddigieket számba véve meglátni, hogy egyáltalán mik a lehetőségeink.
+
+> A történészek nem azért tanulják a múltat, hogy megismételjék, hanem hogy megszabadulhassanak tőle.
+> > Historians study the past not in order to repeat it, but in order to be liberated from it.
+
+Vagyis egy ilyen áttekintés haszna az, hogy utána talán jobban sikerülhet kitörni abból az mederből, amibe születtünk.
+Elvégre mindannyian természetesnek vesszük a körülményeinket.
+De ha emellé (egy valag tanulás/olvasás/utazás/stb. árán) nem keresünk alternatívákat, akkor úgy is maradunk.
+Ezt nevezzük [útfüggőségnek](https://hu.wikipedia.org/wiki/%C3%9Atf%C3%BCgg%C5%91s%C3%A9g){:target="_blank"}, amire a szerző a pázsitokon keresztül hoz egy szemléletes példát.
+
+A pázsit ugye objektív szempontból egy teljesen haszontalan dolog.
+Sok vele a munka, jelentős költségekkel járhat, és cserébe a kinézetén felül semmit nem ad.
+De a régi királyi/főúri rétegeknek pont ez volt a lényeg!
+Így tudták a világ felé közölni, hogy nekik annyi pénzük és hatalmuk van, hogy még ezt is megtehetik egy kis plusz esztétika érdekében.
+
+Na de ha a királynak ilyen van, akkor a kisebb uraknak is ilyen kell, mert státusz szimbólum.
+Aztán már a tehetősebb polgároknak is ez lett, mert az uraknak kell utánozni...
+És végül (kiszámíthatóan) így került zöld téglalap a középosztály kertvárosi házai elé.
+Erről (és az ilyen dolgokról) pedig nagyon is fontos beszélni.
+Na persze nem azért, hogy utána ne legyen pázsitunk -- az senkit nem érdekel.
+Hanem azért, hogy egyáltalán tisztában legyünk vele: a pázsit nem kötelező!
+
+> Ettől még csinálhatod ugyanúgy, mint eddig. De emellett le is rázhatod a kulturális terhet, amit örököltél...
+> > You are of course still free to do it. But you are also free to shake off the cultural cargo bequeathed to you...
