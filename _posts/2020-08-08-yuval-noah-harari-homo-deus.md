@@ -360,7 +360,7 @@ De itt nem is főleg jósolni próbálunk, hanem inkább az eddigieket számba v
 > A történészek nem azért tanulják a múltat, hogy megismételjék, hanem hogy megszabadulhassanak tőle.
 > > Historians study the past not in order to repeat it, but in order to be liberated from it.
 
-Vagyis egy ilyen áttekintés haszna az, hogy utána talán jobban sikerülhet kitörni abból az mederből, amibe születtünk.
+Vagyis egy ilyen áttekintés haszna az, hogy utána talán jobban sikerülhet kitörni abból a mederből, amibe születtünk.
 Elvégre mindannyian természetesnek vesszük a körülményeinket.
 De ha emellé (egy valag tanulás/olvasás/utazás/stb. árán) nem keresünk alternatívákat, akkor úgy is maradunk.
 Ezt nevezzük [útfüggőségnek](https://hu.wikipedia.org/wiki/%C3%9Atf%C3%BCgg%C5%91s%C3%A9g){:target="_blank"}, amire a szerző a pázsitokon keresztül hoz egy szemléletes példát.
