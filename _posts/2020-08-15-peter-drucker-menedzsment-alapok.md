@@ -14,7 +14,10 @@ Ezen a héten megismerjük belőle az általános menedzsmenttel kapcsolatos ala
 
 A tartalom a következőképp alakul:
 
-
+- [Bevezetés](#1)
+- [Menedzsment áttekintés](#2)
+- [Létező vállalkozások menedzsmentje](#3)
+- [Új vállalkozások menedzsmentje](#4)
 
 <br />
 
@@ -42,40 +45,38 @@ A tartalom a következőképp alakul:
 
 
 
-## Miért fontos ez?
+## <a name="1"></a>Bevezetés
 
-- modern karrier pálya miatt sokan ilyen helyzetben köthetünk ki
-    - és ide már nagyon **nem** az kell majd, ami miatt itt kötöttünk ki, szóval érdemes legalább az alapokkal tisztában lenni
-- az eredményesség-központú szemlélet alapjában véve nem sokban tér el a vállalat vagy az egyén szintjén
-    - szóval ha magunkat kordában akarjuk tartani, akkor innen sok minden újrahasznosítható lesz
+Nem is olyan régen ez a fogalom még nem is létezett.
+A nagyobb cégek is max pár száz fősek voltak, és azok is képzetlen munkásokból álltak.
+Manapság viszont mélyen specializált (és ezért nagyon különböző) emberek is együtt tudnak működni, közös célok érdekében.
+Na erre való a menedzsment.
 
-- nem is olyan régen ez a fogalom még nem is létezett
-    - a nagyobb cégek is max pár száz fősek voltak, és az is képzetlen munkásokból állt
-    - manapság viszont mélyen specializált (és ezért nagyon különböző) emberek is együtt tudnak működni, közös célok érdekében
-    - na erre való a menedzsment
-- nyilván ehhez kell az a sok tudás is, amit menet közben a társadalom magára szedett
-    - de menedzsment nélkül az a sok tudás kb. olyan lenne, mint régen is volt: fitogtatnivaló luxus
-    - most viszont ezen áll vagy bukik minden modern gazdaság
-- a szerkezetet először a seregről mintázták
-    - de aztán maga a menedzsment is szép fokozatosan megreformálódott, ahogy egyre jobban "ésszel" csinálták
-    - illetve azt is a háború (2.vh) mutatta meg, hogy egy jól menedzselt "vállalkozás" milyen nagy előnyt jelenthet (USA, fegyverek)
-- újítás és menedzsment, kéz a kézben
-    - ha nincs menedzsment, akkor eleve be sem indul semmi
-    - ha pedig utána nincs újítás, akkor beborul (hiába indult már be)
-- a lényeg, hogy az embereket együttműködésre késztessük
-    - közös célok, amiket mindenki tud, és amikben mindenki hisz
-    - megértetni mindenkivel, hogy mit várunk tőlük, és hogy ők mit várhatnak másoktól
-    - olyan szervezés, hogy mindenki a tudásának megfelelően tehessen ehhez hozzá
-        - és az esetleges hiányosságai ne számítsanak
-    - mérni, hogy hogy állunk, és folyamatosan javítani rajta
-- nem skatulyázható be sem "humánnak", sem "reálnak" (sem tudománynak, sem művészetnek)
-    - gyakorlati alkalmazással foglalkozik, és az eredmények mutatják a minőségét, ezért tudomány
-    - de emberekkel, az értékrendjükkel, és a fejlődésükkel is foglalkozik, ami miatt pedig "humán"
-    - itt mindent egyszerre használunk az eredmények érdekében
+Nyilván ehhez kell az a sok tudás is, amit menet közben a társadalom magára szedett (hiszen nagyon nem ott tartunk már, mint az ipari forradalom gyári munkásai).
+De menedzsment nélkül az a sok tudás kb. olyan lenne, mint régen is volt: fitogtatnivaló luxus.
+Most viszont ezen áll vagy bukik minden modern gazdaság.
 
+Dióhéjban annyi az egész, hogy az embereket együttműködésre késztessük.
+Ehhez első sorban közös célok kellenek, amiket mindenki tud, és amikben mindenki hisz.
+Meg kell értetni az emberekkel, hogy mit várunk tőlük, és hogy ők mit várhatnak másoktól.
+Emellé jön az olyan szervezés, hogy mindenki a tudásának megfelelően tehessen hozzá ehhez a közös célhoz -- és hogy az esetleges hiányosságai ne számítsanak az összképbe.
+Végül pedig mérni kell, hogy hogyan is állunk, és folyamatosan javítani rajta.
 
+A terület nem skatulyázható be sem "humánnak", sem "reálnak" (vagyis sem tudománynak, sem művészetnek).
+Gyakorlati alkalmazással foglalkozik, és az eredmények mutatják a minőségét, ezért tudomány.
+De emberekkel, az értékrendjükkel, és a fejlődésükkel is foglalkozik, ami miatt pedig "humán".
+Itt mindent egyszerre használunk az eredmények érdekében.
 
+És hogy ez mind miért is fontos a mi szemszögünkből?
+Egyrészt a modern karrier pálya miatt sokan ilyen helyzetben köthetünk ki.
+Lehet, hogy a "lövészárkokban" kezdjük az alacsonyabb szintű, manuális munkákkal, de a specializálódás és a tapasztalat okán könnyen előfordulhat egy menedzsment pozíció a jövőnkben.
+Ide pedig már nagyon **nem** az kell majd, ami miatt itt kötöttünk ki, szóval érdemes legalább az alapokkal tisztában lenni.
 
+Másrészt az eredményesség-központú szemlélet alapjában véve nem sokban tér el a vállalat vagy az egyén szintjén.
+Ha megtanuljuk koncentrálni az erőforrásainkat a mérhető fejlődés érdekében, akkor a cég mellett a saját életünket is ugyanúgy gatyába rázhatjuk.
+Szóval akkor is érdemes legalább magas szinten képben lenni, ha "csak" magunkat próbáljuk kordában tartani -- hiszen sok minden újrahasznosítható lesz...
+
+<br />
 
 
 
@@ -93,11 +94,12 @@ A tartalom a következőképp alakul:
 
 
 
-## Menedzsment áttekintés
+## <a name="2"></a>Menedzsment áttekintés
 
-- egy vállalkozás önmagában nem cél, csak egy eszköz
-    - azt kell nézni, hogy mik a céljai, és azokat hogyan érheti el
-    - hasonlóan a menedzsment sem önmagáért való, hanem hogy segítsen ezeket a célokat elérni a vállalkozásnak
+Egy vállalkozás önmagában nem cél, csak egy eszköz.
+Azt kell nézni, hogy mik a céljai, és azokat hogyan érheti el.
+Hasonlóan a menedzsment sem önmagáért való, hanem hogy segítsen ezeket a célokat elérni a vállalkozásnak.
+
 - három nagy cél:
     1. meghatározni a célokat
         - egy üzleti vállalkozásban pl. a gazdasági teljesítmény a mérvadó
@@ -110,10 +112,11 @@ A tartalom a következőképp alakul:
         - de munkát is ad, adót is fizet, de akár szennyez is
         - fontos, hogy legyen jó főnök és jó szomszéd
 
-### 3. Egy cég céljai
+Az első nagy feladat tehát (nem meglepően) a célok pontos meghatározása.
+És itt kezdjük is rögtön az egyik legfontosabb tanulsággal: a végcél **nem** a profit!
+Az csak méri, hogy jó célt (és jól) elégít-e ki a cég.
+A cél "vevőket gyártani".
 
-- a végcél NEM a profit, az csak méri, hogy jó célt (és jól) elégít-e ki a cég
-- a cél "vevőket gyártani"
 - és ehhez pedig (csak) két funkció kell: marketing és innováció
     - marketing != eladás... inkább annyira úgy kell belőni a terméket a vevők igényeihez, hogy az magát adja el
     - innováció != feltalálás... lehet szociális vagy gazdasági újítás is, mint pl. új piacot találni valaminek, vagy egy új használati lehetőséget
@@ -167,6 +170,7 @@ A tartalom a következőképp alakul:
 - etikai szempontból elég az orvosi eskü szerint "tudatosan nem kárt okozni"
     - már ezt is nehezebb lesz betartani, mint gondolnánk!
 
+<br />
 
 
 
@@ -190,8 +194,7 @@ A tartalom a következőképp alakul:
 
 
 
-
-## Létező vállalkozások menedzsmentje
+## <a name="3"></a>Létező vállalkozások menedzsmentje
 
 - az (esetlegesen tudatalatti) alapfeltevések itt sokkal fontosabbak, mint a természettudományoknál
     - mert ott ha tévedünk, attól a természet nem változik
@@ -251,6 +254,9 @@ A tartalom a következőképp alakul:
 
 ### 10. A vállalkozó vállalat
 
+- újítás és menedzsment, kéz a kézben
+    - ha nincs menedzsment, akkor eleve be sem indul semmi
+    - ha pedig utána nincs újítás, akkor beborul (hiába indult már be)
 - az innováció nem csak egy ilyen "hirtelen becsap a géniusz" pillanat
     - hanem, mint ahogy a művészet háborúja is mondta, kemény munka (és majd akkor talán a múzsa is megszáll)
 - szóval nem a cégek mérete nyomja el az innovációt, hanem az, ha nem veszik komolyan, feladatként
@@ -285,7 +291,7 @@ A tartalom a következőképp alakul:
 
 
 
-## Új vállalkozások menedzsmentje
+## <a name="4"></a>Új vállalkozások menedzsmentje
 
 - a nagyoknál a vállalkozás volt a kulcsszó, az újaknál a menedzsment
 - 4 fontos dolog
