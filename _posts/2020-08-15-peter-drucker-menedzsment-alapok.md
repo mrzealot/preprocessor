@@ -50,7 +50,7 @@ A tartalom a következőképp alakul:
 ## <a name="1"></a>Bevezetés
 
 Nem is olyan régen a "menedzsment" fogalma még nem is létezett.
-A nagyobb cégek is max pár száz fősek voltak, és azok is képzetlen munkásokból álltak.
+A nagyobb cégek is legfeljebb pár száz fősek voltak, és azok is képzetlen munkásokból álltak.
 Manapság viszont mélyen specializált (és ezért nagyon különböző) emberek is együtt tudnak működni, közös célok érdekében.
 Na erre való a menedzsment.
 
@@ -76,7 +76,7 @@ Ide pedig már nagyon **nem** az kell majd, ami miatt itt kötöttünk ki, szóv
 
 Másrészt az eredményesség-központú szemlélet alapjában véve nem sokban tér el a vállalat vagy az egyén szintjén.
 Ha megtanuljuk koncentrálni az erőforrásainkat a mérhető fejlődés érdekében, akkor a cég mellett a saját életünket is ugyanúgy gatyába rázhatjuk.
-Szóval akkor is érdemes legalább magas szinten képben lenni, ha "csak" magunkat próbáljuk kordában tartani -- hiszen sok minden újrahasznosítható lesz...
+Szóval akkor is érdemes legalább magas szinten képben lenni, ha "csak" magunkat próbáljuk kordában tartani -- mondjuk mint egy egyszemélyes céget...
 
 <br />
 
@@ -115,7 +115,7 @@ A cél "vevőket gyártani".
 És ehhez pedig (csak) két funkció kell: marketing és innováció.
 
 - A marketing nem eladás -- inkább annyira úgy kell belőni a terméket a vevők igényeihez, hogy az magát adja el.
-- Az innováció pedig nem feltalálás -- lehet szociális vagy gazdasági újítás is, mint pl. új piacot találni valaminek, vagy egy új használati lehetőséget.
+- Az innováció pedig nem feltalálás -- lehet szociális vagy gazdasági újítás is, mint például új piacot találni valaminek, vagy egy új használati lehetőséget.
 
 Szóval az üzleti cél megfogalmazásához is a vevő szemszöge kell!
 Mit venne? Miért?
@@ -132,12 +132,12 @@ De ezekre a későbbi szekciókban még visszatérünk.
 
 Az (esetlegesen tudatalatti) alapfeltevések itt sokkal fontosabbak, mint a természettudományoknál.
 Mert ott ha tévedünk, attól a természet nem változik.
-De itt emberekről van szó, és ha rosszul gondolkozunk a menedzsmentjükről, akkor az önmegvalósító jóslattá válhat.
+De itt emberekről van szó, és ha rosszul gondolkozunk a menedzsmentjükről, akkor az önbeteljesítő jóslattá válhat.
 Íme tehát pár megkérdőjelezendő alapfeltevés:
 
 - A menedzsment szükségszerűen üzleti jellegű. 
 
-    A menedzsment = "üzleti menedzsment" feltevés onnan származik, hogy az egyéb menedzsmentek ágazatok átnevezték magukat "adminisztrációra" (mert az Amerikai Nagy Depresszió idején épp nem volt menő, ha bármi közük is van a "biznisszekhez").
+    A menedzsment = "üzleti menedzsment" feltevés onnan származik, hogy az egyéb menedzsment ágazatok átnevezték magukat "adminisztrációra" (mert az Amerikai Nagy Depresszió idején épp nem volt menő, ha bármi közük is van a "biznisszekhez").
     De ettől nagyrészt osztoznak az ottani elvekkel, problémákkal, megoldásokkal, stb.
     Csak legfeljebb a terminológia más.
 
@@ -174,28 +174,29 @@ Nem (csak!) azért kell tehát törődni a társadalmi aspektusokkal, mert az ú
 A cég szemszögéből is ez a fontos, mert ez (is) kell a túléléshez.
 
 Az első téma, hogy mit tesz a cég a társadalom<b>mal</b>.
-Az elkerülhetetlen mellékhatások (pl. szennyezés) esetén érdemes végiggondolni, hogy abból hogy lehetne lehetőség
-Például akár a melléktermékből is lehet egy teljesen új termék.
+Az elkerülhetetlen mellékhatások (például szennyezés) esetén érdemes végiggondolni, hogy abból hogy lehetne lehetőség.
+Mondjuk akár a melléktermékből is lehet egy teljesen új termék.
 Ha viszont tényleg extra költséggel/bajjal járna az orvosolás, akkor a látszat ellenére pont a menedzsment feladata lenne a politikai korlátozások kidolgozása és hirdetése.
 Különben ugyanis hátrányba kerülne a betartás miatt.
-De ettől még nem az lesz a jó megoldás, hogy homokba a fejet, mert az csak darabig fog menni.
+De ettől még nem az lesz a jó megoldás, hogy homokba a fejet, mert az csak egy darabig fog menni.
 Ha pedig a lakosság szemében borul a bili, azt nem köszönik meg.
 Inkább dolgozzanak azon, hogy másokra is "rákényszerítsék" ezt a közérdekű korlátozást, és akkor mind mellékhatásmentesen, de hátrány nélkül csinálhatják tovább a dolgukat.
 
 A másik téma (mostanában egyre gyakrabban) pedig az, hogy mit tehet a cég a társadalom<b>ért</b>?
 Hiszen attól, hogy valami nem a cég hibája, attól még fontos megpróbálni a javítást, mert a szerv sem lehet egészséges egy beteg testben.
-Persze itt is lehet új üzleti lehetőségeket megtalálni -- vagy legalább végiggondolni, és javaslatokat tenni.
+Persze itt is lehet új üzleti lehetőségeket találni -- vagy legalább végiggondolni, és javaslatokat tenni.
 De fontos, hogy csak akkor, ha:
 
 - Ez nem korlátozza a vállalat működését (mert az az elsődleges funkciója!),
 - Kompetensek benne (és nem csak kárt okoznak a beleugatással), és
 - Van "joguk" hozzászólni a témához.
 
-Etikai szempontból elég (az orvosi eskü mintájára) "tudatosan nem kárt okozni" -- de már ezt is nehezebb lesz betartani, mint gondolnánk!
+Etikai szempontból azonban sokszor elég (az orvosi eskü mintájára) "tudatosan nem kárt okozni".
+Már ezt is nehezebb lesz betartani, mint gondolnánk!
 
 #### Profit
 
-Ez láthatólag a legutolsó helyen szerepel, és a szociális aspektusok kezeléséhez hasonlóan szintén csak _túlélési feltétel_.
+A profit láthatólag a legutolsó helyen szerepel, és a szociális aspektusok kezeléséhez hasonlóan szintén csak egy _túlélési feltétel_.
 Ismétlésként tehát: nem az a cél, hogy minél magasabb legyen a profit.
 Az a cél, hogy **legalább** elég nagy legyen a profit ahhoz, hogy a többi célkitűzést teljesíteni tudjuk belőle.
 
@@ -244,7 +245,7 @@ Szóval ha az alatt keresünk, az még nem profit, hanem veszteség.
 
 Illetve megint előjön, hogy az lehet csak versenyképes, aki az egész folyamatot menedzseli, nem csak a maga kis szeletét.
 Ehhez persze nem feltétlen kell felvásárolni a beszállítókat...
-De kölcsönösen jövedelmező szerződések és megegyezések viszont kellenek!
+Kölcsönösen jövedelmező szerződések és megegyezések viszont kellhetnek!
 
 De a legfontosabb meglátás talán a költség-alapú árazás és az ár-alapú költség meghatározás közti különbség kiemelése.
 Ha tényleg a piac (a vevők) igényeit szeretnénk kielégíteni, akkor nem csak azt nézzük, hogy mit szeretnének, hanem hogy arra valószínűleg mennyit szánnának.
@@ -263,7 +264,7 @@ Itt a 3. a menedzser, és az ő-féle vízió és kohézió kell a célok elér�
 Az 1. a "jómunkásember", aki megteszi a dolgát...
 Irányítani kell, de aztán legalább megy is, amerre irányítják.
 A gond a 2. verzióval van, mert ott hajlamosak rá, hogy a munka látszólagos minősége (és a saját értékrendjük előtérbe helyezése) az összkép rovására menjen.
-Itt sajnos nem kicsit magamra ismertem
+Itt sajnos nem kicsit magamra ismertem.
 
 Ez a kis tanmese egyrészt jól szemlélteti, hogy nagyon nem mindegy, milyen embereket milyen pozíciókba helyez egy cég.
 És szögezzük le, hogy ez nem a felvett, hanem a _felvevő_ felelőssége!
@@ -287,7 +288,7 @@ Szóval a közhiedelemmel ellentétben nem a cégek mérete nyomja el az innová
 
 Az újat érdemes logikailag is külön kezelni, különben a régi mindig el fogja nyomni.
 Érthető, hiszen abban van a _mostani_ pénz/forgalom, az új pedig csak egy ígéret a jövőre nézve.
-Ha viszont nincs a kezdetektől valaki, aki vállalja érte a felelősséget, akkor el fog sorvadni -- és vele együtt idővel a vállalkozás is.
+Ha viszont nincs a kezdetektől valaki, aki vállalja érte a felelősséget, akkor el fog sorvadni -- és vele együtt idővel maga a vállalkozás is.
 
 <br />
 
@@ -330,9 +331,9 @@ Ezért inkább a menedzsment dolgokról kell prédikálni, különben nem lesz a
 
 Az elsődleges szempont a piac-fókusz.
 Létező igényeket próbáljunk kielégíteni, és ne "mi tudjuk jobban", ha olyanok érdeklődnek a termékeink után, akikre nem számítottunk.
-Ne felejtsük el, hogy a termékünk nem csak azoknak lehet jó, vagy csak arra a célra, amire tervezve lett!
+Ne felejtsük el, hogy a termékünk nem csak azoknak lehet jó, vagy csak arra a célra, amire terveztük!
 
-> A cégeket nem azért fizetik, hogy megreformálják a vevőket. Azért fizetik őket, hogy _kielégítsék_ a vevőket.
+> A cégeket nem azért fizetik, hogy megreformálják a vevőket. Azért fizetik őket, hogy **kielégítsék** a vevőket.
 > > Businesses are not paid to reform customers. They are paid to satisfy customers.
 
 Második az anyagi előrelátás, hiszen a növekedést finanszírozni kell valamiből.
@@ -341,7 +342,7 @@ Számoljunk úgy, hogy a bejövő összegek mindig késnek két hónapot, a kime
 
 Végül pedig időben gondolni kell a menedzsment **csapat** kialakítására.
 Előbb vagy utóbb az "egy ember kezében van minden" modell úgysem fog menni.
-És ha eddig várunk a menedzsment csapat kiépítésével, amíg épp szükség is lenne rá, akkor már késő.
+És ha addig várunk a menedzsment csapat kiépítésével, amíg épp szükség is lenne rá, akkor már késő.
 Szóval menet közben kell szétszórni a felelősségeket, és nem mindent magunknak akarni!
 
 Ezzel pedig szorosan összefügg az is, hogy megtaláljuk a saját helyünket a vállalkozáson belül.
@@ -375,7 +376,7 @@ Itt az anonimitás szinte előny, nem kell közismert márkanévvé válni.
 Ez lehet ár, de a vásárlás **módja** is!
 A lényeg (megint) a vásárló szemszögének figyelembe vétele.
 Átgondolni, hogy miért is fizet, és mikor.
-És amint jobban a vevő értékrendjéhez igazítjuk a szolgáltatást, az számára jobbnak fog tűnni -- még ha igazából a magja ugyanaz is maradt.
+És amint jobban a vevő értékrendjéhez igazítjuk a szolgáltatást, az számára jobbnak fog tűnni -- még ha igazából a magja ugyanaz maradt is.
 Nem az a minőség, amit mi beleteszünk, hanem amit a vevő kivesz belőle!
 
 
@@ -412,4 +413,4 @@ Szóval nagyon fontos a költségeink részletesebb átgondolása is!
 
 - A profit egy túlélési feltétel, nem pedig egy cél.
 Mint a cégek esetében, az életünkben is érdemes minél tisztábban lefektetni, hogy mit szeretnénk igazán elérni.
-Onnantól pedig "csak" annyi profit kell, ami lehetővé teszi, hogy afelé törekedjünk...
+Onnantól pedig "csak" annyi profit kell, ami lehetővé teszi, hogy afelé törekedhessünk...
