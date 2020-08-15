@@ -365,15 +365,15 @@ Lehet, hogy mindenkinek ez a "hagyományos vállalkozói szemlélete", de ennél
 2. Kreatív imitáció, ahol az alapötlet már megvan, de mi leszünk azok, akik tökéletesítik -- vagy találnak neki új/jobb piacot.
 
 3. Vállalkozói "judo", ahol olyan piaci szegmensbe törünk be, amit nem védenek.
-Vagyis olyan vevőket veszünk el másoktól, akik iránt a nagyokat nem is érdeklődtek.
-Ezzel viszont "megvetjük a lábunkat", és aztán onnan meg már előre törhetünk.
+Vagyis olyan vevőket veszünk el a nagyoktól, akik iránt ők nem is érdeklődtek.
+Ezzel viszont "megvetjük a lábunkat", ahonnan meg már előretörhetünk.
 
 4. Szándékosan egy szűk réteget megcélozni (niche), ami annyira kicsi, hogy egyből be is terítjük.
 Jó esetben ez annyira nem is ígér nagy hasznot, és ezért mások nem is nagyon akarnak érte versenyezni.
 Itt az anonimitás szinte előny, nem kell közismert márkanévvé válni.
 
 5. Végül pedig lehet olyan is, hogy magában a termékben semmi új nincs, csak abban, hogy ezt _hogyan_ nyújtjuk a felhasználók felé.
-Ez lehet ár, de a vásárlás **módja** is!
+Ez lehet az ár, de akár a vásárlás **módja** is!
 A lényeg (megint) a vásárló szemszögének figyelembe vétele.
 Átgondolni, hogy miért is fizet, és mikor.
 És amint jobban a vevő értékrendjéhez igazítjuk a szolgáltatást, az számára jobbnak fog tűnni -- még ha igazából a magja ugyanaz maradt is.
