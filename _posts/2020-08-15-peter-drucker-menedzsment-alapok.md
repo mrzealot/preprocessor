@@ -379,6 +379,7 @@ A lényeg (megint) a vásárló szemszögének figyelembe vétele.
 És amint jobban a vevő értékrendjéhez igazítjuk a szolgáltatást, az számára jobbnak fog tűnni -- még ha igazából a magja ugyanaz maradt is.
 Nem az a minőség, amit mi beleteszünk, hanem amit a vevő kivesz belőle!
 
+<br />
 
 
 
