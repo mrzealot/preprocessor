@@ -54,16 +54,16 @@ A tartalom a következőképp alakul:
 
 Az intelligencia, a tudás és a képzelőerő mind nagyszerű -- de csak a hatékonysággal konvertálhatók valami kézzel foghatóvá.
 Önmagukban maximum felső korlátnak jók, hogy mire lehetünk egyáltalán képesek.
-De ha nem csináljuk, akkor nem is lesz belőle semmi!
+De ha nem teszünk érte, akkor nem is lesz belőle semmi!
 
 > A kiváló képességű emberek gyakran látványosan eredménytelenek; [...] Soha nem tanulták meg, hogy a képesség csak kemény, szisztematikus munkán keresztül válik eredményekké.
 > > Brilliant men are often strikingly ineffectual; [...] They never have learned that insights become effectiveness only through hard systematic work.
 
-Régóta próbálunk ezért valahogy eredményeket kicsikarni a munkásokból, de menet közben a munka központja a kezünkből a fejünkbe került át.
+A menedzser réteg régóta próbál ezért valahogy eredményeket kicsikarni a munkásokból -- csak hát menet közben a munka központja a kezünkből a fejünkbe került át.
 Már pedig a manuális munka hatékonysági mutatói ott szart sem érnek.
 Nem az számít ugye, hogy milyen gyorsan evezünk, hanem hogy a jó irányba evezünk-e...
 
-Bizonyos értelemben mindenki "executive", akinek döntéseket kell hoznia (amik kihathatnak a teljes egész teljesítményére).
+Bizonyos értelemben ma már szinte mindenki "executive", akinek döntéseket kell hoznia (amik kihathatnak a teljes egész teljesítményére).
 És ebből a szemszögből a legalacsonyabb szintű tudás-alapú munkát végző ember is ugyanazokat a feladatokat végzi, mint a vezérigazgató.
 Persze sokkal limitáltabb hatókörben...
 De attól a feladatai szerkezete ugyanaz.
@@ -75,10 +75,10 @@ Ha hagyjuk, hogy elsodorjon az ár (vagyis, hogy a beömlő dolgok természete/s
 Emellett a tudásmunkának nincs direkt haszna, hacsak valaki nem hasznosítja.
 Szóval a hatékonysághoz az is hozzátartozik, hogy a mi eredményeink egyszer majd _tényleges_ eredményekké váljanak.
 
-Az emberek már kb. most is a tudás/intelligencia/kompetencia határán vannak; azon nem fogunk tudni jelentősen növelni.
+Az emberek már kb. most is a tudás/intelligencia/kompetencia határán vannak; azt nem fogjuk tudni jelentősen növelni.
 Viszont a nagyobb hatékonyság **sokkal** többet kihozhat ugyanezekből az emberekből is.
-A hatékonyság pedig tanulható -- többségében egyszerű gyakorlatokból áll.
-Utána már "csak" annyi a dolgunk, hogy ezeket csináljuk és csináljuk, amíg ösztönös reflex nem lesz belőlük.
+A hatékonyság pedig tanulható -- és többségében egyszerű gyakorlatokból áll.
+Utána már "csak" annyi a dolgunk, hogy ezeket a gyakorlatokat csináljuk és csináljuk, amíg ösztönös reflex nem lesz belőlük.
 
 <br />
 
@@ -110,7 +110,7 @@ Utána már "csak" annyi a dolgunk, hogy ezeket csináljuk és csináljuk, amíg
 Ahogy az általános menedzsereknél is áll (kis ismétlés): nem lefelé kell nézni, hanem fel -- vagy még inkább ki!
 Nem az a fontos, hogy "ennyi ember van alattam", vagy "ezzel foglalkozunk", vagy "erre megy el a sok energia"...
 Inkább az, hogy ennek mi értelme?
-Miért is éri az meg nekünk, hogy fizetünk?
+Miért is éri az meg nekünk, hogy fizetünk valamiért?
 Mi az az érték, amit mi hozzáadunk ehhez?
 
 Na ugyanígy kellene magunkhoz is hozzáállni: nem csak elfoglaltnak lenni, hanem az eredményekre koncentrálni!
@@ -130,7 +130,7 @@ Illetve hozzáadott értékek hajtják az önfejlesztést is -- annyi különbs�
 De akkor is szét kell választani magunkat egy "megrendelővé" és egy "beszállítóvá".
 Ha keveset várunk magunktól, akkor keveset is fogunk teljesíteni.
 Ha sokat, akkor sokat...
-És ez nem is feltétlen lesz nehezebb vagy kellemetlenebb -- csak máshogy állunk hozzá.
+És ez nem is feltétlen lesz nehezebb vagy kellemetlenebb -- csak máshogy fogunk hozzáállni.
 
 <br />
 
@@ -169,7 +169,6 @@ Ez alapján pedig jobban tudunk majd az erősségeinkre koncentrálni, elhagyni 
 
 Emellett az is fontos, hogy _hogyan_ tudjuk kihozni magunkból a maximumot.
 
-- Olvasók vagy hallgatók vagyunk inkább?
 - Olvasás, írás, hallás, vagy beszélés útján tanulunk a legkönnyebben?
 - Csapatban vagy önállóan dolgozunk jobban?
 - A stressz vagy a kiszámíthatóság hozza ki belőlünk a jobb teljesítményt?
@@ -179,7 +178,7 @@ Fontos, hogy ezeket a kérdéseket feltegyük magunknak, és aztán igyekezzünk
 Csak így várhatunk magunktól optimális teljesítményt!
 
 Illetve mondjuk úgy, hogy _nem mellékes_ az sem, hogy mi az értékrendünk.
-Lehet, hogy valamiben jók vagyunk, és tudunk is eredményeket produkálni -- de egyszerűen az nem egy olyan terület, amire az életünket szívesen áldoznánk.
+Lehet, hogy valamiben jók vagyunk, és tudunk is eredményeket produkálni -- de egyszerűen az nem egy olyan terület, amire az életünket szívesen rááldoznánk.
 Olyankor pedig az értékeinkre kell hallgatni, különben a gyors kiégés szinte garantált.
 
 Ezek a kérdések megválaszolásával meglepően jól és pontosan el tudjuk helyezni magunkat a világban.
@@ -219,6 +218,7 @@ Bezzeg a tudás-alapú munkáknál meg pont nem, ahol maguk az eredmények létr
 Gondoljunk csak bele: ha lassabban lapátolok, akkor hosszabb ideig tart majd ugyanaz a kupac -- de végül akkor is el lesz lapátolva!
 Ellenben ha egy mentális feladatnál nem jól vagy nem jó irányba gondolkozok, akkor lassabban sem lesz kész soha...
 
+Nagyon fontos tehát, hogy a jó dolgokra fordítsuk az időnket!
 Az elsődleges tipp, hogy nem a feladatokkal kell(ene) kezdeni, hanem az időnkkel:
 
 1. Mérni, hogy hova megy;
@@ -226,22 +226,23 @@ Az elsődleges tipp, hogy nem a feladatokkal kell(ene) kezdeni, hanem az időnkk
 3. Konszolidálni, hogy egyben legyenek a nagy(obb) blokkok.
 
 Kell tehát az aktív követés.
-**Nem** memóriából, hanem aktívan, frissen felírva, hogy mire mennyi ment.
+**Nem** memóriából, hanem ott helyben, frissen felírva, hogy mire mennyi ment.
 Ha nem is mindig, de egyszerre 2-3 hétig legalább; évente mondjuk kétszer.
 Kell a karbantartás, mert amint nem aktívan figyel az ember, rögtön elkezd elcsúszni.
 
 Ha megvan az időnaplónk, akkor jöhet a menedzsment rész.
 A szerző évtizedes tanácsadói tapasztalatai alapján:
 
-- Kb. a negyede tuti kidobható lesz, mert egy-az-egyben felesleges;
+- Kb. a negyede tuti kidobható lesz, mert egy-az-egyben felesleges dolgokra pazaroltuk eddig;
 - Még egy nagy adag áttolható lesz másra, hogy mi tényleg a **mi** dolgunkra tudjunk koncentrálni; és
-- Lehet olyan is, ahol mi pazaroljuk mások idejét... Ott is lehet majd vágni.
+- Előfordulhat olyan is, ahol mi pazaroljuk mások idejét... Ott is lehet majd vágni.
 
 Végül pedig jöhet a "konszolidáció" -- hiszen ha egy bizonyos minimumnál kisebb időszeletek vannak egyben, akkor az gyakorlatilag pazarlás.
 Vagyis nem csak az számít, hogy összesen mennyi időnk van valamire, hanem hogy azt mekkora darabokban tudjuk ráfordítani.
 Kocka informatikusként akár azt is mondhatnám, hogy tulajdonképpen "töredezettség-mentesíteni" kell az időbeosztásunkat.
 De nem ám a _többit_ írni be egy kupacba, hogy aztán a "maradék időben" tudjunk a fontossal foglalkozni!
 Mert így amint bejön valami "krízis" (és be fog!), akkor az a fontostól veszi el az időt.
+Nem...
 A megoldás: a nagy/fontos dolgot kell beírni az egybe időszeletünkbe, és a többit csinálni a maradékban, amikor csak tudjuk.
 
 <br />
@@ -290,7 +291,7 @@ De ha nem tudjuk, hogy mi az optimális, akkor szinte biztos, hogy nem is a jó 
 És ne feledjük: az is egy opció, hogy nem csinálunk semmit!
 Mérlegelni kell, hogy van-e értelme, várhatóan megéri-e a kockázatot, stb.
 Viszont ha egyszer döntöttünk, akkor vagy cselekedni kell, vagy nem...
-Nincs olyan, hogy félig vesszük ki a mandulát, és akkor csak fele akkora a komplikációk esélye!
+Az orvosoknál sincs olyan, hogy félig veszik ki a mandulát, és akkor csak fele akkora a komplikációk esélye!
 
 Ezek után jöhet a végrehajtás, ami egy-az-egyben [GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %}).
 Összefoglalva: a döntés **része** az is, hogy mik a lépések, kinek kell végrehajtani, és mikor.
@@ -340,10 +341,10 @@ A beszélő csak zajt csap, de ha azt a hallgató nem (vagy helytelenül) értel
 Ezért a mondanivalót mindig a hallgatóság szemszögéből, fogalomkészletével, és "szintjén" kell megfogalmazni!
 
 Ha nem így teszünk, akkor nem is az ellenállás lesz a legnagyobb problémánk, hanem hogy egyszerűen át sem megy az üzenet.
-Tény, hogy mindenki erősen ragaszkodik a saját világképéhez.
+Hiszen érthető, hogy mindenki erősen ragaszkodik a saját világképéhez.
 Ha mi pedig valami olyat mondunk, ami a másik világképével teljesen ellentétes, akkor az csak _zaj_.
-Ezért kell először megértenünk az ő világképét, és úgy tálalni a "mi igazságunkat", hogy az (talán!) áttörhessen.
-Ettől persze a másik félnek is akarni kell...
+Ezért kell először megértenünk az ő elképzeléseit, és aztán úgy tálalni a "mi igazságunkat", hogy az (talán!) áttörhessen.
+Ettől persze a kommunikáció továbbra is egy két oldalú játszma; a másik félnek is akarni kell...
 De ha akarja, akkor létrejöhet egy igazi "beszélgetés", egy véleménycsere.
 
 Sem a "fentről lefelé", sem a "lentről felfelé" kommunikáció nem fog működni, mert mindkettő azt feltételezi, hogy a beszélő számít.
@@ -392,7 +393,7 @@ A vezetői szerep munka, felelősség, és a _kiérdemelt_ bizalom köré épül
 
 - **Munka**, ahol az egységes célt és víziót kell hirdetnünk.
 Illetve nyilván testesítsük is meg, amit a többiektől elvárunk.
-De ez ugye nem a hangzatos beszédekről, hanem az eredményesség szól.
+De ez ugye nem a hangzatos beszédekről, hanem az eredményességről szól.
 
 - **Felelősség**, ahol erős emberekkel vesszük körbe magunkat, és azokat is inkább egyre csak fejlesztjük.
 Ha vállaljuk a felelősséget a kudarcokért, akkor ezért cserébe a beosztottak sikereit is (jogosan) saját sikernek (is) élhetjük meg.
@@ -400,6 +401,8 @@ Ha vállaljuk a felelősséget a kudarcokért, akkor ezért cserébe a beosztott
 - **Kiérdemelt bizalom**, ahol pedig a konzisztencia a lényeg!
 Nem fontos, hogy egyetértsenek velünk, vagy hogy szeressenek -- de a követők megszerzéséhez látványosnak kell lennie, hogy tényleg azt csináljuk, amiről beszélünk.
 Az integritás idővel úgyis követőket vonz...
+
+Ha a munkamorál, a felelősségvállalás és a kiérdemelt bizalom adottak, akkor onnantól senkinek nem fog hiányozni az alfa kisugárzás.
 
 <br />
 
@@ -466,7 +469,7 @@ Ha nem, akkor viszont tessék tenni ellene!
 
 ## <a name="9"></a> Legyünk "művelt emberek"
 
-A tanult ember tudása régen olyan volt csak, mint egy dísznövény -- leginkább csak önmagáért való.
+A tanult ember tudása régen olyan volt, mint egy dísznövény -- leginkább csak önmagáért való.
 Manapság viszont már nem is kicsit számít!
 Ezért pedig nagyon nem mindegy, hogy milyen irányba terelgetjük az emberek oktatását.
 
