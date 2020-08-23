@@ -181,7 +181,7 @@ Illetve mondjuk úgy, hogy _nem mellékes_ az sem, hogy mi az értékrendünk.
 Lehet, hogy valamiben jók vagyunk, és tudunk is eredményeket produkálni -- de egyszerűen az nem egy olyan terület, amire az életünket szívesen rááldoznánk.
 Olyankor pedig az értékeinkre kell hallgatni, különben a gyors kiégés szinte garantált.
 
-Ezek a kérdések megválaszolásával meglepően jól és pontosan el tudjuk helyezni magunkat a világban.
+Ezeknek a kérdéseknek a megválaszolásával meglepően jól és pontosan el tudjuk helyezni magunkat a világban.
 A fő tanulság, hogy nem kell szupersztárnak lenni!
 Csak találni kell egy olyan hivatást, ami kompatibilis az erősségeinkkel, a munkamódszerünkkel, és az értékrendünkkel.
 És higgyük el, ott hirtelen szupersztárnak fogunk tűnni...
@@ -437,7 +437,7 @@ Szóval érdemes előre készülni az életünk második felére, hogy egy esetl
 Illetve gondolkodjunk **időben**, mert lehet, hogy az lesz a második fázis középpontja, de valamikor meg is kell alapozni...
 
 Ez persze nem kötelező azon keveseknek, akik tökéletesen kiteljesedhetnek és úgy érzik, hogy ez így is marad -- akinek nem inge, az ne vegye magára.
-De a többiek viszont inkább kezdjenek egy új karrierbe (vagy akár egy párhuzamos karrierbe), mint hogy hagyják magunkat szó szerint elsorvadni!
+De a többiek viszont inkább kezdjenek egy új karrierbe (vagy akár egy párhuzamos karrierbe), mint hogy hagyják magukat szó szerint elsorvadni!
 Fel kell ismernünk, hogy van választásunk -- és a választással együtt felelősségünk is.
 Ha jó így, akkor jó.
 Ha nem, akkor viszont tessék tenni ellene!
@@ -478,7 +478,7 @@ De a másik (humanista) tábor meg úgy megy az univerzális tudásra, hogy csak
 Az pedig nem lesz hasznos, ha a jelenre nem lehet alkalmazni (és vele a jövőt formálni)!
 Most sajnos ott tartunk, hogy mindkét irányzatból a legrosszabbat tartottuk meg: a magas szintű oktatás mélyen specializált, míg a korábbi általános oktatás szinte teljesen elszakadt a hétköznapi valóságtól.
 
-Ezért is fontosabb mint valaha, hogy képesek legyünk utólag kitágítani a saját horizontjainkat, és kipótolni az oktatásunk réseit.
+Ezért is fontosabb mint valaha, hogy képesek legyünk utólag kitágítani a saját horizontjainkat, és betömködni az oktatásunk réseit.
 Nem kell polihisztornak lenni, de azért megértés szintjén le kell fedni a valóságot, hogy aztán elhelyezkedhessünk benne!
 Mellesleg az újítások legtöbbször interdiszciplináris meglátásokból jönnek.
 De hát ahhoz ugye kellene legalább valami alap jártasság több diszciplínában, hogy esély legyen bármi "inter"-re...
@@ -515,7 +515,7 @@ Emellett néhány extra a fentiekből:
 - Az idő menedzsment ugyanúgy mérést követel, mint bármi, amit irányítani szeretnénk.
 Úgyhogy ideje őszintén szembenézni azzal, hogy hova is folynak a napok, és a céloknak megfelelően egy kicsit átszabni a programot.
 
-- A kommunikáció tekintetében az itt felvetett "mi" szemlélet messze túlmutat az hatékonyság témakörén.
+- A kommunikáció tekintetében az itt felvetett "mi" szemlélet messze túlmutat a hatékonyság témakörén.
 Az emberi (különösen a pár-) kapcsolatokban is a közös alap a lényeg, amin keresztül könnyebben megláthatjuk a másik nézőpontját.
 Akkor talán majd képesek leszünk úgy megfogalmazni a mondanivalónkat, hogy az át is jusson valahogy.
 
