@@ -4,15 +4,17 @@ title: George Patton - War As I Knew It
 pages: 448
 date: 2020-08-29 00:01
 excerpt: >
-    TODO
+    Folytatódnak a "második kör" párválasztásai, ahol ugye az első 20 közös olvasmányunkhoz keresünk hivatkozott, vagy legalábbis tematikusan jól illeszkedő társakat.
+    A héten Bill Walsh vezetői kézikönyve a kiindulási pont, ami szinte csak egyetlen könyvet említ (így újra nem volt nehéz a döntés).
+    Ez pedig nem más, mint George S. Patton amerikai tábornok háborús memoárja, amiből Walsh állítólag nagyon sokat tanult a vezetői szerepkörről.
 ---
 
 Folytatódnak a "második kör" párválasztásai, ahol ugye az első 20 közös olvasmányunkhoz keresünk hivatkozott, vagy legalábbis tematikusan jól illeszkedő társakat.
 A héten [Bill Walsh vezetői kézikönyve]({% post_url 2020-02-29-bill-walsh-the-score-takes-care-of-itself %}) a kiindulási pont, ami szinte csak egyetlen könyvet említ (így újra nem volt nehéz a döntés).
-Ez pedig nem más, mint [George S. Patton](https://hu.wikipedia.org/wiki/George_Patton){:target="_blank"} amerikai tábornok [háborús memoárja](https://www.goodreads.com/book/show/68634.War_as_I_Knew_It){:target="_blank"} volt, amiből Walsh állítólag nagyon sokat tanult a vezetői szerepkörről.
+Ez pedig nem más, mint [George S. Patton](https://hu.wikipedia.org/wiki/George_Patton){:target="_blank"} amerikai tábornok [háborús memoárja](https://www.goodreads.com/book/show/68634.War_as_I_Knew_It){:target="_blank"}, amiből Walsh állítólag nagyon sokat tanult a vezetői szerepkörről.
 
 Megmondom őszintén, alapból nem rajongok a katonai dolgokért -- de azért természetesen igyekeztem nyitottnak maradni az új nézőpontokra.
-Elöljáróban talán azt vártam tőle magasabb szintű tanulság gyanánt, hogy megmutatja a hősies eredmények hátterében rejlő hétköznapokat.
+Elöljáróban talán azt vártam tőle magasabb szintű tanulság gyanánt, hogy megmutatja a hősies teljesítmények hátterében rejlő hétköznapokat.
 Hiszen a nagyok esetében mind csak azt látjuk, hogy "Ú, micsoda eredmény!"...
 De mi csak az eredményt ismerjük és irigyeljük, az oda vezető (szükséges!) hétköznapokat már nem -- lehet, hogy ezért nem is jutunk egyről a kettőre.
 
@@ -72,13 +74,13 @@ Mindent idevettem, ami valamilyen szálon a vezetői szerepkörhöz kapcsolódik
 - Megjegyzi, hogy milyen nagyra értékelte, amikor ketten a hatékonyságukat és a sereg érdekeit vették a saját előremenetelük elé.
     Az egyik nem vállalt egy előléptetést, hogy az embereivel maradhasson.
     A másik pedig konkrétan kérte, hogy fokozzák le, hogy mások legyenek a teendői.
-    Nem mindenkivel kompatibilis egy "magasabb" szerep -- tudnunk kell hát, hogy hol és hogy vagyunk hatékonyak!
+    Nem mindenkivel kompatibilis egy "magasabb" szerep -- tudnunk kell tehát, hogy hol és hogyan vagyunk hatékonyak!
 
-- Az arabokkal való beszélgetések során kijön, hogy milyen fontos a diplomácia.
-    Mondjuk úgy, hogy egy tábornoknak nem **csak** a harchoz, hanem a békéhez is érteni kell.
-    Pár jó mondattal rengeteg későbbi kellemetlenség elkerülhető, ami rögtön [Baltasar Gracián]({% post_url 2020-07-10-baltasar-gracian-az-eletbolcsesseg-kezikonyve-1 %}) barátunkat juttatja eszembe: tisztán érdemmel is el lehet érni a dolgokat, de egy kis jóakarat mellett **sokkal** könnyebb lesz.
+- Az arabokkal való beszélgetések során kitűnik, hogy milyen fontos a diplomácia.
+    Mondjuk úgy, hogy egy tábornoknak nem **csak** a háborúhoz, hanem a békéhez is érteni kell.
+    Pár jó mondattal rengeteg későbbi kellemetlenség elkerülhető, ami rögtön [Baltasar Gracián]({% post_url 2020-07-10-baltasar-gracian-az-eletbolcsesseg-kezikonyve-1 %}) barátunkat juttatta eszembe: tisztán érdemmel is el lehet érni a dolgokat, de egy kis jóakarat mellett **sokkal** könnyebb lesz.
 
-- Diplomáciának számíthat az is, amikor nyílt üzenetet küldött az ellenségnek egy gyors győzelem után, miszerint (a saját szavaimmal) "Na, látjátok, megy ez... úgyhogy tessék megadni magatokat".
+- Diplomáciának számíthat az is, amikor nyílt üzenetet küldött az ellenségnek egy gyors győzelem után, miszerint (a saját szavaimmal) "Na, látjátok, megy ez... Úgyhogy tessék megadni magatokat".
     És ez nem csak üres fenyegetőzés, hanem őszintén igyekezett az bombázásokat **nem** bevetni, ha csak teheti (mert anélkül is megy).
     Inkább rabokat gyártsanak, mint hullákat.
 
@@ -88,7 +90,7 @@ Mindent idevettem, ami valamilyen szálon a vezetői szerepkörhöz kapcsolódik
 
 - A belső politikáról egy külön pont, mert az számomra teljesen kiborító volt.
     A folyamatos faszméregetés, az egymással versengés, és a sok egyéb "ki kit ismer" vagy "kinek mekkora befolyása van"...
-    Pattonék kb. 200%-on teljesítettek, de akkor ha onnantól nem lesz **220%**, akkor elveszik tőlük a sereg nagyját és állhatnak át védekező üzemmódba.
+    Pattonék kb. 200%-on teljesítettek, de erre ha onnantól nem lesz **220%**, akkor elveszik tőlük a sereg nagyját és állhatnak át védekező üzemmódba.
     Valamilyen szinten nyilván "elfogult" magától Pattontól hallani ezeket, de Jézus...
     Konkrétan neki kellett könyörögni, hogy megnyerhesse már a háborút!
 
@@ -100,12 +102,12 @@ Mindent idevettem, ami valamilyen szálon a vezetői szerepkörhöz kapcsolódik
     Patton a túlzott agyalás helyett odahajtott, belegázolt, és látta, hogy kb. térdig ér a víz!
     Az sem semmi, ahogy ezt utána közölte velük:
 
-    > Elismételtem nekik a Japán közmondást, miszerint "Egy pillantás száz jelentéssel is felér", és aztán megkérdeznem, hogy mi a picsáért nem mentek le a folyóhoz személyesen.
+    > Elismételtem nekik a Japán közmondást, miszerint "Egy pillantás száz jelentéssel is felér", és aztán megkérdeznem, hogy mi a picsáért nem mentek még le a folyóhoz személyesen.
     > > I repeated the Japanese proverb: "One look is worth one hundred reports," and asked them why in hell they had not gone down to the river personally.
 
 - Érdekes, hogy mennyi párhuzamot von (illetve, **tud** vonni) ókori csatákkal, manőverekkel, formációkkal.
     És ezt nem is csak a könyvben, hanem már ott a harcok közepette -- sok régi nagy tábornoktól idézget az embereinek, amikor illusztrálni akar valamit.
-    Az ilyen pedig hatásos, mert szemlélteti, hogy ezt "nem most találtam ki", ez egy régóta ismert alapelv, én most csak erre a helyzetre alkalmazzuk.
+    Az ilyen pedig hatásos, mert szemlélteti, hogy ezt "nem most találtam ki", ez egy régóta ismert alapelv, mi most csak erre a konkrét helyzetre alkalmazzuk.
     Itt most lehet, hogy megint nagyon beleolvasom a tanulságot, de mintha még ma is profitálhatnánk az ókori bölcsességekből, nem?
 
 - Többször visszatérő gondolat, hogy:
@@ -120,13 +122,13 @@ Mindent idevettem, ami valamilyen szálon a vezetői szerepkörhöz kapcsolódik
     > Háborúban az egyetlen biztos védekezés a támadás.
     > > In war, the only sure defense is offense.
 
-- A rugalmasság elengedhetetlen, amit a tábornok gyönyörűen ki is fejez:
+- A rugalmasság elengedhetetlen, amit Patton gyönyörűen ki is fejez:
 
     > [...] nem úgy tervezünk, hogy aztán megpróbáljuk a körülményeket a terveinkhez igazítani. Úgy próbálunk tervezni, hogy a tervek igazodjanak a körülményekhez. Véleményem szerint magas szintű vezetői pozíciókban a siker és a kudarc közti különbség pont az, hogy valaki erre képes-e.
     > > [...] one does not plan and then try to make circumstances fit those plan. One tries to make plans fit the circumstances. I think the difference between success and failure in high command depends upon ability, or lack of it, to do just that.
 
 - Említi a "kőleves-stratégiát", miszerint ha valami nem megy egyből, akkor először csak egy kicsit beteszi a kis lábujját, és onnan szépen fokozatosan...
-    És habár furcsa volt párhuzamot húzni a közismert [magyar népmese](https://www.youtube.com/watch?v=Al4DpKBL8o4){:target="_blank"} és a hadi stratégia közé, mégis teljesen jogos.
+    És habár furcsa volt párhuzamot húzni egy közismert [magyar népmese](https://www.youtube.com/watch?v=Al4DpKBL8o4){:target="_blank"} és a hadi stratégia közé, mégis teljesen jogos.
 
 - Megtérül, ha egy vezető megbízik az embereiben. Ennek alátámasztására két idézet:
 
@@ -141,7 +143,7 @@ Mindent idevettem, ami valamilyen szálon a vezetői szerepkörhöz kapcsolódik
     > Ezt a szokást, hogy túl alacsony szinten irányítunk, szerintem az iskolákban és a manővereken verik belénk. Ehelyett egy tábornoknak egy szinttel lejjebb kellene utasítania, és két szinttel lejjebb tisztában lennie az egységek helyzetével. [...] Tapasztalataim szerint az a tiszt, aki ezt megszegi és [alacsonyabb szinten irányít] elveszti a hatékonyságát.
     > > This habit of commanding too far down, I believe, is inculcated at schools and at maneuvers. Actually, a General should command one echelon down, and know the position of units two echelons down. [...] It has been my observation that any general officer who violates this rule and [commands further down] loses his efficiency.
 
-- Ha hatékony a menedzsment és van rendszer, akkor történnek a dolgok:
+- Viszont ha hatékony a menedzsment és van rendszer, akkor történnek a dolgok:
 
     > Ha figyelembe vesszük, hogy egy órán belül tartottunk egy vezérkari ülést, készítettünk három lehetséges támadási tervet, és megegyeztünk egy egyszerű jelszóban, amivel jelezni tudom Gay tábornoknak, hogy ebből a háromból melyik kettő lépjen életbe, akkor világossá válik, hogy a háború nem olyan nehéz, mint ahogy azt az emberek gondolják.
     > > When it is considered that [within an hour] we had had a Staff meeting, planned three possible lines of attack, and made a simple code in which I could telephone General Gay which two of the three lines we were to use, it is evident that war is not so difficult as people think.
@@ -154,7 +156,7 @@ Mindent idevettem, ami valamilyen szálon a vezetői szerepkörhöz kapcsolódik
     Ehhez viszont kell is a megfelelő szemlélet -- mert ha azt hisszük, hogy már mindent tudunk, akkor soha nem is fogunk semmi újat tanulni.
 
 - A tábornok emlékeztet arra is, hogy a csapatszellem és némi emberi/személyes aspektus becsempészése mennyit számít.
-    A morál szempontjából az egyik legfontosabbnak például azt tartja, hogy minél többen lássák -- amit a napirendje is igencsak alátámaszt.
+    A morál szempontjából az egyik legfontosabbnak például azt tartja, hogy minél többen lássák -- amit a napirendje igencsak alátámaszt.
     Ha át szeretnénk érezni, hogy milyen apróságok tudják inspirálni a sereget, gondoljunk csak arra, milyen apró, jelentéktelennek tűnő gesztusok is megmaradnak például a kedvenc tanárainkkal kapcsolatban.
 
 - És ha már morál, akkor **empátia**!
@@ -184,11 +186,12 @@ Mindent idevettem, ami valamilyen szálon a vezetői szerepkörhöz kapcsolódik
     > > A pint of sweat saves a gallon of blood.
 
 - Ha vezetőként új szituációba kerülünk (és nem azért, mert valami konkrétan rossz), akkor legalább egy kicsit várjunk, mielőtt radikális változtatásokat eszközölnénk.
-    Először nézzük meg, hogy mi/hogy működik, és csak aztán piszkáljuk bele!
+    Először nézzük meg, hogy mi hogyan működik, és csak aztán piszkáljuk bele!
 
 - Lehet, hogy az a "szexi", amikor épp megy a harc, de a háttérben az adminisztratív dolgok tesznek mindent egyáltalán lehetővé.
     És aki az adminisztrációban nem tud rendet tartani, annak a csatában sem fog menni.
     Ez ránk "civilekre" kb. azzal a közmondással értelmezhető, hogy "A rendben tartott ház rendezett elmére utal".
+    Vagy mondjuk "Ép testben ép lélek".
 
 - Az általánosan betartatott, szigorú rendből pedig következik, hogy jó esetben egy vezetőnek nem kell "hősiesen" beleszólnia a napi dolgokba -- mert egyszerűen nincs krízis, amire nem készült.
     Szóval leginkább olyankor látványos a vezetői teljesítmény, ha szinte fel sem tűnik, hogy van.
@@ -234,7 +237,7 @@ Mindent idevettem, ami valamilyen szálon a vezetői szerepkörhöz kapcsolódik
 
 ## <a name="2"></a>Egyéb gyöngyszemek
 
-A szigorúan témába vágó tanulságok levonása után én még azért kiemelnék egy két említésre méltó, gyakran vicces részletet:
+A szorosan témába vágó tanulságok levonása után én még azért kiemelnék egy két említésre méltó, gyakran vicces részletet:
 
 - Lépésszámra megvan, hogy hányat kell helyben futnia (a kabinjában) a negyed mérföldhöz.
     Ez igazán egy olyan emberre utal, aki panaszkodás és kifogások keresése helyett alkalmazkodik.
@@ -249,9 +252,9 @@ A szigorúan témába vágó tanulságok levonása után én még azért kiemeln
     > > French women [allegedly] had been so disgusted with the men that they would not live with them. In view of the number of children on the streets, I can hardly credit this last statement."
 
 - A történelem során először vele utazott egy kocsiban a Szultán -- és annyira elengedte a formalitást is, hogy nem kizárólag arabul volt hajlandó kommunikálni.
-    Ehhez nyilván van köze a háttérben húzódó politikai viszonylatoknak, de azért szerintem a tábornok viselkedését is jól jellemzi.
+    Ehhez nyilván van köze a háttérben húzódó politikai viszonylatoknak, de azért szerintem a tábornok diplomatikus viselkedését is jól jellemzi.
 
-- Patton néhány beszólása elég jól mutatja, hogy egy idő után érzéketlen lesz az ember arra, ami másnak teljes káosz:
+- Patton néhány beszólása szépen mutatja, hogy egy idő után érzéketlen lesz az ember arra, ami másnak teljes káosz:
 
     > Senki nem sérült meg, csak pár puhány civil.
     > > No one was hurt except softie civilians.
@@ -285,7 +288,7 @@ A szigorúan témába vágó tanulságok levonása után én még azért kiemeln
     > > Christmas dawned clear and cold; lovely weather for killing Germans, although the thought seemed somewhat at variance with the spirit of the day.
 
 - A háború vége felé személyesen is találkoztak a koncentrációs táborok maradékaival.
-    Ez pedig kellően undorító volt még Patton szemével is -- pedig az öreg aztán látott dolgokat.
+    Ez pedig kellően undorító volt még Patton szemével is -- pedig az öreg aztán látott dolgokat!
     Minden esetre a teljesen tényszerű, drámai<b>atlan</b> leírás egyáltalán nem segít, hogy ne tűnjön szörnyűnek, ami ott ment...
     A hideg kirázza az embert!
 
@@ -294,10 +297,10 @@ A szigorúan témába vágó tanulságok levonása után én még azért kiemeln
     > Ez megint egy példa a sok közül életem során, ahol pont egy nagy csalódás nyitotta meg az utat egy későbbi sikerhez.
     > > This is another example of the many I have encountered in life where great disappointments have proved to be the road to future successes.
 
-    Ez minden esetre egy nagyon jó szemlélet...
+    Ez minden esetre egy nagyon hasznos szemlélet...
     És elengedhetetlen, hogy így tekintsünk a dolgokra, ha észre akarjuk venni a lehetőséget még a balfordulatokban is.
 
-- És végül egy kis műkritika a mi kimondottan _érzékeny_ tábornokunktól:
+- És végül egy kis műkritika a mi kimondottan _kifinomult ízlésű_ tábornokunktól:
 
     > Megvizsgáltuk az állítólagos műkincseket. Amiket én láttam, azok véleményem szerint értek vagy 2 dollár 50 centet.
     > > We examined a few of the alleged art treasures. The ones I saw were worth, in my opinion, about $2.50
