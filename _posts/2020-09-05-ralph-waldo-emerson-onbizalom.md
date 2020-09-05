@@ -45,9 +45,9 @@ Később érkezik csak ez a nagy félsz, hogy "Jajj, mit szólnak majd hozzá?!"
 > > Whoso would be a man, must be a nonconformist.
 
 
-A "jó" vagy "rossz" címkéket nagyon könnyű szinte bármire ráaggatni -- de nagyon fontos, hogy ezt mi magunk tegyük meg, a saját értékrendünk alapján.
+A "jó" vagy "rossz" címkéket nagyon könnyű szinte bármire ráaggatni -- de fontos, hogy ezt mi magunk tegyük meg, a saját értékrendünk alapján.
 Az a jó, ami belőlem jön...
-Ami meg nem, az (nekem) rossz.
+Ami meg nem, az (nekem legalábbis) rossz.
 Ennyi.
 
 <br />
@@ -62,7 +62,7 @@ Emerson érdekes meglátásokat fogalmaz meg a külvilág véleményéről is:
 
 A lényeg az egyszerűség és az integritás.
 Csak az legyen benne, ami nekünk kell -- és nem kell elnézést kérni azért, hogy nem érünk fel valami olyan mércéhez, amit a társadalom állít nekünk.
-Illetve ezt nem csak akkor kell tudnunk tartani, ha egyedül vagyunk, hanem bevállalni a társadalom szeme láttára is:
+Illetve ezt nem csak akkor kell ám tudnunk tartani, ha egyedül vagyunk, hanem bevállalni az emlegetett társadalom szeme láttára is:
 
 
 > Könnyű a világban a világ véleménye szerint élni; könnyű egyedül a magunké szerint; de az a nagy ember, aki a tömegben is képes tökéletes édességgel fenntartani az egyedüllét függetlenségét.
@@ -75,9 +75,10 @@ A konformitás mellett a **látszólagos** konzisztencia is az ellenségünk -- 
 > > A foolish consistency is the hobgoblin of little minds.
 
 
-Ilyenkor ugyanis igyekszünk mindent úgy alakítani, hogy (a narráció szemszögéből) szép kerek ívűnek tűnjön az életünknek.
+Ilyenkor ugyanis igyekszünk mindent úgy alakítani, hogy (a narráció szemszögéből) szép kerek ívűnek tűnjön az életünk.
 Nehogy kiderüljön, hogy valamiben tévedtünk!
-Inkább akkor tévedjünk tovább, hátha nem tűnik fel...
+Nem, inkább akkor tévedjünk tovább, hátha nem tűnik fel senkinek...
+
 **Vagy**: tekintsük úgy, hogy az teljes életünk íve ír le egy egészet -- még ha ez közelről (vagy egyáltalán, kívülről) nem is látszik.
 Ahányszor csak ráébredünk, hogy tévedtünk, változtassunk!
 Merjünk fejlődni!
@@ -88,21 +89,22 @@ Merjünk fejlődni!
 
 
 Hasznos mentális átállás lehet, ha elkezdünk a következőképp gondolkozni: nem nekünk kell megküzdeni a világ dolgaiért vagy mások véleményéért, hanem azoknak kell "megküzdeni" a mi figyelmünkért.
-Mindenki a saját élete uralkodója és csakis ő dönti el, hogy minek tulajdonít jelentőséget...
-Ha ennek ellenére engedjük, hogy mások koldusként kezeljenek (vagy ami még rosszabb, koldusnak hisszük magunkat), azzal magunknak ásunk vermet.
+Mindenki a saját élete uralkodója -- csakis mi döntjük el, hogy minek tulajdonítunk jelentőséget...
+Ha ennek ellenére engedjük, hogy mások koldusként kezeljenek (vagy ami még rosszabb, koldusnak hisszük magunkat), az már a mi hibánk.
 
-Emerson szerint még a túlzott idézetekre fektetett hangsúllyal is csak másoknak adunk szükségtelenül nagy tekintélyt.
+Emerson szerint még az idézetekre fektetett hangsúllyal is csak másoknak adunk szükségtelenül nagy tekintélyt.
 Látszani és érződni fog, ha nem csak ismételgetjük mások mondatait, hanem értjük is a tartalmukat.
 Nem mondja persze senki, hogy nem kell/szabad tanulni a régiektől!
 De ha megértjük a leckét, onnantól a konkrét szavaiknak nem lesz akkora jelentősége... mert mi is akármikor összefoglalhatjuk, ha kell.
-Itt egyrészt én is ki vagyok osztva, hogy miért idézem akár magát Emersont -- de remélem mellette az is látszik a saját szavaimból, hogy azért leesett az üzenet.
+Itt egyrészt én is ki vagyok osztva, hogy miért idézem akár magát Emersont -- de remélem mellette az is látszik a fogalmazásomból, hogy azért leesett az üzenet.
 
-Bízzunk tehát saját magunkban, és az _igazi_ megvilágosodásért a külső tippek helyett (mellett?) forduljunk inkább befelé!
+Bízzunk tehát a saját értelmezésünkben, és ne csüngjünk túlzottan mások szavain.
+Lehet inspirálódni, de az _igazi_ megvilágosodásért a külső tippek helyett (mellett?) forduljunk inkább befelé!
 
 <br />
 <br />
 
-Az eddigiek alapján tehát a saját véleményünknek nagyobb, míg másokénak jóval kevesebb súlyt illene adnunk.
+Az eddigiek alapján a saját véleményünknek nagyobb, míg másokénak jóval kevesebb súlyt illene adnunk.
 Ettől viszont mind a korunk társadalmának részesei maradunk, ezért valahogy az új szemléletünkkel együtt is be kell tudnunk illeszkedni (ha nem is meghasonulni).
 Ennek pedig az egyetlen kulcsa a helyes (és alkalmazott!) értékrend.
 
@@ -110,7 +112,7 @@ Személyes vonalon alakítsuk a kapcsolatainkat olyanra, hogy önmagunk lehessü
 Szégyentelenül, bocsánatkérés nélkül felvállalhassuk, hogy kik vagyunk, mit szeretünk és mit nem...
 Ugyanígy társadalmi vonalon, vizsgáljuk felül az uralkodó véleményeket:
 
-- Vallási dolgok tekintetében legyen egy saját istenünk -- ahelyett, hogy másokéról beszélnénk;
+- Vallási dolgok tekintetében legyen egy saját "istenünk" -- ahelyett, hogy másokéról beszélnénk;
 - Utazásokkal kapcsolatban emlékezzünk Seneca figyelmeztetésére: leginkább magunk elől menekülünk, pedig pont azt nem tudjuk hátrahagyni;
 - Művészetben is ragaszkodjunk a saját ízlésünkhöz a régi vagy messzi befolyások helyett;
 - Mérjünk másokat az értékeik, és ne az értéktárgyaik alapján!
@@ -118,12 +120,12 @@ Ugyanígy társadalmi vonalon, vizsgáljuk felül az uralkodó véleményeket:
 A magunknak megfelelés a legfőbb törvény, és inkább ezt a kötelességünket részesítsük előnyben, mint amit a társadalom előír.
 
 
-> Ha valaki szerint ez a törvény engedékeny, tartsa be csak csak egy napig.
+> Ha valaki szerint ez a törvény engedékeny, tartsa be csak egy napig.
 > > If any one imagines that this law is lax, let him keep its commandment one day.
 
 
 Ha viszont betartjuk, az egy egyenes, autentikus, boldog élet felé fog vezetni.
-Ezzel pedig (talán paradox módon) nem hogy elijesztünk majd másokat, hanem kivívjuk a megfelelő helyünket a világban.
+Ezzel pedig (talán paradox módon) nem hogy elijesztünk majd másokat, hanem bevonzzuk, akiket kell, és kivívjuk a megfelelő helyünket a világban.
 
 
 > Istenek és emberek számára is mindig kedves az, akin önmagán segít. Szeretetünk épp azért öleli át, mert nincs szüksége rá.
