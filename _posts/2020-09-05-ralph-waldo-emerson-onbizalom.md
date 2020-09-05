@@ -79,7 +79,7 @@ Ilyenkor ugyanis igyekszünk mindent úgy alakítani, hogy (a narráció szemsz�
 Nehogy kiderüljön, hogy valamiben tévedtünk!
 Nem, inkább akkor tévedjünk tovább, hátha nem tűnik fel senkinek...
 
-**Vagy**: tekintsük úgy, hogy az teljes életünk íve ír le egy egészet -- még ha ez közelről (vagy egyáltalán, kívülről) nem is látszik.
+**Vagy**: tekintsük úgy, hogy a teljes életünk íve ír le egy egészet -- még ha ez közelről (vagy egyáltalán, kívülről) nem is látszik.
 Ahányszor csak ráébredünk, hogy tévedtünk, változtassunk!
 Merjünk fejlődni!
 
