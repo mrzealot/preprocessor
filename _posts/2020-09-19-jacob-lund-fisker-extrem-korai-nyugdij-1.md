@@ -129,45 +129,65 @@ Non-konformitásra fel!
 
 A Platóni barlang felemlegetés után gondolom nem lesz meglepő, hogy itt egy elég fájdalmasan ébresztő jellegű leírás következik arról, hogyan is működik a modern társadalom.
 Már persze ha egy percre nem csak azzal a szemmel nézzük, hogy "Hát persze, ez a természetes".
+Amint egy kicsit belegondolunk, megláthatjuk, hogy:
 
-- amint egy kicsit belegondolunk, megláthatjuk, hogy
-    - az oktatásunk nem a tudásra vagy a tapasztalatokra, hanem a benevelésre (indoktrináció) való
-    - csak arra az életre vagyunk felkészítve, amit a társadalom nekünk szán, minden más ösvény kitaposatlan (és ezért kevesen veszik a fáradságot, hogy arra próbálkozzanak)
-    - a diploma a konformitás jelképe, ezért már sok olyan álláshoz is azt kérik, amihez nem is kellene
-    - memorizálásra és engedelmességre pazaroljuk a gyerekkorunka, beáldozzuk a szabadidőnket, hogy cserébe jó egyetemre kerüljünk, amivel jó munkánk lehet, ahol pénzért dolgozhatunk...
-    - de ez a pénz leginkább arra való, hogy kiváltsuk vele azt a sok dolgot, amire a munka miatt nincs már időnk
-    - vagy ha épp lenne is időnk, akkor sem lenne hozzá képességünk -- mert túlságosan elspecializálódtunk
-        - a saját szűk kis területünket valószínűleg jobban tudjuk, mint a történelem során bárki
-        - de ezen kívül viszont annyira keveset tudunk, mint eddig még valószínűleg senki
-        - "leaving little time to question their lives or otherwise get in trouble."
-    - viszont mivel ezekért fizetnünk kell, így még többet dolgozunk... kedves kis ördögi kör
-- ahogy változik a világ, ez a specializált tudás pedig "arrébb sodródik", a specializált dolgozóknak nagyon jelentős változásokat kell produkálni, hogy relevánsak tudjanak maradni
-    - a Reneszánsz embereknek (avagy a generalistáknak) sokkal nagyobb alapja lesz bármihez
-- vagyis ez a speciálódás a rendszernek jó (termelékenység, hatékonyság, pótolhatóság), az egyénnek viszont nem (kiégés, szűkülő lehetőségek a piramis teteje felé, erős verseny, sok újratanulás és "lépés tartás")
-    - ha már úgyis dolgozni kell, akkor vegyünk magunknak valami kis apróságot
-    - ez az életszínvonal inflációjához vezet majd, ami csak még tovább erősíti az ördögi kört
-    - "they slowly die a financial death by a thousand nibbling ducks."
-- "This idea of economic growth seems to be a very intricate version of digging holes and filling them up again."
-- "The Darwinian "survival of the fittest" often has undertones of "survival of the best," a belief that the "fittest" are happy to reinforce."
-- a hitel meggyorsíthatja a fejlődést
-    - mert a jelenlegi helyzetről a jövőbelire hárítja a pénz előállításának felelősségét, ami akkorra már (remélhetőleg) jobban fog menni
-- viszont ezt a fogyasztók nem befektetésre, hanem extra fogyasztásra fordítják, így még a kamat is rájön a termékeikre
-    - nem a termelést, hanem a fogyasztást növelték, és ezzel gyakorlatilag magukat zárták be a munka világába (ha eddig nem is lettek volna)
-- ezt a másik oldalról is meg lehet fogni, persze, de az
-    - egyrészt relatíve ritka és veszélyes (is tud lenni)
-    - másrészt a legtöbben a tradicionális "majd 70 körül" nyugdíjra gondolnak ilyenkor is
-    - és ezt támogatja az adótörvény is
-- nem nagyon jutunk előre, mert ahogy nő a gazdaság, úgy inflálódik vele együtt az életszínvonalunk és a pazarlásunk is
+- Az oktatásunk nem a tudásra vagy a tapasztalatokra, hanem az ún. "benevelésre" (indoktrinációra) való;
+- Memorizálásra és engedelmességre pazaroljuk a gyerekkorunkat, beáldozzuk a szabadidőnket, hogy cserébe jó egyetemre kerüljünk, amivel jó munkánk lehet;
+- A diploma az intelligencia helyett sokkal inkább a konformitás jelképe, ezért már sok olyan álláshoz is azt kérik, amihez nem is kellene;
+- Csak arra az életre vagyunk felkészítve, amit a társadalom nekünk szán, minden más ösvény kitaposatlan (és ezért kevesen veszik a fáradságot, hogy arra próbálkozzanak);
+- Mindezt azért, hogy pénzért dolgozhassunk -- és aztán pénzzel váltsuk ki azt a sok dolgot, amire a munka miatt nincs már időnk;
+- Ha épp lenne is időnk, gyakran akkor sem lenne máshoz elég képességünk -- mert túlságosan elspecializálódtunk;
+- Viszont mivel ezekért fizetnünk kell, így még többet dolgozunk... Kedves kis ördögi kör!
 
-- az itt tárgyalt stratégia igazából az azóta már szinte szokásosnak mondható "költs kevesebbet, keress többet, fektesd be a különbözetet"-re épül
-    - de leginkább a költs kevesebbet rész a hangsúlyos, mivel az (állítólag) az átlag negyedéből jól el lehet lenni, ha kreatívabb problémamegoldó az ember
-        - illetve megjegyzés: a leadás kétszer olyan jó, mint a bevétel növelése, mert nem csak hamarabb érjük el a függetlenséghez elég nagy számot, hanem végül kisebb számot is kell elérnünk a lecsökkent havi költésünk miatt
-        - szóval itt két irányból is gyorsíthatjuk a folyamatot
-    - a bevételhez is kamatok + egyéb (diverzifikált) bevételi forrásokon keresztül jutunk hozzá
-        - és olyan keveset összekapargatni nem is kéne, hogy olyan nehéz legyen
-    - illetve külön hangsúly arra, hogy megtaláljuk, mit is csinálnánk a munka helyett
-        - NEM csak a megszokott "pálmafák alatt koktél szürcsöléses" nyaralgatás a cél, mert abban is ki fogunk égni
-        - kell valami jelentőségteljes
+Azt nyugodtan kijelenthetjük, hogy a saját szűk kis területünket valószínűleg jobban tudjuk, mint a történelem során bárki.
+De azon kívül viszont annyira keveset, mint eddig még valószínűleg senki.
+Már pedig ahogy változik a világ, ez a specializált tudás könnyen "arrébb sodródhat".
+Ilyenkor a specializált dolgozóknak nagyon jelentős változásokat kell produkálni, hogy relevánsak tudjanak maradni.
+Szemben a "Reneszánsz emberekkel" (avagy a generalistákkal), akiknek sokkal szélesebb tudás-alapja lesz, bármit is dob az élet.
+
+A specializálódás a rendszernek jó (termelékenység, hatékonyság, pótolhatóság), az egyénnek viszont nem (kiégés, szűkülő lehetőségek a ranglétra teteje felé, erős verseny, sok újratanulás és "lépés tartás").
+És ha már úgyis dolgozni kell, akkor cserébe legalább vegyünk magunknak valami kis apróságot...
+Innen (is) indul az életszínvonal inflációja, ami csak még tovább erősíti az ördögi kört.
+A sok kicsi sokra megy, vagy ahogy a szerző zseniálisan megfogalmazta:
+
+> [Sok ember] ezernyi csipkedő kacsa által hal pénzügyi halált.
+> > [People] slowly die a financial death by a thousand nibbling ducks.
+
+Itt jön a képbe a hitel, amire sokan kiútként tekintenek.
+Pedig a hitel igazából nem csinál mást, csak meggyorsítja a haladásunkat abba az irányba, amerre amúgy is haladtunk.
+Eredetileg a vállalkozások fejlődésére találták ki, mert a jelenlegi helyzetről a jövőbelire hárítja a pénz előállításának felelősségét -- ami akkorra már (remélhetőleg) jobban fog nekik menni.
+Viszont ezt a fogyasztók nem befektetésre, hanem _extra fogyasztásra_ fordítják, így még a kamat is rájön a termékeik árára.
+Nem a termelést, hanem a fogyasztást növelték, és ezzel gyakorlatilag magukat zárták be a munka világába (ha eddig nem lettek volna).
+
+Jó, tegyük fel, hogy ez nekünk nem kell.
+Ki akarunk törni.
+Mi a teendő?
+Hát, először is elfogadni, hogy szinte garantáltan árral szemben fogunk úszni egész életünkben.
+
+- Csak nem akarod egy _panelban_ leélni az életed?!
+- Hogy érted, hogy nem voltatok nyaralni?
+- Én biztos nem nyomorgatnám magam!
+- És mit csinálsz egész nap?
+
+Nem fogja senki a szánkba rágni, hogy kerülhetjük ki a költési csapdákat saját kreativitással.
+Senki nem tart majd "az úton"; sőt, inkább lecsalni akarnak majd róla.
+Nem fog támogatni az adótörvény sem, ami a 70 körüli nyugdíjra van csak felkészülve, a 30-40 körülire semmiképp.
+De ha kellően elöl van a fontossági sorrendünkben a szabadság, akkor meg lehet csinálni!
+
+A hogyan-t pedig ugye már mondtuk: "Költs kevesebbet, keress többet, és fektesd be a különbözetet!".
+Ez továbbra is alap.
+Ami kiemeli Fisker hozzáállását, az talán annyi, hogy mekkora hangsúlyt fektet a "költs kevesebbet" részre, mivel (állítólag) az átlag költés negyedéből -- bőven az Amerikai "létminimum" alatt -- is jól elvan.
+Szerintem ez azért fontos, mert a lejjebb adás kétszer hatékonyabb a bevétel növelésénél.
+Nem csak hamarabb érjük el a függetlenséghez elég nagy megtakarítást, hanem végül kisebb megtakarítást is kell elérnünk a lecsökkent havi költésünk miatt.
+Mondhatni itt két irányból is gyorsíthatjuk a folyamatot, míg az extra bevétellel csak az egyikből.
+
+Ha pedig a hangsúlyos rész megvan, akkor a többi már "sablon".
+A bevételhez a tőkénk kamatai + egyéb (diverzifikált) bevételi forrásokon keresztül jutunk hozzá.
+És az új életmódunkhoz szükséges kevéskét összekapargatni nem is lenne olyan nehéz akkor sem, ha véletlen egy válság miatt onnan nem jönne elég.
+Illetve külön hangsúly kap, hogy megtaláljuk, mit is csinálnánk a munka helyett!
+Mert ugye **nem** csak a megszokott "pálmafák alatt koktél szürcsöléses" nyaralgatás a cél.
+Kell valami jelentőségteljes -- és akinek ez a munka, az csak dolgozzon!
+De dolgozni sem lesz ugyanolyan, ha már nem **kell** dolgozni.
 
 
 
@@ -200,7 +220,24 @@ Már persze ha egy percre nem csak azzal a szemmel nézzük, hogy "Hát persze, 
 
 ## <a name="3"></a>Gazdasági szabadságfokok
 
+A jelen gazdasági helyzetét nem tudjuk egyik napról a másikra megváltoztatni.
+De -- jó sztoikus módjára -- a hozzáállásunkon mindig változtathatunk!
+A könyv egyik fő mondanivalója (szerintem) a következő két dimenzió, amik mentén kategorizálhatjuk az emberek életmódját:
+
+- Csatolás, ami lehet szoros vagy laza; és
+- Linearitás, ami (nyilván) lehet lineáris vagy _nem_ lineáris.
+
+Csatolás alatt itt annyit értünk, hogy a rendszer mennyire ellenálló a külső hatásokkal szemben -- vagyis mennyire szorosan "csatolt" a környezetéhez.
+A szoros azt jelenti, hogy a hétköznapjaink fenntartása erősen függ attól, hogy minden úgy marad, ahogy most is van (különben baj lehet).
+Ezzel szemben a laza csatolás legalább valamilyen szinten hibatűrő.
+Nem bánja, ha nincs változás, de szélesebb eszközkészlettel és szélesebb határokon belül képes válaszolni, ha mégis borul valami.
+
+Linearitás alatt pedig azt értjük, hogy mennyire erősen függ össze az eredményességünk a befektetett munka mennyiségével.
+A lineáris (hű, hogy is volt ez matek órán?!)
+
+
 - felmerül a két dimenzió, ami alapján majd a Reneszánsz emberig eljutunk: kapcsolás és linearitás
+
     - tight vs. loose coupling
     - linear vs. non-linear
 - és akkor ezen belül:
@@ -217,7 +254,10 @@ Már persze ha egy percre nem csak azzal a szemmel nézzük, hogy "Hát persze, 
         - igazi generalista gondolkodásmód, kiegyensúlyozott, mert minden képességét fejleszti
             - intellektuális, de kétkezi "szakmai", fitnessz, és művészi vonalakon is
         - már nem függ annyira (vagy akár egyáltalán) a piactól, mert saját, kreatív megoldásokat is tud a saját problémáira, vásárlás nélkül
-        - "Independence is not something one has; rather, it is something that one is."
+
+> A függetlenséget nem lehet birtokolni; függetlennek **lenni** lehet.
+> > Independence is not something one has; rather, it is something that one is.
+
 - saját hasonlat:
     gyalog vs. biciklivel vs. kocsival vs. kocsival, de úgy, hogy van hátul egy bicikli plusz egy szerszámos láda is, amivel megjavítható a kocsi (plusz van ismerős is, akit hívhatok, plusz gyalog is tudok menni, ha kell... vagy stoppolok)
 - a gazdasági és társadalmi rendszerek ciklikusak
@@ -321,3 +361,16 @@ Már persze ha egy percre nem csak azzal a szemmel nézzük, hogy "Hát persze, 
 
 ## Összefoglalás
 
+Az első és legfontosabb tanulság már kétszer is elhangzott, szó szerint ugyanabban a megfogalmazásban, de én azért harmadszor is leírom: "Költs kevesebbet, keress többet, és fektesd be a különbözetet!".
+Ez azért nagyon jó, mert minden erre épül.
+Nem baj, ha még nem tudjuk a részleteket, nincs még kitaposva a rendszer, stb.
+Majd menet közben finomítgatjuk a spórolási szokásainkat, találunk magunknak másod-harmad bevételi forrást, kitanuljuk a tőzsdét vagy az ingatlanpiacot...
+De már addig is ahhoz szoktatjuk magunkat, ami a legfontosabb: "Költs kevesebbet, keress többet, és fektesd be a különbözetet!".
+Basszus, leírtam negyedszer is! Mindegy, ránk fér.
+
+Ezen a _"közhelyen"_ felül viszont ne feledjük, hogy ott van még a Reneszánsz ember fogalma és az azzal járó általános oktatás -- ami rajtam személy szerint rengeteget formált.
+Az olvasási szokásom szigorúan science-fiction és fantasy berkekre korlátozódott egészen a (szégyenletesen kései) pénzügyi ébredezésemig, amikor is elkezdtem az ismeretterjesztő köteteket falni.
+De amíg ezek többségükben tényleg csak a pénzügyi dolgokra koncentráltak, addig Fisker egy _kicsit_ jobban kitágította a látókört.
+Ez a könyv nélkül valószínűleg a Preprocessor blog sem lenne -- csak remélni tudom, hogy másra is ilyen erős hatással lesz a mondanivaló.
+
+Node nem eresztem bő lére. Átnéztük az elvi/elméleti alapokat, jövő héten a gyakorlati(asabb) részekkel folytatjuk!
