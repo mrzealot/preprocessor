@@ -4,7 +4,11 @@ title: Jacob Lund Fisker - Extrém Korai Nyugdíj - 1
 pages: 240
 date: 2020-09-19 00:01
 excerpt: >
-    TODO
+    Vicki Robin pénzügyi intrója után már megalapozottan következhet egy régebbi kedvencem az anyagi függetlenség témakörében.
+    Ezúttal pedig az "extrém" végletekig is elmegyünk, mint ahogy arra talán a cím is utal.
+    Jacob Lund Fisker blogból összetömörült könyve ugyanis szigorú elvi és személyes filozófiai alapokra helyezi a pénzhez való hozzáállását.
+    Nem kötelező természetesen mindenkinek rögtön "aktivista" üzemmódba kapcsolni!
+    De mint ahogy Thoreau esetében, szerintem itt is hasznos relatíve korán látni a végleteket -- hogy aztán már a teljes skála ismeretében tudja magát belőni az ember.
 ---
 
 [Vicki Robin]({% post_url 2020-03-20-vicki-robin-your-money-or-your-life %}) pénzügyi intrója után már megalapozottan következhet egy régebbi kedvencem az anyagi függetlenség témakörében.
@@ -233,41 +237,56 @@ Ezzel szemben a laza csatolás legalább valamilyen szinten hibatűrő.
 Nem bánja, ha nincs változás, de szélesebb eszközkészlettel és szélesebb határokon belül képes válaszolni, ha mégis borul valami.
 
 Linearitás alatt pedig azt értjük, hogy mennyire erősen függ össze az eredményességünk a befektetett munka mennyiségével.
-A lineáris (hű, hogy is volt ez matek órán?!)
+A lineáris (hű, hogy is volt ez matek órán?) egyenesen arányos; vagyis amennyi energiát beleteszünk, annyi eredményt veszünk ki belőle.
+A **nem**-lineárisnál viszont nincs ilyen megkötés.
+És habár ez jelenthetné azt is, hogy sok munkával sem érünk el semmit, általában inkább arra utal, hogy akár relatíve kevés munkával is sokat érhetünk el.
 
+Az a két dimenzió mentén (2 &times; 2 =) 4 embertípust különböztetünk meg:
 
-- felmerül a két dimenzió, ami alapján majd a Reneszánsz emberig eljutunk: kapcsolás és linearitás
+- **Fizetéses ember**: lineáris, szorosan kapcsolt.
+Vagyis a fizetése legfeljebb is csak a befektetett munkájával arányos, és cserébe még függ is tőle.
+Mindkét világból a rosszabbik, mégis ezt a típust tekintjük alapértelmezettnek.
 
-    - tight vs. loose coupling
-    - linear vs. non-linear
-- és akkor ezen belül:
-    - fizetéses rabszolga: lineáris, szorosan kapcsolt
-    - dolgozó ember: lineáris, de már lazán kapcsolt
-        - ez lenézett(ebb), mert ritkán tud (látványosan) annyit költeni, mint a "stabil" fizetésből élők
-        - cserébe több szálon folyik neki a pénz, és alapból sokkal ellenállóbbra van beállítva az élete
-    - üzletember: nemlineáris, szorosan kapcsolt
-        - ez már nem lineáris, mert mások pénzét/idejét/energiáját is tudja használni a saját javára
-        - viszont még mindig szorosan kapcsolt, mert ahhoz, hogy versenyképes lehessen, nagyon szoros a függés a pénz folyásában
-            - a vevők a terméket akarják jó áron, a részvényesek pedig a profitot (ami lehet egyből az üzletember is)
-            - vagyis ha valami "beüt", akkor hirtelen nagy gond lehet
-    - Reneszánsz ember: nemlineáris, lazán kapcsolt
-        - igazi generalista gondolkodásmód, kiegyensúlyozott, mert minden képességét fejleszti
-            - intellektuális, de kétkezi "szakmai", fitnessz, és művészi vonalakon is
-        - már nem függ annyira (vagy akár egyáltalán) a piactól, mert saját, kreatív megoldásokat is tud a saját problémáira, vásárlás nélkül
+- **Dolgozó ember**: lineáris, de már lazán kapcsolt.
+A bevétel még mindig csak a befektetett energiától függ, de emellé legalább már nem egy adott munkahely rabszolgája.
+Sokszor lenézett(ebb), mert ritkán tud _látványosan_ annyit költeni, mint a "stabil" fizetésből élők.
+Cserébe több szálon folyik neki a pénz, és a bizonytalan alkalmi munkák miatt alapból sokkal ellenállóbbra van beállítva az élete.
+
+- **Üzletember**: nem-lineáris, szorosan kapcsolt.
+Ez a szerepkör már nem lineáris, mert mások pénzét/idejét/energiáját is tudja használni a saját javára.
+Viszont még mindig szorosan kapcsolt, mert ahhoz, hogy versenyképes lehessen, nagyon szoros a függés a pénz áramlásában.
+A vevők jó áron akarják a terméket, a részvényesek pedig minél több profitot várnak.
+Vagyis ha valami "beüt", akkor a kettőjük közé beékelődött üzletember szemszögéből hirtelen nagy gond lehet -- hiszen elapad a pénz, és ő is leginkább pénzből él.
+
+- **Reneszánsz ember**: nem-lineáris, lazán kapcsolt.
+Az ilyen generalista gondolkodásmódú ember minden képességét kiegyensúlyozottan fejleszti -- legyen szó intellektuális, kétkezi "szakmai", de akár fitness vagy művészi vonalakról is.
+Már nem függ annyira (vagy akár egyáltalán) a piactól, mert saját, kreatív megoldásokat is tud a saját problémáira, vásárlás nélkül.
+Ez egyrészt ellenálló képességet ad neki a változó körülményekkel szemben, másrészt az így megspórolt pénzzel mások idejét/energiáját is a saját javára fordíthatja a hozamai formájában.
+Látható viszont, hogy ez nem egy anyagi helyzet, hanem egy átfogó életmód.
 
 > A függetlenséget nem lehet birtokolni; függetlennek **lenni** lehet.
 > > Independence is not something one has; rather, it is something that one is.
 
-- saját hasonlat:
-    gyalog vs. biciklivel vs. kocsival vs. kocsival, de úgy, hogy van hátul egy bicikli plusz egy szerszámos láda is, amivel megjavítható a kocsi (plusz van ismerős is, akit hívhatok, plusz gyalog is tudok menni, ha kell... vagy stoppolok)
-- a gazdasági és társadalmi rendszerek ciklikusak
-    - kb. mint a nehéz idők --> erős emberek --> jó idők --> gyenge emberek --> nehéz idők ciklus
-    - van "klimax" állapot, ami állítólag stabil, de külső/belső behatások azt azt is megborogathatják
-    - egy ilyenbe vagyunk most beragadva (a legutóbbi a sötét középkor volt)
-        - el vagyunk szakadva a természettől és a technológia nagyjától is
-        - csak csináljuk, amit látunk magunk körül (szociális interakciók, majd azok megoldanak mindent)
-        - ezt a klímaváltozás, az erőforrások elfogyása, a piaci ingadozások, stb. persze úgyis megváltoztatják előbb-utóbb
-        - és az alkalmazkodásra (is, ahogy a mostani körülmények navigálására is) a Reneszánsz ember lesz a legalkalmasabb
+Ha egy saját, közlekedési hasonlattal akarnék élni, azt mondanám, hogy:
+
+- A fizetésből élő ember gyalog van. (Saját energia, nincs B terv);
+- A dolgozó ember is gyalog, de hátizsákkal, benne pedig váltó ruha/cipő, esőkabát, kulacs, rágcsa, miegymás. (Saját energia, van B terv);
+- Az üzletember kocsival van, de legfeljebb a sárga angyalt tudja hívni, ha lerobban. (Mások energiája, nincs B terv);
+- A Reneszánsz ember pedig úgy megy kocsival, hogy közben van hátul egy szerszámos láda és olaj az útszéli javításhoz, vagy a tetőcsomagtartón egy bicikli ha mégis ott kell hagyni. Vagy tudna menni gyalog is, amihez persze szintén ott a hátizsák. Vagy stoppol. (Mások energiája **is**, van B terv).
+
+Innentől az a kérdés, hogy melyik módon a legbiztosabb a célba érés?
+Persze senki nem tartozik tisztán az egyik kategóriába -- ezek inkább csak archetípusok, és egyáltalán nem átjárhatatlanok.
+De mindenkinek megvan az, amelyik felé a leginkább hajlik.
+És talán most már az is látszik, hogy melyik felé lenne érdemes hajlani.
+
+A gazdasági és társadalmi rendszerek ciklikusak.
+Kb. mint a közismert "nehéz idők &#8658; erős emberek &#8658; jó idők &#8658; gyenge emberek &#8658; nehéz idők" körforgás.
+Ezen belül kialakulhat egy stabilnak tűnő "klimax" állapot, de a külső/belső behatások azt is megboríthatják.
+Egy ilyenbe vagyunk most beragadva -- a legutóbbi a sötét középkor volt, amit (meglepetés) a Reneszánsz borított meg.
+El vagyunk szakadva a természettől és a technológia nagyjától is.
+Csak csináljuk, amit magunk körül látunk: szociális interakciók, majd azok megoldanak mindent.
+Ezt a klímaváltozás, az erőforrások elfogyása, a piaci ingadozások, és hasonszőrű társaik persze úgyis megváltoztatják előbb-utóbb.
+És az alkalmazkodásra (is, ahogy a mostani körülmények navigálására is) a Reneszánsz ember lesz a legalkalmasabb.
 
 
 
@@ -302,33 +321,47 @@ A lineáris (hű, hogy is volt ez matek órán?!)
 
 ## <a name="4"></a>A Reneszánsz ideál
 
-- a mester-ség helyett a kompetenciát kellene megcélozni
-    - a területek közti szinergia idővel úgyis egyre jobban segíteni fog (korlátozott számú mentális modell létezik, ezért az új területeken egyre gyakrabban lesznek "ismerős" gondolatok)
-    - illetve ugye a "diminishing returns" --> egy idő után már nem éri meg még mélyebben tudni valamit, ha cserébe valami mást még alapszinten sem tudunk
-- itt nem is az a fő cél, hogy ezekből is pénzt keressünk
-    - hanem inkább az, hogy ne kelljen rá költenünk, így megszüntetve a függésünket
-- a 7 fő terület, amiben érdemes legalább kompetens szintre hozni magunkat
-    1. **fiziológiai**: optimális fizikai és mentális egészség, helyes edzési és táplálkozás szokások, sport (regenerálódás)
-    2. **intellektuális**: kritikus gondolkodási készség, laterális gondolkodás, önálló tanulás (és az erre való igény!), alternatívák objektív kiértékelése és rangsorolása
-        - szélesség > mélység, ha tudásról van szó
-        - laterális = interdiszciplináris = egy bizonyos területen már megszerzett tapasztalatot egy új területen is alkalmazni tudjuk
-        - ha csak a mások által már feltárt opciókat (és az ezekkel járó megkötéseket) vesszük figyelembe, akkor egy csomó olyan megoldásról lemaradhatunk, amik nekünk jobbak lettek volna
-    3. **gazdasági**: érték vs. ár különbség felismerése, hatékonyság, stratégikus és hosszútávú gondolkodás, mások motivációjának (és esetleges hátsó szándékának) felismerése, pénzügyi ismeretek, kereslet/kínálat, kötvények/tőzsde működése, önálló adó ügyintézés és elszámolás
-    4. **érzelmi**: értékek (nem árak!) helyes felbecsülése, erőforrások helyes allokálása (vagyis nem pazarlás), objektivitás, ellenállás a manipulációnak, nyugodtság és stressztűrés, érzékletesség és kifinomult ízlés, empátia és szociális kapcsolatok
-        - a döntéseink helyessége, és a hosszútávú céljaink jelenlegi tetteinkkel való hatékony összehangolása, leginkább azon múlik, hogy mennyire vagyunk tisztában a saját értékrendünkkel (és mennyire következetesen ragaszkodunk hozzá)
-        - belső érzelmi kontroll: tudjuk, hogy mit kellene
-        - külső érzelmi kontroll: képesek is vagyunk tenni, amit kellene (motiváció, következetesség, stb.)
-    5. **szociális**: emberek megismerése a munkán/hobbin/lakhelyen/stb. _kívülről_, közösségépítés, osztozkodás, eladás és cserélés, esetleg akár politika (valamilyen szinten)
-    6. **technikai**: alapszintű szakmai tudás, hogy legalább kritikus szemmel tudjuk felmérni más munkáját, ismerjük a technológiákat, amiket használunk, legyünk képesek megfelelő eszközöket választani (és aztán karbantartani/javítani őket), akár tanuljunk szakmát
-        - a használt technológiák nagy részét nem értjük, ezért nem tudjuk őket kellően felmérni (vásárlásnál) vagy karbantartani
-        - egy csomó pénz a zsebben maradhatna, ha magunk oldanánk meg a dolgainkat
-    7. **ökológiai**: szisztematikus gondolkodás (az egész és a részek megértése), alapvető növény és állatismeret, étel-szezonok, alapvető kertészet, egyensúlyi állapot, különböző kimenetekre való optimalizáció
+A legfontosabb hozzáállásbeli eltérés a manapság átlagossal szemben, hogy a mester-ség helyett a kompetenciát kellene megcélozni.
+A területek idővel úgyis egyre jobban segíteni fogják egymást -- korlátozott számú mentális modell létezik, ezért az új területeken egyre gyakrabban lesznek "ismerős" gondolatok.
+Illetve egy idő után már nem éri meg még mélyebben tudni valamit, ha cserébe valami mást még alapszinten sem tudunk.
+Itt nem is az a fő cél, hogy ezekből az új kompetenciáinkból pénzt keressünk, hanem inkább az, hogy ne kelljen rájuk költenünk (így megszüntetve a függésünket).
 
-- az formális oktatás elvileg csak arra lenne egy alap, hogy onnantól majd mi magunk csináljuk tovább
-    - az, hogy megállunk, az elég nagy baj
-    - mert addig csak épp annyit tanultunk, hogy agyatlan fogaskerekek lehessünk a gépben
-- tanuljunk aktívan
-    - ne csak lássuk/halljuk, mondjuk vagy csináljuk is!
+A könyv a következő 7 fő területet jelöli meg, amiben érdemes legalább kompetens szintre hozni magunkat.
+A szemfüles olvasó pedig észreveheti majd a kísérteties hasonlóságot a blog célkitűzéseivel és tanulási filozófiájával...
+
+1. **Fiziológiai**: optimális fizikai és mentális egészség; helyes edzési és táplálkozás szokások; sport; regenerálódás.
+
+2. **Intellektuális**: kritikus gondolkodási készség; laterális gondolkodás; önálló tanulás (és az erre való igény!); alternatívák objektív kiértékelése és rangsorolása.
+    - Szélesség > mélység, ha tudásról van szó.
+    - Laterális = "interdiszciplináris" = egy bizonyos területen már megszerzett tapasztalatot egy új területen is alkalmazni tudjuk.
+    - <p>Ha csak a mások által már feltárt opciókat (és az ezekkel járó megkötéseket) vesszük figyelembe, akkor egy csomó olyan megoldásról lemaradhatunk, amik nekünk jobbak lehettek volna.</p>
+
+3. **Gazdasági**: érték kontra ár különbség felismerése; hatékonyság; stratégikus és hosszútávú gondolkodás; mások motivációjának (és esetleges hátsó szándékának) felismerése; pénzügyi ismeretek; kereslet/kínálat; kötvények/tőzsde működése; önálló adó ügyintézés és elszámolás.
+
+4. **Érzelmi**: értékek (nem árak!) helyes felbecsülése; erőforrások helyes beosztása; objektivitás; ellenállás a manipulációnak; nyugodtság és stressztűrés; érzékletesség és kifinomult ízlés; empátia és szociális kapcsolatok.
+    - A döntéseink helyessége, és a hosszútávú céljaink jelenlegi tetteinkkel való hatékony összehangolása, leginkább azon múlik, hogy mennyire vagyunk tisztában a saját értékrendünkkel (és mennyire következetesen ragaszkodunk hozzá).
+    - Belső érzelmi kontroll: tudjuk, hogy mit kellene.
+    - <p>Külső érzelmi kontroll: képesek is vagyunk tenni, amit kellene.</p>
+
+5. **Szociális**: emberek megismerése a munkán/hobbin/lakhelyen/stb. _kívülről_; közösségépítés; osztozkodás; eladás és cserélés; esetleg akár politika (valamilyen szinten).
+
+6. **Technikai**: alapszintű szakmai tudás (hogy legalább kritikus szemmel tudjuk felmérni más munkáját); ismerjük a technológiákat, amiket használunk; legyünk képesek megfelelő eszközöket választani (és aztán karbantartani/javítani őket); akár tanuljunk szakmát.
+    - A használt technológiák nagy részét nem értjük, ezért nem tudjuk őket kellően felmérni (vásárlásnál) vagy karbantartani -- és ez baj!
+    - <p>Egy csomó pénz a zsebben maradhatna, ha magunk oldanánk meg a dolgainkat.</p>
+
+7. **Ökológiai**: szisztematikus gondolkodás (az egész és a részek megértése); alapvető növény és állatismeret; étel-szezonok; alapvető kertészet; egyensúlyi állapot; különböző kimenetekre való optimalizáció.
+
+Az utolsó pontot (különböző kimenetekre való optimalizáció) külön kiemelném: a rendszer-szemléletű gondolkodásmód nem csak arra vonatkozik, hogy "Jajj, védjük a természetet!".
+Sokkal inkább arra, hogy egy szituáció minden következményével tisztában vagyunk, és ezért megfelelő szempontot választunk a "siker" mérésére.
+Ha csak a pénzre optimalizálunk, akkor egy többet fizető, de lélekölő és stresszes állás is jobbnak fog tűnni (egészen a 40-es éveinkre várható szívrohamig).
+Igyekezzünk tehát a részek helyett az egésszel foglalkozni -- ahhoz pedig a legtöbbünknek elég sokat kell még tanulni.
+
+A formális oktatásunk elvileg csak arra lenne egy alap, hogy onnantól majd mi magunk csináljuk tovább.
+És mint látjuk, bőven lenne mit! (Aki "kész" a fentiekből mindennel, az legyen szíves írjon, lenne pár kérdésem...)
+Ha az iskola után megállunk, az elég nagy baj, mert addig csak épp annyit tanultunk, hogy agyatlan fogaskerekek lehessünk a gépben.
+Tanuljunk tehát aktívan -- és ne csak lássuk/halljuk, hanem mondjuk vagy csináljuk is!
+
+<br />
 
 
 
@@ -362,7 +395,7 @@ A lineáris (hű, hogy is volt ez matek órán?!)
 ## Összefoglalás
 
 Az első és legfontosabb tanulság már kétszer is elhangzott, szó szerint ugyanabban a megfogalmazásban, de én azért harmadszor is leírom: "Költs kevesebbet, keress többet, és fektesd be a különbözetet!".
-Ez azért nagyon jó, mert minden erre épül.
+Ez azért nagyon jó, mert a személyes pénzügyek világában minden erre épül.
 Nem baj, ha még nem tudjuk a részleteket, nincs még kitaposva a rendszer, stb.
 Majd menet közben finomítgatjuk a spórolási szokásainkat, találunk magunknak másod-harmad bevételi forrást, kitanuljuk a tőzsdét vagy az ingatlanpiacot...
 De már addig is ahhoz szoktatjuk magunkat, ami a legfontosabb: "Költs kevesebbet, keress többet, és fektesd be a különbözetet!".
