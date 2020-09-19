@@ -23,7 +23,7 @@ Ha viszont egy kicsit is részletesebben beleásunk -- és nem hagyjuk, hogy a s
 Olyan sokkal, ami azt illeti, hogy a mindössze 240 oldalas terjedelem ellenére én két részletben tárgyalnám a tanultakat.
 Az első körös tartalom:
 
-- [Hal helyett halászat](#1), avagy miért *ne* számítsunk konkrét tervrajzra;
+- [Hal helyett halászat](#1), avagy miért *ne* számítsunk konkrét tippekre;
 - [A "begyöpösödés"](#2), avagy napjaink beszűkült látóköre;
 - [Gazdasági szabadságfokok](#3), avagy a "rejtett" opciók a háttérben;
 - [A Reneszánsz ideál](#4), avagy hova akarjunk (kellene akarnunk?) eljutni.
@@ -69,19 +69,19 @@ Ahhoz pedig először fel kellene mérnünk a valós helyzetet...
 
 A modern fogyasztói társadalom sajnos jobban hasonlít Platón barlangjára, mint illene.
 A legtöbben mereven kapaszkodnak a falon látott árnyékokba vetett hitükbe, és csak nagyon kevesen jutnak ki (vagy egyáltalán néznek körül).
-És ha a "rabok" valahonnan mégis megkapják az infót, hogy ezek csak árnyékok, akkor még ők nézi hülyének a másikat...
+És ha a "rabok" valahonnan mégis megkapják az infót, hogy ezek csak árnyékok, akkor még ők nézik hülyének a másikat...
 Ha valami _annyira_ idegen, hogy teljesen kívül esik a (megkövült) világképünkön, azt egyszerűen fel sem fogják.
 Ezért is fontos előre tisztázni: az itt leírtak első sorban egy nyitott elmét igényelnek!
 
 Fisker ígérete nem más, mint hogy specializált, függő fogyasztókból széles ismeretekkel rendelkező, független "Reneszánsz" emberré válhatunk.
 Olyan emberré, aki csak más (jobb, kreatívabb) megoldás hiányában használ pénzt.
-Ez az egész viszont egy filozófiai, életmód és szemléletmód-beli hanyatt-homlok változás.
+Ez az egész viszont egy filozófiai, életmód és szemléletmódbeli hanyatt-homlok változás.
 Pont ezért nincsenek tippek.
 Aki csak gyors tippeket akar, az még mindig a régi játékot játssza.
 És lehet, hogy a tippek következtében már egy kicsit hatékonyabban tud majd egy új adag értelmetlenségre költeni, de attól nem menekül, hogy költenie (és emiatt dolgoznia) kelljen.
 
 A siker tehát leginkább azon múlik, hogy mennyire vagyunk hajlandóak megkérdőjelezni "alapvető" dolgokat a világgal kapcsolatban.
-Ha mondjuk képesek vagyunk arról gondolkozni, hogy "Miért kell egyáltalán dolgozni?", nem csak arról, hogy "Hol is kellene dolgozni?" vagy hogy "Mennyit kellene keresni?".
+Ha mondjuk képesek vagyunk arról gondolkozni, hogy "Miért kell egyáltalán dolgozni?", nem csak arról, hogy "**Hol** is kellene dolgozni?" vagy hogy "Mennyit kellene keresni?".
 Ha belátjuk, hogy a szeretteinkkel is lehetnénk a robot helyett; vagy a saját céljainkat is kergethetnénk valaki másé helyett.
 Ha vesszük a fáradságot, hogy rájöjjünk, mi is tenne igazán boldoggá minket -- és aztán felismerjük, hogy ahhoz mennyire kevés pénz is kellene.
 
@@ -91,7 +91,7 @@ Vagyis attól, hogy nem vagyunk tisztában az egyéb lehetőségeinkkel, mégis 
 Egyetem-hitel-kocsi-hitel-lakás-munka-feleség-gyerek-hitel-ház-munka-hitel-nagyobbház-munka-mégegygyerek-munka-jobbkocsi-munka-munka-munka, és egy-kettőre ott leszünk a halál kapujában, egy "ránk erőltetett" út végén.
 Ha élveztük, akkor szuper!
 De ha ott jut eszünkbe, hogy nem ezt akartuk volna, akkor nincs "restart" gomb.
-Vagy ahogy Bagdy Emőke mondta: "A számla nekünk lesz benyújtva!"
+Vagy ahogy [Bagdy Emőke]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %}) mondta: "A számla nekünk lesz benyújtva!"
 
 Illetve egy gyors anekdota: épp a "non-konformitásról" olvastam ebben a fejezetben, amikor [ezt a számot](https://soundcloud.com/blackoutmusicnl/mizo-conform){:target="_blank"} sorsolta nekem a SoundCloud algoritmusa, és a hangeffekt utasított, hogy "Conform!".
 Hát csakazértse!
@@ -136,11 +136,17 @@ Már persze ha egy percre nem csak azzal a szemmel nézzük, hogy "Hát persze, 
 Amint egy kicsit belegondolunk, megláthatjuk, hogy:
 
 - Az oktatásunk nem a tudásra vagy a tapasztalatokra, hanem az ún. "benevelésre" (indoktrinációra) való;
+
 - Memorizálásra és engedelmességre pazaroljuk a gyerekkorunkat, beáldozzuk a szabadidőnket, hogy cserébe jó egyetemre kerüljünk, amivel jó munkánk lehet;
-- A diploma az intelligencia helyett sokkal inkább a konformitás jelképe, ezért már sok olyan álláshoz is azt kérik, amihez nem is kellene;
+
+- A diploma az intelligencia helyett sokkal inkább a konformitás jelképe, ezért már sok olyan álláshoz is kérik, amihez nem kellene;
+
 - Csak arra az életre vagyunk felkészítve, amit a társadalom nekünk szán, minden más ösvény kitaposatlan (és ezért kevesen veszik a fáradságot, hogy arra próbálkozzanak);
+
 - Mindezt azért, hogy pénzért dolgozhassunk -- és aztán pénzzel váltsuk ki azt a sok dolgot, amire a munka miatt nincs már időnk;
-- Ha épp lenne is időnk, gyakran akkor sem lenne máshoz elég képességünk -- mert túlságosan elspecializálódtunk;
+
+- Vagy ha épp lenne is időnk, gyakran akkor sem lenne máshoz elég képességünk -- mert túlságosan elspecializálódtunk;
+
 - Viszont mivel ezekért fizetnünk kell, így még többet dolgozunk... Kedves kis ördögi kör!
 
 Azt nyugodtan kijelenthetjük, hogy a saját szűk kis területünket valószínűleg jobban tudjuk, mint a történelem során bárki.
@@ -186,14 +192,14 @@ Nem csak hamarabb érjük el a függetlenséghez elég nagy megtakarítást, han
 Mondhatni itt két irányból is gyorsíthatjuk a folyamatot, míg az extra bevétellel csak az egyikből.
 
 Ha pedig a hangsúlyos rész megvan, akkor a többi már "sablon".
-A bevételhez a tőkénk kamatai + egyéb (diverzifikált) bevételi forrásokon keresztül jutunk hozzá.
+A bevételhez a tőkénk kamatain + egyéb (diverzifikált) bevételi forrásokon keresztül jutunk hozzá.
 És az új életmódunkhoz szükséges kevéskét összekapargatni nem is lenne olyan nehéz akkor sem, ha véletlen egy válság miatt onnan nem jönne elég.
 Illetve külön hangsúly kap, hogy megtaláljuk, mit is csinálnánk a munka helyett!
 Mert ugye **nem** csak a megszokott "pálmafák alatt koktél szürcsöléses" nyaralgatás a cél.
 Kell valami jelentőségteljes -- és akinek ez a munka, az csak dolgozzon!
 De dolgozni sem lesz ugyanolyan, ha már nem **kell** dolgozni.
 
-
+<br />
 
 
 
@@ -241,11 +247,11 @@ A lineáris (hű, hogy is volt ez matek órán?) egyenesen arányos; vagyis amen
 A **nem**-lineárisnál viszont nincs ilyen megkötés.
 És habár ez jelenthetné azt is, hogy sok munkával sem érünk el semmit, általában inkább arra utal, hogy akár relatíve kevés munkával is sokat érhetünk el.
 
-Az a két dimenzió mentén (2 &times; 2 =) 4 embertípust különböztetünk meg:
+Ez a két dimenzió mentén (*2 &times; 2 =*) 4 embertípust különböztetünk meg:
 
 - **Fizetéses ember**: lineáris, szorosan kapcsolt.
-Vagyis a fizetése legfeljebb is csak a befektetett munkájával arányos, és cserébe még függ is tőle.
-Mindkét világból a rosszabbik, mégis ezt a típust tekintjük alapértelmezettnek.
+Vagyis a fizetése (legfeljebb) a befektetett munkájával arányos, és cserébe még függ is tőle.
+Mindkét világból a rosszabbik, mégis ezt a típust tekintjük alapértelmezettnek...
 
 - **Dolgozó ember**: lineáris, de már lazán kapcsolt.
 A bevétel még mindig csak a befektetett energiától függ, de emellé legalább már nem egy adott munkahely rabszolgája.
@@ -264,15 +270,16 @@ Már nem függ annyira (vagy akár egyáltalán) a piactól, mert saját, kreat�
 Ez egyrészt ellenálló képességet ad neki a változó körülményekkel szemben, másrészt az így megspórolt pénzzel mások idejét/energiáját is a saját javára fordíthatja a hozamai formájában.
 Látható viszont, hogy ez nem egy anyagi helyzet, hanem egy átfogó életmód.
 
-> A függetlenséget nem lehet birtokolni; függetlennek **lenni** lehet.
-> > Independence is not something one has; rather, it is something that one is.
+    > A függetlenséget nem lehet birtokolni; függetlennek **lenni** lehet.
+    > > Independence is not something one has; rather, it is something that one is.
 
+<br />
 Ha egy saját, közlekedési hasonlattal akarnék élni, azt mondanám, hogy:
 
-- A fizetésből élő ember gyalog van. (Saját energia, nincs B terv);
-- A dolgozó ember is gyalog, de hátizsákkal, benne pedig váltó ruha/cipő, esőkabát, kulacs, rágcsa, miegymás. (Saját energia, van B terv);
-- Az üzletember kocsival van, de legfeljebb a sárga angyalt tudja hívni, ha lerobban. (Mások energiája, nincs B terv);
-- A Reneszánsz ember pedig úgy megy kocsival, hogy közben van hátul egy szerszámos láda és olaj az útszéli javításhoz, vagy a tetőcsomagtartón egy bicikli ha mégis ott kell hagyni. Vagy tudna menni gyalog is, amihez persze szintén ott a hátizsák. Vagy stoppol. (Mások energiája **is**, van B terv).
+- A fizetésből élő ember gyalog van. *(Saját energia, nincs B terv)*;
+- A dolgozó ember is gyalog, de hátizsákkal, benne pedig váltó ruha/cipő, esőkabát, kulacs, rágcsa, miegymás. *(Saját energia, van B terv)*;
+- Az üzletember kocsival van, de legfeljebb a sárga angyalt tudja hívni, ha lerobban. *(Mások energiája, nincs B terv)*;
+- A Reneszánsz ember pedig úgy megy kocsival, hogy közben van hátul egy szerszámos láda és olaj az útszéli javításhoz, vagy a tetőcsomagtartón egy bicikli ha mégis ott kell hagyni. Vagy tudna menni gyalog is, amihez persze szintén ott a hátizsák. Vagy stoppol. *(Mások energiája **is**, van B terv)*.
 
 Innentől az a kérdés, hogy melyik módon a legbiztosabb a célba érés?
 Persze senki nem tartozik tisztán az egyik kategóriába -- ezek inkább csak archetípusok, és egyáltalán nem átjárhatatlanok.
@@ -288,7 +295,7 @@ Csak csináljuk, amit magunk körül látunk: szociális interakciók, majd azok
 Ezt a klímaváltozás, az erőforrások elfogyása, a piaci ingadozások, és hasonszőrű társaik persze úgyis megváltoztatják előbb-utóbb.
 És az alkalmazkodásra (is, ahogy a mostani körülmények navigálására is) a Reneszánsz ember lesz a legalkalmasabb.
 
-
+<br />
 
 
 
@@ -332,16 +339,16 @@ A szemfüles olvasó pedig észreveheti majd a kísérteties hasonlóságot a bl
 1. **Fiziológiai**: optimális fizikai és mentális egészség; helyes edzési és táplálkozás szokások; sport; regenerálódás.
 
 2. **Intellektuális**: kritikus gondolkodási készség; laterális gondolkodás; önálló tanulás (és az erre való igény!); alternatívák objektív kiértékelése és rangsorolása.
-    - Szélesség > mélység, ha tudásról van szó.
+    - Szélesség > mélység, ha a tudásról van szó.
     - Laterális = "interdiszciplináris" = egy bizonyos területen már megszerzett tapasztalatot egy új területen is alkalmazni tudjuk.
     - <p>Ha csak a mások által már feltárt opciókat (és az ezekkel járó megkötéseket) vesszük figyelembe, akkor egy csomó olyan megoldásról lemaradhatunk, amik nekünk jobbak lehettek volna.</p>
 
-3. **Gazdasági**: érték kontra ár különbség felismerése; hatékonyság; stratégikus és hosszútávú gondolkodás; mások motivációjának (és esetleges hátsó szándékának) felismerése; pénzügyi ismeretek; kereslet/kínálat; kötvények/tőzsde működése; önálló adó ügyintézés és elszámolás.
+3. **Gazdasági**: *érték* kontra *ár* különbség felismerése; hatékonyság; stratégikus és hosszútávú gondolkodás; mások motivációjának (és esetleges hátsó szándékának) felismerése; pénzügyi ismeretek; kereslet/kínálat; befektetési formák működése; önálló adó ügyintézés és elszámolás.
 
 4. **Érzelmi**: értékek (nem árak!) helyes felbecsülése; erőforrások helyes beosztása; objektivitás; ellenállás a manipulációnak; nyugodtság és stressztűrés; érzékletesség és kifinomult ízlés; empátia és szociális kapcsolatok.
-    - A döntéseink helyessége, és a hosszútávú céljaink jelenlegi tetteinkkel való hatékony összehangolása, leginkább azon múlik, hogy mennyire vagyunk tisztában a saját értékrendünkkel (és mennyire következetesen ragaszkodunk hozzá).
+    - A döntéseink helyessége és a hosszútávú céljaink jelenlegi tetteinkkel való hatékony összehangolása leginkább azon múlik, hogy mennyire vagyunk tisztában a saját értékrendünkkel (és mennyire következetesen ragaszkodunk hozzá).
     - Belső érzelmi kontroll: tudjuk, hogy mit kellene.
-    - <p>Külső érzelmi kontroll: képesek is vagyunk tenni, amit kellene.</p>
+    - <p>Külső érzelmi kontroll: képesek is vagyunk tenni, amiről tudjuk, hogy kellene.</p>
 
 5. **Szociális**: emberek megismerése a munkán/hobbin/lakhelyen/stb. _kívülről_; közösségépítés; osztozkodás; eladás és cserélés; esetleg akár politika (valamilyen szinten).
 
@@ -351,7 +358,7 @@ A szemfüles olvasó pedig észreveheti majd a kísérteties hasonlóságot a bl
 
 7. **Ökológiai**: szisztematikus gondolkodás (az egész és a részek megértése); alapvető növény és állatismeret; étel-szezonok; alapvető kertészet; egyensúlyi állapot; különböző kimenetekre való optimalizáció.
 
-Az utolsó pontot (különböző kimenetekre való optimalizáció) külön kiemelném: a rendszer-szemléletű gondolkodásmód nem csak arra vonatkozik, hogy "Jajj, védjük a természetet!".
+Az utolsó pontot külön kiemelném: a rendszer-szemléletű gondolkodásmód nem csak arra vonatkozik, hogy "Jajj, védjük a természetet!".
 Sokkal inkább arra, hogy egy szituáció minden következményével tisztában vagyunk, és ezért megfelelő szempontot választunk a "siker" mérésére.
 Ha csak a pénzre optimalizálunk, akkor egy többet fizető, de lélekölő és stresszes állás is jobbnak fog tűnni (egészen a 40-es éveinkre várható szívrohamig).
 Igyekezzünk tehát a részek helyett az egésszel foglalkozni -- ahhoz pedig a legtöbbünknek elég sokat kell még tanulni.
@@ -359,7 +366,7 @@ Igyekezzünk tehát a részek helyett az egésszel foglalkozni -- ahhoz pedig a 
 A formális oktatásunk elvileg csak arra lenne egy alap, hogy onnantól majd mi magunk csináljuk tovább.
 És mint látjuk, bőven lenne mit! (Aki "kész" a fentiekből mindennel, az legyen szíves írjon, lenne pár kérdésem...)
 Ha az iskola után megállunk, az elég nagy baj, mert addig csak épp annyit tanultunk, hogy agyatlan fogaskerekek lehessünk a gépben.
-Tanuljunk tehát aktívan -- és ne csak lássuk/halljuk, hanem mondjuk vagy csináljuk is!
+Tanuljunk tehát aktívan -- és ne csak lássuk/halljuk, hanem mondjuk és csináljuk is!
 
 <br />
 
