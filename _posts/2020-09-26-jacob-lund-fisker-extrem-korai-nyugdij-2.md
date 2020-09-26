@@ -4,14 +4,20 @@ title: Jacob Lund Fisker - Extrém Korai Nyugdíj - 2
 date: 2020-09-26 00:01
 excerpt: >
     A héten Jacob Lund Fisker Extrém Korai Nyugdíjazásról szóló könyvének vesézését folytatjuk.
-    Aki lemaradt volna az első feléről, az nyugodtan olvasson vissza, a többiekkel pedig a következőkkel folytatjuk...
+    Aki lemaradt volna az első feléről, az nyugodtan olvasson vissza, a többiekkel pedig a következő szálakon megyünk tovább...
 ---
 
 A héten Jacob Lund Fisker [Extrém Korai Nyugdíjazásról](https://www.goodreads.com/book/show/9519944-early-retirement-extreme){:target="_blank"} szóló könyvének vesézését folytatjuk.
-Aki lemaradt volna az első feléről, az nyugodtan [olvasson vissza]({% post_url 2020-09-19-jacob-lund-fisker-extrem-korai-nyugdij-1 %}), a többiekkel pedig a következőkkel folytatjuk:
+Aki lemaradt volna az első feléről, az nyugodtan [olvasson vissza]({% post_url 2020-09-19-jacob-lund-fisker-extrem-korai-nyugdij-1 %}), a többiekkel pedig a következő szálakon megyünk tovább:
 
 - [Taktikák, tervek és stratégiák](#1)
 - [A Reneszánsz életstílus](#2)
+    - [Dolgok](#21)
+    - [Lakhely](#22)
+    - [Egészség](#23)
+    - [Közlekedés](#24)
+    - [Szolgáltatások](#25)
+    - [Emberek](#26)
 - [Pénzügyi alapok](#3)
 
 <br />
@@ -66,7 +72,7 @@ Ehhez persze a kötelezettségektől meg kell szabadulni, mert csak akkor irány
 A laza kapcsolódás, illetve az életünk önálló és önfenntartó "moduljai" vezetnek ide; így fogunk több lábon állni, és lehetünk majd igazán függetlenek.
 
 Fontos azonban, hogy a céljaink szinergisztikusak legyenek, és ne "oltsák ki egymást"!
-Például ha vezetésnél felváltva fékezgetünk és gyorsítgatunk, akkor igazából a benzin nagy részét arra használjuk, hogy a fékeket felmelegítsük, ami pazarló és egyáltalán nem hatékony.
+Például ha vezetésnél felváltva fékezgetünk és gyorsítgatunk, akkor igazából a benzin nagy részét arra használjuk, hogy a fékeket felmelegítsük, ami pazarlás.
 Egymással ellentétes irányba mutató cselekedetek és célok esetén ugyanezt csináljuk az életenergiánkkal is.
 Mondjuk többet dolgozunk, hogy aztán a plusz pénzből kiheverjük/kezeltethessük azokat a tüneteinket, amik a nagy hajtás nélkül nem is lennének.
 
@@ -77,9 +83,9 @@ A hivatkozott munka / "élet" egyensúly már legalább 2 dimenziós, de még ez
 Pedig ha pontosabban szeretnénk megtervezni a saját életünket, akkor ezeket mind figyelembe kell vennünk.
 
 A dimenziók mentén aztán már könnyebben értelmezhető (és mérhető!), hogy ténylegesen mit is csinálunk.
-Tegyük fel, hogy a szemünk előtt lebeg mind a 8 dimenzió.
+Tegyük fel, hogy a szemünk előtt lebeg mind a 8 fent említett dimenzió.
 Ha mellette azt látjuk, hogy egy bizonyos tettünk ebből csak egyre van jó hatással, hármat nem érint, és négyet pedig egyenesen hátráltat, akkor egyből nem olyan valószínű, hogy megtesszük.
-Persze a 8 csak egy hasamra ütős példa, másoknak lehetnek teljesen eltérő személyes dimenziói.
+Persze ez a konkrét 8 csak egy hasamra ütős példa, másoknak lehetnek teljesen eltérő személyes dimenziói.
 A lényeg, hogy legyenek meg, és tartsuk őket "látható" helyen, ahol befolyásolhatják a döntéseinket.
 Egy jó stratégia pedig mindezek alapján úgy alakítja ki a tetteink "hálóját", hogy azok a legnagyobb nettó pozitív hatással legyenek az összes cél-dimenziónkra.
 
@@ -133,25 +139,25 @@ A meglepetés az, hogy itt leginkább abból az irányból közelítünk, hogy h
 Ilyen élet mellett pedig a "sima" fizetés is elég lesz, hogy hamar nagy rést nyithassunk...
 
 
-#### Dolgok
+#### <a name="21"></a>Dolgok
 
 A dolgokkal kapcsolatban a legfontosabb meglátás: nincs olyan, hogy "szükségletek" kontra "luxusok".
 Minden csak a személyes értékrend skálánkon helyezkedik el -- és mindenki oda húzza be a vonalat, ahova jónak látja.
 Az más kérdés, hogy egymással kompatibilisen húzza-e be a vonalakat...
-Ha pl. belemegy a társadalmi alapértelmezésbe a kocsival, a gyerekkel, a házzal meg a hitellel, azért cserébe más területeken sajnos már nem választhatja azt, amit szeretne (például hogy nem dolgozza halálra magát).
+Ha például belemegy a társadalmi alapértelmezésbe a kocsival, a gyerekkel, a házzal meg a hitellel, azért cserébe más területeken sajnos már nem választhatja azt, amit szeretne (például hogy nem dolgozza halálra magát).
 Viszont mivel a vágyak belső indíttatások (és mint [Thoreau]({% post_url 2020-03-06-henry-david-thoreau-walden %})-nál láttuk, a ténylegesen alap, fizikai szükségleteink nagyon minimálisak), ezért a lemondás hatékony fegyver lehet az arzenálunkban.
 Na azt sem kell túlzásba vinni -- a korlátlan fogyasztás és az über-minimalizmus között valahol félúton van az igazság.
 
 A másik nagy tanulság az amortizáció, vagyis hogy mindennek a napi/havi/éves díját vegyük inkább figyelembe ahelyett, ami az árcédulán szerepel!
 Az olyan minőségi eszköz, ami később még mindig jó áron eladható, az igazából nem is volt olyan drága (ha a rajta összehozott "veszteségünk" alapján napidíjat számolnánk).
 Ezzel szemben ha valamit relatíve olcsón szerzünk, de aztán még azt az árat sem "szolgálja meg", akkor valójában mégis drága volt, nem?
-Mellesleg ha inkább bérlésként mint birtoklásként tekintünk mindenünkre, az meggátolja majd a túlzott kötődést is -- és ez jó!
+Mellesleg ha inkább bérlésként mint birtoklásként tekintünk mindenünkre, az meggátolja majd a túlzott tárgyakhoz való kötődést is -- és ez jó!
 
 Legyünk mi a cuccunk urai, és ne fordítva!
 Ehhez egyrészt nagyon fontos, hogy mi jön **befelé**, és hogy ezt korlátozzuk!
 Fisker erre a "kívánságlista" módszert ajánlja, ami egy kötelező csúsztatást visz a folyamatba.
-Ha szeretnénk valamit, akkor azt dátummal együtt felírjuk, és ha egy hónapon múlva még mindig annyira kell, akkor megvehető.
-Mi ezt itthon időnként egy ún. "strigulázásra" egészítjük ki, ahol a várólistánkon lévő dolgokat napi szinten megbeszéljük, és aztán vagy hozzáteszünk egy strigulás a sorukhoz, vagy elveszünk egyet.
+Ha szeretnénk valamit, akkor azt dátummal együtt felírjuk, és ha egy hónap múlva még mindig annyira kell, akkor megvehető.
+Mi ezt itthon időnként egy ún. "strigulázásra" egészítjük ki, ahol a várólistánkon lévő dolgokat napi szinten megbeszéljük, és aztán vagy hozzáteszünk egy strigulát az adott sorhoz, vagy elveszünk egyet.
 Vásárlás csak 30 strigula felett lehet -- vagyis ebből a szempontból egy-az-egyben Fisker módszere, csak itt többször gondoljuk át, és visszafelé is van út.
 
 Ha pedig tényleg úgy döntünk, hogy bejön valami, akkor is van még mire figyelni.
@@ -161,8 +167,8 @@ Másrészt jó tisztában lenni azzal, hogy a birtoklás nem az egyetlen megold�
 Lehet dolgokat bérelni, kölcsön kérni, vagy akár közös használatba (másokkal együtt) beszerezni.
 Illetve sokszor érdemes lehet várni -- ha türelmes az ember, akkor _ugyanaz_ is lehet sokkal olcsóbb!
 
-A másik irány, hogy minek kellene **kifelé** menni.
-Ehhez a legjobb a kategorizálás a "Mikor használtam utoljára?" kérdés alapján.
+A másik irány, hogy minek kellene **kifelé** mennie.
+Ehhez a legjobb a kategorizálás a "Mikor használtam utoljára?" kérdés alapján történik.
 Ami a múlt hónapban nem kellett, az nagy valószínűséggel meneszthető.
 És higgyük el, lesz ilyen... Még akár olyan is, amiről nem is tudtunk vagy megfeledkeztünk!
 A "megszabadulásnál" a kidobás/adományozás/eladás kb. az értéktől függ (és hogy mennyit akarunk vele foglalkozni).
@@ -170,8 +176,8 @@ A "megszabadulásnál" a kidobás/adományozás/eladás kb. az értéktől függ
 Ami marad, arról viszont gondoskodjunk rendesen!
 Karbantartásnál jó ökölszabály, hogy ha több mind egyszer kell megcsinálni, akkor érdemes nekünk csinálni.
 Inkább szerezzünk rendes szerszámokat (és építsünk ki magunkban megfelelő önbizalmat), mint hogy függnünk kelljen a szakiktól.
-És ha már valamink, akkor használjuk kreatívan -- kb. mintha egy lakatlan szigeten lennénk, és az van, ami van.
-Érdekes módon azt fogjuk látni, hogy a "hivatalos" megoldás nélkül is megoldható egy csomó minden
+És ha már van valamink, akkor használjuk kreatívan -- kb. mintha egy lakatlan szigeten lennénk, és az van, ami van.
+Érdekes módon azt fogjuk látni, hogy a "hivatalos" megoldás nélkül is megoldható egy csomó minden.
 A könyv konkrétan kimondja: nem kell félni "kókányolni", mert azzal is rengeteget tanul az ember.
 Józan ész persze kell hozzá, de annál sokkal több nem nagyon.
 
@@ -185,11 +191,11 @@ Ilyenkor minél több kombinációt próbálunk minél kevesebb alapanyagból ki
 Ezt a témakört külön könyvek tárgyalják, úgyhogy ide még visszatérünk...
 
 
-#### Lakhely
+#### <a name="22"></a>Lakhely
 
 Kezdésnek az egyik kedvenc idézetem a könyvből:
 
-> Az étterem szintű konyhák mérete általában azzal az idővel arányos, amennyit a tulajdonosok **nem** ott töltenek -- amíg inkább éttermekben esznek.
+> Az étterem szintű konyhák mérete általában azzal az idővel arányos, amennyit a tulajdonosaik **nem** ott töltenek -- és inkább éttermekben esznek.
 > > [...] restaurant-sized kitchens which seem proportional in size to the time the owners spend away from them, eating out.
 
 Vagyis: a funkcionalitásra kell helyeznünk a hangsúlyt, nem a fényűzésre.
@@ -206,18 +212,18 @@ Nem kötelező persze, de fontos felismerni, hogy nem csak a paneldzsungel/kertv
 A főnevek helyett érdemes igékben gondolkozni.
 Nem fürdőszoba, vagy konyha, hanem fürdés és főzés.
 Ezeket szeretnénk csinálni, de mellette ott van mondjuk az edzés, úszás, mozizás, olvasás, stb.
-És ha okosak vagyunk, akkor ezekből csak az lesz otthon is duplikálva, ami tényleg annyira gyakori.
-Illetve ha is valamire otthoni megoldás, az sem muszáj, hogy olyan legyen, mint másoké.
-Például a konyha felszereltsége is az étrend függvénye (kellene, hogy legyen).
+És ha okosak vagyunk, akkor ezekből csak az lesz otthon is duplikálva, ami tényleg annyira gyakran használt -- a maradékra vannak intézmények, lásd. könyvtár, uszoda, stb.
+Illetve ha tényleg kell is valamire az otthoni megoldás, az sem muszáj, hogy olyan legyen, mint másoké.
+Például a konyha felszereltsége az étrend függvénye (kellene, hogy legyen).
 
-Hűtési és fűtési megoldások helyett a saját testünk toleránsabbá tétele nagyon is megéri.
+Hűtési és fűtési megoldások helyett a saját testünk toleránsabbá tétele nagyon megéri.
 Mindjárt nem lesz muszáj, hogy konstans 21 **és fél** fok legyen a nappaliban amint egy kicsit ellenállóbbá tesszük magunkat.
 Mindez szoros összefüggésben áll a kajával, a mozgással, a ruházattal, a napirenddel, az aktuális évszakkal...
 De ha figyel az ember (és megfelelően áll hozzá), akkor megy az.
 A lényeg, hogy itt sem csak a "feltekerem a kályhát" vagy "belövöm a klímát" létezik!
 
 
-#### Egészség
+#### <a name="23"></a>Egészség
 
 A "fitness" szó szerint _alkalmasság_, vagyis hogy alkalmasak vagyunk-e megfelelően élvezni az életünket és használni a saját testünket.
 Ezért az optimális fitness-nél véletlen sem a látványosan dagadó izmokra vagy a kockás hasra kell gondolni, hanem hogy mondjuk bringával eljutunk-e A-ból B-be, vagy fel tudjuk-e vinni azt a 20 kilós zsákot lépcsőn a negyedikre.
@@ -226,8 +232,8 @@ Ha fittek vagyunk, akkor menni fognak a hétköznapi aktivitások, jobban szabá
 > Szomorú lesz egész nap a kanapén ülni és kimaradni a fizikai aktivitásokból csak azért, mert azt hisszük, hogy a korunk miatt vagyunk gyengék.
 > > It will be sad to sit on the couch all day, being shut out of physical activities due to a belief that weakness comes from age.
 
-A fontos komponensek az étrend + mozgás + megfelelő regeneráció -- mint ahogy már a blogon is vettük (és venni is fogjuk még a közeljövőben).
-Mozgás tekintetében csak futólag (hehh, _futólag_) érintjük az intervallum edzéseket és a testsúllyal végzett gyakorlatokat -- részletekért ajánlom a [Fegyencedzést]({% post_url 2020-04-03-paul-wade-fegyencedzes %}).
+A fontos komponensek az étrend, a mozgás, és a megfelelő regeneráció -- mint ahogy már a blogon is vettük, és venni is fogjuk még.
+Mozgás tekintetében csak futólag (hehh, _futólag_...) érintjük az intervallum edzéseket és a testsúllyal végzett gyakorlatokat -- részletekért ajánlom a [Fegyencedzést]({% post_url 2020-04-03-paul-wade-fegyencedzes %}).
 
 Kajánál sokan hangulatjavítónak (vagy függésből) esznek, sokan pedig nem is tudatosan.
 Részletekbe itt sem megyünk, de a legfontosabb tanulság, hogy nem kell félni az éhség érzetétől!
@@ -248,7 +254,7 @@ De ez később változhat -- és az emberiség aktuális trendjeit figyelembe v�
 <small>Szóval készülj Isti, ha beüt az apokalipszis és összeomlik a társadalom, valószínűleg nálatok fogunk kisegítősködni a kertben amíg meg nem tanuljuk magunkat is ellátni...</small>
 
 
-#### Közlekedés
+#### <a name="24"></a>Közlekedés
 
 Mint ahogy a lakhelynél már említettük: nagyon nem mindegy, hogy **hol** lakunk (ami ugye drasztikusan csökkentheti az utazási szükségleteinket).
 De ha már utaznunk kell, akkor ne hagyjuk figyelmen kívül az árát!
@@ -261,10 +267,10 @@ De az idő különbözetet azzal tölthetjük majd, hogy megdolgozunk a kocsink�
 
 A futás és a bringázás nagyon ajánlottak közlekedési módként is (főleg, ha jól választottuk meg a lakóhelyünket).
 Erre már csak rátesz egy lapáttal, hogy egy csapásra az edzésünket is letudhatnánk.
-Érdemes tehát kiszámolni, hogy tényleg megéri-e a kocsi -- vagy ha van is, akkor legalább hogy hogyan használjuk.
+Érdemes tehát kiszámolni, hogy tényleg megéri-e a kocsi -- vagy ha van is, akkor legalább átgondolni, hogy hogyan használjuk.
 
 
-#### Szolgáltatások
+#### <a name="25"></a>Szolgáltatások
 
 A kismillió lehetőség nagyjánál szerencsére legtöbben tisztában vannak vele, hogy az nem "szükség".
 Úgyhogy itt most csak azokra térünk ki, amik a leginkább természetesnek és esszenciálisnak próbálják eladni magukat:
@@ -283,19 +289,20 @@ De ha kapcsolatépítéshez, médiakönyvtárként, vagy úgy egyáltalán önfe
 - Csak semmi hitelkártya -- nem költünk olyan pénzt, amit még nem kerestünk meg!
 Ez alól csak a bevételt termelő vállalkozások gyorsabb növelése lehet(ne) kivétel, de ott is kockázatos és nagyon megfontolandó.
 
-    > Lehet, hogy a gazdagok is vesznek fel hitelt, de a vagyonosok soha.
+    > Lehet, hogy a gazdagok vesznek fel hitelt, de a vagyonosok soha.
     > > The rich may use credit, but the wealthy don't.
 
 - Biztosítások tekintetében csak olyanra kössünk, aminek az elvesztése katasztrofális helyzetbe hozna!
 Ha a biztosítónak jó üzlet ez az egész, akkor nekünk valószínűleg nem az...
+És tekintve, hogy milyen jelentős tartalékokat szeretnénk építeni a pénzügyi függetlenség érdekében, előbb-utóbb úgyis saját magunkat biztosítjuk majd.
 
 
-#### Emberek
+#### <a name="26"></a>Emberek
 
 A költéshez és a befektetéshez való hozzáállás mentén 4 féle embertípust különböztethetünk meg.
-A leggyakoribb természetesen a 1) fogyasztó, aki sokat költ, de nem fektet be.
-Ettől leginkább csak akkor térnek el, ha 2) nem **tudnak** sokat költeni (de akkor befektetés sincs), vagy 3) annyi a befektetés, hogy mellette kényelmesen költhetnek (és költenek is).
-Szóval ha egyszerre leszünk 4) spórolósok és befektetők, akkor mindenhonnan erősen ki leszünk nézve, készüljünk fel...
+A leggyakoribb természetesen a **1)** fogyasztó, aki sokat költ, de nem fektet be.
+Ettől a mintától leginkább csak azok térnek el, akik **2)** nem **tudnak** sokat költeni (de akkor befektetés sincs), vagy akiknél **3)** annyi a befektetés, hogy mellette kényelmesen költhetnek (és költenek is).
+Szóval ha egyszerre leszünk **4)** spórolósok és befektetők, akkor mindenhonnan erősen ki leszünk nézve, készüljünk fel...
 A fogyasztókkal nem nagyon lesz közös talaj, a másik kettőnél pedig próbáljuk azt hangsúlyozni a kapcsolatunkban, ami a közös.
 A spórolósoknak ne emlegessük a portfóliónkat, a nagy befektetőknek pedig ne emlegessük, hogy hol és hogyan lakunk.
 
@@ -304,7 +311,7 @@ A háztartáson belül is fontos minél hasonlóbb értékrendű párt találni 
 Majd esetleg akkor térnek meg a mi oldalunkra, ha látják, hogy az tényleg jobb -- de ahhoz látniuk kell.
 Jó átvezetés lehet először "csak" egy pár éves vésztartalék kialakítása a [sztenderd hat havi]({% post_url 2020-03-20-vicki-robin-your-money-or-your-life %}#9) fölé, ami más megvilágításba helyezhet egy csomó mindent.
 
-Még egy fontos kitérő: a gyerekvállalás általában azért nagyon drága, mert a szülők egy nagyon drága dolgot csinálnak belőle (ahogyan a saját életükből is).
+Még egy fontos kitérő (bár mind Fisker, mind jómagam csak külső szemlélőként ugatunk bele): a gyerekvállalás általában azért nagyon drága, mert a szülők egy nagyon drága dolgot csinálnak belőle (ahogyan a saját életükből is).
 Ha van elég szabadságunk, hogy mi magunk foglalkozzunk velük, azzal rengeteget spórolhatunk.
 Ha az ő dolgaikkal kapcsolatban sem vesszük be a fogyasztói társadalom maszlagait és magunk oldjuk meg a játékaikat és élményeiket, akkor még többet.
 
@@ -350,7 +357,7 @@ Aki csak költ és felél, az a nyugdíjat is mindössze az addig összegyűjtö
 Aki viszont befektet, az sokkal inkább egy olyan környezetet teremt magának, ami majd idővel már eltartja (határozatlan ideig).
 
 A legegyszerűbb pénzügyi körforgás az, ahol a munkánkért pénz kapunk, a pénzünkért pedig "cuccot".
-Ez viszont amilyen egyszerű, olyan szorosan kapcsolat (ahogy a fizetéses rabszolgánál már láttuk).
+Ez viszont amilyen egyszerű, olyan szorosan kapcsolt (ahogy a fizetéses rabszolgánál már láttuk).
 Ha ebbe belevesszük a "hulladék" végállomást, az életszerűbb (a költéseink nagy része idő előtt a kukában köt ki), de emiatt már még kevésbé hatékony.
 Hitellel ideiglenesen kibővíthető a pénz áramlása, de az kamatok formájában mások zsebébe csúsztat, vagyis szintén "káros".
 Ha pozitívumot akarunk, akkor arra ott a vésztartalék (hogy ne legyen akkora baj, ha borul a rendszer), vagy a bevétel diverzifikálása (hogy eleve nehezebben boruljon meg a rendszer, és akkor sem akkorát).
@@ -363,27 +370,27 @@ Megcélozni pedig meg lehet a teljes pénzügyi függetlenséget, vagy az idősz
 
 Abszolút számok helyett érdemes relatívan, a kiadásainkhoz képest gondolkozni.
 Itt jön elő a megtakarítási ráta, vagyis hogy a bevételünk hány százalékából tudunk megélni -- feltéve, hogy a többit félretesszük.
-Ez pedig kis matekozással meglátható, hogy milyen durván hat a vésztartalék képzés sebességére, vagy hogy milyen gyakran és mennyit kellene dolgoznunk a megélhetésért.
-Mindent érdemes havi kiadásokra bontani, és ezzel a szemüveggel nézni, hogy mennyi befektetés is kellene annak a kitermeléséhez.
+Ez pedig kis matekozással meglátható, hogy milyen durván hat a vésztartalék képzés sebességére, vagy arra, hogy milyen gyakran és mennyit kellene dolgoznunk a megélhetésért.
+Mindent érdemes havi kiadásokra bontani, és azzal a szemüveggel nézni, hogy mennyi befektetés kellene annak a kitermeléséhez.
 Ami egyszeri/nem ismétlődő, annál a már emlegetett amortizációval számolhatunk havi átlagot.
 
-A végcél a havi költésünk kb. 400-szorosának a megspórolása -- ez felel meg annak a nagyjából 2-3%-os éves "felélésnek", amit a kamatok fenn tudnak tartani az alaptőke csökkentése nélkül.
+A végcél a havi költésünk kb. 400-szorosának a megspórolása -- ez felel meg annak a nagyjából 2-3%-os éves "felélésnek", amit a kamatok fenn tudnak majd tartani az alaptőke csökkentése nélkül.
 Idáig eljutni pedig inkább a mi dolgunk, mint a piacé.
 A kamatos kamat persze továbbra is nagyszerű dolog, de az leginkább hosszú távon képes komolyabb eredményt felmutatni.
 Ha mi relatíve rövid távon szeretnénk kiszabadítani magunkat, akkor a megtakarítási rátánk növelésével látványosabb tempót érhetünk el.
 
-Optimistán tegyük fel, hogy már ott is vagyunk a célnál.
+Na jó, optimistán tegyük fel, hogy már ott is vagyunk a célnál.
 És akkor hogyan tovább?
 Menedzsment téren vagy durván fizethetünk másoknak, hogy a pénzünkkel szórakozzanak, vagy megtanulhatjuk mi magunk is kezelni.
 Azt pedig mindenki döntse el magának, hogy egy arányosan nagyobb portfóliót összeszedni vagy a befektetésbe beletanulni lenne-e könnyebb?
 De a könyv eddigi mentalitásából szerintem nem nehéz megtippelni, hogy a szerző melyik felé hajlik...
 
-Ez a beletanulás minden esetre más könyveket fog igényelni, mert itt nincs sok konkrétuk.
-De az ugye taktika lenne, nem stratégia!
+Ez a beletanulás minden esetre más könyveket fog igényelni, mert itt nincs sok konkrétum.
+De az ugye eleve taktika lenne, nem stratégia!
 A taktikát majd megtanuljuk máshonnan...
 Itt pedig csak néhány átfogó tanulság szerepel:
 
-- A befektetésnél már **nem** lesz arányos a bevétel a befektetett idővel -- ez a lényeg, ezért csináljuk!
+- A befektetésnél már **nem** lesz arányos a bevétel a ráfordított idővel -- ez a lényeg, ezért csináljuk!
 Viszont akkor ne is felejtsük ezt el a portfólió menedzsmentnél: nem muszáj folyton zsizseregni!
 Sokszor pont az a legbölcsebb, ha várunk.
 
@@ -392,11 +399,11 @@ Azért vagyunk itt, hogy megvédjük az alaptőkénket, lépést tartsunk az inf
 Ezek legyenek tehát a szempontok, amik alapján megítéljük, hogy egy befektetési forma "jó"-e!
 
 - Mindig csak olyanba fektessünk, amihez értünk!
-Az változhat, hogy mikor épp a részvények/kötvények/ingatlanok vannak "felül".
+Az változhat, hogy épp a részvények/kötvények/ingatlanok vannak-e "felül".
 De az viszont szinte borítékolható, hogy megfizetjük a tanulópénzt, ha olyanba fektetünk, amihez nem értünk.
 
 Garancia természetesen nincs.
-Az eddigiek nem határozzák meg a jövőt, és bármikor összeomolhat a piac.
+Az eddigi tendenciák nem határozzák meg a jövőt, és bármikor összeomolhat a piac.
 De egy olyan helyzetben milyen életet akarnánk inkább?
 Egy olyat, ahol sok befolyó pénz kell az igényeink kielégítéséhez -- ami valószínűleg _nem_ lesz, hiszen ugye épp összeomlott a piac?
 Vagy egy olyat, ahol relatíve magunktól is önállóak és kis igényűek vagyunk, amit pedig szinte bármiből fogunk tudni finanszírozni?
@@ -432,12 +439,14 @@ Na ugye...
 
 Fisker leginkább a PhD-jének köszöni az eddigiekben felvázolt gondolkodásmódját.
 Ott tanulta meg ugyanis, hogy bizonyos helyeken már nincsenek meg előre a válaszok.
-Az iskolában ugye még mindig volt kit kérdezni, ha valamit nem tudtunk, de a kutatások során pont az a lényeg, hogy valamit még nem tudunk.
-És ez a hozzáállás kell ahhoz is, hogy a jelenlegi világot megkérdőjelezze az ember.
-Hogy ne csak vakon elfogadja a válaszokat, hanem felismerje az alternatívákat, és válasszon magának valami jobbat.
-Ezzel abszolút egyet tudok érteni -- viszont ehhez jó esetben nem kellene egy PhD!
+Az iskolában még mindig volt kit kérdezni, ha valamit nem tudtunk, de a kutatások során pont az a lényeg, hogy azt a valamit még senki nem tudja.
+Ez pedig gyorsan megtanítja az embert az objektivitásra és az öngondoskodásra.
 
-Vonjuk hát le a fő tanulságot: lépjünk hátra, és gondoljuk át, hogy mit is csinálunk!
+És pont ez a hozzáállás kell ahhoz is, hogy a jelenlegi világot megkérdőjelezhessük.
+Hogy ne csak vakon elfogadjuk a válaszokat, hanem felismerjük az alternatívákat, és válasszunk magunknak valami jobbat.
+Ezzel abszolút egyet tudok érteni -- viszont ehhez a meglátáshoz jó esetben nem kellene egy PhD!
+
+A fő tanulság: lépjünk hátra, és gondoljuk át, hogy mit is csinálunk!
 Bizonyosodjunk meg róla, hogy azt, amit tényleg akarunk, nem csak amit nekünk akarnak.
 Bizonyosodjunk meg arról is, hogy a céljaink nem egymás ellen dolgoznak, hanem egymást segítve tolnak minket egyre előrébb.
 Ha megvan a tényleges értékrendünk, és ahhoz igazítjuk az életmódunkat, akkor eleve nem lehet baj.
