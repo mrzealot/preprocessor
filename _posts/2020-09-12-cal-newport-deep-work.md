@@ -119,10 +119,10 @@ Viszont cserébe lesznek olyan dolgok is, amik nem hogy nem vesztik, de még ker
 
 Na most tulajok nem leszünk hirtelen -- sajnos továbbra sincs varázsütésre pénz -- de a másik két csoporthoz igenis lehet csatlakozni, ha (mint mondtuk):
 
-1. gyorsan tudnunk komplex dolgokat tanulni, és
+1. gyorsan tudunk komplex dolgokat tanulni, és
 2. gyorsan és jót tudunk magunkból kitermelni.
 
-Az gyors/komplex tanuláshoz is kell a deep work -- ez az ún. "deliberate practice", vagyis kb. "szándékos gyakorlás".
+A gyors/komplex tanuláshoz is kell a deep work -- ez az ún. "deliberate practice", vagyis kb. "szándékos gyakorlás".
 Fontos előfeltétel, hogy elfogadjuk: a _köznép_ és a profik közti különbség nem áthidalhatatlan!
 Csak csinálni kell...
 És habár idővel mindenkire "ragad valami", a sebességhez az kell, hogy ezek a neurális pályák izoláltan működjenek -- vagyis hogy csak arra figyeljünk, amit csinálunk, másra ne.
@@ -315,7 +315,7 @@ Néhány tipp:
 
 4. **Ne dolgozzunk egyedül!**
 
-    Nem csak az nyílt irodai terek adják a véletlenszerű ötletbőrzét, hanem hogy van egy hely, ahol találkozhatunk másokkal.
+    Nem csak a nyílt irodai terek adják a véletlenszerű ötletbőrzét, hanem hogy van egy hely, ahol találkozhatunk másokkal.
     De ez nem kell, hogy azt jelentse, hogy nem lehet magányos, bezárkózott "deep work" irodánk/szobánk!
     Szóval tegyük ki magunkat nyugodtan az ötletek áramlásának, de **ne** a deep work rovására (nehogy figyelem elterelés legyen belőle)!
 

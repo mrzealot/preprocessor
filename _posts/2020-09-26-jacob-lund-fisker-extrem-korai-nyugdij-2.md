@@ -157,7 +157,7 @@ Legyünk mi a cuccunk urai, és ne fordítva!
 Ehhez egyrészt nagyon fontos, hogy mi jön **befelé**, és hogy ezt korlátozzuk!
 Fisker erre a "kívánságlista" módszert ajánlja, ami egy kötelező csúsztatást visz a folyamatba.
 Ha szeretnénk valamit, akkor azt dátummal együtt felírjuk, és ha egy hónap múlva még mindig annyira kell, akkor megvehető.
-Mi ezt itthon időnként egy ún. "strigulázásra" egészítjük ki, ahol a várólistánkon lévő dolgokat napi szinten megbeszéljük, és aztán vagy hozzáteszünk egy strigulát az adott sorhoz, vagy elveszünk egyet.
+Mi ezt itthon időnként egy ún. "strigulázással" egészítjük ki, ahol a várólistánkon lévő dolgokat napi szinten megbeszéljük, és aztán vagy hozzáteszünk egy strigulát az adott sorhoz, vagy elveszünk egyet.
 Vásárlás csak 30 strigula felett lehet -- vagyis ebből a szempontból egy-az-egyben Fisker módszere, csak itt többször gondoljuk át, és visszafelé is van út.
 
 Ha pedig tényleg úgy döntünk, hogy bejön valami, akkor is van még mire figyelni.
@@ -362,9 +362,9 @@ Ha ebbe belevesszük a "hulladék" végállomást, az életszerűbb (a költése
 Hitellel ideiglenesen kibővíthető a pénz áramlása, de az kamatok formájában mások zsebébe csúsztat, vagyis szintén "káros".
 Ha pozitívumot akarunk, akkor arra ott a vésztartalék (hogy ne legyen akkora baj, ha borul a rendszer), vagy a bevétel diverzifikálása (hogy eleve nehezebben boruljon meg a rendszer, és akkor sem akkorát).
 
-Az könyvben eddig tárgyaltak leginkább a hulladékot, a hitelek miatti veszteséget, és úgy általában a költést próbálták csökkenteni.
+A könyvben eddig tárgyaltak leginkább a hulladékot, a hitelek miatti veszteséget, és úgy általában a költést próbálták csökkenteni.
 Most térhetünk rá arra, hogy hogyan dolgoztassuk a pénzünket.
-Hiszen ami a hitelnél más emberek zsebébe vándorolt, az akár más eberek hiteléből is vándorolhatna a mi zsebünkbe (képletesen).
+Hiszen ami a hitelnél más emberek zsebébe vándorolt, az akár más emberek hiteléből is vándorolhatna a mi zsebünkbe (képletesen).
 A legegyszerűbb ehhez továbbra is azt csinálni, amit már amúgy is csinálunk, miközben fogyasztjuk a kiadásainkat.
 Megcélozni pedig meg lehet a teljes pénzügyi függetlenséget, vagy az időszakos munkát (és bármit a kettő között).
 

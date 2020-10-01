@@ -70,7 +70,7 @@ Ahhoz pedig először fel kellene mérnünk a valós helyzetet...
 A modern fogyasztói társadalom sajnos jobban hasonlít Platón barlangjára, mint illene.
 A legtöbben mereven kapaszkodnak a falon látott árnyékokba vetett hitükbe, és csak nagyon kevesen jutnak ki (vagy egyáltalán néznek körül).
 És ha a "rabok" valahonnan mégis megkapják az infót, hogy ezek csak árnyékok, akkor még ők nézik hülyének a másikat...
-Ha valami _annyira_ idegen, hogy teljesen kívül esik a (megkövült) világképünkön, azt egyszerűen fel sem fogják.
+Ha valami _annyira_ idegen, hogy teljesen kívül esik a (megkövült) világképükön, azt egyszerűen fel sem fogják.
 Ezért is fontos előre tisztázni: az itt leírtak első sorban egy nyitott elmét igényelnek!
 
 Fisker ígérete nem más, mint hogy specializált, függő fogyasztókból széles ismeretekkel rendelkező, független "Reneszánsz" emberré válhatunk.
