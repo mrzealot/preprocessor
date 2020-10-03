@@ -4,7 +4,10 @@ title: Rachel Carson - Néma Tavasz
 pages: 378
 date: 2020-10-03 00:01
 excerpt: >
-    TODO
+    Bea Johnson környezetvédelmi vonalát folytatva a héten egy igazi "alapművel" foglalkozunk.
+    Egy olyan könyvvel, amit az elmúlt közel 60 év igencsak igazolt -- bár a megjelenésekor mondhatni _vegyes_ fogadtatást kapott.
+    Rachel Carson természetbarátként észrevette az egyre jobban terjedő szintetikus gyom- és rovarirtók okozta pusztítást, tengerbiológusként pedig a látottak jelentőségét is megértette.
+    Rengeteg kutatással és alátámasztással írta meg a Néma Tavaszt, amivel végre felkavarta az állóvizet.
 ---
 
 [Bea Johnson]({% post_url 2020-03-27-bea-johnson-zero-waste-otthon %}) környezetvédelmi vonalát folytatva a héten egy igazi "alapművel" foglalkozunk.
@@ -384,30 +387,36 @@ Ha úgy döntenénk, akkor nem lenne ám muszáj!
 
 ## <a name="7"></a>És mindezt miért is?
 
-<!-- ## A természet visszavág -->
+Elméletben azért, hogy kontrolláljuk a "kártevőket".
+A rovarok irtása viszont azért nem megy, mert közben a természet olyan óvintézkedéseit is pusztítjuk, amik pont ezek a rovarok kordában tartására voltak kitalálva (és sokkal jobban is csinálták, mint mi).
+Tehát nem hogy csak magas árat fizetünk, de cserébe még el sem érünk vele semmit.
+Sőt, gyakran csak rontunk a saját helyzetünkön!
 
-- a rovarok irtása nem megy, mert közben a természet olyan óvintézkedéseit is pusztítjuk, amik pont ezek a rovarok kordában tartására voltak kitalálva (és sokkal jobban is csinálták, mint mi)
-    - szóval nem hogy csak magas árat fizetünk, de cserébe még el sem érünk vele semmit (sőt, gyakran csak rontunk a saját helyzetünkön)
-- és mégis: a könyv írásakor a szakemberek 98%-a a vegyszeres vonalon kutakodott, és csak 2% a természetes vonalon :/
-    - de hát a pénz... miért is harapnának a kézbe, ami eteti őket?
-    - viszont ha ezt (most már) tudjuk, akkor miért is hallgatnánk rájuk?!
-- "[Ecology] cannot safely be ignored any more than the law of gravity can be defied with impunity by a man perched on the edge of a cliff."
-- magunkban szart sem érünk, a természet nélkül pedig mély szarban leszünk!
+A rovarok másik védekezési mechanizmusa, hogy mutációk révén lépést tartanak velünk.
+Lehet, hogy kiirtjuk 99%-ukat, de a maradék 1% újra elnépesedik -- és a tetejébe az örökletes ellenálló képesség miatt már a teljes állomány immunis lesz.
+Vagyis ezzel a hozzáállással csak egy szuper-rezisztens rovar-állományt nevelünk ki.
+Ezzel együtt pedig az általuk hordozott betegségek problémája is egyre csak rosszabb lesz, nem hogy javulna!
 
-<!-- ## Egy lavina morajlása -->
+> [Az ökológiát] csak annyira hagyhatjuk figyelmet kívül, mint a szakadék szélén álló ember a gravitációt.
+> > [Ecology] cannot safely be ignored any more than the law of gravity can be defied with impunity by a man perched on the edge of a cliff.
 
-- a rovarok irtása azért SEM megy, mert mutációk révén lépést tartanak velünk, és így csak egy szuper-rezisztens rovar-állományt nevelünk ki
-    - és ezzel együtt az általuk hordozott betegségek problémája is egyre csak rosszabb lesz, nem hogy javulna
+Szóval ha hosszú távon hatástalan, akkor mindezt miért is?
+Részben a korábban már emlegetett "tüneti kontra gyökérkezelés" miatt -- az ember egyszerűen ilyen, ha nem veszi a fáradságot, hogy előre gondoljon.
+De leginkább azért, mert a vegyiparban **rengeteg** pénz van, és ez sokak zsebét alaposan megtömte.
+A könyv írásakor az ide kapcsolódó szakemberek 98%-a a vegyszeres vonalat kutatta, és csak 2% a természetes módszereket.
+Miért is harapnának a kézbe, ami eteti őket?
+Viszont ha ezt (most már) tudjuk, akkor mi ugyan miért is hallgatnánk rájuk, hogy mindez veszélytelen és fenntartható?!
 
-<!-- ## A másik út -->
+Node evezzünk egy pillanatra pozitívabb vizekre: léteznek alternatívák!
+Az állat- és növényvilág saját mechanizmusait kihasználva a károkozók természetes ellenségeit is lehetne importálni, ami egyből korlátok közé szorítaná a szaporodásukat.
+Talaj baktériumok, madarak, hangyák, pókok, stb.
+Vagy akár fajra szabott (de nem szintetikus!) bakteriális/virális/"gombális" betegségek, amik megtizedelhetnék a népességet -- de élettanilag csak bizonyos rovarokra vagy rovarcsaládokra lenne bármilyen hatással.
 
-- mint ahogy eddig is láttuk, a biológiai módszerek jobbak, mint a vegyszerek
-    - sőt, azok a jók, a vegyszerek meg nem. Pont.
-- a természetes ellenségek mellett:
-    - sterilizáció, és aztán hadd versenyezzenek maguk között
-    - fajra szabott(abb) ellenszerek, csapdák, csalogató szagok/hangok, ...
-    - szintén fajra szabott, de nem szintetikus, hanem bakteriális/virális/"gombális" betegségek, amik megtizedelhetnék a népességet
-    - természetes ellenségek, de sokkal szélesebb körben (mint Európában, hála az égnek): talaj baktériumok, madarak, hangyák, pókok, stb.
+Egy másik fajra szabott(abb) ellenszer lehet a feromonokat és párzási szokásokat kihasználó csapdák, csalogató szagok/hangok, ilyesmi.
+Végső soron pedig ott a laboratóriumi körülmények között, sugárzással elért sterilizáció!
+Ha az így _sorozatgyártott_ steril hímekkel telítjük a piacot -- amik aztán így maguk között versenyezhetnek a termékeny egyedekkel -- akkor a faj gyakorlatilag önmagát szaporodja a kipusztulásba.
+Van tehát itt kreatív, a nagy egészet is figyelembe vevő megoldás!
+Csak rendbe kellene tenni az értékrendünket...
 
 <br />
 
@@ -441,25 +450,32 @@ Ha úgy döntenénk, akkor nem lenne ám muszáj!
 
 ## Összefoglalás
 
+Az biztos, hogy vérlázító ez az egész ész nélküli mérgezés.
+Ráadásul kormányzati szinten, propagandával támogatva.
+Továbbra sem értem, hogy egy bizonyos intelligencia (és moralitási) szint alatt hogy engedünk embereket ilyen döntések közelébe?!
+De ezért is jó, hogy Carson megírta a Néma Tavaszt.
+Technikailag semmi "új" nem volt abban, amit mondott, csak végre összeszedte valaki az elszórt, technikai bugyrokban elrejtett infókat.
+Ez pedig a köznép szemét is igencsak kinyitotta, ami utána jelentős politikai változásokat is vont maga után.
 
-- az biztos, hogy vérlázító ez az egész
-    - hogy egy bizonyos intelligencia (és moralitási) szint alatt hogy engedünk embereket ilyen döntések közelébe?!
-- de ezért is jó, hogy Carson megírta a Néma Tavaszt
-    - semmi "új" nem volt abban, amit mondott
-    - csak eddig ez elszórtan, és technikai bugyrokban volt elrejtve
-    - ez pedig a köznép szemét is igencsak kinyitotta, ami utána politikai változásokat is vont maga után
+Számomra a fő tanulságok:
 
-- fő tanulságok
-    - a természet jobban tudja
-        - szóval vagy tanuljunk tőle, vagy legalább ne piszkáljunk bele az egyensúlyába, mert végső soron úgyis mi szívjuk meg
-        - elvégre MI is a természet részei vagyunk -- bármennyire is szeretjük magunkat feljebbvalónak hinni.
-    - nem minden haladás "jó" haladás, és mindig kell az ellenőrzés
-        - nem feltételezhetjük tiszta lelkiismerettel, hogy jó, amit csinálunk, csak azért, mert még nem tudjuk, hogy miért rossz
-    - rendszer szinten kell gondolkozni -- nem szabad csak egy aspektust figyelni az összes többi rovására.
-        - És ez egyáltalán nem csak a környezetre vonatkozik -- például Fisker is ezt hangoztatta az Extrém Korai Nyugdíjban.
-    - nem kell vakon hinni a kormánynak, és bizonyos esetekben igenis bele kell ugatni a politikába, mert maguktól nagyon nagy faszságokat is tudnak csinálni
+- A természet jobban tudja.
+Ezért vagy tanuljunk tőle, vagy legalább ne piszkáljunk bele az egyensúlyába, mert végső soron úgyis mi szívjuk meg.
+Elvégre **mi** is a természet részei vagyunk -- bármennyire is szeretjük magunkat feljebbvalónak hinni.
 
-- a természeti ismereteink már két fokkal jobbak azóta, és a mérgezésünk is csökkent valamicskét
-    - cserébe most itt van nekünk a klímaválság, és sajnos a tudományos nézőpont továbbra is ugyanolyan támadás alatt áll, mint régen
-    - még csak nem is azon vitatkozunk, hogy hogyan oldjuk meg a problémát, hanem hogy van-e probléma
-- szóval ha egy-az-egyben nem is ugyanazok a konkrétumok miatt, de sajnos a Néma Tavasz továbbra sem okafogyott olvasmány
+- Nem minden haladás "jó" haladás.
+Nem feltételezhetjük tiszta lelkiismerettel, hogy jó, amit csinálunk, csak azért, mert még nem tudjuk, hogy miért rossz.
+Mindig kell az előre tekintés, és utólag pedig az ellenőrzés!
+
+- Rendszer szinten kell gondolkozni.
+Nem szabad csak egy aspektust figyelni az összes többi rovására.
+És ez egyáltalán nem csak a környezetre vonatkozik -- például Fisker is ezt hangoztatta az [Extrém Korai Nyugdíjban]({% post_url 2020-09-19-jacob-lund-fisker-extrem-korai-nyugdij-1 %}).
+
+- Nem kell vakon hinni a kormánynak.
+És bizonyos esetekben igenis bele kell ugatni a politikába, mert maguktól nagyon nagy faszságokat is tudnak csinálni.
+
+Jó hír, hogy a természeti ismereteink azóta már két fokkal mélyebbek, és a mérgezésünk is csökkent valamicskét.
+Cserébe most itt van nekünk az erőforrás-kizsákmányolás és a klímaválság!
+És sajnos a tudományos nézőpont továbbra is ugyanolyan támadás alatt áll, mint régen.
+Még csak nem is azon vitatkozunk, hogy hogyan oldjuk meg a problémát, hanem hogy van-e probléma!
+Szóval ha egy-az-egyben nem is ugyanazok a konkrétumok miatt, de sajnos a Néma Tavasz továbbra sem okafogyott olvasmány.
