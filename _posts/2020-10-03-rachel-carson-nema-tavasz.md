@@ -58,9 +58,9 @@ A tartalom a következőképp alakul:
 ## <a name="1"></a>Bevezetés
 
 Általában a környezet módosítja az élőlények viselkedését, és nem fordítva.
-Mi emberek viszont nem is hogy csak módosítjuk, de lenézően tapossuk.
+Mi emberek viszont nem is hogy csak módosítjuk, de lenézően tapossuk az élőhelyünket.
 És a környezetünk, amilyen ellenálló, még ezt is elnézné.
-A fő gond tehát nem is a piszkálással van, hanem a modern sebességgel -- egyszerűen nincs idő megfelelően alkalmazkodni.
+A fő gond tehát nem is feltétlen a piszkálással van, hanem a modern sebességgel -- egyszerűen nincs idő megfelelően alkalmazkodni.
 Sem a természetnek hozzánk, sem nekünk ahhoz, amilyenné emiatt a természet válik.
 Egyszerűen nem tudjuk (ennyi idő alatt nem is nagyon tud<b>hat</b>juk) a belepiszkálásaink hosszú távú következményeit.
 És sajnos nem is sokakat érdekel.
@@ -139,13 +139,13 @@ Ezek a szén láncok, gyűrűk, és elágazások mentén szinte a végtelenségi
 Első számú vesszőparipánk a DDT (diklór-difenil-triklóretán... Mondjuk ki háromszor gyorsan egymás után).
 Vannak persze társai, de a nevek szerintem annyira nem fontosak.
 A lényeg, hogy ez a csoport rovarirtásra nagyon "jó", cserébe viszont agresszíven raktározódik a szervezetben, képes apró adagokból felgyülemleni, átívelhet a táplálkozási láncon, és akár a szülő-gyerek határt is átlépheti!
-Nem is csak a tejjel, hanem már a méhben!
+Nem is csak az anyatejjel, hanem még a méhben!
 Mindezek mellé pedig már nagyon kis koncentrációban is kimutatták az életveszélyesen káros hatásait: rohamok, máj károsodás, sterilitás, stb.
 És ennek ellenére repülőkről permetezik kertvárosi területeken.
 
-A másik csoport a foszfát alapú szereké, amik legalább lebomlanak, viszont cserébe **még** mérgezőbbek.
+A másik csoport a foszfát alapú szereké, amik legalább lebomlanak (vagyis nem raktározódnak végeláthatatlanul), viszont cserébe **még** mérgezőbbek.
 Sőt, akár még önmaguknál is mérgezőbbek lehetnek bizonyos kombinációkban -- például az egyik lekapcsolja azt a védekezési mechanizmust a májban, ami a másik ellen tudott volna küzdeni, és ezzel nem csak összeadódnak, hanem szorzódnak, vagy hatványozódnak a mérgezések.
-Aki pedig legalább az otthonában biztonságban érzi magát, azt Carson figyelmezteti: ehhez nem feltétlen kell permetezni járni a földre!
+Aki pedig legalább az otthonában biztonságban érzi magát, azt Carson figyelmezteti: ehhez nem feltétlen kell ám permetezni járni a földekre!
 A salátánkon is megjelenhet maradványok formájában egy ilyen szép kis foszfát "koktél".
 
 <br />
@@ -171,20 +171,20 @@ Igen, jogos a visszakézből adott válasz: bizonyos helyeket leginkább mi magu
 De innen aztán a vegyi anyagok mindenhova _is_ eljutnak.
 
 Az egyik lehetőség, hogy belemosódnak a vizeinkbe.
-Ezután a sztenderd víztisztítók nem hogy lebontani, de gyakran még detektálni sem tudják az anyagok nagyját.
+Ezután a sztenderd víztisztítók nem hogy lebontani, de gyakran detektálni sem tudják az anyagok nagyját.
 Az összekeveredésükből létrejövő hatást pedig még a szakértők sem tudják megtippelni.
 
 Persze nem csak a felszínen, hanem a föld alatt szivárogva is terjednek.
 Hibás ugyanis, ha egymástól elzárt zónákként tekintünk a föld különböző részeire.
-Minden összefügg, és nem lehet csak egy részt megmérgezni anélkül, hogy az egészet meg ne mérgeznénk.
+Minden összefügg, és nem lehet egy részt megmérgezni anélkül, hogy az egészet meg ne mérgeznénk.
 Lehet, hogy évek alatt utaznak csak egy pár kilométert, de utaznak!
 És mivel keverednek, ki tudja, hogy a végén mi lesz belőlük.
 
 Az élővilág pedig mint a szivacs, úgy szívja fel a szennyeződést a vízből.
 Ahogy utazik fel a táplálékláncon, a vegyszer tartalom egyre koncentráltabb lesz -- míg végül az eredeti permetezett koncentráció sok<b>ezer</b>szeresére nem bukkannak az elhullott állatok zsírszöveteiben.
 
-A másik lehetőség a talaj, ami szintén jóval bonyolultabb, mint egyszerű "kő-morzsalék".
-Tele van baktériumokkal, gombákkal és algával, amik a szerves anyagok lebontásáért és újrahasznosításáért felelnek.
+A másik terjedési lehetőség a talaj, ami szintén jóval bonyolultabb, mint egyszerű "kő-morzsalék".
+Tele van baktériumokkal, gombákkal és algákkal, amik a szerves anyagok lebontásáért és újrahasznosításáért felelnek.
 Egy szinttel feljebb ott vannak az atkák, rovarok, giliszták...
 Mindenki fáradhatatlanul azért dolgozik (egyensúlyban), hogy minden körforgás továbbra is körbe forogjon.
 
@@ -243,10 +243,10 @@ Na most akkor melyik?!
 És vajon kinek mi az érdeke?
 
 A permetezésekhez nem kellett engedély a szakértőktől, "veszélyteleneknek" bélyegezték őket.
-Semmi együttműködés, semmi beismerés; csak a permetezésre van keret, a hatásvizsgálatra szinte semmi.
+Semmi együttműködés, semmi beismerés; csak a műveletekre van keret, a hatásvizsgálatra szinte semmi.
 De sajnos még így is majd kiveri az ember szemét, hogy mekkora a kár.
 
-> Folytathat-e egy civilizáció könyörtelen háborút maga az élet ellen anélkül, hogy saját magát ki ni irtaná -- vagy hogy el ne vesztené a "civilizált" jelzőhöz való jogát?
+> Folytathat-e egy civilizáció könyörtelen háborút maga az élet ellen anélkül, hogy saját magát ki ne irtaná -- vagy hogy el ne vesztené a "civilizált" jelzőhöz való jogát?
 > > [Can any civilization] wage relentless war on life without destroying itself, and without losing the right to be called civilized?
 
 <br />
@@ -275,8 +275,8 @@ De sajnos még így is majd kiveri az ember szemét, hogy mekkora a kár.
 Amikor nem a növényvilág ellen támadunk, akkor olyan is előfordulhat, hogy épp a fák védelmében permetezünk.
 Ezzel csak az a baj, hogy a rovarirtókkal a különösen érzékeny madarakat is kiirtjuk.
 Pedig pont a madarak azok, amik leginkább kordában tartják a rovarokat.
-És amikor majd a rovarok újra megjelennek (mert meg fognak), már nem lesznek madarak, ezért akadály nélkül szaporodhatnak.
-Pont magunkkal tolunk ki -- a madarakat és a növényzetet nem is említve.
+És amikor majd a rovarok újra megjelennek (mert meg fognak), már nem lesznek ellenségeik, ezért akadály nélkül szaporodhatnak.
+Ismét magunkkal tolunk ki -- a madarakat és a növényzetet nem is említve.
 Mellesleg a könyv címe is innen származik: a tavasz jó esetben madárcsicsergéstől hangos, de az agyonmérgezett világban néma...
 
 Szóval hiába tűnik úgy, hogy a fák vagy a madarak között kell választanunk...
@@ -287,9 +287,9 @@ Ha a szaporodási képességüket roncsoljuk (márpedig ahhoz a halálos adag t�
 A madarakon felül rendszeresen bolygatjuk meg a méhet élőhelyeit is.
 És ha ők nem poroznak, akkor egy csomó növény kihal; amivel együtt egy csomó állat is kihal; és a lánc végén előbb-utóbb valószínűleg mi emberek is megyünk a levesbe.
 
-Mindez a halakat talán nem érinti egyenes ágon (vagy legalábbis biztosan nem annyira érzékenyen, mint a madarakat).
+Mindez a halakat talán nem érinti egyenes ágon -- vagy legalábbis biztosan nem annyira érzékenyen, mint a madarakat.
 De attól a kajájukat (rovarok, lárvák) kiirtja, és ezzel közvetve őket is!
-A bogarakat ez megint nem akkora pofon (mert azok hamarabb visszajönnek), de a halaknak, a horgászoknak, és a köréjük épülő iparágaknak viszont annál inkább.
+A rovaroknak ez megint nem akkora pofon (mert azok hamarabb visszajönnek), de a halaknak, a horgászoknak, és a köréjük épülő iparágaknak viszont annál inkább.
 
 Ehhez jön csak hozzá az a hihetetlenül ön-központú és szűk látókörű hozzáállás, miszerint vegyipari gyárak szemetét csak úgy ki lehet mosni a lefolyóba.
 Csak aztán nehogy mi is úgy járjunk, mint a madarak/halak, akik nem a permetezésbe, hanem a mérgezett táplálékba halnak bele...
@@ -328,7 +328,7 @@ Koponyás-lábszárcsontos címkék, kesztyűben és kémcsövekben precíz kim�
 Ezzel szemben a permetezésnél mégis csak úgy, a levegőből szórjuk őket...
 Pedig ez a legkevésbé hatékony, a legdrágább, és ez okozza a legnagyobb kárt.
 
-A ránk "kényszerített" mérgezésen felül a boltban is kapható minden -- amit persze hozzáértés nélküli emberek kezébe engedni hatalmas felelőtlenség!
+Sőt, a ránk "kényszerített" mérgezésen felül a boltban is kapható minden -- amit persze hozzáértés nélküli emberek kezébe engedni hatalmas felelőtlenség!
 Össze-vissza használjuk, nem is tudjuk, mi van benne, vagy hogy annak milyen hatásai lehetnek.
 Nyomokban minden ételünkben is megtalálható, szóval újra ott lyukadunk ki, hogy saját magunkat mérgezzük.
 
@@ -336,7 +336,7 @@ Mindez leginkább a késleltetett hatása miatt a veszélyes -- csak hát erre a
 Plusz az ökológia (akár csak a testünkön belül) nagyon komplex.
 Az ok és az okozat között térben és időben is nagy lehet a távolság.
 A vegyszereket zsírban tárolhatjuk, amiből egyszer látszólag "csak úgy" mérgezés lép fel.
-Szóval lehet, hogy egyelőre nincs olyan sok látványos hatás, de még lehet!
+Szóval lehet, hogy egyelőre nincs olyan sok hatás, de még lehet!
 
 Mivel változó az érzékenységünk, és nem laboratóriumi körülmények között élünk, természetesen más és más reakcióink vannak az ilyen jellegű mérgezésekre.
 De ez bármelyik másik túladagolásnál vagy allergiánál is így van, szóval ettől nem lesz kevésbé valós (vagy lelegyinthető) a hatás.
@@ -345,7 +345,7 @@ Ideje tudomásul vennünk, hogy a májunk és közvetlenül az idegrendszerünk 
 Még alapvetőbb fenyegetés, hogy ezek a szerek egyenesen a testünk energiaképző képességét támadhatják.
 Az izom összehúzódáshoz, a légzésből származó oxidációhoz, és akár a megtermékenyüléshez és embrió fejlődéshez szükséges energiát is ugyanaz a molekula szállítja (ATP).
 Ha ebbe a folyamatba belepiszkálunk (márpedig az eddig emlegetett mérgek pont **ebbe** piszkálnak bele), akkor nem csoda sem a bénulás, sem a rángások, sem a terméketlenség.
-És mivel az ATP az univerzális, fajok közti energia "pénznem", ez nálunk is beüthet.
+És mivel az ATP az univerzális, fajok közti energia "pénznem", ez nálunk embereknél is beüthet.
 
 Károsság tekintetében a sugárzással vonunk párhuzamot, és sajnos jogosan.
 Bizonyos gyomirtók még a génekre is hathatnak, ami ezáltal a jövő generációk számára is veszélyessé teszi őket.
@@ -354,7 +354,7 @@ Bizonyos gyomirtók még a génekre is hathatnak, ami ezáltal a jövő generác
 A fentiek közül egyiknél sem annyira a gyógyításon mint inkább a megelőzésen kellene gondolkozni.
 Csak hát az nem annyira csilli-villi!
 Pedig a vírusok és baktériumok elleni küzdelemnél szintén fontos szerepet játszik a megelőzés.
-Sőt, míg a bacikról/vírusokról tényleg nem mi tehetünk, a rákkeltő anyagok nagyját mi magunk csináljuk...
+Sőt, míg a bacikról/vírusokról tényleg nem mi tehetünk, a rákkeltő anyagok nagyját mi magunk gyártjuk...
 Ha úgy döntenénk, akkor nem lenne ám muszáj!
 
 <br />
@@ -401,7 +401,7 @@ Ezzel együtt pedig az általuk hordozott betegségek problémája is egyre csak
 > > [Ecology] cannot safely be ignored any more than the law of gravity can be defied with impunity by a man perched on the edge of a cliff.
 
 Szóval ha hosszú távon hatástalan, akkor mindezt miért is?
-Részben a korábban már emlegetett "tüneti kontra gyökérkezelés" miatt -- az ember egyszerűen ilyen, ha nem veszi a fáradságot, hogy előre gondoljon.
+Részben a korábban már emlegetett "tünetek kontra kiváltó okok kezelése" miatt -- az ember egyszerűen ilyen, ha nem veszi a fáradságot, hogy előre gondoljon.
 De leginkább azért, mert a vegyiparban **rengeteg** pénz van, és ez sokak zsebét alaposan megtömte.
 A könyv írásakor az ide kapcsolódó szakemberek 98%-a a vegyszeres vonalat kutatta, és csak 2% a természetes módszereket.
 Miért is harapnának a kézbe, ami eteti őket?
@@ -410,11 +410,11 @@ Viszont ha ezt (most már) tudjuk, akkor mi ugyan miért is hallgatnánk rájuk,
 Node evezzünk egy pillanatra pozitívabb vizekre: léteznek alternatívák!
 Az állat- és növényvilág saját mechanizmusait kihasználva a károkozók természetes ellenségeit is lehetne importálni, ami egyből korlátok közé szorítaná a szaporodásukat.
 Talaj baktériumok, madarak, hangyák, pókok, stb.
-Vagy akár fajra szabott (de nem szintetikus!) bakteriális/virális/"gombális" betegségek, amik megtizedelhetnék a népességet -- de élettanilag csak bizonyos rovarokra vagy rovarcsaládokra lenne bármilyen hatással.
+Vagy akár fajra szabott (de nem szintetikus!) bakteriális/virális/"gombális" betegségek, amik megtizedelhetnék a népességet -- de élettanilag csak bizonyos rovarokra vagy rovarcsaládokra lennének bármilyen hatással.
 
 Egy másik fajra szabott(abb) ellenszer lehet a feromonokat és párzási szokásokat kihasználó csapdák, csalogató szagok/hangok, ilyesmi.
 Végső soron pedig ott a laboratóriumi körülmények között, sugárzással elért sterilizáció!
-Ha az így _sorozatgyártott_ steril hímekkel telítjük a piacot -- amik aztán így maguk között versenyezhetnek a termékeny egyedekkel -- akkor a faj gyakorlatilag önmagát szaporodja a kipusztulásba.
+Ha az így _sorozatgyártott_ steril hímekkel telítjük a piacot -- amik aztán maguk között versenyezhetnek a termékeny egyedekkel -- akkor a faj gyakorlatilag önmagát szaporodja a kipusztulásba.
 Van tehát itt kreatív, a nagy egészet is figyelembe vevő megoldás!
 Csak rendbe kellene tenni az értékrendünket...
 
@@ -454,28 +454,27 @@ Az biztos, hogy vérlázító ez az egész ész nélküli mérgezés.
 Ráadásul kormányzati szinten, propagandával támogatva.
 Továbbra sem értem, hogy egy bizonyos intelligencia (és moralitási) szint alatt hogy engedünk embereket ilyen döntések közelébe?!
 De ezért is jó, hogy Carson megírta a Néma Tavaszt.
-Technikailag semmi "új" nem volt abban, amit mondott, csak végre összeszedte valaki az elszórt, technikai bugyrokban elrejtett infókat.
-Ez pedig a köznép szemét is igencsak kinyitotta, ami utána jelentős politikai változásokat is vont maga után.
+Technikailag semmi "új" nem volt abban, amit mondott -- csak végre összeszedte valaki az elszórt, technikai bugyrokban elrejtett infókat, és közérthetően a publikum elé tárta.
 
 Számomra a fő tanulságok:
 
-- A természet jobban tudja.
+- **A természet jobban tudja.**
 Ezért vagy tanuljunk tőle, vagy legalább ne piszkáljunk bele az egyensúlyába, mert végső soron úgyis mi szívjuk meg.
 Elvégre **mi** is a természet részei vagyunk -- bármennyire is szeretjük magunkat feljebbvalónak hinni.
 
-- Nem minden haladás "jó" haladás.
+- **Nem minden haladás "jó" haladás.**
 Nem feltételezhetjük tiszta lelkiismerettel, hogy jó, amit csinálunk, csak azért, mert még nem tudjuk, hogy miért rossz.
 Mindig kell az előre tekintés, és utólag pedig az ellenőrzés!
 
-- Rendszer szinten kell gondolkozni.
+- **Rendszer szinten kell gondolkozni.**
 Nem szabad csak egy aspektust figyelni az összes többi rovására.
 És ez egyáltalán nem csak a környezetre vonatkozik -- például Fisker is ezt hangoztatta az [Extrém Korai Nyugdíjban]({% post_url 2020-09-19-jacob-lund-fisker-extrem-korai-nyugdij-1 %}).
 
-- Nem kell vakon hinni a kormánynak.
-És bizonyos esetekben igenis bele kell ugatni a politikába, mert maguktól nagyon nagy faszságokat is tudnak csinálni.
+- **Nem kell vakon hinni a kormánynak.**
+És bizonyos esetekben igenis bele kell ugatni a politikába, mert maguktól nagyon nagy faszságokat tudnak csinálni.
 
-Jó hír, hogy a természeti ismereteink azóta már két fokkal mélyebbek, és a mérgezésünk is csökkent valamicskét.
-Cserébe most itt van nekünk az erőforrás-kizsákmányolás és a klímaválság!
+Jó hír, hogy a természeti ismereteink azóta már két fokkal mélyebbek, kinyílt a köznép szeme, és a mérgezésünk is csökkent valamicskét.
+Cserébe a mi generációnknak itt van az erőforrás-kizsákmányolás és a klímaválság!
 És sajnos a tudományos nézőpont továbbra is ugyanolyan támadás alatt áll, mint régen.
 Még csak nem is azon vitatkozunk, hogy hogyan oldjuk meg a problémát, hanem hogy van-e probléma!
 Szóval ha egy-az-egyben nem is ugyanazok a konkrétumok miatt, de sajnos a Néma Tavasz továbbra sem okafogyott olvasmány.
