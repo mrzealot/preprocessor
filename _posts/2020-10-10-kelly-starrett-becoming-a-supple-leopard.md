@@ -4,12 +4,14 @@ title: Kelly Starrett - Becoming A Supple Leopard
 pages: 400
 date: 2020-10-10 00:01
 excerpt: >
-    TODO
+    Első körben arra gondoltam, hogy a Fegyencedzés mellé valami súlyzós módszerről szóló könyv kellene kiegészítésnek -- hogy lássuk a másik oldal érvelését is.
+    De aztán (részben a derekam és a vállam jóvoltából) ráébredtem, hogy az edzés mellé mindenek előtt sokkal inkább a mobilitás, a ön-karbantartás, a sérülések elkerülése, és az esetleges rehabilitációs technikák ismerete lenne indokolt.
+    Így kötöttem ki Kelly Starrett -- Becoming a Supple Leopard (kb. "Váljunk hajlékony leopárddá") című kódexénél, ami nekem legalábbis alapjaiban változtatta meg a mozgáshoz való hozzáállásomat.
 ---
 
 Első körben arra gondoltam, hogy a [Fegyencedzés]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) mellé valami súlyzós módszerről szóló könyv kellene kiegészítésnek -- hogy lássuk a másik oldal érvelését is.
 De aztán (részben a derekam és a vállam jóvoltából) ráébredtem, hogy az edzés mellé mindenek előtt sokkal inkább a mobilitás, a ön-karbantartás, a sérülések elkerülése, és az esetleges rehabilitációs technikák ismerete lenne indokolt.
-Így kötöttem ki Kelly Starrett - [Becoming a Supple Leopard](https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard){:target="_blank"} (kb. "Váljunk hajlékony leopárddá") című kódexénél, ami nekem legalábbis alapjaiban változtatta meg a mozgáshoz való hozzáállásomat.
+Így kötöttem ki Kelly Starrett -- [Becoming a Supple Leopard](https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard){:target="_blank"} (kb. "Váljunk hajlékony leopárddá") című kódexénél, ami nekem legalábbis alapjaiban változtatta meg a mozgáshoz való hozzáállásomat.
 
 A könyv nagy része hemzseg a képektől, a konkrét gyakorlatok bemutatásától, és a tipikus hibák kijavításától.
 Ezzel nem szeretnék versenyezni; nem is sok értelme lenne, erre ott a könyv.
@@ -43,54 +45,67 @@ A tartalom a következőképp alakul:
 
 ## <a name="1"></a>Bevezetés
 
-- az emberi mozgás aranykorát éljük, mert:
-    1. az internet lehetővé teszi az ötletek és módszerek gyors terjedését
-    2. elfogadott és gyakori az inter-diszciplináris mozgás-rendszerek közti információ áramlás
-    3. a köztudat is egyre jobban elfogadja, hogy az egyén mozgási/étkezési/regenerálódási szokásai az egyén felelőssége (ezért pedig egyre jobban érdeklődünk a testünk iránt, mérjük a releváns adatainkat, és a kezünkbe vesszük a változást vagy a karbantartást)
-    4. egy jó modern edzés és kondicionálás minden mozgásformát lefed, és egyre inkább a valós életbeli terhelésekre készít fel
-- rengeteg a kondi, rengeteg az edző, rengeteg mérhető adat keletkezik, amiből pedig már jobban lehet az emberek tényleges teljesítményére és szükségleteire következtetni, mint az eddigi, elszórt, izolált tesztekből
-- ezekből pedig olyan rendszert lehet építeni, ami minden porcikánkat kiteszi a teljes mozgástartományának és teszteli az irányításunkat is
-    - itt derüljön inkább ki, ha valamit a forma vagy a korlátozott mozgástartomány miatt helytelenül végzünk, ne a kosárpályán, ahol szakadás vagy sérv lesz belőle...
-    - mellesleg pont ezek a mozgásformák kellenek majd a "hibajavítás" mellett az edzéshez is, szóval win-win
-- a legnagyobb előny az, hogy így egy alapvető mozgás-katalógust tanulunk (biztonságos körülmények között), amit utána a valós életben is használhatunk
-    - ahelyett, hogy fordítva, a valós életben próbálnánk alapból helyesen mozogni (ami sokkal veszélyesebb, és eleve sokkal nehezebben megítélhető)
-    - a kontrolláltan megtanult alapmozdulatok összemixeléséből pedig akármilyen sportot/élethelyzetet leképezhetünk
+Mondhatni, hogy az emberi mozgás aranykorát éljük, mert:
 
+1. Az internet lehetővé teszi az ötletek és módszerek gyors terjedését;
+2. Elfogadott és gyakori az inter-diszciplináris mozgás-rendszerek közti információ áramlás (jógások, atléták, sportolók, testépítők, terapeuták, táncosok, stb.);
+3. A köztudat is egyre jobban elfogadja, hogy az egyén mozgási/étkezési/regenerálódási szokásai az egyén felelőssége -- ezért pedig egyre jobban érdeklődünk a testünk iránt, mérjük a releváns adatainkat, és a kezünkbe vesszük a változást vagy a karbantartást; és
+4. Egy jó modern edzés és kondicionálás minden mozgásformát lefed, és egyre inkább a valós életbeli terhelésekre készít fel.
 
-- olyan rendszer kell, ami nem csak megtanít minden helyzetben és minden porcikánkat helyesen mozgatni, de még akkor is szól, ha valamit nem jól csinálunk (még a fájdalom vagy a sérülés előtt!)
-    - a legtöbb esetben csak utólagos jelzésekre figyelünk fel (fájdalom, teljesítmény csökkenés, zsibbadás, stb.)
-    - ebből kellene olyan, ami előre szól
-- az utólagossal baj:
-    - mindenkinek megvan a mozgási kerete, amire a csontjai/izületei/stb. garanciálisak
-        - de ha szarul csináljuk a mozdulatokat, akkor hamar felhasználhatjuk a keretünket
-    - de a fájdalom sokszor csak a mozgás után jön ki, amikorra már lemozogtuk a helytelen adagunkat
-        - és még ha érződik is: nagyon elterjedt a megcsináltam-vagy-nem mentalitás, ami miatt sokszor tudatosan is gödörbe ássuk magunkat
-- de van, ami előre szól: az edzés maga!
-    - jó esetben a teljesítménnyel mérhető végső soron az is, hogy milyen helyesen csináljuk
-    - a határok feszegetésével pedig gyorsan előjön majd az is, hogy mikor/hol és HOGYAN váltunk vissza az alapértelmezett, hibás formánkba
-        - ha a megfelelő súllyal, vagy idő alatt már megy, akkor nézzük meg fáradtan, vagy valaki más ellen, vagy még nagyobb súllyal, stb.
-    - abból tudhatjuk majd, hogy mire kell figyelni
-    - a lényeg, hogy maga az edzés a diagnosztikai eszközünk, ha megfelelő szemmel és odafigyeléssel nézünk rá
+Jó, de akkor mi a baj?
+Hát, leginkább szokás szerint a "tüneti kezelés" kontra kiváltó ok megszüntetés.
+Mindenkinek megvan az a "mozgási kerete", amire a csontjai vagy az ízületei garanciálisak.
+De ha szarul csináljuk a mozdulatokat, akkor hamar felhasználhatjuk a keretünket.
+Nem figyelünk a helyes formára, mert nem értjük az elveket, amik alapján figyelni kellene -- ezáltal pedig szép fokozatosan ledaráljuk magunkat.
 
+A fájdalom sokszor csak a mozgás után jön ki, amikorra már lemozogtuk a helytelen adagunkat
+És még ha érződik is: nagyon elterjedt a "megcsináltam-vagy-nem" mentalitás, ami miatt sokszor tudatosan is gödörbe ássuk magunkat, "Csak azért is megcsinálom!" felkiáltással.
+A testünk sokáig bírja, mert túlélésre és adaptációra van tervezve, de egyszer úgyis eltörik/elszakad/meghúzódik valami.
+Jó esetben feltehetjük, hogy tanulunk belőle, de ahhoz először csak el kellett romlania valaminek!
+Ha pedig nem, akkor utána újra nekiállhatunk a további darálásnak...
 
-- a sérülések nagyja szimplán megelőzhető
-- négy kategória
-    - patológia -- valami komoly orvosi gond van a háttérben, 1% (ez nyilván nem a mozgásterápia területe)
-        - ha egy fertőzés, elváltozás, vagy bármi más belgyógyászati gond miatt nem megy a teljesítmény, akkor irány az orvos
-    - katasztrofális sérülés -- elütött egy kocsi, vagy leestél a lépcsőn és kitörted a lábad...
-        - ez megint csak 1%... vagyis eddig összesen 2%
-    - a maradék 98% pedig
-        1. izom túlfeszültség miatti mozgástartomány vesztés
-            - idővel kopás, vagy az egyéb területek túlkompenzálása miatti fájdalom/sérülés
-        2. helytelen mozgásforma
-            - attól, hogy nem helyesen végezzük a mozdulatot, a testünk még továbbra is képes lesz erőt kifejteni
-            - csak aztán ne lepődjünk meg, ha idővel valami elkopik, vagy egyszer csak hirtelen elszakad
+Olyan rendszer kellene, ami nem csak megtanít minden helyzetben és minden porcikánkat helyesen mozgatni, de még akkor is szól, ha valamit nem jól csinálunk -- még a fájdalom vagy a sérülés előtt!
+És szerencsére van is ilyen: az edzés maga!
+Jó esetben a teljesítménnyel mérhető végső soron az is, hogy milyen *helyesen* csináljuk.
+A határok feszegetésével pedig gyorsan előjön majd az is, hogy mikor/hol és **hogyan** süppedünk vissza az alapértelmezett, hibás formánkba.
 
+Ehhez először is nyilván ismerni kellene a helyes formát -- és törődni vele.
+Aztán ha a megfelelő súllyal, vagy idő alatt már megy, akkor nézzük meg fáradtan, vagy valaki más ellen versenyezve, vagy még nagyobb súllyal, vagy még gyorsabban...
+Abból tudhatjuk majd, hogy mire kell figyelni.
+A lényeg, hogy maga az edzés a diagnosztikai eszközünk, ha megfelelő szemmel és odafigyeléssel tekintünk rá.
 
-- nyilván itt most csak a mozgással kapcsolatos dolgokat tárgyaljuk
-    - de a teljesítmény és a sérülések elkerülése érdekében fontos megemlíteni, hogy az alapvető életviteli hibáknak sincs helye
-    - szóval a hidratálás, táplálkozás, alvás, és stressz is nyilván számít!
-    - de ide tartozik még a túl sok ülés, vagy a bemelegítés/levezetés hiánya is
+Ha megvannak a gyenge pontok, akkor ketté ágazunk.
+
+1. Ha fizikailag képesek vagyunk felvenni a helyes pozíciót, csak a gyakorlat közben nem úgy csináljuk, akkor az "motoros kontroll" hiba.
+Erre való a gyakorlás (és persze a helyes forma ismerete).
+
+2. Ha már eleve a helyes pózt is képtelenek vagyunk felvenni, akkor az egy mobilitási akadály.
+De aggodalomra semmi ok, ezekre is van egy valag mobilizálási technika.
+
+Ezzel a hozzáállással, ha hisszük ha nem, a sérülések túlnyomó többsége szimplán megelőzhető.
+A lehetséges kategóriákban ugyanis nagyon nem egyenletes az eloszlás.
+
+A patológiára visszavezethető incidenseknél valami komoly orvosi gond van a háttérben.
+Ez legyen kb. 1%, de ez nyilván nem a mozgásterápia területe.
+Talán mondani sem kell, de ha egy fertőzés, elváltozás, vagy bármi más belgyógyászati gond miatt nem megy a teljesítmény, akkor irány az orvos!
+Újabb 1% a katasztrofális sérüléseké, amikor elütött egy kocsi, vagy leestél a lépcsőn és kitörted a lábad...
+
+A maradék 98% pedig:
+
+1. **Izom túlfeszültség** miatti mozgástartomány vesztés.
+Ez idővel kopáshoz, vagy az egyéb területek túlkompenzálása miatti fájdalomhoz/sérüléshez vezet;
+
+2. **Helytelen mozgásforma**.
+Attól, hogy nem helyesen végezzük a mozdulatot, a testünk még továbbra is képes lesz erőt kifejteni.
+Csak aztán ne lepődjünk meg, ha idővel valami elkopik, vagy egyszer csak hirtelen elszakad.
+
+A megelőzés mellett nem elhanyagolható az sem, hogy (biztonságos körülmények között) megtanulunk egy alapvető "mozgás-katalógust", amit utána a valós életben is használhatunk.
+Ahelyett, hogy fordítva, a valós életben próbálnánk alapból helyesen mozogni -- ami sokkal veszélyesebb, és eleve sokkal nehezebben megítélhető.
+A kontrolláltan megtanult alapmozdulatok összemixeléséből pedig akármilyen sportot vagy élethelyzetet hatékonyabban leképezhetünk majd.
+
+Nyilván ebben a könyvben csak a mozgással kapcsolatos dolgokat tárgyaljuk.
+De mind a teljesítmény, mind a sérülések elkerülése érdekében fontos megemlíteni, hogy az alapvető életviteli hibáknak sincs helye.
+Szóval a [hidratálás/táplálkozás]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}), az [alvás]({% post_url 2020-04-17-christie-aschwanden-good-to-go %}), és a [stressz]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %}) is nyilván számít!
 
 <br>
 
@@ -109,46 +124,58 @@ A tartalom a következőképp alakul:
 
 ## <a name="2"></a>Gerincmerevítés
 
-- a leglényegesebb (akár minden más rovására), hogy a gerincünk alapállapotban legyen, és a törzsizmainkkal megtámasszuk a mozdulatok közben
-    - így hatékonyabban vihetjük át az energiát a törzsünkön keresztül a végtagokba
-    - és mellesleg le sem sérülünk közben
-- fontos, hogy a helyes forma verődjön belénk az edzés során, mert utána a hétköznapokban is az lesz az alapértelmezésünk
-    - persze, fáradtság vagy extra stressz esetén egyre jobban "kompromittálódik" majd a formánk, de egyre később, és egyre kevésbé
-    - ezzel szemben ha eleve nem is vagyunk tisztában a helyes formával, akkor már az edzés alatt is a helytelent verjük magunkba, és már fáradtság nélkül is eleve úgy fogjuk csinálni a hétköznapokban
-        - ebből van hosszú távon a baj
-- sok edző hangoztatja, hogy a törzs merevítés (bracing) fontos, de külön nem tér ki a formára
-    - ezért nem is csak az lehet a baj, ha nem merevítjük a gerincet, hanem az is, ha helytelen pozícióba merevítjük
-- a csigolyáknál az a jó, ha egyszerre hajlanak, egy egész gerincen átívelő ívet leírva
-    - ha csak a nyaki, háti, vagy deréki szakasz hajlik külön, az baj (lokális hiba)
-- sokszor még a limitált mozgástartomány hátterében is a gerinc áll, nem a túl merev izmok/ízületek
-    - a szar pozíció miatt az idegrendszerünk csak védeni próbálja magát, és szándékosan megmerevíti a környező izmokat, hogy nehogy nagy baj legyen
-    - de ha rendesen állna a gerincünk, akkor nem lenne mi ellen védekezni, és engedné a teljes tartományt...
-- a gerinc kb. mindennek a kulcsa
-    - szóval mindegy, hogy hol a tüneti terület -- akár a térdünk vagy a vállunk fáj, először a gerincet kell rendbe tenni
+A helyes mozgásformákban a leglényegesebb (akár minden más rovására), hogy a gerincünk alapállapotban legyen, és a törzsizmainkkal megtámasszuk a mozdulatok közben.
+Így hatékonyabban vihetjük át az energiát a törzsünkön keresztül a végtagokba -- és mellesleg le sem sérülünk közben.
+Fontos, hogy a helyes forma verődjön belénk az edzés során, mert utána a hétköznapokban is az lesz az alapértelmezésünk.
+Persze, fáradtság vagy extra stressz esetén egyre jobban "kompromittálódik" majd a formánk, de egyre később, és egyre kevésbé.
+Ezzel szemben ha eleve nem is vagyunk tisztában a helyes formával, akkor már az edzés alatt is a helytelent verjük magunkba, és már fáradtság nélkül is eleve úgy fogjuk csinálni a hétköznapokban.
+Na ebből van hosszú távon a baj!
 
+Sok edző hangoztatja, hogy a törzs merevítés ("bracing") fontos, de külön nem tér ki a formára.
+Ezért nem is csak az lehet a baj, ha nem merevítjük a gerincet, hanem az is, ha helytelen pozícióba merevítjük.
+A csigolyáknál például az a jó, ha egyszerre hajlanak, és egy egész gerincen átívelő ívet írnak le.
+Ezzel szemben ha csak a nyaki, háti, vagy deréki szakasz hajlik külön, az baj (ún. "lokális hiba").
 
-- a gerinc-merevítő lépés sorozat először bonyolultnak és egy nyűgnek fog tűnni, de gyakorlással automatikussá tehető
-    - tekintsünk úgy rá, hogy mindig, amikor **nem** úgy áll a gerincünk, sérülés veszélyben vagyunk... ez talán ad majd elég motivációt, hogy megtanuljuk helyesen tartani magunkat
-- a gerinc-merevítő lépés sorozat:
-    1. lábakat a földbe "csavarozni" (balt az óramutatóval ellentétesen, a jobbat megegyezően)
-        - nem kell elfordítani, csak olyan feszítést kifejteni rá, mintha azt akarnánk
-    2. természetes medence csont pozíció segg-feszítés által
-    3. hasi belégzés
-        - a segg csak beállítja a pozíciót, de aztán a hasizommal kell megtartani a feszességet, szóval...
-    4. kilégzés, has feszítés, és közben a bordákat is a medence fölé helyezzük
-    5. vállak hátra, fej a váll vonalában
-        - mentális segítség, ha a füleinket a vállaink, csípőnk, és bokáink fölött szeretnénk elhelyezni
-        - a végeredmény egy stabil, természetes gerinc póz, amiből utána bármilyen mozdulat indulhat
-- állni sokkal jobb, mint ülni, de helyesen állni még jobb lenne
-    - próbáljuk folyamatosat a tudatában lenni a pózunknak
-- ülésnél a nem is az erő, hanem a kitartás lesz a baj, mert nagyon nehéz folyamatosan feszesen tartani a hasizmokat
-    - és ha előre görnyedünk, akkor ülve már elég nehéz megjavítani a pózunkat
-    - ilyenkor érdemes felállni, úgy merevíteni, és helyesen visszaülni
-- amúgy is érdemes keresni a mozgási lehetőségeket, amikor csak lehet, és nem egy statikus pózban rohadni egész nap
-- légzés szempontjából ha feszesen tartjuk a hasizmot, akkor alapból a rekeszizmon keresztül kell majd lélegeznünk, és úgy is kellene
-- néha kellhet, hogy domború vagy homorú gerinccel végezzünk valamilyen kényelmetlen emelést sérülés nélkül
-    - ilyenkor az a lényeg, hogy a feszesség végig meglegyen, és a mozgás közben NE változtassuk a gerincünk pozícióját
-    - ha domborúan kezdtük, akkor az egész mozdulat alatt maradjon is úgy, és feszesen!
+Sokszor még a limitált mozgástartomány hátterében is a gerinc áll, nem a túl merev izmok/ízületek.
+A szar pozíció miatt az idegrendszerünk csak védeni próbálja magát, és szándékosan megmerevíti a környező izmokat, hogy nehogy nagy baj legyen.
+De ha rendesen állna a gerincünk, akkor nem lenne mi ellen védekezni, és engedné a teljes tartományt...
+Vagyis a gerinc kb. mindennek a kulcsa.
+Mindegy, hogy hol a tüneti terület -- akár a térdünk vagy a vállunk fáj, először a gerincet kell rendbe tenni!
+
+A gerinc-merevítő lépés sorozat először bonyolultnak és egy nyűgnek fog tűnni, de gyakorlással automatikussá tehető.
+Tekintsünk úgy rá, hogy mindig, amikor **nem** úgy áll a gerincünk, sérülés veszélyben vagyunk...
+Ez talán ad majd elég motivációt, hogy megtanuljuk helyesen tartani magunkat.
+
+A gerinc-merevítő lépés sorozat:
+
+1. Lábakat a földbe "csavarozni" (balt az óramutatóval ellentétesen, a jobbat megegyezően).
+Nem kell elfordítani, csak olyan feszítést kifejteni rá, mintha azt akarnánk.
+
+2. Természetes medence csont pozíció segg-feszítés által.
+A medence nagyon sokszor előrebillent állapotban "pihen" (ami a háttérben a derekunkat gyilkolja), és ezt próbáljuk most egyenesbe visszaállítani.
+
+3. Hasi belégzés.
+A segg csak beállítja a pozíciót, de aztán nem maradhat mindig úgy, hiszen már a járáshoz is mozognia kell.
+A hasizommal kell megtartani a feszességet, szóval...
+
+4. Kilégzés és has feszítés -- olyan kb. 20%-osan, vagyis nem kell belevörösödni, de azért ne is legyen puha.
+Közben a bordákat is a medence fölé helyezzük, hogy egyenes legyen a hátunk.
+
+5. Vállak hátra, fej a váll vonalában.
+Mentális segítség, ha a füleinket a vállaink, csípőnk, és bokáink fölött próbáljuk elhelyezni.
+A végeredmény egy stabil, természetes gerinc póz, amiből utána bármilyen mozdulat indulhat.
+
+Állni sokkal jobb, mint ülni, de helyesen állni még jobb lenne, ezért próbáljuk folyamatosat a tudatában lenni a pózunknak.
+Ülésnél pedig a nem is az erő, hanem a kitartás lesz a baj, mert nagyon nehéz folyamatosan (csak egy kicsit is) feszesen tartani a hasizmokat.
+De nyugalom, idővel menni fog az.
+
+Mellesleg ha ülésnél előre görnyedünk, akkor ülve már elég nehéz megjavítani a pózunkat.
+Ilyenkor érdemes felállni, úgy merevíteni, és helyesen visszaülni.
+Sőt, amúgy is érdemes keresni a mozgási lehetőségeket, amikor csak lehet, és nem egy statikus pózban rohadni egész nap.
+
+Persze nem élhetjük le az egész életünket merev háttal -- néha kellhet, hogy domború vagy homorú gerinccel végezzünk valamilyen kényelmetlen emelést sérülés nélkül.
+Ilyenkor az a lényeg, hogy a feszesség végig meglegyen, és a mozgás közben NE változtassuk a gerincünk pozícióját.
+Ha domborúan kezdtük, akkor az egész mozdulat alatt maradjon is úgy, és feszesen!
 
 <br>
 
@@ -167,19 +194,22 @@ A tartalom a következőképp alakul:
 
 ## <a name="3"></a>Az egy-ízület szabály
 
-- ha statikusan már megy a gerinc merevítés, akkor ideje dinamikus mozdulatok közben is megtartani
-    - csípőhajlítás teszt
-    - kéz a fej fölé teszt
-- természetesen szabad mozogni, de ezt nem a gerincből kellene
-    - a csípőnk és a vállaink a két fő "motor", amik a mozgásokat generálják
-    - a gerincünknek mindeközben pedig mereven, megtámasztva kellene lennie
-- azért egy-ízület szabály, mert a csípő és a vállak nagyon hasonlóan működnek
-- nagyon fontos, hogy milyen sorrendben terheljük meg az ízületeinket egy mozgásforma során
-    - amivel kezdünk, az kapja majd a legnagyobb terhelést
-    - ezért nem térdből, hanem csípőből kell indítani a guggolást
-    - ezért nem könyökből, hanem vállból/mellből nyomjuk a fekvőtámaszt
-    - szintén ezért nem előre, hanem hátrafelé kellene felkelni egy térdelő pozícióból (hogy a csípő, és ne a térdek vigyék el a balhé javát)
-- mindez persze a legtöbb esetben teljesen új mozgási mintákat igényel majd
+Ha statikusan már megy a gerinc merevítés, akkor ideje dinamikus mozdulatok közben is megtartani.
+Erre a két legjobb teszt a csípőhajlítás és a kéz fej fölé emelése -- a merev gerincet megtartva!
+
+Szóval természetesen szabad mozogni, de ezt nem a gerincből kellene.
+A csípőnk és a vállaink a két fő "motor", amik a mozgásokat generálják.
+A gerincünk mindeközben pedig merev és megtámasztott.
+
+Azért "egy-ízület" szabály, mert a csípő és a vállak nagyon hasonlóan működnek -- szóval akár gondolhatunk rájuk egy típusú ízületként.
+A lényeg, hogy ezt a fajta ízületet tekintsük a mozgásaink fő generátorának.
+
+Nagyon fontos ugyanis, hogy milyen **sorrendben** terheljük meg az ízületeinket egy mozgásforma során.
+Amivel kezdünk, az kapja majd a legnagyobb terhelést.
+Ezért nem térdből, hanem csípőből kell indítani a guggolást.
+Ezért nem könyökből, hanem vállból/mellből nyomjuk a fekvőtámaszt.
+Szintén ezért nem előre, hanem hátrafelé kellene felkelni egy térdelő pozícióból (hogy a csípő, és ne a térdek vigyék el a balhé javát).
+Mindez persze a legtöbb esetben teljesen új mozgási mintákat igényel majd -- de megéri megtanulni.
 
 <br>
 
@@ -198,37 +228,43 @@ A tartalom a következőképp alakul:
 
 ## <a name="4"></a>A nyomaték törvényei
 
-- ezzel stabilizálhatjuk az ízületeket a helyes pozícióba a megerőltető munkához
-- a gerinc beállításnál látott "csavarjuk a lábakat a talajba" is ilyen volt
-    - ez az egyik módja, hogy a csípőnél nyomatékot generáljunk
-    - de guggolásnál a "térdeket szét" is ilyen
-    - vagy a vállnál a "hajlítsuk meg a rudat"
-    - vagy fekvőnél szintén csavarjuk bele a földbe a kezeinket is
-- egyiknél sem kell elfordítani persze... csak abba az irányba erőt kifejteni
-- ahogy az egy-ízület szabálynál láttuk, a váll és a csípő nagyon hasonlítanak, mert mindkettő "golyós"
-    - össze-vissza tudnak mozogni, ami a mozgástartományt tekintve jó, de egy konkrét mozdulat közben rossz
-    - ha viszont a nyomaték segítségével kb. "becsavarjuk" őket a helyükre, akkor már kötötten, de cserébe stabilan fognak mozogni
-    - teher alatt pedig nekünk pont erre van szükségünk
-    - ha nem így teszünk, akkor az inakra és az izmokra építünk, hogy a helyén tartsák, ami nagyon veszélyes móka
-- viszont nagyon nem mindegy, hogy kifelé vagy befelé akarunk forgatni
-    - mert míg az egyik stabilizál, a másik még ront a helyzeten, és könnyíti a sérülést
-- a nyomaték két szabálya
-    1. ha hajlítunk (kb. amikor előttünk van a kezünk vagy a lábunk), akkor kifelé kell forgatni
-        - szóval ha húzódzkodunk vagy máshogy húzunk vállból, vagy előre tolunk/fekve nyomunk, vagy guggolunk
-        - és igen, ez engem is összezavart, mert van, ahol a váll nyújtásban van
-        - de ha közben a kar hajlítva, akkor is kifelé kell forgatni (fekve nyomás, fekvő támasz)
-    2. ha nyújtunk (kb. amikor mögöttünk van a kezünk vagy a lábunk), akkor befelé kell forgatni
-        - kar lendítés, fej fölé emelés, láb lendítés futásnál, felemás lábpozíciónál (pl. dobás, box, dinamikus sport) a hátsó láb
-- mindig csak épp annyi nyomatékot generáljunk, amennyit a mozgás igényel
-    - nem kell túlzásba vinni, de elhagyni sem
-    - pont annyi kell, hogy ne engedjük a testünknek, hogy rossz pózba húzzon
-    - mert a testünk mindig megtalál egy egyensúlyi állapotot
-        - csak ha mi nem teszünk róla, hogy az a helyes egyensúlyi állapot legyen, akkor hosszú távon megjárjuk
-- ha eleve nagyon arra vannak fordítva a végtagjaink, amerre a nyomatékot kellene generálni, akkor egyre kevésbé fog menni
-    - ezért nem szabad szétálló lábakkal guggolni, vagy kifelé fordított kezekkel fekvőzni
-    - mert onnan már hogy fordíthatnánk még tovább kifelé?
-- figyelem: sokáig menni fog kis súlyokkal, vagy kevésszer, vagy ritkán
-    - de ez nem jelenti, hogy úgy jó, és nagyobb terhelésnél ezekből jön majd a sérülés
+A váll és a csípő (vagyis mindkét "egy-ízület") *golyós*.
+Ez nagyon pongyolán azt jelenti, hogy össze-vissza tudnak mozogni -- ami a mozgástartományt tekintve jó, de egy konkrét mozdulat közben rossz.
+Ha viszont némi nyomaték segítségével kb. "becsavarjuk" őket a helyükre, akkor már kötötten, de cserébe stabilan fognak mozogni.
+Teher alatt pedig nekünk pont erre van szükségünk.
+Ha nem így teszünk, akkor tulajdonképpen az inakra és az izmokra bízzuk, hogy a helyén tartsák az ízületet.
+Ez nagyon veszélyes móka!
+
+A gerinc beállításnál látott "csavarjuk a lábakat a talajba" tehát valójában az egyik módja, hogy a csípőnél nyomatékot generáljunk.
+De guggolásnál a "lábfejek előre, térdeket szét" is ilyen.
+Vagy fekvőnél szintén csavarjuk bele a földbe a kezeinket.
+Vagy a vállal végzett gyakorlatoknál a "hajlítsuk meg a rudat".
+Egyiknél sem kell semmit elfordítani persze...
+Csak abba az irányba erőt kifejteni.
+
+Az viszont nagyon nem mindegy, hogy kifelé vagy befelé akarunk forgatni!
+Mert míg az egyik stabilizál, a másik még tovább ronthat a helyzeten, és könnyíti a sérülést.
+Innen jön a nyomaték két "törvénye":
+
+1. Ha hajlítunk (kb. amikor *előttünk* van a kezünk vagy a lábunk), akkor **kifelé** kell forgatni.
+Szóval ha húzódzkodunk vagy máshogy húzunk vállból, vagy előre tolunk/fekve nyomunk, vagy guggolunk.
+<small>És igen, ez engem is összezavart kicsit, mert van, ahol a váll nyújtásban van.
+De ha közben a kar hajlítva, akkor is kifelé kell forgatni (például fekve nyomás, fekvő támasz).</small>
+
+2. Ha nyújtunk (kb. amikor *mögöttünk* van a kezünk vagy a lábunk), akkor **befelé** kell forgatni.
+Ilyen a kar lendítés, fej fölé emelés, láb lendítés futásnál, felemás lábpozíciónál (pl. dobás, box, dinamikus sport) a hátsó láb.
+
+Ha eleve nagyon arra vannak fordítva a végtagjaink, amerre a nyomatékot kellene generálni, akkor egyre kevésbé fog menni.
+Ezért nem szabad szétálló lábfejekkel guggolni, vagy kifelé fordított kezekkel fekvőzni.
+Onnan már hogy fordíthatnánk még tovább kifelé?
+
+Mindig épp annyi nyomatékot generáljunk, amennyit az adott mozgás igényel.
+Nem kell túlzásba vinni, de elhagyni sem szabad.
+Pont annyi kell, ami megakadályozza, hogy a testünk rossz pózba húzzon.
+A testünk mindig megtalál egy egyensúlyi állapotot!
+Csak ha mi nem teszünk róla, hogy az a **helyes** egyensúlyi állapot legyen, akkor hosszú távon megjárjuk.
+Nyomaték nélkül is sokáig menni fog kis súlyokkal, vagy kevésszer, vagy ritkán...
+De ez nem jelenti, hogy úgy jó, és nagyobb terhelésnél ezekből jön majd a sérülés.
 
 <br>
 
@@ -247,29 +283,27 @@ A tartalom a következőképp alakul:
 
 ## <a name="5"></a>Alapvető pózok
 
-- hét alapvető mozdulati minta (4 a vállal, 3 a csípővel), amiből gyakorlatilag minden egyéb mozgásunk összeáll
-    - vagyis ezekből valamelyik a start pozíció, és a végpozíció is
-    - aztán ehhez tanulhatjuk a mozgás mintákat, hogy az egyikből átmenjünk a másikba
-- de ahhoz tudni kell a helyes kiindulási és érkezési formát is!
-    - ha rosszul kezdjük, akkor szinte biztos, hogy rossz pózban is fogunk kikötni
-    - de ha jól is kezdjük, akkor is köthetünk ki rossz végpózban
-        - ami ismétlődő mozgásoknál a következő kör eleje, vagyis visszük tovább a hibát!
-- ezekhez egyesével tesztek, hogy megvan-e a teljes mozgástartomány és motoros kontroll
-    - az első csak a tartományhoz (maga a póz megy-e), a második pedig már terhelés alatt, hogy úgy is képesek vagyunk-e megtartani
-    - ha gyakoroljuk, akkor utána nem csak ezeknél a gyakorlatoknál, hanem az életben is helyesen fogjuk csinálni!
-    - ha pedig nem megy valami, akkor ezek a diagnosztikák alapján mehet a mobilizáció
+A könyv hét alapvető mozdulati mintát különböztet meg (4 a vállal, 3 a csípővel), amiből gyakorlatilag minden egyéb mozgásunk összeáll:
 
-1. fej fölötti egyenes kar (rúdról lógás)
-2. nyomás (fekvő "alja")
-3. lógatott kar (ez kellene, hogy legyen az "alapállapot")
-4. eltartás / vállon tartás (fekvő "teteje" / húzódzkodás "teteje")
-5. guggolás / lehajolás (gondolom mindenki el tudja képzelni)
-6. pisztoly-guggolás (egy lábas, főleg a boka és a térd mozgástartományát vizsgálja)
-7. kitörés (futásnál és úgy általában...)
+1. Fej fölötti egyenes kar (rúdról lógás)
+2. Nyomás (fekvőtámasz "alja")
+3. Lógatott kar (ez kellene, hogy legyen az "alapállapot")
+4. Eltartás / vállon tartás (fekvőtámasz "teteje" / húzódzkodás "teteje")
+5. Guggolás / lehajolás (gondolom mindenki el tudja képzelni)
+6. Pisztoly-guggolás (egy lábas, főleg a boka és a térd mozgástartományát vizsgálja)
+7. Kitörés (futásnál és úgy általában...)
 
-- mindig törekedjünk a helyes pozíciókra a helyet motor kontroll által
-    - ehhez először kell majd gyakorlás, hogy egyáltalán jól akarjuk csinálni
-    - ha pedig már jól akarjuk, csak a "merevségünk" miatt nem megy, akkor jöhetnek a mobilizálások
+Vagyis ezekből valamelyik a start pozíció, és a végpozíció is.
+Aztán ehhez tanulhatjuk a mozgás mintákat, hogy az egyikből elegáns átmenetet produkáljunk egy másikba.
+De ehhez ugye tudni kellene a helyes kiindulási és érkezési formát is!
+Ha rosszul kezdjük, akkor szinte biztos, hogy rossz pózban is fogunk kikötni.
+Illetve még ha jól is kezdjük, akkor is köthetünk ki rossz végpózban.
+Ez a "végpóz" pedig ismétlődő mozgásoknál a következő kör eleje, vagyis visszük tovább a hibát!
+
+Ezekhez egyesével léteznek tesztek, hogy megvan-e a teljes mozgástartomány és motoros kontroll.
+Az első csak a tartományhoz (maga a póz megy-e), a második pedig már terhelés alatt, hogy úgy is képesek vagyunk-e megtartani.
+Ehhez először kell majd gyakorlás, hogy egyáltalán jól akarjuk csinálni.
+Ha pedig már jól akarjuk, csak a "merevségünk" miatt nem megy, akkor jöhetnek a mobilizálások.
 
 <br>
 
@@ -288,15 +322,23 @@ A tartalom a következőképp alakul:
 
 ## <a name="6"></a>Mozgás hierarchia
 
-- az előbbi 7 archetípust ideje mozdulatokká összefűzni
-- 3 kategória
-    1. stabil pozíció --> folyamatos nyomaték --> vissza ugyanabba a stabil pozícióba
-    2. stabil pozíció --> nyomaték **elvesztése** --> vissza ugyanabba a stabil pozícióba
-    3. stabil pozíció --> nyomaték elvesztése --> vissza egy **másik** stabil pozícióba
-- ezeken belül is sok könnyítési/nehezítési lehetőség van
-    - felskálázás: sebesség, mennyiség, terhelés, egyenesen előre néző törzs, intenzitás
-    - leskálázás: lassítás, teher csökkentés, extra stabilitási pontok (kapaszkodás), rövidebb mozdulat
-- ezzel a hierarchikus rendszerrel jól be lehet lőni a kezdők betanulási ütemét, a hibás mozdulatok diagnosztikáját, vagy a sérülés utáni rehabilitációt
+Az előbbi 7 póz archetípust ideje mozdulatokká összefűzni.
+Ezeket a lehetséges összefűzéseket 3 kategóriába soroljuk:
+
+1. stabil pozíció &#8658; folyamatos nyomaték &#8658; vissza ugyanabba a stabil pozícióba.
+2. stabil pozíció &#8658; nyomaték **elvesztése** &#8658; vissza ugyanabba a stabil pozícióba.
+3. stabil pozíció &#8658; nyomaték elvesztése &#8658; vissza egy **másik** stabil pozícióba.
+
+Ez az osztályozás nagyjából egy nehézségi sorrendet is leír, de mégis a "legkönnyebbek" a legfontosabbak, mert azok alkalmazhatóak a legtöbbször a hétköznapi életben is.
+Az 1. kategória itt tulajdonképpen a Fegyencedzés gyakorlatai, csak most már különös hangsúllyal a "helyességen".
+A 2. kategória futás/ugrás/evezés/lendítés és ilyesmi, a 3. pedig különböző súlyemelések, muscle-up, négyütemű.
+
+Persze ezeken belül is sok könnyítési/nehezítési lehetőség van, amivel testre szabhatjuk a saját terhelésünket:
+
+- Felskálázás: gyorsítás, magasabb ismétlésszám, nagyobb terhelés, egyenesen előre néző törzs, intenzitás, ...
+- Leskálázás: lassítás, teher csökkentés, extra stabilitási pontok (kapaszkodás), rövidített mozdulat, ...
+
+Ezzel a hierarchikus rendszerrel jól be lehet lőni a kezdők betanulási ütemét, a hibás mozdulatok diagnosztikáját, vagy a sérülés utáni rehabilitációt.
 
 <br>
 
@@ -315,46 +357,46 @@ A tartalom a következőképp alakul:
 
 ## <a name="7"></a>Szisztematikus mobilitás
 
-- a "nyújtással" az a baj, hogy a mobilitás egy aspektusát próbálja csak javítani, és azt sem a legjobb módon
-    - lehet, hogy az izmok megnyúlásával hivatalosan tágul a mozgástartomány, de ez az ízületekre, a motoros kontrollra, vagy a terhelés alatti teljesítésre nem vonatkozik
-    - szóval amint használni akarjuk az frissen megnyújtott izmainkat a többi aspektus nélkül, csak még nagyobb esélyünk lesz a bajra... szinte mintha könyörögnénk érte, hogy megsérüljünk
-- ezzel szemben a helyes "mobilizálás" figyelembe veszi a mozgástartományt (mind izom, mind ízület szinten), a motorkontrollt, és a terhelhetőséget is
-- amire érdemes figyelni:
-    - motor kontroll
-        - vagyis először is, helyesen csináljuk-e
-        - ez lehet, hogy már önmagában megoldja a problémát
-        - ha nem, akkor sorban:
-    - ízületek
-        - szét lehet húzni, össze lehet nyomni
-        - rossz esetben vissza lehet állítani a helyére, de ez elég csontkovács-jellegű :)
-    - "felületi csúszás"
-        - hogyan "csúsznak" egymáson a bőr, izmok, ízületek, és inak
-        - ha ez a csúszás nem "sikamlós", az olyan, mintha egy nagyon szűk farmerban akarnánk guggolni
-    - izmok
-        - na **ez** a nyújtás, de ez is aktívan!...
-        - és a lista végén, mert mire eddig jutunk, addigra sokszor nincs is rá szükség
-- mobilizációs technikák
-    - pressure wave -- szó szerint egy nyomás-hullámmal utazunk végig az érintett területen
-    - contract and relax -- felváltott feszítés és relaxálás
-    - gumiszalagos ízület visszaállítás
-    - nyomás alatti mozgatás -- főleg a csúszás javításhoz
-    - stb.
-- sérülés persze bármikor előfordulhat -- egy egyszerű lista
-    1. ha valami nincs a helyén, tegyük a helyére
-    2. ha valami nem mozog, mozgassuk meg
-    3. mobilizáljunk fölötte és alatta is
-        - "where the rats get in is not necessarily where they chew." :)
-- napi 10-15 perc minimum, minden nap
-    - abból összerakva, hogy mi fáj, mi nem megy, min szeretnénk fejleszteni, aznap mi történt, ...
-    - 3-4 konkrét mob. technika, minimum 2-2 perc / darab / oldal
-    - 7 "szabály"
-        1. tesztelni és újratesztelni mindent -- hogy tudjuk, működik-e, amit csinálunk (plusz menedzsment alapelv, ugye Drucker...)
-        2. ha úgy érezzük, hogy baj van, akkor baj van -- nagy különbség van a mobilizálások kellemetlensége és a fájdalom között
-        3. nincs "pihenőnap"
-        4. a mobilizálás legyen realisztikus -- olyasmi pózokat gyakoroljunk, amikkel a baj van
-        5. mindig helyes pozícióban mobilizáljunk
-        6. szabad improvizálni, de legyen informált improvizálás
-        7. ne vágjunk arcokat :)
+A "nyújtással" az a baj, hogy a mobilitás egy aspektusát próbálja csak javítani, és azt sem a legjobb módon.
+Lehet, hogy az izmok megnyúlásával hivatalosan tágul a mozgástartomány, de ez az ízületekre, a motoros kontrollra, vagy a terhelés alatti teljesítésre nem vonatkozik.
+Szóval amint használni akarjuk a frissen megnyújtott izmainkat a többi aspektus nélkül, csak még nagyobb esélyünk lesz a bajra...
+Szinte mintha könyörögnénk érte, hogy megsérüljünk.
+
+Ezzel szemben a helyes "mobilizálás" figyelembe veszi a mozgástartományt (mind izom, mind ízület szinten), a motorkontrollt, és a terhelhetőséget is.
+A fontossági sorrend:
+
+1. **Motor kontroll**.
+Vagyis először is, helyesen csináljuk-e.
+Ez sokszor önmagában megoldja a problémát.
+Ha nem, akkor:
+
+2. **Ízületek**.
+Szét lehet húzni, össze lehet nyomni -- rossz esetben vissza lehet állítani a helyére, de ez elég csontkovács-jellegű.
+Ha ez is rendben van, akkor:
+
+3. **"Felületi csúszás"**.
+Ez azt takarja, hogy hogyan "csúsznak" egymáson a bőr, izmok, ízületek, és inak.
+Ha ez a csúszás nem "sikamlós", az olyan, mintha egy nagyon szűk farmerban akarnánk guggolni.
+Ha pedig még ez sem oldja meg a gondot, akkor:
+
+4. **Izmok**.
+Na **ez** a nyújtás, de ez is aktív terhelés mellett!
+És a lista végén, mert mire eddig jutunk, addigra sokszor nincs is rá szükség.
+
+Mindezek mellett sérülés persze bármikor előfordulhat -- ezért arra is kapunk egy egyszerű listát:
+
+1. Ha valami nincs a helyén, tegyük a helyére.
+2. Ha valami nem mozog, mozgassuk meg.
+3. Mobilizáljunk fölötte és alatta is, mert
+
+    > A patkányok nem feltétlen ott jutottak be, ahol rágnak.
+    > > Where the rats get in is not necessarily where they chew.
+
+<br>
+
+Starrett nem csak a sérülések vagy a konkrét problémák kezelésére, hanem magunk karbantartására, "csak úgy" is ajánl napi minimum 10-15 perc mobilizációt.
+Gondoljunk itt hengerezésre, masszázsgolyóra, gumiszalagokra, esetleg (urambocsá) "nyújtásra".
+Hogy legyen némi ellenhatás az leginkább ülő és inaktív életmódunkkal, vagy épp az adott nap megterheléseivel szemben.
 
 <br>
 
@@ -373,31 +415,15 @@ A tartalom a következőképp alakul:
 
 ## <a name="8"></a>És a többi...
 
-- szerkezet
-    1. elméleti alapok
-    2. mozgásformák
-    3. mobilizálási technikák
-    4. mobilizálásokból összeállított minta napi rutinok
+Amit idáig tárgyaltunk, az igazából csak az első része ennek a négy részes nagy kódexnek.
+A 2. a mozgásformák helyes végrehajtásai és tipikus hibái, a 3. konkrét mobilizációs technikák, a 4. pedig mobilizálásokból összeállított minta napi rutinok.
+De mint már az elején is mondtam, nem szeretnék minden részletbe belebonyolódni.
 
-- ami már most biztos: nem fogok minden részletbe belebonyolódni
-    - rendeged kép, illusztráció, példa, magyarázat...
-    - komplett függelék-szerű anyagok minden egyes porcika mobilizálására, többféle szempont szerint csoportosított komplett program-receptek
-        - ha ilyen szinten mászna bele valaki, az úgyis jobban jár a könyvvel, mint ha én akarnék belekontárkodni
-    - itt a lényegi elveket szeretném átadni, hogy azokkal felvértezve már könnyebben mehessenek a konkrét példák
-        - de ha már csak az alapok megmaradnak, akkor is jóóóval előrébb leszünk!
-
-
-- a 2. rész a mozdulatok helyes formája
-    - az 1. kategória tulajdonképpen a Fegyencedzés, csak "helyesen"
-    - a 2. kategória futás/ugrás/evezés/lendítés és ilyesmi
-    - a 3. pedig különböző súlyemelések, muscle-up, burpee
-
-- a 3. rész a konkrét, testtájankénti mobilizációs gyakorlatok
-
-- a 4. pedig minta napirendek ("edzéstervek")
-
-- mindenki szemezgessen magának
-    - én a hátamra és a vállaimra mindenképp ki fogok térni
+Rengeteg kép, illusztráció, példa, magyarázat...
+Komplett függelék-szerű anyagok minden egyes porcikához, többféle szempont szerint csoportosítások...
+Ha ilyen szinten mászna bele valaki, az úgyis jobban jár a könyvvel, mint ha én akarnék belekontárkodni.
+Itt csak a lényegi elvekkel ismerkedtünk -- hogy azokkal felvértezve már könnyebben mehessenek a konkrét példák.
+De higgyük el, ha már csak ezekből az alapokból megmarad valami, akkor is jóóóval előrébb leszünk!
 
 <br>
 
@@ -416,13 +442,25 @@ A tartalom a következőképp alakul:
 
 ## Összefoglalás
 
-- alap sorozat minden mozdulathoz:
-    - gerinc feszítés --> vállból vagy csípőből mozgás --> nyomaték
-- erre jön a helyes start és végpozíció, és a 7 archetípus
+Vegyük tehát gyorsan újra az alap ellenőrzőlistát minden mozdulathoz:
 
-- nekem például ez egy nagyon régóta tervezgetett terület, ami már most ígéretes.
-    - az évek óta (rossz testtartással, túlsúllyal, sok üléssel, hason alvással) kultivált derékfájásom tetejére egy pár hónapja még sikerült meghúznom is magam.
-    - az így összegyűjtött önkarbantartási adósságomat pedig már a "Leopárdos könyv" olvasása óta eltelt **pár nap** alatt jelentősen javítani tudtam.
-    - főleg azzal, hogy az edzéseknél helyesen mozgok (és ezáltal ugye nem gyilkolom tovább), másrészt az aktív mobilizálásos gyakorlatokkal (amivel az eddigiek rendbetételét gyorsítom fel).
-    - fontos persze az alvást is megemlíteni, mert az itt olvasottak hatására a helyesebb alvási pozíciókra is kitértem -- de erre még visszatérünk!
-- a lényeg, hogy az nyers edzés mellé kaptunk egy karbantartási és rehabilitálásra is alkalmas menetrendet. Használjuk!
+- Gerinc feszítés;
+- Vállból vagy csípőből mozgás;
+- Nyomaték alkalmazása a stabilizálásra;
+- Helyes start és végpozíció (7 db);
+- Egyes kategóriájú mozdulatok kihangsúlyozása;
+- A motoros kontroll, az ízületek, és a felületi csúszások előnyben részesítése a "nyújtással" szemben.
+
+De legfőképpen, figyeljünk oda, hogy mit csinálunk magunkkal!
+Mert attól, hogy nincs azonnali negatívum, hosszú távon még tönkretehet.
+
+Megjegyezném még, hogy nekem például ez egy nagyon régóta tervezgetett terület -- és már most ígéretes.
+Az évek óta (rossz testtartással, túlsúllyal, sok üléssel, hason alvással) kultivált derékfájásom tetejére egy pár hónapja még sikerült meghúznom is magam.
+Az így összegyűjtött önkarbantartási adósságomat pedig már a "Leopárdos könyv" olvasása óta eltelt **pár nap** alatt jelentősen javítani tudtam.
+
+Egyrészt azzal, hogy az edzéseknél helyes(ebb)en mozgok, és ezáltal ugye nem gyilkolom magam tovább.
+Másrészt az aktív mobilizálásos gyakorlatokkal, amivel az eddigiek rendbetételét gyorsítom fel.
+De fontos persze az alvást is újra megemlíteni, mert az itt olvasottak hatására a helyesebb alvási pozícióknak is utánanéztem egy kicsit -- de erre még visszatérünk!
+
+A lényeg, hogy az nyers edzés mellé most már kaptunk egy karbantartási és rehabilitálásra is alkalmas menetrendet.
+Használjuk!
