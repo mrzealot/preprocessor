@@ -61,61 +61,76 @@ A tartalom a következőképp alakul:
 
 ## A kalória modell
 
-- miért vannak kövér orvosok?
-    - vagy még a saját tanácsukat sem tudják követni, vagy valamit nagyon félrehiszünk az elhízással kapcsolatban
-- persze azt hisszük, hogy tudjuk (ez a legveszélyesebb... ha tudnánk, hogy nem tudjuk, akkor legalább nem csinálnánk úgy, mintha tudnánk. De nem tudjuk, hogy nem tudjuk...)
-    - kalóriák be kontra kalóriák ki... ennyi az egész.
-    - ha többet eszel, mint amennyit égetsz, akkor hízol, fordítva pedig fogysz. pont.
-    - hát, sajnos ennyire azért nem egyszerű
-- lehet, hogy tényleg a kalóriák a **közvetlen** okok, de nem feltétlen a kiváltó okok
-    - egy jó példa: miért zuhan le egy repülő?
-    - közvetlenül azért, mert nem volt elég felhajtóerő a szárnyai alatt, hogy megküzdjön a gravitációval
-    - de a kiváltás szintjén valószínűleg emberi mulasztás, mechanikai meghibásodás, vagy rossz időjárás miatt
-    - a megoldás ilyenkor nem az, hogy a közvetlen okkal szórakozzunk (és tegyünk rá mondjuk nagyobb szárnyakat vagy erősebb motorokat)
-    - a megoldás a kiváltó ok orvoslása jobb pilóta képzéssel, körültekintőbb karbantartással, és óvatosabb időjárási toleranciákkal
-- szóval: itt sem a kalóriás közvetlen ok a fontos, hanem a kiváltó
+Vajon miért vannak kövér orvosok?
+Vagy még a saját tanácsukat sem tudják követni, vagy valamit nagyon félrehiszünk az elhízással kapcsolatban.
+Persze azt hisszük, hogy tudjuk -- és ez a legveszélyesebb...
+Ha tudnánk, hogy nem tudjuk, akkor legalább nem csinálnánk úgy, mintha tudnánk.
+De nem tudjuk, hogy nem tudjuk...
 
-- a `kalória be - kalória ki = testzsír` egyenletbe egy csomó ki nem mondott (és hibás) feltételezés bele van építve
-    1. a be és ki irányok függetlenek egymástól -- nem, nagyban függenek
-        - kevesebb bevitt kalória mellett kevesebbet is fogunk égetni
-        - napi 500 kalória elhagyása **elvileg** heti mínusz fél kiló zsír mínusz -- de ha ez így is maradna, akkor egy 80 kilós ember 3 év alatt lemenne 0 kilóra és eltűnne?!
-        - nyilván nem, mert a test a bevitt értékekhez igazítja az égetést is
-        - túl akar élni, ezért alkalmazkodik
-    2. a BMR stabil
-        - nem, a mozgástól, az edzéstől, az edzés utáni megnövekedett oxigén fogyasztástól, a kaják thermogenikus hatásától, és az evett mennyiségtől is nagyban függ
-    3. a bejövő kalóriák fölött tudatos a kontrollunk
-        - nem teljesen, a hormonjaink nagyon is kontrollálják, hogy mikor hogy állunk a kajákhoz (éhség, telítettség)
-        - súlyvesztésnél gyorsan (és onnantól szinte vég nélkül) beindul az éhség-hormon, és csökken a telítettség-hormon
-        - vagyis az elhízás nem csak akaraterő kérdés, hanem inkább egy hormonális "betegség"
-    4. a zsír lerakódása nem irányított, és csak a kajától függ
-        - nem, mint ahogy minden mást is, ezt is hormonok irányítják a testünkben
-        - vagyis az elhízás inkább egy hormonális "betegség" ?!
-    5. a kalória az kalória
-        - és igen, a tautológia része igaz :)
-        - de amúgy viszont nem, nagyon nem mindegy, hogy miből jön egy bizonyos kalória, mert drasztikusan más hormonális választ tud kiváltani a testünkben
-- tehát a megszokott menetrend:
-    - csökkentjük a bevitt kalóriákat, és egy darabig talán fogyunk is valamennyit
-    - erre a testünk megfelelően csökkenti az égetett kalóriákat -- sőt, talán még lejjebb is megy egy kicsit, csak hogy biztos legyen
-    - így már a csökkentett étrend is egy pici (de idővel összeadódó) zsír növekedéshez vezethet
-    - ha pedig valaha is visszaállunk a korábbi kalória mennyiségünkre, a BMR-ünk még nagyon sokáig nem fogja ezt követni
-    - így pedig minden leadott kilót visszaszedünk, és még valószínűleg többet is
+Az uralkodó nézet (a közhiedelemben legalábbis mindenképpen) a "kalóriák be kontra kalóriák ki", ennyi az egész.
+Ha többet eszünk, mint amennyit égetünk, akkor hízunk, fordítva pedig fogyunk.
+Pont.
+Hát... Sajnos ennyire azért nem egyszerű a dolog.
+Mármint lehet, hogy tényleg a kalóriák a *közvetlen* okok, de nem feltétlen a **kiváltó** okok!
 
-<!-- ### Az edzés mítosz -->
+Egy jó példa erre: miért zuhan le egy repülő?
+Közvetlenül azért, mert nem volt elég felhajtóerő a szárnyai alatt, hogy megküzdjön a gravitációval.
+De a okozati lánc legelején valószínűleg emberi mulasztás, mechanikai meghibásodás, vagy rossz időjárás szerepel.
+A megoldás ilyenkor tehát nem az, hogy a közvetlen okkal szórakozzunk -- és tegyünk rá mondjuk nagyobb szárnyakat vagy erősebb motorokat.
+Nem, a megoldás a kiváltó ok orvoslása jobb pilóta képzéssel, körültekintőbb karbantartással, és óvatosabb időjárási toleranciákkal.
+Szóval az elhízásnál sem a kalória-centrikus közvetlen ok a fontos, hanem a kiváltó (amire mindjárt rá is térünk).
 
-- a folyamatosan terjedő edzés-mánia ellenére az elhízás mégis csak egyre nő...
-    - a tetejébe a kimenő kalóriák nagyságrendileg nem változtak a vadászós/gyűjtögetős idők óta (és akár más fajokhoz képest sem)
-    - szóval erről az oldalról is megborul az "egyél kevesebbet, mozogj többet" egyszerű elmélete
-    - és nem az edzés fogja rendbe hozni az elhízást
-- a napi égetésünk nagyja eleve nem az edzéshez kapcsolható, hanem testünk működésének fenntartásához
-    - és mint láttuk, a többi sem állandó
-    - szóval nem csak az edzéssel tudjuk befolyásolni
-- "Diet is Batman and exercise is Robin." :D
-    - persze az edzés attól nagyon jó! csak nem feltétlen a fogyásra
-    - természetes módon kompenzálunk (vagy többet eszünk, vagy az edzésen kívül leszünk kevésbé aktívak)
-    - és különben is, az edzésnek is megvannak a határai: "You can’t outrun a poor diet."
+A `kalória be - kalória ki = testzsír` egyenletbe egy csomó ki nem mondott (és hibás) feltételezés bele van építve:
 
-Összességében kimondhatjuk, hogy az "egyél kevesebbet, mozogj többet" statégia **nem** működik!
+1. A be és ki irányok függetlenek egymástól.
+Ööö, nem; nagyban függenek!
+Kevesebb bevitt kalória mellett kevesebbet is fogunk égetni.
+Napi 500 kalória elhagyása **elvileg** heti fél kiló zsír mínusz -- de ha ez így is maradna, akkor egy 80 kilós ember 3 év alatt lemenne 0 kilóra és eltűnne?!
+Nyilván nem, mert a test a bevitt értékekhez igazítja az égetést is.
+Túl akar élni, ezért alkalmazkodik.
 
+2. Az anyagcserénk alapszintje (**B**asal **M**etabolic **R**ate, BMR) stabil.
+Ööö, nem; nagyban függ a napi közbeni mozgástól, az edzéstől, az edzés utáni megnövekedett oxigén fogyasztástól, a kaják thermogenikus hatásától, és az evett mennyiségtől.
+
+3. A bejövő kalóriák fölött teljesen tudatos a kontrollunk.
+Ööö, nem; legalábbis is biztos nem teljesen.
+A hormonjaink nagyon is kontrollálják, hogy mikor hogy állunk a kajákhoz (éhség, telítettség).
+Súlyvesztésnél gyorsan aktiválódik az éhség-hormon, és csökken a telítettség-hormon szintje.
+Vagyis az elhízás nem csak akaraterő kérdése, hanem részben egy hormonális "betegség".
+
+4. A zsír lerakódása nem egy testileg irányított folyamat, és csak a kajától függ.
+Ööö, nem; mint ahogy minden mást is, ezt is hormonok irányítják a testünkben.
+Vagyis az elhízás talán inkább egy hormonális "betegség"?!
+
+5. A kalória az kalória.
+És igen, a [tautológia](https://hu.wikipedia.org/wiki/Tautol%C3%B3gia){:target="_blank"} része igaz...
+De amúgy viszont nem; nagyon nem mindegy, hogy miből jön egy bizonyos kalória, mert drasztikusan más hormonális választ tud kiváltani a testünkben!
+
+Ezek fényében már jöhet a megszokott menetrend:
+
+- Csökkentjük a bevitt kalóriákat, és egy darabig talán fogyunk is valamennyit;
+- Erre a testünk megfelelően csökkenti az égetett kalóriákat -- sőt, talán még lejjebb is megy egy kicsit, csak hogy biztos legyen;
+- Így már a csökkentett étrend is egy pici (de idővel összeadódó) zsír növekedéshez vezethet;
+- Ha pedig valaha is visszaállunk a korábbi kalória mennyiségünkre, a BMR-ünk még nagyon sokáig nem fogja ezt követni;
+- Ezért pedig minden leadott kilót visszaszedünk, és még valószínűleg többet is.
+
+Kezeket fel, aki megjárta már ezt a yo-yo ciklust!
+Jó móka volt?
+Szerintem sem.
+
+Joggal mondhatnánk, hogy eddig az edzés sehol fel sem merült, de ez nem annyira drasztikus mulasztás.
+Hiszen a folyamatosan terjedő edzés-mánia ellenére az elhízás mégis csak egyre nő.
+A napi égetésünk nagyja eleve nem az edzéshez kapcsolható, hanem testünk működésének fenntartásához.
+
+Persze az edzés attól nagyon jó!
+Csak nem feltétlen a fogyásra.
+Természetes módon kompenzálni fogunk -- vagy többet eszünk, vagy az edzésen kívül leszünk kevésbé aktívak.
+És különben is, az edzésnek megvannak a határai:
+    
+> Egy rossz étrendet nem lehet túledzeni.
+> > You can't outrun a poor diet.
+
+Összességében kimondhatjuk tehát, hogy az "egyél kevesebbet, mozogj többet" statégia **nem** működik!
 
 <br>
 
@@ -143,98 +158,90 @@ A tartalom a következőképp alakul:
 <!-- ### A túlevési paradoxon -->
 ## A hormonális modell
 
-- túlevési kísérleteknél is kijön, hogy nagyon nem mindegy a makró arány
-    - egy esetben az alacsony szénhidrát / magas zsír és fehérje tartalmú étrendnél alig ment fel valami az edzőnek, míg a fordítottjánál már 3 hét alatt úszógumit növesztett
-- de eleve nem könnyű túletetni az embereket
-    - a BMR-jük alkalmazkodik, és a testük megpróbálja leégetni a felesleget
-    - a kísérletek után pedig vissza is térnek a megszokott súlyukhoz (ugyanúgy, ahogy a megvonás után is visszahízzuk a leadott kilókat)
-- még egy érdekes kísérlet: soványok felhízlalása, és párhuzamosan kövérek lefogyasztása egy közös pontra
-    - de az anyagcseréjük **nagyon** nem ugyanazon a fordulatszámot pörgött
-    - a korábban soványok durván égettek, hogy visszajussanak
-    - a már kevésbé hájasak pedig alig vegetáltak, hogy spóroljanak a raktáraikkal, és szintén visszajussanak
-        - nem azért leszünk kövérek, mert sokat eszünk... azért eszünk sokat, mert kövérek vagyunk :/
-- vagyis nagyon úgy tűnik, hogy a testünknek van egy alapsúlya, amit próbál megtartani
-    - a baj csak az, hogy ez az alappont az elhízottak esetében túl magasan van
-    - a testünk egy termosztát, ami az alapbeállítását védi
-        - harcolhatunk ellene hősugárzóval vagy nyitott hűtőajtóval, de jobb lenne, ha megtanulnánk kezelni a termosztátot, nem?
+Szándékos túlevési kísérleteknél kijön, hogy nagyon nem mindegy a makrótápanyagok aránya.
+Egy esetben az alacsony szénhidrát, de magas zsír és fehérje tartalmú étrendnél alig ment fel valami az alanynak, míg a fordítottjánál már 3 hét alatt úszógumit növesztett.
+Emellett eleve nem könnyű túletetni az embereket, mert a BMR-jük alkalmazkodik, és a testük megpróbálja leégetni a felesleget.
+A kísérletek után rendszerint visszatérnek a megszokott súlyukhoz -- ugyanúgy, ahogy a megvonás után is visszahízzuk a leadott kilókat.
 
-<!-- ## A elhízás új modellje -->
+Felmerülhet hát a kérdés: akkor más túlsúlyosok miért nem égetik csak úgy le a feleslegüket?
+Ezt szemlélteti egy másik érdekes kísérlet, ahol a soványok felhizlalásával párhuzamosan a kövérek lefogyasztása is megtörtént egy közös kezdőpontra.
+De a látszólag egyforma súly ellenére az anyagcseréjük **nagyon** nem ugyanazon a fordulatszámot pörgött.
+A korábban soványok durván égettek, hogy visszajussanak a sovány állapotukba.
+A korábban hájasak pedig alig vegetáltak, hogy spóroljanak a raktáraikkal -- és ezáltal szintén visszajussanak az ő kezdőállapotukba.
 
-<!-- ### Egy új remény -->
+Vagyis nagyon úgy tűnik, hogy a testünknek van egy "alapsúlya", amit próbál megtartani.
+A baj csak az, hogy ez az alappont az elhízottak esetében túl magasan van.
 
-- kanyarodjunk hát vissza a "termosztáthoz", és alkossuk meg az elhízás hormonális modelljét
-    - ami a tetejébe a kalóriacsökkentésnél tárgyalt 5 szempontot is mind magyarázza
-    - vagyis legyen logikus, hogy miért függ össze a kalóriák bevitt és égetett mennyisége, miért változhat a BMR-ünk, miért nem csak rajtunk múlik az étvágyunk, mi alapján szabályozott a zsírtárolásunk, és miért nem mindegy, hogy a bevitt kalóriák honnan jönnek
+> Nem azért leszünk kövérek, mert sokat eszünk. Azért eszünk sokat, mert kövérek vagyunk.
+> > Eating more does not make us fat. Getting fat makes us eat more.
 
-- alap inzulin működés magyarázat, amiről Acetonál már olvashattunk (és azóta nyilván nem változott sokat)
-    - de gyors összefoglaló: az inzulin egy tároló hormon, ami a vérben lévő cukrot bejuttatja a sejtekbe, vagy felesleg esetén a májba (glikogén) és zsírraktárakba
-    - ha sokat eszünk, akkor sok lesz az inzulin, mert sokat kell elpakolni
-    - ő is úgy működik, mint szinte minden hormon: egy fogadóhelyhez (receptor) kapcsolódik, kb. mind egy kulcs a kulcslyukba, és így "nyitja meg" a sejtet a vércukor tárolásra
-- ha sokáig sok az inzulin, akkor nagyon tárolásra rendezkedik be a szervezetünk... ez hosszú távon elhízáshoz vezet.
-- ennyi lenne? :)
-<!-- ### Inzulin -->
+Gondoljuk úgy a testünkre, mint egy termosztátra, ami az alapbeállítását védi.
+Harcolhatunk ellene hősugárzóval vagy nyitott hűtőajtóval...
+De talán jobb lenne, ha megtanulnánk kezelni a termosztátot, nem?
+Ehhez a kulcs pedig nem más, mint az **inzulin**!
 
-- emellett azt is látjuk, hogy a kövér alanyokban a kajára és a koplalásra adott inzulin-reakció is sokkal magasabb, mint a soványoknál
-- erős a korreláció az elhízással és a nagyobb derék körfogattal -- főleg ha nem a teljes súlyt, hanem csak a zsírtömeget vesszük figyelembe
-    - a kérdés már csak az, hogy ez a korreláció ok-okozati viszonyt is jelent-e?
-- egyszerű: próbáljuk ki, hogy mi lesz, ha inzulint adunk az embereknek (mondjuk az amúgy is jelenlévő cukorbetegség miatt)...
-    - hát, elhíznak. szóval elég erősen úgy tűnik, hogy ok-okozati az a viszony!
-    - rengeteg gyógyszert vizsgálunk, és az eredmények meglepően konzisztensek:
-        - ami növeli az inzulinszintet, az hízáshoz vezet
-        - ami nem hat rá, az nem hat a súlyra sem
-        - ami csökkenti, az fogyást okoz
-- vagyis az inzulin állítja az emlegetett termosztát szintjét
-    - azt még nem értjük teljes mélységében, hogy *hogyan*, de az már látszik, hogy az inzulin a hunyó
+<br>
 
-<!-- ### Kortizol -->
+Az inzulin alapvető működését az [Aceto]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}) könyvnél már tárgyaltuk (és azóta nyilván nem változott sokat), de soha nem árthat egy gyors összefoglaló.
+Az inzulin egy tároló hormon, ami a vérben lévő cukrot bejuttatja a sejtekbe, vagy felesleg esetén a májba (glikogén) és zsírraktárakba.
+Ha sokat eszünk, akkor sok lesz az inzulin, mert sokat kell elpakolni.
+Ő is úgy működik, mint szinte minden hormon: egy fogadóhelyhez (receptor) kapcsolódik, kb. mint egy kulcs a kulcslyukba, és így "nyitja meg" a sejtet a vércukor tárolásra.
+Ha sokáig sok az inzulin, akkor egyre inkább tárolásra rendezkedik be a szervezetünk, és ez hosszú távon elhízáshoz vezet.
 
-- az ún. stressz-hormon, a "harcolj vagy menekülj" reakció elősegítője
-    - ez készíti fel a testünket a stresszesnek **vélt** helyzetek átvészelésére
-    - ehhez az akciókészséghez sok cukrot juttat a vérbe
-    - ezeket régen vagy gyorsan elégettük, vagy vége lett a veszélynek, és visszatérhettünk a normálisba
-    - ha viszont folyamatosan így érezzük magunkat (levezetés nélkül, lásd Bagdy Emőke), az nem túl jó
-- a fennmaradó cukor miatt több lesz az inzulin, ami idővel ugyanúgy elhízáshoz vezet (még ha közvetve is)
-    - szóval ha fogyni akarunk, akkor a meditáció és az alvás is ugyanolyan fontos szempontok lehetnek, mint mondjuk az edzés -- ha nem jobban!
+Ennek fényében már elkezdhetünk a jó helyen kapirgálni.
+Látjuk például, hogy a kövér alanyoknál a kajára és a koplalásra adott inzulin-reakció is sokkal magasabb, mint a soványoknál.
+Erős a korreláció az elhízással és a nagyobb derék körfogattal -- főleg ha nem a teljes súlyt, hanem csak a zsírtömeget vesszük figyelembe.
+A kérdés már csak az, hogy ez a korreláció ok-okozati viszonyt is jelent-e?
 
-<!-- ### Az Atkins támadás
+Ehhez próbáljuk ki, hogy mi lesz, ha inzulint adunk az embereknek (mondjuk az amúgy is jelenlévő cukorbetegség miatt).
+Egy szóval: elhíznak.
+És még fordítva is stimmel.
+Rengeteg gyógyszert vizsgálunk, és az eredmények meglepően konzisztensek.
 
-- akkor vegyük úgy, hogy az inzulin ellen kellően megalapozott a gyanú
-- és mi okoz magas inzulinszintet
-    - ééés vissza is jutunk az egyszerű szénhidrátokig
-    - az inzulin mellett pedig a telítettség-hormon sem működik rájuk rendesen, valószínűleg mert nem természetesek (második gyomor effektus)
-- Az Atkins-féle low-carb diéta szembement az addigi dogmával, és rövidtávon nagyon látványos eredményei is voltak
-    - de hosszú távon nem igazán
-    - a túl nagy szigor miatt sokan nem tudták/akarták tartani
-    - de azért van itt más baj is
-- Kínai rizsevők -> szinte csak carb, még sincs elhízás... akkor ezt hogy?
-    - a titok nem a szénhidrát, hanem a cukor és az inzulin rezisztencia -->
+- Ami növeli az inzulinszintet, az hízáshoz vezet;
+- Ami nem hat rá, az nem hat a súlyra sem;
+- Ami csökkenti, az fogyást okoz.
 
-<!-- ### Inzulin rezisztancia -->
+Elég erősen úgy tűnik, hogy ok-okozati az a viszony, és az inzulin állítgatja az emlegetett termosztát szintjét.
+Azt még nem értjük teljes mélységében, hogy *hogyan*, de az már látszik, hogy az inzulin a "hunyó".
 
-- az idő igenis sokat számít
-    - nem mindegy, hogy egy hét vagy egy évtized után akarunk ledobni némi felesleget
-- inzulin rezisztancia
-    - ha a receptor már ne reagál annyira, és nem enged be annyi glükózt a sejtekbe, akkor a szervezet válaszként több inzulint generál (hogy csak azért is beerőltesse a szükséges mennyiséget)
-    - ez viszont folyamatosan emelt inzulin szinthez vezet, és ezért hízunk el
-- jó, de akkor lépünk még tovább: mi okozza a rezisztenciát?
-    - a sok inzulin
-    - ugyanúgy, mint ahogy az antibiotikumokra is egyre jobban immunisak leszünk, vagy ahogy Rachel Carson kártevői is megtanulhatták túlélni a rovarirtókat
-- de most akkor körbeértünk?
-    - sajnos igen, ördögi kör...
-    - sok inzulin --> rezisztencia --> még több inzulin
-    - viszont a kör legalább az idő-faktort magyarázza: minél tovább pörgünk benne, annál rosszabb
-- de akkor mi indítja be a kört?
-    - a **folyamatosan** magas inzulin szint
+<br>
 
-- egymástól elszigetelt hatások
-    - a máj inzulin-rezisztanciája különbözik az izmokétól vagy az agyétól
-    - az egyiket az étrend befolyásolja nagyon, a másikat az edzés, az agyat meg kb. semmi
+Fontos tényező persze az idő is -- hiszen nem mindegy, hogy egy hét vagy egy évtized után akarunk ledobni némi felesleget.
+Itt jön a képbe az inzulin rezisztencia.
+Ha a receptorok már nem reagálnak annyira érzékenyen, és nem engednek be annyi glükózt a sejtekbe, akkor a szervezet válaszként még több inzulint generál (hogy csak azért is beerőltesse a szükséges mennyiséget).
+Ez viszont folyamatosan emelt inzulin szinthez vezet, és ezért hízunk el.
 
-- nem az egyszeri magas tüskékkel van a baj, hanem a folyamatosan magas szintekkel
-    - mint ahogy alvásnál is az akár hangos, de konstans háttérzajt ki tudjuk zárni
-    - de a síri csendben az is riadó, ha a gombostű leesik
-- tehát a kérdés nem csak az, hogy **mit** együnk, hanem hogy **mikor** együk
-    - és a mikor-t ritkítsuk, hogy legyen elég inzulin-szegény állapot is
+Jó, de akkor lépünk még eggyel hátrébb: mi okozza a rezisztenciát?
+Hát a sok inzulin.
+Ugyanúgy, mint ahogy az antibiotikumokra is egyre jobban immunisak leszünk, vagy ahogy [Rachel Carson]({% post_url 2020-10-03-rachel-carson-nema-tavasz %}) kártevői is megtanulhatták túlélni a rovarirtókat.
+
+De most akkor jól látom, hogy körbeértünk?
+Sajnos igen, ördögi kör.
+A sok inzulin rezisztenciához vezet; ami még több inzulinhoz; ami pedig még erősebb rezisztenciához...
+Viszont a kör (vagy talán inkább spirál) legalább az idő-faktort magyarázza: minél tovább pörgünk benne, annál rosszabb lesz a helyzet.
+
+De akkor mi indítja be a kört?
+A **folyamatosan** magas inzulin szint.
+Nem az egyszeri magas tüskékkel van a baj, hanem a folyamatosan magas szintekkel.
+Gondoljunk csak az alvásra: síri csendben az is riadó, ha a gombostű leesik.
+Viszont az akár hangos, de **konstans** háttérzajt ki tudjuk zárni, és alszunk tovább.
+Hasonlóan: alacsony inzulin szintek mellett a kis emelkedés is hirtelen reakciót vált majd ki.
+Viszont a tartósan magas szintek mellett egyre nagyobb tüskék kellenek majd a riadóhoz.
+    
+Tehát a kérdés nem csak az, hogy [**mit** együnk](#5), hanem hogy [**mikor** együk](#6).
+
+<br>
+
+Ha már hormonális modell, akkor érdemes kiegészítésként megismerkednünk a kortizollal is.
+Ez az ún. stressz-hormon, a "harcolj vagy menekülj" reakció elősegítője.
+Ez készíti fel a testünket a stresszesnek **vélt** helyzetek átvészelésére.
+És ehhez az akciókészséghez (többek között) sok cukrot juttat a vérbe.
+
+Ezt a plusz cukrot régen vagy gyorsan elégettük, vagy vége lett a veszélynek, és visszatérhettünk a normálisba.
+Ha viszont folyamatosan így érezzük magunkat (levezetés nélkül, lásd [Bagdy Emőke]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %})), az nem túl jó.
+A fennmaradó cukor miatt több lesz az inzulinunk, ami idővel ugyanúgy elhízáshoz vezet -- még ha közvetve is.
+Szóval ha fogyni akarunk, akkor a meditáció és az alvás is gyakran ugyanolyan fontos szempontok lehetnek, mint mondjuk az edzés -- sőt!
 
 <br>
 
@@ -332,30 +339,32 @@ A tartalom a következőképp alakul:
 
 ## Társadalmi vonatkozások
 
-<!-- ### Nagy kaja, sok kaja -->
+Itt a könyv átmegy [Christie Aschwanden]({% post_url 2020-04-17-christie-aschwanden-good-to-go %})-be, és erősen... khmm... mondjuk úgy, megkérdőjelezi egy csomó szervezet, termék, és publikáció hitelességét.
+Ha nem eszünk, akkor senki nem keres pénzt.
+Ezért nyilván inkább *ezt* vagy *azt* vagy *amazt* kell enni, szedni, vagy csinálni.
+Senki nem fogja azt javasolni, hogy **ne** együnk, mert az nem üzlet.
 
-- itt a könyv átmegy Christie Aschwanden-be, és erősen... khmm... mondjuk úgy, megkérdőjelezi egy csomó szervezet, termék, és publikáció hitelességét
-    - ha nem eszünk, akkor senki nem keres pénzt
-    - ezért inkább ezt vagy azt vagy amazt kell enni, szedni, vagy csinálni
-- a sznekkelés (mint mondtuk) nem javasolt -- főleg mert legtöbbször több összfogyasztáshoz vezet
-- a reggeli egyáltalán nem annyira fontos, mint gondoljuk
-    - a testünk már eleve előkészül a napra, nem muszáj tankolni
-- a zöldségre/gyümölcsre is csak annyit mondanak, hogy azt **is** együnk
-    - pedig nyilván akkor lenne értelme, ha a cukros szarok **helyett** ennénk
+Szóval érdemes a gyakran hangoztatott jótanácsok mögé nézni.
 
-<!-- ### Szegénység és túlsúly -->
+- A "sznekkelés" nem javasolt -- főleg mert legtöbbször több összfogyasztáshoz vezet.
+- A reggeli egyáltalán nem annyira fontos, mint gondoljuk -- a testünk már eleve előkészül a napra, nem muszáj tankolni.
+- A zöldségre/gyümölcsre is csak annyit mondanak, hogy azt **is** együnk -- pedig nyilván akkor lenne értelme, ha a cukros szarok **helyett** ennénk.
 
-- a szegénység erősen korrelál a túlsúllyal
-    - a finomított szénhidrát kb. a legolcsóbb és leghozzáférhetőbb kaja
-    - naná, hogy a szegények pont azt fogják enni (és ezért a negatívumait is ők kapják a leginkább)
-- hát de a feldolgozott szénhidrát hogy olcsóbb, mint a természetes?!
-    - úgy, hogy az árakat nagyban az állami támogatások mennyisége szabja
-    - és tippeljünk, mik kapják a nagy pénzeket? főleg a kukorica és a búza, amikből főleg szirup, keményítő és liszt készül
-- "Obesity is effectively the result of government policy."
-    - régen drága volt a cukor, ezért csak a gazdagok "engedhették meg maguknak", hogy kövérek legyenek
-    - ma olcsó, viszont szinte mindenhol ott is van (és a cukormentes dolgok relatíve sokkal drágábbak), ezért már majd hogy nem csak a gazdagok engedhetik meg maguknak, hogy **ne** legyenek kövérek
+<br>
 
-<!-- ### Gyermekkori elhízás -->
+Feltűnhet még, hogy napjainkban a szegénység erősen összefügg a túlsúllyal.
+Nagyrészt azért, mert a finomított szénhidrát kb. a legolcsóbb és leghozzáférhetőbb kaja.
+Naná, hogy a szegényebbek pont azt fogják enni (és ezért a negatívumait is ők kapják a leginkább).
+
+Hát de a feldolgozott szénhidrát hogy olcsóbb, mint a természetes, ha még pluszban fel is kell dolgozni?!
+Úgy, hogy az árakat nagyban az állami támogatások mennyisége szabja.
+És tippeljünk, mik kapják a nagy pénzeket?
+Főleg a kukorica és a búza, amikből többségében szirup, keményítő és liszt készül.
+
+Régen drága volt a cukor, ezért csak a gazdagok "engedhették meg maguknak", hogy kövérek legyenek.
+Ma olcsó, viszont szinte mindenhol ott is van (és a cukormentes dolgok sokkal drágábbak), ezért már majd hogy nem csak a gazdagok engedhetik meg maguknak, hogy **ne** legyenek kövérek.
+
+<br>
 
 - ez a klasszikus genetika vs. környezeti tényezők vita
 - csak az elmúlt pár évtizedben terjedt el ennyire látványosan az elhízás
@@ -364,13 +373,19 @@ A tartalom a következőképp alakul:
     - most akkor mi van?!
 - valószínűleg (kisebb spoiler): genetikailag kapjuk az alap inzulinérzékenységünket, de ennek a látványos hatásait a modern étrend hozza ki
 
-
 - már akár az újszülöttekben is kimutatható az egyre gyakoribb elhízás
     - de hát ők ugye nem tudnak túl sokat enni, vagy kevesebbet mozogni
     - meglepetés: továbbra is az inzulin
     - ha az anya vérében sok van (amin ugye osztoznak a babával), akkor a babának is sok lesz
-    - ettől ő is rezisztanciát növeszt magának, és már kicsiként is kapja a plusz kilókat
+    - ettől ő is rezisztenciát növeszt magának, és már kicsiként is kapja a plusz kilókat
 - itt is rengeteg utalás, hogy az "együnk kevesebbet, mozogjunk többet" nem működik
+
+
+Társadalmi vonatkozások tekintetében tehát összefoglalva:
+
+- Alaposan válogassuk meg, kinek a tanácsára hallgatunk (és nézzük meg, vajon mi lehet a hátsó szándéka);
+- Merjünk többet költeni a minőségibb, "igazibb" kajákra (ami idővel talán az árukat is leviszi majd); és
+- Gondoljunk a következő nemzedékre is (mert a saját elhízásunkat ők is továbbviszik majd).
 
 <br>
 
@@ -456,7 +471,7 @@ A tartalom a következőképp alakul:
 ## Mikor együnk?
 
 - "There is nothing new, except what has been forgotten." // Marie Antoinette
-- a fogyás egy kétrészes művelet: a helyes kaják + az inzulin rezisztancia megtörése
+- a fogyás egy kétrészes művelet: a helyes kaják + az inzulin rezisztencia megtörése
     - ha már rezisztens állapotban vagyunk, akkor ugye koplaltan is magasabb lesz az inzulin szintünk
     - ezért nem lesz meg annyira lényegesen a hullámzás
 - ha ezt meg akarjuk törni, akkor mesterségesen "hullámoztatni" kell szándékosan alacsony inzulin szintű időszakokkal
