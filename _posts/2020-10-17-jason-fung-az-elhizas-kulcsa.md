@@ -16,14 +16,14 @@ Ezt a szerepet tölti be [Jason Fung -- Az elhízás kulcsa](https://www.goodrea
 A jó vesedoktorunk ugyanis munkája során a tünetek kezelése helyett a 2-es típusú cukorbetegség gyökerét igyekszik megfogni -- és *véletlenül* pont ez a módszer kell az elhízás ellen is.
 
 Az táplálkozási "tudomány" jelenlegi állása egy nagy katyvasz.
-Ez jó neked! Nem az pont **nem** jó neked!
+*Ez* jó neked! Nem az pont **nem** jó neked!
 Egyél több ilyet! Ne, nehogy olyat egyél, csak ilyet!
 Attól vagy kövér! Nem, ettől vagy kövér! ...
 Az fel sem merül, hogy több oka is lehet, és mind más-más súllyal járul hozzá.
 Az meg aztán pláne nem, hogy valamit nem veszünk figyelembe!
 
 A túlsúly kezelésével kapcsolatban egyelőre kb. annyit tudunk mondogatni, hogy "Egyél kevesebbet, mozogj többet!".
-A tudományos igényességű kutatások mind inkább arra mennek, hogy az ebből fakadó tüneteket hogy lehet kezelni.
+A tudományos igényességű kutatások mind inkább arra mennek, hogy az ebből fakadó tüneteket hogyan lehet kezelni.
 A kiváltó ok mintha senkit nem érdekelne.
 A másik gond, hogy az elhízás általában hosszú távon alakul ki.
 Pár hetes/hónapos, de akár még az 1-2 éves tanulmányok sem elég jók ilyen szempontból -- pedig a legtöbb sajnos ilyen.
@@ -34,8 +34,8 @@ A tartalom a következőképp alakul:
 1. [Hogyan gondolkozunk **most** az elhízásról?](#1)
 2. [Hogyan **kellene** gondolkoznunk róla?](#2)
 
-3. [Milyen étrendhez vezet a tévedésünk?](#3)
-4. [Mik a tévedésünk társadalmi következményei?](#4)
+3. [Hogy kapcsolódik mindez az étrendünkhöz?](#3)
+4. [Mik az elhízás társadalmi következményei?](#4)
 
 5. [Ezek fényében akkor **mit** is kellene enni?](#5)
 6. [És főleg, **mikor** kellene enni?](#6)
@@ -78,7 +78,7 @@ Mármint lehet, hogy tényleg a kalóriák a *közvetlen* okok, de nem feltétle
 
 Egy jó példa erre: miért zuhan le egy repülő?
 Közvetlenül azért, mert nem volt elég felhajtóerő a szárnyai alatt, hogy megküzdjön a gravitációval.
-De a okozati lánc legelején valószínűleg emberi mulasztás, mechanikai meghibásodás, vagy rossz időjárás szerepel.
+De az okozati lánc legelején valószínűleg emberi mulasztás, mechanikai meghibásodás, vagy rossz időjárás szerepel.
 A megoldás ilyenkor tehát nem az, hogy a közvetlen okkal szórakozzunk -- és tegyünk rá mondjuk nagyobb szárnyakat vagy erősebb motorokat.
 Nem, a megoldás a kiváltó ok orvoslása jobb pilóta képzéssel, körültekintőbb karbantartással, és óvatosabb időjárási toleranciákkal.
 Szóval az elhízásnál sem a kalória-centrikus közvetlen ok a fontos, hanem a kiváltó (amire mindjárt rá is térünk).
@@ -93,11 +93,11 @@ Nyilván nem, mert a test a bevitt értékekhez igazítja az égetést is.
 Túl akar élni, ezért alkalmazkodik.
 
 2. Az anyagcserénk alapszintje (**B**asal **M**etabolic **R**ate, BMR) stabil.
-Ööö, nem; nagyban függ a napi közbeni mozgástól, az edzéstől, az edzés utáni megnövekedett oxigén fogyasztástól, a kaják thermogenikus hatásától, és az evett mennyiségtől.
+Ööö, nem; nagyban függ a nap közbeni mozgástól, az edzéstől, az edzés utáni megnövekedett oxigén fogyasztástól, a kaják thermogenikus hatásától, és az evett mennyiségtől.
 
 3. A bejövő kalóriák fölött teljesen tudatos a kontrollunk.
-Ööö, nem; legalábbis is biztos nem teljesen.
-A hormonjaink nagyon is kontrollálják, hogy mikor hogy állunk a kajákhoz (éhség, telítettség).
+Ööö, nem; legalábbis biztos nem teljesen.
+A hormonjaink nagyon is kontrollálják, hogy mikor hogyan állunk a kajákhoz (éhség, telítettség).
 Súlyvesztésnél gyorsan aktiválódik az éhség-hormon, és csökken a telítettség-hormon szintje.
 Vagyis az elhízás nem csak akaraterő kérdése, hanem részben egy hormonális "betegség".
 
@@ -115,13 +115,13 @@ Ezek fényében már jöhet a megszokott menetrend:
 - Erre a testünk megfelelően csökkenti az égetett kalóriákat -- sőt, talán még lejjebb is megy egy kicsit, csak hogy biztos legyen;
 - Így már a csökkentett étrend is egy pici (de idővel összeadódó) zsír növekedéshez vezethet;
 - Ha pedig valaha is visszaállunk a korábbi kalória mennyiségünkre, a BMR-ünk még nagyon sokáig nem fogja ezt követni;
-- Ezért pedig minden leadott kilót visszaszedünk, és még valószínűleg többet is.
+- Ezért minden leadott kilót visszaszedünk, és még valószínűleg többet is.
 
 Kezeket fel, aki megjárta már ezt a yo-yo ciklust!
 Jó móka volt?
 Szerintem sem.
 
-Joggal mondhatnánk, hogy eddig az edzés sehol fel sem merült, de ez nem annyira drasztikus mulasztás.
+Joggal mondhatnánk, hogy eddig az edzés fel sem merült, de ez nem annyira drasztikus mulasztás.
 Hiszen a folyamatosan terjedő edzés-mánia ellenére az elhízás mégis csak egyre nő.
 A napi égetésünk nagyja eleve nem az edzéshez kapcsolható, hanem testünk működésének fenntartásához.
 
@@ -161,7 +161,7 @@ Természetes módon kompenzálni fogunk -- vagy többet eszünk, vagy az edzése
 ## <a name="2"></a>A hormonális modell
 
 Szándékos túlevési kísérleteknél kijön, hogy nagyon nem mindegy a makrótápanyagok aránya.
-Egy esetben az alacsony szénhidrát, de magas zsír és fehérje tartalmú étrendnél alig ment fel valami az alanynak, míg a fordítottjánál már 3 hét alatt úszógumit növesztett.
+Egy esetben az alacsony szénhidrát, de magasabb zsír és fehérje tartalmú étrendnél alig ment fel valami az alanynak, míg a fordítottjánál már 3 hét alatt úszógumit növesztett.
 Emellett eleve nem könnyű túletetni az embereket, mert a BMR-jük alkalmazkodik, és a testük megpróbálja leégetni a felesleget.
 A kísérletek után rendszerint visszatérnek a megszokott súlyukhoz -- ugyanúgy, ahogy a megvonás után is visszahízzuk a leadott kilókat.
 
@@ -231,7 +231,7 @@ Viszont az akár hangos, de **konstans** háttérzajt ki tudjuk zárni, és alsz
 Hasonlóan: alacsony inzulin szintek mellett a kis emelkedés is hirtelen reakciót vált majd ki.
 Viszont a tartósan magas szintek mellett egyre nagyobb tüskék kellenek majd a riadóhoz.
     
-Tehát a kérdés nem csak az, hogy [**mit** együnk](#5), hanem hogy [**mikor** együk](#6).
+Tehát a kérdés nem csak az, hogy [**mit** együnk](#5), hanem az is, hogy [**mikor** együk](#6).
 
 <br>
 
@@ -276,12 +276,12 @@ Ez pedig egyértelműen mutatja, hogy legtöbbször a finomítás miatt szívód
 Szóval nem is az a kérdés, hogy akkor a szénhidrátok most rosszak-e, vagy a rost jó-e.
 A kérdés az egyensúlyuk, ami a feldolgozás során felborul.
 
-Ha magas glikémiás indexű szénhidrát mellé magas a rostfogyasztás is, akkor kb. védve leszünk.
+Ha magas glikémiás indexű szénhidrát mellé magas a rostfogyasztás is, akkor bizonyos értelemben védve leszünk.
 Vagy ha mindkettő alacsony, akkor szintén.
 A baj akkor van, ha sok a szénhidrát és kevés mellé a rost...
 Kb. mintha sok lenne a méreg, és kevés mellé az ellenanyag.
 
-Megoldásnak szedhetünk plusz rostot az ételeink mellé, vagy (nem is tudom), ehetünk mondjuk olyan dolgokat, amiből eleve nem lett kifinomítva.
+Megoldásnak szedhetünk plusz rostot az ételeink mellé, vagy (nem is tudom), ehetünk mondjuk olyan dolgokat, amiből eleve nem lett kifinomítva a rost.
 Sőt, extra védekezés gyanánt az ecet is előkerül, ami rost-szerűen lassítja a felszívódást -- és ezzel nyilván csökkenti az inzulin-tüskéket.
 
 Na jó -- hallom a felháborodást a hátsó sorokból -- de akkor ha "teljes" meg természetes kajákat kell enni, akkor honnan lesz meg az édességem?
@@ -314,9 +314,9 @@ A **zsírokról** pedig csak annyit, hogy a nem kell tőlük rettegni!
 A tévedés ott történt, hogy a transz-zsírokkal (margarin) egy kalap alá vették a telített zsírokat is, és az akkori szívbetegség járvány miatt együtt rossznak bélyegezték őket.
 Aztán ahogy kibukott a jelentős különbség, elkezdték meglátni, hogy igazából semmi baj nincs a telített zsírokkal sem.
 És eleve mindig is a szív volt a fő hajtóerő a zsír eldémonizálásában, az elhízást csak úgy hozzácsaptuk (gondolom főleg a kalóriatartalma miatt).
-De nincs semmi ilyen kapcsolat -- az természetes kajákból normális adagokat fogyasztva sem a szívroham, sem az elhízás nem fenyeget jobban.
+De nincs semmi ilyen kapcsolat -- a természetes kajákból, természetes arányokban, normális adagokat fogyasztva sem a szívroham, sem az elhízás nem fenyeget jobban.
 
-Egy mondatban tehát: a fő gond a kaják feldolgozásával van; együnk *igazi* kajákat!
+Egy mondatban tehát: a fő gond az élelmiszerek *feldolgozásával* van; együnk "igazi" kajákat!
 
 <br>
 
@@ -372,7 +372,7 @@ Ma olcsó, viszont szinte mindenhol ott is van (és a cukormentes dolgok sokkal 
 Plusz egy megfigyelés, hogy egy ideje már akár az újszülöttekben is kimutatható az egyre gyakoribb elhízás.
 De hát ők ugye még nem arról híresek, hogy túl sokat ennének, vagy túl keveset mozognának.
 Meglepetés: továbbra is az inzulin a hunyó.
-Ha az anya vérében sok van (amin ugye osztoznak a babával), akkor a babának is sok lesz.
+Ha az anya vérében sok van (amin osztoznak a babával), akkor a babának is sok lesz.
 Ettől pedig ő is rezisztenciát növeszt magának, és már kicsiként is kapja a plusz kilókat.
 
 Társadalmi vonatkozások tekintetében tehát összefoglalva:
@@ -406,7 +406,7 @@ Társadalmi vonatkozások tekintetében tehát összefoglalva:
 
 ## <a name="5"></a>Mit együnk?
 
-Elég az alapozásból, lépjünk végre a praktikum mezejére:
+Elég az alapozásból, lépjünk végre a tettek mezejére:
 
 1. **Csökkentsük a hozzáadott cukrokat!**
 Ez a glükózból fakadó "hirtelen sok inzulint", és a fruktózból fakadó "idővel sok inzulint" is csökkenti.
@@ -416,12 +416,12 @@ Nagyon sok mindenben alapból benne van, ezekre pedig figyelni kell -- vagyis te
     Nyilván az ételek mellett az italokat sem cukrozzuk!
     A kávé/tea magában teljesen jók, sőt, kimondottan pozitív hatásokkal rendelkeznek, de **nem** cukrozzuk meg!
     A desszerteket gyümölcsökkel, magvakkal, esetleg némi magas kakaó tartalmú (fél)keserű csokoládéval lehet kiváltani.
-    A cukornak persze továbbra is lehet szerepe az ünneplésekkel összenőtt kajálásokban -- de itt az **alkalmanként** a kulcsszó!
+    A cukornak persze továbbra is lehet szerepe az ünneplésekkel összenőtt lakomázásokban -- de itt az **alkalmanként** a kulcsszó!
     Desszert nem jár minden nap.
 
     A folyton evős legelészést pedig hagyjuk meg a teheneknek.
     Még a reggeli is lehet opcionális!
-    Vagyis nem muszáj egyáltalán... de ha eszünk, akkor is normális kajákból álljon, ne agyon cukrozott gabonapelyhekből!
+    Vagyis nem muszáj egyáltalán... de ha eszünk, akkor normális kajákból álljon, ne agyon cukrozott gabonapelyhekből!
 
     > Egyszerű a válasz arra, hogy mit rágcsáljuk a főétkezések között: Semmit.
     > > There's a simple answer to the question of what to eat at snack time. Nothing.
@@ -436,10 +436,10 @@ Persze ne tüntessük el, de nem kell "gyúrósan" zabálni a csirkemellet.
 A könyv kb. a bevitt kalóriák 20-30%-át ajánlja ebből a forrásból.
 
 4. **Nyugodtan növeljük a természetes zsírokat!**
-Gondoljunk az olíva olajra, halolajra, magvakra, tejtermékek, avokádóra, stb.
+Gondoljunk az olíva olajra, halolajra, magvakra, tejtermékekre, avokádóra, stb.
 
 5. **Fogyasszunk több rostot!**
-Láttuk a védő hatásaikat a méreg/ellenanyag hasonlaton keresztül... azért.
+Csökkentik és lassítják a szénhidrát felszívódást, kisimítják az inzulin tüskéket, segítik az emésztést, stb.
 
 Ezek a tanácsok első blikkre gondolom inkább ismerősek, mint újdonságok.
 És persze, sok diéta van, ami ilyesmi elvek mentén ajánl kajaválasztást.
@@ -474,12 +474,12 @@ Csak az nagyon nem mindegy még, hogy **mikor** esszük őket!
 A fogyás egy kétfázisú művelet.
 Mert addig oké, hogy a helyes kajákkal leállítjuk a jelenlegi inzulin többletet, de az eddig összeszedett inzulin rezisztenciát is meg kellene törni valahogy.
 Ha már rezisztens állapotban vagyunk, akkor ugye koplaltan is magasabb lesz az inzulin szintünk.
-Ezért nem lesz meg annyira hangsúlyos a hullámzás, ami további hozzászokáshoz vezet.
+Ezért nem lesz annyira hangsúlyos a hullámzás, ami további hozzászokáshoz vezet.
 
 Ha ezt meg akarjuk törni, akkor mesterségesen "hullámoztatni" kell az inzulin szintünket szándékosan alacsony időszakokkal.
 Vagyis, magyarán mondva, időnként **koplaljunk** egy kicsit!
 
-Ez persze nem ugyanaz, mint az éhezés, mert ez itt kontrolláltan, megszabott ideig és módon tesszük mindezt (valahol pár óra és pár hónap között).
+Ez persze nem ugyanaz, mint az éhezés, mert itt kontrolláltan, megszabott ideig és módon tesszük mindezt (valahol pár óra és pár hónap között).
 Az ókortól kezdve nagyon sokan ajánlják (és kulturálisan, vagy akár vallásilag gyakorolják) ezt a szokást, úgyhogy érdemes legalább megfontolni, hogy vajon miért...
 
 > Nincs semmi új, csak ami feledésbe merült.
@@ -497,7 +497,7 @@ Az időszakos böjt fázisai:
 
 A lényeges különbség a csökkentett kalóriamennyiséggel szemben, hogy itt *nem* lassul be az anyagcsere!
 Ha keveset eszünk minden nap, akkor a testünk azt fogja hinni, hogy ennyi a rendszeres napi adag, és ahhoz állítja az égetést is.
-Ha viszont **semennyit** nem eszünk, akkor a testünk azt fogja hinni, hogy vadászni kell, mert valahonnan kaját kell szerezni.
+Ha viszont **semennyit** nem eszünk, akkor a testünk azt fogja hinni, hogy vadászni kell, mert valahonnan táplálékot kell szerezni.
 Ilyenkor esze ágában sem lesz hátráltatni minket a kajaszerzésben, és a zsírból fogja égetni a tartalékokat amíg csak tudja.
 Méghozzá olyan ütemben, ahogy a kajás időszakban megszokta (sőt, esetenként akár még jobban).
 
