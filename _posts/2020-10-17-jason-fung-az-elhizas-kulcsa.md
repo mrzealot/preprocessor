@@ -4,13 +4,16 @@ title: Jason Fung - Az elhízás kulcsa
 pages: 328
 date: 2020-10-17 00:01
 excerpt: >
-    TODO
+    Chris Aceto elvileg minden lényegeset összefoglalt a táplálkozási alapelvekkel kapcsolatban.
+    Viszont mivel az a blokk egy hangyányit tömörre sikeredett, és nem titkoltan "gyúrós" szemszögből íródott, ezért úgy gondoltam jót tenne mellé egy eleve közérthetőbbnek szánt okfejtés.
+    Ezt a szerepet tölti be Jason Fung -- Az elhízás kulcsa (eredetileg "The Obesity Code") című könyve.
+    A jó vesedoktorunk ugyanis munkája során a tünetek kezelése helyett a 2-es típusú cukorbetegség gyökerét igyekszik megfogni -- és *véletlenül* pont ez a módszer kell az elhízás ellen is.
 ---
 
 [Chris Aceto]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}) *elvileg* minden lényegeset összefoglalt a táplálkozási alapelvekkel kapcsolatban.
-Viszont mivel az a blokk egy hangyányit tömörre sikeredett, és nem titkoltan "gyúrós" szemszögből íródott, ezért úgy gondolom jót tenne mellé egy eleve közérthetőbbnek szánt okfejtés.
-Ezt a szerepet tölti be [Jason Fung - Az elhízás kulcsa](https://www.goodreads.com/book/show/24945404-the-obesity-code){:target="_blank"} (eredetileg "The Obesity Code") című könyve.
-A jó vesedoktorunk ugyanis munkája során a tünetek kezelése helyett a 2-es típusú cukorbetegség gyökerét igyekszik megfogni -- és "véletlenül" pont ez a módszer kell az elhízás ellen is.
+Viszont mivel az a blokk egy hangyányit tömörre sikeredett, és nem titkoltan "gyúrós" szemszögből íródott, ezért úgy gondoltam jót tenne mellé egy eleve közérthetőbbnek szánt okfejtés.
+Ezt a szerepet tölti be [Jason Fung -- Az elhízás kulcsa](https://www.goodreads.com/book/show/24945404-the-obesity-code){:target="_blank"} (eredetileg "The Obesity Code") című könyve.
+A jó vesedoktorunk ugyanis munkája során a tünetek kezelése helyett a 2-es típusú cukorbetegség gyökerét igyekszik megfogni -- és *véletlenül* pont ez a módszer kell az elhízás ellen is.
 
 Az táplálkozási "tudomány" jelenlegi állása egy nagy katyvasz.
 Ez jó neked! Nem az pont **nem** jó neked!
@@ -59,7 +62,7 @@ A tartalom a következőképp alakul:
 
 
 
-## A kalória modell
+## <a name="1"></a>A kalória modell
 
 Vajon miért vannak kövér orvosok?
 Vagy még a saját tanácsukat sem tudják követni, vagy valamit nagyon félrehiszünk az elhízással kapcsolatban.
@@ -155,8 +158,7 @@ Természetes módon kompenzálni fogunk -- vagy többet eszünk, vagy az edzése
 
 
 
-<!-- ### A túlevési paradoxon -->
-## A hormonális modell
+## <a name="2"></a>A hormonális modell
 
 Szándékos túlevési kísérleteknél kijön, hogy nagyon nem mindegy a makrótápanyagok aránya.
 Egy esetben az alacsony szénhidrát, de magas zsír és fehérje tartalmú étrendnél alig ment fel valami az alanynak, míg a fordítottjánál már 3 hét alatt úszógumit növesztett.
@@ -264,56 +266,57 @@ Szóval ha fogyni akarunk, akkor a meditáció és az alvás is gyakran ugyanoly
 
 
 
-## Felborult egyensúly
+## <a name="3"></a>Felborult egyensúly
 
-<!-- ### A fruktóz halálos hatása -->
+A makrótápanyagok tekintetében mindenki hajlamos olyan szemszögből nézni, hogy "Mi a jó?", vagy hogy "Mi a rossz?" -- teljesen figyelmen kívül hagyva, hogy szinte **minden** lehet jó, ha a megfelelő egyensúlyban kapjuk.
+Vagyis nem a bizonyos makrókkal van a baj, hanem a modern feldolgozás miatti egyensúly borulással.
 
-- a cukorbetegség (és az elhízás is) a cukorral korrelál, nem a bevitt kalóriákkal
-- de ami talán meglepőbb, hogy a fruktóz is igen nagy baj
-    - a gyümölcscukor név miatt természetesnek hangzik, és a vércukrot sem növeli, vagyis direktben az inzulinra sem hat... de hát akkor miért?
-- mert csak a máj dolgozhatja fel, amit így sokkal könnyebb túlterhelni
-    - a feleslegből zsír lesz, ami elzsírosítja a májat, és ez nagyban hozzájárul az inzulin-rezisztencia kialakulásához
-    - vagyis nem közvetlenül lesz több az inzulin, de a rezisztencia miatt a testünk magától is többet gyárt majd
+**Szénhidrátoknál** a glikémiás index jellemzi például, hogy milyen nagy inzulin tüskét okoz egységnyi bevitel mellett.
+Ez pedig egyértelműen mutatja, hogy legtöbbször a finomítás miatt szívódnak gyorsabban -- ahol ugye még rost sincs melléjük, ami lassítaná a folyamatot.
+Szóval nem is az a kérdés, hogy akkor a szénhidrátok most rosszak-e, vagy a rost jó-e.
+A kérdés az egyensúlyuk, ami a feldolgozás során felborul.
 
-<!-- ### A diétás üdítő tévedés -->
+Ha magas glikémiás indexű szénhidrát mellé magas a rostfogyasztás is, akkor kb. védve leszünk.
+Vagy ha mindkettő alacsony, akkor szintén.
+A baj akkor van, ha sok a szénhidrát és kevés mellé a rost...
+Kb. mintha sok lenne a méreg, és kevés mellé az ellenanyag.
 
-- a mesterséges édesítőszerek (ha egyéb vegyi mellékhatással esetleg nem is járnak), a tanulmányok szerint inkább növelik az elhízás esélyét, mint sem csökkentenék
-- egyrészt hiába nincs cukor (és nincs kalória), mert a hatásukra inzulin viszont keletkezik, és nem is kevés
-- másrészt, mivel a testünk inzulinos édességet érez, de kalóriát nem kap mellé, ezért "befejezetlen" marad a jutalom, és további sóvárgással összességében több evésre késztethet
+Megoldásnak szedhetünk plusz rostot az ételeink mellé, vagy (nem is tudom), ehetünk mondjuk olyan dolgokat, amiből eleve nem lett kifinomítva.
+Sőt, extra védekezés gyanánt az ecet is előkerül, ami rost-szerűen lassítja a felszívódást -- és ezzel nyilván csökkenti az inzulin-tüskéket.
 
-<!-- ### Szénhidrátok és rostok -->
+Na jó -- hallom a felháborodást a hátsó sorokból -- de akkor ha "teljes" meg természetes kajákat kell enni, akkor honnan lesz meg az édességem?
+Hát, jó esetben leginkább sehonnan.
+Hiszen akárhogy is próbáljuk kiváltani a sima cukrot, mindig valami egyéb akadályba fogunk ütközni.
+A fruktóz például hiába nem növeli a vércukrot (és ezzel közvetlenül az inzulint sem), de hosszú távon mégis nagyban hozzájárul az inzulin-rezisztencia kialakulásához.
+A mesterséges édesítőszerek pedig (ha egyéb vegyi mellékhatással esetleg nem is járnak), a tanulmányok szerint inkább növelik az elhízás esélyét, mint sem csökkentenék.
+Egyrészt hiába nincs cukor (és nincs kalória), mert a hatásukra inzulin viszont keletkezik, és nem is kevés.
+Másrészt, mivel a testünk inzulinos édességet érez, de kalóriát nem kap mellé, ezért "befejezetlen" marad a jutalom, és további sóvárgással összességében több evésre késztethet.
+A tanulság elég egyértelmű: a tömör édes íz nem igazán a barátunk, akárhonnan jöjjön is.
 
-- most akkor a carb jó vagy nem jó?
-- glikémiás index: milyen nagy inzulin tüskét okoz egységnyi carb bevitel mellett
-- glikémiás terhelés: milyen nagy inzulin tüskét okoz egységnyi **kaja** bevitel mellett (mert könnyen lehet, hogy a kaja nagyja víz vagy más tápanyag, nem is carb!)
-- a finomítás miatt szívódnak gyorsabban, és még rost sincs mellé, hogy lassítsa
-    - rost: lassítja a felszívódást, teltségérzetet okoz, nem is bírunk belőle annyit fogyasztani, stb.
-    - de nem is az a lényeg, hogy akkor most a carb rossz-e, vagy a rost jó-e
-        - a kérdés az egyensúlyuk, ami a feldolgozás során felborul
-        - ha magas glikémiás index mellé magas a rost, akkor kb. bevéd... vagy ha mindkettő alacsony, akkor is védve vagyunk
-        - a baj akkor van, ha sok a carb és kevés mellé a rost... kb. mintha sok lenne a méreg, és kevés mellé az ellenanyag
+<br>
 
-<!-- ### Az ecet csodái -->
+Nem csak a szénhidrátok növelhetik ám az inzulin szintet.
+Ezért nem ad "teljes" képet a glikémiás index.
+Az kizárólag a szénhidrátokat nézi, mert azt gondolta, hogy csak a vércukron keresztül lehet inzulinhoz jutni.
+De az egy fokkal modernebb *inzulin index* már konkrétan az inzulint méri, és lássunk csodát, a **fehérjék** is igencsak emelik!
+Sőt, igazából minden kaja.
 
-- kb. mint a rost: segít csökkenteni a glikémiás indexet
-    - kaja előtt 1-2 teáskanál, lefekvés előtt... vannak ilyen "népi" módszerek, amiknek ezek szerint (újra) van alapja
+Az új(abb) felfedezés, hogy a gyomron keresztül is megindulhat az inzulin stimuláció, nem csak a vércukorral (inkretin-effektus).
+Illetve már a szájban is jelentkezhetnek bizonyos emésztés-előkészítő reakciók (cephalicus fázis).
+A zsírnál ezek még nem is annyira jelentősek, de a fehérje esetében az inzulin reakció meglepően magas százalékáért felelősek.
+Ez normál esetben nem probléma, mert az inkretinek "kompenzálásként" lassabb emésztést és nagyobb telítettség érzetet okoznak.
+Vagyis hiába hatnak erősen az inzulinra, az állati fehérjék nem rosszak a fogyáshoz.
+Ha viszont keresztbe teszünk az inkretinek okozta lassításnak/telítettségnek, és akkor is leerőltetjük a következő kaját, ha épp nem vagyunk éhesek, akkor kb. ugyanolyan a hatás, mintha cukroznánk!
 
-<!-- ### Fehérje -->
+<br>
 
-- nem csak a carbok növelhetik ám az inzulin szintet
-    - ezért nem ad "teljes" képet a glikémiás index -- az csak a carbokat nézi, mert azt gondolta, hogy csak a vércukron keresztül lehet inzulinhoz jutni
-    - de az inzulin index már konkrétan az inzulint méri, és lássunk csodát, a fehérjék is igencsak emelik! sőt, igazából minden kaja
-- a gyomron keresztül is megindulhat az inzulin stimuláció, nem csak a vércukorral (inkretin-effektus), illetve már a szájban is jelentkezhetnek bizonyos emésztés-előkészítő reakciók (cephalicus fázis)
-- a zsír még nem is annyira jelentős, de a fehérje esetekben meglepően magas százalékáért felelős az inzulin reakciónak
-    - az inkretin okozta lassabb emésztés, és nagyobb telítettség miatt hiába hatnak erősen az inzulinra, az állati fehérjék nem rosszak a fogyáshoz
-    - ha viszont keresztbe teszünk az inkretineknek, és akkor is leerőltetjük a kaját, ha épp nem vagyunk éhesek, akkor kb. ugyanolyan a hatás, mintha cukroznánk
+A **zsírokról** pedig csak annyit, hogy a nem kell tőlük rettegni!
+A tévedés ott történt, hogy a transz-zsírokkal (margarin) egy kalap alá vették a telített zsírokat is, és az akkori szívbetegség járvány miatt együtt rossznak bélyegezték őket.
+Aztán ahogy kibukott a jelentős különbség, elkezdték meglátni, hogy igazából semmi baj nincs a telített zsírokkal sem.
+És eleve mindig is a szív volt a fő hajtóerő a zsír eldémonizálásában, az elhízást csak úgy hozzácsaptuk (gondolom főleg a kalóriatartalma miatt).
+De nincs semmi ilyen kapcsolat -- az természetes kajákból normális adagokat fogyasztva sem a szívroham, sem az elhízás nem fenyeget jobban.
 
-<!-- ### Zsír fóbia -->
-
-- a transz-zsírokkal egy kalap alá vették a telített zsírokat is, és a szívbetegség járvány miatt rossznak bélyegezték őket
-    - aztán ahogy kibukott a jelentős különbség, elkezdték meglátni, hogy igazából semmi baj nincs a telített zsírokkal sem
-- és eleve mindig is a szív volt a fő hajtóerő a zsír eldémonizálásában, az elhízást csak úgy hozzácsaptuk (gondolom főleg a kalóriatartalma miatt)
-    - de nincs semmi ilyen kapcsolat
+Egy mondatban tehát: a fő gond a kaják feldolgozásával van; együnk *igazi* kajákat!
 
 <br>
 
@@ -337,7 +340,7 @@ Szóval ha fogyni akarunk, akkor a meditáció és az alvás is gyakran ugyanoly
 
 
 
-## Társadalmi vonatkozások
+## <a name="4"></a>Társadalmi vonatkozások
 
 Itt a könyv átmegy [Christie Aschwanden]({% post_url 2020-04-17-christie-aschwanden-good-to-go %})-be, és erősen... khmm... mondjuk úgy, megkérdőjelezi egy csomó szervezet, termék, és publikáció hitelességét.
 Ha nem eszünk, akkor senki nem keres pénzt.
@@ -346,7 +349,7 @@ Senki nem fogja azt javasolni, hogy **ne** együnk, mert az nem üzlet.
 
 Szóval érdemes a gyakran hangoztatott jótanácsok mögé nézni.
 
-- A "sznekkelés" nem javasolt -- főleg mert legtöbbször több összfogyasztáshoz vezet.
+- A "sznekkelés" nem javasolt -- főleg mert legtöbbször magasabb összfogyasztáshoz vezet.
 - A reggeli egyáltalán nem annyira fontos, mint gondoljuk -- a testünk már eleve előkészül a napra, nem muszáj tankolni.
 - A zöldségre/gyümölcsre is csak annyit mondanak, hogy azt **is** együnk -- pedig nyilván akkor lenne értelme, ha a cukros szarok **helyett** ennénk.
 
@@ -366,20 +369,11 @@ Ma olcsó, viszont szinte mindenhol ott is van (és a cukormentes dolgok sokkal 
 
 <br>
 
-- ez a klasszikus genetika vs. környezeti tényezők vita
-- csak az elmúlt pár évtizedben terjedt el ennyire látványosan az elhízás
-    - ez idő alatt a génjeink nyilván nem változhattak --> tehát környezeti
-- viszont örökbefogadásos vizsgálatok kimutatták, hogy az elhízásra való hajlam **sokkal** inkább a biológiai szülőkön múlik, mint az örökbefogadókon --> tehát genetikus
-    - most akkor mi van?!
-- valószínűleg (kisebb spoiler): genetikailag kapjuk az alap inzulinérzékenységünket, de ennek a látványos hatásait a modern étrend hozza ki
-
-- már akár az újszülöttekben is kimutatható az egyre gyakoribb elhízás
-    - de hát ők ugye nem tudnak túl sokat enni, vagy kevesebbet mozogni
-    - meglepetés: továbbra is az inzulin
-    - ha az anya vérében sok van (amin ugye osztoznak a babával), akkor a babának is sok lesz
-    - ettől ő is rezisztenciát növeszt magának, és már kicsiként is kapja a plusz kilókat
-- itt is rengeteg utalás, hogy az "együnk kevesebbet, mozogjunk többet" nem működik
-
+Plusz egy megfigyelés, hogy egy ideje már akár az újszülöttekben is kimutatható az egyre gyakoribb elhízás.
+De hát ők ugye még nem arról híresek, hogy túl sokat ennének, vagy túl keveset mozognának.
+Meglepetés: továbbra is az inzulin a hunyó.
+Ha az anya vérében sok van (amin ugye osztoznak a babával), akkor a babának is sok lesz.
+Ettől pedig ő is rezisztenciát növeszt magának, és már kicsiként is kapja a plusz kilókat.
 
 Társadalmi vonatkozások tekintetében tehát összefoglalva:
 
@@ -410,42 +404,49 @@ Társadalmi vonatkozások tekintetében tehát összefoglalva:
 
 
 
-## Mit együnk?
+## <a name="5"></a>Mit együnk?
 
-- az első, amit el kell fogadnunk, hogy több dolog is számít
-    - persze, az inzulin van a háttérben, de több út is vezet oda
-    - kalóriák, makrók, feldolgozottság, krónikus kialvatlanság, stressz...
-    - ezekre pedig jó lenne együtt hatni, és nem azon vitatkozni, hogy melyik a legjobb
+Elég az alapozásból, lépjünk végre a praktikum mezejére:
 
-1. csökkentsük a hozzáadott cukrokat
-    - ez a glükózos hirtelen sok inzulint és a fruktózos idővel sok inzulint is csökkenti
-    - és ez nyilván nem csak annyit jelent, hogy mi magunk manuálisan ne tegyünk cukrot a kajáinkba
-        - nagyon sok mindenben alapból benne van, ezekre pedig figyelni kell -- vagyis tessék elolvasni a címkét!
-    - desszerteket gyümölcsökkel, magvakkal, esetleg némi magas kakaó tartalmú (fél)keserű csokoládéval kiváltani
-        - a cukornak persze továbbra is lehet szerepe az ünneplésekkel összenőtt kajálásokban -- de itt az **alkalmanként** a kulcsszó!
-    - a folyton evős legelészést pedig hagyjuk a teheneknek
-        - "There’s a simple answer to the question of what to eat at snack time. Nothing."
-    - a reggeli lehet opcionális
-        - vagyis nem muszáj egyáltalán... de ha eszünk, akkor is normális kajákból álljon, de agyon cukrozott gabonapelyhekből!
-    - nyilván a kaják mellett az italokat sem cukrozzuk
-        - a kávé/tea magában teljesen jó, sőt, kimondottan pozitív hatásokkal rendelkezik
-        - de **nem** cukrozzuk meg!
-2. csökkentsük a finomított/feldolgozott gabonafélék fogyasztását
-    - olyan szénhidrátot együnk, ami a természetben is előfordul
-    - vagy ha feldolgozott, akkor is minél kevésbé (teljes kiőrlés), de ebből korlátozottan
-3. moderáljuk a fehérje fogyasztást
-    - **ne** eltüntessük, de nem kell "gyúrósan" zabálni a csirkemellet
-    - a könyv kb. a bevitt kalóriák 20-30%-át ajánlja innen
-4. nyugodtan növeljük a természetes zsírokat
-    - nyilván az olíva olaj, de magvak, tejtermékek, avokádó is
-5. fogyasszunk több rostot (+ ecetet?)
-    - láttuk a védő hatásaikat a méreg/ellenanyag hasonlaton keresztül... azért.
+1. **Csökkentsük a hozzáadott cukrokat!**
+Ez a glükózból fakadó "hirtelen sok inzulint", és a fruktózból fakadó "idővel sok inzulint" is csökkenti.
+Viszont ez nyilván nem csak annyit jelent, hogy mi magunk manuálisan ne tegyünk cukrot a kajáinkba.
+Nagyon sok mindenben alapból benne van, ezekre pedig figyelni kell -- vagyis tessék elolvasni a címkét!
 
-- ez első blikkre inkább ismerős, mint újdonság
-    - és persze, sok diéta van, ami ilyesmi elvek mentén ajánl kajaválasztást
-    - és rövid távon működnek is
-    - mondjuk rövid távon szinte minden működik, ami kalória deficitet generál... de attól még tényleg ez lenne a helyes kaja arzenál
-- csak az nagyon nem mindegy még, hogy **mikor** eszünk!
+    Nyilván az ételek mellett az italokat sem cukrozzuk!
+    A kávé/tea magában teljesen jók, sőt, kimondottan pozitív hatásokkal rendelkeznek, de **nem** cukrozzuk meg!
+    A desszerteket gyümölcsökkel, magvakkal, esetleg némi magas kakaó tartalmú (fél)keserű csokoládéval lehet kiváltani.
+    A cukornak persze továbbra is lehet szerepe az ünneplésekkel összenőtt kajálásokban -- de itt az **alkalmanként** a kulcsszó!
+    Desszert nem jár minden nap.
+
+    A folyton evős legelészést pedig hagyjuk meg a teheneknek.
+    Még a reggeli is lehet opcionális!
+    Vagyis nem muszáj egyáltalán... de ha eszünk, akkor is normális kajákból álljon, ne agyon cukrozott gabonapelyhekből!
+
+    > Egyszerű a válasz arra, hogy mit rágcsáljuk a főétkezések között: Semmit.
+    > > There's a simple answer to the question of what to eat at snack time. Nothing.
+
+
+2. **Csökkentsük a finomított/feldolgozott gabonaféléket!**
+Olyan szénhidrátot együnk, ami a természetben is előfordul.
+Vagy ha feldolgozott, akkor minél kevésbé legyen feldolgozva (teljes kiőrlés), de ebből is korlátozottan.
+
+3. **Moderáljuk a fehérje fogyasztást!**
+Persze ne tüntessük el, de nem kell "gyúrósan" zabálni a csirkemellet.
+A könyv kb. a bevitt kalóriák 20-30%-át ajánlja ebből a forrásból.
+
+4. **Nyugodtan növeljük a természetes zsírokat!**
+Gondoljunk az olíva olajra, halolajra, magvakra, tejtermékek, avokádóra, stb.
+
+5. **Fogyasszunk több rostot!**
+Láttuk a védő hatásaikat a méreg/ellenanyag hasonlaton keresztül... azért.
+
+Ezek a tanácsok első blikkre gondolom inkább ismerősek, mint újdonságok.
+És persze, sok diéta van, ami ilyesmi elvek mentén ajánl kajaválasztást.
+Rövid távon működnek is.
+Mondjuk igaz, rövid távon szinte minden működik, ami kalória deficitet generál...
+De attól még tényleg ez lenne a helyes kaja arzenál.
+Csak az nagyon nem mindegy még, hogy **mikor** esszük őket!
 
 <br>
 
@@ -468,44 +469,46 @@ Társadalmi vonatkozások tekintetében tehát összefoglalva:
 
 
 
-## Mikor együnk?
+## <a name="6"></a>Mikor együnk?
 
-- "There is nothing new, except what has been forgotten." // Marie Antoinette
-- a fogyás egy kétrészes művelet: a helyes kaják + az inzulin rezisztencia megtörése
-    - ha már rezisztens állapotban vagyunk, akkor ugye koplaltan is magasabb lesz az inzulin szintünk
-    - ezért nem lesz meg annyira lényegesen a hullámzás
-- ha ezt meg akarjuk törni, akkor mesterségesen "hullámoztatni" kell szándékosan alacsony inzulin szintű időszakokkal
-    - vagyis, magyarán mondva, időnként koplaljunk
-- **nem** ugyanaz, mint az éhezés, mert ez itt kontrollált, megszabott ideig (pár óra és pár hónap között)
-- az ókortól kezdve nagyon sokan ajánlják (és kulturálisan gyakorolják) ezt a szokást
+A fogyás egy kétfázisú művelet.
+Mert addig oké, hogy a helyes kajákkal leállítjuk a jelenlegi inzulin többletet, de az eddig összeszedett inzulin rezisztenciát is meg kellene törni valahogy.
+Ha már rezisztens állapotban vagyunk, akkor ugye koplaltan is magasabb lesz az inzulin szintünk.
+Ezért nem lesz meg annyira hangsúlyos a hullámzás, ami további hozzászokáshoz vezet.
 
-- fázisai
-    1. kaja közben májat töltünk, a többit zsírba
-    2. ezek a tárak kb. 24 órán belül ürülnek, miközben az inzulin szint jól leesik
-    3. kb. 1 nap után a máj új vércukrot gyárt más, még rendelkezésre álló alapanyagokból
-    4. kb. 3 nap után jön a ketózis, amikor már a zsírból oldjuk meg a "cukor" gyártást
-    5. kb. 5 nap után fehérje-spóroló üzemmód, amikor a testünk feltekert növekedési hormonnal és adrenalinnal próbálja megőrizni az izmainkat és a BMR-ünket
+Ha ezt meg akarjuk törni, akkor mesterségesen "hullámoztatni" kell az inzulin szintünket szándékosan alacsony időszakokkal.
+Vagyis, magyarán mondva, időnként **koplaljunk** egy kicsit!
 
-- a lényeges különbség a csökkentett kalóriamennyiséggel szemben, hogy itt nem lassul be az anyagcsere
-    - ha keveset eszünk minden nap, akkor a testünk azt fogja hinni, hogy ennyi a rendszeres napi adag, és ahhoz állítja az égetést is
-    - ha viszont **semennyit** nem eszünk, akkor a testünk azt fogja hinni, hogy vadászni kell, mert valahonnan kaját kell szerezni
-    - ilyenkor esze ágában sem lesz hátráltatni minket a kajaszerzésben, és a zsírból fogja égetni a tartalékokat amíg csak tudja
-    - méghozzá olyan ütemben, ahogy a kajás időszakban megszokta (sőt, esetenként akár még jobban)
-- természetes lehet azt hinni, hogy ha a kevés kaja erős anyagcsere lassuláshoz vezet, akkor a nulla kaja még erősebb anyagcsere lassuláshoz vezet
-    - de sem a kutatások, sem a tapasztalat nem ezt mutatja
-    - és ilyen feltételek mellett valószínűleg faj szinten sem élhettünk volna túl
+Ez persze nem ugyanaz, mint az éhezés, mert ez itt kontrolláltan, megszabott ideig és módon tesszük mindezt (valahol pár óra és pár hónap között).
+Az ókortól kezdve nagyon sokan ajánlják (és kulturálisan, vagy akár vallásilag gyakorolják) ezt a szokást, úgyhogy érdemes legalább megfontolni, hogy vajon miért...
 
-- tippek
-    - ne legyen kalória, de víz/tea/kávé persze lehet/legyen
-    - nem leszel annyira éhes, mint gondolod
-        - ha elfoglalod magad, akkor idővel fel sem fog tűnni -- ezt tapasztalatból mondhatom
-    - nem leszel fáradt -- sőt, elvileg aktívabb leszel (ha nem, az vagy egyéb orvosi ok, vagy pszichológiai eredetű)
-    - szabad (sőt, érdemes) edzeni
-        - a májból/zsírból lesz energia, és az extra növekedési hormon miatt még akár jobban hathat is
-    - mindez nyilván egy egészséges alapállapotot feltételez
-        - ha rendszeresen szedsz valamit (esetleg kaja mellé), vagy már eleve fennáll cukorbetegség (vagy bármi egyéb), akkor érdemes orvossal tanácskozni
-    - érdemes monitorozni az állapotunkat
-        - rendszeres súly, vérnyomás, vérkép, stb.    
+> Nincs semmi új, csak ami feledésbe merült.
+>
+> -- Marie Antoinette
+> > There is nothing new, except what has been forgotten.
+
+Az időszakos böjt fázisai:
+
+1. Kaja közben májat töltünk, a többit zsírba.
+2. Ezek a tárak kb. 24 órán belül ürülnek, miközben az inzulin szint jól leesik.
+3. Kb. 1 nap után a máj új vércukrot gyárt más, még rendelkezésre álló alapanyagokból.
+4. Kb. 3 nap után jön a ketózis, amikor már a zsírból oldjuk meg a "cukor" gyártást.
+5. Kb. 5 nap után fehérje-spóroló üzemmódba váltunk, amikor a testünk feltekert növekedési hormonnal és adrenalinnal próbálja megőrizni az izmainkat és a BMR-ünket.
+
+A lényeges különbség a csökkentett kalóriamennyiséggel szemben, hogy itt *nem* lassul be az anyagcsere!
+Ha keveset eszünk minden nap, akkor a testünk azt fogja hinni, hogy ennyi a rendszeres napi adag, és ahhoz állítja az égetést is.
+Ha viszont **semennyit** nem eszünk, akkor a testünk azt fogja hinni, hogy vadászni kell, mert valahonnan kaját kell szerezni.
+Ilyenkor esze ágában sem lesz hátráltatni minket a kajaszerzésben, és a zsírból fogja égetni a tartalékokat amíg csak tudja.
+Méghozzá olyan ütemben, ahogy a kajás időszakban megszokta (sőt, esetenként akár még jobban).
+
+Természetes lehet azt hinni, hogy ha a kevés kaja erős anyagcsere lassuláshoz vezet, akkor a nulla kaja még erősebb anyagcsere lassuláshoz vezet majd.
+De sem a kutatások, sem a gyakorlati tapasztalat nem ezt mutatja.
+És ilyen feltételek mellett valószínűleg faj szinten sem élhettünk volna túl.
+
+Adjunk hát egy esélyt az időszakos koplalásnak!
+A pozitív hatása érezhető, és szemmel látható lesz.
+Én például heti egyszer 24 órás teljes kalória kihagyást szoktam tartani már vagy egy éve (és előtte is időszakosan), és csak ajánlani tudom.
+A segítségével rájövünk majd, hogy az éhség nagyja nem más, mint megszokás, unatkozás, vagy társadalmi konvenció.  
 
 <br>
 
@@ -527,22 +530,23 @@ Társadalmi vonatkozások tekintetében tehát összefoglalva:
 
 ## Összefoglalás
 
-- ez itt eddig az egyetlen pont, ami legalább **valamennyire** is szemben áll a Chris Aceto féle dolgokkal
-        - ott a sok kicsi kaját a az inzulin tüskék lelapítása miatt mondtuk, itt a kevesebbszer többet a több összesített inzulin-szegény időszak miatt
-        - de ha teszünk mellé IF-et, vagy nem visszük túlzásba a bontást, vagy ugyanannyi időre húzzuk szét... szóval van simán középút, és a lényegi kérdésekben teljes az egyetértés
-        - mindezt persze azzal a feltételezéssel, hogy a plusz "sznekkelgetés" az **nem** plusz kalória... mert az nyilván nem üzlet!
+A fő tanulságok számomra a következők:
 
+- A termosztát hasonlat: van egy súly, ahova "húz" a szervezetünk;
+- Az inzulin okozza az elhízást, nem a kalóriák, és nem is valamelyik specifikus makró csoport;
+- A legnagyobb gond az ételek feldolgozásával és finomításával van... Ha természetes, akkor jöhet kb. minden;
+- Az időzítés legalább olyan fontos, mint hogy mit eszünk -- sőt, bizonyos szempontokból még fontosabb is lehet.
 
-- fő tanulságok
-    - termosztát hasonlat: van egy súly, ahova "húz" a szervezetünk
-    - az inzulin okozza az elhízást, nem a kalória, és nem is valamelyik specifikus makró csoport
-    - a legnagyobb gond a feldolgozással van... ha természetes, akkor jöhet kb. minden
-    - az időzítés legalább olyan fontos, mint hogy mit eszünk -- sőt, bizonyos szempontokból még fontosabb is lehet
+Az egyetlen pont, ami legalább **valamennyire** is szemben áll a [Chris Aceto]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}) féle dolgokkal, az az étkezések sok kicsire felbontása kontra az itteni nagyobb étkezések és köztük szünet.
+Ott a sok kicsi kaját az inzulin tüskék lelapítása miatt mondtuk, itt a kevesebbszer többet a hosszabb összesített inzulin-szegény időszak miatt.
+De ha teszünk mellé egy kis időszakos böjtölést, vagy nem visszük túlzásba a szétbontásokat, vagy ugyanannyi időre húzzuk szét...
+Maradjunk annyiban, hogy szerintem simán létezik középút, és a lényegi kérdésekben teljes az egyetértés.
 
-- szóóóval:
-    - együnk "normális" kajákat normális (de nem fóbiásan számolgatott) mennyiségekben
-    - és mellette "billegtessük" az inzulin-domináns étkezési időszakokat az inzulin-hiányos böjtölési/koplalási időszakokkal
-    - ha úgy érezzük, hogy a stressz-vonalon van a nagyobb baj, akkor helyes alvási szokások, meditáció, és masszázs segíthetnek
+Szóval:
+
+- Együnk "normális" kajákat normális (de nem fóbiásan számolgatott) mennyiségekben;
+- Mellette "billegtessük" az inzulin-domináns étkezési időszakokat az inzulin-hiányos böjtölési/koplalási időszakokkal; illetve
+- Ha úgy érezzük, hogy a stressz-vonalon sem tökéletes a helyzet, akkor fordítsunk figyelmet a helyes [alvási szokásokra]({% post_url 2020-04-17-christie-aschwanden-good-to-go %}) és a [meditációra]({% post_url 2020-05-08-john-yates-the-mind-illuminated-alapok %}) is!
 
 
 
