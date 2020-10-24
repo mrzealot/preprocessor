@@ -4,44 +4,34 @@ title: Matthew Walker - Miért alszunk?
 pages: 368
 date: 2020-10-24 00:01
 excerpt: >
-    TODO
+    Ha egyetlen mondatban kellene összefoglalnom Christie Aschwanden regenerálódásról szóló könyvét, az valahogy így nézne ki: Gyakorlatilag az alvás az egyetlen említésre méltó "módszer", minden más a placebo szintjén mozog.
+    Ezek után nem meglepő talán, hogy a "párjának" egy olyan könyvet választottam, ami kimondottan az alvásra koncentrál.
+    És habár Aschwanden eleve elég hízelgő képet festett az alvásról, Matthew Walker -- Miért alszunk című könyve még rátett három lapáttal!
 ---
 
-Ha egyetlen mondatban kellene összefoglalnom [Christie Aschwanden]({% post_url 2020-04-17-christie-aschwanden-good-to-go %}) regenerálódásról szóló könyvét, az valahogy így nézne ki: 
-Ezek után természetesen nem meglepő, hogy a "párjának" egy olyan könyvet választottam, ami kimondottan az alvásra koncentrál.
-És habár Aschwanden eleve elég hízelgő képet festett az alvásról, Matthew Walker -- [Miért alszunk](https://www.goodreads.com/book/show/34466963-why-we-sleep){:target="_blank"} (eredetileg "Why We Sleep") című könyve még magasabbra emelte a szememben -- már ha ez lehetséges.
+Ha egyetlen mondatban kellene összefoglalnom [Christie Aschwanden]({% post_url 2020-04-17-christie-aschwanden-good-to-go %}) regenerálódásról szóló könyvét, az valahogy így nézne ki: Gyakorlatilag az alvás az egyetlen említésre méltó "módszer", minden más a placebo szintjén mozog.
+Ezek után nem meglepő talán, hogy a "párjának" egy olyan könyvet választottam, ami kimondottan az alvásra koncentrál.
+És habár Aschwanden eleve elég hízelgő képet festett az alvásról, Matthew Walker -- [Miért alszunk](https://www.goodreads.com/book/show/34466963-why-we-sleep){:target="_blank"} (eredetileg "Why We Sleep") című könyve még rátett három lapáttal!
 
 > Szeretem az alvást. Az életem hajlamos szétesni, amint felkelek.
 >
 > -- Ernest Hemingway
 > > I love sleep. My life has the tendency to fall apart when I’m awake, you know?
 
+Rák, szív- és érrendszeri megbetegedések, Alzheimer kór, pszichológiai zavarok, túlevés, és szó szerint korai halál.
+Mindössze ennyit kockáztatunk azzal, ha nem alszunk eleget.
+Ennek ellenére mi vagyunk az egyetlen faj, amelyik tudatosan megvonja magától az alvást -- olyannyira, hogy a világ "fejlettebb" részein a [WHO](https://www.who.int/){:target="_blank"} kialvatlansági járványról beszél!
 
+A társadalom alváshoz való viszonya (és látszólagos érdektelensége) valószínűleg annak is betudható, hogy nagyon kevés információ forog róla a köztudatban.
+A négy fő biológiai hajtóerőből a másik hármat (evés, ivás, "párzás") már évszázadok óta értjük, de az alvást még most is csak épphogy.
+De hát valami értelme csak van, különben nem alakult volna ki...
 
-# Tartalom
+> Ha az alvás nem teljesen elengedhetetlen, akkor ez a legnagyobb hiba, amit az evolúciós folyamat valaha vétett.
+> > If sleep does not serve an absolutely vital function, then it is the biggest mistake the evolutionary process has ever made.
 
-- szerkezet
-    1. mi is az az alvás: kik, mennyit, hogyan, stb.
-    2. egyénileg miért jó, ha van, illetve rossz/halálos, ha nincs
-    3. álmokkal kapcsolatos dolgok
-    4. hogyan aludjunk többet/jobbat, illetve milyen társadalmi vonatkozásai vannak
-
-## Intro
-
-- rák, szív- és érrendszeri megbetegedések, Alzheimer kór, pszichológiai zavarok, túlevés, és szó szerint korai halál
-    - mindössze ennyit kockáztatunk azzal, ha nem alszunk eleget
-- ennek ellenére mi vagyunk az egyetlen faj, amelyik tudatosan megvonja magától az alvást
-    - olyannyira, hogy a világ "fejlettebb" részein a WHO kialvatlansági járványról beszél
-- a társadalom alváshoz való viszonya (és látszólagos érdektelensége) valószínűleg annak is betudható, hogy nagyon kevés információ forog róla a köztudatban
-    - a négy fő biológiai hajtóerőből a másik hármat (evés, ivás, párzás) már évszázadok óta értjük, de az alvást még most is csak épphogy
-    - de valami értelme csak van, különben nem alakult volna ki
-    - “If sleep does not serve an absolutely vital function, then it is the biggest mistake the evolutionary process has ever made.”
-- nincs egy konkrét válasz a címben felvetett kérdésre, mert rengeteg okból alszunk
-    - nincs olyan szervünk vagy agyi funkciónk amire ne hatna pozitívan -- vagy negatívan, ha nincs elég belőle!
-- "A balanced diet and exercise are of vital importance, yes. But we now see sleep as the preeminent force in this health trinity."
-    - "a wakeup call to sleep if ever there was one." :D :D
-    - a baj csak az, hogy ez a köznépnek mindeddig nem lett megfelelően "lekommunikálva"
-    - ezt igyekszünk most orvosolni
+Nincs olyan szervünk vagy agyi funkciónk amire ne hatna pozitívan -- vagy negatívan, ha nincs elég belőle!
+A baj csak az, hogy ez a lakosság felé mindeddig nem lett megfelelően "lekommunikálva".
+Ezt igyekszünk most a jó Walker professzor segítségével orvosolni!
 
 A továbbiakban a következő kérdésekre keressük a választ:
 
@@ -105,7 +95,7 @@ Ha kialvatlanok vagyunk, akkor ezt gyűjtjük, ebből van adósságunk...
 
 Ez a két hatás szétcsúszhat egymástól, de egyelőre feltételezzük, hogy minden rendben.
 A magas melatonin miatt a cirkadián ritmusunk nagyon alacsonyan van, a magas adenozin miatt pedig nagy a nyomás, hogy aludjunk.
-Ilyenkor horizontálisba helyezkedünk, elvesztjük az izomtónusunkat és a tudatos reakcióinkat, megszűnik minden külvilági input, és eltorzul az időérzékelésünk.
+Ilyenkor horizontálisba helyezkedünk, lecsökken a testhőmérsékletünk, elvesztjük az izomtónusunkat és a tudatos reakcióinkat, megszűnik minden külvilági input, és eltorzul az időérzékelésünk.
 
 De attól, hogy ez nekünk ilyen egységesnek tűnik, az alvás nem homogén.
 Két fő fázisa a REM (**R**apid **E**ye **M**ovement, vagyis a gyors szemmozgásos, álmodásos rész) és NREM (non-REM, amit utána még tovább boncolhatunk mélység szerint).
@@ -333,33 +323,26 @@ Ennyi bizonyítható előny és zéró hátrány mellett a helyesebb kérdés sz
 
 ## <a name="4"></a>Miért álmodunk?
 
-<!-- ## REM-álmok -->
+Oké, azt láttuk, hogy a REM fázis miért fontos.
+De miért kellenek mellé álmok?
+Azok talán csak melléktermékei a folyamatnak?
+Mint kiderült, igenis hasznosak.
 
-- vizuális, motoros, emlékekhez kapcsolódó, és érzelmi régiók BE, tudatos kontroll KI :)
-- Freud sokat adott a területhez, de a tudománytalan álomértelmezése ma már inkább csak árt, mint használ
-- a eseményekhez/emlékekhez kapcsolódó konkrétumok helyett az érzések/aggodalmak/hangulatok sokkal gyakrabban átcsúsznak az álomvilágba is
+Egy kvázi "éjszakai terápia" során újraélhetjük a napi tapasztalatainkat a hozzájuk kapcsolódó heves érzelmek nélkül.
+Ha aztán így, érzelem-mentesítve tároljuk, azzal nagyban segíthetjük a saját gyógyulási folyamatunkat.
+Egyrészt tény, hogy REM közben nincs az élmények mellé a szorongást okozó hormon-környezet.
+Másrészt viszont kimutatható, hogy az álmaink tartalma is sokat számít bizonyos traumatikus események feldolgozásában.
+Ez vonatkozik a "sima" hétköznapi dolgokon felül a PTSD-re (poszt-traumás stressz) és bizonyos visszatérő rémálmokra is.
+Szóval igazából nem az idő gyógyít, hanem az álmodással töltött idő!
 
+A másik álom-előny az extra kreativitás.
+A REM ugye bizonyítottan a nem annyira maguktól értetődő kapcsolatokat erősíti az agyban.
+Ez a látszólag össze nem illő dolgok összekapcsolása az, ami látványos kreatív áttörésekhez vezethet.
+De kísérletekkel itt is belátták, hogy nem elég maga a REM fázis.
+Az álmok jelenléte, és azok tartalma is nagyon fontos a kreatívabb problémamegoldáshoz.
 
-<!-- ## Álmok, mint éjszakai terápia -->
-
-- addig oké, hogy kell a REM alvás, de az álmok sem csak "melléktermékek"
-- kellenek "érzelmi terápiának", és a kreativitáshoz/problémamegoldáshoz is
-- terápia = ilyenkor újraélhetjük/tárolhatjuk a napi tapasztalatainkat a hozzákapcsolódó heves érzelmek nélkül, és úgy tároljuk
-    - egyrészt álom közben nincs mellé a szorongást okozó hormon-környezet
-    - másrészt kimutatható, hogy az álmaink tartalma is sokat számít bizonyos traumatikus események feldolgozásában
-    - szóval igazából nem is az idő gyógyít, hanem az álmodással töltött idő :)
-- vonatkozik PTSD-re is, és az elmélet magyarázza a visszatérő rémálmokat is
-    - a REM fázis próbálja "érzelem-mentesíteni" őket, de a magas agyi noradrenalin szint miatt nem megy
-    - ha ezt visszabillentjük, akkor a REM fázis teheti a dolgát, és megszűnnek a rémálmok is
-- ezek mellet a REM az arckifejezések megkülönböztetésében is segít, de ez nem kapcsolódott annyira "szigorúan" az álmokhoz...
-
-<!-- ## Álom-kreativitás és álom-kontroll -->
-
-- REM bizonyítottan a nem annyira magától értetődő kapcsolatokat erősíti az agyban
-    - a látszólag össze nem illő dolgok összekapcsolása, ami látványos kreatív áttörésekhez vezethet
-- kísérletekkel itt is belátták, hogy nem elég maga a REM fázis, az álmok, és azok tartalma is nagyon fontos a kreatívabb problémamegoldáshoz
-- még egy kitérő az éber álmodásra, amit jó ideig alaptalannak tartottak, de mára már bizonyított
-    - azt még nem tudjuk, hogy ennek van-e előnye/hátránya
+Próbáljunk hát legközelebb erre gondolni, amikor arra ébredünk, hogy a nagymamánk biciklivel kergetett Párizsban.
+Lehet, hogy tudatosan nem látjuk az értelmét, de volt neki -- mind érzelmi, mint kreatív fronton.
 
 <br>
 
@@ -391,85 +374,105 @@ Ennyi bizonyítható előny és zéró hátrány mellett a helyesebb kérdés sz
 
 
 ## <a name="5"></a>Hogyan aludjunk jobban?
-<!-- ## Mitől nem tudunk aludni? -->
 
-1. elektromos és főleg LED világítás
-    - maga a fény már gond este (ahogy elszakadtunk a természetes időzítésektől)
-        - szóval estére ajánlottabb a gyenge, "hangulat" világítás
-    - de a kék fény különösen csökkenti a melatonin szintünket
-        - szóval alvás előtt már vagy ne használjunk LED eszközöket
-        - vagy legalább figyeljünk, hogy kék-szűrő üzemeljen benne (telefon, tablet, számítógép)... akár viseljünk megfelelő kék-szűrős szemüveget (is)
-2. egységes szobahőmérsékletek
-    - sokkal melegebb környezetben alszunk, mint kellene
-    - az elalváshoz kb. 1 egész fokot le kell csökkennie a testhőmérsékletünknek
-        - ebben segíthetünk neki hűvösebb hálószobával, vagy meleg fürdővel/zuhannyal (mert a bőrközeli vérbőség miatt könnyebben lehűt minket a kezünkben/lábunkban/fejünkön található sok kis hajszálér)
-3. koffein
-    - amit már tárgyaltunk
-4. alkohol
-    - leng körülötte egy olyan mítosz, hogy könnyebb tőle elaludni... sőt, hogy utána "jobbat" is alszunk
-    - ezek sajnos nettó hülyeségek
-    - lehet, hogy nem vagyunk épp ébren, de nem is igazi alvást produkálunk... inkább egy gyengén lenyugtatózott állapotot
-    - többször is megszakad az alvásunk az éjszaka folyamán, ami miatt kevésbé pihentető
-    - másrészt az alkohol az egyik legerősebb REM-fázis gátló
-        - nem lesz REM fázis, sem álmok, és velük együtt a rengeteg pozitív hatásuk sem!
-5. társadalmi "örökség"
-    - nem igazán természetes, hogy mesterségesen kirántjuk magunkat az alvásból
-    - de cserébe a konzisztens alvási menetrendnek van haszna, úgyhogy ha (még) nem megy ébresztő nélkül, akkor érdemes lehet
-    - viszont: szundit semmiképp! a szívünknek és az idegrendszerünknek épp elég az a sokk egyszer is.
+Walker két egyszerű kérdést javasol annak eldöntésére, hogy vajon eleget alszunk-e (és elég jót):
 
+1. Jóval a reggeli kelés után (mondjuk 10-11 körül) is úgy érezzük-e még, hogy simán vissza tudnánk aludni?
+2. Kell-e a kávé vagy valami más stimuláns, hogy dél előtt megfelelően működjünk?
 
-<!-- ## Segítünk vagy ártunk az alvásunknak? -->
+Ha a kettőből bármelyik rendszeresen igen, akkor az bizony gyanús, hogy kialvatlanság.
+Ez legtöbbször persze csak annyiról szól, hogy egyszerűen nem adunk magunknak elég alvási lehetőséget.
+És ha tényleg ez a helyzet, akkor remélem most már látjuk, miért lehet szó szerint *életbevágó* ezen változtatni.
 
-- eleget alszunk-e (és elég jót) -- két kérdéssel jól megbecsülhető
-    1. jóval a reggeli kelés után (mondjuk 10-11 körül) úgy érezzük-e, hogy simán vissza tudnánk aludni?
-    2. kell-e a kávé, hogy dél előtt megfelelően működjünk?
+Ha viszont tényleg nem megy az alvás, akkor sem érdemes egyből az altatókra gondolni.
+Az altatók ugyanis nem természetes alvást nyújtanak, és rengeteg negatív mellékhatással járhatnak.
+Először is, az alkoholhoz hasonlíthatóan inkább "leszedálnak", mint sem valódi alvásba segítenének -- magukkal rántva ezzel az összes memóriaképzésre vonatkozó negatívumot is.
+Emellé másnap gyűröttebbek leszünk, ami miatt valószínűleg többet kávézunk vagy "élénkítünk" majd.
+Ez pedig belekerget egy tipikus ördögi körbe, mert a plusz kávé miatt éjszaka újra kelleni fog az altató.
 
-ez legtöbbször persze csak annyiról szól, hogy egyszerűen nem adunk magunknak elég alvási lehetőséget.
-ha adnánk, menne az.
-ha viszont tényleg nem megy, akkor sem érdemes egyből az altatókra gondolni
+Ezek után gondolom nem meglepő, milyen könnyű függőséget (és vele együtt rezisztenciát, lásd [inzulin rezisztencia]({% post_url 2020-10-17-jason-fung-az-elhizas-kulcsa %})) kialakítani, ami miatt egyre nehezebb lesz leállni velük.
+És mindezt miért?
+Felmérések szerint szinte semmivel nem jobbak a placebo-nál, és aki szedi, annak sokkal nagyobb a halálozási esélye.
+Hogy épp mibe haltak bele, az persze változó, de kb. mind köthető a rosszabb alvási minőséghez... ami valóban, nem kicsit ironikus.
+
+<br>
+
+A pirula-megoldás helyett próbáljunk inkább a környezetünkön és/vagy a viselkedésünkön változtatni.
+Erre szolgál a következő 12 alvás-higiéniai tipp, amit én (a véleményem szerinti) fontossági sorrendbe tettem:
+
+1. **Legyen egy állandó kelési *és fekvési* idő!**
+És persze köztük a megfelelően hosszú és zavartalan alvási lehetőség.
+Ha csak egy tippet tartuk be, akkor az legyen ez.
+Nem igazán természetes, hogy mesterségesen kirántjuk magunkat az alvásból egy ébresztővel, de ha cserébe konzisztens alvási menetrendet kapunk, akkor megéri.
+Viszont az ébresztő "szundi" funkcióját semmiképp ne használjuk!
+A szívünknek és az idegrendszerünknek épp elég az a sokk naponta egyszer is.
 
 
+2. **Ne eddzünk túl későn!**
+Az edzés természetesen nagyszerű dolog, és kimutatható kölcsönhatásban is van az átlagos alvásminőséggel.
+De igyekezzünk úgy ütemezni, hogy ne túl közel legyen a lefekvéshez, nehogy akkor meg épp az emelkedett testhő vagy oxigén felhasználás zavarjon bele az elalvási folyamatba.
 
 
-- az altatók nem természetes alvást nyújtanak, és rengeteg negatív mellékhatással járhatnak
-    - az alkoholhoz hasonlíthatóan inkább "leszedálnak", mint sem valódi alvásba segítenének
-        - rántva ezzel az összes memóriaképzésre vonatkozó negatívumot is, persze
-    - emellé másnak gyűröttebbek leszünk, ami miatt többet kávézunk vagy "élénkítünk" majd
-    - ez pedig belekerget egy ördögi körbe, mert éjszaka újra kelleni fog az altató
-    - akár rá is függhetünk (lásd inzulin rezisztencia a cukros kajáknál), ami miatt egyre nehezebb lesz leállni velük
-    - survey belátta, hogy szinte semmivel nem jobbak a placebo-nál
-    - aki szedi, annak sokkal nagyobb volt a halálozási esélye (még az egyéb faktoroktól függetlenítve is, mint súly, kor, alkohol, dohányzás, stb.)
-        - hogy épp mibe haltak bele, az változó, de kb. mind köthető a rosszabb alvási minőséghez... ami valóban, nem kicsit ironikus.
-- vannak viszont természetes módjai is, ahogy segíthetünk magunkon
-    - kognitív viselkedésterápia (Cognitive Behavioural Therapy for Insomnia, CBT-I)
-    - magától értetődő dolgok:
-        - limitált koffein és alkohol fogyasztás
-        - képernyős/LEDes dolgok eltávolítása a hálóból
-        - hűvösebb alvási környezet
-        - rendszeres lefekvési és kelési idő
-        - ne legyen durmidélután HA este gond van az alvással
-        - ne legyen látható óra, hogy ne azt bámuljuk
-        - ne feküdjünk, ha nem tudunk aludni (majd inkább visszamegyünk, ha már tudnánk)
-    - kicsit paradoxikusnak tűnő: csökkentsük az ágyban töltött időt
-        - ezzel olyan adenizin-nyomást tudunk majd felépíteni, ami miatt a szerevezetünk kénytelen lesz azt a kevés időt legalább jól felhasználni alvásra
-        - idővel pedig visszanöveljük az ágyban töltött időnket is, és tárááá
-- egyéb alvási higiénia dolgok:
-    - 12 tipp:
-        1. ezekből a rendszeresség a legfontosabb! (még ha ébresztőórával is jár)
-            - legyen egy állandó kelési ÉS FEKVÉSI idő
-        2. az alvás kölcsönhatásban van még az edzéssel és a kajával is, szóval ha azok rendben vannak, az az alvásnak is jobb lesz! (és fordítva)
-            - viszont egyiket se túl hamar alvás előtt, nehogy akkor meg az zavarjon bele az elalvási folyamatba (emelkedett testhő, emésztés, stb.)
-            - a sok ivás sokszori felkelést jelenthet, ami meg azért nem jó
-            - ez az 5. is
-        3. koffein/nikotin
-        4. alkohol
-        6. kerüljük az olyan gyógyszereket, amik befolyásolhatják az alvási ritmusunkat
-        7. lehet durmidélután, de 3 előtt!
-        8. legyen egy levezetési/relax időszak a lefekvés előtt, ne rögtön a 100%-os akcióból akarjuk bealudni
-        9. meleg fürdő, ami a relaxnak és a testhőnek is jó
-        10. sötét, hűvös, elektronikus kütyüktől mentes hálószoba
-        11. legyünk kint természetes fényben legalább 30 percet naponta, vagy használjunk erős fényeket reggel/nappal, és gyengébbeket este
-        12. ne feküdjünk...
+3. **Korlátozzuk a koffein/nikotin fogyasztást!**
+Mindkettő stimuláns hatású, és különösen a koffein sokkal lassabban ürül ki a szervezetünkből, mint gondolnánk.
+A nikotin pedig akár elvonási tünetekkel is belezavarhat a reggeli alvásba, úgyhogy csak óvatosan.
+
+
+4. **Korlátozzuk az alkohol fogyasztást!**
+Leng ugyan körülötte egy olyan mítosz, hogy könnyebb tőle elaludni...
+Sőt, hogy utána "jobbat" is alszunk.
+Ezek sajnos nettó hülyeségek!
+    
+    Lehet, hogy nem vagyunk épp ébren, de nem is igazi alvást produkálunk...
+    Inkább egy gyengén lenyugtatózott állapotot.
+    Többször is megszakad majd az alvásunk az éjszaka folyamán, ami miatt kevésbé lesz pihentető.
+
+    Másrészt az alkohol az egyik legerősebb REM-fázis gátló!
+    Vagyis nem lesz se REM fázis, se álmok, és velük együtt a rengeteg pozitív hatásuk sem!
+
+
+5. **Ne együnk sokat túl későn!**
+A késői edzéshez hasonlóan, a teltségérzettel és az emésztéssel itt is belezavarhatunk az elalvásba.
+Emellett a sok ivás sokszori éjszakai wc-kört jelenthet, ami meg azért nem jó!
+
+
+6. **Kerüljük az alvást befolyásoló gyógyszereket!**
+Ez direktben nyilván érinti a kifejezett altatókat, de minden mást is, aminek esetleg mellékhatása lehet az alvási ritmusunkra.
+A legtöbb célra több hatóanyag létezik, és a legtöbb hatóanyagot többféle összetételben is megkaphatjuk.
+Szóval "Kérdezze meg kezelőorvosát, gyógyszerészét!", hogy ha már szedni kell valamit, az legalább a pihenésünkbe ne köpjön bele.
+
+
+7. **3 után már aludjunk!**
+Ugye mint a sziesztás kultúráknál vettük, nincs semmi baj a kétfázisú alvási mintával -- sőt!
+De arra azért figyeljünk, hogy a másodlagos kis délutáni adag nehogy az esti nagy rovására menjen.
+Szóval lehet "durmidélután", de 3 előtt!
+
+
+8. **Legyen egy levezetési időszak!**
+Egy relaxáló lefekvési "rituálé" sokat segíthet abban, hogy hamarabb elaludjunk.
+Olvasás, zene hallgatás, meditáció...
+A lényeg, hogy ne rögtön a 100%-os akcióból akarjuk bealudni.
+
+
+9. **Fürödjünk meleggel!**
+Ez egyrészt az előbb említett relaxnak is hasznos, másrészt pedig a testhőnket is segíthet lecsökkenteni.
+Az elalváshoz kb. 1 egész fokot le kell csökkennie a testhőmérsékletünknek, és egy meleg fürdő után (a bőrközeli vérbőség miatt) könnyebben lehűt minket a kezünkben/lábunkban/fejünkön található sok kis hajszálér.
+
+
+10. **Sötét, hűvös, elektronikus kütyüktől mentes hálószoba!**
+Sötét és kütyü-mentesség (pláne LED-mentesség) a melatonin miatt. Este amúgy is ajánlottabb már csak "hangulatvilágítást" használni, a kék fényre pedig különösen figyelni!
+Hűvös pedig a fent említett testhőmérsékletesdi miatt.
+
+
+11. **Érjen minket természetes fény!**
+Naponta legalább 30 perc természetes fény ajánlott, hogy rendesen működhessen a belső óránk.
+Ha nem megy, akkor legalább használjunk erős (ilyenkor kéket is tartalmazó) fényeket reggel/nappal, és gyengébbeket este.
+
+
+12. **Ne "stresszeljük rá" az elalvásra!**
+Ne feküdjünk 10-20 percnél többet, ha nem tudunk aludni.
+Csináljunk inkább valami lazát, és majd inkább visszamegyünk, ha már újra úgy érezzük, hogy tudnánk aludni.
+Ide tartozik még az is, hogy *ne* legyen látható óra a hálóban -- egyrészt a fénye miatt, másrészt hogy még véletlenül se azt bámuljuk!
 
 <br>
 
@@ -510,48 +513,63 @@ ha viszont tényleg nem megy, akkor sem érdemes egyből az altatókra gondolni
 
 
 ## <a name="6"></a>Mit jelent mindez társadalmi szinten?
-<!-- ## Az alvás és a társadalom -->
 
-- munka
-    - az alvás nagyon lenézett aktivitás, és az a menő, aki minél tovább bent marad, és aztán másnap is minél hamarabb bent van újra
-    - ez még a régi "ha többet csinálok, akkor többet haladok" produktivitási mentalitás, ami már akkor sem volt igaz, de a mai (leginkább tudás-alapú) munkákban még annyira sem
-    - egyes becslések szerint az államok GDP-jének akár 2%-a is rámehet arra, hogy a dolgozók nem alszanak eleget -- amit ezért érdemes lenne társadalmi és kulturális szinten orvosolni!
-    - megint előjön a negatív feedback loop (aliasz ördögi kör), aminek keretében azért vagyunk kevésbé produktívak, mert nem aludtunk eleget, és ezért tovább kell dolgoznunk ugyanazon a feladaton, ami miatt újra nem alszunk eleget
-    - kreativitás, morál, őszinteség, vezetési képesség...
-    - szóval nem "valamit valamiért", hanem szimpla win-win, minden szemszögből megéri... csak ezt sokan egyszerűen nem hiszik el
-- oktatás
-    - objektíven látszik, hogy ha később kezdődik az iskola, akkor a diákok jobban teljesítenek
-    - mint láttuk, az ő cirkadián ritmusuk nagyon nem a felnőttekével karöltve mozog, és ezzel pont a késői REM-től fosztjuk meg őket
-    - a későbbi start segíthetne kisimítani a társadalmi egyenlőtlenségeket, visszább fogni a kamaszkori bűnözést/züllést, és egész konkrétan az életüket is megmentheti a közúti balesetek csökkentésével
-    - sok pszichológiai tünet (pl. hiperaktivitás, figyelemhiány) is lehet valójában alvászavar
-- egészségügy
-    - a rezidensképzés, a műszakok beosztása... sok minden visszavezethető egy kokainfüggő orvosra, aki (ha már ő maga nem aludt) a többiektől is ezt várta el
-    - de továbbra is: minden statisztika szerint ez hülyeség, veszélyes, és szükségtelen
+Az mindenképp pozitív, ha egyéni szinten teszünk a jobb alvásunk érdekében.
+Sőt, tegyük fel, hogy az általános [menedzsment alapelveknek]({% post_url 2020-08-15-peter-drucker-menedzsment-alapok %}) megfelelően még mérni is kezdjük bizonyos dolgainkat -- aktivitás, alvásmennyiség, közérzet, álomnapló, stb.
+Ez mind szép és jó, de ettől azért még sajnos egy nagy halom feladat marad, amit társadalmi szinten kell megoldani.
+Ezekből szemezgetünk most egy párat, egyelőre leginkább csak úgy gondolatébresztőnek:
 
-- vagyis a lényeg, hogy társadalmi szinten kellene máshogy gondolkoznunk az alvásról
-    - nem egy felesleges nyűg, hanem egy elengedhetetlen része az emberi létnek
-    - ne akarjuk elnyomni, építsünk köré!
 
-<!-- ## Egy új vízió a 21. századi alvásra -->
+- **Munka**:
+Manapság az alvás egy nagyon lenézett aktivitás.
+Az a menő, aki minél tovább bent marad, és aztán másnap is minél hamarabb bent van újra.
+Ez még a régi "ha többet dolgozok, akkor többet haladok" produktivitási mentalitás, ami már akkor sem volt igaz, de a mai (leginkább tudás-alapú) munkákban még annyira sem.
+Egyes becslések szerint az államok GDP-jének akár 2%-a is rámehet arra, hogy a dolgozók nem alszanak eleget -- amit ezért érdemes lenne szervezeti, társadalmi és kulturális szinten orvosolni!
 
-- az eddigiek fényében minden szinten meg kell tennünk, amit csak lehet
+    Megint előjön egy szép negatív feedback loop (aliasz ördögi kör), aminek keretében (1) azért vagyunk kevésbé produktívak, mert nem aludtunk eleget, és (2) ezért tovább kell dolgoznunk ugyanazon a feladaton, ami miatt újra nem alszunk eleget.
+    Az alváshiánnyal pedig veszélybe került a kreativitás, a morál, az őszinteség, a vezetési képesség...
+    Szóval ez még csak nem is egy "valamit valamiért" helyzet, hanem egy szimpla win-win.
+    Minden szemszögből megérné, csak ezt sokan egyszerűen nem hiszik el.
 
-- egyénileg
-    - az informálás/informálódás nyilván nagyon fontos, de magában nem lesz elég
-    - a "quantified self" hozzáállás sokat segíthet -- vagyis mérni kell, amit csak lehet
-- oktatásilag
-    - valami alapvető szinten (vagy ha néha akár konkrétan rosszul is), de a "helyes" diéta és a testmozgás szükségessége, illetve pár higiéniai/egészségügy/szaporodási kérdés azért minden ország oktatási rendszerében helyet kap
-    - de az alvásról kb. nulla
-- szervezetileg
-    - kialudtság-alapú bónuszok
-    - flexibilis munkaidők -- mondjuk törzsidővel a közepén, hogy az interakciók is megmaradhassanak
-    - egészségügyileg az alvás a gyógyulási folyamat középpontjában kellene hogy legyen (a jelenlegi állapottal szemben)
-- politikailag
-    - népszerűsítés és népoktatás
-    - megelőzés kontra utólagos takarítás
-    - munkahelyek mintájára: adókedvezmények bizonyos alvási szokásokért, stb.
-- társadalmilag
-    - végül remélhetőleg mindez annyira alap lesz (megint?), hogy ez lesz a kulturális alap
+    Az első lépés ez ellen mindenképpen a hozzáállásbeli változtatás, és az megfelelő "tisztelet" megadása az alvásnak.
+    De ha nem csak a szánk járna, akkor akár kialudtság-alapú bónuszokat is lehetne osztogatni -- ami még mindig sokkal jobban megérné, mint az a rengeteg elvesztett produktivitás és dolgozói jóindulat.
+    Emellett bíztató a flexibilis munkaidők terjedése, ami legalább egy kis mozgásteret ad a különböző kronotípusoknak.
+
+
+- **Oktatás**:
+Objektíven látszik, hogy ha később kezdődik az iskola, akkor a diákok jobban teljesítenek.
+Mint láttuk, az ő cirkadián ritmusuk nagyon nem a felnőttekével karöltve mozog, és a korai kezdéssel pont az alvás végi REM-től fosztjuk meg őket.
+A későbbi start segíthetne továbbá visszább fogni sok pszichológiai tünetet (hiperaktivitás, figyelemhiány, stb.) és egész konkrétan az életüket is megmentheti a közúti balesetek csökkentésével.
+
+    És ha már oktatás, mi lenne, ha esetleg oktatnánk őket az alvás fontosságáról -- hogy aztán ők is azt adhassák át az ő gyerekeiknek.
+    Valami alapvető szinten (még ha néha akár konkrétan rosszul is), de a "helyes" diéta és a testmozgás szükségessége, illetve pár higiéniai/egészségügy/szaporodási kérdés azért minden ország oktatási rendszerében helyet kap
+    De akkor az alvás miért nem?
+
+
+- **Egészségügy**:
+Orvosi szemszögből a rezidensképzés, a műszakok beosztása...
+Sok minden visszavezethető egy kokainfüggő orvosra, aki (ha már ő maga nem aludt) a többiektől is ezt várta el.
+Ez viszont minden statisztika szerint hülyeség, veszélyes, és szükségtelen.
+Azért pedig nem éri meg megtartani a rendszert, mert "eddig is így volt"!
+    
+    Persze ez nem csak az orvosokra, hanem a betegekre is hatványozottan érvényes.
+    A jelenlegi kórházi alapállapot tele van zajokkal, zavaró tényezőkkel, erőltetett korai (vagy épp túl késői) menetrendekkel, és a páciensek közel sem tudnak annyit pihenni, amennyit kellene.
+    Legalábbis a saját cirkadián ritmusuk szerint biztos nem.
+    Ehelyett az alvásnak a gyógyulási folyamat középpontjában kellene szerepelnie.
+
+
+- **Politika**:
+A kialvatlansággal járó veszélyek köztudatba hozása és az ide tartozó népoktatás...
+Hát, mondjuk úgy, hogy erősen le van maradva a tudományosan igazolt tények mögött.
+És ez a felelőtlenségen felül még csak nem is praktikus!
+Ha csak tized annyit költenénk például az álmos vezetések esetében a megelőzésre (szemben az utólagos "takarítással" és károkkal), már bőven kifizetné magát a program.
+A távolabbi jövőben pedig (a munkahelyek mintájára?) akár adókedvezmények is járhatnának bizonyos alvási szokásokért...
+
+
+A lényeg, hogy társadalmi szinten kellene máshogy gondolkoznunk az alvásról.
+Ne egy felesleges nyűgnek bélyegezzük, hanem az emberi lét elengedhetetlen részének.
+Ne akarjuk elnyomni, hanem építsünk köré!
+Végül remélhetőleg mindez annyira magától értetődővé válik, hogy ez lesz az új kulturális alap.
 
 <br>
 
@@ -580,8 +598,9 @@ ha viszont tényleg nem megy, akkor sem érdemes egyből az altatókra gondolni
 ## Összefoglalás
 
 Tömören: az alvás **mindenünknek** jó, a hiánya **mindenünknek** rossz, és egy csomó olyan egyéb negatívum is az alvásra vezethető vissza, aminek látszólag semmi köze hozzá.
-Nyugodjunk hát bele, hogy az evolúció nem véletlenül hagyta a napirendünkben ezt a "kihasználatlan" időszakot.
+Nyugodjunk bele, hogy az evolúció nem véletlenül hagyta a napirendünkben ezt a "kihasználatlan" időszakot.
 Az alvás egy alapvető fontosságú élettani folyamat.
+
 Első körben tehát érdemes lenne a körülötte lengő "lustaság" stigmát eltüntetni, és bátran, büszkén felvállalni, hogy mi bizony megalusszuk a 8 órákat!
 Még akár úgy is, hogy az egyben 8 óra helyett egy délutáni sziesztát illesztünk az amúgy csak 6-7 órás éjszakai alvásunk mellé.
 Legyen inkább ez a divat, mint azzal hencegni, hogy valaki milyen kevés alvással is beéri...
