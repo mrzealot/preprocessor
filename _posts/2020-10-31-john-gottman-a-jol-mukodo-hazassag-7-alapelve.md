@@ -26,7 +26,7 @@ Az itt tárgyalt 7 alapelv pedig pontosan ezt fogja nyújtani.
 Lehet, hogy jó ideig meglesz velük a "házi feladat", de megéri befektetni az energiát -- statisztikailag akár 4-8 évvel is tovább élhet az, aki boldog házasságban él!
 Ez nyilván lehet a kevesebb stressz és az abból fakadó fizikai tünetek csökkenése miatt, de emellett a "mindketten vigyáznak a másikra" effekt sem elhanyagolható.
 Sőt, kutatások kimutatták, hogy még konkrétan az immunrendszerünk is erősebb, ha boldog kapcsolatban élünk.
-Ehhez viszont az akadémiai tudás helyett inkább az érzelmi intelligenciánkat kell tornáztatni.
+Ehhez viszont az akadémiai tudás helyett inkább az érzelmi intelligenciánkat kell tornáztatni -- amit most meg is teszünk.
 
 A tartalom a következőképp alakul:
 
@@ -63,8 +63,8 @@ A tartalom a következőképp alakul:
 
 ## <a name="válás"></a>Hogyan jelezhető előre a válás?
 
-Mivel mi jól akarjuk csinálni, ezért érdemes a leggyakoribb buktatókkal kezdeni.
-Nézzük hát, hogy Gottmanék milyen jeleket találtak kiemelten beszédesnek:
+Mivel mi nem akarunk erre a sorsra jutni, érdemes lehet a leggyakoribb buktatókkal kezdeni.
+Nézzük hát, hogy Gottmanék milyen jeleket találtak kiemelten beszédesnek a válás előrejelzésében:
 
 - Ha durván/élesen/negatívan **kezdődik** a vita.
 Azokat a vitákat is gyorsan inkább felfüggeszteni kellene, amik hosszas fokozódás után kalandoznak negatív(abb) területekre -- de ami eleve ott indít, abból semmi jó nem fog kisülni!
@@ -84,14 +84,15 @@ Azokat a vitákat is gyorsan inkább felfüggeszteni kellene, amik hosszas fokoz
     Ettől persze a problémák nem tűnnek el, csak ő onnantól már nem is *próbálja* megoldani őket...
 
 - Ha nem tudjuk kezelni az **"áradást"** -- vagyis amikor az ingerek egyszerűen túlterhelnek, és inkább ki akarnánk szállni.
-Nyilván ez erősen összefügg a negyedik lovassal, de az első háromból is ide köthető az "olyat mondunk, amit utána megbánunk".
+Nyilván ez erősen összefügg a negyedik lovassal, de az első háromból is ide köthető az "olyat mondunk, amit utána megbánunk" esete.
 Sokan "üss vagy fuss" jellegű stressznek élik meg ezeket a vitákat, amiből a kritizálás/megvetés/mentegetőzés az ütés, az elzárkózás pedig a futás.
 És ez látszik a testbeszédükön, a vérnyomásukon, a pulzusukon, stb.
 
 - Ha a **"javítási kísérletek"** csak ritkán sikerülnek.
 Ezek olyan békülési vagy feszültségcsökkentő próbálkozások, amik még a kiborulás előtt megállítják a beszélgetés negatív ívét.
 Vagy legalábbis megpróbálják visszacsinálni a négy lovas által addig okozott károkat.
-Mindenhol termelődik "házassági szemét", de csótányok csak akkor lesznek, ha ezt hagyjuk felgyülemleni -- a javítási kísérletek mondhatni kiviszik a szemetet...
+Mindenhol termelődik "házassági szemét", de csótányok csak akkor lesznek, ha ezt hagyjuk felgyülemleni.
+A javítási kísérletek mondhatni kiviszik a szemetet -- de csak ha sikerülnek!
 
 - Ha már a **múltat** is felülírja az ember, és negatív fényben tünteti fel a régen még pozitívként megélt emlékeit.
 Ha ez megkövül (vagyis a jelen, a múlt, és következésképpen a jövő is csupa negativitás), akkor előbb-utóbb nem csak a vitában, hanem úgy általában is egyre jobban elfordul majd az ember a másiktól.
@@ -162,8 +163,8 @@ Nézzük tehát, milyen lépések vezetnek ide...
 ## <a name="1"></a>**1** -- Ismerjük a másikat!
 
 Könnyű annyira mélyen elveszni a saját világunkban, hogy emiatt a párunk világát már csak felületesen *sem* ismerjük.
-Példának egy orvost hoz fel a könyv, ami még a kutyájuk nevét sem tudta otthon -- ami talán sarkalatos, de szemléltetésre tökéletes.
-Hiszen képzelhetjük, hogy milyen minőségű barátságot takar ez a háttérben a feleségével.
+Példának egy orvost hoz fel a könyv, aki még a kutyájuk nevét sem tudta otthon -- ami talán sarkalatos, de szemléltetésre tökéletes.
+Hiszen képzelhetjük, hogy egy ilyen szintű figyelem milyen minőségű barátságot takar a háttérben a feleségével.
 
 A barátság egyik előfeltétele, hogy tudatosan fel kell szabadítanunk egy nagy valag kognitív helyet a kapcsolatunkhoz tartozó információknak.
 Igenis "képben kell lenni", ez a minimum.
@@ -219,7 +220,7 @@ Itt jöhetnek képbe a Chapman-féle [szeretetnyelvek]({% post_url 2020-04-24-ga
 
 Amikor a másik felénk fordul -- például segítségkérésekkel, figyelemfelhívásokkal, kapcsolódási "indítványokkal" -- olyankor választhatunk, hogy mi is felé fordulunk, vagy inkább el.
 Mondjuk vesszük-e a fáradságot, hogy válaszoljunk egy üzenetére; segítünk-e, ha kéri; figyelünk-e, ha beszél hozzánk; érdeklődünk-e iránta, amikor mesél, stb.
-Jó kapcsolatoknál a másik fél 80% körül partner volt az ilyesmiben, míg a rosszaknál ez csak 30% körül alakult...
+Jó kapcsolatoknál a másik fél 80% körüli arányban partner volt az ilyesmiben, míg a rosszaknál ez csak 30% körül alakult...
 
 Az első lépés egyáltalán tudatába kerülni, hogy ezek az apróságok mennyit számítanak hosszú távon!
 Onnantól viszont egy pozitív feedback loop (vagy nevezzük "angyali körnek", az ördögi mintájára?).
@@ -227,7 +228,7 @@ Onnantól viszont egy pozitív feedback loop (vagy nevezzük "angyali körnek", 
 Két lehetséges akadályozó tényező:
 
 1. Nem ismerjük fel a másik segélyhívását, mert túl sok negativitásba van csomagolva.
-2. Nem is vesszük észre a másik segélyhívását, mert az egyéb figyelemelterelések miatt pont a fontos dolgokra nem marad kapacitás.
+2. Nem is vesszük észre a másik segélyhívását, mert az egyéb figyelemelterelések miatt pont a fontos dolgokra nem marad kapacitásunk.
 
 A legtöbb pár a figyelmetlenség vagy az elvakultság miatt nem reagál a másik felhívásaira, nem rosszindulatból.
 Figyeljük meg, hogy a másik hogyan fordul felénk, és amiatt talán majd mi is jobban tudunk felé fordulni.
@@ -264,11 +265,11 @@ A boldog kapcsolatokban a túlnyomó többség azt az elvet vallja, hogy ha a m�
 
 Ez természetesen nem **csak** a férfiakra vonatkozik, de azért főleg.
 A nők még a szarabb kapcsolatokban is gyakrabban hagyják, hogy a férfi befolyásolja a döntéseiket, de fordítva nem igazán jellemző, csak a jobb kapcsolatokban.
-Én például egy netes vásárlásnál futottam ilyenbe, amikor közöltem a másikkal, hogy ezt még meg kell beszélnem az asszonnyal.
+Én például egy netes vásárlásnál futottam ilyenbe, amikor közöltem egy ismerőssel, hogy ezt még meg kell beszélnem az asszonnyal.
 Egyből jött, hogy hány éves vagyok, meg hogy "anyuci nem engedi" a költséget...
 De én véletlenül sem szégyelltem magam -- inkább őt sajnáltam, hogy ilyen primitíven áll a kapcsolatokhoz.
 
-A másik (ez esetben inkább a nők) "bunkósága" is sokszor abból fakadhat, ha az a norma, hogy nem hallgatják meg.
+A másik (ez esetben inkább a nő) "bunkósága" is sokszor abból fakadhat, ha az a norma, hogy őt nem hallgatják meg.
 Idővel kialakul benne az a kép, hogy csak egy "cirkusz" mellett juthat talán szóhoz.
 Ilyen esetekben igyekezzünk csillapítani a kedélyeket, de legrosszabb esetben is csak "tartsuk a szintet" -- semmiképp ne tegyünk még a tűzre.
 
@@ -283,7 +284,7 @@ A cél tehát, hogy érzelmileg intelligens párjai legyünk a másiknak.
 Direkt nem azt mondom, hogy "érzelmileg intelligens férjei legyünk a feleségeinknek", de azért lássuk be fiúk, ez a gyakoribb hiányosság.
 Lehet hőbörögni, hogy ez régen nem így volt, meg hogy jogok és illem és hagyományos értékek...
 Vagy lehet "osztozni a hatalmon" és emberszámba venni a másikat, egyenrangú társként.
-Aztán pedig majd lehet meglepődni, hogy az milyen váratlan pozitívumokhoz vezet majd.
+Aztán pedig majd lehet meglepődni, hogy ez milyen váratlan pozitívumokhoz vezet majd.
 
 <br>
 
@@ -315,7 +316,7 @@ Kezdjük a témát azzal, hogy a házassági problémákat (legyen ez bármilyen
 Viszont ez nem kell, hogy baj legyen!
 Csak az nem mindegy, hogyan állunk hozzájuk.
 
-A megkülönböztetés leginkább arra épül, hogy mennyire nyúlik vissza az alapokig -- és ezáltal az is jó előrejelző, hogy mennyire tud bántó lenni vagy hogy milyen mély sebet hagy.
+A megkülönböztetés leginkább arra épül, hogy a hozzájuk kapcsolódó viták mennyire nyúlnak vissza az alapokig -- és ezáltal az is jó előrejelző, hogy mennyire tudnak bántók lenni vagy hogy milyen mély sebet hagynak.
 A szituációs dolgok általában megoldhatóak, amikor valami félresiklik, ütemezési gondok vannak, vagy egy nagyon konkrét és specifikus dologról van szó.
 
 De amikor már a másik alapvető személyisége (és annak hibái), vagy nagy témák mint bizalom/biztonság/önzés kerülnek elő...
@@ -323,13 +324,12 @@ Amikor a másik a "gonosz" vagy az "ellenség" szerepében van feltüntetve...
 Amikor a kompromisszum lehetetlennek tűnik...
 Amikor ugyanazok a beszélgetések mennek évek óta, egyre begyöpösödöttebb álláspontokkal, egyre humortalanabbul...
 Hát az valószínűleg egy megoldhatatlan probléma.
-
 De ne feledjük, mindenki csomaggal érkezik!
-Az nem választás, hogy lesz-e visszatérő probléma...
-Csak az választás, hogy **mi** lesz adott esetben a visszatérő probléma.
+Az nem választás, hogy lesz-e visszatérő probléma.
+Csak az a választás, hogy **mi** lesz adott esetben a visszatérő probléma.
+
 A megoldhatatlan konfliktusok kezelésére a következő szekcióban visszatérünk, de egyelőre oldjuk meg azt, amit lehet.
 Mert habár azok jóval egyszerűbbek, de attól idővel ők is elfertőződhetnek.
-
 Indításnak nézzünk pár általános problémamegoldási tippet:
 
 - A negatív érzelmek fontosak, mert sokat tanulhatunk belőlük -- ha van gyomrunk figyelni rájuk.
@@ -343,17 +343,17 @@ Ezek ismeretében pedig nekiállhatunk szép módszeresen kiiktatni a "válási 
 Ehhez egyrészt vállaljuk (legalább részben) a felelősséget.
 Másrészt mondjuk el, mit érzünk a **konkrét** szituációval kapcsolatban, illetve hogy mit szeretnénk (ne azt, hogy mit *nem* szeretnénk!).
 Ha nem megy nyugodtan, akkor inkább halasszuk, mert az erőltetéssel inkább csak kárt okozunk.
-De vég nélkül azért nyilván ne halasszunk, mert abból meg robbanás lesz a végén.
+De vég nélkül azért nyilván ne halasztgassuk, mert abból meg előbb-utóbb robbanás lesz.
 
 2. **Tanuljunk meg javítási kísérleteket küldeni és fogadni!**
-Nem az számít, hogy milyen profik ezek a lassítási/békítési próbálkozások, hanem hogy átmennek-e.
+És nem az számít, hogy milyen profik ezek a lassítási/békítési próbálkozások, hanem hogy átmennek-e.
 Ezért ne hagyjuk, hogy a hangsúly miatt maradjon észrevétlen az alatta lévő üzenetet!
 Akár használjunk előre egyeztetett "jelszavakat", hogy a másik biztos ne érthesse félre a szándékunkat.
-Sőt, akár mondjuk bele a másik képébe, hogy "BÉKÜLÉS", vagy hogy "patakopogás" (mert jönnek a lovasok)...
+Sőt, akár mondjuk bele a másik képébe, hogy "BÉKÜLÉS!", vagy hogy "patakopogás" (mert jönnek a lovasok)...
 
 3. **Nyugtassuk magunkat és a másikat is!**
 Magyarán mondva: igyekezzünk nem hagyni, hogy elöntse az agyunkat a fos.
-Ilyenkor annyi a lényeg, hogy hagyjuk abba a vitát, és **azonnal**!
+Ha mégis megtörténik, akkor hagyjuk abba a vitát, és **azonnal**!
 Ne gondoljuk, hogy "majd szünetet tartunk, amint ezt az érvemet kifejtettem", mert abból soha nem lesz szünet.
 Emellett tudatosan kerülni kell a "jogosnak vélt felháborodást" és az "ártatlan áldozat" szerepkört.
 Gondoljunk arra, hogy egy csapatban vagyunk, nem egymás ellen!
@@ -375,11 +375,11 @@ Példaként pár gyakori megoldható probléma:
 
 - Internet-hajtotta figyelemelterelések &#8658; legyen használati etikett;
 - Stresszkezelés &#8658; legyen én idő vagy valamilyen "leeresztési" rituálé, hogy ne a másik kapja a nagyját;
-- Rokonság &#8658; egyszerű: a párunk mellé kell állni mindenki mással szemben;
+- Rokonság &#8658; a párunk mellé kell állni *mindenki* mással szemben;
 - Pénz &#8658; csapatként, kompromisszumokat kötve, költségvetést írva... De az ilyesmiről [máshol]({% post_url 2020-03-20-vicki-robin-your-money-or-your-life %}) már úgyis [részletesebben]({% post_url 2020-09-19-jacob-lund-fisker-extrem-korai-nyugdij-1 %}) beszéltünk;
-- Házimunka &#8658; mindenkinek ki kell vennie a részét (és igen, ez legtöbbször azt jelenti, hogy a férfiaknak is többet kell);
+- Házimunka &#8658; mindenkinek ki kell vennie a részét (és igen, ez legtöbbször azt jelenti, hogy a férfiaknak is többet kellene);
 - Szülőség &#8658; el kell fogadni, hogy a régi életnek vége, és nem azt visszasírni, hanem az újba lelkesen beleszokni;
-- Szex &#8658; ha prioritás, akkor tegyük prioritássá, és tanuljunk meg tisztán és érthetően beszélni róla.
+- Szex &#8658; ha prioritás, akkor tegyük prioritássá, illetve tanuljunk meg tisztán és érthetően beszélni róla.
 
 Az utolsóhoz egy bónusz tipp: ne definiáljuk olyan szigorúan, hogy **mi** is számít szexnek!
 
@@ -413,12 +413,12 @@ Az utolsóhoz egy bónusz tipp: ne definiáljuk olyan szigorúan, hogy **mi** is
 
 Ha követjük az előző pont javaslatait (és persze megalapozzuk az első néggyel), akkor a problémáink nagy része záros határidőn belül el fog tűnni.
 Viszont ez nem jelenti sajnos, hogy nem lesz, ami megmarad!
-Az ilyen "holtpontokat" általában valami mélyre elásott (akár magunk elől is titokban tartott) álom/vágy váltja ki.
+Az ilyen "holtpontokat" általában valami mélyre elásott (akár magunk elől is titokban tartott) álom vagy vágy váltja ki.
 Ezeket pedig fontos visszakeresni, mert az nem lesz produktív, ha hetvenedszerre is valami kis tüneti dolgon veszünk össze a párunkkal az igazi ok helyett.
 
 Kérdezhetnénk, hogy "Hádde minek, ha egyszer megoldhatatlan"?!
 És persze, ettől csak napvilágra kerül az igazi ok, de nem fog hirtelen megváltozni a véleményünk.
-Viszont fel kell ismernünk, hogy a másik álmait több szinten is támogathatjuk.
+Viszont fel kell ismernünk, hogy a másik álmait több szinten is támogathatjuk:
 
 1. Megértjük, elfogadjuk, és legalább érdeklődünk iránta;
 2. Segítjük vagy lehetővé tesszük számára; vagy akár
@@ -480,7 +480,7 @@ Viszont ha tisztában vagyunk, akkor ez fölé már az is sokat ad, ha csak mego
 Ha pedig még valami olyan is kiesik a dologból, amiben majd ő is részt vehet, az a közös jelentés jackpot-ja.
 
 4. **Közös értékek és szimbólumok:**
-Különleges jelentéssel felruházott konkrét tárgyak, vagy akár absztrakt családi mondások, mesék, értékek...
+Különleges jelentéssel felruházott konkrét tárgyak, vagy akár absztrakt családi értékek, mondások, mesék...
 A lényeg a mögöttes jelentés, és hogy ezen osztozunk a párunkkal.
 
 <br>
@@ -508,7 +508,7 @@ Köznépi "bölcsesség", hogy nem szabad túl nagy elvárásokat támasztanunk 
 De kutatások ennek pont az ellenkezőjét mutatták ki -- akik elvárták, hogy a kapcsolatuk egy magas szintet ugorjon meg, azok hosszú távon sokkal boldogabbak voltak.
 Lehet persze, hogy nem minden jött össze nekik pont úgy, ahogy elképzelték.
 De legalább dolgoztak rajta, és nem gyülemlett fel sok minden a szőnyeg alatt!
-Vagyis érdemes elhinni (sőt, elvárni), hogy nekünk is ilyen kapcsolatunk legyen.
+Vagyis érdemes elhinni, hogy nekünk is lehet ilyen kapcsolatunk.
 
 > [Minden utazás] a hitetlenség felfüggesztésével kezdődik...
 > > [Every journey] begins by suspending disbelief...
