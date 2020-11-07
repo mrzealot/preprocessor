@@ -120,8 +120,8 @@ Ezért sem árt némi "pozitív propaganda"!
 
 ## <a name="1"></a>Hogy jutottunk ide?
 
-A 20 század hajnalán a *Karakter* korszakából átléptünk a *Személyiség* korszakába.
-Nem annyira az számított már, hogy privátban mit csináltunk vagy hogy milyen az értékrendünk -- inkább az, hogy publikusan hogyan viselkedtünk és hogy az emberek hogyan ítélnek meg.
+A 20. század hajnalán a *Karakter* korszakából átléptünk a *Személyiség* korszakába.
+Nem annyira az számított már, hogy privátban mit csináltunk vagy hogy milyen az értékrendünk -- inkább az, hogy publikusan hogyan viselkedtünk és hogy az emberek hogyan ítéltek meg.
 A munkamorál, a becsület és az integritás helyett egyre jobban a domináns, energikus, vonzó személyiség lett a cél.
 
 Ez annyira hangsúlyossá vált, hogy az iskolák és a munkahelyek is egyre inkább a személyiségre alapoztak.
@@ -149,7 +149,7 @@ De mint ahogy ezt már a [Deep Work]({% post_url 2020-09-12-cal-newport-deep-wor
 Oké, hogy áramoljanak az ötletek, de azért teret kell hagynunk az önálló munkának is, ha igazán jelentős eredményeket szeretnénk.
 És ezt napjaink kultúrája nem támogatja, hacsak nem tapossuk ki magunknak erőszakkal.
 Lehet, hogy az internet aszinkron jellege és relatív személytelensége mellett virágzik az együttműködés, de ezt élőben nem feltétlen tanácsos az emberekre erőltetni.
-A privát szféra hiánya és a gyakori zavaró tényezők károsabbak, mint gondolnánk -- csak (még) nem tudjuk mérni, és ezért nem is vesszük komolyan.
+A privát szféra hiánya és a gyakori zavaró tényezők károsabbak, mint gondolnánk -- csak ezeket (még) nem tudjuk mérni, és ezért nem is vesszük őket komolyan.
 Nyilván továbbra is van értelme a szemtől szembe interakcióknak, ezt senki nem tagadja.
 A baj az, ha az egyedüllét rovására megy ez a nagy szocializálódás!
 
@@ -210,7 +210,7 @@ Mert persze, a biológiánk és neveltetésünk egy olyan erős alapot adnak, am
 De azért csak van szabad akaratunk, nem?
 
 És természetesen van tudatos befolyásunk, de nem végtelen.
-Gondoljuk rá úgy, mint egy befőttes gumira: a személyiségünk is "nyújtható" bármelyik irányba, de csak bizonyos határokon belül!
+Gondoljuk rá úgy, mint egy **befőttes gumira**: a személyiségünk is "nyújtható" bármelyik irányba, de csak bizonyos határokon belül!
 A tudatos agyunk (frontális cortex) elnyomhatja a tudattalan agyunkat (amygdala), de attól az érzékenyeknek mindig is ott lesznek azok a vészcsengők -- csak megtanulnak együtt élni velük.
 Például az introkra jellemző nyilvános beszéd fóbia soha nem fog teljesen eltűnni, de annak ellenére is van rengeteg intro, akiről meg nem mondanánk a nyilvános beszédei alapján.
 
@@ -251,13 +251,13 @@ Az alacsony reaktivitásból fakadó nyugalom menő, de túlértékelt.
 Mármint persze, a magasabb leszarom-pontszámú emberek lehet, hogy dominánsabbak, de az evolúció valamiért mégsem csak őket hagyta az arénában.
 Az érzékenység jelenthet például magasabb kreativitást vagy alaposabb megfontolást a cselekvés előtt, ami jobb túlélési esélyekhez vezethet.
 Nincs tehát ilyen, hogy az egyik hozzáállás egyértelműen jobb, mint a másik.
-Bizonyos szituációkban bizonyos arányú intro-extro elhelyezkedés az optimális, ezért nem is tűnt el soha -- és ezért található meg rengeteg más faj példányaiban is.
+Bizonyos szituációkban bizonyos arányú intro-extro elhelyezkedés az optimális, ezért nem is tűnt el soha az intro-hajlam -- és ezért található meg rengeteg más faj példányaiban is.
 
 Arról pedig lehet vitatkozni, hogy napjainkban melyik éri meg jobban -- mert ez is attól függ, hogy mire optimalizálunk.
 Sokat akarunk utazni, sok szexpartnert akarunk, és halmozni az élményeket a (várhatóan) rövidebb és gyorsabban kiégő életünk alatt?
 Extrovertáltak, előre!
 De ha megelégszünk azzal, hogy szépen lassan, egy helyben, "unalmasan", de *mélyen* és valószínűleg *tovább* csináljuk a kis dolgunkat, akkor az introvertáltság a nyertes stratégia.
-Ha ennek a tetejére még az együttműködés is megy, akkor kiegészíthetjük egymást -- ezért érdemes mindkét fajtából "tartani".
+Ha ennek a tetejére még az együttműködés is megy, akkor kiegészíthetjük egymást -- ezért érdemes a fajnak mindkét típusból "tartani".
 
 Egy másik kérdés a jutalom-érzékenység kontra kockázat-érzékenység, vagy más szavakkal az extro-féle "mi baj lehet" kontra az intro-féle "mi jó sülhet ebből ki"?
 Sőt, vannak, akik szerint egyenesen ettől lesz valaki extro: mert jobban hallgat a jutalom-érzékenységére, és mindig a nagy nyereséget kergeti.
@@ -265,7 +265,8 @@ Kutatások szerint az extrok agyi dopamin ("jutalom hormon") érzékelése erős
 Na persze az introknak is *jó* a szex, a pénz és a státusz, de azért a nyakukat nem fogják kitörni érte -- ezért is bírják jobban a "késleltetett kielégülést", ami sokszor a hasznukra válik.
 
 A kockázatvállalásban szintén szerepet játszhat a sebesség: a sztereotipikus extro csak törtet a célja felé, sokszor anélkül, hogy tanulna a hibáiból.
-Ha erőszakkal lelassítják, akkor ő is tud olyan szinten teljesíteni, mint az alapból agyalósabb introk, de ha magára hagyják, akkor a hibák után nem hogy lassít, hanem inkább gyorsít a tempón.
+Ha erőszakkal lelassítják, akkor azért ő is tud olyan szinten teljesíteni, mint az alapból agyalósabb introk.
+De ha magára hagyják, akkor a hibák után nem hogy lassít, hanem inkább gyorsít a tempón.
 Ezzel szemben az introság általában mélyebb gondolkozást és lassabb kezdést, de kitartóbb hozzáállást eredményez.
 
 Ezzel megvan, hogy az extrokat mi hajtja, és hogy mire vigyázzanak.
@@ -311,7 +312,7 @@ Nem ciki, ha tanul és olvas az ember, nincs hangsúly a szocializálódáson, �
 
 Individualitás kontra csoport összetartozás; én érdekem kontra mi érdekünk; hangos és erőszakos törtetés kontra csendes kitartás és következetesség.
 Ami nekünk nyugaton megalázkodásnak és túlzó önfeláldozásnak tűnik, azt keleten inkább mások tiszteletének és az érzelmeik figyelembevételének veszik.
-De a korábban említett Finnek mutatják, hogy nem is muszáj keletre fordulni...
+De ahogy a korábban említett Finnek mutatják, nem is muszáj keletre fordulni...
 
 A lényeg: az extrovertáltság nem mindenhol alap, másra is lehet civilizációt építeni!
 Ettől persze ha valaki egy más típusú közegbe szeretne beilleszkedni, akkor lesz kultúrsokk.
@@ -350,7 +351,7 @@ Introvertáltként *alkalmazkodni* próbáljunk az extro kultúrához, ne *"fel�
 
 Vannak, akik vitatják az intro/extro skála állandóságát.
 Szerintük mindig az adott szituációtól függ, hogy ki milyen irányba (és mennyire) leng ki.
-A könyv erre "Szabad Tulajdonság Teória" néven utal, de szerintem ez továbbra is leginkább a korábban már említett befőttes gumi hasonlat: van egy alapállapotunk, de belső, mély személyes projektek érdekében ezektől el tudunk térni.
+A könyv erre "Szabad Tulajdonság Teória" néven utal, de szerintem ez továbbra is leginkább a korábban már említett **befőttes gumi** hasonlat: van egy alapállapotunk, de belső, mély személyes projektek érdekében ezektől el tudunk térni.
 És igen, ez első blikkre valamennyire szembemegy a Shakespeare-i "légy hű magadhoz" jellegű gondolkodással.
 De ha a kilengést pont a "mély személyes projektjeink" és értékeink érdekében tesszük, akkor végül is nem pont így vagyunk a leghűbbek önmagunkhoz?
 
@@ -370,8 +371,8 @@ Introként gondoljuk végig: tudok-e majd eleget egyedül lenni, a karakteremhez
 Extroként pedig: lesz-e elég stimuláció, utazhatok-e eleget, ismerhetek-e meg új embereket, munka után tudok-e még társaságba járni, stb.
 
 Társadalom szinten az lenne a legjobb, ha megegyeznénk, hogy mindenki megtanul egy kicsit **nem** maga lenni, ha cserébe az idő nagy százalékában önmaga lehet.
-És habár ez az egyezség nagyon fontos lenne a családunkkal és a munkahelyi feletteseinkkel is, a legfontosabb, hogy saját magunkkal is megkössük!
-Legyünk tésztában az értékrendünkkel, a céljainkkal, hogy mit miért csinálunk -- és aztán csak akkor hajoljunk el az alapállapotunktól, ha megéri!
+És habár ez az egyezség nagyon fontos lenne a családunkkal és a munkahelyi feletteseinkkel is, a legfontosabb, hogy saját magunkkal megkössük!
+Legyünk tisztában az értékrendünkkel, a céljainkkal, hogy mit miért csinálunk -- és aztán csak akkor hajoljunk el az alapállapotunktól, ha megéri!
 
 <br>
 
@@ -387,12 +388,12 @@ Legyünk tésztában az értékrendünkkel, a céljainkkal, hogy mit miért csin
 ## <a name="6"></a>Hogyan kommunikáljunk másokkal?
 
 A személyiségtípusunk természetesen a konfrontációink stílusára is kihat.
-Az extrok nyíltan bele a képedbe, míg az intro gyakran inkább kerülik a konfliktust -- vagy ha muszáj, akkor is csendesebben.
+Az extrok nyíltan belemásznak a képedbe, míg az introk gyakran inkább kerülik a konfliktust -- vagy ha muszáj, akkor is csendesebben.
 És ha ezek ütköznek (már pedig akár egy kapcsolaton vagy háztartáson belül is sokszor ütközhetnek), akkor nem csak hogy nem haladunk a megértés felé, de idővel akár egyre *kevésbé* is érthetjük a másikat.
 
 Ilyen vegyes esetben elég "nyilvánvaló", hogy min kell dolgoznunk (ami ettől sajnos nem könnyű).
 Introként fontos, hogy képesek legyünk jobban elviselni a másik élénk/hangos/érzelmes kinyilvánulásait.
-Mondjuk abban a tudatban, hogy az ugatás nem feltétlen jelent harapást
+Mondjuk abban a tudatban, hogy az *ugatás* nem feltétlen jelent *harapást*.
 Extroként pedig fogadjuk el, hogy a másik visszahúzódása nem feltétlen jelenti, hogy őt nem érdekli annyira, mint minket -- csak ő halkabban szeretne tárgyalni róla.
 
 Segítségnek emlékezzünk a [házasság 7 alapelvénél]({% post_url 2020-10-31-john-gottman-a-jol-mukodo-hazassag-7-alapelve %}) vett tippekre:
@@ -418,15 +419,15 @@ Ha viszont az introkat is figyelembe szeretnénk venni, akkor érdemes úgy szer
 ## <a name="7"></a>Hogyan neveljünk introvertált gyereket?
 
 A könyv sok konkrétumra kitér a játszótéri viselkedéstől kezdve az iskolai tippekig.
-De én átfogó benyomásként csak annyit emelnék ki, hogy egyáltalán legyünk tisztában vele (szülőként!), hogy nem csak az extrovertált viselkedésforma létezik!
-Ha a párunkkal együtt mindketten az intro vagy az extro csoportba tartozunk, attól a gyerek még lehet a "másik" tábor tagja.
+De én átfogó benyomásként csak annyit emelnék ki, mennyire fontos szülőként tisztában lennünk vele, hogy nem csak a saját viselkedésformánk létezik!
+Ha például a párunkkal együtt mindketten az intro vagy az extro csoportba tartozunk, attól a gyerek még lehet a "másik" tábor tagja.
 Ilyenkor pedig nem ráerőltetni kell a saját preferenciáinkat, hanem megpróbálni az ő szemszögéből nézni egy kicsit a világot!
 Együttérezni vele, amikor valami nem megy, és kifejezni a büszkeségünket, amikor megy -- akkor is (sőt, főleg akkor), ha minden lassabb, mint másnál.
 
 Ne feledjük, hogy az introvertáltságnak semmi köze ahhoz, hogy a gyerkőc akar-e majd másokkal barátkozni.
 Legfeljebb ahhoz, hogy kivel, hogy mennyit, vagy hogy milyen sűrűn.
 Érdemes szép lassan bevezetni őket az új élményekbe vagy kapcsolatokba, és akkor menni fog az.
-Hangsúlyozzuk, hogy az esetleges szégyenlősségével semmi baj nincs, és hogy le tudja győzni.
+Hangsúlyozzuk, hogy az esetleges szégyenlősségével semmi baj nincs, és hogy igenis le tudja győzni.
 Mutassuk meg, milyen jutalmak várnak a túloldalon, de aztán hagyjuk, hogy a saját ütemében érjen oda!
 Ezzel tanulja majd meg a későbbi félelmeit is egészségesebben kezelni.
 
@@ -459,13 +460,13 @@ A könyv alapvető tanulsága, hogy az introvertáltsággal nincs semmi baj!
 Nem kell szégyellni és nem kell rajta változtatni -- elfogadni és alkalmazkodni kell!
 
 Munka és önmegvalósítás fronton a tanács ugyanaz, mint mindenkinek: találjuk ki, hogy mit akarunk kezdeni magunkkal, és aztán kezdjük azt magunkkal!
-Az introknak csak annyi az extra, hogy akkor sem szabad feladni, ha az álmaikhoz extrovertált tulajdonságok kellenek.
+Az introknak csak annyi az extra, hogy akkor sem szabad feladni, ha az álmaikhoz extrovertált tulajdonságok (is) kellenek.
 Ha tényleg egy mély vágyunkat váltjuk valóra vele, akkor képesek leszünk majd kellően "megjátszani".
 Ne feledjük a befőttes gumi hasonlatot, de mindenképp csak a saját értékrendünket követve!
 Utána pedig gyorsan haza, és ne szégyelljünk regenerálódni olyan dolgok után sem, ami másnak piskóta lett volna!
 
-Szabadidő fronton pedig merjük úgy tölteni, ahogy szeretnénk, ne úgy, ahogy hisszük, hogy kellene!
+A szabadidőnket pedig merjük úgy tölteni, ahogy szeretnénk, ne úgy, ahogy hisszük, hogy kellene!
 Az emberi kapcsolatok mindenkinek jót tesznek, de a minőség sokkal többet számít, mint a mennyiség -- és ez az introkra hatványozottan igaz.
 Szóval legyünk tisztában a preferenciáinkkal, és vállaljuk is fel őket!
-Alakítsunk ki olyan környezetet és kapcsolatokat, amik a töltődésünket szolgálják (ahelyett, hogy merítenének).
+Alakítsunk ki olyan környezetet és kapcsolatokat, amik a töltődésünket szolgálják ahelyett, hogy merítenének.
 Ha pedig emellett a másik (pár, barát, gyerek, kolléga) típusával is tisztában vagyunk, akkor a megmaradó kommunikáció is sokkal zökkenőmentesebb lesz majd.
