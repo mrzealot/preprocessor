@@ -7,54 +7,87 @@ excerpt: >
     TODO
 ---
 
-[](https://www.goodreads.com/book/show/8520610-quiet){:target="_blank"}
+Ha a párkapcsolatok témakörét újra általános emberi kapcsolatokká szélesítjük (mint ahogy tettük azt [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) könyvével a [szeretetnyelvek]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}) után), akkor szerintem következőként érdemes lenne az introvertáltság és extrovertáltság közti különbségeket kitárgyalni.
+Ehhez pedig nem is kérhetnénk jobb áttekintést, mint amit [Susan Cain -- Csend](https://www.goodreads.com/book/show/8520610-quiet){:target="_blank"} című könyve nyújt.
 
+Első sorban azért választottam ezt a könyvet a kapcsolatépítés rovatban (és a ["Hogyan szerezzünk barátokat"]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) párjaként), mert a cím sugallata ellenére nem csak az introvertáltakra vonatkozik a mondanivaló.
+Persze nekik is hasznos lesz, ha magukra ismernek és utána jobban mernek majd autentikusan viselkedni.
+De az extrovertáltaknak sem ártana, ha jobban tudnának kapcsolódni az introvertált társaikhoz -- és ha egyáltalán tisztában lennének vele, hogy ilyen személyiségtípus is létezik!
+Az már csak külön bónusz, hogy maga Cain is épp Dale Carnegie-t hozza példaként a "hangos" kultúra felemelkedésére.
+Vegyük hát úgy, hogy ott megkaptunk minden magabiztosságos, kézfogós, szociális dolgot -- itt pedig megláthatjuk az érem másik oldalát...
 
+A tartalom a következőképp alakul:
 
-> > Take what applies to you, and use the rest to improve your relationships with others.
-- ez az idézet jól mutatja, miért választottam ezt a könyvet a másokkal való kapcsolatépítés rovatban
-- vagyis mindenkire vonatkozik a mondanivaló
-    - az introknak azért, hogy jobban merjenek önmaguk lenni
-    - az extroknak azért, hogy jobban tudjanak kapcsolódni az introkhoz (és hogy egyáltalán tisztában legyenek vele, hogy ilyen is van)
-- és nahát, micsoda kapcsolat, mert az extro kultúra felemelkedésére épp Dale Carnegie-t hozza
-    - ott megkapunk minden magabiztosságos, kézfogós, szociális dolgot
-    - itt pedig megláthatjuk az érem másik oldalát, a teljesség kedvéért
-
-
-> > Introversion is now a second-class personality trait, somewhere between a disappointment and a pathology.
-
-> > Neither E=mc^2 nor Paradise Lost was dashed off by a party animal. -- Winifred Gallagher
-
-- az egész világ arra van beállítva, hogy az extrovertáltság a menő
-    - az iskolák, a karrierek, a társasági élet, a média
-    - mindenhonnan az folyik, hogy magabiztosnak, kifelé fordulónak, beszédesnek (hangosnak?) kell lenni
-    - olyannyira, hogy még annak is magára kell erőltetnie ezeket a tulajdonságokat, aki amúgy marhára nem ilyen lenne
-- ha expliciten kimondva nem is, de társadalmi szinten mégis azt sugalljuk, hogy aki nem extrovertált, azzal "valami baj van"
-    - és mire rájöhetne, hogy ez nem így van, addigra már talán olyan mélyen beleivódott a saját kisebbrendűsége, hogy aztán az élete hátralévő részében meg azon dolgozhat szerencsétlen
-- mindezek ellenére az introvertáltak nem hogy csak ugyanúgy, de bizonyos területeken akár jobban is teljesíthetnek, ha nem elnyomni, hanem elfogadni próbálják a saját személyiségtípusukat
-    - ezért sem árt némi "pozitív propaganda" :)
-
-- kicsit pontosabb definíciók (Jung-ra vezet vissza persze ez is)
-    - intro befelé fordul, extro kifelé
-    - az intro inkább értelmezi az eseményeket, az extro pedig beleveti magát az eseményekbe
-    - az introknak az tölti az elemeit, ha egyedül lehetnek, az extroknak pedig pont a szocializálódás
-    - extro = asszertív, domináns, társasági lény, inkább beszél mint hallgat
-    - intro = NEM a szociális képességek hiánya, csak hamarabb "lemerül", és lenne inkább otthon a pizsamájában, inkább hallgat, beszéd előtt jobban meggondolja, mint fog mondani, jobban szeret írásban kommunikálni
-    - az intro NEM feltétlen remete vagy embergyűlölő
-    - az intro NEM feltétlen szégyenlős (mert az akkor van, ha félne a társadalmi megítélésétől)
-        - például lehet valaki büszkén felvállalva is intro! :)
-- van olyan is, hogy "ambivert" :) szóval a lényeg, hogy ez sem egy bináris döntés, hanem egy spektrum!
-
-> > Finnish joke: How can you tell if a Finn likes you? He’s staring at your shoes instead of his own. 
-
+- [Bevezetés](#intro)
 - [Hogy jutottunk ide?](#1)
 - [Genetika kontra neveltetés](#2)
 - [Gondolkozásmódbeli különbségek](#3)
 - [Más kultúrák véleménye](#4)
 - Praktikus tanácsok:
-    1. [Hogy legyünk jóban magunkkal?](#5)
-    2. [Hogy kommunikáljunk másokkal?](#6)
-    3. [Hogy neveljünk introvertált gyereket?](#7)
+    1. [Hogyan legyünk jóban magunkkal?](#5)
+    2. [Hogyan kommunikáljunk másokkal?](#6)
+    3. [Hogyan neveljünk introvertált gyereket?](#7)
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="intro"></a>Bevezetés
+
+Kezdjünk talán ott, hogy mit is jelentenek ezek a szavak.
+Az introvertált ember ("intro") inkább befelé fordul, míg az extrovertált ("extro") kifelé.
+Az intro jobban szereti *értelmezni* az eseményeket, míg az extro inkább *beleveti* magát az eseményekbe.
+Az introk elemeit az tölti, ha egyedül lehetnek -- az extroknak pedig pont a szocializálódás.
+Az extro egy asszertív, domináns társasági lény, aki inkább beszél mint hallgat.
+Ezzel szemben egy intro inkább hallgat; beszéd előtt jobban meggondolja, mint fog mondani; gyakran eleve jobban szeret írásban kommunikálni.
+A híresen introvertált finnek egyik vicce szerintem jól összefoglalja a lényeget:
+
+> Honnan lehet tudni, hogy egy finn kedvel? Onnan, hogy a te cipődet bámulja a sajátja helyett...
+> > How can you tell if a Finn likes you? He's staring at your shoes instead of his own...
+
+Az introság azonban (a közhiedelemmel ellentétben) **nem** feltétlen jelenti a szociális képességek hiányát -- csak ők hamarabb "lemerülnek", és inkább lennének otthon a pizsamáikban.
+Hasonló okokból remetéknek vagy embergyűlölőknek sem feltétlen bélyegezhetők.
+És nem kötelező a szégyenlősség sem -- mert az akkor lenne, ha félnének a társadalmi megítélésétől.
+De miért ne lehetne valaki büszkén intro?!
+
+Hát, talán azért, mert az egész világ az extrovertáltságra van beállítva.
+Az iskolák, a karrierek, a társasági élet, a média -- mindenhonnan az folyik, hogy magabiztosnak, kifelé fordulónak, beszédesnek (hangosnak?) kell lenni.
+Olyannyira, hogy még annak is magára kell erőltetnie ezeket a tulajdonságokat, aki amúgy marhára nem ilyen lenne.
+
+Ha expliciten kimondva nem is, de társadalmi szinten mégis azt sugalljuk, hogy aki nem extrovertált, azzal "valami baj van".
+És mire egy intro rájöhetne, hogy ez nem így van, addigra már talán olyan mélyen beleivódott a saját kisebbrendűsége, hogy aztán az élete hátralévő részében meg azon dolgozhat szerencsétlen.
+
+> Az introvertáltság napjainkban egy másodrangú személyiségjegy, valahol a csalódás és a patológia között.
+> > Introversion is now a second-class personality trait, somewhere between a disappointment and a pathology.
+
+Mindezek ellenére az introvertáltak nem hogy csak ugyanúgy, de bizonyos területeken akár jobban is teljesíthetnek -- már ha nem *elnyomni*, hanem *elfogadni* próbálják a saját személyiségtípusukat.
+Ezért sem árt némi "pozitív propaganda"!
+
+> Az E=mc&sup2; egyenletet és az Elveszett Paradicsomot sem egy "partiállat" firkantotta le.
+> 
+> -- Winifred Gallagher
+> > Neither E=mc&sup2; nor Paradise Lost was dashed off by a party animal.
 
 <br>
 
@@ -82,54 +115,42 @@ excerpt: >
 
 
 
-## <a name="1"></a> Hogy jutottunk ide?
-<!-- ## 1 -- Hogyan lett az extrovertáltság a kulturális norma? -->
-
-- a 20 század hajnalán a Karakter korszakából átléptünk a Személyiség korszakába
-    - nem annyira az számított már, hogy privátban mit csináltunk vagy hogy milyen az értékrendünk
-    - inkább az, hogy publikusan hogyan viselkedtünk és hogy az emberek hogyan ítélnek meg
-    - a munkamorál, a becsület és az integritás helyett egyre jobban a domináns, energikus, vonzó személyiség lett a cél
-- ez annyira hangsúlyossá vált, hogy az iskolák és a munkahelyek is egyre inkább az egész személyiségre alapoztak
-    - nem kellettek a briliáns DE introvertált diákok/alkalmazottak
-    - ezért aztán mindenki extro akart lenni (vagyis hát valamilyen szempontból annak *kellett* lennie)
-        - ez pedig nem kevés szorongással (és az ahhoz tartozó nyugtatók elterjedésével) járt
-- szóval lehet, hogy a Karakter --> Személyiség átállással a látszat jelentősen javult, de vajon a mögöttes tartalom nem szenvedi ezt meg?
-
-<!-- ## 2 -- A személyiség-alapú kultúra, 100 évvel később -->
-
-- Tony Robbins szemináriumon keresztül nézzük meg, hogy milyen egy extra-extro karakter, és hogy **állítólag** mi felé kellene aspirálnunk nekünk is
-    - nem baj, ha igazából nem vagyunk azok, mert megtanulhatunk úgy viselkedni
-- először még lehet, hogy kendőzetlenül azért kellett mindenkinek ilyenné válni, hogy előrébb juthasson az új világban
-    - de most már úgy van csomagolva, hogy "így segíthetünk másoknak is a legtöbbet"
-- Harvard Business School példa
-    - ha úgyis ettől lesz sikeres az ember a munkahelyen, akkor már az iskolában is erre nevelünk
-    - nekem az a legfeltűnőbb, hogy mintha tényleg senki nem venné észre, hogy ezek csak kitalált szabályok
-    - "Nincs is ruha a császáron! - rivalgott fel végül a tengernyi tömeg."
-- a csendes embereknek is ugyanannyi jó ötlete van, mint a hangosaknak
-    - csak a hangosak jobban érvényesítik a sajátjaikat
-    - ez pedig komoly károkhoz vezethet, ha a prezentációt értékeljük jobban, mint a tartalmat
-- ha sok az extro, akkor jobb, ha egy intro a vezető -- és fordítva
-    - perfectly balanced, as all things should be
-- az internet nagy szerepet játszik abban, hogy az introvertáltak is egységesen szóhoz jussanak a szociális nyomások okozta negatív mellékhatások nélkül
-- egyre kevésbé divat az introvertáltságot "kisebbségi komplexusnak" csúfolni, de ebben a nagy extrovertált kultúrában továbbra is elég könnyű kisebbségi komplexust növeszteni -- ha az ember hisz a társadalmi alaphangulatnak
 
 
-<!-- ## 3 -- Amikor az együttműködés megöli a kreativitást -->
+## <a name="1"></a>Hogy jutottunk ide?
 
-- de miért is ez a fontos? mert azt hisszük, hogy ez vezet az eredményekhez
-    - vége a Nagy Ember korának, és eljött a Nagy Csapat korszaka
-    - de, mint ahogy ezt már a Deep Work-ben is láthattuk, ez azért nem ilyen egyszerű
-    - oké, hogy áramoljanak az ötletek, de azért teret kell hagynunk az önálló munkának is, ha igazán jelentős eredményeket szeretnénk
-        - és ezt napjaink kultúrája nem támogatja, hacsak nem tapossuk ki magunknak erőszakkal
-    - lehet, hogy az internet aszinkronitása és relatív személytelensége mellett virágzik az együttműködés, de ezt élőben nem feltétlen tanácsos az emberekre erőltetni
-    - a privát szféra hiánya és a gyakori zavaró tényezők és félbeszakítások károsabbak, mint gondolnánk
-        - csak (még) nem tudjuk mérni, ezért nem is vesszük komolyan
-- az egyedüllét nagy szerepet játszik a képességeink kibontakozásában
-    - az kell a szándékos gyakorláshoz, ami nélkül nincs mesterszint, még a társas aktivitásokban sem
-- a közös "brainstorming" őrület is hülyeség, mert egyedül/egyesével jobban teljesítenénk
-    - mások befolyása észrevétlenül is módosíthatja a véleményünket vagy a döntéseinket
-- nyilván továbbra is van értelme a szemtől szembe interakcióknak, ezt senki nem tagadja
-    - a baj az, ha az egyedüllét rovására megy ez a nagy szocializálódás
+A 20 század hajnalán a *Karakter* korszakából átléptünk a *Személyiség* korszakába.
+Nem annyira az számított már, hogy privátban mit csináltunk vagy hogy milyen az értékrendünk -- inkább az, hogy publikusan hogyan viselkedtünk és hogy az emberek hogyan ítélnek meg.
+A munkamorál, a becsület és az integritás helyett egyre jobban a domináns, energikus, vonzó személyiség lett a cél.
+
+Ez annyira hangsúlyossá vált, hogy az iskolák és a munkahelyek is egyre inkább a személyiségre alapoztak.
+Nem kellettek a briliáns **de** introvertált diákok vagy alkalmazottak.
+Ezért aztán mindenki extro akart lenni -- vagyis hát valamilyen szempontból annak *kellett* lennie.
+Szóval lehet, hogy a *Karakter* &#8658; *Személyiség* átállással a látszat jelentősen javult, de vajon a mögöttes tartalom nem szenvedi-e ezt meg?
+
+100 évvel később egy Tony Robbins szemináriumon és a Harvard Business School-on keresztül kapunk betekintést, hogy *állítólag* milyen "extra-extro" karakter felé kellene aspirálnunk nekünk is.
+Nem baj, ha igazából nem vagyunk azok, mert (megint csak, **állítólag**) megtanulhatunk úgy viselkedni.
+Hiszen ha úgyis ettől lesz sikeres az ember a munkahelyen, akkor már az iskolában is erre nevelnek.
+Nekem ebben az egészben az a legfeltűnőbb, hogy mintha tényleg senki nem venné észre, hogy ezek csak kitalált szabályok.
+"Nincs is ruha a császáron! - rivalgott fel végül a tengernyi tömeg"...
+
+Ez radikálisan hangozhat, de a csendes embereknek is ugyanannyi jó ötletük van, mint a hangosaknak!
+Csak a hangosak sokszor jobban érvényesítik a sajátjaikat.
+Pedig komoly károkhoz vezethet, ha a prezentációt értékeljük jobban, mint a tartalmat.
+Az internet ugyan nagy szerepet játszik abban, hogy az introvertáltak is egységesen szóhoz jussanak a szociális nyomások okozta negatív mellékhatások nélkül.
+De ebben a nagy extrovertált kultúrában továbbra is elég könnyű kisebbségi komplexust növeszteni, ha egy intro hisz a társadalmi alaphangulatnak.
+
+És hogy miért is ez a nagy extrovertáltság mánia?
+Mert azt **hisszük**, hogy ez vezet eredményre.
+Vége a "Nagy Ember" korának, és eljött a "Nagy Csapat" korszaka!
+De mint ahogy ezt már a [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %})-ben is láthattuk, ez azért nem ilyen egyszerű.
+
+Oké, hogy áramoljanak az ötletek, de azért teret kell hagynunk az önálló munkának is, ha igazán jelentős eredményeket szeretnénk.
+És ezt napjaink kultúrája nem támogatja, hacsak nem tapossuk ki magunknak erőszakkal.
+Lehet, hogy az internet aszinkron jellege és relatív személytelensége mellett virágzik az együttműködés, de ezt élőben nem feltétlen tanácsos az emberekre erőltetni.
+A privát szféra hiánya és a gyakori zavaró tényezők károsabbak, mint gondolnánk -- csak (még) nem tudjuk mérni, és ezért nem is vesszük komolyan.
+Nyilván továbbra is van értelme a szemtől szembe interakcióknak, ezt senki nem tagadja.
+A baj az, ha az egyedüllét rovására megy ez a nagy szocializálódás!
 
 <br>
 
@@ -163,31 +184,40 @@ excerpt: >
 
 
 
-## <a name="2"></a> Genetika kontra neveltetés
-<!-- ## 4 -- Ha az vagyok, az is maradok? -->
+## <a name="2"></a>Genetika kontra neveltetés
 
-- temperamentum = biológiai hajlamok, ami már babakorban is kimutatható
-- személyiség = mi lesz a temperamentumunkból, ha ahhoz hozzáadjunk a neveltetésünket, a kulturális behatásokat, és a személyes tapasztalatainkat
-- és míg a személyiségbe más ösvényeken is beosonhat az introvertáltság, van, akinél már a temperamentuma erre "kárhoztatja"
-    - a szuper érzékenység miatt egyesek nehezebben dolgozzák fel a külvilág ingereit, az újdonságokat, és emiatt az embereket és a szociális helyzeteket is
-    - de ezzel semmi baj nincs -- legalábbis nem kellene, hogy legyen!
-    - hiszen a több beáramló infó mélyebb megértést és megfontoltabb döntéseket eredményezhet -- már ha nem terheljük túl szerencsétleneket olyasmikkel, amik az extrovertáltaknak alap dolgok
-- a genetika vs. környezeti hatás valahol a fifti-fifti környékén mozog, szóval nem csak az egyik vagy a másik, hanem a kölcsönhatásuk számít igazán
-    - mondjuk a temperamentumunk megad egy "alap irányt", de aztán a neveltetésünkön is sok múlik, hogy azt milyen formában éljük ki
-    - és ha az érzékenység egy pozitív környezettel párosul, akkor még extra pozitívumokhoz is vezethet az "érzéketlenekkel" szemben
-    - ezért gyerekkorban például érdemes inkább befolyásolhatónak tekinteni az ilyen eseteket, nem "veszélyeztetettnek" -- mert persze, veszélyeztetettek, ha rossz a környezet! de extra előnyösek, ha jó.
-- de nem is ez a legfontosabb, hanem hogy ezek a külső/belső tényezők mellett/ellenére van-e választásunk
+Vagy másként fogalmazva: ha intro vagyok, akkor az is maradok?
+Hát, részben legalábbis biztos.
+Első körben különböztessünk meg két fontos fogalmat:
 
+- **Temperamentum** = örökletes, biológiai hajlamok, amik már babakorban is kimutathatók;
+- **Személyiség** = ami a temperamentumunkból lesz, ha "hozzáadjunk" a neveltetésünket, a kulturális behatásokat, és a személyes tapasztalatainkat.
 
-<!-- ## 5 -- A szabad akarat szerepe -->
+És amíg a személyiségbe más ösvényeken is *beosonhat* az introvertáltság, van, akinél már a temperamentuma erre "kárhoztatja".
+Egy esetleges szuper érzékenység miatt egyesek egyszerűen nehezebben dolgozzák fel a külvilág ingereit, az újdonságokat, az embereket, és a szociális helyzeteket.
+De ezzel semmi baj nincs -- legalábbis nem kellene, hogy legyen!
+Hiszen a több beáramló infó mélyebb megértést és megfontoltabb döntéseket eredményezhet.
+Már ha nem terheljük túl szerencsétleneket olyasmikkel, amik az extrovertáltaknak alap dolgok.
 
-- habár a biológiánk és a környezetünk egy olyan erős alapot ad, ami még felnőttkorban is kimutatható különbségekhez vezet, ezért természetesen **van** szabad akaratunk
-    - mint egy befőttes gumi, a személyiségünk is nyújtható bármelyik irányba, de csak bizonyos határokon belül!
-    - a tudatos agyunk (frontális cortex) elnyomhatja a tudattalan agyunkat (amygdala), de attól az érzékenyeknek mindig is ott lesznek azok a vészcsengők -- csak megtanulnak együtt élni vele
-    - például a nyilvános beszéd okozta idegesség sem fog eltűnni, de annak ellenére is van rengeteg intro, akiről meg nem mondanánk a nyilvános beszédei alapján
-- minden esetre az intro/extro választóvonalra hasznos lehet úgy gondolni, mint egy környezeti preferenciára -- hogy mennyi stimuláció a pont elég
-    - és ez pedig már irányítható, ami által nem csak a határainkat feszegethetjük, hanem a komfort zónánkat is jobban kialakíthatjuk
-    - ezt persze valószínűleg már eleve csináljuk, öntudatlanul... csak hát mennyivel hatékonyabb lenne, ha még tisztában is lennén vele, mit (és miért) csinálunk
+A genetika kontra környezeti hatás továbbra is aktívan kutatott terület, de tippek szerint valahol a fifti-fifti környékén mozog.
+Szóval nem csak az egyik vagy a másik, hanem a kölcsönhatásuk számít igazán.
+Mondjuk úgy, hogy a temperamentumunk megad egy "alap irányt", de aztán a neveltetésünkön is sok múlik, hogy azt milyen formában élhetjük ki.
+És ha az érzékenység egy pozitív környezettel párosul, akkor még extra pozitívumokhoz is vezethet az "érzéketlenekkel" szemben.
+
+A legfontosabb kérdés azonban talán az, hogy ezek a külső/belső tényezők mellett van-e választásunk?
+Mert persze, a biológiánk és neveltetésünk egy olyan erős alapot adnak, ami még felnőttkorban is kimutatható különbségekhez vezet.
+De azért csak van szabad akaratunk, nem?
+
+És természetesen van tudatos befolyásunk, de nem végtelen.
+Gondoljuk rá úgy, mint egy befőttes gumira: a személyiségünk is "nyújtható" bármelyik irányba, de csak bizonyos határokon belül!
+A tudatos agyunk (frontális cortex) elnyomhatja a tudattalan agyunkat (amygdala), de attól az érzékenyeknek mindig is ott lesznek azok a vészcsengők -- csak megtanulnak együtt élni velük.
+Például az introkra jellemző nyilvános beszéd fóbia soha nem fog teljesen eltűnni, de annak ellenére is van rengeteg intro, akiről meg nem mondanánk a nyilvános beszédei alapján.
+
+Az intro/extro választóvonalra hasznos lehet inkább úgy gondolni, mint egy környezeti preferenciára.
+Hogy mennyi stimuláció a *pont elég*.
+És ez pedig már könnyebben irányítható -- ami által nem csak a határainkat feszegethetjük, hanem a komfort zónánkat is jobban kialakíthatjuk.
+Ezt persze valószínűleg már eleve csináljuk, öntudatlanul...
+De mennyivel hatékonyabb lenne, ha még tisztában is lennén vele, mit (és miért) csinálunk!
 
 <br>
 
@@ -214,7 +244,7 @@ excerpt: >
 
 
 
-## <a name="3"></a> Gondolkozásmódbeli különbségek
+## <a name="3"></a>Gondolkozásmódbeli különbségek
 <!-- ## 6 -- A lazaság túlértékelt -->
 
 - elég nagy baj, ha a kreativitást és a mély gondolatokat csak egy rejtett személyiséghiba számlájára írjuk
@@ -280,7 +310,7 @@ excerpt: >
 
 
 
-## <a name="4"></a> Más kultúrák véleménye
+## <a name="4"></a>Más kultúrák véleménye
 
 <!-- ## 8 -- Más kultúrákban is ennyire alap az extrovertált ideál? -->
 
@@ -290,6 +320,7 @@ excerpt: >
     - individualitás vs. csoport összetartozás, én érdekem vs. mi érdekünk
     - hangos és erőszakos törtetés vs. csendes kitartás és következetesség
     - ami nekünk nyugaton megalázkodásnak és túlzó önfeláldozásnak tűnik, azt keleten inkább mások tiszteletének és az érzelmeik figyelembevételének veszik
+- de említettük a finneket is...
     - de a lényeg: az extrovertáltság nem mindenhol alap, másra is lehet civilizációt építeni
 - ha valaki egy más típusú közegbe szeretne beilleszkedni, akkor nyilván lesz kultúrsokk
     - de fontos lenne, hogy például ne csak az intro egyének igyekezzenek "kinyílni"
@@ -323,7 +354,7 @@ excerpt: >
 
 
 
-## <a name="5"></a> Hogy legyünk jóban magunkkal?
+## <a name="5"></a>Hogyan legyünk jóban magunkkal?
 
 <!-- ## 9 -- Mikor legyünk extrovertáltabbak, mint amennyire igazából azok vagyunk? -->
 
@@ -348,7 +379,7 @@ excerpt: >
 
 <br>
 
-## <a name="6"></a> Hogy kommunikáljunk másokkal?
+## <a name="6"></a>Hogyan kommunikáljunk másokkal?
 <!-- ## 10 -- A kommunikációs rés -->
 
 - a személyiségtípusunk a konfrontációink stílusára is kihat
@@ -370,7 +401,7 @@ excerpt: >
 
 <br>
 
-## <a name="7"></a> Hogy neveljünk introvertált gyereket?
+## <a name="7"></a>Hogyan neveljünk introvertált gyereket?
 <!-- ## 11 -- Hogy neveljünk csendes gyerekeket egy hangos világban? -->
 
 - első benyomás: egyáltalán csak legyünk tisztában vele (szülőként!), hogy más típusok is vannak
