@@ -4,13 +4,16 @@ title: Thich Nhat Hanh - A tudatosság csodája
 pages: 140
 date: 2020-11-14 00:01
 excerpt: >
-    TODO
+    John Yates tudományos és kissé talán hideg megközelítése után úgy gondoltam, nem árthat egy kicsit *melegebb* nézőponttal kiegészíteni a meditáció körbejárását.
+    A netes ajánlások alapján erre Thich Nhat Hanh a legalkalmasabb.
+    Barátunk egy vietnámi Buddhista szerzetes, zen mester, önkéntes segítő és béke nagykövet, aki számos művében hirdeti a tudatosság és az együttérzés alapjait.
+    A tudatosság csodája című rövid kis könyve pedig számos kritika szerint a "legjobb bevezetés" a témába.
 ---
 
-[John Yates]({% post_url 2020-05-08-john-yates-the-mind-illuminated-alapok %}) tudományos és kissé talán hideg megközelítése után úgy gondoltam, nem árthat egy kicsit *melegebb* nézőponttal kiegészíteni a meditáció témakörét.
-A netes ajánlások alapján erre pedig Thich Nhat Hanh a legalkalmasabb -- akit tanítványai Thay-nek (vagyis tanárnak) szólítják.
+[John Yates]({% post_url 2020-05-08-john-yates-the-mind-illuminated-alapok %}) tudományos és kissé talán hideg megközelítése után úgy gondoltam, nem árthat egy kicsit *melegebb* nézőponttal kiegészíteni a meditáció körbejárását.
+A netes ajánlások alapján erre Thich Nhat Hanh a legalkalmasabb -- avagy "Thay" (azaz "tanár"), ahogy a tanítványai szólítják.
 Barátunk egy vietnámi Buddhista szerzetes, zen mester, önkéntes segítő és béke nagykövet, aki számos művében hirdeti a tudatosság és az együttérzés alapjait.
-Itt [A tudatosság csodája](https://www.goodreads.com/book/show/95747.The_Miracle_of_Mindfulness){:target="_blank"} (eredetileg "The Miracle of Mindfulness") című rövid kis könyvét nézzük át, ami számos kritika szerint a "legjobb bevezetés" a tudatosságba.
+[A tudatosság csodája](https://www.goodreads.com/book/show/95747.The_Miracle_of_Mindfulness){:target="_blank"} (eredetileg "The Miracle of Mindfulness") című rövid kis könyve pedig számos kritika szerint a "legjobb bevezetés" a témába.
 
 Előre kiemelném (mint ahogy a szerző maga is kiemeli egy ponton), hogy az itt hirdetett "ezoterikusabb" dolgok **nem** szándékoznak filozófiai állásfoglalásként hatni.
 Egy teljesen ateista és anti-spiritualista szemszögből is nagyon hasznos a meditáció a fejünk kitisztítására, a relaxációra, a megfontoltabb döntésekre, és úgy általában a jobb (vagy legalábbis jobbnak vélt) életminőség érdekében.
@@ -223,46 +226,45 @@ Ha pedig a légzéses önmagában már megy, akkor mellé jöhetnek különböz�
 
 ## <a name="3"></a>Felismerések
 
-1. testi és fizikai formák
-2. érzések
-3. érzékelések
-4. mentális működés
-5. öntudat
+A mester a meditáció és a jelen megélése mellett három területet emel ki, amin gondolkozhatnánk:
 
-- a fenti 5 "régió" mind egyesül bennünk
+- **Minden összefügg.**
+Az asztalhoz kellett fa, szögek, és egy ács.
+De a fához kellett egy erdő, amihez mag és napsütés és eső...
+A szögekhez érc és tűz és kovács...
+Az ácshoz pedig szülők, akik egy ácsot neveltek, hozzájuk pedig nagyszülők...
 
-- interdependence (minden összefügg), impermanence (semmi nem tart örökké), compassion (együttérzés)
-    - összefüggés
-        - az asztalhoz kellett fa, és szögek, és egy ács
-        - de a fához kellett egy erdő, amihez napsütés és eső...
-        - a szögekhez érc és kovács...
-        - az ácshoz pedig szülők, akik egy ácsot neveltek...
-        - "A person who looks at the table and can see the universe is a person who can see the way."
-        - ha meglátjuk, hogy minden egy, és egyben ott van minden (és aztán ezt saját magunkra is tudjuk alkalmazni), akkor oda jutunk, hogy (kitaláltátok) minden összefügg
-            - ez a Buddhista "hamis én" levetkőzése, ami után a legtöbb világi félelemtől és fájdalomtól megszabadulhatunk
-    - mulandóság
-        - a halál is az élet része, ezért ha nem vagyunk felkészülve a halálra, akkor nem vagyunk felkészülve az életre sem (teljesen legalábbis semmiképp)
-        - erre van is egy bizonyos "tetem meditáció", ahol szándékosan azon gondolkozunk, hogy válik egy hulla csonttá majd semmivé
-        - szembenézünk vele, hogy márpedig velünk is ez lesz... és ez nem rossz. se nem jó. egyszerűen ez van.
-        - viszont pont ettől lesz értékes az élet, és ezért kell kihasználnunk, amíg élünk (kapcsolat a sztoikus dolgokhoz)
-    - együttérzés
-        - ha az összefüggés és az mulandóság --> emberi élet értékessége megvan, akkor innen már egyenesen következik az együttérzés
-        - ide köthető a "bánjunk úgy másokkal, mint ahogy szeretnénk, hogy ők bánjanak velünk" is, hiszen ha a másik is mi magunk vagyunk... :)
+    > Aki egy asztalra nézve az egész világot látja, az ismeri az utat.
+    > > A person who looks at the table and can see the universe is a person who can see the way.
 
-<!-- ## A mandulafa a kertedben -->
+    Ha meglátjuk, hogy minden egy, és egyben ott van minden (és aztán ezt saját magunkra is tudjuk alkalmazni), akkor oda jutunk, hogy (kitaláltátok) minden összefügg.
+    Ez a Buddhista "hamis én" levetkőzése, ami után a legtöbb világi félelemtől és fájdalomtól megszabadulhatunk.
 
-- ha egyszer kinyílik a szemünk, akkor jön az együttérzés
-    - magunk felé, amiért eddig ennyi értelmetlen szenvedésen átestünk
-    - és másokért, akik még ezt nem látják, és ezért továbbra is értelmetlenül szenvednek
-- a meditáció nem menekülés az életünk elől, hanem egy szemtől szembe találkozás vele
+- **Semmi nem tart örökké.**
+A halál is az élet része, ezért ha nem vagyunk felkészülve a halálra, akkor nem vagyunk felkészülve az életre sem -- teljesen legalábbis semmiképp.
+Erre van is egy bizonyos "tetem meditáció", ahol szándékosan azon gondolkozunk, hogy válik egy hulla csonttá majd semmivé.
+Szembenézünk vele, hogy márpedig velünk is ez lesz...
+És ez nem rossz.
+Se nem jó.
+Egyszerűen ez van.
+Viszont pont ettől lesz értékes az élet, és ezért kell kihasználnunk, amíg élünk.
+Újabb kapcsolat a [sztoikus dolgokhoz]({% post_url 2020-06-12-seneca-erkolcsi-levelek-2 %}#halál)...
 
-<!-- ## Három csodás válasz -->
+- **Az együttérzés természetes.**
+Az összefüggés miatt mind összetartozunk (szigorúbb metafizikai értelmezésben szó szerint *egyek* vagyunk).
+A mulandóságból pedig levonhattuk az emberi élet értékességét.
+Ha ezek megvannak, akkor innen már egyenesen következik az együttérzés.
+Ide köthető a "bánjunk úgy másokkal, mint ahogy szeretnénk, hogy ők bánjanak velünk" is, hiszen ha a másik is mi magunk vagyunk...
 
-- mindig az épp most a legfontosabb: az, amit csinálunk, és az, akivel vagyunk
-    - ha azt nem tudjuk élvezni, akkor semmit nem fogunk tudni
-    - ha neki nem tudunk segíteni, akkor senkinek nem fogunk tudni
+    Ha kinyílik a szemünk, akkor az együttérzés egy természetes mellékhatás.
+    Magunk felé, amiért eddig annyi értelmetlen szenvedésen átestünk.
+    És másokért, akik még ezt nem látják, és ezért továbbra is értelmetlenül szenvednek.
+    A meditáció nem menekülés az életünk elől, hanem egy szemtől szembe találkozás vele.
 
-- összefüggés, hála, halál, egy kedves elhunyt rokon, együttérzés a legutálatosabb "ellenségünkkel", a világ valamelyik szükségtelen szenvedése, hogyan segíthetnénk, elkülönülés a saját egonktól és eredményeinktől (ha minden összefügg, akkor azok sem csak a mi érdemeink ugye)
+Szóval ha a légzésünk figyelése önmagában már piskóta, akkor agyaljunk egy kicsit a dolgok összefüggésein, vagy hogy mi mindenért lehetünk hálásak.
+Különítsük el az eredményeinket a saját egonktól -- hiszen ha minden összefügg, akkor ugye azok sem csak a mi érdemeink.
+Gondoljunk a halálra, egy kedves elhunyt rokonra, vagy próbáljunk meg együttérezni a legutálatosabb "ellenségünkkel".
+Vegyük a világ valamelyik szükségtelen szenvedését, és nézzük meg, hogyan segíthetnénk.
 
 <br>
 
@@ -287,8 +289,13 @@ Ha pedig a légzéses önmagában már megy, akkor mellé jöhetnek különböz�
 
 ## Összefoglalás
 
-- visszatekintve: valószínűleg érdemes lett volna mégis ezzel kezdeni Yates kódexe helyett
-    - lehet, hogy ott sokkal nyugatiasabban konkrétak és részletesek a tippek, amik az elmélyülésben talán jobban segítenek
-    - de az alapok itt is megvannak, és hozzá egy sokkal tömörebb, melegszívűbb, és kevésbé száraz csomagolásban
-- és habár én ebből megint csak a lényeget igyekeztem leszűrni, már csak a hangnem miatt tudom ajánlani az eredeti álolvasását is.
-- addig pedig ne feledjünk *jelen* lenni
+Az elsődleges üzenet egyértelmű: mindig az **épp most** a legfontosabb!
+Az, amit épp csinálunk -- mert ha azt nem tudjuk élvezni, akkor semmit nem fogunk tudni.
+És az, akivel épp vagyunk -- mert ha neki nem tudunk segíteni, akkor senkinek nem fogunk tudni.
+Az épp most megéléséhez pedig továbbra is a meditáció, a légzésünk figyelése, és a folyamatos tudatosság az út.
+
+Visszatekintve, valószínűleg érdemes lett volna mégis ezzel kezdeni Yates kódexe helyett.
+Lehet, hogy ott sokkal nyugatiasabban konkrétak és részletesek a tippek...
+De az alapok itt is megvannak, és hozzá egy sokkal tömörebb, melegszívűbb, és kevésbé száraz csomagolásban.
+És habár én ebből megint csak a lényeget igyekeztem leszűrni, már csak a hangnem miatt tudom ajánlani az eredeti átolvasását is.
+Addig pedig ne feledjünk *jelen* lenni!
