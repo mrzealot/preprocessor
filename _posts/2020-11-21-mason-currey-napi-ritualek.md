@@ -5,21 +5,20 @@ pages: 304
 date: 2020-11-21 00:01
 excerpt: >
     A mai bejegyzés két alapra is épít.
-    Egyrészt világos volt, hogy a Totto chan párjának valami életrajz-szerűt illene keresnem.
+    Egyrészt világos volt, hogy a Totto-chan párjának valami életrajz-szerűt illene keresnem.
     Másrészt a saját napirendemmel való folyamatos küzdelem természetes módon sodor abba az irányba, hogy mások életrajzában is leginkább a rendszert keressem.
-    Hogy ők hogy birkóztak meg a mindennapokkal -- amik ugye hajlamosak beleavatkozni az ember terveibe.
-    Ezek fényében képzelhetitek, mekkora "Aha!" pillanat volt beleakadni Mason Currey-be, először a blogján, majd a Napi rituálék című könyvén keresztül.
+    Ezek fényében jelentős "Aha!" pillanat volt beleakadni Mason Currey Napi rituálék című könyvébe.
 ---
 
 A mai bejegyzés két alapra is épít.
-Egyrészt világos volt, hogy a [Totto chan]({% post_url 2020-05-22-tetsuko-kuroyanagi-totto-chan %}) párjának valami életrajz-szerűt illene keresnem.
+Egyrészt világos volt, hogy a [Totto-chan]({% post_url 2020-05-22-tetsuko-kuroyanagi-totto-chan %}) párjának valami életrajz-szerűt illene keresnem.
 Másrészt a saját napirendemmel való folyamatos küzdelem természetes módon sodor abba az irányba, hogy mások életrajzában is leginkább a rendszert keressem.
 Hogy ők hogy birkóztak meg a mindennapokkal -- amik ugye hajlamosak beleavatkozni az ember terveibe.
 Ezek fényében képzelhetitek, mekkora "Aha!" pillanat volt beleakadni Mason Currey-be, először a [blogján](https://dailyroutines.typepad.com/){:target="_blank"}, majd a [Napi rituálék](https://www.goodreads.com/book/show/15799151-daily-rituals){:target="_blank"} című könyvén keresztül.
 
 Currey ugyanis kismillió híres, kreatív ember hétköznapjaiba nyújt egy-egy rövid betekintést.
-Einstein reggelijétől kezdve Beethoven fürdési furcsaságain keresztül Edison alvási szokásaiig van itt minden.
-Ilyen szemszögből nézve ez egy elég "felületes" könyv, ami csak az alkotás körülményeivel foglalkozunk, nem magukkal az alkotásokkal.
+Einstein reggelijétől kezdve Beethoven fürdési furcsaságain keresztül Edison alvási szokásáig van itt minden.
+Ilyen szemszögből nézve ez egy elég "felületes" könyv, ami csak az alkotás körülményeivel foglalkozik, nem magukkal az alkotásokkal.
 De ha elég sok példás ember életét nézzük elég sokáig (és elég messziről), akkor előbb-utóbb elkezd kirajzolódni pár közös vonás.
 
 Megláthatjuk, hogy mikor érdemes csinálni valamit, mennyire hagyjuk magunkat elaprózódni, vagy hogy hogyan egyeztessük össze a nagy projektjeinket a élet unalmas, de elkerülhetetlen dolgaival.
@@ -99,7 +98,7 @@ Zabált, piált, drogozott, és egy igazi partiállat volt délutántól hajnali
 Arthur Miller is teljesen rendszertelenül írt, és az így született irományok nagy részét utána össze is tépte.
 Mellettük pedig számtalan példa, akik változatos stimulánsokkal helyettesítették az önfegyelmet -- kávé, nikotin, és meglepően sok amfetamin.
 Vagy mert azt hitték, hogy csak így tudnak alkotni, vagy "csak úgy"...
-De volt olyan is, aki a gyakoribb izoláció helyett épp a figyelemeltereléseket kereste, és csak telefonálás/gyerekzsibaj és gyakori megzavarások mellett dolgozott hatékonyabban.
+De volt olyan is, aki a gyakoribb izoláció helyett épp a figyelemeltereléseket kereste, és csak telefonálás/gyerekzsibaj és gyakori megzavarások mellett dolgozott hatékonyan.
 
 A lényeges tanulság, hogy a látszólagos káosz ellenére a **fontossági sorrend** még így is fellelhető mindenkinél!
 Bacon-nél minden délelőtt a festés volt az első, és csak utána a minden más.
@@ -126,7 +125,7 @@ Friedrich Schiller csak rohadó almák szagára volt képes alkotni...
 
 Nem ragozom.
 Annyit emelnék csak ki, hogy a kellően elmélyült emberek szerintem mind különcök.
-Aki nem, az valószínűleg csak még nem találta meg.
+Aki nem, az valószínűleg csak még nem találta meg a saját furcsaságát.
 Az persze más kérdés, hogy ezt mennyire "engedik ki" magukból, és mennyire vállalják fel a világ előtt.
 De ha úgy érzik, hogy ezek segítik őket a céljaik elérésében, akkor belemennek.
 
@@ -147,13 +146,13 @@ Az abszolút rend természetesen csak egy skála végpontja, mint ahogy az abszo
 Mozart például a társasági élet és az anyagiak fenntartása miatt folyamatosan elfoglalt volt, ezért oda szorította be a komponálást, ahova tudta.
 A reggel ugyan itt is kiemelt szerepet kap (korábban felkelni és az egyebek előtt beiktatni az igazi munkát), de az ez utáni fél-káoszban is be-besúvasztott egy kicsit, amikor csak tehette.
 
-Voltaire ezzel szemben szinte folyamatosan dolgozott (napi 18-20 órákat, akár), amibe néha belefért egy kis kaja plusz "birtoklátogatás".
+Voltaire ezzel szemben szinte folyamatosan dolgozott (napi 18-20 órákat, akár), amibe néha belefért egy kis kaja plusz birtoklátogatás.
 Matisse is a munkamániájáról volt híres -- ami továbbra sem "rendszer", csak egyszerűen szinte minden más hiánya.
 Ez lehet akár pozitív is annak, aki megteheti, de legtöbbünknek szerintem inkább a Mozart (vagy a rendszeretőeknek a Trollope) modell áll közelebb a megvalósíthatóhoz.
 
 Benjamin Franklin nagy rajongója lett volna a totál rendszernek, de tartani sajnos nem igazán tudta.
-Ez nem jelentette viszont, hogy nem **próbálta** kihozni magából, amit lehetett!
-Freud is csak úgy "bírta" a túlzsúfolt napjait, hogy minden évben 3 hónapos "nyaralást" tartottak a családdal -- plusz úgy szivarozott mellé, mintha muszáj lenne.
+Ez nem jelentette viszont, hogy nem *próbálta* kihozni magából, amit lehetett!
+Freud is csak úgy bírta a túlzsúfolt napjait, hogy minden évben 3 hónapos nyaralást tartottak a családdal -- plusz úgy szivarozott mellé, mintha muszáj lenne.
 Gertrude Stein is csak kb. napi fél órákat tudott dolgozni.
 De mivel nem hagyta, hogy ez elriassza, ezért azok a napi fél órák is szépen összeadódnak az évek során.
 
