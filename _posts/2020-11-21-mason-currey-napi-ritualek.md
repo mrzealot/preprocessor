@@ -72,7 +72,7 @@ Fizetett egy embert, aki minden nap kávéval kelti, hogy 5:30-tól letudhassa a
 Ha pedig két és fél óránál fejezett be egy könyvet, akkor elővett egy tiszta lapot, és a maradék fél órában még nekilátott a következőnek.
 
 Miró hasonlóan mániás (szinte kényszerbeteg) rendszert tartott fent, hogy a depresszióját féken tartsa.
-De hát egy szigorú napirend még mindig jobb orvosság, mint szétgyógyszerezni vagy fejbelőni magunkat, nem?
+De hát egy szigorú napirend még mindig jobb orvosság, mint szétgyógyszerezni vagy fejbe lőni magunkat, nem?
 Thomas Mann szintén 9-től délig tudta le a napi fontos dolgokat, és majd aztán jöhet minden más.
 Goethe szerint is reggel érdemes, amikor még "nem zaklatják fel az élet abszurd trivialitásai".
 
@@ -92,7 +92,7 @@ De mind tudták, hogy miért teszik, és az önmegvalósításuk megérte az ál
 ## <a name="kaosz"></a>Káosz
 
 Persze attól, hogy a rend az általánosabb, voltak bőven kaotikus figurák is.
-Francis Bacon például az élete nagyját hedonisztikus élvezkedésben töltötte.
+Francis Bacon például az élete nagyját hedonista élvezkedésben töltötte.
 Zabált, piált, drogozott, és egy igazi partiállat volt délutántól hajnalig.
 
 Arthur Miller is teljesen rendszertelenül írt, és az így született irományok nagy részét utána össze is tépte.
@@ -102,7 +102,7 @@ De volt olyan is, aki a gyakoribb izoláció helyett épp a figyelemelterelések
 
 A lényeges tanulság, hogy a látszólagos káosz ellenére a **fontossági sorrend** még így is fellelhető mindenkinél!
 Bacon-nél minden délelőtt a festés volt az első, és csak utána a minden más.
-Miller is addig kínozta magát, amíg az összetépések közepedte valami csak össze nem jött.
+Miller is addig kínozta magát, amíg az összetépések közepette valami csak össze nem jött.
 A többiek pedig azért *engedték* annak a sok stimulánsnak, hogy fokozatosan tönkretegyék az egészségüket, mert akkora hangsúlyt helyeztek az alkotási folyamatra.
 
 <br>
@@ -144,7 +144,7 @@ De ha úgy érzik, hogy ezek segítik őket a céljaik elérésében, akkor bele
 
 Az abszolút rend természetesen csak egy skála végpontja, mint ahogy az abszolút káosz vagy a teljes különcség is -- a nagy többség valahol félúton talál magának helyet.
 Mozart például a társasági élet és az anyagiak fenntartása miatt folyamatosan elfoglalt volt, ezért oda szorította be a komponálást, ahova tudta.
-A reggel ugyan itt is kiemelt szerepet kap (korábban felkelni és az egyebek előtt beiktatni az igazi munkát), de az ez utáni fél-káoszban is be-besúvasztott egy kicsit, amikor csak tehette.
+A reggel ugyan itt is kiemelt szerepet kap (korábban felkelni és az egyebek előtt beiktatni az igazi munkát), de az ez utáni fél-káoszban is be-besuvasztott egy kicsit, amikor csak tehette.
 
 Voltaire ezzel szemben szinte folyamatosan dolgozott (napi 18-20 órákat, akár), amibe néha belefért egy kis kaja plusz birtoklátogatás.
 Matisse is a munkamániájáról volt híres -- ami továbbra sem "rendszer", csak egyszerűen szinte minden más hiánya.
