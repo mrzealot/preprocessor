@@ -67,7 +67,7 @@ Vasárnap végre akad pár pozitívabb kicsengésű esemény is: apácákkal bes
 Később viszont újra indul a káosz, amikor randizik egyet egy régebbi csajával (Sally, aki nem a régi szerelem, csak egy "jó lesz ez is" szintű csaj).
 De jelenlegi állapotában már Sally is megtenné.
 Ki is fakad neki, hogy mennyire elege van ebből a hamis életből, és hogy menjenek el valami erdei kunyhóba együtt.
-Persze a visszautasításra ismét a jellemző hangulatingadozásával reagál, beszól Sally-nek, és csak égeti a hidakat.
+Persze a visszautasításra ismét a jellemző hangulatingadozásával reagál, beszól Sally-nek, és csak égeti a hidakat maga mögött.
 
 Egy bárban alaposan beiszik, majd éjszaka a Central Parkban fagyoskodva (sokadszorra) a halott öccsére gondol, akiért látszólag még most is gyászol.
 Végül csak hazamegy, beosonni a kishúgához Phoebe-hez -- ami sikerül is észrevétlenül, hiszen a szülei épp nincsenek otthon.
@@ -85,11 +85,11 @@ Vagy csak úgy általában a gyerekkori ártatlanságra ezzel a sok hamis felnő
 A nap zárásaként átmegy egy régi kedvenc tanárához aludni, aki szintén próbál a lelkére beszélni.
 Sőt, látszólag ebből a megkomolyodási üzenetből valami talán még át is megy.
 De aztán Holden arra ébred, hogy a tanár ott ül mellette a sötétben és megérinti a fejét -- amit ő elég perverznek talál ahhoz, hogy teljesen beszarjon és szó szerint elmeneküljön.
-Egyre jobban kilengő depresszió, pánikroham, és Holden végül eldönti, hogy elmenekül valahova, ahol senki nem ismeri.
+Egyre jobban kilengő depresszió, pánikroham, és Holden végül eldönti, hogy megszökik valahova, ahol senki nem ismeri.
 De aztán újra találkozik a húgával (elméletileg búcsú gyanánt), és miatta meggondolja magát.
-Inkább (örömében sírva) nézi, ahogy Phoebe vidáman felül egy körhintára.
+Inkább örömében sírva nézi, ahogy Phoebe vidáman felül egy körhintára.
 
-A végén kiderül, hogy mindezt valami elmegyógy-szerűségből visszatekintve meséli -- ami, lássuk be, rá is fért.
+A végén kiderül, hogy mindezt valami elmegyógyintézet-szerűségből visszatekintve meséli -- ami, lássuk be, rá is fért szegény depis fejére.
 Nincs viszont a szánkba rágva a happy end, hiszen Holden megnyilvánulásai alapján egyáltalán nem garantált, hogy a kiengedése után nem ugyanezen a lejtőn megy majd tovább...
 
 <br>
@@ -122,9 +122,9 @@ Ami első körben feltűnik, az a rengeteg tini szleng, és a hatalmas túlzáso
 > [...] anyámnak már az is elég, ha valahol Szibériában köhögsz, azt is meghallja.
 > > [...] all you have to do to my mother is cough somewhere in Siberia and she'll hear you.
 
-Szerintem a saját kamasz korunkra visszagondolni azért nem olyan hatásos, mert az emlékek sokkal könnyebben torzíthatnak.
+Szerintem a saját kamasz korunkra visszagondolni azért nem olyan hatásos "ébresztő eszköz", mert az emlékek sokkal könnyebben torzíthatnak.
 De Holden-t külső szemlélőként látni igencsak erős és élénk bemutatása, hogy ebben a tini hormonviharban mekkora idiótaságokat tudunk csinálni milyen nagy magabiztossággal.
-A legjobb, hogy ezt a meggyőződést sokszor az sem tudja tompítani, ha mi magunk is tisztában vagyunk vele, hogy nem értünk valamihez.
+A legjobb, hogy a meggyőződésünket sokszor az sem tudja tompítani, ha mi magunk is tisztában vagyunk vele, hogy nem értünk valamihez.
 
 > Azt nem igazán tudom, hogy hogy értem, de komolyan mondom.
 > > I don't exactly know what I mean by that, but I mean it.
@@ -140,6 +140,7 @@ Az ő szemében a halott öccse, a kishúga, vagy egy utcán dalolászó kisfiú
 A baj tehát nem azzal van, ami ellen kiállunk, hanem ahogy.
 Ha a felnőttlét semelyik részét nem vagyunk hajlandóak elfogadni őszinteként, akkor természetes, hogy igyekszünk majd egyre jobban a gyerekségünkbe kapaszkodni.
 De a felnövés elkerülhetetlen, a változás az élet része.
+És ezzel csak a saját boldogságunkat lehetetlenítjük el.
 
 Egy másik visszatérő motívum a szexuális zavarodottság.
 Holden egyáltalán nem tudja összeegyeztetni a fizikai vonzalmait és hajlamait azzal, hogy igazából egyik lányt sem szereti igazán.
@@ -149,6 +150,7 @@ Szerintem ezért nem hívja fel a régi szerelmét sem -- nem akarja megtörni a
 
 Amire itt szükség lenne, az némi flexibilitás.
 Megtartani az eredetiség felé törekvést, de úgy, hogy közben azért a képmutatókkal teli világban is megtalálhassuk a helyünket.
+Csak hát a "kompromisszum" nem igazán mondható a kamaszkor jelszavának.
 
 <br>
 
@@ -174,7 +176,7 @@ Megtartani az eredetiség felé törekvést, de úgy, hogy közben azért a kép
 
 ## Összefoglalás
 
-Holden barátunk egy igen sűrű hétvégén van túl
+Holden barátunk egy igen sűrű hétvégén van túl, de én legalább is szeretném hinni, hogy innen már majd felfelé vezet az útja.
 Tanulságként a következőket emelném ki:
 
 - Jó ötlet minél eredetibbnek maradni egy hamis világban, de ne legyünk annyira képtelenek a kompromisszumra, hogy ebbe bele is őrüljünk!
@@ -185,4 +187,4 @@ Tanulságként a következőket emelném ki:
 
 Ezzel pedig zárul is az új könyvek sora az évre -- de a heti bejegyzések sora semmiképp!
 Decemberben az eddigiek áttekintésével, témánkénti összefoglalásával és évértékeléssel fogunk foglalkozni.
-Januártól pedig már egy annál erősebb alapra építhetünk...
+Januártól pedig már egy annál erősebb alapra építhetünk tovább...
