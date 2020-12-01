@@ -10,7 +10,21 @@ excerpt: >
 
 
 2020-01-03-marcus-aurelius-elmelkedesek
+
+    - egy év távlatából visszatekintve csak nőtt a szememben az értéke -- pedig már eleve kiindulásnak is elég magasan volt
+    - szinte minden előfordul benne, amiről a blogon beszéltünk
+        - mentális fejlődés, önmagunk fizikai karbantartása, világi minimalizmus, embertársaink helyes kezelése
+        - nyilván egy-egy dedikált könyv mélyebbre megy a saját témájába, de Marcus elmélkedései egy kompakt, egyszerű, és elegáns összefoglalót adnak majdnem mindenhez, amit a hétköznapokban fejben kellene tartanunk.
+
 2020-01-07-simon-blackburn-think
+
+    - durván absztrakt, de a maga tömörségében egy jó bevezetés a filozófia ágazataiba
+    - ami látszik, hogy a praktikus vonalon mindenképp az etikával kell majd még foglalkoznunk
+        - remélhetőleg úgy majd egyre jobban letisztul, mitől is lesz "jó" egy jó élet, mit várhatunk másoktól, vagy ők tőlünk, stb.
+    - egy másik, látszólag mellékes tanulság, amit így utólag kiemelnék: az emberiség történetében a nagy áttörések akkor szoktak történni, amikor **máshogy** kezdünk gondolkozni, nem csak *mást* vagy *másról*.
+        - ez pedig legtöbbször olyankor esik meg, ha a tudományterületek keverednek.
+        - mondjuk egy nem fizikus kezd kimondottan nem fizikusosan a fizikáról gondolkozni. Úgyhogy ne féljünk belefogni valamibe csak azért, mert az “nem a mi asztalunk”.
+
 2020-06-05-seneca-erkolcsi-levelek
 2020-06-12-seneca-erkolcsi-levelek-2
 2020-06-19-john-stuart-mill-a-szabadsagrol
