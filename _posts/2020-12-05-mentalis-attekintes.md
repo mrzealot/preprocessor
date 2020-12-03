@@ -51,6 +51,16 @@ excerpt: >
 
 
 2020-06-26-bertrand-russel-a-nyugati-filozofia-tortenete-1
+
+    - egy fontos tanulság, hogy nem a válaszok az annyira fontosak, hanem hogy egyáltalán feltegyük a megfelelő kérdéseket
+        - ebben pedig ismét Mill-t igazoljuk: mindegy, mire jutunk a végén, csak tudatosan jussunk oda
+        - különben a már jól megszokott társadalmi alapértelmezés alattomosan bekúszik az életünk minden területére
+    - a másik, hogy belsőleg következetesek legyünk a nézeteinkkel
+        - gyakori a kognitív disszonancia, vagyis az egymásnak ellentmondó nézetek együttes vallása
+        - de ha igazán egyenes, őszinte, etikus életet szeretnénk élni (ami a boldogsághoz is vezet), akkor mindenképpen el kell érnünk egy belső rendet
+
+
+
 2020-09-05-ralph-waldo-emerson-onbizalom
 
     - emerson esszéje már kb. feltételezi a mill-es tudatosságot, vagyis hogy tisztában vagyunk vele, mi jön belőlünk
@@ -93,11 +103,39 @@ excerpt: >
 
 
 2020-02-12-yuval-noah-harari-sapiens
+
+    - a történelem csak tovább erősíti a mentális mondelljeink fontosságát -- ez emel az állatok fölé
+        - ebből pedig az is látszik, hogy egy másik hozzáállás mennyire gyökeresen másmilyen életminőséget okozhat
+        - amit viszont ne felejtsük el, hogy semmi "természetes" nincs az épp aktuális meséinkben, mint az emberi jogok vagy a kapitalizmus -- csak most épp ezt találtuk ki
+            - nyilván van, amilyik hasznos és jó ötlet; van, amelyik kevésbé. de ettől egyik sem áll a megkérdőjelezhetőség felett!
+    - amit a történelem tanulmányozása nekem ez fölé adott, az főként a rövid távú kontra hosszú távú gondolkodás
+        - mondjuk hogy az ipari forradalom a hirtelen, látszólagos pozitívumok mellett mekkora távlati negatívumokkal jár a jelenlegi társadalmunkra
+        - az egykori luxusokból egyre inkább szükségletek lesznek, amik pedig extra kötelezettségekhez vezetnek
+        - és persze, utólag könnyen okos az ember, de akkor legalább utólag legyünk már okosak, és tanuljunk a hibáinkból -- mert épp most is ezt csináljuk magunkkal a kapitalizmus jegyében
+
 2020-07-31-joseph-campbell-a-hos-utja
+
+    - minden kornak a “sajátjává kell tennie” és újra el kell mondania a régi történeteket, hogy azok relevánsak maradhassanak, és tanulhassunk belőlük.
+        - régóta keringenek az igazság-morzsák, de minden kor tesz mellé olyan adalékokat is, amik a későbbi társadalmak számára nem túl vonzóak
+    - Campbell fő eredménye, hogy megpróbálta a mítoszok vázát letisztítani a kor-specifikus dolgoktól, hogy aztán az alappilléreket már könnyebben adaptálhassunk a saját életünkre, és praktikus hasznot húzhassunk belőlük
+    - Az alapfelvetés egyszerű: a kurkász kitalálja, hogy mi a baj a páciensekkel, Campbell pedig hoz rá egy odaillő mitológiai példát, amin keresztül (remélhetőleg) szemlélteti az alanynak, hogy hogyan is kellene viselkednie az adott helyzetben.
+    - a vallásokat is tudni kell a szó szerinti értelmezés helyett mitologikusan, a sorok között olvasva, tanulságokat keresve olvasni
+    - A leglényegesebb üzenet, hogy aktívan kövessük a saját boldogságunkat (“Follow your bliss!”).
+        - Lehet, hogy lesz elég pénz, de mire megyünk majd vele, ha mellette utáljuk az életünket?! Kövessük hát a belső késztetéseinket a külső parancsok helyett, találjuk meg a helyünket a világban, és olyan ajtók fognak megnyílni, ahol azt sem tudtuk, hogy van ajtó!
+
 2020-08-08-yuval-noah-harari-homo-deus
+
+    - Illetve egy kis kitérő: a jóslatoknak csak akkor van értelmük, ha hatnak az emberek viselkedésére (különben minek). Ha viszont hatnak, akkor az új viselkedés gyorsan okafogyottá vagy pontatlanná teheti a jóslatot. De ez nem azt jelenti, hogy nem működött… Hanem valószínűleg pont azt, hogy működött!
+    - Vagyis egy ilyen áttekintés haszna az, hogy utána talán jobban sikerülhet kitörni abból a mederből, amibe születtünk. Elvégre mindannyian természetesnek vesszük a körülményeinket. De ha emellé (egy valag tanulás/olvasás/utazás/stb. árán) nem keresünk alternatívákat, akkor úgy is maradunk. Ezt nevezzük útfüggőségnek, amire a szerző a pázsitokon keresztül hoz egy szemléletes példát.
 
 
 2020-02-04-steven-pressfield-a-muveszet-haboruja
+
+    - Az inspiráció amatőröknek való – mi többiek csak leülünk és munkához látunk. – Chuck Close
+    - Például az Ellenállás részben a fő jutalmunk szerintem nem az ellenállás jellemzése, hanem a megszemélyesítése. Körvonalazott karakterként tekinthetünk rá, ami nagyban megkönnyíti az ellene vívott harcot. A Professzionális elveknél nekem személy szerint a céges hozzáállás és önmagunk “alkalmazása” okozott egy kisebb mentális átrendeződést, amit nagyra értékelek, és igyekszem majd hatékonyan kihasználni. Az Ihlet szekcióban pedig a hierarchikus vs. territoriális metafora ütött erőset. Nem is feltétlen azzal, hogy olyan nagy újat mond, hanem hogy – legalábbis számomra – olyan új megvilágításba helyez ismert dolgokat.
+        - És itt jutunk el a szekció talán legfontosabb témájához: a “hierarchikus” és a “territoriális” nézőpontokhoz. A társadalmilag alapértelmezett hierarchikus látásmód – vagyis hogy próbáljuk magunkat mások fölé vagy alá besorolni – senkinek nem optimális, de egy művésznek meg főleg. Nagyobb csoportokban eleve nem működik, mert a modern világban, és a modern életstílus mellett egyszerűen túl sokan vagyunk ahhoz, hogy értelmes “rangsor” alakulhasson ki. Fogalmazhatnék úgy is, hogy mindenki szarik a Rolexedre. Vagy ahogy egy volt főnököm szokta mondani: “mindig van egy nagyobb BMW!” Ha viszont hozzászokunk a fel és le nézelődéshez a ranglistán, akkor pont csak arra nem fogunk nézni, amerre kellene: befelé.
+        - Ezzel szemben a territoriális, vagy területi látásmóddal úgy tekinthetünk magunkra, hogy megvan a “hazai pályánk”. A területünk, ami ellát minket; de nem ad, csak visszaad! Eleve attól lesz a területünk, hogy milyen sok energiát beletettünk. Ez a gondolkodás jelképezi azt, amikor önmagáért csináljuk, amit csinálunk, és ez megy a “karma számlánkra”. És ha így állunk hozzá – ahelyett, hogy olyat próbálnánk csinálni, amiből majd pénz lesz valahogy – azzal megnyitjuk magunkat a tudatalattink (a múzsa, az angyalok, a felsőbb értelem) irányába. Tulajdonképpen csak közvetítői leszünk az alkotásunknak, nem a forrása – legalábbis, nem tudatos forrása.
+
 2020-02-24-david-allen-intezz-el-mindent
 2020-08-15-peter-drucker-menedzsment-alapok
 2020-08-22-peter-drucker-onmagunk-menedzsmentje
