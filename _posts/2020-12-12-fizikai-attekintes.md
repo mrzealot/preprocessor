@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Fizikai áttekintés
-permalink: /2020/fizikai
-date: 2020-12-26 00:01
+permalink: /2020/fizikai-attekintes
+date: 2020-12-12 00:01
 excerpt: >
     TODO
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Szociális áttekintés
-permalink: /2020/szocialis
-date: 2020-12-26 00:01
+permalink: /2020/szocialis-attekintes
+date: 2020-12-19 00:01
 excerpt: >
     TODO
 ---

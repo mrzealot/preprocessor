@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mentális áttekintés
-permalink: /2020/mentalis
-date: 2020-12-26 00:01
+permalink: /2020/mentalis-attekintes
+date: 2020-12-05 00:01
 excerpt: >
     TODO
 ---
@@ -137,11 +137,71 @@ excerpt: >
         - Ezzel szemben a territoriális, vagy területi látásmóddal úgy tekinthetünk magunkra, hogy megvan a “hazai pályánk”. A területünk, ami ellát minket; de nem ad, csak visszaad! Eleve attól lesz a területünk, hogy milyen sok energiát beletettünk. Ez a gondolkodás jelképezi azt, amikor önmagáért csináljuk, amit csinálunk, és ez megy a “karma számlánkra”. És ha így állunk hozzá – ahelyett, hogy olyat próbálnánk csinálni, amiből majd pénz lesz valahogy – azzal megnyitjuk magunkat a tudatalattink (a múzsa, az angyalok, a felsőbb értelem) irányába. Tulajdonképpen csak közvetítői leszünk az alkotásunknak, nem a forrása – legalábbis, nem tudatos forrása.
 
 2020-02-24-david-allen-intezz-el-mindent
+
+    Nem egy konkret munkahoz vagy eletjelyzethez, hanem nagahoz az alkalmazkodashoz kell tudnunk kinel jobban alkalmazkodni
+
+    Ha nem lenne azltszervezes a cegnel, nem kevertek volna el a csomagunkat a postan, nem menne kozben otthon a felujitas, nem jonne epp a gyerek... Akkor jobban menne persze magunktol is. De mindig lesz valami, ami megprobal belekopni a levesbe. Ezert a produktivitasunkat inkabb az fogja nagy atlagban meghatarozni, h hogyan tudunk alkalmazkodni
+
+    A kihívás ott van, hogy összeházasítsuk a magas szintű, idealisztikus céljainkat az alacsony szintű, hétköznapi melóval.amíg az alsó rétegek nincsenek irányítás alatt, addig el sem jutok odáig, hogy a magasabb indíttatásaimmal foglalkozzak.
+
+    A reszleteket nem ismezelnen, a lenyeg, h irjunk le mindent, slakitsunk ki egy tendszert, amiben megbizhatunk, hasznaljuk azt kulso agykent
+
+
 2020-08-15-peter-drucker-menedzsment-alapok
 2020-08-22-peter-drucker-onmagunk-menedzsmentje
+
+    Másrészt az eredményesség-központú szemlélet alapjában véve nem sokban tér el a vállalat vagy az egyén szintjén. Ha megtanuljuk koncentrálni az erőforrásainkat a mérhető fejlődés érdekében, akkor a cég mellett a saját életünket is ugyanúgy gatyába rázhatjuk. Szóval akkor is érdemes legalább magas szinten képben lenni, ha “csak” magunkat próbáljuk kordában tartani – mondjuk mint egy egyszemélyes céget…
+
+    Csak azt iranyithetjuk, amitmerunk
+
+    kővágós tanmese személyiségei jól mutatják, hogy valódi haladás nélkül is lehetünk borzasztóan elfoglaltak. Elvégre helyben is lehet gyorsan futni. Ezért is olyan fontos az eredmény-orientált gondolkozásmód, és a haladásunk folyamatos mérése!
+
+    Konszolidált idő blokkok
+
+    A dontesek kimenetei konkret lepesek, odaig csak egy csokor joszandek
+
+    nagyon fontosnak tartom az “általános műveltség” átértelmezését. Matek kontra pénzügyek kezelése, irodalom kontra élettanulságok és kapcsolatok, történelem kontra modern politika… A valóságtól szinte teljesen elszakadt oktatásunkat (és a későbbi, mélyen specializált szakmai tudásunkat) meg kell tanulnunk önállóan kiegészíteni, hogy teljes életet élhessünk!
+
+
+
 2020-09-12-cal-newport-deep-work
+
+    - Eredmény = Idő × Intenzitás, márpedig az idő továbbra is korlátozott (és valószínűleg másra is kell)
+        - úgyhogy ha többet szeretnénk magunkból kihozni, akkor érdemesebb az intenzitás vonalon gondolkozni
+    - a modern figyelemeltereléseket hajlamosak vagyunk csak a pozitívumaik alapján megítélni, az ár/érték arány helyett
+        - lehet, hogy hoznak jó dolgokat is, de ha cserébe folyton kibillentenek a mély koncentrációból, akkor cserébe súlyos károkat is okoznak
+        - csak ez nem mérhető olyan könnyen, ezért nincs szem előtt
+    - mindez nem csak gazdasági hasznokkal járhat (mert a mélyen koncentrálni képes és termelékeny munkaerő ritka és értékes), de még értelmet is adhat az életünknek (mint ahogy a Flow is megmondta)
+    - ha pedig elfogadtuk, hogy ez az irány, onnantól már "csak" be kell integrálni a napjainkba
+    - táblázzuk be reggelente a napunkat, hogy minden percnek meglegyen a maga feladata
+        - aztán ez persze sokszor fog borulni, de ha ennyire tudatosan foglalkozunk vele, akkor sokkal valószínűbb, hogy a nagyja tényleg arra fog menni, amire szeretnénk (és kellene)
+    - illteve a másik fő tanulság, hogy legyünk nehezen elérhetőek
+        - legyen a “nem” az alapértelmezett válaszunk. Magas szintet kell ugyanis minden teendőnek megugrania ahhoz, hogy a mély és értékes munkát értékelő rendszerünkben “igen” lehessen belőle!
+
+
 
 
 2020-05-08-john-yates-the-mind-illuminated-alapok
 2020-05-15-john-yates-the-mind-illuminated-kezdoknek
+
+    - és ha már mély koncentráció, a figyelem edzése, a tanultak megemésztése, stb., akkor nem mehetünk el a meditáció mellett
+    - jól kapcsolódik ezen felül a sztoicizmushoz is, hiszen a meditáció a megfelelő szemlélekmód kialakításában is sokat segíthet
+        - "Habár a fájdalom és az élvezet elkerülhetetlen részei minden ember életének, a szenvedés és a boldogság teljesen opcionálisak."
+    - praktikus céljaink a stabil figyelem és a folyamatos tudatosság
+        - vizuális példával élve: egyszerre legyen fókusz és perifériás látás
+        - hogy egyszerre tudjunk mélyen koncentrálni valamire, de közben a külvilág egyéb ingereire se legyünk vakok
+    - minderre sok praktikus tippet vettünk, de a legfontosabb, hogy ezeket ne aggódjuk túl
+        - mind csak segítség gyanánt szerepelnek, egyik sem törvény
+        - "Az a jó meditáció, amit megcsináltál – az egyetlen rossz pedig az, amit nem csináltál meg." -- Stephanie Nash
+    - idővel a lecsendesedett elme és a nagyobb önismeret miatt a meditáció segíthet csökkenteni a világi vágyakat, a kételyeinket, és a múlttal/jövővel kapcsolatos aggodalmainkat
+    - a végső cél, hogy az újonnan kitaposott, módosult tudatállapotok (nyugalom, öröm és "egykedvűség") átszivárogjanak a mindennapokba
+        - ezért a rendszeresség és a folyamatos tudatosság a fontos, nem az, hogy milyen tempóban haladunk!
+
+
 2020-11-14-thich-nhat-hanh-a-tudatossag-csodaja
+
+    - thich nhat hanh könyve technikai szempontból teljesen kompatibilis a yates-féle tippekkel, de a motivációnál sokkal inkább a jelen megélésére helyezi a hangsúlyt
+        - ha most nem tudunk boldogok lenni, akkor soha nem leszünk azok -- hiszen a jövőben várt pillanatokból is előbb vagy utóbb jelen lesz, amikorra már lesznek új terveink és vágyaink
+            - ha majd olyankor is az új jövőre koncentrálunk, akkor az a jelen is megéletlen marad
+        - és igen, ez vonatkozik az esős napokra, a depis időszakokra, a munkahelyi stresszel és idegesítő szomszédokkal tűzdelt hétköznapokra
+    - meditáljunk a figyelem mellett azért is, hogy a jelenben találjuk magunkat, és megtanuljuk boldogan megélni, ami épp történik
