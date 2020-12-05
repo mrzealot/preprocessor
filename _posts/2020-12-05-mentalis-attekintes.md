@@ -4,11 +4,14 @@ title: Mentális áttekintés
 permalink: /2020/mentalis-attekintes
 date: 2020-12-05 00:01
 excerpt: >
-    TODO
+    Az időközönkénti ismétlés minden jó tanulási módszerben alapkövetelmény.
+    Ezzel nem csak hogy visszakapaszkodunk arra a megértési szintre, ahova korábban már eljutottunk, de pluszban még a későbbi felejtési ütemünket is lassítjuk.
+    Ha ezt elégszer megtesszük, bizonyos dolgok örökre a fejünkbe vésődnek.
+    Én pedig őszintén hiszem, hogy amikről itt idén olvastunk, azok mindenkinek nyugodtan beéghetnek.
 ---
 
-Az időközönkénti ismétlés és az összefoglalás minden jó tanulási módszerben alapkövetelmény.
-Ezzel nem csak hogy visszakapaszkodunk arra a megértési szintre, ahova régebben már eljutottunk, de pluszban még a későbbi felejtési ütemünket is lassítjuk.
+Az időközönkénti ismétlés minden jó tanulási módszerben alapkövetelmény.
+Ezzel nem csak hogy visszakapaszkodunk arra a megértési szintre, ahova korábban már eljutottunk, de pluszban még a későbbi felejtési ütemünket is lassítjuk.
 Ha ezt elégszer megtesszük, bizonyos dolgok örökre a fejünkbe vésődnek.
 Én pedig őszintén hiszem, hogy amikről itt idén olvastunk, azok mindenkinek nyugodtan beéghetnek.
 
@@ -38,67 +41,67 @@ A héten a mentális dolgokkal kezdünk, ami a következőket takarja:
 
 ## <a name="filozofia"></a>Filozófia
 
-2020-01-03-marcus-aurelius-elmelkedesek
+Természetesen Marcus Aurelius [Elmélkedéseivel]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) kezdjük a szekciót, mint ahogy az egész blogot is ezzel kezdtük.
+És mit mondjak, egy év távlatából visszatekintve csak nőtt a szememben az értéke -- pedig már eleve elég magasan volt.
+Szinte minden előfordul benne, amiről eddig beszéltünk: mentális fejlődés, önmagunk fizikai karbantartása, világi minimalizmus, embertársaink helyes kezelése...
+Nyilván egy-egy dedikált könyv mélyebbre megy a saját témájába, de Marcus elmélkedései egy kompakt, egyszerű, és elegáns összefoglalót adnak majdnem mindenhez, amit a hétköznapokban fejben kellene tartanunk.
 
-    - egy év távlatából visszatekintve csak nőtt a szememben az értéke -- pedig már eleve kiindulásnak is elég magasan volt
-    - szinte minden előfordul benne, amiről a blogon beszéltünk
-        - mentális fejlődés, önmagunk fizikai karbantartása, világi minimalizmus, embertársaink helyes kezelése
-        - nyilván egy-egy dedikált könyv mélyebbre megy a saját témájába, de Marcus elmélkedései egy kompakt, egyszerű, és elegáns összefoglalót adnak majdnem mindenhez, amit a hétköznapokban fejben kellene tartanunk.
+Fő vesszőparipánk a sztoicizmus, amivel kapcsolatban leginkább a "címkézést" (vagyis az érzékelésünk, és az azokból fakadó érzéseink/gondolataink szétválasztását) emelném ki.
+Sztoikusként szó szerint megváltoztathatjuk a világunkat, ha más szemmel nézzük rá.
+Bármilyen külső tényező csak akkor lehet hatással ránk, ha azt mi hagyjuk.
+Válasszuk hát azt, hogy nem hagyjuk, és onnantól máris zavartalanul élhetünk.
 
-    - de amit a sztoikussággal kapcsolatban a leginkább kiemelnék, az a "címkézés" (vagyis az érzékelésünk, és az azokból fakadó érzéseink/gondolataink szétválasztása)
+Az univerzális elfogadás persze ránt magával sok más területet is -- például hogy hogyan készüljünk fel előre minden eshetőségre.
+Vagy mondjunk le önként a kényelmeinkről, amiket a sors bármikor elvehet.
+Vagy barátkozzunk meg a halállal, mert az is az élet természetes része.
+De igazából mind onnan fakad, hogy a külvilág dolgait megtanuljuk máshogy, számunkra hasznosabban felcímkézni.
 
-2020-01-07-simon-blackburn-think
+Fontos kiegészítést jelenthetnek Marcus barátunk elmélkedései mellé Seneca Erkölcsi levelei ([első rész]({% post_url 2020-06-05-seneca-erkolcsi-levelek %}), [második rész]({% post_url 2020-06-12-seneca-erkolcsi-levelek-2 %})).
+Ha másért nem is, azért mindenképpen, mert nem annyira maximalistán és egyből tökéletességre törekvően adják elő a sztoikusok elvárásait -- ezáltal pedig a "közemberek" megtérítéséhez talán alkalmasabbak.
+Itt is ugyanúgy felmerül az önfejlesztés, a minimalizmus, vagy a helyes szocializálódás, de minden Seneca-i mértékletességgel.
 
-    - durván absztrakt, de a maga tömörségében egy jó bevezetés a filozófia ágazataiba
-    - ami látszik, hogy a praktikus vonalon mindenképp az etikával kell majd még foglalkoznunk
-        - remélhetőleg úgy majd egyre jobban letisztul, mitől is lesz "jó" egy jó élet, mit várhatunk másoktól, vagy ők tőlünk, stb.
-    - egy másik, látszólag mellékes tanulság, amit így utólag kiemelnék: az emberiség történetében a nagy áttörések akkor szoktak történni, amikor **máshogy** kezdünk gondolkozni, nem csak *mást* vagy *másról*.
-        - ez pedig legtöbbször olyankor esik meg, ha a tudományterületek keverednek.
-        - mondjuk egy nem fizikus kezd kimondottan nem fizikusosan a fizikáról gondolkozni. Úgyhogy ne féljünk belefogni valamibe csak azért, mert az “nem a mi asztalunk”.
+Amitől én minden alkalommal lehidalok, hogy ezek az emberek 2000 éve halottak!
+Érezzük, hogy ezek milyen általános életbölcsességek, ha ilyen távlatból is kapásból alkalmazhatóak lennének egy modern életre?
 
-2020-06-05-seneca-erkolcsi-levelek
+<br>
 
-    - fontos kiegészítés Marcus mellé, mert nem annyira maximalistán és egyből tökéletességre törekvően adja elő a sztoikusok elvárásait
-    - ezáltal pedig a "közemberek" megtérítéséhez talán alkalmasabb
-    - itt is ugyanúgy felmerül az önfejlesztési, mint kötelezettség, az embertásraink kezelése, a mindenre felkészülés, a halál helyes szemlélete
+A sztoicizmus "kiszélesítése" gyanánt általánosabb áttekintést kaptunk Simon Blackburn [Think]({% post_url 2020-01-07-simon-blackburn-think %}) című könyvéből.
+Durván absztrakt, valóban, de a maga tömörségében egy jó bevezetés a filozófia különböző ágazataiba.
+Ami látszik, hogy a praktikus vonalon mindenképp az etikával kell majd többet foglalkoznunk.
+Remélhetőleg úgy majd egyre jobban letisztul, mitől is lesz "jó" egy jó élet, mit várhatunk másoktól, vagy ők tőlünk...
 
+Egy másik -- elsőre látszólag talán mellékes -- tanulság, amit így utólag kiemelnék: az emberiség történetében a nagy áttörések akkor szoktak történni, amikor **máshogy** kezdünk gondolkozni, nem csak *mást* vagy *másról*.
+Ez pedig legtöbbször olyankor esik meg, ha a tudományterületek keverednek.
+Mondjuk egy nem fizikus kezd kimondottan nem fizikusosan a fizikáról gondolkozni.
+Úgyhogy ne féljünk belefogni valamibe csak azért, mert az "nem a mi asztalunk".
 
-2020-06-12-seneca-erkolcsi-levelek-2
+További kiszélesítésért belefogtuk Bertrand Russel -- [A nyugati filozófia története]({% post_url 2020-06-26-bertrand-russel-a-nyugati-filozofia-tortenete-1 %}) című kódexébe is.
+Az ilyen tananyag iskolai környezetben könnyen korcsosulhatna évszám-fogalom-név kisdolgozatokba, de mi továbbra is igyekszünk az átfogó tanulságokkal foglalkozni.
+Az egyik fontos lecke, hogy nem annyira a válaszok a fontosak, hanem hogy egyáltalán feltegyük a megfelelő kérdéseket.
+Szinte mindegy, hogy mire jutunk a végén, csak tudatosan jussunk oda.
+Különben a már jól megszokott társadalmi alapértelmezés alattomosan bekúszik az életünk minden területére.
 
-    - minimalizmus + szocializálódás, de Seneca-i mértékletességgel
-    - ezek az emberek 2000 éve halottak!! értitek ti, hogy ezek milyen általános életbölcsességek, ha ilyen távlatból is kapásból alkalmazhatóak lennének az életünkre?!
+Egy másik tanulság, hogy figyeljünk a nézeteink következetességére!
+Gyakori "vétek" a kognitív disszonancia, vagyis az egymásnak ellentmondó nézetek együttes vallása.
+De ha igazán egyenes, őszinte, etikus életet szeretnénk élni (ami mellesleg a boldogsághoz is vezet), akkor mindenképpen el kell érnünk egy belső rendet és integritást.
 
+Ezeket visszhangozza John Stuart Mill [esszéje]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) is.
+A tudatosság jegyében vizsgálnunk kell, hogy mit miért hiszünk, és ezeket a hiteinket aztán bátran ütköztetni mások nézeteivel (nem pedig elhallgattatni őket).
+Csak így lehetünk bármennyire is "biztosak" az igazunkban.
+És mellesleg csak így lesz majd az a nézetünk mély hatással az életünkre -- mert nem csak úgy kaptuk, hanem megküzdöttünk érte.
 
+A szabadsággal kapcsolatban pedig ne felejtsük el, hogy az felelősséggel is jár!
+Mert hát igen, valóban látnunk kell, hogy mi mindenben vagyunk szabadok kísérletezni az életünkben -- gondolatok, érzések, vélemények, ízlés, foglalkozás, hobbi, vallás, párválasztás, önmegvalósítás, boldogság...
+De ebből adódóan viszont azt is látnunk kell, hogy ezáltal a mi felelősségünk olyan módon gondolkozni, olyan érzéseket megélni, olyan véleményeket formálni, stb., hogy "jó" életünk legyen.
 
-2020-06-19-john-stuart-mill-a-szabadsagrol
-
-    - **tudatosság** = vizsgálnunk kell, hogy mit miért hiszünk, ütköztetni mások nézeteivel (nem elhallgattatni őket), csak így lehetünk bármennyire is "biztosak" az igazunkban
-        - és mellesleg csak így lesz majd az a nézetünk mély hatással az életünkre... mert nem csak úgy kaptuk, hanem megküzdöttünk érte
-    - **szabadság** + **felelősség** = látnunk kell, hogy miben vagyunk szabadok kísérletezni az életünkben
-        - gondolatok, érzések, vélemények, ízlés, foglalkozás, hobbi, vallás, párválasztás, önmegvalósítás, boldogság
-        - de ebből adódóan viszont azt is látnunk kell, hogy a szabadságunkkal felelősség is jár!
-
-
-2020-06-26-bertrand-russel-a-nyugati-filozofia-tortenete-1
-
-    - egy fontos tanulság, hogy nem a válaszok az annyira fontosak, hanem hogy egyáltalán feltegyük a megfelelő kérdéseket
-        - ebben pedig ismét Mill-t igazoljuk: mindegy, mire jutunk a végén, csak tudatosan jussunk oda
-        - különben a már jól megszokott társadalmi alapértelmezés alattomosan bekúszik az életünk minden területére
-    - a másik, hogy belsőleg következetesek legyünk a nézeteinkkel
-        - gyakori a kognitív disszonancia, vagyis az egymásnak ellentmondó nézetek együttes vallása
-        - de ha igazán egyenes, őszinte, etikus életet szeretnénk élni (ami a boldogsághoz is vezet), akkor mindenképpen el kell érnünk egy belső rendet
-
-
-
-2020-09-05-ralph-waldo-emerson-onbizalom
-
-    - emerson esszéje már kb. feltételezi a mill-es tudatosságot, vagyis hogy tisztában vagyunk vele, mi jön belőlünk
-        - milyenek szeretnénk lenni, ha bármilyenek lehetnénk... mit mondanánk, hogyan viselkednénk, stb.
-    - emerson ehhez leginkább csak egy kis bíztatást tesz hozzá, hogy akkor csináljuk is
-        - merjük felvállalni önmagunkat mások előtt is, ne csak az otthonunk biztonságában
-        - ha tévedünk, merjünk változtatni, akárhogy is tűnik az a külső szemlélők számára
-        - alakítsuk olyanra a kapcsolatainkat, amikben nem kell megjátszanunk magunkat
-
+Emerson [esszéje]({% post_url 2020-09-05-ralph-waldo-emerson-onbizalom %}) már kb. feltételezi a Mill-es tudatosságot, vagyis hogy tisztában vagyunk vele, mi jön belőlünk.
+Milyenek szeretnénk lenni, ha bármilyenek lehetnénk...
+Mit mondanánk, hogyan viselkednénk, stb.
+Ő ehhez leginkább csak egy kis bíztatást tesz hozzá, hogy akkor csináljuk is!
+Merjük felvállalni önmagunkat mások előtt is, ne csak az otthonunk biztonságában.
+Ha tévedünk, merjünk változtatni, akárhogy is tűnik az a külső szemlélők számára.
+Alakítsuk olyanra a kapcsolatainkat, amikben nem kell megjátszanunk magunkat.
+Tömören összefoglalva: bízzunk magunkban!
 
 <br>
 
@@ -118,32 +121,28 @@ A héten a mentális dolgokkal kezdünk, ami a következőket takarja:
 
 ## <a name="pszichologia"></a>Pszichológia
 
-2020-01-18-csikszentmihalyi-mihaly-flow
+Csíkszentmihályi Mihály [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %})-ja gyakorlatilag egy pszichológiai továbbgondolása az alapvető sztoikus elvnek, miszerint a boldogságunk azon múlik, hogy milyen szemszögből tekintünk az életünkre.
+Ott ezt ugye csak megmondtuk, hogy "nézzük a dolgainkat pozitívabb megvilágításban"...
+A flow megpróbál abban is segíteni, hogy **hogyan**.
 
-    - a flow gyakorlatilag egy pszichológiai továbbgondolása az alapvető sztoikus elvnek, miszerint a boldogságunk azon múlik, hogy milyen szemszögből tekintünk az életünkre
-        - ott ezt ugye csak megmondtuk, hogy "nézzük a dolgainkat pozitívabb megvilágításban"... a flow megpróbál abban is segíteni, hogy **hogyan**
-    - a flow állapotban töltött idő (amikor teljesen belemerülünk abba, amit csinálunk) erősen korrelál a boldogságunkkal
-        - és habár vannak aktivitások vagy helyzetek amik jobban kompatibilisek a flow-val, bármilyen élethelyzetet alakíthatunk ilyenné a megfelelő hozzáállással
-        - ez tulajdonképpen az élményeink fejlesztése -- ugyanabban a környezetben ugyanaz történik velünk, de mi mégis jobban élvezzük, mert más lesz a nézőpontunk
-    - Az életnek nincs egy beépített, egy kaptafára készült “értelme”, de ettől mi még adhatunk neki!
+A flow állapotban töltött idő (amikor teljesen belemerülünk abba, amit csinálunk) erősen összefügg a boldogságunkkal.
+És habár vannak aktivitások vagy helyzetek amik jobban kompatibilisek a flow-val, bármilyen élethelyzetet alakíthatunk ilyenné a megfelelő hozzáállással.
+Ez tulajdonképpen az élményeink fejlesztése -- ugyanabban a környezetben ugyanaz történik velünk, de mi mégis jobban élvezzük, mert más lesz a nézőpontunk.
+Végső tanulságként oda jutunk, hogy habár az életnek nincs egy beépített, egy kaptafára készült “értelme”, attól mi még adhatunk neki!
 
+A sztoikus és a flow-s lecke mintegy sulykolásaként [Viktor Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) szintén megmutatja, miért érdemes különválasztani a külvilág ingereit attól, hogy hogyan reagálunk rájuk.
+Annyira hatásos ugyanis ez a módszer, hogy még a náci koncentrációs tábort is "emberként", méltósággal lehetett vele túlélni.
+Ettől persze nem volt gyalog-galopp, de még ilyen extrém terhelés mellett is működött az elv.
 
-2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre
+Frankl praktikus megvalósítása a Logoterápia, ami a múlt túrkálása helyett a jövő felé fordul, célt próbál adni, és az afelé törekvés vezet majd a boldogsághoz.
+Ez teljesen kompatibilis a sztoicizmussal, mert igazából semmi külső nem változik, csak a hozzáállásunk.
+És teljesen kompatibilis a flow-val is, mert a teljen válszélességgel valami felé törekvés nagy valószínűséggel flow élményt fog generálni.
 
-    - a sztoikus és a flow-s lecke mintegy sulykolásaként, Viktor Frankl szintén megmutatja, miért érdemes különválasztani a külvilág ingereit attól, hogy hogyan reagálunk rájuk
-        - annyira hatásos ez a módszer, hogy még a náci koncentrációs tábort is "emberként", méltósággal lehetett vele túlélni
-        - ettől persze nem volt gyalog-galopp, de még ilyen extrém terhelés mellett is működött az elv
-    - Frankl praktikus megvalósítása a Logoterápia, ami a múlt túrkálása helyett a jövő felé fordul, célt próbál adni, és az afelé törekvés vezet majd a boldogsághoz
-        - teljesen kompatibilis a sztoicizmussal, mert igazából semmi külső nem változik, csak a hozzáállásunk
-        - és teljesen kompatibilis a flow-val is, mert a valami felé törekvés is lehet flow élmény
-
-2020-07-03-bagdy-emoke-pszichofitness
-
-    - kicsit a modernebb életünkre szabott tanácsok
-        - mondhatni egy kis tüneti kezelés a mély filozófiai változások mellé
-        - kacagj, kocogj, lazíts, érints, segíts
-    - ami viszont továbbra is bele van üvöltve a képünkbe, hogy a miénk a felelősség
-        - a külső (esetünkben stresszt kiváltó) ingereket nem befolyásolhatjuk, de ha megtanulunk máshogy (helyesebben) reagálni rájuk, akkor jól is kijöhetünk az egészből
+Ha egy kicsit a modernebb életünkre szabott tanácsokra van szükség, akkor Bagdy Emőke [Pszichofitness]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %}) módszeréhez fordulunk stresszkezelési tippekért.
+Mondhatni egy kis tüneti kezelés, ami segítheti az átmenetet az esetleges mély filozófiai változások mellé.
+A fő pontok szimplán egy-egy szóval összefoglalhatók: kacagj, kocogj, lazíts, érints, és segíts!
+Ami viszont továbbra is bele van üvöltve a képünkbe, hogy a miénk a felelősség!
+A külső (esetünkben stresszt kiváltó) ingereket sokszor semmiben nem befolyásolhatjuk -- de ha megtanulunk máshogy (helyesebben) reagálni rájuk, akkor jól is kijöhetünk az egészből.
 
 <br>
 
