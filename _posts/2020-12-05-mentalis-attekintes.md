@@ -167,31 +167,42 @@ A külső (esetünkben stresszt kiváltó) ingereket sokszor semmiben nem befoly
 
 ## <a name="tortenelem"></a>Történelem
 
-2020-02-12-yuval-noah-harari-sapiens
+A történelem tanulmányozásához leginkább Yuval Noah Harari segítségét vettük igénybe.
+A [Sapiens]({% post_url 2020-02-12-yuval-noah-harari-sapiens %})-es áttekintés nagy emberi forradalmai például csak tovább erősítik a mentális mondelljeink fontosságát -- ez emel minket az állatok (és egyre inkább az istenek) fölé.
+Ebből pedig az is látszik, hogy egy másik hozzáállás mennyire gyökeresen másmilyen életminőséget okozhat.
+Amit viszont ne felejtsük el, hogy semmi "természetes" nincs az épp aktuális *meséinkben*, mint az emberi jogok vagy a demokrácia.
+Csak most épp ezt találtuk ki.
+Nyilván van, amilyik hasznos és jó ötlet; van, amelyik kevésbé.
+De ettől egyik sem áll a megkérdőjelezhetőség felett!
 
-    - a történelem csak tovább erősíti a mentális mondelljeink fontosságát -- ez emel az állatok fölé
-        - ebből pedig az is látszik, hogy egy másik hozzáállás mennyire gyökeresen másmilyen életminőséget okozhat
-        - amit viszont ne felejtsük el, hogy semmi "természetes" nincs az épp aktuális meséinkben, mint az emberi jogok vagy a kapitalizmus -- csak most épp ezt találtuk ki
-            - nyilván van, amilyik hasznos és jó ötlet; van, amelyik kevésbé. de ettől egyik sem áll a megkérdőjelezhetőség felett!
-    - amit a történelem tanulmányozása nekem ez fölé adott, az főként a rövid távú kontra hosszú távú gondolkodás
-        - mondjuk hogy az ipari forradalom a hirtelen, látszólagos pozitívumok mellett mekkora távlati negatívumokkal jár a jelenlegi társadalmunkra
-        - az egykori luxusokból egyre inkább szükségletek lesznek, amik pedig extra kötelezettségekhez vezetnek
-        - és persze, utólag könnyen okos az ember, de akkor legalább utólag legyünk már okosak, és tanuljunk a hibáinkból -- mert épp most is ezt csináljuk magunkkal a kapitalizmus jegyében
+Amit a történelem tanulmányozása nekem ez fölé adott, az főként a rövid távú kontra hosszú távú gondolkodás hatásvizsgálata.
+Mondjuk hogy a mezőgazdasági forradalom kényelmét milyen könnyen ellensúlyoztuk egy nagyobb népességgel, plusz munkát teremtve így mindenkinek.
+Vagy mondjuk hogy az ipari forradalom a hirtelen, látszólagos pozitívumok mellett mekkora távlati negatívumokkal jár a jelenlegi társadalmunkra nézve is.
+Általános szabály, hogy az egykori luxusokból egyre inkább szükségletek lesznek, amik pedig extra kötelezettségekhez vezetnek.
+És persze, utólag könnyen okos az ember, de akkor legalább utólag legyünk már okosak!
+Tanuljunk a hibáinkból -- nehogy újra kibasszunk magunkkal a kapitalizmus jegyében.
 
-2020-07-31-joseph-campbell-a-hos-utja
+A [Homo Deus]({% post_url 2020-08-08-yuval-noah-harari-homo-deus %})-ban a múltból a jövő felé fordultunk egy kicsit, de azt is csak a jelen érdekében.
+Hiszen a jóslatoknak is csak akkor van értelmük, ha hatnak az emberek viselkedésére (különben minek).
+Ha viszont hatnak, akkor az új viselkedés gyorsan okafogyottá vagy pontatlanná teheti a jóslatot.
+De ez nem azt jelenti, hogy nem működött...
+Hanem valószínűleg pont azt, hogy működött!
 
-    - minden kornak a “sajátjává kell tennie” és újra el kell mondania a régi történeteket, hogy azok relevánsak maradhassanak, és tanulhassunk belőlük.
-        - régóta keringenek az igazság-morzsák, de minden kor tesz mellé olyan adalékokat is, amik a későbbi társadalmak számára nem túl vonzóak
-    - Campbell fő eredménye, hogy megpróbálta a mítoszok vázát letisztítani a kor-specifikus dolgoktól, hogy aztán az alappilléreket már könnyebben adaptálhassunk a saját életünkre, és praktikus hasznot húzhassunk belőlük
-    - Az alapfelvetés egyszerű: a kurkász kitalálja, hogy mi a baj a páciensekkel, Campbell pedig hoz rá egy odaillő mitológiai példát, amin keresztül (remélhetőleg) szemlélteti az alanynak, hogy hogyan is kellene viselkednie az adott helyzetben.
-    - a vallásokat is tudni kell a szó szerinti értelmezés helyett mitologikusan, a sorok között olvasva, tanulságokat keresve olvasni
-    - A leglényegesebb üzenet, hogy aktívan kövessük a saját boldogságunkat (“Follow your bliss!”).
-        - Lehet, hogy lesz elég pénz, de mire megyünk majd vele, ha mellette utáljuk az életünket?! Kövessük hát a belső késztetéseinket a külső parancsok helyett, találjuk meg a helyünket a világban, és olyan ajtók fognak megnyílni, ahol azt sem tudtuk, hogy van ajtó!
+Az ilyen áttekintések haszna az, hogy utána talán jobban sikerülhet kitörni abból a mederből, amibe születtünk.
+Elvégre mindannyian természetesnek vesszük a körülményeinket.
+De ha emellé (egy valag tanulás/olvasás/utazás/stb. árán) nem keresünk alternatívákat, akkor úgy is maradunk -- ami, maradjunk annyiban, nem épp lesz a javunkra.
 
-2020-08-08-yuval-noah-harari-homo-deus
+Minden kornak a "sajátjává kell tennie" és újra el kell mondania a régi történeteket és tanulságokat, hogy azok relevánsak maradhassanak, és tanulhassunk belőlük.
+Régóta keringenek az igazság-morzsák, de minden kor tesz mellé olyan adalékokat is, amik a későbbi társadalmak számára nem túl vonzóak vagy hasznosak.
+Ezt hangsúlyozza Joseph Campbell is, miközben megpróbálja a mítoszok vázáról letisztítani a kor-specifikus dolgokat.
+Úgy aztán az alappilléreket már könnyebben adaptálhatjuk a saját életünkre, és praktikusan hasznosíthatjuk őket.
+Az eredmény [A hős útja]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %}).
 
-    - Illetve egy kis kitérő: a jóslatoknak csak akkor van értelmük, ha hatnak az emberek viselkedésére (különben minek). Ha viszont hatnak, akkor az új viselkedés gyorsan okafogyottá vagy pontatlanná teheti a jóslatot. De ez nem azt jelenti, hogy nem működött… Hanem valószínűleg pont azt, hogy működött!
-    - Vagyis egy ilyen áttekintés haszna az, hogy utána talán jobban sikerülhet kitörni abból a mederből, amibe születtünk. Elvégre mindannyian természetesnek vesszük a körülményeinket. De ha emellé (egy valag tanulás/olvasás/utazás/stb. árán) nem keresünk alternatívákat, akkor úgy is maradunk. Ezt nevezzük útfüggőségnek, amire a szerző a pázsitokon keresztül hoz egy szemléletes példát.
+Hemzseg benne az okosság, de én most csak a két fő üzenetet emelném ki.
+Egyrészt a vallásokat tudni kellene a szó szerinti értelmezés helyett mitologikusan, a sorok között olvasva, tanulságokat keresve olvasni.
+Másrészt kövessük aktívan a saját boldogságunkat ("Follow your bliss!").
+Lehet, hogy a társadalom által kijelölt úton lesz elég pénz, de mire megyünk majd vele, ha mellette utáljuk az életünket?!
+Kövessük hát a belső késztetéseinket a külső parancsok helyett, találjuk meg a helyünket a világban, és olyan ajtók fognak megnyílni, ahol azt sem tudtuk, hogy van ajtó!
 
 <br>
 
@@ -217,54 +228,57 @@ A külső (esetünkben stresszt kiváltó) ingereket sokszor semmiben nem befoly
 
 ## <a name="produktivitas"></a>Produktivitás
 
-2020-02-04-steven-pressfield-a-muveszet-haboruja
+Tegyük fel, hogy ez a nagy filo-pszicho-múltidézés felnyitja a szemünket, átformálja az értékrendünket, és már tudjuk, mit kellene tennünk.
+Most már "csak" tenni kellene.
+Na de hogy?
+Itt jön a képbe a produktivitás, ami segít az emberi célokat és potenciálokat kézzel fogható eredményekké változtatni.
 
-    - Az inspiráció amatőröknek való – mi többiek csak leülünk és munkához látunk. – Chuck Close
-    - Például az Ellenállás részben a fő jutalmunk szerintem nem az ellenállás jellemzése, hanem a megszemélyesítése. Körvonalazott karakterként tekinthetünk rá, ami nagyban megkönnyíti az ellene vívott harcot. A Professzionális elveknél nekem személy szerint a céges hozzáállás és önmagunk “alkalmazása” okozott egy kisebb mentális átrendeződést, amit nagyra értékelek, és igyekszem majd hatékonyan kihasználni. Az Ihlet szekcióban pedig a hierarchikus vs. territoriális metafora ütött erőset. Nem is feltétlen azzal, hogy olyan nagy újat mond, hanem hogy – legalábbis számomra – olyan új megvilágításba helyez ismert dolgokat.
-        - És itt jutunk el a szekció talán legfontosabb témájához: a “hierarchikus” és a “territoriális” nézőpontokhoz. A társadalmilag alapértelmezett hierarchikus látásmód – vagyis hogy próbáljuk magunkat mások fölé vagy alá besorolni – senkinek nem optimális, de egy művésznek meg főleg. Nagyobb csoportokban eleve nem működik, mert a modern világban, és a modern életstílus mellett egyszerűen túl sokan vagyunk ahhoz, hogy értelmes “rangsor” alakulhasson ki. Fogalmazhatnék úgy is, hogy mindenki szarik a Rolexedre. Vagy ahogy egy volt főnököm szokta mondani: “mindig van egy nagyobb BMW!” Ha viszont hozzászokunk a fel és le nézelődéshez a ranglistán, akkor pont csak arra nem fogunk nézni, amerre kellene: befelé.
-        - Ezzel szemben a territoriális, vagy területi látásmóddal úgy tekinthetünk magunkra, hogy megvan a “hazai pályánk”. A területünk, ami ellát minket; de nem ad, csak visszaad! Eleve attól lesz a területünk, hogy milyen sok energiát beletettünk. Ez a gondolkodás jelképezi azt, amikor önmagáért csináljuk, amit csinálunk, és ez megy a “karma számlánkra”. És ha így állunk hozzá – ahelyett, hogy olyat próbálnánk csinálni, amiből majd pénz lesz valahogy – azzal megnyitjuk magunkat a tudatalattink (a múzsa, az angyalok, a felsőbb értelem) irányába. Tulajdonképpen csak közvetítői leszünk az alkotásunknak, nem a forrása – legalábbis, nem tudatos forrása.
+A legegyszerűbb (de mégis talán az egyik leghasznosabb) megközelítésről Steven Pressfield könyvében olvastunk.
+[A művészet háborúja]({% post_url 2020-02-04-steven-pressfield-a-muveszet-haboruja %}) ugyanis leginkább csak annyit mond, mint a Nike szlogen: Csak csináld!
 
-2020-02-24-david-allen-intezz-el-mindent
+> Az inspiráció amatőröknek való – mi többiek csak leülünk és munkához látunk.
+>
+> -– Chuck Close
 
-    Nem egy konkret munkahoz vagy eletjelyzethez, hanem nagahoz az alkalmazkodashoz kell tudnunk kinel jobban alkalmazkodni
+Megszemélyesítjük benne az "Ellenállást", ami minden vállalkozásunkat megpróbálja megakadályozni, és megtanuljuk nap-mint-nap legyőzni.
+Professzionálisan viselkedünk, a kreatív projektjeinknél is gyakorlatilag "bejárunk dolgozni", következetesen beletesszük az energiát. És aki így áll hozzá, azt majd a Múzsa is megszállja nagy ritkán.
 
-    Ha nem lenne azltszervezes a cegnel, nem kevertek volna el a csomagunkat a postan, nem menne kozben otthon a felujitas, nem jonne epp a gyerek... Akkor jobban menne persze magunktol is. De mindig lesz valami, ami megprobal belekopni a levesbe. Ezert a produktivitasunkat inkabb az fogja nagy atlagban meghatarozni, h hogyan tudunk alkalmazkodni
+Ennél egy fokkal praktikusabb szemléletet David Allen [GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %}) módszere ad, ami az alacsony szintű dolgaink teljes rendszerezésével és automatizálásával próbálja felszabadítani a kreativitásunkat.
+Hiszen a kihívás nem abban van, hogy mekkorát tudunk álmodni -- hanem abban, hogy hogyan tudjuk összeházasítani a magas szintű, idealisztikus céljainkat az alacsony szintű, hétköznapi melóval.
+És amíg az alsó rétegek nincsenek irányítás alatt, addig el sem jutunk odáig, hogy a magasabb indíttatásainkkal foglalkozzunk.
 
-    A kihívás ott van, hogy összeházasítsuk a magas szintű, idealisztikus céljainkat az alacsony szintű, hétköznapi melóval.amíg az alsó rétegek nincsenek irányítás alatt, addig el sem jutok odáig, hogy a magasabb indíttatásaimmal foglalkozzak.
+Lehet, hogy idővel talán magunktól is megtalálnánk az egyensúlyt egy szigorú rendszer nélkül is...
+Ha nem lenne épp átszervezés a cégnél; ha nem keverték volna el a csomagunkat a postán; ha nem menne közben otthon a felújítás; ha nem jönne épp a gyerek...
+Nyugodjunk bele, hogy mindig lesz valami, ami megpróbál beleköpni a levesbe.
+Ezért a produktivitásunkat inkább az fogja nagy átlagban meghatározni, hogy hogyan tudunk alkalmazkodni.
+És *ehhez* viszont nagyon kell egy rendszer.
 
-    A reszleteket nem ismezelnen, a lenyeg, h irjunk le mindent, slakitsunk ki egy tendszert, amiben megbizhatunk, hasznaljuk azt kulso agykent
+Peter Drucker menedzsment leckéi ([első rész]({% post_url 2020-08-15-peter-drucker-menedzsment-alapok %}), [második rész]({% post_url 2020-08-22-peter-drucker-onmagunk-menedzsmentje %})) is ide tartoznak, hiszen az eredményesség-központú szemlélet alapjában véve nem sokban tér el a vállalat vagy az egyén szintjén.
+Ha megtanuljuk koncentrálni az erőforrásainkat a mérhető fejlődés érdekében, akkor a cég helyett/mellett a saját életünket is ugyanúgy gatyába rázhatjuk.
+Kulcsszó a **mérhető**, mert csak azt irányíthatjuk, amit mérünk!
+És az sem mindegy, hogy mit mérünk, mert valódi haladás nélkül is lehetünk borzasztóan elfoglaltak.
+Elvégre helyben is lehet gyorsan futni.
+Szintén felmerül (mind Druckernél, mind a GTD-ben), hogy a döntéseink kimenetei mindig **konkrét** lépések legyenek -- odáig csak egy csokor jószándék...
 
+Amint tiszták a konkrét lépések, és tudjuk is mérni a haladásunkat, látszódni fog, hogy `Eredmény = Idő × Intenzitás`.
+Márpedig az idő továbbra is az egyik legkorlátozottabb erőforrás (és valószínűleg másra is kell).
+Úgyhogy ha többet szeretnénk magunkból kihozni, akkor érdemesebb az intenzitás vonalon gondolkozni.
+Ebben segít Cal Newport ["Mély munka"]({% post_url 2020-09-12-cal-newport-deep-work %}) elmélete.
 
-2020-08-15-peter-drucker-menedzsment-alapok
-2020-08-22-peter-drucker-onmagunk-menedzsmentje
+Szerinte a modern figyelemeltereléseket hajlamosak vagyunk csak a pozitívumaik alapján megítélni, az ár/érték arány helyett.
+És igen, lehet, hogy hoznak jó dolgokat is...
+De ha cserébe folyton kibillentenek a koncentrációból, akkor súlyos károkat is okozhatnak a produktivitásunkban.
+Kezeljük hát megfelelő szigorral a zavaró tényezőket, és tanuljunk meg mélyen dolgozni.
+Ezzel nem csak egy ritka és értékes képességre teszünk szert, hanem akár értelmet is adhatunk az életünknek (mint ahogy a Flow is megmondta).
 
-    Másrészt az eredményesség-központú szemlélet alapjában véve nem sokban tér el a vállalat vagy az egyén szintjén. Ha megtanuljuk koncentrálni az erőforrásainkat a mérhető fejlődés érdekében, akkor a cég mellett a saját életünket is ugyanúgy gatyába rázhatjuk. Szóval akkor is érdemes legalább magas szinten képben lenni, ha “csak” magunkat próbáljuk kordában tartani – mondjuk mint egy egyszemélyes céget…
+A kedvenc technikám innen, hogy táblázzuk be reggelente az egész napunkat.
+Minden percnek legyen meg a maga feladata.
+És ezen belül is ügyeljünk arra, hogy legyenek egyben nagyobb darab koncentrációs blokkjaink -- ne hagyjuk szétaprózódni a figyelmünket!
+Aztán ez persze sokszor fog borulni, de ha ennyire tudatosan foglalkozunk vele, akkor valószínűbb, hogy a nagyja tényleg arra fog menni, amire szeretnénk (és kellene).
 
-    Csak azt iranyithetjuk, amitmerunk
-
-    kővágós tanmese személyiségei jól mutatják, hogy valódi haladás nélkül is lehetünk borzasztóan elfoglaltak. Elvégre helyben is lehet gyorsan futni. Ezért is olyan fontos az eredmény-orientált gondolkozásmód, és a haladásunk folyamatos mérése!
-
-    Konszolidált idő blokkok
-
-    A dontesek kimenetei konkret lepesek, odaig csak egy csokor joszandek
-
-    nagyon fontosnak tartom az “általános műveltség” átértelmezését. Matek kontra pénzügyek kezelése, irodalom kontra élettanulságok és kapcsolatok, történelem kontra modern politika… A valóságtól szinte teljesen elszakadt oktatásunkat (és a későbbi, mélyen specializált szakmai tudásunkat) meg kell tanulnunk önállóan kiegészíteni, hogy teljes életet élhessünk!
-
-
-
-2020-09-12-cal-newport-deep-work
-
-    - Eredmény = Idő × Intenzitás, márpedig az idő továbbra is korlátozott (és valószínűleg másra is kell)
-        - úgyhogy ha többet szeretnénk magunkból kihozni, akkor érdemesebb az intenzitás vonalon gondolkozni
-    - a modern figyelemeltereléseket hajlamosak vagyunk csak a pozitívumaik alapján megítélni, az ár/érték arány helyett
-        - lehet, hogy hoznak jó dolgokat is, de ha cserébe folyton kibillentenek a mély koncentrációból, akkor cserébe súlyos károkat is okoznak
-        - csak ez nem mérhető olyan könnyen, ezért nincs szem előtt
-    - mindez nem csak gazdasági hasznokkal járhat (mert a mélyen koncentrálni képes és termelékeny munkaerő ritka és értékes), de még értelmet is adhat az életünknek (mint ahogy a Flow is megmondta)
-    - ha pedig elfogadtuk, hogy ez az irány, onnantól már "csak" be kell integrálni a napjainkba
-    - táblázzuk be reggelente a napunkat, hogy minden percnek meglegyen a maga feladata
-        - aztán ez persze sokszor fog borulni, de ha ennyire tudatosan foglalkozunk vele, akkor sokkal valószínűbb, hogy a nagyja tényleg arra fog menni, amire szeretnénk (és kellene)
-    - illteve a másik fő tanulság, hogy legyünk nehezen elérhetőek
-        - legyen a “nem” az alapértelmezett válaszunk. Magas szintet kell ugyanis minden teendőnek megugrania ahhoz, hogy a mély és értékes munkát értékelő rendszerünkben “igen” lehessen belőle!
+Egy másik említésre méltó tanulság, hogy legyünk nehezebben elérhetőek.
+Legyen mindenre a "nem" az alapértelmezett válaszunk.
+Magas szintet kell ugyanis minden teendőnek megugrania ahhoz, hogy a mély és értékes munkára építő rendszerünkben "igen" lehessen belőle!
 
 <br>
 
@@ -292,30 +306,34 @@ A külső (esetünkben stresszt kiváltó) ingereket sokszor semmiben nem befoly
 
 ## <a name="meditacio"></a>Meditáció
 
-2020-05-08-john-yates-the-mind-illuminated-alapok
-2020-05-15-john-yates-the-mind-illuminated-kezdoknek
+És ha már mély koncentráció, a figyelem edzése, a tanultak megemésztése, stb., akkor természetesen nem mehetünk el a meditáció mellett.
+Jól kapcsolódik ezen felül a sztoicizmushoz is, hiszen a meditáció a megfelelő szemlélekmód kialakításában is sokat segíthet:
 
-    - és ha már mély koncentráció, a figyelem edzése, a tanultak megemésztése, stb., akkor nem mehetünk el a meditáció mellett
-    - jól kapcsolódik ezen felül a sztoicizmushoz is, hiszen a meditáció a megfelelő szemlélekmód kialakításában is sokat segíthet
-        - "Habár a fájdalom és az élvezet elkerülhetetlen részei minden ember életének, a szenvedés és a boldogság teljesen opcionálisak."
-    - praktikus céljaink a stabil figyelem és a folyamatos tudatosság
-        - vizuális példával élve: egyszerre legyen fókusz és perifériás látás
-        - hogy egyszerre tudjunk mélyen koncentrálni valamire, de közben a külvilág egyéb ingereire se legyünk vakok
-    - minderre sok praktikus tippet vettünk, de a legfontosabb, hogy ezeket ne aggódjuk túl
-        - mind csak segítség gyanánt szerepelnek, egyik sem törvény
-        - "Az a jó meditáció, amit megcsináltál – az egyetlen rossz pedig az, amit nem csináltál meg." -- Stephanie Nash
-    - idővel a lecsendesedett elme és a nagyobb önismeret miatt a meditáció segíthet csökkenteni a világi vágyakat, a kételyeinket, és a múlttal/jövővel kapcsolatos aggodalmainkat
-    - a végső cél, hogy az újonnan kitaposott, módosult tudatállapotok (nyugalom, öröm és "egykedvűség") átszivárogjanak a mindennapokba
-        - ezért a rendszeresség és a folyamatos tudatosság a fontos, nem az, hogy milyen tempóban haladunk!
+> Habár a fájdalom és az élvezet elkerülhetetlen részei minden ember életének, a szenvedés és a boldogság teljesen opcionálisak.
+>
+> -- John Yates
 
+Először John Yates kalauzolt minket ebbe a világba ([első rész]({% post_url 2020-05-08-john-yates-the-mind-illuminated-alapok %}), [második rész]({% post_url 2020-05-15-john-yates-the-mind-illuminated-kezdoknek %})).
+Praktikus céljaink a stabil figyelem és a folyamatos tudatosság.
+Vizuális példával élve: hogy egyszerre legyen fókusz és perifériás látás.
+Így képesek leszünk mélyen koncentrálni valamire, miközben a külvilág egyéb ingereire is nyitottak maradunk.
+Minderre sok praktikus tippet vettünk, de a legfontosabb, hogy ezeket ne aggódjuk túl -- mind csak segítség gyanánt szerepelnek, egyik sem törvény.
 
-2020-11-14-thich-nhat-hanh-a-tudatossag-csodaja
+> Az a jó meditáció, amit megcsináltál -- az egyetlen rossz pedig az, amit nem csináltál meg.
+>
+> -- Stephanie Nash
 
-    - thich nhat hanh könyve technikai szempontból teljesen kompatibilis a yates-féle tippekkel, de a motivációnál sokkal inkább a jelen megélésére helyezi a hangsúlyt
-        - ha most nem tudunk boldogok lenni, akkor soha nem leszünk azok -- hiszen a jövőben várt pillanatokból is előbb vagy utóbb jelen lesz, amikorra már lesznek új terveink és vágyaink
-            - ha majd olyankor is az új jövőre koncentrálunk, akkor az a jelen is megéletlen marad
-        - és igen, ez vonatkozik az esős napokra, a depis időszakokra, a munkahelyi stresszel és idegesítő szomszédokkal tűzdelt hétköznapokra
-    - meditáljunk a figyelem mellett azért is, hogy a jelenben találjuk magunkat, és megtanuljuk boldogan megélni, ami épp történik
+Idővel a lecsendesedett elme és a nagyobb önismeret miatt a meditáció segíthet csökkenteni a világi vágyakat, a kételyeinket, és a múlttal/jövővel kapcsolatos aggodalmainkat.
+A végső cél pedig az, hogy az újonnan kitaposott, módosult tudatállapotok (nyugalom, öröm és "egykedvűség") átszivárogjanak a mindennapokba.
+Ebből viszont következik, hogy itt is a rendszeresség és a folyamatos tudatosság a fontos -- nem az, hogy milyen tempóban haladunk!
+
+Később némi keleti kiegészítést is kerestünk a nyugatias szemléletmód mellé, amiben egy hamisítatlan zen mester volt a segítségünkre.
+Thich Nhat Hanh [könyve]({% post_url 2020-11-14-thich-nhat-hanh-a-tudatossag-csodaja %}) technikai szempontból teljesen kompatibilis a Yates-féle tippekkel, de a motivációnál sokkal inkább a jelen megélésére helyezi a hangsúlyt.
+
+Ha *most* nem tudunk boldogok lenni, akkor soha nem leszünk azok -- hiszen a jövőben várt pillanatokból is előbb vagy utóbb jelen lesz, amikorra már lesznek új terveink és vágyaink.
+Ha majd olyankor is az még távolabbi jövőre koncentrálunk, akkor az a "jelen" is *megéletlen* marad.
+És igen, ez vonatkozik az esős időjárásra, a depis időszakokra, a munkahelyi stresszel és idegesítő szomszédokkal tűzdelt hétköznapokra...
+Meditáljunk tehát a megnövelt figyelem mellett azért is, hogy egyre gyakrabban a jelenben találjuk magunkat -- és megtanuljuk boldogan megélni, ami épp történik.
 
 <br>
 
