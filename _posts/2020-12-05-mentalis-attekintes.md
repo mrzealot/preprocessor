@@ -7,7 +7,36 @@ excerpt: >
     TODO
 ---
 
+Az időközönkénti ismétlés és az összefoglalás minden jó tanulási módszerben alapkövetelmény.
+Ezzel nem csak hogy visszakapaszkodunk arra a megértési szintre, ahova régebben már eljutottunk, de pluszban még a későbbi felejtési ütemünket is lassítjuk.
+Ha ezt elégszer megtesszük, bizonyos dolgok örökre a fejünkbe vésődnek.
+Én pedig őszintén hiszem, hogy amikről itt idén olvastunk, azok mindenkinek nyugodtan beéghetnek.
 
+Legyen hát a december a "repeta-hónap", amikor kategóriákra bontva végigpörgetjük, miről is volt eddig szó.
+A héten a mentális dolgokkal kezdünk, ami a következőket takarja:
+
+- [Filozófia](#filozofia)
+- [Pszichológia](#pszichologia)
+- [Történelem](#tortenelem)
+- [Produktivitás](#produktivitas)
+- [Meditáció](#meditacio)
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="filozofia"></a>Filozófia
 
 2020-01-03-marcus-aurelius-elmelkedesek
 
@@ -71,8 +100,23 @@ excerpt: >
         - alakítsuk olyanra a kapcsolatainkat, amikben nem kell megjátszanunk magunkat
 
 
+<br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="pszichologia"></a>Pszichológia
 
 2020-01-18-csikszentmihalyi-mihaly-flow
 
@@ -101,6 +145,28 @@ excerpt: >
     - ami viszont továbbra is bele van üvöltve a képünkbe, hogy a miénk a felelősség
         - a külső (esetünkben stresszt kiváltó) ingereket nem befolyásolhatjuk, de ha megtanulunk máshogy (helyesebben) reagálni rájuk, akkor jól is kijöhetünk az egészből
 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="tortenelem"></a>Történelem
 
 2020-02-12-yuval-noah-harari-sapiens
 
@@ -128,6 +194,29 @@ excerpt: >
     - Illetve egy kis kitérő: a jóslatoknak csak akkor van értelmük, ha hatnak az emberek viselkedésére (különben minek). Ha viszont hatnak, akkor az új viselkedés gyorsan okafogyottá vagy pontatlanná teheti a jóslatot. De ez nem azt jelenti, hogy nem működött… Hanem valószínűleg pont azt, hogy működött!
     - Vagyis egy ilyen áttekintés haszna az, hogy utána talán jobban sikerülhet kitörni abból a mederből, amibe születtünk. Elvégre mindannyian természetesnek vesszük a körülményeinket. De ha emellé (egy valag tanulás/olvasás/utazás/stb. árán) nem keresünk alternatívákat, akkor úgy is maradunk. Ezt nevezzük útfüggőségnek, amire a szerző a pázsitokon keresztül hoz egy szemléletes példát.
 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="produktivitas"></a>Produktivitás
 
 2020-02-04-steven-pressfield-a-muveszet-haboruja
 
@@ -178,8 +267,31 @@ excerpt: >
     - illteve a másik fő tanulság, hogy legyünk nehezen elérhetőek
         - legyen a “nem” az alapértelmezett válaszunk. Magas szintet kell ugyanis minden teendőnek megugrania ahhoz, hogy a mély és értékes munkát értékelő rendszerünkben “igen” lehessen belőle!
 
+<br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="meditacio"></a>Meditáció
 
 2020-05-08-john-yates-the-mind-illuminated-alapok
 2020-05-15-john-yates-the-mind-illuminated-kezdoknek
@@ -205,3 +317,24 @@ excerpt: >
             - ha majd olyankor is az új jövőre koncentrálunk, akkor az a jelen is megéletlen marad
         - és igen, ez vonatkozik az esős napokra, a depis időszakokra, a munkahelyi stresszel és idegesítő szomszédokkal tűzdelt hétköznapokra
     - meditáljunk a figyelem mellett azért is, hogy a jelenben találjuk magunkat, és megtanuljuk boldogan megélni, ami épp történik
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Egyelőre ennyi
+
+Jövő héten a fizikai dolgokkal folytatjuk -- vagyis mindennel, ami a testünket vagy a körülöttünk lévő világot érinti.
+Addig remélhetőleg akad majd min gondolkodni...
