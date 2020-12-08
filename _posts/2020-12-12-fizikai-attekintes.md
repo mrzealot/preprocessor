@@ -32,11 +32,51 @@ excerpt: >
     - A motoros kontroll előnyben részesítése a “nyújtással” szemben.
 
 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell
+
+    - felvázolja, hogy az inzulin a másik nagy játékos
+        - hogy az dönti el, mikor megy raktározás, mennyi, és hova
+    - és mivel a makrók aránya nagyban hat az inzulinünkre, ezért a mennyit mellet a **mit** is fontos kérdés
+        - a mennyi oldaláról eddig is sejthettük, hogy a kalóriák csökkentése nélkül nem lesz súlyvesztés
+            - a koplalás persze továbbra is szitokszó, de egy kicsit azért visszább kell venni
+        - de aceto azt is segít belénksulykolni, hogy szenny kajákból már a kevesebb is elég ahhoz, hogy megakadályozza a fogyást
+            - az egyszerű szénhidrátok nagyot dobnak az inzulinon
+            - a sok zsír miatt egyszerre több raktározódik
+        - együnk hát tisztán (a mennyiség belövése mellett), és akkor menni fog
+
 2020-10-17-jason-fung-az-elhizas-kulcsa
 
+    - jason fung annyiban árnyalja tovább a képet, hogy a mennyit és a mit mellett a mikor is fontosabb lehet, mint gondoltuk
+        - mert persze a kalória deficit nélkül továbbra is lehetetlen a fogyás
+        - és a makrók továbbra is hatnak az inzulinra, ami miatt fontos tisztán étkezni
+            - fung a fehérje/szénhidrát/zsír típusok helyett inkább az egyensúly felborulására koncentrál
+            - igazi, minél kevésbé feldolgozott kajákat együnk, és akkro nem lesz baj
+        - de ezek mellett az inzulin-rezisztanciát is jobban tárgyaljuk, miszerint ördögi körbe kerülhetünk vele, és a testünk ún. "alapsúlya" lesz magasabb
+            - ennek a visszafordítására pedig nagyon hatásos, ha a "mikor"-ral is foglalkozunk -- mesterséges inzulin hullámoztatás, ami megtöri a folytonosan magas szintet
+            - kevés vs. semmi hatása az anyagcsere ütemére
+
 2020-04-17-christie-aschwanden-good-to-go
+
+    - sorra vesszük az italokat, ételeket, étrend kiegészítőket
+        - a jegelést, a szaunázást, a vérvételes méréseket
+    - ami az arany sztenderd, az csakis az alvás
+        - egy távoli második helyezett pedig a placebo hatás, amit pedig akármelyik modalitással elérhetünk
+        - a lényeg, hogy mi azt *hisszük*, hogy működni fog, és ezért működni is fog
+    - node mint mondtuk, minden más csak kiegészítés... a lényeg az alvás
+
 2020-10-24-matthew-walker-miert-alszunk
 
+    - ezért is olvastunk a továbbiakban egy külön az alvásra koncentráló könyvet
+    - ha van elég, az nagyon jót tesz a memóriánknak, a reakcióinknak, és a teljesítményünknek úgy általában
+    - ha viszont nincs, akkor mentális és fizikális leépülés
+        - Szubjektív szépség, elhízás, cukorbetegség, terméketlenség, vírusok fertőzési esélye, szívbetegség, rák – mindnek bizonyítottan köze van az alváshiányhoz.
+        - minél hosszabb ideig húzzuk a hiányunkat, annál súlyosabbak
+        - és már a napi 7 óra is hiánynak számít a legtöbb kutatás szerint... nem véletlenül mondják, hogy kell az a 8!
+    - fontos tanulság még, hogy az alváshiány nem igazán "pótolható"... ha egyszer kihagytuk, akkor azt utána nagyon sokáig fogjuk görgetni magunk előtt
+        - az számít, hogy **rendszeresen** mennyiket alszunk... ha a rendszeres nem elég, akkor hiába próbálunk rátenni a hétvégén
+    - Walker prof 12 alvás-higiéniai tippjét mindenkinek ajánlom
+        - de szerepeljen itt is a legfontosabb javaslat a lista éléről: Legyen egy állandó kelési és fekvési időpontunk!
+        - egy konzisztens alvási menetrend kialakításánál nem sok dolog lehet jobban a hasznunkra...
+    - a gondolkodásunk szempontjából pedig ideje lenne az alvással kapcsolatos “lustaság” stigmát felülvizsgálni
 
 
 
