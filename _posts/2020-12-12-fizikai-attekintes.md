@@ -84,9 +84,43 @@ excerpt: >
 
 
 2020-03-06-henry-david-thoreau-walden
+
+    - alapszükségletek: étel, ruha, tűzifa, menedék --> "az élet melege"
+    - érték helyett végre az ár/érték arány!
+    - intellektuális ébredezés --> olvasás!
+        - funkcionális analfabétás idézet
+        - "If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you." -- Jim Mattis tábornok
+    - rengetegszer emlegetem ezeket azóta is bármilyen materiális dolgokkal kapcsolatos beszélgetésben, úgyhogy rám például nagyon mély benyomást tett Thoreau hozzáállása
+        - de fontos az ő konkrét megvalósítása helyett az elveket nézni!
+        - nem az a cél, hogy áram vagy vezetékes víz nélkül irány az erdőbe!
+        - de azért tegyük fel magunknak a kérdést, hogy tényleg szükségünk van-e arra az új TV-re vagy telefonra? Vagy hogy mennyi plusz munkát ér az a pár napos nyaralás? 
+
 2020-03-13-cal-newport-digital-minimalism
 
+    - a fenti lecke digitális vonatkozása, ahol az ár-érték nézőpontot a telefon/alkalmazás/szociális média használatunkra is vonatkoztatjuk
+    - sajnos nem maradunk ellenfél nélkül, mert a gyártóknak igencsak nagy érdeke fűződik hozzá, hogy a termékeik minél inkább függőséget okozzanak
+        - na nem mintha a társadalmi nyomás nem így működne a materiális javaknál
+    - fontos, hogy az életünk digitális részére is "optimalizálandóként" tekintsünk
+        - már nagyon kis mennyiségű befektetett energia is jelentős megtérülést hozhat, és az így felszabaduló időt minden bizonnyal tölthetjük majd hasznosabban
+            - ha pedig ezáltal szembekerülünk azzal az ürességgel, amit eddig igyekeztünk "elfedni" a digitális figyelem-elterelésekkel, akkor az csak annál jobb motiváció, hogy helyesebben töltsük ki az űrt.
+        - mellesleg a szándékos értékítélet után mondunk le valamiről, akkor azt nem megvonásként fogjuk megélni, hanem épphogy megelégedéssel tölt majd el a tudatos választás
+    - konkrét javaslata, hogy a szép fokozatos csökkentés helyett tartsunk inkább egy digitális böjtöt, ahol minden opcionális képernyőbámulásról lemondunk egy hónapra
+        - a fokozatosság nem fog tudni versenyezni az app készítők pszichológiai (szándékosan beépített) függőség-okozó trükkjeivel, ezért detox-olnunk kell
+        - majd a böjt után ráérünk visszaengedni azt, ami ár-érték arányban megüti a szintet
+
 2020-03-20-vicki-robin-your-money-or-your-life
+
+    - a minimalizmussal kapcsolatban fontos, hogy a pénzügyekre is kivetítsük az ott tanultakat
+        - persze már Thoreau is számolgatott, de minket egy igazán más környezet fogad a 21. században, úgyhogy számoljuk csak újra
+    - a cél legyen a "sok" helyett az "elég"
+        - a pénz igazából az életenergiánk, ezért fontos lenne jobban meggondolni, hogy hova pazaroljuk
+        - ezzel a nézettel pedig radikálisan fogjuk tudni csökkenteni a kiadásainkat
+    - az alapvető hozzáállásbeli változtatás után jöhetnek a praktikus lépések, amikkel megtanulunk megbarátkozni a múlttal, valamint követni (és menedzselni) a jelent
+        - kialakítjuk a saját költési kategóriáinkat, megtanulunk megtervezni (és betartani!) egy költségvetést, és megítéljük, hogy megfelelő boldogságot / elégedettséget kapunk-e bizonyos költéseinkért
+        - mindezt azért, hogy aztán a jövőben egyre hamarabb juthassunk a "metszéspontig", ahol már nem lesz kötelező dolgozni a megélhetésért
+        - ez a "nyugdíj" (vagy hivatalosabban anyagi függetlenség) persze nem kell, hogy a semmittevésről vagy a két pálmafa közé kifeszített függőágyban hesszelésről szóljon
+        - csinálhatunk, amit akarunk -- csak a pénz része már nem lesz szempont
+
 2020-09-19-jacob-lund-fisker-extrem-korai-nyugdij-1
 2020-09-26-jacob-lund-fisker-extrem-korai-nyugdij-2
 
