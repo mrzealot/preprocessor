@@ -122,6 +122,20 @@ excerpt: >
         - csinálhatunk, amit akarunk -- csak a pénz része már nem lesz szempont
 
 2020-09-19-jacob-lund-fisker-extrem-korai-nyugdij-1
+
+    - címe alapján könnyen gondolhatnánk, hogy ez is "csak" egy újabb pénzügyi könyv, de tévednénk
+        - persze, hogy továbbra is érvényes a "keress többet, költs kevesebbet, fektesd be a különbözetet!" trió
+        - de ami miatt ez menni is fog, az egy radikális szemléletváltás
+        - mondhatni még Vicki Robin-nál is továbbgondoljuk a helyzetünket
+    - leginkább a "költs kevesebbet" oldalon van a hangsúly
+        - "a lejjebb adás kétszer hatékonyabb a bevétel növelésénél. Nem csak hamarabb érjük el a függetlenséghez elég nagy megtakarítást, hanem végül kisebb megtakarítást is kell elérnünk a lecsökkent havi költésünk miatt. Mondhatni itt két irányból is gyorsíthatjuk a folyamatot, míg az extra bevétellel csak az egyikből."
+    - az "pénz = életenergia" és az "sok < elég" mellé leginkább a túlságosan elspecializálódott társadalomra vezetjük vissza a bajaink nagyját
+        - itt jön be a Reneszánsz ember fogalma, aki nem csak anyagilag, hanem széles tudással is rásegít a saját függetlenségére
+    - külön kiemelném még az amortizációt, mint követendő szemléletmódot
+        - tekintsünk minden tárgyunkra úgy, mintha havidíjat kellene érte fizetnünk
+        - ami nem ismétlődő, annál becsüljük meg az élettartamát, és hogy majd utána mennyiért tudnánk eladni, és ez alapján számoljunk "bérleti díjat"
+        - ezek után egyből átértékelődik, hogy tényleg kell-e az olyan méregdrága porfogó, amit évi kétszer ha előhalászunk a felső polcról
+
 2020-09-26-jacob-lund-fisker-extrem-korai-nyugdij-2
 
 2020-03-27-bea-johnson-zero-waste-otthon
