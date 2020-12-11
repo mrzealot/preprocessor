@@ -139,4 +139,16 @@ excerpt: >
 2020-09-26-jacob-lund-fisker-extrem-korai-nyugdij-2
 
 2020-03-27-bea-johnson-zero-waste-otthon
+
+    - a pénztárcánkkal szavazunk!
+    - Higgyük el, hogy a könyv nem a megvonásról, hanem az értékrendünk helyrebillentéséről (és annak fizikai megnyilvánulásáról) szól! Senki nem vesz el tőlünk semmit! A felsorolt tippek sem kötelezőek – mindenki úgy alkalmazza a saját életére, ahogy jónak látja… A lényeg továbbra is annyi, hogy legyünk tudatosak, vizsgáljuk felül a világképünket, és vállaljuk a saját felelősségünket az ügyben. Ha ez átment, akkor elég lesz az 5K-t megjegyeznünk emlékeztetőnek, és rendben leszünk.
+    - 5R (refuse, reduce, reuse, recycle, rot) --> 5K (Köszönöm, nem kérem. Kevesebbel is beérem. Kijavítom, újrahasznosítom. Külön gyűjtöm. Komposztálom.)
+        - ezek pedig nem véletlenül vannak ilyen sorrendben! leginkább a visszautasítást és a kevesebbel beérést kell először gyakorolni!
+
 2020-10-03-rachel-carson-nema-tavasz
+
+    - tünetek kontra kiváltó okok!!
+    - a könyv nem feltétlen azért nagyon fontos, mert ú, természetvédelem (pedig a természetvédelem önmagában is nagyon fontos lenne napjainkban!)
+    - hanem mert rendszer-szintű gondolkodásra tanít minket
+        - megmutatja, hogy ha egy komplex ökoszisztémába akarunk belepiszkálni, akkor jobban tesszük, ha értünk is hozzá
+        - ha ezt a természetről a saját életünkre vonatkoztatjuk, megláthatjuk, hogy ott is milyen sok változót piszkálhatunk -- és hogy mennyire sok szempont alapján kellene meghozni a döntéseinket
