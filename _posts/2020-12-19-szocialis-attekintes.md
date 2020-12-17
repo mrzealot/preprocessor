@@ -69,7 +69,6 @@ excerpt: >
 
     Szóval akinek valamelyik nem inge, az ne vegye magára. Akinek viszont igen, az öltözködjön! Én például biztosan igyekezni fogok majd jobban befogni a számat, a tetteimmel érvelni, legalább valamennyire nyitni a köz (és a közvélemény) felé, illetve bátra(bba)n hozzáállni a céljaimhoz.
 
-    ?
     A törvény nem tudása senkit nem mentesít.
 
 [arst]({% post_url 2020-07-10-baltasar-gracian-az-eletbolcsesseg-kezikonyve-1 %})
@@ -104,6 +103,7 @@ excerpt: >
 
 [arst]({% post_url 2020-08-29-george-patton-war-as-i-knew-it %})
 
+    - Ami szerintem elsősorban furcsa a fenti tanulságokkal kapcsolatban, hogy mennyire nem “katonaiak”. Lehet, hogy ez részben a Drucker olvasás mellékhatása, de ennek tükrében tényleg úgy látom én is, hogy a vezetés és a hatékonyság nagyban függetlenek attól, hogy kiket szeretnénk vezetni, vagy hogy miben szeretnénk hatékonyak lenni. Pattonban sem az a különleges, hogy ezeket a stratégiákat katonai körökben alkalmazta, hanem hogy milyen következetesen és lelkiismeretesen alkalmazta. Ha követjük a példáját, akkor mi is 4 csillagos tábornokai lehetünk a saját dolgainknak.
 
 
 
@@ -114,6 +114,12 @@ excerpt: >
 
 [arst]({% post_url 2020-11-21-mason-currey-napi-ritualek %})
 
+    - Akár a rend, akár a káosz, akár a különcködés felé hajlunk jobban, az elsődleges a helyes fontossági sorrend! Semminek nem lesz magától helye az életünkben, ha nem csinálunk neki helyet! Ez alapján nyilvánvalóan erős a kapcsolat a Művészet Háborújával: csinálni kell, és idővel a kitartás és rendszeresség verni fogja a hirtelen inspirációt.
+
+    - nagyon sok ajánlást kapunk a reggeli munkára. Ha azzal kezdünk, ami igazán számít, akkor onnantól a napunk többi részét már szinte improvizálhatjuk.
+
+    - Egy másik átfogó tanulság, hogy igyekezzünk nem kimeríteni magunkat! Megvannak ugyan a munkamániások, de a legtöbben meglepően keveset dolgoznak napi szinten, ami viszont aztán összeadódik!
+
 
 
 
@@ -121,4 +127,16 @@ excerpt: >
 
 
 [arst]({% post_url 2020-05-29-george-orwell-1984 %})
+
+    - Azért is durva egy ilyen világba belegondolni, mert ez egy több mint 70 (!) éves előrevetítés. Vagyis már akkoriban olyan tendenciák látszottak, amik egy ilyen disztópiához vezethetnek. És ezek a tendenciák azóta nem hogy javultak volna…
+
+    De csak hogy ne ilyen búval baszva zárjuk a témát: érdemes felismerni, hogy ez első sorban egy figyelmeztetés! A könyv nem azért mutatja meg Winstonék tehetetlenségét, hogy ezzel a mi tehetetlenségünket szemléltesse. Inkább azért, hogy ébredjünk fel, és ne hagyjuk, hogy nálunk idáig fajuljanak a dolgok! Addig tegyünk ellene, amíg még tehetünk!
+
+    Ez pedig nekem személy szerint újra az oktatás fontosságát húzza alá. Minden szörnyűségnek a tömegek tudatlanságban tartása volt az egyik alapköve. Ha azt sikerül megingatni, akkor remélhetőleg soha nem jutunk el egy igazi 1984-ig!
+
 [arst]({% post_url 2020-11-28-j-d-salinger-zabhegyezo %})
+
+    - Holden barátunk egy igen sűrű hétvégén van túl, de én legalább is szeretném hinni, hogy innen már majd felfelé vezet az útja. Tanulságként a következőket emelném ki:
+        - Jó ötlet minél eredetibbnek maradni egy hamis világban, de ne legyünk annyira képtelenek a kompromisszumra, hogy ebbe bele is őrüljünk!
+        - Próbáljuk a változást ne jónak vagy rossznak, hanem csak szimplán az élet részének tekinteni!
+        - A kedvenc tanár ajánlása alapján: higgyük el, hogy emberek ezrei néztek szembe a történelem során ugyanazokkal az egzisztenciális válságokkal, amikkel mi is. Ezekből egy pár biztosan írt a tapasztalatairól, és hogy aztán mi lett… Tanuljunk ezekből, olvassunk sokat!
