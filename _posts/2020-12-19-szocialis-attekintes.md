@@ -4,64 +4,130 @@ title: Szociális áttekintés
 permalink: /2020/szocialis-attekintes
 date: 2020-12-19 00:01
 excerpt: >
-    TODO
+    Telik-múlik a "repeta-december", amit a szociális vonatkozásokkal folytatunk.
+    Érintjük itt a párkapcsolatokat, a társasági viselkedést, vezetési/stratégiai elveket, illetve néhány életrajzot és fontosabb regényt is...
 ---
 
-2020-04-24-gary-chapman-az-5-szeretetnyelv
+Telik-múlik a "repeta-december", amit a szociális vonatkozásokkal (plusz egy pár életrajzzal és regénnyel) folytatunk.
+A tartalom a következőképp alakul:
 
-    - a szerelem rózsaszín felhője könnyen elfedi az inkompatibilitásokat
-    - de ez az állapot múlandó, és utána jön a hideg zuhany
-    - ilyenkor sem a nagyszüleink-féle bekeseredés, sem a modern tempójú partnercserélgetés nem jó megoldás
-    - válasszuk inkább azt, hogy munkához látunk, és aktívan épíjük a kapcsolatunkat
+- [Párkapcsolatok](#parkapcsolatok)
+- [Társaság](#tarsasag)
+- [Stratégia](#strategia)
+- [Vezetés](#vezetes)
+- [Életrajzok](#eletrajzok)
+- [Fikció](#fikcio)
 
-    - ehhez pedig nagyon hasznos lehet Chapman nyelvekkel vont párhuzama, hiszen 1) ott is kommunikálni kell, 2) a másik igényei szerint kell kifejeznünk magunkat (és a szeretetünket), illetve 3) egy új nyelvjárás elsajátítani bizony munka lesz.
-    - választási lehetőségeink a következők:
-        1. Elismerő szavak
-        2. Minőségi idő
-        3. Ajándékozás
-        4. Szívességek
-        5. Testi érintés
-    - ezek kontextusában pedig valószínűleg jobban fog töltődni a másik szeretettankja -- és a miénk is.
-
-2020-10-31-john-gottman-a-jol-mukodo-hazassag-7-alapelve
-
-    - a másik John Gottman – A jól működő házasság 7 alapelve című könyve, ami egy kicsit általánosabb párkapcsolati útmutatóként a konfliktusok kezelésére is mélyebben kitér.
-    - kutatások során megfigyelték, hogy milyen tényezők vezetnek a legbiztosabban a válás felé.
-        - ezek pedig a gyakori kritizálás, megvetés/lenézés, mentegetőzés és elfordulás, vagy más néven a kapcsolatok "négy lovasa".
-        - számít még, ha már eleve durván is *kezdjük* a vitáinkat, és ha nehézkesen küldünk vagy fogadunk ún. békülési kísérleteket.
-    - Az erős barátságon alapuló, könnyen békülő, kompromisszumokra nyitott kapcsolatok egy általánosan pozitív érzelmi töltethez (PSO – Positive Sentiment Override) vezetnek, amivel az apróbb kilengések egyszerűen átvészelhetők.
-    - Fő tanulságokként a következőket emelném ki:
-        - Igyekezzünk a másik üzenetére figyelni a hangneme helyett!
-        - Tudjuk viselni a negativitást – főleg ha nem is ránk irányul!
-        - Koncentráljunk arra, amink van, ne arra, amink nincs!
-        - Nem vagyunk tökéletesek, ezért legyünk képesek megbocsátani magunknak, és persze a párunknak is!
-    - Mindenek fellett pedig legyünk nyitottak a kompromisszumokra, mert azok oldják meg a megoldható problémáink nagyját, és azok teszik elviselhetővé a megoldhatatlan ellentéteinket is.
+<br>
 
 
 
 
 
-[arst]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %})
-
-    - Ha létezik olyan, hogy “a siker egyetlen titka”, akkor az az, hogy képes legyél a dolgokat a sajátod mellett a másik fél szemszögéből is látni.
-        - Henry Ford
-    - ne legyünk negatívak
-        - ide értve a kritizálást, a manipulációt, a figyelmetlenséget, stb.
-    - legyünk pozitívak
-        - ide értve az (őszinte!) dícséretet, a figyelmet, a mosolyt, a hangszínt/hangnemet, stb.
-    - lássuk a másik szemszögéből
-        - ide értve, hogy ne mindig csak mi beszéljünk, ne csak magunk iránt érdeklődjünk, tiszteljük a másik véleményét, stb.
-
-    - Ha egyetlen mondatba szeretném tömöríteni az egész könyvet, akkor az valószínűleg a 2.6-os pontnál említett (vegyes filozófiai és vallási háttérrel rendelkező) idézet lenne: “Úgy bánj másokkal, ahogy szeretnéd, hogy veled bánjanak!”. De még akár egyetlen szó is elég lehet a mondanivaló megragadására: empátia!
-
-[arst]({% post_url 2020-11-07-susan-cain-csend %})
-
-    - "megkaptunk minden magabiztosságos, kézfogós, szociális dolgot – itt pedig megláthatjuk az érem másik oldalát…"
-    - fontos ezt a beilleszkedést abban a tudatban tenni, hogy nem kevesebbek vagy rosszabbak vagyunk, csak mások. Introvertáltként alkalmazkodni próbáljunk az extro kultúrához, ne “felérni hozzá”.
-    - befőttes gumi hasonlat
 
 
 
+
+
+
+
+
+
+
+
+## <a name="parkapcsolatok"></a>Párkapcsolatok
+
+A legfontosabb kapcsolatunk általában egy jól meghatározott személyhez fűzhető.
+Ez lehet a barátunk/barátnőnk, férjünk/feleségünk, az embör/asszony, vagy -- egy kollégám szavajárásával -- az életünk megcukrozója.
+Sok munka van viszont azzal, hogy idővel nehogy életünk megborsozója váljon belőle.
+
+A szerelem rózsaszín felhője kezdetben könnyen elfedi az inkompatibilitásokat, de ez az állapot sajnos múlandó, és utána jön a hideg zuhany.
+Ilyenkor sem a nagyszüleink-féle bekeseredés, sem a modern tempójú partnercserélgetés nem kimondottabban "jó" megoldás.
+Válasszuk inkább azt, hogy munkához látunk, és aktívan épíjük a kapcsolatunkat.
+
+Ehhez lehetnek nagy hasznunkra Gary Chapman [5 szeretetnyelve]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}).
+Abszolút jogos a nyelvekkel vont párhuzama, hiszen **1)** ott is kommunikálni kell, **2)** a másik igényei szerint kell kifejeznünk magunkat (és a szeretetünket), illetve **3)** egy új nyelvjárást elsajátítani bizony komoly munka lesz.
+Érdemes tehát minél hamarabb megtalálni és megtanulni a párunk szeretetnyelvét; választási lehetőségeink az elismerő szavak, a minőségi idő, az ajándékozás, a szívességek és a testi érintés.
+Ezek kontextusában pedig valószínűleg jobban fog töltődni a másik szeretettankja -- és a miénk is.
+
+A másik induló a témában John Gottman -- [A jól működő házasság 7 alapelve]({% post_url 2020-10-31-john-gottman-a-jol-mukodo-hazassag-7-alapelve %}) című könyve, ami egy kicsit általánosabb párkapcsolati útmutatóként a konfliktusok kezelésére is mélyebben kitér.
+Itt ugyanis kutatások során megfigyelték, hogy milyen tényezők vezetnek a legbiztosabban a válás felé.
+A legfontosabbak a gyakori kritizálás, a megvetés/lenézés, a mentegetőzés és az elfordulás, vagy más néven a kapcsolatok végítéletének "négy lovasa".
+De számít még az is, ha már eleve durván *kezdjük* a vitáinkat, illetve ha nehézkesen küldünk vagy fogadunk ún. "békülési kísérleteket".
+    
+Legyen hát a célunk egy erős barátságon alapuló, könnyen békülő, kompromisszumokra nyitott kapcsolat, mert az így kialakuló pozitív érzelmi töltettel az apróbb kilengések egyszerűen átvészelhetők.
+Fontos, hogy igyekezzünk a másik üzenetére figyelni a hangneme helyett, és hogy tudjuk viselni a negativitását – főleg ha nem is ránk irányul!
+Koncentráljunk arra, amink van; ne arra, amink nincs!
+Végül pedig véssük az eszünkbe, hogy senki nem tökéletes -- ezért legyünk képesek megbocsátani magunknak, és persze a párunknak is!
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="tarsasag"></a>Társaság
+
+Az egyre társaságibb, személyiség-centrikusabb világunkban szerintem mindenkinek fontos olvasmány lenne Dale Carnegie -- [Hogyan szerezzünk barátokat]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) című jómodor bibliája.
+Sok konkrét tanácsot ad magunk megkedveltetésére vagy mások meggyőzésére, de én szeretek rá jelentősen leegyszerűsítve gondolni:
+
+- Ne legyünk negatívak -- ide értve a kritizálást, a manipulációt, a figyelmetlenséget, stb.
+- Legyünk pozitívak -- ide értve az (őszinte!) dícséretet, a figyelmet, a mosolyt, a hangszínt/hangnemet, stb.
+- Lássuk a dolgokat másik szemszögéből (is) -- ide értve, hogy ne mindig csak mi beszéljünk, ne csak magunk iránt érdeklődjünk, tiszteljük a másik véleményét, tarsuk szem előtt az ő érdekeit, stb.
+
+Ha egyetlen mondatba szeretném tömöríteni az egész könyvet, akkor az valószínűleg a következő (vegyes filozófiai és vallási háttérrel rendelkező) idézet lenne: "Úgy bánj másokkal, ahogy szeretnéd, hogy veled bánjanak!".
+De még akár egyetlen szó is elég lehet a mondanivaló megragadására: empátia!
+Vagy ahogy Henry Ford mondta:
+
+> Ha létezik olyan, hogy "a siker egyetlen titka", akkor az az, hogy képes legyél a dolgokat a sajátod mellett a másik fél szemszögéből is látni.
+
+Tanulságos kiegészítés ezek mellé Susan Cain -- [Csend]({% post_url 2020-11-07-susan-cain-csend %}) című könyve, ami az introvertált és az extrovertált személyiségtípusok közti különbségeket tárgyalja.
+Vegyük kb. úgy, hogy Carnegie-nél megkaptunk minden magabiztosságos, kézfogós, szociális dolgot -- itt pedig megláthatjuk az érem másik oldalát.
+És ugyan nem mindenki mozog egyformán otthonosan a reflektorfényben, 
+
+Lehet, hogy a modern világ az extrovertált ideál köré épül, de azért az introvertáltaknak is megvan a helye.
+A könyv lényege valójában annyi, hogy a beilleszkedésük milyen nézőpontból történik.
+Fontos, hogy nem kevesebbek vagy rosszabbak, csak mások.
+Introvertáltként *alkalmazkodni* próbáljunk az extro kultúrához, ne "felérni hozzá".
+
+Egy másik tanulság, amit kiemelnék, az a "befőttes gumi" hasonlat, vagyis hogy bizonyos keretek között mindannyiunk személyisége rugalmas.
+Ez azt jelenti, hogy akár introvertáltként is tehetünk kimondottan extrovertált dolgokat, ha azok a valós értékeinket szolgálják.
+Csak figyeljünk oda az egyensúlyra, és ne feszítsük túl messzira (vagy túl sokáig) azt a bizonyos befőttes gumit!
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="strategia"></a>Stratégia
 
 [arst]({% post_url 2020-01-28-robert-greene-the-48-laws-of-power %})
 
@@ -77,6 +143,29 @@ excerpt: >
     - Habár természetesen volt benne 1-2 friss meglátás, nyugodtan mondhatjuk, hogy Baltasar Gracián szösszeneteinek a nagyja nem annyira “eget rengető” újdonság. De ez nem baj, hiszen ettől még mindegyik nagy szolgálatot tehet… Persze nem könnyű őket az életünkre alkalmazni, de ahhoz pedig nem is az a fontos, hogy vadonatúj és egzotikus legyen a mondanivaló!
 
     Szerintem pont az kell, hogy tömören, humorosan és emlékezetesen fejezzük ki a lényeget – hogy ezek aztán megragadjanak, és tényleg hathassanak a mindennapjainkra. Erre pedig kiváló ez a gyűjtemény, amit időnként feltétlen érdemes lesz átolvasni!
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="vezetes"></a>Vezetés
 
 [arst]({% post_url 2020-02-29-bill-walsh-the-score-takes-care-of-itself %})
 
@@ -105,7 +194,25 @@ excerpt: >
 
     - Ami szerintem elsősorban furcsa a fenti tanulságokkal kapcsolatban, hogy mennyire nem “katonaiak”. Lehet, hogy ez részben a Drucker olvasás mellékhatása, de ennek tükrében tényleg úgy látom én is, hogy a vezetés és a hatékonyság nagyban függetlenek attól, hogy kiket szeretnénk vezetni, vagy hogy miben szeretnénk hatékonyak lenni. Pattonban sem az a különleges, hogy ezeket a stratégiákat katonai körökben alkalmazta, hanem hogy milyen következetesen és lelkiismeretesen alkalmazta. Ha követjük a példáját, akkor mi is 4 csillagos tábornokai lehetünk a saját dolgainknak.
 
+<br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="eletrajzok"></a>Életrajzok
 
 [arst]({% post_url 2020-05-22-tetsuko-kuroyanagi-totto-chan %})
 
@@ -120,11 +227,31 @@ excerpt: >
 
     - Egy másik átfogó tanulság, hogy igyekezzünk nem kimeríteni magunkat! Megvannak ugyan a munkamániások, de a legtöbben meglepően keveset dolgoznak napi szinten, ami viszont aztán összeadódik!
 
+<br>
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="fikcio"></a>Fikció
 
 [arst]({% post_url 2020-05-29-george-orwell-1984 %})
 
@@ -140,3 +267,23 @@ excerpt: >
         - Jó ötlet minél eredetibbnek maradni egy hamis világban, de ne legyünk annyira képtelenek a kompromisszumra, hogy ebbe bele is őrüljünk!
         - Próbáljuk a változást ne jónak vagy rossznak, hanem csak szimplán az élet részének tekinteni!
         - A kedvenc tanár ajánlása alapján: higgyük el, hogy emberek ezrei néztek szembe a történelem során ugyanazokkal az egzisztenciális válságokkal, amikkel mi is. Ezekből egy pár biztosan írt a tapasztalatairól, és hogy aztán mi lett… Tanuljunk ezekből, olvassunk sokat!
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Idén ennyi
+
+A könyvekkel a 2020-as adag végére is értünk, jövő héten pedig következhet egy szubjektívebb évértékelés.
+Addig is szeressük felebarátainkat, mutassunk jó példát, és (természetesen) olvassunk sokat!
