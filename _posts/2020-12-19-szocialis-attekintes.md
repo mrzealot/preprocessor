@@ -41,11 +41,11 @@ A legfontosabb kapcsolatunk általában egy jól meghatározott személyhez fűz
 Ez lehet a barátunk/barátnőnk, férjünk/feleségünk, az embör/asszony, vagy -- egy kollégám szavajárásával -- az életünk megcukrozója.
 Sok munka van viszont azzal, hogy idővel nehogy életünk megborsozója váljon belőle.
 
-A szerelem rózsaszín felhője kezdetben könnyen elfedi az inkompatibilitásokat, de ez az állapot sajnos múlandó, és utána jön a hideg zuhany.
+A szerelem rózsaszín felhője kezdetben könnyen elfedi az inkompatibilitásokat, de ez az állapot sajnos mulandó, és utána jön a hideg zuhany.
 Ilyenkor sem a nagyszüleink-féle bekeseredés, sem a modern tempójú partnercserélgetés nem kimondottabban "jó" megoldás.
-Válasszuk inkább azt, hogy munkához látunk, és aktívan épíjük a kapcsolatunkat.
+Válasszuk inkább azt, hogy munkához látunk, és aktívan építjük a kapcsolatunkat.
 
-Ehhez lehetnek nagy hasznunkra Gary Chapman [5 szeretetnyelve]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}).
+Ehhez lehet nagy hasznunkra Gary Chapman [5 szeretetnyelve]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}).
 Abszolút jogos a nyelvekkel vont párhuzama, hiszen **1)** ott is kommunikálni kell, **2)** a másik igényei szerint kell kifejeznünk magunkat (és a szeretetünket), illetve **3)** egy új nyelvjárást elsajátítani bizony komoly munka lesz.
 Érdemes tehát minél hamarabb megtalálni és megtanulni a párunk szeretetnyelvét; választási lehetőségeink az elismerő szavak, a minőségi idő, az ajándékozás, a szívességek és a testi érintés.
 Ezek kontextusában pedig valószínűleg jobban fog töltődni a másik szeretettankja -- és a miénk is.
@@ -83,14 +83,14 @@ Végül pedig véssük az eszünkbe, hogy senki nem tökéletes -- ezért legyü
 
 ## <a name="tarsasag"></a>Társaság
 
-Az egyre társaságibb, személyiség-centrikusabb világunkban szerintem mindenkinek fontos olvasmány lenne Dale Carnegie -- [Hogyan szerezzünk barátokat]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) című jómodor bibliája.
+Az egyre társaságibb, személyiség-centrikusabb világunkban szerintem mindenkinek fontos olvasmány lenne Dale Carnegie -- [Hogyan szerezzünk barátokat]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) című jó modor bibliája.
 Sok konkrét tanácsot ad magunk megkedveltetésére vagy mások meggyőzésére, de én szeretek rá jelentősen leegyszerűsítve gondolni:
 
 - Ne legyünk negatívak -- ide értve a kritizálást, a manipulációt, a figyelmetlenséget, stb.
 
-- Legyünk pozitívak -- ide értve az (őszinte!) dícséretet, a figyelmet, a mosolyt, a hangszínt/hangnemet, stb.
+- Legyünk pozitívak -- ide értve az (őszinte!) dicséretet, a figyelmet, a mosolyt, a hangszínt/hangnemet, stb.
 
-- Lássuk a dolgokat másik szemszögéből (is) -- ide értve, hogy ne mindig csak mi beszéljünk, ne csak magunk iránt érdeklődjünk, tiszteljük a másik véleményét, tarsuk szem előtt az ő érdekeit, stb.
+- Lássuk a dolgokat másik szemszögéből (is) -- ide értve, hogy ne mindig csak mi beszéljünk, ne csak magunk iránt érdeklődjünk, tiszteljük a másik véleményét, tartsuk szem előtt az ő érdekeit, stb.
 
 Ha egyetlen mondatba szeretném tömöríteni az egész könyvet, akkor az valószínűleg a következő (vegyes filozófiai és vallási háttérrel rendelkező) idézet lenne: "Úgy bánj másokkal, ahogy szeretnéd, hogy veled bánjanak!".
 De még akár egyetlen szó is elég lehet a mondanivaló megragadására: empátia!
@@ -100,16 +100,15 @@ Vagy ahogy Henry Ford mondta:
 
 Tanulságos kiegészítés ezek mellé Susan Cain -- [Csend]({% post_url 2020-11-07-susan-cain-csend %}) című könyve, ami az introvertált és az extrovertált személyiségtípusok közti különbségeket tárgyalja.
 Vegyük kb. úgy, hogy Carnegie-nél megkaptunk minden magabiztosságos, kézfogós, szociális dolgot -- itt pedig megláthatjuk az érem másik oldalát.
-És ugyan nem mindenki mozog egyformán otthonosan a reflektorfényben, 
 
 Lehet, hogy a modern világ az extrovertált ideál köré épül, de azért az introvertáltaknak is megvan a helye.
 A könyv lényege valójában annyi, hogy a beilleszkedésük milyen nézőpontból történik.
 Fontos, hogy nem kevesebbek vagy rosszabbak, csak mások.
-Introvertáltként *alkalmazkodni* próbáljunk az extro kultúrához, ne "felérni hozzá".
+Introvertáltként *alkalmazkodni* próbáljunk az extrovertált kultúrához, ne "felérni hozzá".
 
 Egy másik tanulság, amit kiemelnék, az a "befőttes gumi" hasonlat, vagyis hogy bizonyos keretek között mindannyiunk személyisége rugalmas.
 Ez azt jelenti, hogy akár introvertáltként is tehetünk kimondottan extrovertált dolgokat, ha azok a valós értékeinket szolgálják.
-Csak figyeljünk oda az egyensúlyra, és ne feszítsük túl messzira (vagy túl sokáig) azt a bizonyos befőttes gumit!
+Csak figyeljünk oda az egyensúlyra, és ne feszítsük túl messzire (vagy túl sokáig) azt a bizonyos befőttes gumit!
 
 <br>
 
@@ -141,12 +140,13 @@ Illetve mások azért persze ugyanolyan könnyen lehetnek gátlástalan férgek 
 
 > A törvény nem tudása senkit nem mentesít.
 
-48 még gombócból is sok, úgyhogy itt valószínűleg mindenki talál fejlődnivalót.
+48 még gombócból is sok, úgyhogy itt valószínűleg mindenki talál fejlődni valót.
 Én mondjuk biztosan igyekezni fogok majd jobban befogni a számat, a tetteimmel érvelni, legalább valamennyire nyitni a köz (és a közvélemény) felé, illetve bátra(bba)n hozzáállni a céljaimhoz.
 
-Aki egy kicsit emberségesebb (és elmésebb) hangszínre vágyik, annak pedig ott van Baltasar Gracián -- Az életbölcsesség kézikönyve ([első rész]({% post_url 2020-07-10-baltasar-gracian-az-eletbolcsesseg-kezikonyve-1 %}), [második rész]({% post_url 2020-07-17-baltasar-gracian-az-eletbolcsesseg-kezikonyve-2 %})).
+Aki pedig egy kicsit emberségesebb (és elmésebb) hangszínre vágyik, annak ott van Baltasar Gracián -- Az életbölcsesség kézikönyve ([első rész]({% post_url 2020-07-10-baltasar-gracian-az-eletbolcsesseg-kezikonyve-1 %}), [második rész]({% post_url 2020-07-17-baltasar-gracian-az-eletbolcsesseg-kezikonyve-2 %})).
 Tartalmilag nyilván sok az átfedés a 48 törvénnyel, de szerintem itt nem is feltétlenül a friss meglátások, hanem a megfogalmazásuk adja az értéket.
 Tömören, humorosan és emlékezetesen fejezi ki a lényeget, ami így jobban megragad, és tényleg hathat a mindennapjainkra.
+Időnként feltétlen érdemes lesz visszaolvasgatni...
 
 <br>
 
@@ -182,16 +182,16 @@ Igazából minden egyéb ebből a filozófiából fakad, de azért néhány kedv
 
 - A hosszú távú gondolkodásban elengedhetetlen az apró részletek és az átfogó fejlődés közti kapcsolat felismerése.
 
-- Tudjuk elviselni a késleltetett jutalmat! Először jobb gyártósor készülhessen, ami majd egyszer jobb minőségű eredmények gyártását teszi lehetővé.
+- Tudjuk elviselni a késleltetett jutalmat! Először jobb gyártósor készül, ami (majd egyszer) jobb minőségű eredmények gyártását teszi lehetővé.
 
-- Tudjunk megbírkózni a valósággal: se a siker, se a kudarc ne befolyásolja a törekvéseinket és a fókuszunkat.
+- Tudjunk megbirkózni a valósággal: se a siker, se a kudarc ne befolyásolja a törekvéseinket és a fókuszunkat.
 
 - A jó vezető elsősorban egy tanár, aki mellesleg a saját utánpótlását is képzi!
 
-Nagyon hasonlóakat mond George Patton tábornok [War As I Knew It]({% post_url 2020-08-29-george-patton-war-as-i-knew-it %}) című könyve is -- amiben talán furcsa lehet, hogy mennyire nem szigorúan "katonai".
+Nagyon hasonlóakat olvashatunk ki George Patton tábornok [War As I Knew It]({% post_url 2020-08-29-george-patton-war-as-i-knew-it %}) című könyvéből is -- ahol csak a díszlet szigorúan "katonai", a lecke egyáltalán nem.
 Ennek tükrében tényleg úgy látom, hogy a vezetés és a hatékonyság nagyban függetlenek attól, hogy kiket szeretnénk vezetni, vagy hogy miben szeretnénk hatékonyak lenni.
-Pattonban sem az a különleges, hogy ezeket a stratégiákat katonai körökben alkalmazta, hanem hogy milyen következetesen és lelkiismeretesen alkalmazta.
-Ha követjük a példáját, akkor mi is 4 csillagos tábornokai lehetünk a saját dolgainknak.
+Pattonban sem az a különleges, hogy ezeket a stratégiákat katonai körökben alkalmazta, hanem hogy milyen következetesen és lelkiismeretesen tette.
+Ha követjük a példáját, akkor mi is 4 csillagos tábornokai lehetünk a saját életünknek.
 
 <br>
 
@@ -227,7 +227,7 @@ Tettük mindezt annak reményében, hogy valami legnagyobb közös osztó jelleg
 
 - Akár a rend, akár a káosz, akár a különcködés felé hajlunk jobban, az elsődleges a helyes fontossági sorrend!
 Semminek nem lesz magától helye az életünkben, ha nem csinálunk neki helyet.
-(Ez alapján nyilvánvalóan erős a kapcsolat a Művészet Háborújával: csinálni kell, és idővel a kitartás és rendszeresség verni fogja a hirtelen inspirációt.)
+(Ez alapján nyilvánvalóan erős a kapcsolat a [Művészet háborújával]({% post_url 2020-02-04-steven-pressfield-a-muveszet-haboruja %}): csinálni kell, és idővel a kitartás és rendszeresség verni fogja a hirtelen inspirációt.)
 
 - Egy másik átfogó tanulság, hogy igyekezzünk nem kimeríteni magunkat!
 Megvannak ugyan a munkamániások, de a legtöbben meglepően keveset dolgoznak napi szinten, ami viszont aztán összeadódik.
@@ -265,7 +265,7 @@ Végül pedig némi fikciót is érintünk, hiszen egy történet attól még le
 Illetve személy szerint jó alkalom ez nekem arra is, hogy bepótoljak néhány olyan "alapművet", ami eddig valahogy csak kimaradt.
 
 Ezek közül a legfontosabb kétség kívül George Orwell -- [1984]({% post_url 2020-05-29-george-orwell-1984 %}) című regénye.
-Nem szeretnék spoiler-ezni, de nem az a tipikus happy end.
+Nem szeretnék spoiler-ezni, de nem az a tipikus *happy end*.
 Viszont nagyon fontos (és sajnos továbbra is aktuális) ez a több mint 70 (!) éves disztópikus előrevetítés.
 Tekintsük figyelmeztetésnek, és ne hagyjuk, hogy a valóságban idáig fajuljanak a dolgok!
 Addig tegyünk ellene, amíg még tehetünk...
@@ -277,7 +277,7 @@ A sztorit itt sem lőném le, csak a főbb tanulságokat emelném ki:
 
 - Próbáljuk a változást ne jónak vagy rossznak, hanem csak szimplán az élet részének tekinteni!
 
-- A kedvenc tanár ajánlása alapján: higgyük el, hogy emberek ezrei néztek szembe a történelem során ugyanazokkal az egzisztenciális válságokkal, amikkel mi is. Ezekből egy pár biztosan írt a tapasztalatairól, és hogy aztán mi lett… Tanuljunk ezekből, olvassunk sokat!
+- Higgyük el, hogy emberek ezrei néztek szembe a történelem során ugyanazokkal az egzisztenciális válságokkal, amikkel mi is. Ezekből egy pár biztosan írt a tapasztalatairól, és hogy aztán mi lett... Tanuljunk ezekből!
 
 <br>
 
