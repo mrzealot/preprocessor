@@ -14,11 +14,11 @@ Ez persze szólhat a már meglévők finomhangolásáról, vagy arról is, hogy 
 Bárhogy is, James Clear szokás-szakértő [Atomi szokások](https://www.goodreads.com/book/show/40121378-atomic-habits){:target="_blank"} című könyve szerintem mindannyiunknak hasznos évindító lesz.
 
 Hősünknek egy korai baseball sérüléstől kezdve muszáj volt alaposan az apró szokásokra és a szigorú rutinra hagyatkoznia a felépüléséhez.
-Ez a mentális megacélozódás aztán olyan jól sikerült, hogy az egyetemi évei alatt kiemelkedő sikereket ért el több területen is.
+Ez a mentális megacélozódás aztán olyan jól sikerült, hogy az egyetemi évei alatt kiemelkedő sikereket ért el több területen.
 Tette mindezt "csak" azzal, hogy konzisztensen tartotta magát a helyes szokásokhoz a kortársai általános rendszertelenségével szemben.
 
 Később a saját szokásformáló kísérletezéséből nőtt ki a [blogja](https://jamesclear.com/){:target="_blank"}, majd ez a könyv is.
-Benne egy filozófiát, pszichológiát, biológiát és neurológiát is felölelő áttekintést ad az emberi szokások működéséről, a külső és belső ingerekre adott válaszainkról, és hogy ezeket hogyan tudjuk a saját javunkra formálni.
+Bennük egy filozófiát, pszichológiát, biológiát és neurológiát is felölelő áttekintést ad az emberi szokások működéséről, a külső és belső ingerekre adott válaszainkról, és hogy ezeket hogyan tudjuk a saját javunkra formálni.
 És mivel nekem is van még egy csomó minden, amit be szeretnék illeszteni a (már így is eléggé tömöttnek érződő) napirendembe, nem árt a profi segítség!
 
 A tartalom a következőképp alakul:
@@ -176,7 +176,7 @@ Ezért ha valami "szokás szintre süllyed", akkor arra már közben figyelnünk
 
 Sokan a kötöttségekkel és egy unalmas élettel azonosítják a szokásokat, és inkább a szabadság vagy a spontaneitás felé húznának.
 De Clear szerint pont a szokások által felszabadított kapacitás adná meg az igazi szabadság lehetőségét.
-Akinek még az "alap" dolgain is folyton agyalnia kell, annak már nem lesz energiája az felett kreatívkodni is.
+Akinek még az "alap" dolgain is folyton agyalnia kell, annak már nem lesz energiája az felett kreatívkodni.
 Érdemes tehát ismerni, hogyan is működünk -- hogy aztán okosabban piszkálhassunk bele a folyamatba.
 
 <br>
@@ -194,8 +194,8 @@ De a folyamat mindig ugyanez.
 A jutalom egyrészt kielégíti a sóvárgást, másrészt szokást formál, mert megjegyezzük, hogy hogyan is jutottunk hozzá.
 Ha legközelebb is találkozunk ugyanezzel a kiváltó jelzéssel, akkor nyugodtan követhetjük újra ezt az akció-sorozatot, és ugyanazt a jutalmat kapjuk majd...
 Legalábbis ez a terv.
-Az első három kell, hogy valamit egyáltalán megtegyünk, de csak a negyedikkel együtt fogjuk ismételve megtenni.
 
+Az első három kell, hogy valamit egyáltalán megtegyünk, de csak a negyedikkel együtt fogjuk ismételve megtenni.
 Erre a négy lépcsős mentális modellre pedig már szépen ráépíthetjük a viselkedésváltoztatás négy törvényét, amikkel egyszerű lesz jó szokásokat építeni:
 
 1. Legyen egyértelmű!
@@ -244,7 +244,7 @@ Ha megszokjuk, hogy "magunknál vagyunk", akkor könnyebben vesszük észre (és
 Itt még semmi ítélkezés, csak beazonosítás.
 Emlékezzünk [Vicki Robin]({% post_url 2020-03-20-vicki-robin-your-money-or-your-life %})-ra, aki a pénzügyi dolgoknál is ugyanezt mondta: "NO SHAME, NO BLAME!"
 
-Egy új szokást kialakításának legjobb módja az ún. **"megvalósítási szándék"**: ha X lesz a helyzet, akkor Y-t fogok csinálni.
+Egy új szokás kialakításának legjobb módja az ún. **"megvalósítási szándék"**: ha X lesz a helyzet, akkor Y-t fogok csinálni.
 Ez legtöbbször nem más, mint egy pontos idő és hely meghatározása: ha ekkor itt leszek, akkor ezt fogom tenni.
 Ez igazoltan magas hatással van az új szokások formálására, szemben a puszta motivációval (vagy egyáltalán csak a jelenlegi állapotunk követésével).
 Az, hogy "egészségesebben kellene ennem" az csak egy vágy, és önmagában semmit nem ér.
@@ -269,7 +269,7 @@ Egy kísérletben kimutatták például, hogy ha több helyen és egyszerűbben 
 Ettől az emberek ugye nem lettek mások, de a környezetük igen -- és így a viselkedésük is módosult.
 
 Ezt idővel persze vissza lehet vezetni identitás szintig, amikor már az ember maga is tudatos "víz ivóvá" válik.
-De amíg kialakítani próbálunk egy szokást, addig a "helyes" környezettel rengeteget segíthetünk magunknak.
+De amíg kialakítani próbálunk egy szokást, addig a helyes környezettel rengeteget segíthetünk magunknak.
 Hiába hisszük ugyanis, hogy mindig tudatosan választunk -- a legnyilvánvalóbb opció többet befolyásolhat a választásunkon, mint gondolnánk.
 
 A lecke: legyünk a környezetünk tervezői, ne az áldozatai!
@@ -320,7 +320,7 @@ A jelenlegi szokásaink egyszerűen annyit mutatnak, hogy az ősi motivációink
 De ugyanezeket a motivációkat számtalan más módon is ki lehetne elégíteni...
 És azok közül valamelyik valószínűleg jobb/egészségesebb/produktívabb, mint a mostani.
 
-A gond csak az, hogy a világunk tele van szupernormális ingerekkel.
+A gond csak az, hogy a világunk tele van *szupernormális* ingerekkel.
 Például a gyors kaják is azért ellenállhatatlanok, mert annyira pontosan az emberi ízlés megőrjítésére vannak kitalálva.
 Ha a sós jó, akkor a még sósabb még jobb.
 De ugyanez a reklámokra, a szociális médiára, a pornóra, stb.
@@ -385,7 +385,7 @@ De kiemeljük, hogy a szokásokat nem az idő, hanem az ismétlésszám alakítj
 Könnyítsük hát meg magunknak, hogy beletegyük a megfelelő ismétlésszámot.
 
 Legtöbbször nem a szokásainkat akarjuk csinálni, csak az eredményeiket akarjuk bezsebelni.
-De ha a szokás maga kényelmetlen, akkor nem fogjuk vele elég messzire jutni.
+De ha a szokás maga kényelmetlen, akkor nem fogunk vele elég messzire jutni.
 Tartsuk észben, hogy magunktól mindig a legkisebb ellenállás felé mozdulunk.
 A tiszta motiváció egy *nagyon véges* erőforrás, és hamarabb fog elfogyni, mint a plusz kilóink vagy a szortírozandó e-mail-jeink.
 
@@ -406,7 +406,7 @@ Ez remélhetőleg segít majd többször a jobb irányba indulni az elágazásn�
 És minél inkább rituálét csinálunk a szokás elejéből, később annál mélyebben tudunk majd belemerülni.
 Előbb legyen rutin, és majd csak aztán tökéletes!
 
-Hozhatunk persze olyan egyszeri döntéseket is, amik szokásformálás helyett gyakorlatilag "befektetések" a távolabbi jövőre.
+Hozhatunk persze olyan egyszeri döntéseket is, amik szokásformálás helyett gyakorlatilag "befektetések" a távolabbi jövőbe.
 Mondjuk vegyünk egy jobb matracot, mondjuk le a TV szolgáltatásunkat, iratkozzunk le egy csomó szenny e-mail-ről, ilyesmi.
 Emellett pedig használjuk ki bátran a modern technológiákat, és automatizáljunk, amit csak tudunk.
 
@@ -449,7 +449,7 @@ Sőt, még ennél is bonyolultabb a képlet, mert mindig azonnal akarjuk a kiel�
 Ezt nyilván újfent az ősember agyunknak köszönhetjük, de attól még így van.
 És a hosszú távon pozitív szokások nagyja (edzés, diéta, produktivitás, spórolás, ...) sajnos olyan, aminek a rövid távú hatása nem annyira "édes".
 Ellenben a hosszú távon negatív szokásokkal (bezabálás, pia, drogok, költekezés, ...), amiknél pedig pont fordítva van.
-Ennek fényében pedig finomíthatjuk a szabályt:
+Ennek fényében finomíthatjuk a szabályt:
 Amit *azonnal* jutalmaznak, az megismétlődik.
 Amit *azonnal* büntetnek, az nem.
 
@@ -476,11 +476,11 @@ Kielégítő, mert:
 
 A követés legkönnyebb módja a naptáron X-elés (á lá Jerry Seinfeld).
 De bármilyen notesz vagy telefonos app is jó...
-Ami kényelmes, lényeg, hogy csináljuk.
+Ami kényelmes; lényeg, hogy csináljuk.
 És hogy ne törjük meg a láncot!
 
 Na jó, de mi van, ha mégis megszakad az a bizonyos lánc?
-Mert előbb-utóbb (ahogy anyum mondaná) úgyis szarik valamid az ördög.
+Mert előbb-utóbb (ahogy anyum mondaná) úgyis szarik valamit az ördög.
 Olyankor pedig az a lényeg, hogy **ne hibázzunk kétszer** egymás után!
 
 > Egy kihagyás lehet véletlen. Két kihagyás viszont már egy új szokás kezdete.
@@ -488,15 +488,15 @@ Olyankor pedig az a lényeg, hogy **ne hibázzunk kétszer** egymás után!
 
 A rossz napokon rosszul elvégzett szokások még majdhogynem *fontosabbak*, mint a jó esetek -- mert ezek az identitásunkat erősítik.
 Megmutatják, hogy olyan fajta emberek vagyunk, akik a rossz napjukon sem hagyják ki az edzést például.
-Az már mindegy, hogy maga az edzés szarul megy...
+Az már nem számít, hogy maga az edzés szarul megy...
 De megcsináltuk!
 Sokan vannak úgy vele, hogy ha már tökéletes nem lehet, akkor mindegy is, legyen inkább semmilyen.
 Na **ezt** gátolhatjuk meg ezzel a szabállyal!
 
-Végül pedig az is nagyon fontos tényező, hogy pontosan *mit* tekintünk haladásnak.
+Végül pedig nem mellékes az sem, hogy pontosan *mit* tekintünk haladásnak.
 Arra fogunk optimalizálni, amit mérünk -- és ezzel járhatunk rosszul is!
 A [Good to Go]({% post_url 2020-04-17-christie-aschwanden-good-to-go %})-ban már emlegetett [McNamara tévedés](https://en.wikipedia.org/wiki/McNamara_fallacy){:target="_blank"} szerint: "Nem minden számít, ami mérhető. És nem minden mérhető, ami számít."
-Szóval gondoljunk erre is, amikor a mérleg meg sem mozdul már egy hónapja.
+Szóval gondoljunk erre, amikor a mérleg meg sem mozdul már egy hónapja.
 Hiszen lehet, hogy közben a közérzetünk már sokat javult, vagy jobbakat alszunk, vagy már nem kívánjuk annyira az édeset...
 
 <br>
@@ -539,7 +539,7 @@ A génjeink nem mentesítenek a munka alól, csak megmutatják, hogy hova érdem
     Vagy (1) fogadjuk el és dolgozzunk keményen, hogy legalább a közelébe érhessünk, vagy (2) válasszunk másik célterületet, ahol messzebb van a határ -- és aztán *azon* dolgozzunk keményen.
 
 
-- **Mindig olyanon dolgozzunk, ami "épp eléggé megerőltető"!**
+- **Mindig olyat csináljunk, ami "épp eléggé megerőltető"!**
 Vagyis se nem túl unalmas, se nem túl nehéz.
 Ezt a könyv "Aranyfürtöcske szabály"-nak hívja, de mi persze ezt az elvet már a [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %})-ból is ismerjük.
 Vagy Arisztotelész [arany középútjáról]({% post_url 2020-06-26-bertrand-russel-a-nyugati-filozofia-tortenete-1 %}#arisztotelész) is beugorhat valami.
@@ -598,6 +598,6 @@ Hogy átértünk a célvonalon, és vége.
 Csak olyan van, hogy ugyanazt az optimalizálgatást csináljuk, újra és újra, mindig 1%-ot javítva a rendszerünkön.
 
 Ha rá akarunk szokni egy adott viselkedési formára, akkor azt egyre inkább egyértelművé, vonzóvá, egyszerűvé és kielégítővé tesszük.
-Ha pedig úgy intézzük, hogy minden rossz szokásunk rejtett, visszataszító, bonyolult, és (mi a kielégítő ellentéte? ... ööö...) **nem** kielégítő legyen, akkor azok idővel el fognak kopni.
+Ha pedig úgy intézzük, hogy minden rossz szokásunk rejtett, visszataszító, bonyolult, és (mi a kielégítő ellentéte?... ööö...) **nem** kielégítő legyen, akkor azok idővel el fognak kopni.
 
 Ezzel a tudással felvértezve remélem mindenki sikeresebben tud majd megbirkózni az újévi fogadalmaival!
