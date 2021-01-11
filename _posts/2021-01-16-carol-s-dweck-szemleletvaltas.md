@@ -41,31 +41,42 @@ excerpt: >
 
 ## <a name="intro"></a>A két szemléletmód
 
-- a kudarcokat tanulási lehetőségként kell megélni (még akár élvezni is), mert azoktól fejlődünk
-    - egy bukás nem megmutatta, hogy nem vagyunk elég jók... csak felkészít rá, hogy legközelebb már jobbak legyünk
-- mind a gének, mind a környezetünk nagyban befolyásolják, hogy milyen adottságokkal indulunk neki az életünknek
-    - de hogy ebből a kezdőpontból meddig/hova jutunk el, azt inkább az határozza meg, hogy hogyan tekintünk magunkra
-- a berögzült nézőpont szerint mindenki olyan, amilyen
-    - adott intelligenciával, személyiséggel és képességekkel születünk, amik aztán csak megnyilvánulnak valahogy az életünk során
-    - az ilyen ember folyton bizonyítani akar, hiszen ha már rögzült az értéke, akkor jobban teszi, ha demonstrálja is, hogy ő bizony megüti a szintet
-    - a sikert és elismerést üldözi, mert azok igazolják vissza -- de minden áron menekül a kudarc elől, mert az csak "leleplezné", hogy mégsem olyan értékes, mint amilyennek elsőre látszott
-    - minek (fölöslegesen?) beleölni a sok energiát valamibe, ha egyszer nem megy... vagy ha van esélye, hogy nem fog menni...
-- a növekedési nézőpont szerint viszont mindenki olyan, amilyenné válik
-    - lehet, hogy más-más pontról indulunk az intelligencia/személyiség/stb. spektrumon, de onnan kellő munkával bármilyen irányba (és szinte bármeddig) eljuthatunk
-    - az ilyen ember nem azt fitogtatja, amit tud, hanem azzal foglalkozik, amit még nem tud
-    - nem elrejteni próbálja a hibáit, hanem tanulni belőlük
-- ez a hozzáállás közvetlenül jelentkezik a megbirkózási stratégiáinkban
-    - egy rossz visszajelzés után feladjuk, vagy keményebben készülünk a következő megmérettetésre?
-    - a jobbak felé fordulunk, hogy legyen kitől tanulni -- vagy a rosszabbak felé, hogy legalább annyival is okosabbnak érezhessük magunkat?
-- még egy pozitívum: pontosabban tudjuk majd, hogy milyen téren mire vagyunk képesek
-    - mert a fejlődéshez pontos és valós visszajelzés kell, amit így el is fogadunk majd
-    - aki viszont berögzült, annak nagyobb valószínűséggel lesz (legalább valamilyen szinten) torz az önítélete
-- persze a tünetekben, és a látszólagos megoldásokban semmi új nincs
-    - sok a mondás, ami arra biztat, hogy "soha ne adjuk fel", hogy a "kitartó munka meghozza gyümölcsét", vagy hogy "Róma sem egy nap alatt épült"
-    - itt az az "új", hogy a kudarcra adott reakciónkat erre az alapvető hozzáállásbeli különbségre vezetjük vissza
-    - mondhatni, hogy itt talán végre a tünet helyett a kiváltó kezelhetnénk
-- az alapvető hozzáállásunk megváltoztatása nélkül hiába mondják majd, hogy "csak ne add fel"
-    - ha viszont megváltoztatjuk, akkor nem is kell majd, hogy mondják
+
+Mind a gének, mind a környezetünk nagyban befolyásolják, hogy milyen adottságokkal indulunk neki az életünknek.
+De hogy ebből a kezdőpontból aztán meddig/hova jutunk el, azt inkább az határozza meg, hogy hogyan tekintünk magunkra.
+
+A **berögzült szemlélet** szerint mindenki olyan, amilyen.
+Adott intelligenciával, személyiséggel és képességekkel születünk, amik aztán csak *megnyilvánulnak* valahogy az életünk során.
+Az ilyen ember folyton bizonyítani akar, hiszen ha már állandóak az értéke, akkor jobban teszi, ha demonstrálja is: ő bizony megüti a szintet.
+A sikert és elismerést üldözi, mert azok igazolják vissza -- de minden áron menekül a kudarc elől, mert az csak "leleplezné", hogy mégsem olyan értékes, mint amilyennek elsőre látszott.
+Ilyen szemszögből logikus, ha idővel egyre kevésbé nyújtózkodik az ember.
+Minek (feleslegesen?) beleölni a sok energiát valamibe, ha egyszer nem megy?
+Vagy ha egyáltalán van esélye, hogy nem fog menni...
+
+A **növekedési szemlélet** szerint viszont mindenki olyan, amilyenné *válik*.
+Lehet, hogy más-más pontról indulunk az intelligencia/személyiség/stb. spektrumokon, de onnan kellő munkával bármilyen irányba (és szinte bármeddig) eljuthatunk.
+Az ilyen ember nem azt fitogtatja, amit tud, hanem azzal foglalkozik, amit még nem tud.
+Nem elrejteni próbálja a hibáit, hanem tanulni belőlük.
+A kudarcokat tanulási lehetőségként éli meg -- sőt, még akár élvezi is -- mert azoktól fejlődik.
+Egy bukás nem megmutatta, hogy nem vagyunk elég jók...
+Csak felkészít rá, hogy legközelebb már jobbak legyünk.
+
+A két hozzáállás különbségei közvetlenül jelentkeznek a megbirkózási stratégiáinkban.
+Egy rossz visszajelzés után feladjuk, vagy keményebben készülünk a következő megmérettetésre?
+A nálunk jobbak felé fordulunk, hogy legyen kitől tanulni -- vagy a rosszabbak felé, hogy legalább annyival is okosabbnak érezhessük magunkat?
+A képességeink megítélésénél tudjuk-e fogadni a pontos és valós visszajelzéseket, vagy az ego-nk védelmében torzulni fog az önképünk?
+Mindenkinek házi feladat, hogy a fentiekből melyikek a jobb opciók, és hogy azok vajon melyik szemléletmódhoz tartoznak.
+
+Persze nem egy fekete/fehér, igen/nem döntés, hogy ki melyiket képviseli.
+Mind valahol középen helyezkedünk el.
+A fontos az, hogy tisztában legyünk a végletekkel, és hogy utána tudatosan araszolgassunk a nekünk szimpatikusabb irányba.
+
+A tünetekben, és a látszólagos megoldásokban semmi új nincs.
+Sok közmondásból eddig is tudhattuk, hogy "soha ne adjuk fel", hogy a "kitartó munka meghozza gyümölcsét", vagy hogy "Róma sem egy nap alatt épült".
+Itt egyedül annyi az új, hogy magára a kudarcra adott reakciónkat is erre az alapvető hozzáállásbeli különbségre vezetjük vissza.
+Mondhatni, hogy itt talán végre a tünet helyett a kiváltó kezelhetnénk.
+Mert hát az alapvető szemléletmódunk megváltoztatása nélkül hiába mondják majd, hogy "csak ne add fel".
+Ha viszont megváltoztatjuk, akkor senkinek nem is kell majd mondania.
 
 <br>
 
@@ -98,50 +109,58 @@ excerpt: >
 
 ## <a name="osszehasonlitas"></a>Összehasonlítás
 
-- nem mindegy, hogy a siker önmagunk validálása vagy önmagunk fejlesztése
-- a két hozzáállás szemében még maga a kudarc is mást jelent
-    - a rögzültnél az a kudarc, ha valami nem jön össze (rossz jegy az iskolában, romantikus visszautasítás, más kapja az előléptetést, stb.)
-    - a növekedésinél pedig az, ha nem fejlődünk (vagyis nem is **próbálunk** jobb jegyet szerezni, nem is **próbálunk** új kapcsolatokat kultiválni, vagy nem **próbálunk** a legjobb képességünk szerint teljesíteni az előléptetéstől függetlenül)
+A két szemléletmód gyökeresen másként értelmezi, hogy mit is jelent számunkra a siker: önmagunk *validálását* vagy önmagunk *fejlesztését*?
+Ebből kifolyólag pedig a siker*telenség* is mást jelent.
+A rögzültnél az a kudarc, ha valami nem jön össze: rossz jegy az iskolában, romantikus visszautasítás, más kapja az előléptetést, stb.
+A növekedésinél pedig az a kudarc, ha nem fejlődünk -- vagyis nem is **próbálunk** jobb jegyet szerezni, nem is **próbálunk** új kapcsolatokat kultiválni a régi helyett/mellett, vagy nem **próbálunk** a legjobb képességünk szerint teljesíteni az előléptetéstől függetlenül.
 
-> Én nem gyengékre és erősekre, vagy sikeresekre és kudarcokra osztom a világot... hanem tanulókra és nem-tanulókra.
+> Én nem gyengékre és erősekre, vagy sikeresekre és sikertelenekre osztom a világot... hanem tanulókra és nem-tanulókra.
 >
 > -- Benjamin Barber
-> > I don't divide the world into the weak and the strong, or the successes and the failures... I divide the world into the learners and nonlearners."
+> > I don't divide the world into the weak and the strong, or the successes and the failures... I divide the world into the learners and nonlearners.
 
-- gondoljunk a csecsemőkre, akik elég jól példázzák, hogy mindannyian a növekedési, fejlődési hozzáállással indulunk neki az életünknek
-    - nem szégyelljük el magunkat, ha épp a 93. alkalommal esünk seggre. fel sem fogjuk, mi az a szégyen. csak próbálkozunk tovább, újra és újra.
-    - nem minősít minket idiótának, ha még hónapok távlatában is csak visszagügyögni tudunk a szüleink kérdéseire.
-    - és mi a vége? előbb utóbb érdekes módon valahogy mindenkinek sikerül megtanulnia járni és beszélni.
-- ennek a hozzáállásnak viszont sokak számára gyorsan vége szakad, amint a társadalom által nagylelkűen nyújtott civilizációs réteg rátelepszik az agyunkra
-    - "rájövünk", hogy a kudarc rossz, és hogy az okosok nem vétenek hibákat
-    - ezért pedig ahol nagy a kudarcok és a hibák esélye, oda mi inkább nem merészkedünk, köszönjük szépen.
-- az akadémiai és munkahelyi teljesítményünkön felül ez a hozzáállás a párválasztásunkra is kihathat
-    - aki berögzült, annak a folyamatos tömjénezés kell, mint valami egyszemélyes vallás élő istenének
-    - a növekedőknek pedig egy olyan társ kell, aki minél jobban támogatja a fejlődésüket
-    - és igen, keveredés esetén bizony lehetnek bajok...
-- máshogy kezeljük majd a nehéz időszakokat
-    - a berögzülés eleve mélyebb depressziós hajlamokhoz vezet, amire aztán már csak rátesz, hogy jobban el is hagyjuk magunkat
-    - a növekedési szemléletűek ezzel szemben inkább még jobban próbálják tartani magukat, ami a depresszió enyhülése után egy sokkal "szétcsúszatlanabb" élethez vezet
-- berögződés mellett a tehetség sem fog minket megmenteni
-    - lehet, hogy későbbre tolja azt, amíg találkozunk a saját határainkkal
-    - de azon nem változtat, hogy hogyan reagálunk majd, amikor (nem ha, amikor) elérünk odáig
-    - vagyis a tehetség arra jó, hogy honnan indulunk, milyen gyorsan haladunk, vagy hogy meddig "könnyű"
-    - de egy idő után már úgysem könnyű, és ha az után is haladni akarunk, ahhoz a növekedési szemléletmódra lesz szükségünk
-- aki nem hisz a jelentőségteljes fejlődésben, annak minden teszt élet-halál kérdés, mert felfedi a (végleges!) képességeit
-    - ezért nem is nagyon mer őszinte erőfeszítést tenni... mi lenne az értelme?
-        - ha sikerül, akkor is "csak" igazolta, hogy képes rá
-        - ha viszont nem, akkor ugye "lebukott" -- és még csak kifogása sem marad, hogy miért, hiszen tényleg odatette magát
-    - de ha megnézünk egy nagy csomó híres művészt, a korai munkáik gyakran nem kimondottabban említésre méltók... ezt meg vajon hogy?
-        - nem lehet, hogy azért jutottak el a hírnevet érő későbbi fázisaikig, mert nem adták fel korábban -- amikor még nem tartottak ott?
-    - vagyis aki hisz a fejlődésben, annak pont az a kockázat, ha **nem** teszi oda magát
+Gondoljunk a csecsemőkre, akik elég jól példázzák: mindannyian a növekedési, fejlődési hozzáállással indulunk neki az életünknek.
+Nem szégyelljük el magunkat, ha épp a 93. alkalommal esünk seggre.
+Fel sem fogjuk, mi az a szégyen.
+Csak próbálkozunk tovább, újra és újra.
+Nem minősít minket idiótának, ha még hónapok távlatában is csak visszagügyögni tudunk a szüleink kérdéseire.
+És mi a vége?
+Előbb utóbb érdekes módon valahogy legtöbbünknek sikerül megtanulnia járni és beszélni.
 
-- senki nem tisztán ilyen vagy olyan, mindenki valahol félúton helyezkedik el a spektrumon
-    - de tolhatjuk magunkat a fejlődős irányba!
+Ennek a hozzáállásnak viszont sokak számára gyorsan vége szakad, amint a társadalom által nagylelkűen biztosított civilizációs réteg rátelepszik az agyunkra.
+"Rájövünk", hogy a kudarc rossz, és hogy az okosok nem vétenek hibákat.
+Ezért pedig ahol nagy a kudarcok és a hibák esélye, oda mi inkább nem merészkedünk, köszönjük szépen!
 
-- nem kell feltétlen a sikerre vagy kitűnésre gondolni
-    - a növekedési szemléletmód főleg abban segít, hogy szeressük azt csinálni, amit csinálunk. a nehézségek ellenére is
-    - így viszont valószínűleg többet vagy tovább fogjuk csinálni, és ezzel pedig nagyobb lesz az esélyünk kitűnni
+Máshogy kezeljük majd a nehéz időszakokat.
+A berögzülés eleve mélyebb depressziós hajlamokhoz vezet, amire aztán már csak rátesz, hogy jobban el is hagyjuk magunkat.
+A növekedési szemléletűek ezzel szemben inkább szinte *még jobban* próbálják tartani magukat -- ami a depresszió enyhülése után egy sokkal "szétcsúszatlanabb" élethez vezet.
 
+Az akadémiai és munkahelyi teljesítményünkön felül ez a hozzáállás a párválasztásunkra is kihathat.
+Aki berögzült, annak a folyamatos tömjénezés kell, mint valami egyszemélyes vallás élő istenének.
+A növekedőknek pedig egy olyan társ kell, aki minél jobban támogatja a fejlődésüket.
+És igen, jól érezzük, keveredés esetén bizony lehetnek bajok.
+
+Berögződés mellett a tehetség sem fog minket megmenteni.
+Lehet, hogy későbbre tolja azt, amíg találkozunk a saját határainkkal, de azon nem változtat, hogy hogyan reagálunk majd, amikor (nem ha, amikor) elérünk odáig.
+Vagyis a tehetség arra jó, hogy honnan indulunk, milyen gyorsan haladunk, vagy hogy meddig "könnyű".
+De egy idő után már úgysem lesz könnyű!
+És ha az után is haladni akarunk, ahhoz a növekedési szemléletmódra lesz szükségünk.
+
+Aki nem hisz a jelentőségteljes fejlődésben, annak minden teszt élet-halál kérdés, mert felfedi a (végleges!) képességeit.
+Ezért nem is nagyon mer őszinte erőfeszítést tenni...
+Mi lenne az értelme?
+Ha sikerül, akkor is "csak" igazolta, hogy képes rá.
+Ha viszont nem, akkor ugye "lebukott" -- és még csak kifogása sem marad, hogy miért, hiszen tényleg odatette magát.
+
+Ezzel szemben nézzünk meg egy csomó híres művészt, és láthatjuk, hogy a korai munkáik gyakran nem kimondottabban említésre méltók.
+Nem lehet, hogy azért jutottak el a hírnevet érő későbbi fázisaikig, mert nem adták fel korábban -- amikor még nem tartottak ott?
+Vagyis aki hisz a fejlődésben, annak pont az a kockázat, ha **nem** teszi oda magát.
+És itt nem kell feltétlen a sikerre vagy kitűnésre gondolni.
+A növekedési szemléletmód főleg abban segít, hogy szeressük azt csinálni, amit csinálunk.
+A nehézségek ellenére is.
+Így viszont valószínűleg többet vagy tovább fogjuk csinálni, és emiatt pedig nagyobb lesz az esélyünk kitűnni.
+
+> Ironikus: A berögzült szemléletű emberek mániája a csúcsra jutni, de mégis sok növekedési szemléletű ember köt ott ki csak mintegy mellékhatásaként annak, hogy mennyire lelkesen teszi a dolgát.
 > > It's ironic: The top is where the fixed-mindset people hunger to be, but it's where many growth-minded people arrive as a by-product of their enthusiasm for what they do.
 
 <br>
