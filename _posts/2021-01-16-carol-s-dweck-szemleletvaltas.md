@@ -191,37 +191,26 @@ A nehézségek ellenére is.
 
 ## <a name="neveles"></a>Szemléletmódok a nevelésben
 
-- a gyerekek korai oktatásában is nagy szerepe van
-    - egyrészt hogy hogyan tekintenek magukra
-    - másrészt hogy a tanár hogyan tekint rájuk!
-- konkrét stratégiák még lesznek később
-- fontos a dicséret, de nagyon nem mindegy, hogy mit dicsérünk
-    - ha az eredményt, azzal tudat alatt pont a berögzülést verjük beléjük
-        - ezzel viszont lelassítjuk (vagy akár leállítjuk) a későbbi fejlődésüket
-        - és egyes tesztek szerint konkrétan hazugságra sarkalljuk őket, mert a rossz eredmény szégyellni való
-    - ha viszont az erőfeszítést dicsérjük, akkor a növekedési szemléletet
-- persze a negatív címkék továbbra is rosszak, de azok is főleg a berögzülés mellett (mert akkor véglegesek)
-- mások véleménye ellen is jó védelmet nyújt a növekedési szemlélet
-    - teljesen kifejleszthetjük a képességeinket anélkül, hogy a külvilág negatív hatásait beengednénk
+A gyerekek korai oktatásában is nagy szerepe van a szemléletmódoknak -- és nem csak abban, hogy hogyan tekintenek magukra, hanem hogy a szülők/edzők/tanárok hogyan tekintenek rájuk!
+Node aki ezt olvassa, az a gyermeki fejlődése korai szakaszán már valószínűleg túl van, úgyhogy koncentráljunk a felnőtt szemszögre.
 
-<!-- ## Szülők, tanárok, edzők: honnan jön a szemléletmódunk? -->
+Fontos a dicséret, de nagyon nem mindegy, hogy mit dicsérünk.
+Ha az eredményt, azzal tudat alatt pont a berögzülést verjük beléjük, amivel viszont lelassítjuk (vagy akár leállítjuk) a későbbi fejlődésüket.
+Egyes tesztek szerint konkrétan akár hazugságra is sarkallhatjuk vele őket, mert a rossz eredményt annyira szégyellnivalónak tekintik majd.
+A berögzült üzenetet hordozó dicséret olyan, mint egy lelki gyorskaja: ott helyben finom, de hosszú távon negatív a hatása.
 
-- szülőként/tanárként/edzőként nagyon nem mindegy, hogy hogyan dicsérünk
-    - figyeljünk a szóhasználatra, mert a legjobb szándék mellett is komoly károkat okozhatunk, ha az erőfeszítés helyett az intelligenciát vagy a tehetséget magasztaljuk
-    - nem megvédeni kell őket az előbb-utóbb elkerülhetetlen csalódásoktól, hanem felkészíteni őket, hogy ne függjenek a folyamatos dicséretektől
-    - szeressék a kihívásokat, tanuljanak a hibáikból, és tudják "visszaépíteni" a saját önbizalmukat
-- tudat alatt mind nagyon jók vagyunk abban, hogy egy-egy elejtett félmondatból is kiszagoljuk a hátsó üzenetet
-    - szóval ha a szülő/tanár/edző velünk épp nem is így beszél, de azért így gondolkozik, akkor is átvesszük majd a berögzült nézőpontját
-    - vigyázzunk ezért, hogy mit, és hogy hogyan mondunk
-    - a berögzült üzenetet hordozó dicséret olyan, mint egy lelki gyorskaja
-        - ott helyben finom, de hosszú távon negatív hatással lesz
-- amire szükség van, az az őszinte, konstruktív visszajelzés, ami hosszú távon segíti a fejlődést
-    - ezt pedig az ego simogatásával és mások hibáztatásával nem lehet kiváltani
-- ne ítélkezzünk; tanítsunk!
-    - figyeljünk arra, hogy mi magunk hogyan kezeljük a nehézségeket (mert ezzel példát mutatunk)
-    - plusz ki mondta, hogy a tanítás nem taníthat a tanárnak is egyre több emberismeretet
-        - hogy hogyan legyen hatékonyabb, hogyan kommunikáljon jobban, stb.
-    - alanyként pedig ne hagyjuk beivódni mások berögzült üzenetét, ha esetleg olyat kapnánk
+Ha viszont az erőfeszítést dicsérjük, akkor a növekedési szemléletet segítjük elő!
+És figyeljünk a szóhasználatra, mert a legjobb szándék mellett is komoly károkat okozhatunk, ha az ifjonc törekvése helyett az intelligenciáját vagy a tehetségét magasztaljuk.
+Nem megvédeni kell őket az előbb-utóbb elkerülhetetlen csalódásoktól, hanem felkészíteni őket, hogy ne függjenek a folyamatos dicséretektől.
+Hogy szeressék a kihívásokat, tanuljanak a hibáikból, és tudják "visszaépíteni" a saját önbizalmukat.
+Amire szükség van, az az őszinte, konstruktív visszajelzés, ami hosszú távon segíti a fejlődést.
+Ezt pedig az ego simogatásával és mások hibáztatásával nem lehet kiváltani.
+
+Ne ítélkezzünk; tanítsunk!
+Ügyeljünk arra, hogy mi magunk hogyan kezeljük a nehézségeket (mert ezzel példát mutatunk).
+Plusz ki mondta, hogy a tanítás nem taníthat a tanárnak is egyre több emberismeretet.
+Vagy hogy hogyan legyen hatékonyabb, hogyan kommunikáljon jobban, stb.
+Alanyként pedig ne hagyjuk beivódni mások berögzült üzenetét, ha esetleg olyat kapnánk...
 
 <br>
 
@@ -251,14 +240,15 @@ A nehézségek ellenére is.
 
 ## <a name="sport"></a>Szemléletmódok a sportban
 
-- sok sport példa...
-- a lényeg, hogy talán itt a legelterjedtebb a "természetes tehetség" nézete
-    - nem szeretjük azt hinni, hogy a szupersztárok is olyanok, mint mi, mert akkor be kellene ismernünk, hogy mi is lehetnénk szupersztárok -- ha tennénk érte.
-- rengeteg a példa arra, hogy a fejbeli teljesítményünk sokkal fontosabb, mint a fizikai
-    - de aztán ezt utána mindig kényelmesen elfelejtjük, és megy minden tovább a berögzült szemlélettel...
-- ahogy Bill Walsh-nál is kitárgyaltuk: nyerni nehéz, de konzisztensen nyerni még nehezebb
-    - a csúcsra jutni talán elég lehet a tiszta tehetség is egyszer-egyszer, de a csúcson **maradni** csak a megfelelő szemléletmóddal lehet
-    - anélkül mindig a körülmények áldozatai maradunk
+A könyv feltűnően sok sportos esettanulmánya érthető, hiszen talán ezen a területen a legelterjedtebb a "természetes tehetség" nézete.
+Elvégre az ámulatba ejtő, erőfeszítés nélküli(nek látszó) szereplések hátterében nem kellhet vért izzadni, ugye?
+Nem szeretjük azt hinni, hogy a szupersztárok is olyanok, mint mi, mert akkor be kellene ismernünk, hogy mi is lehetnénk szupersztárok -- ha tennénk érte.
+Rengeteg a példa arra, hogy a top atléták fejbeli teljesítménye sokkal fontosabb, mint a fizikai.
+De aztán ezt utána mindig kényelmesen elfelejtjük, és megy minden tovább a berögzült szemlélet szerint.
+
+Ahogy [Bill Walsh]({% post_url 2020-02-29-bill-walsh-the-score-takes-care-of-itself %})-nál is kitárgyaltuk: nyerni nehéz, de konzisztensen nyerni még nehezebb.
+És habár a csúcsra jutni talán elég lehet a tiszta tehetség is egyszer-egyszer, a csúcson **maradni** csak a megfelelő szemléletmóddal lehet.
+Anélkül mindig a körülmények áldozatai maradunk!
 
 <br>
 
@@ -285,17 +275,18 @@ A nehézségek ellenére is.
 
 ## <a name="vezetes"></a>Szemléletmódok a vezetésben
 
-- az üzleti életben (főleg vezetői szerepkörben) is ugyanolyan könnyű a fejünket a homokba dugni és géniusznak kikiáltani magunkat
-    - csak ott a sporttal szemben egy cég áll mögöttünk, és szorzótényezőként nagyítja fel a hibáinkat
-    - egy darabig megtehetjük, hogy igen-emberekkel vesszük körbe magunkat, koronát nyomunk a saját fejünkre, és egy egész "hihető" díszletet építünk a fantázia világunknak
-        - de amikor borul, még nagyobbat fog borulni
-- a csapatok létszáma szintén egy szorzó
-    - növekedési szemlélet mellett a belső kommunikáció is gyorsíthatja a tanulási/fejlődési folyamatot
-    - míg a megkövüléssel csak az "egyvélemény" lesz előtérben (egy kicsit 1984-esen, igen)
-    - és ahogy azt már John Stuart Mill-nél is láthattuk, az ellenérvek hiánya a látszattal ellentétben egy *rossz* dolog
-    - szóval előnyös, ha akár az egész organizáció légkörét a fejlődés és növekedés köré építjük
-- kitérünk a tárgyalási készségre és a menedzseri/vezetői szerepkörre, amik szintén jobban mennek egy növekedési szemlélettel
-    - tanulás ÉS tanítás, ahogy Bill Walsh is hangsúlyozta
+Az üzleti életben (főleg vezetői szerepkörben) is ugyanolyan könnyű a fejünket a homokba dugni és géniusznak kikiáltani magunkat.
+Csak ott a sporttal szemben egy cég áll mögöttünk, ami szorzótényezőként nagyítja fel a hibáinkat.
+Egy darabig megtehetjük, hogy igen-emberekkel vesszük körbe magunkat, koronát nyomunk a saját fejünkre, és egy egész "hihető" díszletet építünk a fantázia világunknak.
+De amikor ez borul, akkor még nagyobbat fog borulni, mint a sportban.
+
+A csapatok létszáma szintén egy szorzó -- ami aztán pozitív és negatív irányba is hathat.
+Növekedési szemlélet mellett a belső kommunikáció gyorsíthatja a tanulási/fejlődési folyamatot, míg a megkövüléssel csak az "egyvélemény" lesz előtérben (egy kicsit [1984]({% post_url 2020-05-29-george-orwell-1984 %})-esen).
+És ahogy azt már [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %})-nél is láthattuk, az ellenérvek hiánya a látszattal ellentétben egy *rossz* dolog.
+Szóval előnyös, ha akár az egész organizáció légkörét a fejlődés és a növekedés köré építjük!
+
+Kitérünk továbbá a tárgyalási készségre és a menedzseri/vezetői szerepkörre, amik (meglepetés!) szintén jobban mennek egy növekedési szemlélettel.
+Tanulás **és** tanítás -- megint Bill Walsh módra.
 
 <br>
 
