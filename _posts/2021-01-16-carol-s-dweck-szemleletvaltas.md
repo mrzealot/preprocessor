@@ -57,9 +57,9 @@ A **növekedési szemlélet** szerint viszont mindenki olyan, amilyenné *válik
 Lehet, hogy más-más pontról indulunk az intelligencia/személyiség/stb. spektrumokon, de onnan kellő munkával bármilyen irányba (és szinte bármeddig) eljuthatunk.
 Az ilyen ember nem azt fitogtatja, amit tud, hanem azzal foglalkozik, amit még nem tud.
 Nem elrejteni próbálja a hibáit, hanem tanulni belőlük.
-A kudarcokat tanulási lehetőségként éli meg -- sőt, még akár élvezi is -- mert azoktól fejlődik.
-Egy bukás nem megmutatta, hogy nem vagyunk elég jók...
-Csak felkészít rá, hogy legközelebb már jobbak legyünk.
+A kudarcokat lehetőségként éli meg -- sőt, még akár élvezi is őket, mert azoktól fejlődik.
+Egy bukás nem megmutatta, hogy nem elég jó...
+Csak felkészítette rá, hogy legközelebb már jobb legyen.
 
 A két hozzáállás különbségei közvetlenül jelentkeznek a megbirkózási stratégiáinkban.
 Egy rossz visszajelzés után feladjuk, vagy keményebben készülünk a következő megmérettetésre?
@@ -112,7 +112,7 @@ Ha viszont megváltoztatjuk, akkor senkinek nem is kell majd mondania.
 A két szemléletmód gyökeresen másként értelmezi, hogy mit is jelent számunkra a siker: önmagunk *validálását* vagy önmagunk *fejlesztését*?
 Ebből kifolyólag pedig a siker*telenség* is mást jelent.
 A rögzültnél az a kudarc, ha valami nem jön össze: rossz jegy az iskolában, romantikus visszautasítás, más kapja az előléptetést, stb.
-A növekedésinél pedig az a kudarc, ha nem fejlődünk -- vagyis nem is **próbálunk** jobb jegyet szerezni, nem is **próbálunk** új kapcsolatokat kultiválni a régi helyett/mellett, vagy nem **próbálunk** a legjobb képességünk szerint teljesíteni az előléptetéstől függetlenül.
+A növekedésinél pedig az a kudarc, ha nem fejlődünk -- vagyis ha nem is **próbálunk** jobb jegyet szerezni, nem is **próbálunk** új kapcsolatokat kultiválni a régi helyett/mellett, vagy nem is **próbálunk** a legjobb képességünk szerint teljesíteni az előléptetéstől függetlenül.
 
 > Én nem gyengékre és erősekre, vagy sikeresekre és sikertelenekre osztom a világot... hanem tanulókra és nem-tanulókra.
 >
@@ -317,24 +317,38 @@ Tanulás **és** tanítás -- megint Bill Walsh módra.
 
 ## <a name="kapcsolatok"></a>Szemléletmódok a kapcsolatokban
 
-- mindenkit ér szerelmi csalódás, de nem mindenki egyformán reagál
-    - ha berögzült a világképünk, akkor egy faképnél hagyás például örök "szerethetetlenségi" bélyegzőt nyom a homlokunkra
-        - ez ellen nem tehetünk semmit, vagyis a legjobb, amit remélhetünk, az a bosszú. hogy dögöljön meg a szomszéd tehene is.
-    - növekedési nézőpontból viszont minden egyes kapcsolatunkból, botlásunkból, csalódásunkból tanulhatunk. így a magunkkal cipelt érzelmi "csomagunk" nem hogy nehezítené, de épp könnyíteni fogja a következő kapcsolatunkat.
-- az emberi kapcsolatokat nehéz mérni, de ettől ez még nem lesz kevésbé fontos... sőt!
-    - ebben ad segítséget ez a nézőpontosdi is. jól előrejelzi, hogy ki hogy fog hozzáállni az elkerülhetetlen nehézségekhez.
-- párkapcsolatban már nem csak magunkról, hanem a másikról, és úgy általában a kapcsolatunkról is lehet berögzült vagy növekedési szemléletünk
-    - de, lássunk csodát, a berögzülés továbbra sem lesz a javunkra
-    - egyrészt: ha dolgozni kell a kapcsolaton, akkor az "nem úgy lett megírva"... márpedig szeretnék én egy olyan kapcsolatot látni, amin nem kell(ene) dolgozni.
-    - másrészt: ilyenkor minden nézeteltérés valami mély karakterhibára vezethető vissza
-    - az én szememben ez is egyfajta függés
-        - aki nem hajlandó dolgozni, annak csak egy 100%-os illeszkedés lesz elég jó (és ilyet nem fog találni)
-        - aki viszont igen, az már a 60-70%-os párokból is tud idővel 100%-ot csiszolni
-- a hibáztatás senkinek nem segít, és le kell róla szokni
-    - de amíg a leszokás nem sikerül, hasznos lehet egy képzeletbeli harmadik felet kitalálni, akire rákenhetjük a problémáinkat a párunk helyett -- ezzel megelőzve, hogy "megmérgeződjön" a szemünkben.
-- sokszor (barátságok esetében is) az alá-fölérendeltségi viszonyban nyilvánul meg
-    - a másiknak lentebb kell lennie, hogy mi fentebb érezhessük magunkat
-    - de persze ez is csak akkor lesz fontos a számunkra, ha nem hiszünk a fejlődésben
+Mindenkit ér szerelmi csalódás, de nem mindenki egyformán reagál.
+Ha berögzült a világképünk, akkor egy faképnél hagyás például örök "szerethetetlenségi" bélyegzőt nyom a homlokunkra.
+Ez ellen pedig (úgy érezzük) nem tehetünk semmit, vagyis a legjobb, amit remélhetünk, az a bosszú.
+Hogy dögöljön meg a szomszéd tehene is.
+Lehet, hogy ez a reakció menet közben minket is felemészt, de az már mellékes, nem?
+
+Növekedési nézőpontból viszont minden egyes kapcsolatunkból, botlásunkból, csalódásunkból tanulhatunk.
+Így a magunkkal cipelt érzelmi "csomagunk" nem hogy nehezítené, de épp hogy könnyíteni fogja a következő alkalmat.
+
+Az emberi kapcsolatokat nehéz mérni, de ettől ez még nem lesz kevésbé fontos. Sőt!
+Szerencsére ez a nézőpontosdi ebben is segítséget nyújt.
+Jól előrejelzi például, hogy ki hogyan fog hozzáállni az elkerülhetetlen nehézségekhez.
+Elvégre egy párkapcsolatban már nem csak magunkról, hanem a másikról, és úgy általában a kapcsolatunkról is lehet berögzült vagy növekedési szemléletünk.
+
+Lássunk csodát, a berögzülés továbbra sem lesz a javunkra.
+Egyrészt ha dolgozni kell a kapcsolaton, akkor mindjárt azt hisszük majd, hogy az "nem úgy lett megírva"...
+Márpedig szeretnék én egy olyan kapcsolatot látni, amin nem kell(ene) dolgozni.
+
+Másrészt ilyenkor minden nézeteltérés valami mély karakterhibára vezethető vissza.
+Az én szememben ez is egyfajta függés.
+Aki nem hajlandó dolgozni, annak csak egy 100%-os illeszkedés lesz elég jó -- amilyet valószínűleg soha nem fog találni.
+Aki viszont hajlandó, az már a 60-70%-os párokból is tud idővel 100%-ot csiszolni magának.
+
+A berögzült szemlélet sokszor (barátságok esetében is) az alá-fölérendeltségi viszonyban nyilvánul meg.
+A másiknak lejjebb kell lennie, hogy mi feljebb érezhessük magunkat.
+De ezt leküzdhetjük, amint hinni kezdünk a fejlődésben, mert onnantól a viszonyunk nincs kőbe vésve.
+
+Végül pedig egy zseniális tipp, ami nekem személy szerint nagyon tetszett:
+A hibáztatás ugye senkinek nem segít, és úgy általánosságban is le kell róla szokni.
+De amíg tart ez az átmenet, hasznos lehet egy képzeletbeli harmadik felet kitalálni, akire rákenhetjük a problémáinkat a párunk helyett -- ezzel megelőzve, hogy "megmérgeződjön" a szemünkben.
+Dweck-éknél ez a plusz egy fő Maurice, akinek már igencsak sok fekete pont van az ellenőrzőjében...
+Gondoljuk meg, nekünk nem lenne-e hasznos egy ideiglenes Maurice az otthoni légkör fellazítására.
 
 <br>
 
@@ -365,23 +379,34 @@ Tanulás **és** tanítás -- megint Bill Walsh módra.
 
 ## <a name="valtozas"></a>A szemléletmódunk megváltoztatása
 
-- a belső monológunk (narráló én, homo deus) folyamatosan kommentálja, hogy mi történik velünk
-    - de ez nem muszáj, hogy ítélkezésekkel legyen tele
-    - lehet azt is nézni minden helyzetben, hogy "ebből mit tanulhatok", vagy hogy "legközelebb hogy lehetne (még) jobban"
-- az első lépés, hogy tudatosan tisztában legyünk a növekedési szemléletmóddal (amit most jó alaposan ki is merítettünk)
-    - ez már önmagában veri a konkrét tanulási tippeket és stratégiákat, mert belső motivációt ad
-- de ez után megint jön az a fránya felelősségvállalás
-    - sokunknak lehetett menedéke egy bizonyos kép, amit magunkról festettünk
-    - ami ment, ott veregettük a saját vállunkat; ami meg nem, az nem volt fontos
-    - ha ezt akarjuk egy olyan szemléletre cserélni, ami őszintén szembenéz a hibáinkkal és a fejlődésre koncentrál... hát, az nem lesz könnyű!
-- de tegyük fel, hogy sikerül, és elkezdenek javulni a dolgok
-    - még akkor is ott a karbantartás!
-    - ha csak azt csináljuk, amit egy növekedési szemléletű ember csinálna, az is eredményes lesz -- egy darabig
-    - de tartós változást csak akkor érhetünk el, ha a mi szemléletmódunk (és vele együtt az alapértelmezett reakcióink) is megváltozik
-- segíthet, ha elnevezzük a saját berögzült személyiség-részünket
-    - valamennyi mindenkiben van (vagy legalábbis vannak olyan szituációk, amik bárkiből előhoznák a berögzült perszónát)
-    - de ha nevet adunk neki, megszemélyesítjük, és a hosszú távú terveink aláaknázójaként állítjuk be a szemünkben, akkor talán könnyebb lesz megküzdeni vele
-        - vagy akár tanítani... segítsünk neki, amivel egyben (nyilván) magunknak segítünk. és így aztán másoknak is segíthetünk
+A belső monológunk (avagy a "narráló én", a [Homo Deus]({% post_url 2020-08-08-yuval-noah-harari-homo-deus %}) szóhasználatával élve) folyamatosan kommentálja, hogy mi történik velünk.
+De ez a kommentár nem muszáj ám, hogy ítélkezésekkel legyen tele!
+Lehet azt is nézni minden helyzetben, hogy "ebből mit tanulhatok", vagy hogy "legközelebb hogyan lehetne jobban".
+
+Az első lépés, hogy tudatosan tisztában legyünk a növekedési szemléletmóddal -- amit most szerintem jó alaposan ki is merítettünk.
+Ez már önmagában veri a konkrét tanulási tippeket és stratégiákat, mert belső motivációt ad.
+A híres Nietzsche idézetet rútul eltorzíva: akinek a miért megvan, az a hogyan-t már megoldja.
+
+Sokunknak lehetett menedéke egy bizonyos kép, amit magunkról festettünk.
+Ami ment, ott veregettük a saját vállunkat; ami meg nem, az nem is volt fontos.
+De ha ezt egy olyan szemléletre akarjuk cserélni, ami őszintén szembenéz a hibáinkkal és a fejlődésre koncentrál...
+Hát, az nem lesz könnyű!
+Ugye megint jön az a fránya felelősségvállalás!
+
+De tegyük fel, hogy sikerül gatyába rázni a fejünket (ha szabad ezzel a képzavarral élnem), és elkezdenek javulni a dolgok.
+Ha "csak" azt csináljuk, amit egy növekedési szemléletű ember csinálna, az is eredményes lesz -- egy darabig.
+Na és a karbantartás?
+Ahogy [James Clear]({% post_url 2021-01-09-james-clear-atomi-szokasok %}) is mondta: tartós változást csak akkor érhetünk el, ha a szemléletmódunk, és vele együtt az *alapértelmezett* viselkedésünk is megváltozik.
+
+Ettől persze soha nem tűnik el teljesen "a másik hang" a fejünkből, csak megtanuljuk jobban kezelni.
+Dweck szerint mondjuk az is segíthet, ha elnevezzük a saját berögzült személyiség-részünket.
+És ismerjük be, valamennyi mindenkiben van.
+Vagy legalábbis vannak olyan szituációk, amik bárkiből előhoznák a berögzült perszónát.
+
+De ha nevet adunk neki, megszemélyesítjük, és a hosszú távú terveink *aláaknázójaként* állítjuk be a szemünkben, akkor talán könnyebb lesz megküzdeni vele.
+Sőt, akár tanítani!
+Segítsünk "neki" -- amivel egyben (nyilván) magunknak segítünk.
+És így talán eljutunk odáig, hogy később másoknak is segíthessünk.
 
 <br>
 
@@ -412,9 +437,21 @@ Tanulás **és** tanítás -- megint Bill Walsh módra.
 
 ## Összefoglalás
 
-- melegvizes anekdota ide (hogy sokáig úgy voltam vele, hogy ááá, az én kezem nem bírja a meleget... vagy hogy áá, én nem tudok kétkezi dolgokat csinálni)
-    -  "disengage from your intelligence"!!!
-- ez a könyv a nyúl vs. teknős mesét is más megvilágításba helyezi
-    - lehet, hogy a tanulság *elvileg* régen is az volt, hogy a lassú, de következetes munka meghozza gyümölcsét
-    - de mi akkor is inkább egy kicsit kevésbé ostoba nyúl akartunk volna lenni, nem egy teknős
-    - fel kell ismernünk, hogy a berögzült vs. növekedési nézetnek semmi köze ahhoz, hogy milyenek a képességeink
+A könyv egyik fő tanulsága, hogy kezeljük a kudarcot az elégtelenségünk bélyege helyett fejlődési lehetőségként.
+Ha akarunk valamit, akkor ne engedjük, hogy az oda vezető úton óhatatlanul vétett hibák megállítsanak!
+Tanuljunk inkább belőlük, hogy legközelebb már jobban menjen.
+Ezt nem is sulykolom tovább, valószínűleg mind értjük.
+A másik nagy tanulság viszont talán még a hibáktól való félelemnél is alattomosabb: ha nem is gondoljuk, hogy képesek vagyunk rá.
+
+Habár oktatási területen mindig is a fejlődés híve voltam, utólag visszatekintve mégis sok dologgal kapcsolatban kellett felülvizsgálnom a saját begyöpösödéseimet.
+Úgy voltam vele, hogy "Ááá, én nem bírom a melegvizet"!
+Vagy hogy "Ááá, én nem tudok kétkezi dolgokat csinálni".
+Nem az esetleges kellemetlenségektől vagy hibáktól féltem, hanem egyszerűen meg voltam győződve, hogy nekem az nem megy, és kész!
+A könyv szavaival élve: ilyenkor szétválasztottam az intelligenciámat az előttem álló helyzetektől.
+
+Szégyenletesen sokáig bele nem gondoltam volna például, hogy ha az objektum-orientált programozás megy, akkor talán egy csavart is be tudok hajtani.
+És ehhez nem egy "Hogyan csavarozzunk" oktatóvideó kellett leginkább -- hanem hogy elhiggyem magamról, hogy nekem is mehet.
+Na főleg **ezt** tanították nekem a növekedési és a berögzült szemléletmód különbségei.
+Nem mennek végig helyettünk az úton.
+Még csak azt sem mondják meg, hogy hogyan menjünk mi magunk végig az úton.
+De elhitetik velünk, hogy végig tudunk menni rajta!
