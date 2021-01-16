@@ -15,7 +15,7 @@ Na jó, ez így talán drasztikusan hangzik, de valahol mélyen szerintem mindan
 Vagy mert félünk kudarcot vallani, vagy mert konkrétan bemeséljük magunknak, hogy nekünk az úgysem menne.
 
 Ezekre a belső ön-szabotázsokra kínál megoldást Carol Dweck -- [Szemléletváltás](https://www.goodreads.com/book/show/40745.Mindset){:target="_blank"} című könyve.
-Központi tétele, hogy megkülönbözteti a "berögzült" és a "növekedési" szemléledmódot, és ezáltal azt is, hogy kinek mit jelent a kudarc.
+Központi tétele, hogy megkülönbözteti a "berögzült" és a "növekedési" szemléletmódot, és ezáltal azt is, hogy kinek mit jelent a kudarc.
 Ez az új mentális modell pedig kimondottan hasznos lesz a változáshoz is, ha véletlenül a rosszabbik oldalon ismernénk inkább magunkra.
 
 A tartalom a következőképp alakul:
@@ -55,15 +55,15 @@ Mind a gének, mind a környezetünk nagyban befolyásolják, hogy milyen adotts
 De hogy ebből a kezdőpontból aztán meddig/hova jutunk el, azt inkább az határozza meg, hogy hogyan tekintünk magunkra.
 
 A **berögzült szemlélet** szerint mindenki olyan, amilyen.
-Adott intelligenciával, személyiséggel és képességekkel születünk, amik aztán csak *megnyilvánulnak* valahogy az életünk során.
-Az ilyen ember folyton bizonyítani akar, hiszen ha már állandóak az értéke, akkor jobban teszi, ha demonstrálja is: ő bizony megüti a szintet.
+Adott intelligenciával, személyiséggel és képességekkel születik, amik aztán csak *megnyilvánulnak* valahogy az élete során.
+Az ilyen ember folyton bizonyítani akar, hiszen ha már állandóak az értékei, akkor jobban teszi, ha demonstrálja: ő bizony megüti a szintet.
 A sikert és elismerést üldözi, mert azok igazolják vissza -- de minden áron menekül a kudarc elől, mert az csak "leleplezné", hogy mégsem olyan értékes, mint amilyennek elsőre látszott.
 Ilyen szemszögből logikus, ha idővel egyre kevésbé nyújtózkodik az ember.
 Minek (feleslegesen?) beleölni a sok energiát valamibe, ha egyszer nem megy?
 Vagy ha egyáltalán van esélye, hogy nem fog menni...
 
 A **növekedési szemlélet** szerint viszont mindenki olyan, amilyenné *válik*.
-Lehet, hogy más-más pontról indulunk az intelligencia/személyiség/stb. spektrumokon, de onnan kellő munkával bármilyen irányba (és szinte bármeddig) eljuthatunk.
+Bárhonnan indul is az intelligencia/személyiség/stb. spektrumokon, hiszi, hogy onnan kellő munkával bármilyen irányba (és szinte bármeddig) eljuthat.
 Az ilyen ember nem azt fitogtatja, amit tud, hanem azzal foglalkozik, amit még nem tud.
 Nem elrejteni próbálja a hibáit, hanem tanulni belőlük.
 A kudarcokat lehetőségként éli meg -- sőt, még akár élvezi is őket, mert azoktól fejlődik.
@@ -73,10 +73,10 @@ Csak felkészítette rá, hogy legközelebb már jobb legyen.
 A két hozzáállás különbségei közvetlenül jelentkeznek a megbirkózási stratégiáinkban.
 Egy rossz visszajelzés után feladjuk, vagy keményebben készülünk a következő megmérettetésre?
 A nálunk jobbak felé fordulunk, hogy legyen kitől tanulni -- vagy a rosszabbak felé, hogy legalább annyival is okosabbnak érezhessük magunkat?
-A képességeink megítélésénél tudjuk-e fogadni a pontos és valós visszajelzéseket, vagy az ego-nk védelmében torzulni fog az önképünk?
+A képességeink megítélésénél tudjuk-e fogadni a pontos és valós visszajelzéseket, vagy az egonk védelmében torzulni fog az önképünk?
 Mindenkinek házi feladat, hogy a fentiekből melyikek a jobb opciók, és hogy azok vajon melyik szemléletmódhoz tartoznak.
 
-Persze nem egy fekete/fehér, igen/nem döntés, hogy ki melyiket képviseli.
+Persze nem egy fekete/fehér, igen/nem döntés, hogy ki melyik oldalt képviseli.
 Mind valahol középen helyezkedünk el.
 A fontos az, hogy tisztában legyünk a végletekkel, és hogy utána tudatosan araszolgassunk a nekünk szimpatikusabb irányba.
 
@@ -163,6 +163,7 @@ Ha viszont nem, akkor ugye "lebukott" -- és még csak kifogása sem marad, hogy
 
 Ezzel szemben nézzünk meg egy csomó híres művészt, és láthatjuk, hogy a korai munkáik gyakran nem kimondottabban említésre méltók.
 Nem lehet, hogy azért jutottak el a hírnevet érő későbbi fázisaikig, mert nem adták fel korábban -- amikor még nem tartottak ott?
+
 Vagyis aki hisz a fejlődésben, annak pont az a kockázat, ha **nem** teszi oda magát.
 És itt nem kell feltétlen a sikerre vagy kitűnésre gondolni.
 A növekedési szemléletmód főleg abban segít, hogy szeressük azt csinálni, amit csinálunk.
@@ -203,20 +204,20 @@ A nehézségek ellenére is.
 A gyerekek korai oktatásában is nagy szerepe van a szemléletmódoknak -- és nem csak abban, hogy hogyan tekintenek magukra, hanem hogy a szülők/edzők/tanárok hogyan tekintenek rájuk!
 Node aki ezt olvassa, az a gyermeki fejlődése korai szakaszán már valószínűleg túl van, úgyhogy koncentráljunk a felnőtt szemszögre.
 
-Fontos a dicséret, de nagyon nem mindegy, hogy mit dicsérünk.
+Fontos a dicséret, de nagyon nem mindegy, hogy *mit* dicsérünk.
 Ha az eredményt, azzal tudat alatt pont a berögzülést verjük beléjük, amivel viszont lelassítjuk (vagy akár leállítjuk) a későbbi fejlődésüket.
 Egyes tesztek szerint konkrétan akár hazugságra is sarkallhatjuk vele őket, mert a rossz eredményt annyira szégyellnivalónak tekintik majd.
-A berögzült üzenetet hordozó dicséret olyan, mint egy lelki gyorskaja: ott helyben finom, de hosszú távon negatív a hatása.
+A berögzült üzenetet hordozó dicséret olyan, mint egy lelki gyors kaja: ott helyben finom, de hosszú távon negatív a hatása.
 
 Ha viszont az erőfeszítést dicsérjük, akkor a növekedési szemléletet segítjük elő!
-És figyeljünk a szóhasználatra, mert a legjobb szándék mellett is komoly károkat okozhatunk, ha az ifjonc törekvése helyett az intelligenciáját vagy a tehetségét magasztaljuk.
+És figyeljünk a szóhasználatra, mert a legjobb szándék mellett is komoly károkat okozhatunk, ha a gyerkőc törekvése helyett az intelligenciáját vagy a tehetségét magasztaljuk.
 Nem megvédeni kell őket az előbb-utóbb elkerülhetetlen csalódásoktól, hanem felkészíteni őket, hogy ne függjenek a folyamatos dicséretektől.
 Hogy szeressék a kihívásokat, tanuljanak a hibáikból, és tudják "visszaépíteni" a saját önbizalmukat.
 Amire szükség van, az az őszinte, konstruktív visszajelzés, ami hosszú távon segíti a fejlődést.
 Ezt pedig az ego simogatásával és mások hibáztatásával nem lehet kiváltani.
 
 Ne ítélkezzünk; tanítsunk!
-Ügyeljünk arra, hogy mi magunk hogyan kezeljük a nehézségeket (mert ezzel példát mutatunk).
+És ügyeljünk arra, hogy mi magunk hogyan kezeljük a nehézségeket, mert ezzel példát mutatunk.
 Plusz ki mondta, hogy a tanítás nem taníthat a tanárnak is egyre több emberismeretet.
 Vagy hogy hogyan legyen hatékonyabb, hogyan kommunikáljon jobban, stb.
 Alanyként pedig ne hagyjuk beivódni mások berögzült üzenetét, ha esetleg olyat kapnánk...
@@ -253,7 +254,7 @@ A könyv feltűnően sok sportos esettanulmánya érthető, hiszen talán ezen a
 Elvégre az ámulatba ejtő, erőfeszítés nélküli(nek látszó) szereplések hátterében nem kellhet vért izzadni, ugye?
 Nem szeretjük azt hinni, hogy a szupersztárok is olyanok, mint mi, mert akkor be kellene ismernünk, hogy mi is lehetnénk szupersztárok -- ha tennénk érte.
 Rengeteg a példa arra, hogy a top atléták fejbeli teljesítménye sokkal fontosabb, mint a fizikai.
-De aztán ezt utána mindig kényelmesen elfelejtjük, és megy minden tovább a berögzült szemlélet szerint.
+De ezt utána mindig kényelmesen elfelejtjük, és megy minden tovább a berögzült szemlélet szerint.
 
 Ahogy [Bill Walsh]({% post_url 2020-02-29-bill-walsh-the-score-takes-care-of-itself %})-nál is kitárgyaltuk: nyerni nehéz, de konzisztensen nyerni még nehezebb.
 És habár a csúcsra jutni talán elég lehet a tiszta tehetség is egyszer-egyszer, a csúcson **maradni** csak a megfelelő szemléletmóddal lehet.
@@ -290,12 +291,12 @@ Egy darabig megtehetjük, hogy igen-emberekkel vesszük körbe magunkat, koroná
 De amikor ez borul, akkor még nagyobbat fog borulni, mint a sportban.
 
 A csapatok létszáma szintén egy szorzó -- ami aztán pozitív és negatív irányba is hathat.
-Növekedési szemlélet mellett a belső kommunikáció gyorsíthatja a tanulási/fejlődési folyamatot, míg a megkövüléssel csak az "egyvélemény" lesz előtérben (egy kicsit [1984]({% post_url 2020-05-29-george-orwell-1984 %})-esen).
-És ahogy azt már [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %})-nél is láthattuk, az ellenérvek hiánya a látszattal ellentétben egy *rossz* dolog.
+Növekedési szemlélet mellett a belső kommunikáció gyorsíthatja a tanulási/fejlődési folyamatot, míg a megkövüléssel csak az "egyvélemény" lesz előtérben (egy kicsit [1984]({% post_url 2020-05-29-george-orwell-1984 %}) módra).
+És ahogy azt már [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %})-nél is vettük, az ellenérvek hiánya a látszattal ellentétben egy *rossz* dolog.
 Szóval előnyös, ha akár az egész organizáció légkörét a fejlődés és a növekedés köré építjük!
 
 Kitérünk továbbá a tárgyalási készségre és a menedzseri/vezetői szerepkörre, amik (meglepetés!) szintén jobban mennek egy növekedési szemlélettel.
-Tanulás **és** tanítás -- megint Bill Walsh módra.
+Tanulás **és** tanítás -- megint Bill Walsh stratégiája visszhangzik.
 
 <br>
 
@@ -336,12 +337,12 @@ Növekedési nézőpontból viszont minden egyes kapcsolatunkból, botlásunkbó
 Így a magunkkal cipelt érzelmi "csomagunk" nem hogy nehezítené, de épp hogy könnyíteni fogja a következő alkalmat.
 
 Az emberi kapcsolatokat nehéz mérni, de ettől ez még nem lesz kevésbé fontos. Sőt!
-Szerencsére ez a nézőpontosdi ebben is segítséget nyújt.
+Szerencsére a nézőpontosdi ebben is segítséget nyújt.
 Jól előrejelzi például, hogy ki hogyan fog hozzáállni az elkerülhetetlen nehézségekhez.
 Elvégre egy párkapcsolatban már nem csak magunkról, hanem a másikról, és úgy általában a kapcsolatunkról is lehet berögzült vagy növekedési szemléletünk.
 
 Lássunk csodát, a berögzülés továbbra sem lesz a javunkra.
-Egyrészt ha dolgozni kell a kapcsolaton, akkor mindjárt azt hisszük majd, hogy az "nem úgy lett megírva"...
+Egyrészt ha dolgozni kell a kapcsolaton, akkor mindjárt azt hisszük majd, hogy az "nem úgy lett megírva a csillagokban"...
 Márpedig szeretnék én egy olyan kapcsolatot látni, amin nem kell(ene) dolgozni.
 
 Másrészt ilyenkor minden nézeteltérés valami mély karakterhibára vezethető vissza.
@@ -352,6 +353,7 @@ Aki viszont hajlandó, az már a 60-70%-os párokból is tud idővel 100%-ot csi
 A berögzült szemlélet sokszor (barátságok esetében is) az alá-fölérendeltségi viszonyban nyilvánul meg.
 A másiknak lejjebb kell lennie, hogy mi feljebb érezhessük magunkat.
 De ezt leküzdhetjük, amint hinni kezdünk a fejlődésben, mert onnantól a viszonyunk nincs kőbe vésve.
+Egyből nem lesz olyan fontos, hogy pillanatnyilag épp hogy állunk.
 
 Végül pedig egy zseniális tipp, ami nekem személy szerint nagyon tetszett:
 A hibáztatás ugye senkinek nem segít, és úgy általánosságban is le kell róla szokni.
@@ -394,7 +396,7 @@ Lehet azt is nézni minden helyzetben, hogy "ebből mit tanulhatok", vagy hogy "
 
 Az első lépés, hogy tudatosan tisztában legyünk a növekedési szemléletmóddal -- amit most szerintem jó alaposan ki is merítettünk.
 Ez már önmagában veri a konkrét tanulási tippeket és stratégiákat, mert belső motivációt ad.
-A híres Nietzsche idézetet rútul eltorzíva: akinek a miért megvan, az a hogyan-t már megoldja.
+A híres Nietzsche idézetet rútul eltorzítva: akinek a miért megvan, az a hogyan-t már megoldja.
 
 Sokunknak lehetett menedéke egy bizonyos kép, amit magunkról festettünk.
 Ami ment, ott veregettük a saját vállunkat; ami meg nem, az nem is volt fontos.
@@ -453,10 +455,10 @@ Ezt nem is sulykolom tovább, valószínűleg mind értjük.
 A másik nagy tanulság viszont talán még a hibáktól való félelemnél is alattomosabb: ha nem is gondoljuk, hogy képesek vagyunk rá.
 
 Habár oktatási területen mindig is a fejlődés híve voltam, utólag visszatekintve mégis sok dologgal kapcsolatban kellett felülvizsgálnom a saját begyöpösödéseimet.
-Úgy voltam vele, hogy "Ááá, én nem bírom a melegvizet"!
+Úgy voltam vele, hogy "Ááá, én nem bírom a meleg vizet"!
 Vagy hogy "Ááá, én nem tudok kétkezi dolgokat csinálni".
 Nem az esetleges kellemetlenségektől vagy hibáktól féltem, hanem egyszerűen meg voltam győződve, hogy nekem az nem megy, és kész!
-A könyv szavaival élve: ilyenkor szétválasztottam az intelligenciámat az előttem álló helyzetektől.
+Ahogy Dweck mondaná: ilyenkor szétválasztottam az intelligenciámat az előttem álló helyzetektől.
 
 Szégyenletesen sokáig bele nem gondoltam volna például, hogy ha az objektum-orientált programozás megy, akkor talán egy csavart is be tudok hajtani.
 És ehhez nem egy "Hogyan csavarozzunk" oktatóvideó kellett leginkább -- hanem hogy elhiggyem magamról, hogy nekem is mehet.
