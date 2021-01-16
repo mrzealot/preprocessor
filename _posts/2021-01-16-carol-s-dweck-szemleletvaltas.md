@@ -162,7 +162,7 @@ Ha sikerül, akkor is "csak" igazolta, hogy képes rá.
 Ha viszont nem, akkor ugye "lebukott" -- és még csak kifogása sem marad, hogy miért, hiszen tényleg odatette magát.
 
 Ezzel szemben nézzünk meg egy csomó híres művészt, és láthatjuk, hogy a korai munkáik gyakran nem kimondottabban említésre méltók.
-Nem lehet, hogy azért jutottak el a hírnevet érő későbbi fázisaikig, mert nem adták fel korábban -- amikor még nem tartottak ott?
+Nem lehet, hogy azért jutottak el a hírnevet érő fázisig, mert nem adták fel korábban -- amikor még nem tartottak ott?
 
 Vagyis aki hisz a fejlődésben, annak pont az a kockázat, ha **nem** teszi oda magát.
 És itt nem kell feltétlen a sikerre vagy kitűnésre gondolni.
