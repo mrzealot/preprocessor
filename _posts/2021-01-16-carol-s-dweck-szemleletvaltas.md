@@ -4,12 +4,21 @@ title: Carol S. Dweck - Szemléletváltás
 pages: 276
 date: 2021-01-16 00:01
 excerpt: >
-    TODO
+    Az éveleji önfejlesztés dömping következő állomásának egy régebbi kedvencemet kerestem elő.
+    Ugyanis hiába kapunk az Atomi szokások által egy csomó technikai segédletet a fejlődéshez, ha egyszer *nem is hiszünk* a fejlődésben.
+    Erre a belső ön-szabotázsra kínál megoldást Carol Dweck -- Szemléletváltás című könyve.
 ---
 
-[](https://www.goodreads.com/book/show/40745.Mindset){:target="_blank"}
+Az éveleji önfejlesztés dömping következő állomásának egy régebbi kedvencemet kerestem elő.
+Ugyanis hiába kapunk az [Atomi szokások]({% post_url 2021-01-09-james-clear-atomi-szokasok %}) által egy csomó technikai segédletet a fejlődéshez, ha egyszer *nem is hiszünk* a fejlődésben.
+Na jó, ez így talán drasztikusan hangzik, de valahol mélyen szerintem mindannyiunkban vannak bugyrok, amik visszatartanak a nyújtózkodástól.
+Vagy mert félünk kudarcot vallani, vagy mert konkrétan bemeséljük magunknak, hogy nekünk az úgysem menne.
 
+Ezekre a belső ön-szabotázsokra kínál megoldást Carol Dweck -- [Szemléletváltás](https://www.goodreads.com/book/show/40745.Mindset){:target="_blank"} című könyve.
+Központi tétele, hogy megkülönbözteti a "berögzült" és a "növekedési" szemléledmódot, és ezáltal azt is, hogy kinek mit jelent a kudarc.
+Ez az új mentális modell pedig kimondottan hasznos lesz a változáshoz is, ha véletlenül a rosszabbik oldalon ismernénk inkább magunkra.
 
+A tartalom a következőképp alakul:
 
 - [A két szemléletmód](#intro)
 - [Összehasonlítás](#osszehasonlitas)
