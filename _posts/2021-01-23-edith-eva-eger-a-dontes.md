@@ -7,15 +7,21 @@ excerpt: >
     TODO
 ---
 
-[](https://www.goodreads.com/no/book/show/30753738-the-choice){:target="_blank"}
+Heti témánk félig visszaemlékezés, félig életvezetési tanácsadás, és egészen szerethető.
+Szerzője egy olyan pszichológus, aki az Auschwitz-i tapasztalatai alapján próbál másoknak is segíteni.
+Hogy megtalálhassuk a helyes hozzáállást; hogy boldogabban "viselhessük" a mindennapjaik súlyát; hogy megszabadíthassuk magunkat a körülményeinktől függetlenül.
+Szóval (ilyen szemszögből nézve legalábbis) egy az egyben [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) benyomásom van.
 
+Viszont míg a Frankl könyv a feleségemnek nem annyira lett a kedvence, [Edith Eva Eger -- A döntés](https://www.goodreads.com/no/book/show/30753738-the-choice){:target="_blank"} című könyvéről már rengeteget hallottam tőle.
+Amikor megígértem neki, hogy beütemezem a blogra, rögtön azt kérdezte: "Miért nem ez lesz a következő"?!
+Hát hogy is lehetne erre nemet mondani?
+Szóval (nyilván) ez lesz a következő.
 
-- pszichológus, aki az Auschwitz-i tapasztalatai alapján próbál másoknak is segíteni, hogy megtalálják a helyes hozzáállást, és hogy boldogabban "viselhessék" a mindennapjaik súlyát
-    - hogy hogyan szabadítsuk meg magunkat a körülményeinktől függetlenül
-    - szóval (ilyen szemszögből nézve legalábbis) egy az egyben Frankl benyomásom van
-    - viszont míg a Frankl könyv a feleségemnek nem annyira lett a kedvence, erről már rengeteget hallottam tőle
-    - Amikor megígértem neki, hogy beütemezem a blogra, rögtön azt kérdezte: "Miért nem ez lesz a következő?!"
-    - Hát hogy is lehetne erre nemet mondani? Szóval ez lesz a következő
+A lényege -- amit már a bevezetőben lelőnek, szóval nem nagy "titok" -- egy az egyben a sztoicizmus-féle címkézés: rossz dolgok bárkivel történnek, de nem muszáj áldozatnak lenni.
+Egy szó szerinti börtönben is *érezhetjük* magunkat szabadnak, de cserébe sajnos szabadon is érezhetjük magunkat börtönben.
+Ha viszont ezt felismerjük (és vállaljuk az ezzel járó felelősséget), akkor a kezünkbe kapjuk a saját megszabadulásunk kulcsát.
+
+A tartalom a következőképp alakul:
 
 - [Börtön](#borton)
 - [Menekülés](#menekules)
@@ -46,69 +52,38 @@ excerpt: >
 
 ## <a name="borton"></a>Börtön
 
-<!-- ### Intro -->
+Kezdésnek megismerjük a táncos és/vagy tornász karrierre készülő Editke családi életét az 1930-as évek Kassáján.
+A hétköznapok tele vannak apróságokkal és gyermeki ártatlansággal, amit persze ő véresen komolyan él meg -- és ezzel nincs is semmi baj.
+De már itt érződik, hogy mindez nekünk olvasóknak csak még erősebb kontrasztot nyújt majd, hogy milyen szörnyűségek jönnek...
 
-- a lényeg egy az egyben a sztoicizmus-féle címkézés: rossz dolgok bárkivel történnek, de nem muszáj áldozatnak lenni
-    - egy szó szerinti börtönben is *érezhetjük* magunkat szabadnak, és sajnos szabadon is érezhetjük magunkat börtönben
-    - ha viszont ezt felismerjük (és vállaljuk az ezzel járó felelősséget), akkor a kezünkbe kapjuk a saját megszabadulásunk kulcsát
+És sajnos jönnek is: fogság, ideiglenes tábor, hosszú vonatút, és végül Auschwitz.
+Az anyját egyből balra küldik -- ami ugye Frankl-től emlékezhetünk, hogy az azonnali halált jelenti.
+Ez pedig csak még jelentőségteljesebbé teszi, amit utoljára mondott neki a vonaton: "Ami a fejedben van, ahhoz kívülről nem férhetnek hozzá"!
 
-> > [T]here is no hierarchy of suffering. There’s nothing that makes my pain worse or better than yours, no graph on which we can plot the relative importance of one sorrow versus another.
+Még az odaérkezés sokkja sem ülepedhetett le, és ő máris személyesen Mengelének táncol.
+Az anyja tanácsát megszívlelve tánc közben a fejébe menekül, ahol szabadabb lehet, mint akár a fogvatartói.
+Ezzel pedig kiérdemel egy extra vekni kenyeret, amit megoszt a "hálókörletével".
 
-- mindenkinek joga van "igazi" fájdalomként megélni a saját fájdalmait
-    - vagyis érdemes ezekre az extrém, koncentrációs táboros élményekre **nem** úgy tekinteni, mintha semmi közük nem lehetne egy munkahelyi nehézséghez vagy egy szerelmi csalódáshoz, mert igenis lehet
-    - és ha a szerző fel tudta dolgozni, akkor mi is fel fogjuk, legyen az bármi
-- "Miért én?" --> "Hogyan tovább?"
+Legalább a nővérével sikerül együtt maradnia, amibe erősen kapaszkodik.
+A hamar beköszöntő éhezés miatt természetesen rengeteget gondolnak a kajára.
+Ami talán kevésbé természetes, hogy ilyenkor úgy tesznek, mintha épp bevásárolni mennének, főznének, stb.
+Sőt, éjszaka még "divatbemutatót" is tartanak egymás között.
+Egy szóval nem hagyják, hogy a körülmények letörjék a belső, gyermeki énjüket.
+Ha van egy belső hang, ami reményt ad az embernek, akkor szó szerint mindegy, mi történik kívülről.
 
-<!-- ### A négy kérdés  -->
+A sors többször is különválasztaná a nővérétől, de ők ezt soha nem engedik.
+Amikor valami sorban kétfelé küldenék őket, akkor egy cigánykerekező figyelemeltereléssel alkalmat ad neki az átszökésre.
+Amikor egy vonatbombázás során lenne alkalma elmenekülni, a nővére nélkül nem megy.
+Amikor a nővére már majdnem feladja éhségében, ő az életét kockáztatva nyers répát lop.
 
-- megismerjük Editke családi életét az 1930-as évek Kassáján
-    - apróságok és gyermeki ártatlanság, amit persze ő komolyan él meg (és ezzel nincs is semmi baj)
-    - de mindez nekünk olvasóknak (gondolom) csak még erősebb kontrasztot nyújt majd, hogy milyen szörnyűségek jönnek
-- az anyja szerint "még jó, hogy okos vagy, mert szép az nem"
-    - ez itt (még) negatívan cseng
+De hát az emberi tartalékok végesek, és Editke is igencsak közeledik az övéhez.
+A végső "halálba menetelés" során már csak a nővére és egy másik volt szobatársa tartják állva -- a másik lány azért, mert még anno megosztotta vele azt a bizonyos Mengelés vekni kenyeret.
+Milyen apróságokon múlik egy élet...
 
-<!-- ### Amit egyszer a fejedbe veszel -->
-
-- fogság, ideiglenes tábor, hosszú vonatút, és végül Auschwitz, ahol az anyját egyből balra küldik :(
-- a fejezet címe egy üzenet, amit az anyja mond neki a vonaton: ami a fejedben van, ahhoz kívülről nem férhetnek hozzá
-
-<!-- ### Tánc a pokolban -->
-
-- személyesen Mengelének táncol, amivel kiérdemel egy extra vekni kenyeret (és ez állítólag még megmenti az életét)
-    - az anyja tanácsát megszívlelve, tánc közben a fejébe menekül, ahol szabadabb lehet, mint akár a fogvatartói
-- legalább a nővérével sikerül együtt maradnia, akivel egy hálókörletbe is kerülnek
-- rengeteget gondolnak a kajára, úgy tesznek, mintha épp bevásárolni mennének, főznének, stb.
-    - éjszaka divatbemutatót tartanak egymás között
-    - egy szóval: nem hagyják, hogy a körülmények letörjék a belső, gyermeki énjüket
-- "még jó, hogy okos vagy, mert szép az nem" --> most már ebben is képes a pozitívumot látni
-    - ha okos, akkor biztos ki tudja találni, hogy hogy lehet ezt az egészet megúszni
-- ha van egy belső hang, ami reményt ad az embernek, akkor szó szerint mindegy, mi történik kívülről
-
-<!-- ### Cigánykerék -->
-
-- különválasztanák őket valami sorban
-    - ekkor sem a halál vagy az ismeretlen rémiszti meg, csak az, hogy nem lehetne tovább a nővérével
-    - cigánykerekezni kezd (amiért simán lelőhették volna), és amígy így elterelte a figyelmet, a nővére átáll az ő sorába
-- egy vonatbombázás során lenne alkalma elmenekülni is, de a nővére nélkül nem megy
-    - aki, mint kiderül, szintén életben maradt, de így továbbra is fogságban maradtak
-- a nővére már majdnem feladja éhségében, de ő répát lop
-    - és csodák csodája meg is ússza
-
-<!-- ### A halál lépcsői -->
-
-- úgy tudják, hogy másnap reggel meghalnak, erre ő azon lamentál, hogy szüzen hal meg :)
-    - konkrétan kilóg és megles egy férfi hullát, csak hogy férfi "anatómiát" is lásson életében
-- másnap pedig mégsem halnak meg, hanem menetelésre kényszerítik őket
-    - itt a nővére és egy másik lány tartják állva, amikor már épp feladná
-    - a másik lány azért, mert még a Mengelés estén kapott kenyeret megosztotta vele... milyen apróságokon múlik egy élet :/
-
-<!-- ### Fűszálat választani -->
-
-- de mindig van lejjebb, van egy rosszabb pokol
-    - egy még újabb haláltáborba érkeznek, ahol szép lassan elfogynak a tartalékok
-- az utolsó "választása", hogy a rajta/körülötte heverő hullák húsából eszik-e, vagy a fűből
-    - és ő a füvet választja, még ha így meg is hal
-- kb. az utolsó utáni pillanatban érkeznek az amerikaiak, akik alig veszik észre egy hullakupacban, hogy még (épphogy) él
+És még ez a rengeteg hősies kitartás után is csak egy hajszálon múlt az élete.
+Az utolsó tudatos "választása", hogy a rajta/körülötte heverő hullák húsából eszik-e, vagy a fűből.
+És ő, az ártatlanságát a végsőkig megőrizve, inkább a füvet választja, még ha így meg is hal.
+Kb. az utolsó utáni pillanatban érkezik az amerikai felmentősereg, akik szó szerint egy hullakupacból húzzák ki a kis túlélőt.
 
 <br>
 
@@ -145,19 +120,18 @@ excerpt: >
 
 <!-- ### A megmentőm, a támadóm -->
 
-- "We are an anatomy lesson." Ouch...
-- egy amerikai katona részegen majdnem megerőszakolja
-    - amibe az ő állapotában Edit biztosan bele is halt volna
-    - de aztán valamiért szerencsére mégsem
-- a katona kijózanodva bűnbánó, és szinte a védőszentjévé válik a következő hetekben, amíg egy kicsit felépül
-- végül vonattal hazaindulhatnak, először Bécs, majd Prága felé
-- itt pedig meglátják, hogy a középső testvér hegedű karrierje menet közben befutott
+A megmenekülésük után elég sok időbe telik a regenerálódás, annyira soványok és gyengék.
+Ahogy hősnőnk mondja is:
 
-<!-- ### Egy ablakon keresztül -->
+> Kész anatómia lecke vagyunk.
+> > We are an anatomy lesson.
 
-- a házuk szerencsére továbbra is megvan, és ott találkoznak a középső nővérrel is szinte azonnal
-    - ő megúszta a táborokat, és most a hegedülésből tud pénzt szerezni
-- az otthoni visszailleszkedés elég nehézkesen megy
+És csak ennek a tetejébe érkezik ráadásnak, hogy egy amerikai katona részegen majdnem megerőszakolja.
+Ebbe Edit az ő állapotában biztosan bele is halt volna, de szerencsére valahogy ezt megússza.
+A katona kijózanodva bűnbánó, és szinte a védőszentjévé válik a következő hetekben, amíg egy kicsit felépül.
+Végül vonattal hazaindulhatnak, először Bécs, majd Prága és Kassa felé, ahol megtudják, hogy a középső testvérük hegedű karrierje menet közben szépen befutott.
+
+Az otthoni visszailleszkedés elég nehézkesen megy.
     - Klára gondozza hősnőnket, illetve viszi orvoshoz
     - törött háttal, kelésekkel, tüdőgyulladással, és minden egyéb finomsággal kezelik szegényt
 - találkozik egy bizonyos Bélával, aki utána írogat neki
@@ -430,6 +404,14 @@ excerpt: >
     - de azért menet közben ne hagyjunk egy gőzölgő szarkupacot a szőnyeg alatt!
     - tegyük rendbe a múltat, hogy ne fertőzhesse meg a jövőt
         - Edit pont *elnyomni* próbálta a múltat, hogy ne mérgezze meg az új életét... de pont ezzel mérgezte meg
+
+> 
+> > [T]here is no hierarchy of suffering. There’s nothing that makes my pain worse or better than yours, no graph on which we can plot the relative importance of one sorrow versus another.
+
+- mindenkinek joga van "igazi" fájdalomként megélni a saját fájdalmait
+    - vagyis érdemes ezekre az extrém, koncentrációs táboros élményekre **nem** úgy tekinteni, mintha semmi közük nem lehetne egy munkahelyi nehézséghez vagy egy szerelmi csalódáshoz, mert igenis lehet
+    - és ha a szerző fel tudta dolgozni, akkor mi is fel fogjuk, legyen az bármi
+- "Miért én?" --> "Hogyan tovább?"
 
 - tanuljunk hát a hibájából
     - vállaljunk felelősséget, vállaljuk a szükséges kockázatokat, és engedjük el az esetleges sérelmeinket
