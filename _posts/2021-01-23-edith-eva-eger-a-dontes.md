@@ -59,11 +59,11 @@ A hétköznapok tele vannak apróságokkal és gyermeki ártatlansággal, amit p
 De már itt érződik, hogy mindez nekünk olvasóknak csak még erősebb kontrasztot nyújt majd, hogy milyen szörnyűségek jönnek...
 
 És sajnos jönnek is: a szüleivel és a legidősebb nővérével együtt fogság, ideiglenes tábor, hosszú vonatút, és végül Auschwitz.
-Az apjánál nem kérdés a különválasztás, de az anyja a fiatalos kinézete meatt akár maradhatna is velük, ha nem derülne ki, hogy az anyjuk (és emiatt valószínűleg "túl idős").
+Az apjánál nem kérdés a különválasztás, de az anyja a fiatalos kinézete miatt akár maradhatna is velük, ha nem derülne ki, hogy az anyjuk (és emiatt valószínűleg "túl idős").
 Így viszont sajnos egyből balra küldik -- ami ugye Frankl-től emlékezhetünk, hogy az azonnali halált jelenti.
-Ez pedig csak még jelentőségteljesebbé teszi, amit utoljára mondott neki a vonaton: "Ami a fejedben van, ahhoz kívülről nem férhetnek hozzá"!
+Ez pedig csak még jelentőségteljesebbé teszi, amit utoljára mondott a vonaton: "Ami a fejedben van, ahhoz kívülről nem férhetnek hozzá"!
 
-Még az odaérkezés sokkja sem ülepedhetett le, és ő máris személyesen Mengelének táncol.
+Még az odaérkezés sokkja sem ülepedhetett le, és Edit máris személyesen Mengelének táncol.
 Az anyja tanácsát megszívlelve tánc közben a fejébe menekül, ahol szabadabb lehet, mint akár a fogvatartói.
 Ezzel pedig kiérdemel egy extra vekni kenyeret, amit megoszt a "hálókörletével".
 
@@ -130,32 +130,33 @@ Ahogy hősnőnk mondja is:
 > > We are an anatomy lesson.
 
 És csak ennek a tetejébe érkezik ráadásnak, hogy egy amerikai katona részegen majdnem megerőszakolja.
-Ebbe Edit az ő állapotában biztosan bele is halt volna, de szerencsére valahogy ezt megússza.
+Ebbe Edit az ő állapotában biztosan belehalt volna, de szerencsére valahogy ezt is megússza.
 A katona kijózanodva bűnbánó, és szinte a védőszentjévé válik a következő hetekben, amíg egy kicsit felépül.
 Végül vonattal hazaindulhatnak, először Bécs, majd Prága és Kassa felé, ahol megtudják, hogy a középső testvérük hegedű karrierje menet közben szépen befutott.
 
 Az otthoni visszailleszkedés elég nehézkesen megy.
-Szegény Editet törött háttal, kelésekkel, tüdőgyulladással, és minden egyéb finomsággal kezelik -- sőt, TBC gyanú miatt még egy speciális szanatóriumba is bekerül egy időre.
-De ez is nyilván a sors keze, mert itt ismerkedik meg egy bizonyos Bélával, akivel hamarosan össze is házasodnak.
+Szegény Editet törött háttal, kelésekkel, tüdőgyulladással, és minden egyéb borzalmas utóhatással kezelik -- sőt, TBC gyanú miatt még egy speciális szanatóriumba is bekerül egy időre.
+De ez nyilván a sors keze, mert itt ismerkedik meg egy bizonyos Bélával, akivel hamarosan összeházasodnak.
 
-Béla, mint kiderül, kisebbféle mágnás, ezért a haláltáborok után nem is olyan sokkal egy váratlan luxuséletben találja magát.
+Béla, mint kiderül, kisebbféle mágnás, ezért Edit a haláltáborok után nem sokkal egy váratlan luxuséletben találja magát.
 Hamarosan terhes lesz, amit az orvos az ő állapotában még nem igen javasol, de ő akkor is meg szeretné tartani -- és gyors felépülésének köszönhetően szerencsésen meg is tartja.
 Látszólag minden rendben.
-De a látszat ellenére ezekben az előkelő társadalmi körökben is tudja mindenki, mi az a veszteség, csak senki nem beszél a róla.
+De a látszat ellenére ezekben az előkelő társadalmi körökben is tudja mindenki, mi az a veszteség.
+Csak senki nem beszél a róla.
 Egyszerűen nem néznek szembe azzal, ami történt.
 És ez (mint majd később látni fogjuk) nem a legjobb megbirkózási stratégia.
 
 Egy másik veszély, hogy a nácikat leváltó kommunista rezsim alatt sem kimondottan vannak biztonságban.
-Sokakhoz hasonlóan emigráción gondolkoznak Jeruzsálembe felé (egyelőre kicsit feketén), ahol a jelenlegi tőkéjükkel elvileg üzletbe tudnánka kezdeni.
+Sokakhoz hasonlóan emigráción gondolkoznak Jeruzsálem felé (egyelőre kicsit feketén), ahol a jelenlegi tőkéjükkel elvileg üzletbe tudnának kezdeni.
 De egy váratlan vízum által lehetőség nyílik Amerika felé is...
 
-Mielőtt elindulhatnának, a férjét bebörtönzik.
+Mielőtt elindulhatnának, a férjét letartóztatják.
 Edit azonban nem esik pánikba, némi kenőpénzzel kiszabadítja, és egy elég hajmeresztő vonatúttal Bécsbe szöknek.
 Menet közben az Izraeli emigrálás egyre kevésbé tűnik kecsegtetőnek az ottani háborús helyzetek miatt, ezért újra feljön a vízumos esély.
 Végül úgy dönt (a férje akaratával szemben, akár az elválás árán), hogy ő a kislányukkal akkor is Amerikába megy.
 A férje pedig úgy dönt, hogy akkor mégis vele tart -- a vagyont meg ott egye meg a fene.
 
-> Passzívnak lenni annyi, hogy mások helyetted. Agresszívnek lenni annyi, hogy mások helyett is döntesz. Határozottnak lenni annyi, hogy magadnak döntesz.
+> Passzívnak lenni annyi, hogy mások döntenek helyetted. Agresszívnek lenni annyi, hogy mások helyett döntesz. Határozottnak lenni annyi, hogy magadnak döntesz.
 > > To be passive is to let others decide for you. To be aggressive is to decide for others. To be assertive is to decide for yourself.
 
 <br>
@@ -214,19 +215,19 @@ Csak hát a háború, a táborok, és a múlt elől menekülés elvették a fiat
 Így a gyógyulás egyik -- kicsit talán furcsának tűnő -- lépése, hogy elválik.
 
 Egy másik lépés, hogy mélyebben beleássa magát Frankl munkásságába.
-Az erről írt esszéjét egyetemi körökben publikálják, ez pedig volt elég megindító ahhoz, hogy Frankl maga is megkeresi egy levél formájában.
-Ez a kapcsolat pedig egyre csak azt a vonalat erősíti benne, hogy ő is másoknak segítsen.
+Az erről írt esszéjét egyetemi körökben publikálják, és ez elég megindító ahhoz, hogy Frankl maga is megkeresi egy levél formájában.
+Ez a kapcsolat pedig egyre csak azt a vonalat erősíti benne, hogy ő szintén másoknak segítsen.
 Úgy gyógyuljon, hogy közben másokat gyógyít.
 
-A válás is igazából egy lépés volt az önmegvalósítása felé.
+A válás igazából egy lépés volt az önmegvalósítása felé.
 Azzal, hogy nemet mond a férjének, végre igent mond önmagának.
 De még így is elég nehézkesen megy a kilábalás, hiszen sok hitével és feltételezésével saját magát fogja vissza.
 Időnként előfordul még egy-egy pánikroham, amivel a teste gyakorlatilag azt jelzi: van itt még mit rendbe rakni.
 Hiába fordult már jobb irányba, a régi sebeket is be kell gyógyítani.
 
-Ilyen szempontból a válás inkább csak letisztította, hogy mi az *igazi* baj.
+Ilyen szempontból pedig a válás inkább csak letisztította, hogy mi az *igazi* baj.
 Hogy végre ne csak bűnbakot keressen a boldogtalanságára.
-Ezért is "logikus" lépés, hogy pár éven belül újra összejön a férjével.
+Ezért "logikus" lépés, hogy pár éven belül újra összejön a férjével.
 
 > A szerelmünk olyan stabil, mint a hegyek, és mégis olyan folyékony, mint a tenger; alakul és változik, hogy olyan formát öltsön, amilyet adunk neki.
 > > Our love feels as stable as the mountain range, as enveloping and fluid as a sea, adapting, shifting to fill the shape we give it.
@@ -244,10 +245,11 @@ Mi több, olyanokkal dolgozik együtt, akik a [Flow]({% post_url 2020-01-18-csik
 
 - **Richard Farson**: balsors elmélet,  miszerint a sors csapásai a negativitásuk ellenére sokszor növekvésre adnak alkalmat. Annyira kizökkentenek, hogy olyankor jelentőségteljesebben tudjuk átértékelni az életünket, és az igazi értékeink/céljaink szerint irányba állítani magunkat.
 
-Innen fejlődik ki a saját CHOICE terápiás megközelítése (**C**ompassion, **H**umor, **O**ptimism, **I**ntuition, **C**uriosity, self-**E**xpression).
+Innen fejlődik ki Edit saját CHOICE terápiás megközelítése (**C**ompassion, **H**umor, **O**ptimism, **I**ntuition, **C**uriosity, self-**E**xpression).
+És a betűszó nyilván nem véletlen.
 Véleménye szerint csak akkor lehetünk szabadok, ha *választunk*.
 Ehhez egyrészt fel kell ismernünk a választási lehetőségeinket -- mert azok mindig vannak!
-Másrészt pedig a jelenben kell élnünk, mert csak ott lehet választani -- múlt már kész, a jövő meg még nincs itt.
+Másrészt pedig a jelenben kell élnünk, mert csak ott lehet választani -- a múlt már kész, a jövő meg még nincs itt.
 Mi választjuk meg, hogy a saját börtönőreink leszünk-e, vagy inkább szabadok.
 
 <br>
@@ -255,7 +257,7 @@ Mi választjuk meg, hogy a saját börtönőreink leszünk-e, vagy inkább szaba
 Edit saját gyógyulási folyamatának "vége" egy megkereséssel érkezik: mint szimbolikus túlélő és pszichológus, tartson katonai közönségnek előadást Hitler régi bunkerében.
 Persze nincs kötelezettsége elvállalni, mindenki megértené, ha nem menne...
 De akkor továbbra is külső tényezők kezébe adná az élete alakulását.
-Ha nem tud szembenézni vele és továbbra is menekülni akar az ilyen ingerek elől, akkor (a férje szavaival) Hitler nyer.
+Ha nem tud szembenézni vele és menekülni akar az ilyen ingerek elől, akkor (a férje szavaival) Hitler nyer.
 Ezért -- a hagyatéka és a saját lelki békéje érdekében -- vállalja az előadást.
 
 Az utazással és az emlékekkel járó önvizsgálat során végre "megbocsát" Hitlernek.
@@ -270,11 +272,12 @@ Itt derül ki a legmélyebbre rejtett keresztje: amikor még anno a táborba ér
 De habár az anyja meghalt, ő még itt van.
 És *most* van itt.
 Választhatja, hogy a múlt szabja meg a jelenét, vagy azt is, hogy a legtöbbet hozza ki belőle, ha már itt maradt.
+Szóval kicsit megkésve ugyan, de magának is megbocsát.
 
-A tábor kapuja feletti "Arbeit macht frei" felirat az eredeti szándékával együtt tekintve továbbra is kegyetlen, de hősnőnknek most egész más megvilágításba kerül.
-Igenis a munka tette szabaddá -- csak nem az a munka, amikre a nácik gondoltak.
+A tábor kapuja feletti "Arbeit macht frei" felirat az eredeti szándékával együtt tekintve kegyetlen, de hősnőnknek most egész más megvilágításba kerül.
+Igenis a munka tette szabaddá -- csak nem az a munka, amire a nácik gondoltak.
 Inkább az, ami utánuk jött: a felépülés, a gyógyulás, a tanulás, és a sok segítség, amit másoknak nyújthatott.
-Ezzel a munkával megekült meg igazán.
+Ezzel a munkával menekült meg igazán.
 
 <br>
 
@@ -322,19 +325,19 @@ Legyen az a mantránk, hogy "Észrevenni, elfogadni, megvizsgálni, megélni".
     Kérdezzük azt, hogy *mi* mit szeretnénk, hogy mit tehetünk *mi* érte, és hogy mikor?
 
 2. **Kockázatvállalás.**
-Az igazi önmegvalósításhoz vezető úton óhatatalnul lesznek bizonytalan lépések.
+Az igazi önmegvalósításhoz vezető úton óhatatlanul lesznek bizonytalan lépések.
 A szabadság abból fakad, hogy ismerjük a lehetőségeinket, hogy megvizsgáljuk a következményeiket, és hogy utána magunknak választunk.
 Ehhez pedig időnként jelentős kockázatokat kell majd vállalni.
 
     > Nem mindig fog egybeesni, hogy mi a helyes és mi a könnyű.
 
 3. **Elengedés.**
-A gyász egy fontos dolog, ezért is része valamiféle ide illő rituálé sok vallásnak és kultúrának.
-De nagyon fontos, hogy ezek mindig rendelkeznek egy végdátummal is, ami után a gyász úgymond *beépül* a hétköznapokba.
+A gyász egy fontos dolog, ezért is része valamiféle ide illő rituálé szinte az összes vallásnak és kultúrának.
+De nagyon fontos, hogy ezek mindig rendelkeznek egy végdátummal, ami után a gyász úgymond *beépül* a hétköznapokba.
 Nem ragadhatunk le abban a fázisban, mert akkor a "rendes" életünknek vége.
 
     Nem minden felett van irányításunk -- sőt, igazából nagyon kevés dolog felett.
-    Ha folytonos "miért"-ekkel mindenre logikus magyarázatot akarunk, azzal saját magunkat bénítjuk le.
+    Ha a folytonos "miért"-ekkel mindenre logikus magyarázatot akarunk, azzal saját magunkat bénítjuk le.
     Az univerzum hideg és érzéketlen, bizonyos dolgok egyszerűen megtörténnek...
     Csak azt irányíthatjuk igazán, hogy ezekre a dolgokra hogyan reagálunk.
     Úgyhogy azt akkor legalább irányítsuk!
@@ -370,7 +373,7 @@ Nem ragadhatunk le abban a fázisban, mert akkor a "rendes" életünknek vége.
 A könyv újra felidézte nekem a Frankl-féle koncentrációs táboros borzalmakat.
 Amik szerintem amúgy továbbra is nagyon hasznosak, hogy megfelelő perspektívából tudjunk tekinteni a hétköznapi életünkre, de na...
 A hideg kirázza az embert!
-Ennek ellenére (vagy talán pont ezért) A döntés szinte olvastatta magát.
+Ennek ellenére (vagy talán pont ezért) a személyes sztori szinte olvastatta magát.
 Sok másik könyvvel ellentétben itt véletlen sem javaslom, hogy ez a poszt kiváltsa az eredeti megtapasztalását.
 
 A legfőbb tanulság, mint már számos alkalommal, most is a felelősségvállalás.
@@ -387,11 +390,11 @@ Vagyis érdemes ezekre az extrém, koncentrációs táboros élményekre **nem**
 > > [T]here is no hierarchy of suffering. There's nothing that makes my pain worse or better than yours, no graph on which we can plot the relative importance of one sorrow versus another.
 
 Ez az én szememben szépen ellensúlyozza Frankl tiszta jövő-fókuszát.
-Mert persze, továbbra is befelé kell fordulni, magunkat fejleszteni, egy jobb jövő felé indulni, stb.
+Mert persze, befelé kell fordulni, magunkat fejleszteni, egy jobb jövő felé indulni, stb.
 De azért menet közben ne felejtsünk egy gőzölgő szarkupacot a szőnyeg alatt!
 Tegyük rendbe a múltat, hogy ne fertőzhesse meg a jövőt.
         
 Edit sokáig pont *elnyomni* próbálta a múltat, hogy ne mérgezze meg az új életét...
 De pont ezzel mérgezte meg.
-Tanuljunk hát a hibájából: vállaljunk felelősséget, vállaljuk a szükséges kockázatokat, és engedjük el az esetleges sérelmeinket.
-Így megláthatjuk, hogy bármilyen múlttal a hátunk mögött is fényesebbnek fog tűnni az, ami előttünk áll.
+Tanuljunk hát a hibájából: vállaljuk a felelősséget, vállaljuk a szükséges kockázatokat, és engedjük el az esetleges sérelmeinket.
+Így megláthatjuk, hogy bármilyen múlttal a hátunk mögött is fényesebbnek fog tűnni az, ami még előttünk áll.
