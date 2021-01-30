@@ -460,7 +460,7 @@ Ha viszont **használni** (enni, inni, nézni, vezetni, stb.) szeretnénk, akkor
 ## Összefoglalás
 
 A modern élet rengeteg döntéséhez igenis hasznosak ezek az automatikus katt-pörr reakciók, hogy ne égjen le az agyunk már egy unalmas szerda délelőttől is.
-De melléjük sajnos szükséges lehet ez az anti-naivitás kalauz -- hogy más hibáján tanulhassunk az autópilótánk gyenge pontjairól.
+De melléjük sajnos szükséges lehet ez az anti-naivitás kalauz -- hogy más kárán tanulhassunk az autópilótánk gyenge pontjairól.
 
 Azért ezt a hat témát tárgyaltuk, mert ezek a leggyakoribb (és normál körülmények között a legmegbízhatóbb) jelzések, amiket egy komplex döntési helyzet leegyszerűsítésére használni szoktunk.
 Úgy vagyunk vele, hogy amikor stresszesek, bizonytalanok, figyelmetlenek, vagy fáradtak vagyunk, akkor egy-egy jelre is bőven elég fókuszálni.
