@@ -4,12 +4,12 @@ title: Robert B. Cialdini - Hatás
 pages: 320
 date: 2021-01-30 00:01
 excerpt: >
-    A tavalyi évösszefoglaló "jövő" szekciójában első számú hiányosságként állapítottuk meg a blog megfelelő marketingjét.
+    A tavalyi évösszefoglaló "jövő" szekciójában első számú hiányosságként állapítottam meg a blog megfelelő marketingjét.
     De szerencsére a marketing is egy tanulható terület, szóval idén gyakran elő fog kerülni.
     Mai célpontunk Robert B. Cialdini -- Hatás című könyve, ami a kísérleti szociális pszichológia irányából közelíti a befolyásolás művészetét.
 ---
 
-A [tavalyi évösszefoglaló]({% post_url 2020-12-26-2020 %}) "jövő" szekciójában első számú hiányosságként állapítottuk meg a blog megfelelő marketingjét.
+A [tavalyi évösszefoglaló]({% post_url 2020-12-26-2020 %}) "jövő" szekciójában első számú hiányosságként állapítottam meg a blog megfelelő marketingjét.
 Mert habár szerintem tök jó dolgokról van szó, most is kb. annyi embert érek el, mint korábban az akadémiai kutatásaimmal -- ezúton köszönöm mindkettőtöknek! ...
 
 Node sebaj, a marketing is egy tanulható terület, szóval idén gyakran elő fog kerülni.
@@ -20,7 +20,7 @@ Ez egy blog népszerűsítése mellett feltételezem sok más területen is hasz
 Cialdini alapanyaggyűjtés gyanánt (az egyetemi berkeken felül) mindenféle "beleegyezési specialistát" vizsgált éles körülmények között.
 A beleegyezési specialista pedig mindössze egy szép összefoglaló név a marketingesekre, az eladási ügynökökre, az adománygyűjtőkre, a HR-esekre, stb.
 Őket figyelve jött rá, hogy igazából a tudatalatti igen-ek kiváltásában van a nagy üzlet.
-Már az elején lefekteti a hat alapelvet, amit az erre használt technikák legnagyobb közös osztójaként talált:
+Már az elején lefekteti a hat alapelvet, amiket a gyakran használt technikák legnagyobb közös osztójaként talált:
 
 1. [Kölcsönösség](#kolcsonosseg)
 2. [Következetesség](#kovetkezetesseg)
@@ -73,13 +73,14 @@ Ez az, amikor előbb megyünk bele valamibe, minthogy átgondoltuk volna.
 A könyv a jelenséget állandóan a "katt-pörr" hangutánzással jellemzi, mint ahogy egy magnókazettát bekapcsolnánk, és már indítja is a felvételt.
 
 Ezzel viszont sebezhetővé, manipulálhatóvá válunk!
-Vagyis az itt tanultak (a főleg marketinges kikiáltásuk ellenére) nem is csak arra jók, hogy mi meggyőzzünk másokat, hanem hogy megvédjük magunkat...
-Kicsit [Hatalom 48 törvénye]({% post_url 2020-01-28-robert-greene-the-48-laws-of-power %}) feeling ebből a szempontból.
+Vagyis az itt tanultak (a főleg marketinges kikiáltásuk ellenére) nem is csak arra jók, hogy mi meggyőzzünk másokat, hanem hogy megvédjük magunkat a kéretlen befolyásolás ellen...
+Kicsit [Hatalom 48 törvénye]({% post_url 2020-01-28-robert-greene-the-48-laws-of-power %}) érzésem van ebből a szempontból.
 
-Plusz előny, hogy mivel a másik fél beépített reakcióit használják, a manipulátorok eleve nem tűnünk manipulatívnak.
+Plusz veszély, hogy mivel a másik fél beépített reakcióit használják, a manipulátorok eleve nem tűnnek manipulatívnak.
 Hiszen ők csak bedobtak egy kérést/felvetést; aztán az már a mi dolgunk, hogy azt hogy ítéljük meg.
 Ezért érdemes ismernünk, *hogyan* is kell úgy kérni, hogy a leggyakrabban "igen" legyen a válasz.
-Erre kapjuk a következő hat módszert.
+És hogy hogyan kell nemet mondani, ha valójában azt akarnánk mondani.
+Ezekre kapjuk a következő hat módszert.
 
 <br>
 
@@ -115,19 +116,19 @@ Az emberi civilizációknak nagy haszna van abból, ha az adás nem csak egyirá
 Ha tudjuk, hogy a másik viszonozni fogja, akkor az adományunk igazából nem veszik el.
 Ezért könnyebb megosztani, ha nekünk épp nem kell valami -- kereskedelem, munkamegosztás, szakmai specializáció, segélynyújtás...
 
-Ezek után gondolhatjuk, hogy minden társadalom egyik alapköve a viszonzást beleverni mindenki fejébe.
+Ezek után gondolhatjuk, hogy minden társadalom egyik alapköve a viszonzást beleverni a polgárok fejébe.
 Csak így viszont ugye kihasználhatóak leszünk.
 Sőt, ez még az alapvető vonzalomnál is sokkal erősebb "kötelezettséget" tesz a nyakunkba.
 Normális esetben egyenesen arányos a nagylelkűségünk azzal, hogy mennyire szimpatizálunk a másik féllel.
-De ha úgy érezzük, hogy tartozunk, akkor a szimpátia egyáltalán nem számít.
+De ha úgy érezzük, hogy tartozunk neki, akkor a szimpátia egyáltalán nem számít.
 Tartozunk és kész.
 
 Példákért nem kell messzire menni:
 
-- Politikai szívességek oda-vissza szavazásoknál,
-- Lobbizás (és annak szükséges korlátai, pont a kölcsönösség meglepő ereje miatt),
-- Ingyenes minták és kóstolók, amik utána természetesen vásárlásra sarkallnak,
-- Vallásos adománygyűjtések, ahol először egy "ajándék" virágot kapunk,
+- Politikai szívességek oda-vissza szavazásoknál;
+- Lobbizás (és annak szükséges korlátai, pont a kölcsönösség meglepő ereje miatt);
+- Ingyenes minták és kóstolók, amik utána természetesen vásárlásra sarkallnak;
+- Vallásos adománygyűjtések, ahol először egy "ajándék" virágot kapunk;
 - "Meghívhatlak egy italra", ami után persze a fiúknak lesznek ötletei az illő viszonzásra...
 
 A durva, hogy ez még akkor is működik, ha az eredeti szívesség *kéretlen*.
@@ -138,7 +139,8 @@ Ezt pedig néha akkor is meg akarjuk majd szüntetni, ha az "ár" épp értelmet
 A viszonzási kötelezettségből következik az is, hogy ha a másik fél kompromisszumot köt, akkor mi is úgy érezzük, hogy egy kompromisszum felé kell hajlanunk.
 Ez pedig ugye újra nagyszerűen kihasználható, ha először egy szándékosan túlzó kéréssel fordulnak felénk, amit aztán "lejjebb adnak".
 És a lejjebb adás nem is kell, hogy objektíven kicsi legyen!
-Csak *kisebb*, mint a pofátlanul nagy eredeti.
+Csak kisebb, mint a pofátlanul nagy eredeti.
+*Nekem adnád az autódat? Nem? Jó, akkor elég lesz kölcsönbe is...*
 Nyilván vannak határok, de az elv akkor is áll.
 
 A legegyszerűbben úgy küzdhetünk a kölcsönösségen élősködőkkel szemben, ha felismerjük, amit csinálnak.
@@ -175,18 +177,18 @@ Szóval ha rájövünk, hogy az aktuális "szívesség" csak egy trükk része (
 
 ## <a name="kovetkezetesseg"></a>2. Következetesség
 
-Mindannyiunkban ott a kimondatlan vágy, hogy következetes legyünk.
+Mindannyiunkban ott a kimondatlan vágy, hogy következetesek legyünk.
 Vagy legalábbis a külvilág számára következetesnek **tűnjünk**.
 És ez sokszor fontosabb, mint hogy igazunk legyen.
 
 Ha meghozunk egy döntést, akkor utána az addigi kételyeink hajlamosak csak úgy szétfoszlani.
 Vacillálunk, hogy melyik terméket vegyünk, melyik romantikus kapcsolatot válasszuk, melyik lóra tegyünk a lovin...
 És amint megvan, máris sokkal biztosabbnak érezzük magunkat.
-Mert ha már a döntésünk valamit mutat, akkor az érzéseink és a hozzáállásunk is azt kell, hogy tükrözze!
+Mert ha már a döntésünk valamit mutat, akkor az érzéseink és a hozzáállásunk is azt kell, hogy tükrözzék!
 Ha már egyszer kiálltunk valami mellett, akkor most már ki kell tartanunk.
-Ó jajj, nehogy úgy tűnjön, hogy meggondoltuk magunkat, hiszen az azt jelentené, hogy tévedtünk!
+Ó jaj, nehogy úgy tűnjön, hogy meggondoltuk magunkat, hiszen az azt jelentené, hogy tévedtünk!
 
-Ne értsetek félre, a vak következetesség sokszor hasznos.
+Ne értsetek félre, a következetesség sokszor hasznos.
 Csökkenti a mentális terhet, és ezért nem kell mindig újraértelmezni a szituációt.
 De időnként arra is rávehet, hogy a saját érdekeinkkel szöges ellentétben viselkedjünk.
 Mondjuk amikor lusták vagyunk gondolkozni, vagy csak vonakodunk szembenézni azzal, amire a gondolkozásunk valószínűleg vezetne.
@@ -197,8 +199,8 @@ Ezt persze megint lesz, aki kihasználná.
 Ha valami kis kezdeti dologba belemegyünk, akkor azzal már könnyebben rántanak tovább.
 Ez kb. a Szókratészi vitamódszer, ahol apró lépésenként vezetnek el oda, ahova egyből soha nem mentünk volna:
 
-- Vedd meg azt a játékot **is**, amiből direkt nem eleget gyártottunk karácsonyra, hiszen már megígérted a gyereknek,
-- Adakozz az XY szervezetnek, hiszen már belemondtad a telefonba, hogy "jól vagy és minden rendben" (ami után elég kényelmetlen nemet mondani),
+- Vedd meg azt a játékot **is**, amiből direkt nem eleget gyártottunk karácsonyra, hiszen már megígérted a gyereknek;
+- Adakozz az XY szervezetnek, hiszen már belemondtad a telefonba, hogy "jól vagy és minden rendben" (ami után elég kényelmetlen nemet mondani);
 - Menj bele egy "akciós" üzletbe, ami mellett aztán akkor is kitartasz majd, amikor kiderül, hogy valami miatt mégsem lehet akciós.
 
 Itt is felmerül az írott kijelentések hatása: amit egyszer leírunk, azt utána hajlamosak vagyunk elhinni magunkról.
@@ -206,7 +208,7 @@ Ha ez a tetejébe a külvilág szeme elé is kerül, akkor pedig már két oldal
 Ezt használtuk az [Atomi szokásoknál]({% post_url 2021-01-09-james-clear-atomi-szokasok %}) a saját javunkra -- itt viszont vigyázzunk, nehogy ellenünk használják.
 
 A tudatalatti következetességből következik az is, hogy amihez nehezen jutunk hozzá, azt utána annál jobban fogjuk értékelni.
-A kegyetlen törzsi beavatási ceremóniáknak (vagy az iskolai gólyák szecskáztatásának) nem szadista, hanem csoport-érdekű a motivációja.
+A kegyetlen törzsi beavatási ceremóniáknak (vagy az iskolában a gólyák szecskáztatásának) nem szadista, hanem csoport-érdekű a motivációja.
 
 Az egyik tanulság: a legkisebb dologra is nagyon megfontoltan mondjunk igent, nehogy csak egy lépcsőfok legyen valami nagyobb felé.
 Úgy küzdhetünk ellene a legkönnyebben, ha a másik fél szemére olvassuk, hogy épp mit csinál.
@@ -257,9 +259,9 @@ Ugye együnk mi is szart, hiszen több milliárd légy nem tévedhet!
 
 Cialdini nem spórol a durva példákkal:
 
-- Világvége kultusz, akik a megszégyenüléskor csak még erősebb hitre váltottak (mert ránézésre más hite sem ingott meg),
-- Gyilkosság szemtanúk tucatjával, akik semmit nem tettek (mert más sem tett semmit),
-- Tömeges öngyilkosság, csak mert a szektavezér azt mondta (és mert látszólag ez mindenki másnak egy elfogadható parancs).
+- Világvége kultusz, akik a megszégyenüléskor csak még erősebb hitre váltottak (mert ránézésre a társaik hite sem ingott meg);
+- Gyilkosság szemtanúk tucatjával, akik semmit nem tettek (mert más sem tett semmit);
+- Tömeges öngyilkosság, csak mert a szektavezér azt mondta (és mert látszólag ez mindenki másnak egy elfogadható parancs volt).
 
 Ha mindenki csak a többiek viselkedésére alapoz, az ilyen vak-vezet-világtalant helyzetekhez vezethet.
 Akkor a legerősebb ez a hatás, ha kétségben vagyunk.
@@ -311,16 +313,16 @@ Itt igazából nem az árusnak, hanem a barátunk "szellemének" adjuk be a dere
 Persze ha nincs létező barátság a tarsolyukban, akkor nyilván magukat próbálják majd megkedveltetni.
 Az ehhez leggyakrabban használt módszerek:
 
-1. Fizikai "jólfésültség" -- ami kísérletek során szavazásoknál, álláskereséseknél, és bírósági ügyekben is tudatalatti torzítást váltott ki;
+1. Fizikai vonzalom és/vagy "jólfésültség" -- ami kísérletek során szavazásoknál, álláskereséseknél, és bírósági ügyekben is tudatalatti torzítást váltott ki;
 2. Hasonlóság -- azonos öltözködés, érdeklődési kör, származás, kor, vallás, politikai nézetek, stílus, stb. mellett úgyis jobban szimpatizálunk majd velük;
-3. Dícséretek/bókok -- amik akár akkor is működhetnek, ha hátsó szándékot sejtünk mögöttük; sőt, még akkor is, ha konkrétan nem is jogosak;
+3. Dicséretek/bókok -- amik akár akkor is működhetnek, ha hátsó szándékot sejtünk mögöttük; sőt, még akkor is, ha konkrétan nem is jogosak;
 4. "Csapatszellem" -- megpróbálják úgy beállítani, hogy egy oldalon vagyunk, ők a csapattársaink, csak segíteni próbálnak, a mi érdekeinket tartják szem előtt;
 5. Asszociáció -- celebek adják a nevüket valamihez, csini lányok, öltöny/nyakkendő/menő karóra; mind tudatalatti hatások, hogy valamit pozitívabban ítéljünk meg.
 
 Megelőzni úgysem fogjuk tudni, hiszen rengeteg irányból érkezhet a "támadás".
-Inkább figyeljük meg magunkat, **miután** elérte a hatását.
+Inkább figyeljük meg magunkat, **miután** a támadás elérte a hatását.
 Ha bizonyos körülmények között azt vesszük észre, hogy jobban kedveljük a másik felet, mint azt a szituáció normál esetben magyarázná, akkor szólaljon meg a vészcsengő!
-Minden lényeges döntés előtt kérdezzük meg magunktól, hogy az eladó féllel kialakult viszony normális keretek között mozog-e.
+Minden lényeges döntés előtt kérdezzük meg magunktól, hogy az eladóval kialakult viszony normális keretek között mozog-e.
 
 <br>
 
@@ -355,21 +357,21 @@ Minden lényeges döntés előtt kérdezzük meg magunktól, hogy az eladó fél
 A könyv egy brutális, elektrosokkos kísérlettel szemlélteti, hogy milyen mélyen képesek vagyunk alávetni magunkat mások akaratának, ha feljebbvalónak ítéljük őket valamiféle tekintély ranglétrán.
 A résztvevők szinte hihetetlen erősségig képesek voltak felcsavarni egy "alanyra" (beépített ember) kifejtett sokk erősségét, amíg a kísérletet vezénylő "tudós" arra utasította őket.
 Ilyen hatékony lehet a már megszokott automatikus válasz ("katt-pörr"), ami miatt át sem gondoljuk, hogy mi magunktól nem így cselekednénk.
-Hétköznapi józan ésszel is simán elkaphatnánk az ilyeneket, de egyáltalán nem gondolunk bele, mert "egy feljebbvaló szóllott vala".
+Hétköznapi józan ésszel is simán elkaphatnánk az ilyeneket, de egyáltalán nem gondolunk bele, mert "egy feljebbvaló szólott vala".
 
 És ami még veszélyesebb: a tekintély **látszata** is elég az ilyesmihez, nem kell igazi tekintély.
 Ha valakin fehér laborköpeny és sztetoszkóp van, az biztosan orvos, ezért bármi egészségüggyel kapcsolatosat mond is, az onnantól kőbe van vésve...
-Csodálkozunk, ha lesz, aki ezt kihasználná?
-Ügyeljünk a tekintély látványos formáira, főként a hangzatos címekre, az egyenruhákra, és a foglalkozási kellékekre.
+*Ja hogy csak egy színész? Az már mindegy!*
+Ügyeljünk tehát a tekintély látványos formáira: a hangzatos címekre, az egyenruhákra, és a foglalkozási kellékekre.
 Főleg, ha valaki ezeket túlhangsúlyozza.
 
 Ellenálláshoz a szokásos tanács továbbra is él: tudatosítsuk magunkban a szituációt, és figyeljünk oda, ha a gyomrunk jelez.
 Két kérdés segíthet:
 
 1. Ez a tekintélyes figura valóban szakértő abban, amiről épp szó van?
-Ezzel könnyen felismerhetjük az automatikus, de amúgy teljesen értelmetlen behódolásunkat
+Ezzel könnyen felismerhetjük az automatikus, de amúgy teljesen értelmetlen behódolásokat.
 
-2. mekkora őszinteségre számíthatnánk ettől a bizonyos szakértőtől egy ilyen szituációban?
+2. Mekkora őszinteségre számíthatnánk ettől a bizonyos szakértőtől egy ilyen szituációban?
 Vagyis érdekében állhat-e, hogy hazudjon nekünk?
 
 <br>
@@ -402,7 +404,7 @@ Vagyis érdekében állhat-e, hogy hazudjon nekünk?
 
 ## <a name="ritkasag"></a>6. Ritkaság
 
-Ha valami ritka (vagy legalábbis ritkának tűnik), az egyből kapósabb is lesz.
+Ha valami ritka (vagy legalábbis ritkának tűnik), az egyből kapósabb lesz.
 És ezen belül is sokkal érzékenyebbek vagyunk arra, ha valamit elveszthetünk, vagy valamiből kimaradhatunk.
 Biztos vagyok benne, hogy mindannyian tisztában vagyunk a vonatkozó stratégiákkal:
 
@@ -416,10 +418,11 @@ Sőt, nem csak jobban akarjuk majd, de *jobbnak* is fogjuk tekinteni (bármiről
 Mert hiába indította a ritkaság a folyamatot, utána tudat alatt azért magunknak valahogy csak meg kell tudni magyarázni, hogy miért is akarjuk ennyire.
 
 Ezért vigyázzunk a tiltásokra és a cenzúrára -- sokkal inkább az ellenkező hatást váltjuk majd ki vele.
-Egy másik érdekes tanulság a kutatások szerint, hogy a frissensült ritkaság fájdalmasabban érint minket, mint ha valami mindig is ritka lett volna.
+Egy másik érdekes tanulság a kutatások szerint, hogy a frissensült ritkaság fájdalmasabban érint minket, mint ha mindig is ritka lett volna.
+Szóval ha valami *épp most* lett hiánycikk, az emelgesse csak a szemöldökünket!
 
 A logikus átgondolás persze itt is segít**hetne** küzdeni a manipuláció ellen -- de a hirtelen (gyakran mesterséges) nyomás miatt ez nehéz lesz, mert olyankor pont érzelmileg fogunk reagálni.
-Amit tehetünk, az az, hogy erre a felfokozott, sürgetős idegállapotra gyanakodunk
+Amit tehetünk, az az, hogy erre a felfokozott, sürgetős idegállapotra gyanakodunk.
 Ha így felspannolva találjuk magunkat, akkor a következő kérdés segít rendet tenni a fejünkben: **Miért** akarjuk azt a valamit?
 
 Ha birtokolni (pl. társadalmi státusz vagy versenyhelyzet miatt), akkor minden oké, pont ezért érezhetjük magunkat ilyen idegesen.
@@ -456,13 +459,13 @@ Ha viszont **használni** (enni, inni, nézni, vezetni, stb.) szeretnénk, akkor
 
 ## Összefoglalás
 
-A modern élet rengeteg döntéséhez igenis hasznosak ezek az automatikus katt-pörr reackiók, hogy ne égjen le az agyunk már egy unalmas szerda délelőttől is.
-De emellé sajnos szükséges lehet ez az anti-naivitás kalauz -- hogy más hibáján tanulhassunk az autópilótánk gyenge pontjairól.
+A modern élet rengeteg döntéséhez igenis hasznosak ezek az automatikus katt-pörr reakciók, hogy ne égjen le az agyunk már egy unalmas szerda délelőttől is.
+De melléjük sajnos szükséges lehet ez az anti-naivitás kalauz -- hogy más hibáján tanulhassunk az autópilótánk gyenge pontjairól.
 
 Azért ezt a hat témát tárgyaltuk, mert ezek a leggyakoribb (és normál körülmények között a legmegbízhatóbb) jelzések, amiket egy komplex döntési helyzet leegyszerűsítésére használni szoktunk.
-Úgy vagyunk vele, hogy amikor stresszesek, bizonytalanok, figyelmetlenek, vagy fáradtak vagyunk, akkor egy-egy jelre is bőven elég figyelni.
+Úgy vagyunk vele, hogy amikor stresszesek, bizonytalanok, figyelmetlenek, vagy fáradtak vagyunk, akkor egy-egy jelre is bőven elég fókuszálni.
 Viszont, mint láttuk, ezek önmagukban sokszor elég mély szarba is keverhetnek.
-Próbáljunk hát figyelni a fenti szekciókban megfogalmazott tanácsok szerint!
+Legyünk hát egy kicsit szemfülesebbek a fenti szekciókban megfogalmazott tanácsok szerint!
 
 Amíg igaz, tényeken alapuló befolyásról van szó (és józanul gondolkozunk), az itt elhangzott alapelvek mindenkinek hasznára lehetnek.
 Ebből a szögből valóban "marketingről" szól a könyv, és a tippjei megolajozhatják a valós, mindkét fél számára előnyös üzleteket.
