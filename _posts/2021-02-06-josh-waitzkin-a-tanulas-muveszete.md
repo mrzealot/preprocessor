@@ -21,9 +21,10 @@ A mély gondolkodást, a fejlődést, és magát a tanulási folyamatot szerette
 Ezért kezdett Tai Chi-zni, amiben újra kiélhette az önfejlesztési hajlamait -- és meglepően hamar ennek a sportágnak is feljutott a csúcsára!
 Innen vonja le a következtetést, hogy ő igazából nem is a sakkban vagy a harcművészetben jó, hanem a tanulásban.
 
-Eddig csak elég absztraktan voltak meg a tapasztalatai a saját fejében, amit szavakba önteni és másoknak is lekommunikálni elég nehéz lenne.
+Eddig csak elég absztraktan voltak meg a tapasztalatai a saját fejében, amiket szavakba önteni és másoknak is lekommunikálni elég nehéz.
 Hogy ezt orvosolja, egyetemi évei alatt filozófiát tanul.
-Itt találkozik az Upanishadokkal, a Taoizmussal, a Buddhizmussal, Platónnal... És mindből hasonló lecke köszön vissza:
+Találkozik az Upanishadokkal, a Taoizmussal, a Buddhizmussal, Platónnal...
+És mindenhonnan hasonló lecke köszön vissza:
 Ha egyszer valamit elég mélyen megértünk, akkor az ott tanultakat utána át lehet vinni más területekre is.
 Vagyis hogy igazából egy "igazság" van, és ha azt egyszer bármiben meglátjuk, akkor onnantól másban is könnyebben megláthatjuk majd ugyanazt.
 
@@ -65,14 +66,14 @@ Egy New York-i parkban kezdett sakkot tanulni, kemény 6 évesen.
 Drogosokkal, öregemberekkel, egy mondhatni elég furcsa közegben... De ő nagyon élvezte!
 Itt talált rá egy mester, -- gondolom az egyre növekvő "parki csodagyerek" híre alapján -- hogy akkor ő tanítaná rendesen.
 
-A kis Josh nagyon szimpatizált a tanár mentalitásával, mert az nem a tekintélyre hanem az útmutatásra alapozott.
+A kis Josh nagyon szimpatizált a tanár mentalitásával, mert az nem a tekintélyre, hanem az útmutatásra alapozott.
 Nem prédikált vagy formálisan oktatott, hanem inkább kérdezett és párbeszédet kezdeményezett egy-egy olyan döntésnél, amivel nem értett egyet.
-Így a nyers, száraz technikai tudás nem tudta letörni a gyermeki lelkesedését a játék iránt.
+Így a nyers, száraz technikai tudás nem tudta letörni Josh gyermeki lelkesedését a játék iránt.
 Mire végre elkezdett versenyekre járni, szinte tarolt a saját kategóriájában.
 
 Ennek ellenére az első nagy nemzeti bajnokságán kikapott, ami 8 éves fejjel (és az addigi sikerek után) igencsak megrázta.
-De a családi összetartás és az utána ütemezett rendszeres, világ elől elvonulós nyaralás segítettek neki megfelelően kezelni.
-Persze a nyaralás után is jöttek felfordulások: új iskola; a sakktanárának kevesebb ideje jutott rá (amit ő tévesen a vereségének tudta be); az új barátok gazdagsága miatt szegénynek érezte magukat; ilyesmi.
+Szerencsére a családi összetartás és az ütemezett, rendszeres, világ elől elvonulós nyaralás segítettek neki megfelelően kezelni.
+Persze a nyaralás után is jöttek felfordulások: új iskola; a sakktanárának kevesebb ideje jutott rá (amit ő tévesen a kudarcának tudott be); az új barátok gazdagsága miatt szegénynek érezte magukat; ilyesmi.
 De visszajött belőle!
 
 Utólag visszatekintve a 8-9 éves időszakát tekinti az élete meghatározó korszakának, ugyanis itt alapozta meg, hogy a kudarcra csak még több kemény munkával kell reagálni.
@@ -106,7 +107,7 @@ Mindez szépen működött, amíg a belső koncentráció zavartalan maradt.
 De amint belefutott a világ irányíthatatlan, zavaró tényezőibe, egyre bonyolultabbá váltak a dolgok.
 Egy példa a pofátlanul csaló orosz játékosok, akikkel (itt még) nem nagyon tudott mit kezdeni.
 Egy másik, hogy (tanári behatásra) egyre kevésbé a saját stílusában játszott.
-Egy harmadik az apja könyve (és az abból készített film) miatti hírnév, ami egyre inkább elidegenítette a sakktól.
+Egy harmadik az apja könyve (és az abból készített film) miatti hírnév, ami fokozatosan elidegenítette a sakktól.
 
 Egyre több párhuzamot fedez fel a magánéleti, mentális problémái és a sakkos hibái között.
 A sakk tulajdonképpen az önmegismerés eszköze volt számára, de ezen a ponton már nem úgy működött.
@@ -138,7 +139,7 @@ Visszatekintve azonban ezt is egy álruhás áldásnak tekinti, mert így indulh
 
 ## <a name="harcmuveszet"></a>A második művészeti ág
 
-A taoista dolog kapcsán jutott a Tai Chi-ig, amit kezdetben mintegy aktív meditációként használt, de aztán persze jóval mélyebbre süllyedt a nyúl üregében.
+A taoista ismerkedés kapcsán jutott a Tai Chi-ig, amit kezdetben mintegy aktív meditációként használt, de aztán persze jóval mélyebbre süppedt a nyúl üregébe.
 Ez pedig segített egyre inkább összhangot teremteni, hiszen így újra megfigyelhette saját magán a sakknál már működő tanulási módszereit, csak most egy teljesen új területen, és már felnőtt fejjel.
 Ezeken a tapasztalatokon keresztül mutatja be a korai haladását:
 
@@ -162,7 +163,7 @@ Ez gyakorlatilag egy alázatossági training -- egy **befektetés a vereségbe**
 Waitzkin azért fejlődött gyorsan, mert nyitott volt a visszajelzésre és hogy tanuljon a hibáiból -- ego és magyarázkodás nélkül.
 Hiszen ha egy tetszőleges terület elsajátítása közben meg tudnánk állni, hogy ugyanazt a hibát többször is elkövessük, akkor marha gyorsan a csúcson találnánk magunkat.
 Ez persze kb. lehetetlen, de a hibák ismétlésszámát odafigyeléssel és nyitott hozzáállással minimalizálhatjuk.
-Ez életben mondjuk nem nagyon lesz olyan alkalom, ahol "nincs szezon"; ahol épp nem számít a teljesítményünk, és nyugodtan bénázhatunk a hosszabb távú fejlődés érdekében.
+Az életben mondjuk nem nagyon lesz olyan alkalom, ahol "nincs szezon"; ahol épp nem számít a teljesítményünk, és nyugodtan bénázhatunk a hosszabb távú fejlődés érdekében.
 De időnként így is be kell fektetnünk, mert ezek a látszólagos "platók" nyitják majd meg az utat a még magasabb szintű teljesítmény felé.
 
 
@@ -193,7 +194,7 @@ Egy komolyabb sérülése miatt muszáj volt új technikát tanulnia, hogy egy k
 A belső/külső (avagy az absztrakt/konkrét) váltakozása minden fejlődési folyamatnak része (kellene, hogy legyen), de a belsőt sokszor elhanyagoljuk.
 A fenti példa remélhetőleg szépen szemlélteti, hogy ezzel milyen növekedési lehetőségeket hagyunk az asztalon.
 Akinek elég, hogy középszerű (vagy netán "jó"), az megteheti, hogy az akadályoknál megtorpan, lassít, kivár, stb.
-De aki a legjobb akar lenni, az az ilyen **akadályokat is felhasználja**, és fejlődési lehetőségnek próbálja beállítani a saját szemében -- valahogy.
+De aki a legjobb akar lenni, az az ilyen **akadályokat is felhasználja**, és fejlődési lehetőségnek próbálja beállítani a saját szemében.
 Emlékezzünk [Marcus Aurelius]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %})-ra: "A tett gátja csak elősegíti a tettet. Az lesz az út, ami az útban áll."
 
 
@@ -217,15 +218,15 @@ A tudatalattink intézi a dolgok nagyját, és mi cserébe szabadabban és alapo
 
 Ha elég magas szinten nézzük, minden versenyhelyzet fejben dől el.
 Ilyenkor történhetnek **misztikusnak tűnő** események, amik igazából csak a jelentős szintkülönbségből fakadnak.
-Ez az, amikor nem hogy csak elvernek, de a tetejébe *annyira* elvernek, hogy azt se érted, hogy hogyan vertek el.
+Ez az, amikor nem hogy csak elvernek, de a tetejébe *annyira* elvernek, hogy azt se értjük, hogy hogyan vertek el.
 
 A lényeg, hogy ezekben sincs semmi misztikus.
-Gyakorolni kell, amíg az a jelenlegi érzékelésünket "le nem passzolhatjuk" a tudatalattinknak.
+Gyakorolni kell, amíg a jelenlegi érzékelésünket "le nem passzolhatjuk" a tudatalattinknak.
 És utána nem megelégedni ezzel, hanem új feladatot keresni a tudatos agyunknak is.
 
 Ha huzamosabb ideig képesek vagyunk a jelenlegi tudásunk "szélén" gyakorolni, akkor időnként jönni fog egy-két olyan inspiráció, ami szinte érthetetlennek fog tűnni.
-De ezeket tanulmányozhatjuk, megérthetjük, és azzal igazából kitoltuk a tudásunk határát.
-Innentől az tudatosan is használható lesz, és ez az új "szél" -- ahonnan majd hamarosan akár egy új inspiráció is várható.
+De ezeket tanulmányozhatjuk és megérthetjük, amivel igazából kitoltuk a tudásunk határát.
+Innentől tudatosan is használhatók lesznek, és ez az új "szél" -- ahonnan majd hamarosan akár egy új adag inspiráció is várható.
 
 Waitzkin-t ez a felismerése itt sajnos még a vesztes oldalon éri, de ez segít majd neki leküzdeni azt a bizonyos szintkülönbséget.
 Ideje tehát összefésülni a tanulási folyamatról tanultakat a teljesítőképességgel.
@@ -273,8 +274,8 @@ Az előbbinél a természetet próbáljuk erőszakkal magunkhoz igazítani, ami 
 Az utóbbinál pedig azzal dolgozunk, amink van...
 
 Waitzkin személyes (korábbi, sakkos) példájával élve: nem fenntartható, ha csak csendben képes koncentrálni, és ezért elvárja a világtól, hogy teljes legyen a csend.
-Sőt, még a saját elméjétől is elvárná, hogy ne szóljon benne egy mondjuk korábban hallott dallam.
-Nem, ehelyett inkább tudatosan próbálta hozzászoktatni magát, hogy zajban is menjen.
+Sőt, még a saját elméjétől is elvárná, hogy ne szóljon benne mondjuk egy korábban hallott dallam.
+Nem, ehelyett inkább tudatosan próbálta hozzászoktatni magát, hogy zajban is menjen a figyelés.
 Direkt zenét hallgatott gyakorlás közben; gyakran olyat, amit nem is szeret.
 
 <br>
@@ -289,7 +290,7 @@ Erősen kapcsolódik a sokszor emlegetett sztoicizmus is, ahol a külső esemén
 <br>
 
 Végül a **harmadik szint**en az a cél, hogy már szinte vezényszóra aktiválni tudjuk ezt a mély koncentrációs tudatállapotot.
-Ha bármikor úgy jelen akarunk lenni, mint a krízishelyzetekben, akkor bármilyen helyzetet krízishelyzetnek kell tudnunk megélni.
+Ha bármikor úgy jelen akarunk lenni, mint a krízishelyzetekben, akkor képesnek kell lennünk bármilyen helyzetet krízishelyzetként megélni.
 És annak *ellenére* nyugodtnak és összeszedettnek maradni.
 Ezért ha nincs külső nyomás, akkor magunkra kell belső nyomást helyeznünk, és azzal megbirkóznunk -- az agyatlan gyakorlás nem gyakorlás!
 
@@ -302,7 +303,7 @@ Szóval a teljesítmény training első lépése, hogy megfigyeljük magunkban a
 És aztán ezt tudatosan a saját javunkra használjuk.
 Gyakorlással egyre hosszabb sprintekre leszünk képesek egyre rövidebb pihenőidőkkel -- mind fizikai, mind mentális téren.
 
-A totális relaxhoz feltétel, hogy el merjük engedni a fókuszt.
+A totális relaxációhoz feltétel, hogy el merjük engedni a fókuszt.
 De a fókusz elengedéséhez viszont az az önbizalom a feltétel (megint csak), hogy vissza tudjuk majd szerezni.
 Ehhez hasznos valami rutin, amivel leképezhetjük a legjobb, legnyugodtabb, legfelkészültebb állapotunkat.
 
@@ -342,16 +343,16 @@ A könyv részletes meccs leírásokkal zárul, ahol Waitzkin -- mindössze néh
 Ebben a sztoriban azt próbálta átadni, hogy mindezt (**elméletileg!**) hogyan csinálhatjuk utána.
 
 Amire mindenképp számíthatunk, hogy bármekkora felkészülés ellenére is mindig lesznek meglepetések.
-Ezért kell az alapokra építő, flexibilitásnak és inspirációnak teret adó felkészülés, amivel ilyenkor is helyt állhatunk.
+Ezért kell az alapokra építő, flexibilitásnak és inspirációnak teret adó rutin, amivel ilyenkor is helyt állhatunk.
 Tanulás közben:
 
-- Ápoljunk egy növekedési szemléletmódot;
+- Ragaszkodjunk a növekedési szemléletmódhoz;
 - Álljunk hozzá kezdőként;
 - Fektessünk be a vereségbe;
 - Rajzoljunk egyre kisebb köröket;
 - Használjuk fel a nehézségeket;
 - Lassítsuk le az időt; és
-- Gyakoroljunk a tudásunk "legszélén", hogy a hirtelen inspirációk új szintre emelhessenek!
+- Gyakoroljunk a tudásunk "legszélén" -- hogy a hirtelen inspirációk új szintre emelhessenek!
 
 A teljesítményünkkel kapcsolatban pedig:
 
