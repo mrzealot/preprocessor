@@ -4,7 +4,10 @@ title: Josh Waitzkin - A tanulás művészete
 pages: 265
 date: 2021-02-06 00:01
 excerpt: >
-    TODO
+    Tegyük fel, hogy az eddigiekben kellően sikerült rátok sóznom az önfejlesztés gondolatát.
+    Hogy olvasni és tanulni -- a közhiedelemmel ellentétben -- *jó* dolog.
+    De valami technikai útmutató azért gondolom továbbra sem ártana arról, hogy *hogyan* is lehet hatékonyan fejlődni és egy magasabb szinten teljesíteni.
+    Ezt a hiányt pótoljuk most Josh Waitzkin -- A tanulás művészete című könyvével.
 ---
 
 Tegyük fel, hogy az eddigiekben kellően sikerült rátok sóznom az önfejlesztés gondolatát.
@@ -220,6 +223,10 @@ A lényeg, hogy ezekben sincs semmi misztikus.
 Gyakorolni kell, amíg az a jelenlegi érzékelésünket "le nem passzolhatjuk" a tudatalattinknak.
 És utána nem megelégedni ezzel, hanem új feladatot keresni a tudatos agyunknak is.
 
+Ha huzamosabb ideig képesek vagyunk a jelenlegi tudásunk "szélén" gyakorolni, akkor időnként jönni fog egy-két olyan inspiráció, ami szinte érthetetlennek fog tűnni.
+De ezeket tanulmányozhatjuk, megérthetjük, és azzal igazából kitoltuk a tudásunk határát.
+Innentől az tudatosan is használható lesz, és ez az új "szél" -- ahonnan majd hamarosan akár egy új inspiráció is várható.
+
 Waitzkin-t ez a felismerése itt sajnos még a vesztes oldalon éri, de ez segít majd neki leküzdeni azt a bizonyos szintkülönbséget.
 Ideje tehát összefésülni a tanulási folyamatról tanultakat a teljesítőképességgel.
 
@@ -251,74 +258,62 @@ Ideje tehát összefésülni a tanulási folyamatról tanultakat a teljesítők�
 
 ## <a name="kombo"></a>Összeérnek a szálak
 
+A teljesítőképesség tekintetében 3 nagyobb lépcsőfokra juthatunk el:
 
-- a fejlődési folyamat előrevetítése
-    1. nem engedni, hogy az élet apró dolgai kizökkentsenek
-    2. konkrétan profitálni belőle, ha az élet apró dolgai kizökkentenének
-    3. már nem függeni az élettől, hanem magunknak termelni a produktív "kizökkenéseket"
-- ebből az első az ún. "soft zone"
-    - mert lehetünk úgy is a zónában, hogy közben bármi kirángathat (ez a "hard zone")
-    - ha viszont soft, akkor ellenállóak vagyunk a külvilág ingereire
-    - mintha (egy indiai tanmese szerint) nem úgy akarnánk átkelni egy tövises szakaszon, hogy utat építünk, vagy szandált veszünk fel
-        - az előbbinél a természetet próbáljuk erőszakkal magunkhoz igazítani, ami ritkán fog menni, és nagy függést okoz
-        - a utóbbinál pedig azzal dolgozunk, amink van...
-- az ő személyes példájával élve: nem mindegy, hogy csak csendben képes koncentrálni (és ezért elvárja a világtól, hogy teljes csend legyen... sőt, még a saját elméjétől is, hogy ne szóljon benne egy korábban hallott dallam), vagy hogy hozzászoktatja magát, hogy zajban is menjen
-    - ezért direkt zenét hallgatott gyakorlás közben -- gyakran olyat, amit nem is szeret
+1. Nem engedjük, hogy az élet apró dolgai kizökkentsenek;
+2. Konkrétan profitálni tudunk belőle, ha az élet apró dolgai kizökkentenének;
+3. Már nem függünk az élettől, hanem magunknak termeljük a produktív "kizökkenéseket" -- ami ilyenkor már inkább egy "be"-zökkenés.
 
+<br>
 
-### 15 - A jelenlét ereje
+Az **első szint** az ún. "puha zóna" ("soft zone"), amiben ellenállóak vagyunk a külvilág ingereire.
+Mert ugye lehetünk úgy is "a zónában", hogy közben bármi kirángathat (ez a "kemény zóna").
+Mintha (egy indiai tanmese szerint) úgy akarnánk átkelni egy tövises szakaszon, hogy utat építünk, ahelyett hogy szandált vennénk fel.
+Az előbbinél a természetet próbáljuk erőszakkal magunkhoz igazítani, ami ritkán fog menni, és nagy függést okoz.
+Az utóbbinál pedig azzal dolgozunk, amink van...
 
-- ha mindig úgy jelen akarunk lenni, mint a krízishelyzetekben (lelassul az idő, kiélesednek az érzékek, letisztul, hogy mi a fontos), akkor minden helyzetet krízishelyzetnek kell tudnunk megélni
-    - és annak **ellenére** nyugodtnak és összeszedettnek maradni
-    - az agyatlan gyakorlás nem gyakorlás
-    - ha nincs külső nyomás, akkor magunkra kell belső nyomást helyeznünk, és azzal megbírkóznunk
+Waitzkin személyes (korábbi, sakkos) példájával élve: nem fenntartható, ha csak csendben képes koncentrálni, és ezért elvárja a világtól, hogy teljes legyen a csend.
+Sőt, még a saját elméjétől is elvárná, hogy ne szóljon benne egy mondjuk korábban hallott dallam.
+Nem, ehelyett inkább tudatosan próbálta hozzászoktatni magát, hogy zajban is menjen.
+Direkt zenét hallgatott gyakorlás közben; gyakran olyat, amit nem is szeret.
 
-### 16 - A zóna megkeresése
+<br>
 
-- erővel is bele lehet kényszeríteni magunkat a zónába
-    - de az akkora energiát fog kivenni belőlünk, hogy aztán az életünk többi kirakósdarabja hullik majd szét
-- folyamatos csúcs fókusz nem is fenntartható kiégés nélkül
-    - de folyamatosnak **tűnő** fókuszt érhetünk el, ha minél jobban megtanulunk pihenni és regenerálódni ilyen kis mini-relax szünetekkel
-    - itt feljön a test-elme kapcsolat, ami szerint az intervallum edzés nagyszerű, mert ugyanezt az elvet tanítja a testünknek
-- szóval a teljesítmény training első lépése, hogy megfigyeljük magunkban a stressz és a regenerálódás hullámzását (dagály-apály)
-    - és aztán ezt tudatosan a saját javunkra használjuk
-    - szándékos gyakorlással egyre hosszabb sprintekre leszünk képesek egyre rövidebb pihenőidőkkel
-- ez mind fizikai, mind mentális téren vonatkozik
-    - próbáljuk hullámoztatni az élményeinket
-    - főleg ha össze is tudjuk kapcsolni a fizikait a mentálissal --> meditáció, yoga
-- mellesleg az ilyen kis tudat-relaxációk sűrítésével adunk majd több alkalmat a tudatalattinknak is, hogy megnyilvánuljon és inspiráljon
+A puha zóna továbbfejlesztése a **második szint**, ahol már nem is csak hogy nem zavarnak a külső dolgok, de még konkrétan inspirációt is merítünk belőlük.
+Ehhez magas szintű befelé fordulás szükséges, hogy megtanuljuk megfigyelni az érzelmeinket, és tudjuk nyugodtan (szinte külső szemlélőként) viselni őket.
+Kiváló edzés lehet a meditáció, ahol amúgy is nagyon hasonló céljaink vannak (lásd [Meditáció alapok]({% post_url 2020-05-08-john-yates-the-mind-illuminated-alapok %}), [A tudatosság csodája]({% post_url 2020-11-14-thich-nhat-hanh-a-tudatossag-csodaja %})).
 
-### 17 - A saját kiváltó ingerünk kiépítése
+Ha viszont ez megvan, akkor észrevehetjük majd, hogy hogyan fordíthatjuk őket az automatikus, önpusztító reakciók helyett plusz üzemanyaggá.
+Erősen kapcsolódik a sokszor emlegetett sztoicizmus is, ahol a külső események címkézésének módosításával teljesen más reakciókra nevelhetjük magunkat a saját javunkra.
 
-A relaxhoz feltetel, hogy el merjuk engedni a fokuszt
-De ahjoz meg feltetel , hogy bizzunk magunkban, hogy vissza tudjuk szerezni, ha majd kell
+<br>
 
-"Not only do we have to be good at waiting, we have to love it. Because waiting is not waiting, it is life."
+Végül a **harmadik szint**en az a cél, hogy már szinte vezényszóra aktiválni tudjuk ezt a mély koncentrációs tudatállapotot.
+Ha bármikor úgy jelen akarunk lenni, mint a krízishelyzetekben, akkor bármilyen helyzetet krízishelyzetnek kell tudnunk megélni.
+És annak *ellenére* nyugodtnak és összeszedettnek maradni.
+Ezért ha nincs külső nyomás, akkor magunkra kell belső nyomást helyeznünk, és azzal megbirkóznunk -- az agyatlan gyakorlás nem gyakorlás!
 
-"I believe an appreciation for simplicity, the everyday—the ability to dive deeply into the banal and discover life’s hidden richness—is where success, let alone happiness, emerges."
+Ugyan erővel is bele lehet kényszeríteni magunkat a zónába, de az akkora energiát fog kivenni belőlünk, hogy aztán az életünk többi kirakós darabja hullik majd szét.
+És különben is, a folyamatos csúcs fókusz nem fenntartható kiégés nélkül.
+De egy folyamatosnak **tűnő** fókuszt elérhetünk, ha megtanulunk minél jobban pihenni és regenerálódni ilyen kis mini-relax szünetekkel.
+Itt feljön a test-elme kapcsolat, ami szerint az intervallum edzés nagyszerű, mert ugyanezt az elvet tanítja a testünknek -- erre még későbbi könyvekben biztos visszatérünk.
 
-De aztan ha jon a pillanat, akkor kwszen kell allni
-Ehhez hasznos valami rutin, amivel lekepezhetjuk a legjobb, nyugodtabb, feljeszultebb allapotunkat
-Nezzuk meg, mikor vagyunk ilyenek, es csinaljunk elotte valami rutint, amk a fejunkben majd hozzakapcsolodik a mentalis allapothoz
-Igy ha legkozelebb rzt a bevezeto rutint csinaljuk a "nagy pillanat" elott, akkor ott is olyan letisztultak lehetunk
+Szóval a teljesítmény training első lépése, hogy megfigyeljük magunkban a stressz és a regenerálódás dagály-apály-szerű hullámzását.
+És aztán ezt tudatosan a saját javunkra használjuk.
+Gyakorlással egyre hosszabb sprintekre leszünk képesek egyre rövidebb pihenőidőkkel -- mind fizikai, mind mentális téren.
 
-Na ja,es mi van, ha olyankor csak perceink, vagy masodperceink vannak? Ilyenkor jon a (fokozatos!) tomorites, amivel akar egy be/kilegzesre is csokkentheto ez a csucsallapotot kivalto rutin
+A totális relaxhoz feltétel, hogy el merjük engedni a fókuszt.
+De a fókusz elengedéséhez viszont az az önbizalom a feltétel (megint csak), hogy vissza tudjuk majd szerezni.
+Ehhez hasznos valami rutin, amivel leképezhetjük a legjobb, legnyugodtabb, legfelkészültebb állapotunkat.
 
-Az ilyen iranyu trening sokkal flexibilisebbe tesz majd minket a varatlan pillanatok kezeleserr, de ami talan meg fontosabb: az "esemenytelen" pillanatok megeleseben es ertekeleseben is sokat segit
+Nézzük meg, mikor vagyunk ilyen top formában úgy általánosságban, és csináljunk előtte valami "rituálét", ami a fejünkben majd idővel hozzákapcsolódik a mentális állapotunkhoz.
+Így ha legközelebb elvégezzük ezt a bevezető rituálét (mondjuk egy "nagy pillanat" előtt), akkor ott is olyan letisztultak lehetünk.
+Lezuhanyzunk, iszunk egy teát, meghallgatunk egy bizonyos zeneszámot, meditálunk, futunk, eszünk egy kicsit... Kinek mi a testhezálló.
 
-### 18 - Szandálkészítés
-
-- a Soft Zone-os továbbfejlesztése, ahol már nem is csak hogy nem zavarnak a külső dolgok, de még konkrétan inspirációt is merítünk belőlük
-    - magas szintű befelé fordulás szükséges, hogy megtanuljuk megfigyelni az érzelmeinket, tudjuk nyugodtan (szinte külső szemlélőként) viselni őket
-    - és ha ez megvan, észrevehetjük majd, hogy hogyan fordíthatjuk őket az önpusztító reakciók helyett plusz üzemanyaggá
-
-### 19 - Összeérnek a szálak
-
-- leginkább ismétlés, kisebb körök, idő lassítás, misztikusnak tűnés
-- piramisos fejlődési hasonlat (ami a misztikusos elveket teszi kezelhetővé?)
-    - ha elérünk a jelenlegi tudásunk "szélére", akkor időnként jönni fog egy-két olyan inspiráció, ami szinte érthetetlennek fog tűnni
-    - de ezeket tanulmányozhatjuk, megérthetjük, és azzal igazából kitoltuk a tudásunk határát
-    - innentől az tudatosan is használható lesz, és ez az új széle -- ahonnan majd egy új inspiráció is várható
+Na ja, és mi van, ha hirtelen érkezik a nagy pillanat?
+Ha ott majd csak perceink, vagy akár csak másodperceink lesznek?
+Ehhez kell a (lassú! fokozatos!) tömörítés, amivel akar egyetlen be/kilégzésre is csökkenthető ez a csúcsállapotot kiváltó rutin.
+Az ilyen irányú tréning sokkal flexibilisebbé tesz majd minket a váratlan pillanatok kezelésében, de ami talán még fontosabb: az "eseménytelen" pillanatok megélésében és értékelésében is sokat segíthet.
 
 <br>
 
@@ -340,25 +335,28 @@ Az ilyen iranyu trening sokkal flexibilisebbe tesz majd minket a varatlan pillan
 
 
 
-### Összefoglalás
+## Összefoglalás
 
+A könyv részletes meccs leírásokkal zárul, ahol Waitzkin -- mindössze néhány évvel a nemzetközi sakkmestersége után -- gyakorlatilag "dupla" Push Hands világbajnok lesz.
+És ahogy egy-két frissebb interjújából láttam, azóta sem pihen: már egy újabb küzdősportban is igencsak a profi szintet mássza, szörfözni tanul, cégek/sportolók tanácsadója, és hamarosan új könyve is készül.
+Ebben a sztoriban azt próbálta átadni, hogy mindezt (**elméletileg!**) hogyan csinálhatjuk utána.
 
-### 20 - Taiwan
-
-- részletes meccs leírások, ahol végül dupla bajnok lesz
-
-- amire számíthatunk, hogy bármekkora felkészülés ellenére is mindig lesznek meglepetések
-- ezért kell az olyan (alapokra építő, flexibilitásnak és inspirációnak teret adó) felkészülés, amivel ilyenkor is helyt állhatunk
-
+Amire mindenképp számíthatunk, hogy bármekkora felkészülés ellenére is mindig lesznek meglepetések.
+Ezért kell az alapokra építő, flexibilitásnak és inspirációnak teret adó felkészülés, amivel ilyenkor is helyt állhatunk.
 Tanulás közben:
 
 - Ápoljunk egy növekedési szemléletmódot;
 - Álljunk hozzá kezdőként;
 - Fektessünk be a vereségbe;
 - Rajzoljunk egyre kisebb köröket;
-- Használjuk fel a nehézségeket; és
-- Lassítsuk le az időt!
+- Használjuk fel a nehézségeket;
+- Lassítsuk le az időt; és
+- Gyakoroljunk a tudásunk "legszélén", hogy a hirtelen inspirációk új szintre emelhessenek!
 
-Megmérettetéskor pedig:
+A teljesítményünkkel kapcsolatban pedig:
 
-- 
+- Legyen "puha" a zónánk, hogy ne zökkenthessenek ki;
+- Használjuk az amúgy zavaró behatásokat üzemanyagként; és
+- Tanuljuk meg magunkat parancsszóra ilyen állapotba hozni!
+
+Ha így állunk hozzá, bármiben az élmezőnybe juthatunk.
