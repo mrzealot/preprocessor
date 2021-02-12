@@ -19,7 +19,8 @@ A tartalmat (ami igazából mindössze 53 rövid, számozott gondolat) tematikus
 - [Címkézés](#cimkezes)
 - [Elfogadás](#elfogadas)
 - [Elengedés](#elengedes)
-- [Viselkedés](#viselkedes)
+- [Mértékletesség](#mertekletesseg)
+- [Integritás](#integritas)
 
 Az idézeteket most mellőzném (mert ugye úgyis mindenki elolvassa az eredetit), de a saját szavaimmal megfogalmazott összefoglalásokba azért beillesztem a forrás-gondolat sorszámát a könnyebb visszakereshetőség érdekében.
 
@@ -61,48 +62,29 @@ A fájdalom, a veszteség, és a halál mind természetes részei az életnek --
 Ha pedig a forrás bármi külső, akkor legyünk készek azonnal azt a címkét formálni, hogy "Ez nem az én dolgom."
 Leszarom tabletta szteroidokon!
 
+**(9)** A betegség például a testünk baja, nem a "miénk" -- kivéve ha a fejünkkel a mi bajunkká tesszük.
+**(28)** És ha már itt tartunk: ha a testünkkel tehetne bárki rosszat, akkor az ellen biztos tiltakoznánk.
+Az ellen akkor vajon miért nem tiltakozunk ilyen hevesen, amikor az elménkbe csak úgy beférkőznek?
 
+Talán mert azt hisszük, hogy nincs beleszólásunk -- pedig van!
+**(20)** Ahhoz ugyanis, hogy valaki bánthasson, nekünk is el kell hinnünk, hogy bántanak.
+Mondhatni mi is cinkosok vagyunk a saját szenvedésünkben.
+Szóval vegyünk két nagy levegőt minden reakciónk előtt, hogy biztosan úgy reagáljunk, ahogy az a saját érdekünkben áll!
+**(38)** Ha a testi sérülések elkerülése miatt óvatosak vagyunk, akkor legyünk legalább ilyen óvatosak a jellemünk sérüléseinek elkerülésével kapcsolatban is!
 
+**(19)** A címkézéshez tartozik még, hogy vigyázzunk mások megítélésével is.
+Ne engedjük, hogy a gazdag/sikeres külső látszat azt a (hamis!) benyomást keltse bennünk, hogy valaki más boldog, mert nem feltétlen az.
+És fordítva: attól, hogy valaki látszólag szegény/sikertelen, még nem jelenti, hogy nem boldog!
+A boldogság ugyanis csak belülről fakadhat.
 
-**(6)**
+**(44)** Hasonlóan: aki gazdagabb vagy intelligensebb, az nem feltétlen "jobb" nálunk... Csak gazdagabb, vagy intelligensebb.
+Nem csak pénzből vagy szókincsből áll az élet.
+**(45)** Aki pedig elkapkod valamit, arra mondjuk, hogy *gyorsan* csinálta; ne azt, hogy *rosszul*!
+Koncentráljunk a tényekre, az ítélkezést pedig hagyjuk meg akkorra, amikor már minden lényeges körülményt ismerünk.
 
-- csak a saját tulajdonságainkra legyünk büszkék, másokéra ne
-
-**(9)**
-
-- a betegség a testünk baja, nem a miénk -- kivéve ha a fejünkkel a mi bajunkká is tesszük
-
-**(12)**
-
-- a leszarom tablettával persze járhatnak "negatív" következmények
-    - de hát semmi nincs ingyen, úgyhogy azokat tekintsük a lelki békénk árának
-
-**(19)**
-
-- ne engedjük, hogy a gazdag/sikeres külső látszat azt a (hamis!) benyomást keltse bennünk, hogy valaki más boldog, mert nem feltétlen az
-- és fordítva, attól, hogy valaki látszólag szegény még nem jelenti, hogy nem boldog
-- a boldogság ugyanis csak belülről fakadhat
-
-**(20)**
-
-- ahhoz, hogy valaki bánthasson, nekünk is el kell hinnünk, hogy bántanak
-    - mondhatni mi is cinkosok vagyunk a saját szenvedésünkben
-- szóval vegyünk két nagy levegőt minden reakciónk előtt, hogy biztosan úgy reagáljunk, ahogy az a saját érdekünkben áll
-
-**(28)**
-
-- ha a testünkkel tehetne bárki bármit, akkor az ellen biztos tiltakoznánk
-    - és az ellen vajon miért nem tiltakozunk ilyen hevesen, hogy az elménkbe csak úgy beférkőzhetnek?
-
-**(45)**
-
-- ha valaki valamit elkapkod, akkor mondjuk, hogy gyorsan csinálta, ne azt, hogy rosszul
-    - koncentráljunk a tényekre, az ítélkezést pedig hagyjuk meg akkorra, amikor már minden lényeges körülményt ismerünk
-
-**(48)**
-
-- az egyszerű ember minden jót kívülről vár, és minden rosszért külső tényezőket okol
-    - a filozófus pedig -- kitaláltátok -- pont fordítva
+**(48)** Az egyszerű ember minden jót kívülről vár, és minden rosszért külső tényezőket okol.
+A filozófus pedig -- kitaláltátok -- pont fordítva: a jó dolgok forrását és a rossz dolgok felelősét is belül keresi.
+Igyekezzünk hát a filozófus útját járni!
 
 <br>
 
@@ -129,78 +111,47 @@ Leszarom tabletta szteroidokon!
 
 ## <a name="elfogadas"></a>Elfogadás
 
-**(2)**
+**(2)** Akarjunk csak olyan dolgokat, amiket hatalmunkban van megszerezni -- és akkor majd meg is szerezhetjük őket.
+Ha bármi külsőre vágyunk, akkor az vagy csalódást okoz (ha nincs meg), vagy az elvesztése félelmét kelti (ha megvan).
+Hasonlóan: akarjunk csak olyan dolgokat elkerülni, amiket hatalmunkban van elkerülni -- így akkor el is kerülhetjük majd őket.
+Ha bármi külsőt akarunk elkerülni (szegénység, betegség, halál), akkor egy értelmetlen menekülés lesz az életünk.
 
-- akarjunk csak olyan dolgokat, amiket hatalmunkban van megszerezni -- és akkor meg is szerezhetjük
-    - ha bármi külsőre vágyunk, akkor az vagy csalódást okoz (ha nincs meg), vagy az elvesztés félelmét (ha megvan)
-- és akarjunk csak olyan dolgokat elkerülni, amiket hatalmunkban van elkerülni -- így akkor el is kerülhetjük őket
-    - ha bármi külsőt akarunk elkerülni (szegénység, betegség, halál), akkor egy értelmetlen menekülés lesz az élet
+**(4)** Mielőtt kilépünk az ajtón, képzeljük el részletesen, hogy mi sülhet el rosszul az aktuális tennivalónk során.
+Mellette pedig fogadjuk meg magunkban, hogy a konkrét teendő mellett kifejezett célunk a nyugalmunkat is megőrizni.
+Szóval ha valami (óhatatlanul) beleköp a levesbe, akkor jó eséllyel már fel leszünk rá készülve.
+És a nyugalmunk megőrzésével legalább ezt a "másik" napirendi pontot még mindig teljesíthetjük, ha az eredetit nem is.
+**(10)** Ehhez persze kell az a hit, hogy minden világi ingerre megvan bennünk a megfelelő ellenállási képesség, ha megfelelően tekintünk rá.
+De ez pont attól lesz így, mert elhisszük, így érdemes önbeteljesítő jóslatot csinálni belőle!
 
-**(4)**
+**(12)** A külvilág szemében lehet kicsit erősnek fog tűnni ez a nagy befelé fókusz, és a metaforikus leszarom tabletta túladagolásával járhatnak "negatív" következmények.
+**(13)** Elvégre a belső iránytűnknek és a külső elvárásoknak egyszerre nagyon nehéz lesz megfelelni.
+Úgyhogy a megfelelő befelé fordulás mellett fel kell készülnünk arra, hogy kívülről lenéznek majd.
+De hát semmi nincs ingyen; az ilyenekre tekintsük a lelki békénk áraként.
 
-- mielőtt kilépünk az ajtón, képzeljük el részletesen, hogy mi sülhet el rosszul az aktuális intéznivalónk során
-    - mellette pedig fogadjuk meg magunkban, hogy a konkrét teendő mellett célunk a nyugalmunkat is megőrizni
-    - szóval ha valami (óhatatlanul) beleköp a levesbe, akkor jó eséllyel már fel leszünk rá készülve
-    - és a nyugalmunk megőrzésével legalább az egyik napirendi pontot még mindig teljesíthetjük
+**(22)** Mi csak ragaszkodjunk az elveinkhez a visszajelzésektől függetlenül.
+Ha így teszünk, idővel pont azok fognak nagyra tartani, akik most még lenéznek.
+Ha nem, akkor pedig kétszeresen is kiérdemeljük majd a mostani lenézésüket.
 
-**(10 )**
+**(42)** Ne feledjük, hogy a kritika nem vesz el a kritizált tárgy/személy értékéből.
+Kedvenc szemléltetésem erre a kukába dobott húszezres, ami koszosan és gyűrötten is húszezret ér -- hiába ítélte valaki szemétnek.
+Mindenki csak a saját értékrendje szerint cselekszik, de attól még nem feltétlen van igaza.
+Ezért hogy könnyebben viseljük mások kritikáját, emlékeztessük magunkat, hogy a kritikusaink is csak azt teszik, amit jónak látnak.
 
-- minden világi ingerre megvan bennünk a megfelelő ellenállási képesség, ha megfelelően tekintünk rá
+**(23)** Különben is: ha bármikor külső visszaigazolásra vágyunk, akkor már rég rossz.
+Viselkedjünk úgy, ahogy kell; de ne azért, mert mások becsülnek érte, hanem azért, mert úgy kell.
+Legyen az egyenes élet az önmaga jutalma.
 
-**(13)**
+**(24)** A siker, a pénz és az elismerés amúgy sem csak rajtunk múlik -- ezért nem is lehet szégyen, ha nem kapjuk meg őket.
+Az viszont szégyen, ha a kergetésük miatt kompromittáljuk a belső értékeinket.
+Szóval mi csak tegyük, ami tőlünk telik, és segítsünk az embertársainknak, ahogy tudunk.
+De az soha ne szégyelljük, ha nem tudunk többet tenni vagy másoknak "még jobban" segíteni a saját integritásunk árán.
 
-- a belső iránytűnknek és a külső elvárásoknak egyszerre nagyon nehéz lesz megfelelni
-    - úgyhogy a megfelelő befelé fordulás mellett fel kell készülnünk arra, hogy kívülről lenéznek majd
+**(25)** Ára lesz, ha nem hagyatkozunk "alantas", Machiavelli-féle, [48 törvényes]({% post_url 2020-01-28-robert-greene-the-48-laws-of-power %}) taktikákra a feljebb jutáshoz.
+Lehet, hogy nem mi leszünk elöl a sorban az előléptetésnél vagy a kitüntetéseknél.
+De ezt az árat akkor fizessük emelt fővel, mert közben (a többiekkel ellentétben?) önmagunk maradhattunk.
 
-**(14 --> 2)**
-
-**(17)**
-
-- színészek vagyunk a sors darabjában
-    - az nem a mi dolgunk, hogy milyen szerepet szántak nekünk
-    - az viszont igen, hogy a legjobb tudásunk szerint játsszuk
-
-**(22)**
-
-- a külső lenézés ellenére mi csak ragaszkodjunk az elveinkhez
-    - ha így teszünk, idővel pont azok fognak nagyra tartani, akik most még lenéznek
-    - ha nem, akkor pedig kétszeresen is kiérdemeljük majd a mostani lenézésüket
-
-**(23)**
-
-- különben is: ha bármikor külső visszaigazolásra vágyunk, akkor már rég rossz
-    - viselkedjünk úgy, ahogy kell; de ne azért, mert mások becsülnek érte, hanem azért, mert úgy kell
-
-**(24)**
-
-- a siker, a pénz, a visszaigazolás nem csak rajtunk múlik, ezért nem is lehet szégyen, ha nem kapjuk meg őket
-- az viszont szégyen, ha a kergetésük miatt kompromittáljuk a belső értékeinket
-- szóval mi csak tegyük, ami tőlünk telik, és segítsünk az embertársainknak, ahogy tudunk
-    - de az nem szégyen, ha nem tudunk nekik "még jobban" segíteni a saját integritásunk árán
-
-**(25)**
-
-- ára van annak is, hogy nem hagyatkozunk "alantas" taktikákra (lásd 48)
-    - lehet, hogy mi leszünk elöl a sorban az előléptetésnél vagy a kitüntetéseknél
-    - de ezt az árat akkor emelt fővel fizessük, mert közben önmagunk maradhattunk
-
-**(42)**
-
-- a kritika nem vesz el a kritizált tárgy/személy értékéből
-    - mindenki csak a saját értékrendje szerint cselekszik, de attól még nem feltétlen van igaza
-    - hogy könnyebben viseljük mások kritikáját, emlékeztessük magunkat, hogy csak azt teszik, amit jónak látnak
-
-**(43 --> 10)**
-
-**(44)**
-
-- aki gazdagabb vagy intelligensebb, az nem feltétlen "jobb" nálunk... csak gazdagabb, vagy intelligensebb
-    - nem csak pénzből vagy szókincsből áll az élet
-
-**(53)**
-
-- menjünk önként és dalolva a sors által kijelölt ösvényen
-    - persze akkor is arrafelé fogunk haladni, ha ellenállunk, csak vonszolva kellemetlenebb lesz
+**(53)** Az elfogadás lényege tehát annyi, hogy próbáljunk *egyenesnek* maradni, miközben önként és dalolva ballagunk a sors által kijelölt ösvényen.
+Persze akkor is arrafelé fogunk haladni, ha kompromittálódunk vagy ha ellenállunk -- csak vonszolva kellemetlenebb lesz.
 
 <br>
 
@@ -225,33 +176,25 @@ Leszarom tabletta szteroidokon!
 
 ## <a name="elengedes"></a>Elengedés
 
-**(3)**
+**(3)** Ezzel persze nem mondjuk, hogy minden külső kapcsolatunknak legyen vége.
+Természetesen lehet kedvelni tárgyakat vagy szeretni embereket!
+De mindig emlékeztessük magunkat, hogy ezek külső dolgok, amiket a sors bármikor elvehet tőlünk.
 
-- ettől persze lehet kedvelni tárgyakat vagy szeretni embereket
-    - de mindig emlékeztessük magunkat, hogy ezek külső dolgok, amiket a sors bármikor elvehet tőlünk
+**(7)** Tetszett a hasonlat, miszerint egy feleség vagy egy gyerek elvesztése ugyanolyan, mint amikor egy kikötőben partraszálló matrózt szólít a kapitány.
+Ha menni kell, akkor menni kell -- úgyhogy legyünk készen menni.
+Idősen pedig főleg ne császkáljunk túl messzire, nehogy váratlanul érjen a hívás.
 
-**(7)**
+**(11)** Minden (és mindenki) csak ideiglenesen a miénk, és ehhez érdemes már most szoktatni magunkat -- hogy ne fájjon annyira, amikor már nem a miénk.
+Gyakorlásként használjuk az "elvesztettem" helyett a "visszaszolgáltattam" kifejezést.
+Az már a mi szemszögünkből tök mindegy, hogy egy tolvajnak szolgáltattuk-e vissza az ellopott tulajdonunkat...
+A lényeg, hogy már nem a miénk és kész.
 
-- a feleség/gyerek a halállal szemben ugyanolyan, mint a matróz bevásárlása a kapitánnyal szemben
-    - ha menni kell, akkor menni kell, úgyhogy legyünk készen menni
-    - és idősen főleg ne császkáljunk túl messzire, nehogy ne legyünk készen, ha jön a hívás
-
-**(11)**
-
-- minden csak ideiglenesen a miénk, és ehhez érdemes szoktatni magunkat (hogy ne fájjon annyira, amikor más nem a miénk)
-    - erre gyakorolva használjuk az "elvesztettem" helyett a "visszaszolgáltattam" kifejezést
-    - az már a mi szemszögünkből tök mindegy, hogy egy tolvajnak szolgáltattuk-e vissza... a lényeg, hogy már nem a miénk és kész
-
-**(16)**
-
-- mások vesztesége esetén is emlékeztessük magunkat, hogy itt igazából nem "rossz" az, ami történt, csak az, ahogy ők ezt megélik
-- persze lehet szimpatikusan viselkedni és együttérzést mutatni, de nem szabad ténylegesen együtt is *érezni*
-
-**(26)**
-
-- és ehhez kapcsolódóan: gondoljunk arra, mennyivel könnyebben viseljük mások veszteségét, mint a sajátunkat
-    - pedig a miénk sem kevésbé természetes, mint másé
-    - viseljük hát a sajátunkat is kisebb szenvedéssel
+**(16)** Mások vesztesége esetén is emlékeztessük magunkat, hogy itt igazából nem "rossz" az, ami történt, csak az, ahogy ők ezt megélik.
+Persze lehet szimpatikusan viselkedni és együttérzést mutatni -- ne legyünk érzéketlen bunkók!
+De nem szabad ténylegesen együtt is *érezni*.
+**(26)** És ehhez kapcsolódóan: gondoljunk arra, mennyivel könnyebben viseljük mások veszteségét, mint a sajátunkat.
+Pedig a miénk sem kevésbé természetes, mint másé.
+Próbáljuk hát a sajátunkat is kisebb szenvedéssel megélni.
 
 <br>
 
@@ -275,118 +218,98 @@ Leszarom tabletta szteroidokon!
 
 
 
-## <a name="viselkedes"></a>Viselkedés
+## <a name="mertekletesseg"></a>Mértékletesség
 
-**(15)**
+**(15)** Legyen meg mindenből, hogy mi az elég -- és azt sem kell korábban akarni, mint ahogy lehetőségünk nyílna rá!
+Ha még nincs, ne várjuk türelmetlenül.
+Ha már volt, ne akarjuk visszakapni bármi áron.
+Ha pedig épp van, akkor is csak eleget -- vagy ha nem tudunk pont eleget, akkor inkább akár annyit se.
+**(41)** Elegánsan úgy is mondhatnánk: kifinomulatlan, ha túl sok energiát töltünk a testünk igényeinek kielégítésével.
+Az elme legyen az első, a test pedig csak egy távoli második!
 
-- legyen meg mindenből, hogy mi az elég
-    - és azt sem kell korábban akarni, mint ahogy lehetőségünk nyílna rá
-- ha még nincs, ne várjuk türelmetlenül
-- ha már volt, ne akarjuk visszakapni bármi áron
-- ha épp van, akkor is csak eleget -- vagy akár annyit se
+A **(33)**-as pont ajánlott személyiségjegyeiből sok tartozik ide:
 
-**(21)**
+- Hallgassunk, vagy legfeljebb is csak keveset beszéljünk -- de azt sem pletykálkodásra, közhelyekre, vagy magunkra használva;
+- Legyünk minimalisták a világi dolgokkal kapcsolatban -- **(36)** ide értve a kajálást is;
+- Törekedjünk a szexuális mértékletességre;
+- Viselkedjünk visszafogottan bármiféle nyilvános eseményen;
+- Ne próbáljunk túlzottan viccesek lenni; és
+- Ne káromkodjunk -- ami tulajdonképp túlzó önkifejezés... (Hupsz!)
 
-- tartsuk a halált (és egyéb tragédiák lehetőségét) mindig szem előtt
-    - így biztos nem fogunk semmit túlzásba vinni, mert perspektívába helyezi az életünket
+**(39)** A testi szükségleteinknek van egy természetes határa.
+És nagyon vigyázzuk ennek az átlépésével, mert utána már szó szerint nincs határ -- Epiktétosz szerint végül már az arany papucsunkra is hiányozni fog a bíbor hímzés!
+Vagy egy modernebb példa a Wall Street Farkasából: nehogy nagyobb yacht kelljen, hogy elférjen rajta a helikopter leszálló!
+**(21)** Tartsuk a halált (és az egyéb tragédiák lehetőségét) mindig szem előtt!
+Így biztos nem fogunk semmit túlzásba vinni, mert perspektívába helyezi az életünket...
 
-**(29)**
+<br>
 
-- csak akkor csináljunk valamit, ha előtte végiggondoltuk, hogy az mivel jár
-    - nem csak azt, hogy milyen eredmény vár a végén, hanem hogy milyen életet kell hozzá élni
-    - és csak akkor fogjunk bele, ha vállaljuk, hogy kitartunk mellette
-- a lemondásnál látottak alapján: a filozófia nem igazán keveredik a világi hatalommal és gazdagsággal
-    - de ha ezt az árat megfizetjük, akkor nyugodtak és szabadok lehetünk
 
-**(33)**
 
-- integritás
-- hallgatás, vagy csak keveset beszélés (de azt sem pletykálkodásra vagy közhelyekre használva)
-- külső kötelezettségek visszautasítása
-- a rossz társaság kerülése (vagy legalábbis nem süllyedni a szintjükre)
-- minimalizmus
-- szexuális mértékletesség
-- soha ne magyarázkodjunk
-- visszafogott viselkedés sporteseményeket vagy rendezvényeken
-- mások beszéde közben komolyság
-- felkészülés a lehetséges negatívumokra, és mégis azt tenni, ami helyes
-- ne beszéljünk túl sokat magunkról
-- ne próbáljunk túlzottan viccesek lenni
-- ne káromkodjunk... hupsz!
 
-**(34)**
 
-- minden kísértés felmerülésekor várjunk egy kicsit (mielőtt azonnal igent mondanánk.
-- gondoljuk meg, hogy mennyire lesz jó, és hogy meddig. Aztán pedig vessük össze azzal, mennyire lenne jó utána az a tudat, hogy mégsem mentünk bele.
 
-**(35)**
 
-- ha csinálunk valamit, akkor csináljuk nyilvánosan
-    - ha szégyenletes, akkor erre még előtte gondoljunk, és inkább ne csináljuk
-    - ha viszont az a helyes, akkor mindegy, hogy az emberek mit gondolnak
 
-**(36)**
 
-- vendégségben csak mértékletesen kajáljunk
 
-**(37)**
 
-- ne vállaljunk olyan szerepet, ami túlmutat a képességeinken
-    - nem csak beégünk benne, de mellé még el is szalaszthatunk egy olyan lehetőséget, amiben pedig sikeresek lehettünk volna
 
-**(38)**
 
-- a testi sérülések elkerülése miatt óvatosak vagyunk
-    - legyünk ilyen óvatosak a jellemünk sérüléseinek elkerülésével kapcsolatban is!
 
-**(39)**
 
-- a testi szükségleteinknek van egy természetes határa
-    - nagyon vigyázzuk ennek az átlépésével, mert utána már szó szerint nincs határ (és az arany papucsunkra is hiányozni fog a bíbor hímzés)
-    - vagy a modernebb példa a Wall Street-ből: nagyobb yacht kell, hogy elférjen rajta egy helikopter leszálló
 
-**(40)**
 
-- nem minden hölgy érdemli meg automatikusan egy bizonyos kor felett, hogy "hölgynek" szólítsák
-    - legyenek szerények és legyen önbecsülésük
 
-**(41)**
 
-- kifinomulatlan, ha túl sok energiát töltünk a testünk igényeinek kielégítésével
-    - az elme legyen az első, a test pedig csak egy távoli második
 
-**(46)**
 
-- ne beszéljünk a filozófiáról, hanem demonstráljuk a tetteinkkel
-    - főleg ha még csak félig emésztettek a gondolatok a fejünkben
 
-**(47)**
 
-- ne fitogtassuk az egyszerű/egészséges életmódunkat sem
-    - attól persze éljünk úgy, de magunk miatt
+## <a name="integritas"></a>Integritás
 
-**(49)**
+A **(33)**-as pont maradék javaslatait leginkább az "integritás" kulcsszó alá tudnám összefoglalni:
 
-- nem érteni vagy értelmezni kell a filozófiát, hanem élni
-    - ne a bölcsész jellegű "mire gondolt a szerző" vitákba öljük az energiáinkat, hanem abba, hogy élő példák legyünk a mondanivalóra
+- Tegyük azt, ami helyes;
+- Utasítsuk vissza a külső kötelezettségeket, ha csak lehet;
+- Kerüljük a rossz társaságot -- vagy legalábbis ne süllyedjünk a szintjükre;
+- Soha ne magyarázkodjunk; illetve
+- Készüljünk fel minden lehetséges negatívumra -- és azok ellenére mégis tegyük azt, ami helyes!
 
-**(50 --> (29))**
+**(29)** Csak akkor csináljunk valamit, ha előtte végiggondoltuk, hogy az mivel jár.
+Nem csak azt, hogy milyen eredmény vár a végén, hanem hogy milyen életet kell hozzá élni.
+És csak akkor fogjunk bele, ha vállaljuk, hogy kitartunk mellette.
+**(50)** Ha viszont egyszer elkötelezzük magunkat valami mellett, akkor azt onnantól tekintsük a saját törvényünknek -- és az attól való eltérést konkrétan "törvényszegésnek"!
 
-- ha egyszer elkötelezzük magunkat valami mellett, akkor azt onnantól tekintsük a saját törvényünknek (és az attól való eltérést törvényszegésnek)
-    - az mindegy, más mit mond
+**(35)** Ha csinálunk valamit, akkor azt csináljuk nyilvánosan.
+Ha szégyenletes, akkor erre még előtte gondoljunk, és inkább ne csináljuk.
+Ha viszont az a helyes, akkor mindegy, hogy az emberek mit gondolnak.
 
-**(51)**
+**(34)** Minden kísértés felmerülésekor várjunk egy kicsit mielőtt azonnal igent mondanánk.
+Gondoljuk meg, hogy mennyire lesz jó, és hogy meddig.
+Aztán pedig vessük össze azzal, mennyire lenne jó utána az a tudat, hogy mégsem mentünk bele.
 
-- ha már tudjuk az alapokat (márpedig tudhatjuk, mert épp most tárgyaltuk őket), akkor onnantól mire várunk?
-- állítólag felelős felnőttek vagyunk, úgyhogy ideje kézbe venni a saját fejlődésünket
-- attól, hogy nem vagyunk épp Szókratész, még élhetünk úgy, mintha ő akarnánk lenni
+**(46)** Ne beszéljünk a filozófiáról, hanem demonstráljuk inkább a tetteinkkel.
+Főleg ha még csak félig emésztettek a gondolatok a fejünkben.
+Ez a poszt természetesen kivétel, mert nekem is (és remélem nektek is) ez segít jobban megemészteni a gondolatokat.
+**(47)** Ne fitogtassuk emellett az egyszerű/egészséges életmódunkat sem!
+Attól persze éljünk úgy -- de magunk miatt.
+**(49)** Nem érteni vagy értelmezni kell a filozófiát, hanem élni.
+Ne a bölcsész jellegű "Vajon mire gondolt a szerző?" vitákba öljük az energiáinkat, hanem abba, hogy a mondanivaló élő példái lehessünk.
 
-**(52)**
+**(51)** Ha már tudjuk az alapokat (márpedig tudhatjuk, mert épp most tárgyaltuk őket), akkor onnantól mire várunk?
+Állítólag felelős felnőttek vagyunk, úgyhogy ideje kézbe venni a saját fejlődésünket.
+Attól, hogy nem vagyunk épp Szókratész szintjén, attól még élhetünk úgy, mintha ő akarnánk lenni!
 
-- legyen meg az értékrend, és foglalkozzunk a fontos dolgokkal
-- a példája zseniális: filozófiában is megvannak első lépésben az alap igazságok, aztán második lépésben a bizonyítások, és aztán harmadik lépésben a bizonyítások értelmezése
-    - erre ahelyett, hogy az általános igazságokkal foglalkoznánk, az egész életünket a specializált bizonyítás értelmezésekre basszuk el
-    - avagy Epiktétos szavaival: "The result is that we lie – but have no difficulty proving why we shouldn’t."
+**(52)** Legyen meg az értékrend, és aztán foglalkozzunk a fontos dolgokkal.
+Erre pedig zseniális a példa: a filozófiában is megvannak első lépésben az alap igazságok, aztán második lépésben a bizonyítások, és aztán harmadik lépésben a bizonyítások értelmezése.
+Erre mi ahelyett, hogy az általános igazságokkal foglalkoznánk, az egész életünket a specializált bizonyítás értelmezésekre basszuk el.
+Avagy Epiktétosz szavaival:
+
+> Az eredmény az, hogy hazudunk -- de azt könnyen be tudnánk bizonyítani, hogy miért nem szabadna.
+> > The result is that we lie -- but have no difficulty proving why we shouldn't.
+
+Akinek szemet szúr a képmutatás, az bátran tegyen ellene...
 
 <br>
 
@@ -420,5 +343,14 @@ Leszarom tabletta szteroidokon!
 
 ## Összefoglalás
 
+Epiktétosz kézikönyvecskéje szépen tovább erősítette bennem, hogy a sztoicizmus egyes számú alapköve a címkézés.
+Ha szét tudjuk választani a külvilág ingereit és az azokra adott reakcióinkat, akkor onnantól szinte egy csapásra véget vethetünk a szenvedéseinknek.
+Majdnem mint egy szupererő...
+Ehhez jön hozzá kettes számú alapkőként a természet (vagy sors, vagy isten, vagy nevezzük bárhogy is), ami a külső eseményeket meghatározza -- és mi belátjuk, hogy oda tényleg *semmi* beleszólásunk.
 
+Ezeket továbbgondolva szinte magától kijön a többi szekció főbb mondanivalója.
 
+- El kell tudnunk fogadni minden olyat, amiben bármilyen kis külső tényező is jelen van. Ha nem **csak** rajtunk múlik, akkor nincs garancia, és butaság is lenne elvárni.
+- De még ha meg is szerezzük, el kell tudnunk engedni bármit (és bárkit). Tekintsünk mindenre kölcsönként, amit előbb-utóbb úgyis vissza kell szolgáltatni.
+- Érdemes mértékletességre nevelni magunkat, hiszen akkor nem lesz akkora katasztrófa, ha majd eltűnik valamink.
+- Elsődleges fontosságú önmagunkat fejleszteni és egy "egyenes" életet élni -- mert csak így adjuk meg a kellő tiszteletet annak, ami tényleg a mi irányításunk alatt áll.
