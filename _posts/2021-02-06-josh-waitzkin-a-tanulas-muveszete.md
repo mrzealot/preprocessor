@@ -78,7 +78,7 @@ De visszajött belőle!
 
 Utólag visszatekintve a 8-9 éves időszakát tekinti az élete meghatározó korszakának, ugyanis itt alapozta meg, hogy a kudarcra csak még több kemény munkával kell reagálni.
 Ugye másnak is felrémlik Carol Dweck -- [Szemléletváltása]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %})?
-Csak mert Waitzkin is név szerint említi, mint nagy inspirációt, amikor párhuzamba állítja a sakk világgal.
+Csak mert Waitzkin is név szerint említi, mint nagy inspirációt, amikor párhuzamba állítja a sakk világával.
 
 A legtöbb fiatal játékos csak a nyerésre (és azon belül is a *gyorsan* nyerésre) koncentrál.
 Ezt csak elősegíti, hogy nyitó stratégiákat memorizálnak -- ahelyett, hogy mélyebben ismerkednének az alapokkal.
@@ -182,7 +182,7 @@ Csak a lényeg marad, ami a sallang és a körítés nélkül kisebb de tömöre
 Ettől persze szép lassan és fokozatosan kell elsajátítani egy-egy új készséget.
 De ha már érzés szintre magunkba vertük, akkor (az érzés által vezérelve) máshogy is előadhatjuk magunkat és mégis ugyanazt az eredményt érjük el vele.
 Küzdősportos példa: egyre rövidebb távról teljes értékűt ütni.
-Sakkos példa: látszólag egyre kevesebb tábla-közepi jelenléttel is irányítani a tábla közepét.
+Sakkos példa: úgy is irányítani a tábla közepét, hogy látszólag egyre kevesebb bábu van a tábla közepén.
 
 
 #### A nehézségek felhasználása
