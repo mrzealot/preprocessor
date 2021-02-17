@@ -151,67 +151,40 @@ A legrosszabb, hogy ilyenkor igazából nem is a főnök vagy a cég használ ki
 Minden esetre ez az út sem ment meg az első hegy kiégésétől, csak kívülről kevésbé lesz érthető.
 "De hát mi történt? Hiszen minden olyan jól ment..."
 
-### 4
+<br>
 
-- még egy Tolsztoj szintű, önfejlesztéssel (sőt, "öntökéletesítéssel") foglalkozó ember is csalódhat, ha rájön, hogy rossz okok miatt csinálta, amit csinált
-    - a hírnév, a siker, és a gazdagság sem kímél meg senkit a második hegytől
-- ez a völgy, vagy kb. az egzisztenciális vákuum, amiről Frankl is beszél
-- és ez ugye nem csak az egyéneknél, hanem társadalmi szinten is megnyilvánul
-    - elmagányosodunk
-    - elbizalmatlanodunk
-    - a jelentés hiánya
-    - törzsiesség -- ez a reakciónk, ha morálisan üresek vagyunk: mondja meg a csorda
-        - keresnek egy egyszerű csoportosítást, ami szerint megvan, hogy ki a jó és ki a rossz... mi kontra ők
-        - "Tribalism is community for lonely narcissists."
-- de legalább ezek nem értelmetlen, hanem talán ébresztő hatású szenvedést okoznak
-    - amiket megélni nem lesz ugyan jó, de visszatekinteni rájuk igen
-    - mert tisztába tették az értékeinket, és jó esetben becélozzák a második hegyünket
+Így vagy úgy, de lejutunk a völgybe -- ez kb. az az egzisztenciális vákuum, amiről [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) is beszélt.
+És ez ugye nem csak az egyéneknél, hanem a társadalom szintjén is megnyilvánul: elmagányosodunk, elbizalmatlanodunk, és hiányzik a "jelentés" az életünkből.
+De remélhetőleg ezek nem értelmetlen, hanem talán ébresztő hatású szenvedést okoznak.
+Ettől megélni persze nem lesz jó, de visszatekintve örülni fogunk a völgynek.
+Mert tisztába tette az értékeinket, és jó esetben becélozta a második hegyünket.
 
-### 5
+Ha már végre nem menekülünk a fájdalom elől, akkor hallgathatunk is rá.
+Kimehetünk a pusztába -- metaforikusan, vagy akár konkrétan is elvonulva a világ zajától, és hallgathatunk magunkra.
+Az életünkre, az eddigi tapasztalatainkra, a kudarcainkra és csalódásainkra.
+Ebből áll össze, hogy merre kellene menni.
+Legtöbbször ilyenkor derül ki, hogy eddig más tervrajza szerint próbáltunk élni.
 
-- ha már végre nem menekülünk a fájdalom elől, akkor hallgathatunk is rá
-    - kimehetünk a pusztába -- metaforikusan, vagy akár konkrétan is elvonulva a világ zajától
-    - és hallgathatunk magunkra
-        - az életünkre, az eddigi tapasztalatainkra, a kudarcainkra és csalódásainkra
-        - ebből áll össze, hogy merre kellene menni
-    - legtöbbször ilyenkor derül, hogy eddig más tervrajza szerint próbáltunk élni
-        - ami Campbell szerint is csak katasztrófához vezethet
-    - és hogy a saját szívünk/lelkünk mi felé is húzna
+A völgyben szólal meg a szívünk és a lelkünk, amiket a szerző a kapcsolódás és a moralitás iránti vágyunk jelképeként használ.
+Ezeket kellene valahogy ki-élnünk magunkból, ha végre nem csak a tudatos agyunkra és a társadalmilag programozott üzenetre figyelnénk.
+Ilyenkor a régi egónk meghal, hogy egy új értékrend bontakozhasson ki a helyén.
 
-### 6
+A második hegyen már nem a "boldogságot", hanem az életünk jelentését és a morális örömöt célozzuk meg.
+Ez az a pont, ahol a függetlenség átmegy önkéntes és kölcsönös függésbe.
+Ahol a kötetlenség átmegy önként és szívesen vállalt kötöttségekbe.
+Ahol a vásárlás és az eladás átmennek szimplán adásba.
 
-- a szívünk valami kapcsolatra vágyik, a lelkünk pedig a morális jóra
-    - ezt kellene valahogy ki-élnünk magunkból
-    - a első hegy utáni völgy azt mutatja meg igazán, hogy nem csak egy tudatos agy vagyunk, hanem egy szív és lélek is
-    - sőt, első sorban szív és lélek vagyunk, és majd csak utána agy
-- a régi egónk meghal, hogy egy új értékrend kibontakozhasson
-    - az első hegyünkön összeszedtük a megfelelő képességeket, a völgyben pedig a szükséges bölcsességet
-    - itt az ideje kockázatot vállalni a második heggyel
+A szeretet és az elköteleződés kéz a kézben jár.
+Nincs olyan, hogy "most szeretlek, de ki tudja meddig", mert akkor az most sem igazi szeretet.
+És míg egy szerződés az érdekeinket elégít(het)i ki, egy elköteleződés az identitásunkat is formálja.
+Szóval ha a karakterünket akarjuk formálni, -- vagy akár tanárként másokét -- akkor tanuljunk meg mélyen elköteleződni!
 
-### 7 
+> A szabadság nem a kötöttségek hiánya, hanem hogy megkereshetjük a megfelelő kötöttségeket.
+>
+> Tim Keller
+> > Freedom is not so much the absence of restrictions as finding the right ones.
 
-- a második hegyen már nem a "boldogságot", hanem a jelentést és a morális örömöt célozzuk meg
-    - ahol a függetlenség átmegy önkéntes és kölcsönös függésbe
-    - ahol a kötetlenség átmegy önként és szívesen vállalt kötöttségekbe
-    - ahol az vásárlás és az eladás átmegy szimplán adásba
-- a szeretet és az elköteleződés kéz a kézben jár
-    - nincs olyan, hogy "most szeretlek, de ki tudja meddig", mert akkor az most sem igazi szeretet
-    - "They’d rather be in turmoil with each other than in tranquility alone."
-- egy szerződés az érdekeinket elégít(het)i ki, míg egy elköteleződés az identitásunkat is formálja
-    - nem csak hogy csinálni kell, de nem is tudnánk nem csinálni
-    - de azért még a tetejébe sokszor formálisan is vállalunk hozzá korlátokat, hogy az "egyszer lent" időszakokban is benne tudjunk maradni
-- az elköteleződés adja az identitásunkat, az életünk jelentését, és az "igazi" szabadságot
-    - Tim Keller “freedom is not so much the absence of restrictions as finding the right ones.”
-- szóval ha a karakterünket akarjuk formálni (vagy akár tanárként másokét), akkor tanuljunk meg mélyen elköteleződni
-
-### 8
-
-- sok példa arra, hogy emberek hogyan valósítják meg ezt a kapcsolat-központúságot
-- "radikális vendégszeretet"
-- nem hallani tőlük "áldozatokról" vagy "ár-érték" arányról -- egyszerűen teszik, amit helyesnek tartanak
-- és akik végre nem számokként vagy ügyfelekként vagy páciensekként kezelik az embereket, hanem emberekként
-- ennyire extrém végletekig nyilván kevesen fogunk eljutni, de attól ezek a példák jól szemléltetik, hogy az elköteleződésből egy mennyire teljes és kielégítő élet is leszűrhető
-- a továbbiakban ennek a spirituális hozzáállásnak a 4 gyakorlati területével foglalkozunk
+Ha ezt a spirituális hozzáállást el tudjuk fogadni, akkor a továbbiakban a 4 gyakorlati területével is foglalkozunk: a hivatással, a házassággal, a személyes filozófiánkkal, és a közösségi kötelékeinkkel.
 
 <br>
 
@@ -239,18 +212,20 @@ Minden esetre ez az út sem ment meg az első hegy kiégésétől, csak kívülr
 
 ## <a name="hivatas"></a>Hivatás
 
-### 9
+Egy karrier nagyon nem ugyanaz, mint egy hivatás.
+A hivatásnál ugyanis nem a tudatos agyunk van a kormánynál, hanem valami belső késztetés visz rá minket arra, amit csinálnunk kell.
+Ez sokszor a dupla negatívig fajul, amikor valamit már *nem* csinálni *nem* tudnánk.
+Brooks példái [George Orwell]({% post_url 2020-05-29-george-orwell-1984 %}) (akinek a totalitárius elnyomás elleni küzdelem volt a hivatása, és az írás tulajdonképpen csak ennek a megnyilvánulása), illetve Viktor Frankl (aki pedig ugye az élet értelmét kereste).
 
-- Egy karrier nagyon nem ugyanaz, mint egy hivatás
-    - Nem a tudatos agyunk van a kormánynál, hanem valami belső késztetés visz rá minket arra, amit csinálnunk kell
-    - Ez sokszor a dupla negatívig fajul, amikor valamit már *nem* csinálni *nem* tudnánk.
-- Példák Orwell (akinek a totalitárius elnyomás elleni küzdelem volt a hivatása, és az írás tulajdonképpen csak ennek a megnyilvánulása), illetve Frankl (aki ugye az élet értelmét kereste)
-- minden foglalkozásnak megvan a maga próbaideje, amíg sokkal többet kell beletenni, mint amennyit kivehetünk belőle
-    - ilyenkor egy karrier mentalitással azonnal fel is mondanánk
-    - de egy hivatástudattal szinte nem is tehetünk mást, ezért megfizetjük az árát -- ami miatt utána eljuthatunk a "következő szintre"
-- az már más kérdés, hogy milyen összevissza módon jutunk el odáig
+Minden foglalkozásnak megvan viszont a maga próbaideje, amíg sokkal többet kell beletenni, mint amennyit "kivehetünk" belőle.
+Ilyenkor egy karrier mentalitással azonnal fel is mondanánk.
+De egy igazi hivatástudattal szinte nem is tehetünk mást, mint hogy csináljuk.
+Megfizetjük az árát -- ami miatt utána eljuthatunk a "következő szintre".
+Az már más kérdés, hogy milyen összevissza módon jutunk el odáig.
 
-### 10
+
+
+### 10 ha megvan
 
 - sokunknak megvan az a szikra, aki (visszatekintve) előrevetíti a hátralévő életünk nagyobb mozzanatait
     - sokszor valamit kompenzálni akarunk vele
@@ -258,14 +233,16 @@ Minden esetre ez az út sem ment meg az első hegy kiégésétől, csak kívülr
     - nem feltétlen gyerekkorban történik a "szerelembe esés pillanata", de a gyökerei szinte mindig oda vezethetők vissza
 - lehet, hogy nem nyilvánul meg azonnal, hogy mik legyünk, de már az is nagy segítség, ha segít kizárni pár opciót, amik biztos NE legyünk.
 
-### 11
+### 11 kövessük, mentorral
 
 - fontos, hogy legyen egy mentorunk, akitől a technikai tudáson felül a praktikus dolgokat is elleshetjük
 - ők tanítják meg nekünk, hogy a kiválóság hogyan is néz ki a napról-napra szinten
     - hogy igazából a törekvés és a célnak élés az, ami lényeges, nem az eredmények, amiket menet közben elérünk
 - de előbb-utóbb úgyis ott kötünk ki, hogy a saját nagy döntéseinket magunknak kell meghoznunk
 
-### 12
+
+
+### 12 ha nincs meg, nézzük az ízlésünk és a világ szükségleteinek metszetét
 
 - az átalakulással járó döntésekkel az a probléma, hogy még az átalakulás előtti agyunkkal kell megítélnünk, hogy akarjuk-e
     - például nem tudhatjuk, milyen is lesz házasnak, vagy szülőnek lenni, amíg azok nem leszünk -- de addigra már "belementünk"!
@@ -286,7 +263,7 @@ Minden esetre ez az út sem ment meg az első hegy kiégésétől, csak kívülr
         - mi az, amit szívesen tudnánk csinálni, és egyszerre meg is oldanánk vele valami nagy problémát
     - ezek mutatják majd meg, hogy hol és mivel van dolgunk
 
-### 13
+### 13 és álmodjunk nagyot
 
 - "A man's never out of work if he's worth a damn... It's just sometimes he doesn't get paid."
 - frankó Martin Luther King Jr. hasonlat arra, hogy milyen kikötések alapján válasszunk hivatást
@@ -586,16 +563,6 @@ Minden esetre ez az út sem ment meg az első hegy kiégésétől, csak kívülr
     - Rachel Carsonnál szépen láthattuk, hogy egy tényező piszkálása sok egyebet ki tud billenteni
     - de ha átlátjuk a komplex rendszert (mondjuk hogy hogyan javítsuk a közösségünkben a fiatalok tanulmányi eredményeit, vagy csökkentsük a hajléktalanságot, stb.), akkor hatékonyabban láthatunk munkához
 
-### 25
-
-- csak az egész átismétlése és összefoglalása, "manifesto" formában
-    - innen lehet majd esetleg lesni, hogy az én összefoglalásom hogy sikerül(t)
-- "The revolution will be moral, or it will not be at all."
-- "A child is born with both ego and heart and soul on full display. But for many people, around adolescence, the ego begins to swell, and the heart and soul recede. People at this age need to establish an identity, to carve a self. Meanwhile, our society tells adolescent boys to bury their emotions and become men. It tells little girls that if they reveal the true depths of themselves, nobody will like them. Our public culture normalizes selfishness, rationalizes egoism, and covers over and renders us inarticulate about the deeper longings of the heart and soul." -- ouch!
-- "As T. S. Eliot observed, the chief illusion of modern political activity is the belief that you can build a system so perfect that the people in it do not have to be good."
-- építsünk hát egy olyan társadalmat, amiben könnyebb jónak lenni :)
-- "the self has shrunk back to its proper size."
-
 <br>
 
 
@@ -623,3 +590,14 @@ Minden esetre ez az út sem ment meg az első hegy kiégésétől, csak kívülr
 
 
 ## Összefoglalás
+
+
+### 25
+
+- csak az egész átismétlése és összefoglalása, "manifesto" formában
+    - innen lehet majd esetleg lesni, hogy az én összefoglalásom hogy sikerül(t)
+- "The revolution will be moral, or it will not be at all."
+- "A child is born with both ego and heart and soul on full display. But for many people, around adolescence, the ego begins to swell, and the heart and soul recede. People at this age need to establish an identity, to carve a self. Meanwhile, our society tells adolescent boys to bury their emotions and become men. It tells little girls that if they reveal the true depths of themselves, nobody will like them. Our public culture normalizes selfishness, rationalizes egoism, and covers over and renders us inarticulate about the deeper longings of the heart and soul." -- ouch!
+- "As T. S. Eliot observed, the chief illusion of modern political activity is the belief that you can build a system so perfect that the people in it do not have to be good."
+- építsünk hát egy olyan társadalmat, amiben könnyebb jónak lenni :)
+- "the self has shrunk back to its proper size."
