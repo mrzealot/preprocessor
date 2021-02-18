@@ -181,7 +181,7 @@ Szóval ha a karakterünket akarjuk formálni, -- vagy akár tanárként mások�
 
 > A szabadság nem a kötöttségek hiánya, hanem hogy megkereshetjük a megfelelő kötöttségeket.
 >
-> Tim Keller
+> -- Tim Keller
 > > Freedom is not so much the absence of restrictions as finding the right ones.
 
 Ha ezt a spirituális hozzáállást el tudjuk fogadni, akkor a továbbiakban a 4 gyakorlati területével is foglalkozunk: a hivatással, a házassággal, a személyes filozófiánkkal, és a közösségi kötelékeinkkel.
@@ -223,63 +223,53 @@ De egy igazi hivatástudattal szinte nem is tehetünk mást, mint hogy csinálju
 Megfizetjük az árát -- ami miatt utána eljuthatunk a "következő szintre".
 Az már más kérdés, hogy milyen összevissza módon jutunk el odáig.
 
+<br>
 
+Sokunknak nem is kellene gondolkoznia rajta, mi lenne a hivatása.
+Megvan az a szikra, aki (visszatekintve) előrevetíti a hátralévő életünk nagyobb mozzanatait.
+Sokszor valamit kompenzálni akarunk vele; sokszor valami érzéki, esztétikai fog meg benne először.
+Nem feltétlen gyerekkorban történik a "szerelembe esés pillanata", de a gyökerei szinte mindig oda vezethetők vissza.
+Ez aztán lehet, hogy nem nyilvánul meg azonnal, de már az is nagy segítség, ha segít kizárni pár opciót, amik biztos **ne** legyünk.
 
-### 10 ha megvan
+Hasznos, ha van egy mentorunk, akitől a technikai tudáson felül a praktikus dolgokat is elleshetjük.
+Ő taníthatja meg nekünk, hogy a kiválóság hogyan is néz ki a napról-napra szinten.
+Hogy igazából a törekvés és a célnak élés az, ami lényeges -- nem az eredmények, amiket menet közben elérünk.
+De előbb-utóbb úgyis ott kötünk ki, hogy a saját nagy döntéseinket magunknak kell meghoznunk.
 
-- sokunknak megvan az a szikra, aki (visszatekintve) előrevetíti a hátralévő életünk nagyobb mozzanatait
-    - sokszor valamit kompenzálni akarunk vele
-    - sokszor valami érzéki, esztétikai fog meg benne először
-    - nem feltétlen gyerekkorban történik a "szerelembe esés pillanata", de a gyökerei szinte mindig oda vezethetők vissza
-- lehet, hogy nem nyilvánul meg azonnal, hogy mik legyünk, de már az is nagy segítség, ha segít kizárni pár opciót, amik biztos NE legyünk.
+<br>
 
-### 11 kövessük, mentorral
+Ha nincs meg ilyen tisztán a víziónk, akkor egy kicsit nagyobb bajban vagyunk.
+Az átalakulással járó döntéseknél ugyanis még az átalakulás előtti agyunkkal kell megítélnünk, hogy akarjuk-e.
+Például nem tudhatjuk, milyen is lesz házasnak, vagy szülőnek lenni, amíg azok nem leszünk -- de addigra már "belementünk"!
+A jelenlegi önmagunkat is elég nehéz kiismerni, de a jövőbeli önmagunknál még annyi esélyünk sincs.
 
-- fontos, hogy legyen egy mentorunk, akitől a technikai tudáson felül a praktikus dolgokat is elleshetjük
-- ők tanítják meg nekünk, hogy a kiválóság hogyan is néz ki a napról-napra szinten
-    - hogy igazából a törekvés és a célnak élés az, ami lényeges, nem az eredmények, amiket menet közben elérünk
-- de előbb-utóbb úgyis ott kötünk ki, hogy a saját nagy döntéseinket magunknak kell meghoznunk
+Ezért is érdemes a tudatalattinkkal egy kicsit mélyebb kapcsolatba kerülünk.
+Onnan jöhet a fent emlegetett szikra is -- és azért inkább gyerekkori, mert ott még jobban kapcsolatban vagyunk magunkkal.
+Csak aztán erre rátelepszik a társadalom konkrét, gazdaság-alapú rétege, és emiatt hajlandóak leszünk gazdasági alapon választani.
+Higgyük el, ez a látszólag "gazdaságos" döntés épp hogy nem fogja megérni!
 
+Nyitni kell a vágyaink felé; vagy először is egyáltalán tudni meghallani őket!
+Nem hagyni a szürke hétköznapoknak, hogy elszürkítsék a látásmódunkat
+Figyelni a művészetre, a barátságra, a szépségre, a gyermeki ártatlanságra -- és ezekkel párhuzamosan a világ bicskanyitogató igazságtalanságaira.
+Mi az mondjuk, amit szívesen tudnánk csinálni, és egyszerre meg is oldanánk vele valami nagy problémát?
 
+<br>
 
-### 12 ha nincs meg, nézzük az ízlésünk és a világ szükségleteinek metszetét
+Ha pedig találunk valami ilyen, akkor onnantól álmodjunk nagyot és lássunk munkához.
+Még akkor is, ha ez először (látszólag) senkit nem fog érdekelni!
 
-- az átalakulással járó döntésekkel az a probléma, hogy még az átalakulás előtti agyunkkal kell megítélnünk, hogy akarjuk-e
-    - például nem tudhatjuk, milyen is lesz házasnak, vagy szülőnek lenni, amíg azok nem leszünk -- de addigra már "belementünk"!
-    - a jelenlegi önmagunkat is elég nehéz kiismerni, de a jövőbeli önmagunknál esélyünk sincs
-- persze ilyen intuícióink (vagy szikráink, mint mondtuk) lehetnek, de hogy alapoz az ember egy egész életet ilyen kevésre?
-    - ha viszont racionálisak próbálunk lenni, akkor milyen adat áll a rendelkezésünkre?
-    - elvégre egy ár-érték elemzéshez már előre tudni kellene, hogy mi az életünk értelme, és annak fényében jó-e ez a döntés
-    - de akkor az életünk értelmét honnan is tudjuk?
-- tudni sehonnan, de megérezhetjük, ha a tudatalattinkkal egy kicsit is mélyebb kapcsolatba kerülünk
-    - onnan jön a szikra is, és azért inkább gyerekkori, mert ott még jobban kapcsolatban vagyunk magunkkal
-    - csak aztán erre rátelepedik a társadalom konkrét, gazdaság-alapú rétege, és emiatt hajlandóak leszünk gazdasági alapon választani
-    - higgyük el, ez a látszólag "gazdaságos" döntés épp hogy nem fogja megérni
-- nyitni kell a vágyaink felé, és egyáltalán tudni meghallani őket
-    - nem hagyni a szürke hétköznapoknak, hogy elszürkítsék a látásmódunkat
-    - figyelni a művészetre, a barátságra, a szépségre, a gyermeki ártatlanságra
-    - és ezek mellett a világ bicskanyitogató igazságtalanságaira
-    - és főleg arra, hogy ennek a kettőnek hol a metszete
-        - mi az, amit szívesen tudnánk csinálni, és egyszerre meg is oldanánk vele valami nagy problémát
-    - ezek mutatják majd meg, hogy hol és mivel van dolgunk
+> Egy valamire való ember soha nincs munka nélkül... Csak legfeljebb épp nem fizetik meg érte.
+> > A man's never out of work if he's worth a damn... It's just sometimes he doesn't get paid.
 
-### 13 és álmodjunk nagyot
+Martin Luther King Jr. "3D" hasonlata szintén jól szemlélteti, hogy milyen kikötések alapján válasszunk hivatást:
 
-- "A man's never out of work if he's worth a damn... It's just sometimes he doesn't get paid."
-- frankó Martin Luther King Jr. hasonlat arra, hogy milyen kikötések alapján válasszunk hivatást
-    - legyen hossza, hogy életünk végéig fejlődhessünk benne
-    - legyen szélessége, hogy sok embert elérhessünk általa
-    - és legyen magassága, hogy valami felsőbb ideál szolgálatába állítsuk a tehetségünket
-- ha pedig az ilyen munka mellé valami olyan is kell, ami a számlákat fizeti, akkor találjunk magunknak társadalmi "beilleszkedő álruhát"
-    - csak nehogy mi is elhiggyük!
-- ami pedig a munkát illeti, ha már egyszer megvan, akkor csináljuk!
-    - egy az egyben War of Art! és/vagy Daily Rituals
-    - lehet, hogy idővel csökken a nyers mentális kapacitásunk, de az addigi tapasztalataink és mélyebb meglátásaink majd kompenzálnak
-    - egy szigorú rendszer igazából egy másik fajta szabadság, ami megmenthet minket a félelemtől és a kétségektől
-    - vagyis kb. napi szinten újra igent kell mondanunk a hivatásra, amire egyszer már igent mondtunk
-    - ebből a sok-sok igenből rajzolódik majd ki a végére a hozzájárulásunk
-- ez az újra igent mondás nem csak addig fontos, amíg el nem jutunk egy szintre, hanem utána is
-    - könnyű a kudarcba beletörődni, de azzal sem járunk jobban, ha a váratlan sikernek hagyjuk, hogy kirángasson minket abból, ami miatt odáig eljuthattunk
+- Legyen hossza, hogy életünk végéig fejlődhessünk benne;
+- Legyen szélessége, hogy sok embert elérhessünk általa; és
+- Legyen magassága, hogy valami felsőbb ideál szolgálatába állíthassuk a tehetségünket!
+
+Munkamorál kapcsán egybecseng az üzenet a [Művészet Háborújával]({% post_url 2020-02-04-steven-pressfield-a-muveszet-haboruja %}): napi szinten újra és újra igent kell mondanunk a hivatásra, amire egyszer már igent mondtunk.
+Ebből a sok-sok igenből rajzolódik majd ki a végére a hozzájárulásunk.
+Ha pedig az ilyen jellegű, "igazi" munkánk mellé ideiglenesen valami olyan is kell, ami a számlákat fizeti, akkor találjunk magunknak egy társadalmi "beilleszkedő álruhát" -- csak nehogy mi is elhiggyük!
 
 <br>
 
@@ -305,92 +295,101 @@ Az már más kérdés, hogy milyen összevissza módon jutunk el odáig.
 
 ## <a name="hazassag"></a>Házasság
 
-### 14
+A következő Biblia idézet elcsépeltnek tűnhet, de attól nem lesz kevésbé jellemző egy jó házasságra:
 
-- a következő Biblia idézet elcsépeltnek tűnhet, de attól nem lesz kevésbé jellemző egy igazi házasságra:
+> A szeretet türelmes, a szeretet jóságos, a szeretet nem féltékeny, nem kérkedik, nem is kevély. Nem tapintatlan, nem keresi a maga javát, nem gerjed haragra, a rosszat nem rója fel. Nem örül a gonoszságnak, örömét az igazság győzelmében leli. Mindent eltűr, mindent elhisz, mindent remél, mindent elvisel. S a szeretet nem szűnik meg soha.
+>
+> -- Korintusiaknak írt I. levél 13,4-8
 
-"A szeretet türelmes, a szeretet jóságos, a szeretet nem féltékeny, nem kérkedik, nem is kevély. Nem tapintatlan, nem keresi a maga javát, nem gerjed haragra, a rosszat nem rója fel. Nem örül a gonoszságnak, örömét az igazság győzelmében leli. Mindent eltűr, mindent elhisz, mindent remél, mindent elvisel. S a szeretet nem szűnik meg soha." -- Korintusiaknak írt I. levél 13,4-8
+Nagy, drámai döntések ritkán lesznek (ha egyáltalán) -- a lényeg a mindennapi apróságokban van.
+Abban, hogy folyamatosan feláldozzuk a saját egónkat a kettőnk oltárán.
+A szenvedély lehet a fiatalok játéka, de megint pont az elköteleződés és a hosszú táv miatt van a házasságban a valódi öröm.
 
-- nagy, drámai döntések ritkán lesznek (ha egyáltalán)
-    - a lényeg a mindennapi apróságokban van
-    - hogy folyamatosan feláldozzuk a saját egónkat a kettőnk oltárán
-- a szenvedély lehet a fiatalok játéka, de megint pont az elköteleződés és a hosszú táv miatt van a házasságban az igazi boldogság
-- sokan támadják az ideális házasság eszményképét, miszerint az úgysem reális, állapodjunk meg az "elég jó" mellett, stb.
-    - így talán kevésbé leszünk sebezhetőek, csalódottak, és jobban maradhatunk önmagunk
-- de pont úgy lehetne az "elég jó"-ból is idilli, ha a felek hajlandóak lennének változni a másikért
-    - a házasság egy krízishelyzet, ahol csak a hozzáállásunkon és a változási hajlandóságunkon múlik, hogy növekedést vagy szenvedést hoz inkább
-- az élet apró súrlódásai addig csiszolnak minket, amíg kifényesedünk, vagy amíg bele nem törünk
-    - ha mindketten a másik hibájával foglalkozunk, akkor baj lesz
-    - de ha mindketten a saját hibáinkkal foglalkozunk (amikhez mellesleg csak nekünk van hozzáférésünk és amikért csak mi tartozunk felelősséggel), akkor menni fog
+Sokan támadják az ideális házasság eszményképét, miszerint az úgysem reális, állapodjunk meg az "elég jó" mellett, stb.
+Így talán kevésbé leszünk sebezhetőek, csalódottak, és jobban maradhatunk önmagunk.
+Ami ironikus, hiszen pont úgy lehetne az "elég jó"-ból is idillit csinálni, ha a felek hajlandóak lennének változni a másikért.
 
-### 15
+A házasság egy krízishelyzet, ahol csak a hozzáállásunkon és a változási hajlandóságunkon múlik, hogy növekedést vagy szenvedést hoz inkább.
+Az élet apró súrlódásai addig csiszolnak minket, amíg kifényesedünk, vagy amíg bele nem törünk.
+Ha mindketten a másik hibájával foglalkozunk, akkor baj lesz.
+De ha mindketten a saját hibáinkkal foglalkozunk, -- amikhez mellesleg csak nekünk van hozzáférésünk és amikért csak mi tartozunk felelősséggel -- akkor menni fog.
 
-- az intimitás fázisai
-    - pillantás -- amikor fellobban a tűz
-    - kíváncsiság -- amikor csak rá vagyunk kíváncsiak (és kb. üresnek érezzük magunkat, ha nem vele vagyunk)
-    - párbeszéd -- amikor végre elkezdenek kiderülni a dolgok
-        - ahol jó esetben eljutnak addig, hogy a másik milyen módon nem normális (mert olyan ugye nincs, hogy normális... csak az változik, hogy **hogyan** nem normális)
-        - “My friends tell me I have an intimacy problem, but they don’t really know me,” Garry Shandling used to joke.
-### 16
+<br>
 
-- első csók -- amikor a kapcsolat "tavaszába" érünk, és minden de jó (a gondok meg **még** sehol)
-    - közös tevékenységek, élmények megosztása
-- hivatalossá tétel -- amikor sok "én" döntésünk "mi" döntéssé válik
-- krízis -- amikor elkezd szétfoszlani a rózsaszín felhő, és elővillannak a nemkívánatos tulajdonságok
-    - a szerelemmel sajnos nem csak az örömre és az együttlétre, hanem a sértettségre, a féltékenységre, és a bizonytalanságra is nyitunk
-- megbocsátás -- amikor dűlőre jutunk a másik tökéletlenségével
-    - és csak az ilyenek után válhat az éretlen szerelem éretté
-- "egyesülés" -- amikor kb. tényleg révbe érünk (és ezért meg is dolgoztunk)
-    - egyszerre önző és önzetlen fázis: szolgáljuk a másikat és kompromisszumot kötünk, mert rájövünk, hogy kb. csak így *lehet* értelme az életünknek
-    - persze ez nem egy végpont, csak innentől kezdődik az "igazi" kapcsolat
-    - és ennek innentől is folyamatosan növekednie és mélyülnie kell (különben halott)
+Érdemes lehet áttekinteni az intimitás fázisait, csak hogy tudjuk, mire számíthatunk:
 
-### 17
+- A **pillantás** -- amikor fellobban a tűz;
 
-- házasság -- mert persze innentől mindig együtt akarunk maradni (és ez is az előbbi mélyülés része)
-    - de ezt azért racionálisan is meg kell erősíteni magunkban, mert még rengeteg munka lesz vele... akarjuk mi ezt?
-    - tekintve, hogy ez milyen fontos választás, azt hinné az ember, hogy a neveltetésünk és az oktatásunk kellően felkészít rá... de nem.
-    - "society is a massive conspiracy to distract you from the important choices of life in order to help you fixate on the unimportant ones."
-        - "A társadalom egy hatalmas összeesküvés, ami eltereli a figyelmedet az élet fontos döntéseiről, hogy helyettük segítsen a lényegtelenekre koncentrálni."
-- pár fontos kérdés, amit érdemes feltenni magunknak:
-    - Képes leszek-e feladni magam a kapcsolatunkért? (értsd, kompromisszumkészség)
-    - Szeretem-e azt, aki vagyok, amikor vele vagyok? (értsd, kompatibilitás)
-        - Kitölti-e a legnagyobb űrömet?
-        - Tekintve, hogy a házasság igazából egy 50 éves beszélgetés: beszélgetnék vele 50 évet?
-- három hasznos szempont a másik "kiértékelésére"
-    - pszichológiai lencse
-        - milyen a kötődési stílusa (biztonságban érzi-e magát, kerüli, vagy épp idegesebb lesz tőle, ha közel kerülünk)
-        - a nagy ötös személyiségjegy mátrix (amiben leginkább a barátságosságra és az érzelmi stabilitásra figyeljünk)
-    - érzelmi lencse
-        - szeretet típusokból melyiket érezzük (és jó-e az úgy): philia (friendship), eros (passion), and agape (selfless giving)
-    - morális lencse
-        - őszinte és egyenes? fel tudok nézni rá? megbízhatok benne?
-- a könyv erősen amellett érvel, hogy soha ne adjuk lejjebb, és csak akkor menjünk bele, ha teljesen szeretjük a másikat
-    - és ezzel tökéletesen egyet is értek -- viszont kiemelném, hogy ez szerintem nem azt jelenti, mint aminek elsőre tűnik!
-    - **nem** jelenti, hogy a másik hibátlan kell, hogy legyen, és ezért addig kell keresnünk, amíg ilyet találunk (mert olyat nem fogunk)
-    - azt jelenti, hogy a hibáival együtt is őt akarjuk és kész
+- A **kíváncsiság** -- amikor csak rá vagyunk kíváncsiak (és kb. üresnek érezzük magunkat, ha nem vele vagyunk);
 
+- A **párbeszéd** -- ahol jó esetben eljutnak addig, hogy a másik milyen módon nem normális (mert olyan ugye nincs, hogy normális... csak az változik, hogy **hogyan** nem normális);
 
-### 18 -- az iskola, amit együtt építünk
+- Az **első csók** -- amikor a kapcsolat "tavaszába" érünk, és minden de jó (a gondok meg **még** sehol);
 
-- a házasság egy örömnek indul, de idővel egy oktatás lesz belőle
-    - gyakorlatilag egy élethosszig tartó kurzus empátiából, kommunikációból, és elköteleződésből
-- ha azt akarjuk, hogy működjön, akkor egyszerűen jobb emberré kell válnunk -- a párunkkal karöltve
-    - megismerni, hogy hogyan gondolkozik, hogyan hoz döntéseket, hogyan hat a múltja a személyiségére
-    - és hogy az eltéréseinket hogyan tudjuk összecsiszolni
-    - "marriage is a battleground in which two families send their best warriors to determine which family’s culture will direct the couple’s lives"
-- a lényeg a pozitív hozzáállás
-    - nem feltétlen akkor lesz a baj, ha időszakosan növekednek a konfliktusok, hanem akkor, ha a pozitívumok fokozatosan elkopnak
-- a duzzogást tessék kerülni, mert az igazából olyan harag, amiről nem vagyunk hajlandóak kommunikálni
-    - "“The sulker,” Alain de Botton writes, “ both desperately needs the other person to understand and yet remains utterly committed to doing nothing to help them do so. The very need to explain forms the kernel of the insult: if the partner requires an explanation, he or she is clearly not worthy of one.”
-- két krízis, amire jó előre készülni
-    - az első gyerek születése után, amikor nagy a kísértés az egyre csak bonyolódó kapcsolatunkat a gyerek felé érzett tiszta, egyszerű szeretetre cserélni
-    - a másik pedig az életközépi válságok és/vagy megkeseredések, ahol hajlamosak vagyunk az önvizsgálat előtt (vagy rosszabb esetben *helyett*) a másikat hibáztatni a boldogtalanságunkért
-- ha ilyen vagy ezekhez hasonló krízisek már annyira eluralkodtak, hogy parázs sincs, akkor persze jöhet a válás
-    - de ha tudunk "könnyen" hátat fordítani, akkor itt az ideje még jobban odafordulni
-    - Parker Palmer: “If you can’t get out of it, get into it!”
-- a vége pedig egyértelműen megéri
-    - ahogy a kapcsolatunk is megmássza a második hegyét, és igazi örömöt ad
+- A **hivatalossá tétel** -- amikor a sok "én" döntésünk "mi" döntéssé válik;
+
+- Az elkerülhetetlen **krízis** -- amikor elkezd szétfoszlani a rózsaszín felhő, és elővillannak a nemkívánatos tulajdonságok.
+Ne feledjük, hogy a szerelemmel sajnos nem csak az örömre és az együttlétre, hanem a sértettségre, a féltékenységre, és a bizonytalanságra is nyitunk...
+Itt ugye véget is ér sok kapcsolat, de ha kitartunk, akkor jöhet...
+
+- A **megbocsátás** -- amikor dűlőre jutunk a másik tökéletlenségével és kb. "megérik" az addig komolytalan szerelmünk;
+
+- Az **"egyesülés"** -- amikor kb. tényleg révbe érünk (és ezért meg is dolgoztunk).
+
+Aki idáig eljut, az egyszerre önző és önzetlen: szolgálja a másikat és kompromisszumot köt, mert rájön, hogy kb. csak így *lehet* értelme az életnek.
+Persze ez nem egy végpont -- csak innentől kezdődik az "igazi" kapcsolat!
+
+<br>
+
+Tekintve, hogy a párválasztás mennyire meghatározó tud lenni az életminőségünkben, azt hinné az ember, hogy a neveltetésünk és az oktatásunk kellően felkészít rá...
+De nem.
+Erre **sem**.
+Avagy Brooks nyers, de sajnos teljesen jogos megfogalmazásában:
+
+> A társadalom egy hatalmas összeesküvés, ami eltereli a figyelmedet az élet fontos döntéseiről, hogy helyettük segítsen a lényegtelenekre koncentrálni.
+> > Society is a massive conspiracy to distract you from the important choices of life in order to help you fixate on the unimportant ones.
+
+Node ne keseregjünk, hiszen itt pont ezeket a hiányosságokat foltozgatjuk.
+Párválasztáshoz például a következő szempontokat érdemes figyelembe venni:
+
+- Képesek leszünk-e feladni magunkat a kapcsolatunkért (értsd, kompromisszumkészség)?
+
+- Szeretjük-e azt, akik akkor vagyunk, amikor vele vagyunk (értsd, kompatibilitás)?
+Kitölti-e a legnagyobb űrt az életünkben?
+Illetve mivel a házasság kb. egy 50 éves beszélgetés: beszélgetnénk-e vele 50 évet?
+A kötődési stílusa és a személyiségjegyei alapján jól illeszkedünk-e?
+
+- A barátság (*philia*), a szenvedély (*eros*), és az önzetlen szeretet (*agape*) hármasából melyik(ek)et érezzük iránta?
+És az jó-e úgy?
+
+- Végül pedig morális szemszögből: őszinte és egyenes?
+Fel tudunk-e nézni rá?
+Megbízhatunk-e benne?
+
+A könyv erősen amellett érvel, hogy soha ne adjuk lejjebb, és csak akkor menjünk bele az elköteleződésbe, ha teljesen szeretjük a másikat.
+És ezzel tökéletesen egyet is értek -- viszont kiemelném, hogy ez szerintem nem azt jelenti, mint aminek elsőre tűnik!
+**Nem** jelenti ugyanis, hogy a másik hibátlan kell, hogy legyen -- és ezért addig kellene keresnünk, amíg ilyet találunk (mert nem fogunk)!
+Azt jelenti, hogy a hibáival együtt is őt akarjuk és kész.
+
+<br>
+
+A házasság egy örömnek indul, de idővel egy személyes oktatás lesz belőle.
+Gyakorlatilag egy élethosszig tartó kurzus empátiából, kommunikációból, és elköteleződésből.
+Ha azt akarjuk, hogy működjön, akkor egyszerűen jobb emberré kell válnunk -- a párunkkal karöltve.
+Megismerni, hogy hogyan gondolkozik; hogyan hoz döntéseket; hogyan hat a múltja a személyiségére.
+És hogy az eltéréseinket hogyan tudjuk összecsiszolni.
+
+A lényeg a pozitív hozzáállás!
+Nem feltétlen akkor lesz a baj, ha időszakosan növekednek a konfliktusok, hanem akkor, ha a pozitívumok fokozatosan elkopnak.
+A hétköznapibb tippekért hadd ajánljam az [5 szeretetnyelv]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}) illetve a [jól működő házasság 7 alapelvének]({% post_url 2020-10-31-john-gottman-a-jol-mukodo-hazassag-7-alapelve %}) tanulmányozását.
+Bónusz két gyakori krízis, amire jó előre készülni:
+
+- Az első gyerek születése után nagy lehet a kísértés az egyre csak bonyolódó kapcsolatunkat a gyerek felé érzett tiszta, egyszerű szeretetre cserélni;
+- Az életközépi válságoknál és/vagy megkeseredéseknél hajlamosak vagyunk az önvizsgálat előtt (vagy rosszabb esetben az önvizsgálat *helyett*) a másikat hibáztatni a boldogtalanságunkért.
+
+Ha ilyen vagy ezekhez hasonló krízisek már annyira eluralkodtak, hogy parázs sem maradt, akkor néha elkerülhetetlen lehet a válás...
+De ha nem tudunk "könnyen" hátat fordítani, akkor itt az ideje inkább még jobban odafordulni!
+Higgyük el, megéri -- hiszen így mássza meg a kapcsolatunk is a második hegyét, és teremt igazi örömöt.
 
 <br>
 
