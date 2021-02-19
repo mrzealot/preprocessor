@@ -54,7 +54,7 @@ A tartalom a következőképp alakul:
 Észrevehető, ha valakiből csak úgy sugárzik az öröm.
 Ettől persze neki is lehetnek nehézségei, stresszes napjai, hibái, stb.
 De úgy az egész élethez való hozzáállása pozitív.
-Az ilyen emberek életútja gyakran olyan alakot ír le, mint két hegy -- ami gyakorlatilag az "életközépi"/"életnegyedi" (vagy akármikor is bekövetkező) válságra egy szép szemléletes metafora.
+Az ilyen emberek életútja gyakran olyan alakot ír le, mint két hegy -- ami gyakorlatilag az életközépi, életnegyedi, vagy akármikor is bekövetkező válságra egy szép szemléletes metafora.
 
 A karrierünk kezdetekor beazonosítjuk **"A"** hegyünket, amit meg kellene másznunk, és rögtön neki is állunk.
 Innen aztán akármikor leeshetünk (váratlan események, személyes tragédiák), hogy aztán a szenvedés közepén szembesüljünk a tényleges vágyainkkal.
@@ -107,12 +107,13 @@ Keressük meg a második hegyünket, és meglátjuk majd: az öröm egy jó éle
 
 ## <a name="attekintes"></a>A két hegy
 
-Egy ember legnagyobb hagyatéka egy olyan hit-, érték- vagy vélemény-rendszer, ami a halála után tovább élhet.
+Egy ember legnagyobb hagyatéka egy olyan hit-, érték- vagy véleményrendszer, ami a halála után tovább élhet.
 Az ilyen morális közvélemények persze a társadalom szintjén is léteznek.
-Ezek viszont idővel sajnos elavulnak, amikor is jöhet a harc, hogy mi legyen az új domináns nézet, ami az új problémákra is megoldást jelenthet.
-Ez sokszor valami régi felfrissítésével, a modern helyzetre szabásával jár -- khmmm, sztoicizmus!
+Ezek viszont idővel sajnos elavulnak.
+Olyankor jöhet a harc, hogy mi legyen az új domináns nézet, ami az új problémákra is megoldást jelenthet.
+A folyamat sokszor valami régi felfrissítésével, a modern helyzetre szabásával jár -- khmmm, sztoicizmus!
 Eddig ugye nem lepődtünk meg, hiszen ezt már Campbell is megmondta: a hős nem csak valami fizikai tettel, hanem a tanultak megosztásával is segíthet a többieken.
-Sőt, már a [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %}) is megmondta: a társadalmilag jóváhagyott "élet értelme" körkörös rendszerben változik.
+Sőt, már a [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %})ban is említettünk hasonlót: a társadalmilag jóváhagyott "élet értelme" körkörös rendszerben változik.
 
 Így került leváltásra legutóbb a világháborúk utáni szocialista rendszer is egy egyéniség-központúbb nézetre.
 A baj csak az, hogy mára már annyira el-egyéniség-esedtünk, hogy az életünk kommunális, társasági, és önmagunkon túlmutató részei szinte teljesen elsorvadtak.
@@ -123,7 +124,7 @@ A szabadságunk jóformán határtalan, a potenciálunk kimeríthetetlen, és b�
 A gond annyi, hogy ez nem igazán segíti a személyiségünk kiforrását.
 Napjainkban egy fiatal felnőtt gyakorlatilag semmilyen morális támogatást nem kap ahhoz, hogy hogyan navigáljon a "nagybetűs" életben.
 Az persze jó, hogy nincs kötelezően beleerőszakolva a szülei és a nagyszülei szakmájába.
-De azért a struktúráltság ilyen mértékű hiánya az azért nagyon a ló másik oldala!
+De a struktúráltság ilyen mértékű hiánya az azért nagyon a ló másik oldala!
 
 <br>
 
@@ -167,7 +168,7 @@ Ettől megélni persze nem lesz jó, de visszatekintve örülni fogunk a völgyn
 Mert tisztába tette az értékeinket, és jó esetben becélozta a második hegyünket.
 
 Ha már végre nem menekülünk a fájdalom elől, akkor hallgathatunk is rá.
-Kimehetünk a pusztába -- metaforikusan, vagy akár konkrétan is elvonulva a világ zajától, és hallgathatunk magunkra.
+Kimehetünk a pusztába -- metaforikusan, vagy akár konkrétan is elvonulva a világ zajától -- és hallgathatunk magunkra.
 Az életünkre, az eddigi tapasztalatainkra, a kudarcainkra és csalódásainkra.
 Ebből áll össze, hogy merre kellene menni.
 Legtöbbször ilyenkor derül ki, hogy eddig más tervrajza szerint próbáltunk élni.
@@ -184,14 +185,14 @@ Ahol a vásárlás és az eladás átmennek szimplán adásba.
 A szeretet és az elköteleződés kéz a kézben jár.
 Nincs olyan, hogy "most szeretlek, de ki tudja meddig", mert akkor az most sem igazi szeretet.
 És míg egy szerződés az érdekeinket elégít(het)i ki, egy elköteleződés az identitásunkat is formálja.
-Szóval ha a karakterünket akarjuk formálni, -- vagy akár tanárként másokét -- akkor tanuljunk meg mélyen elköteleződni!
+Szóval ha a karakterünket akarjuk kikalapálni, -- vagy akár tanárként másokét -- akkor tanuljunk meg mélyen elköteleződni!
 
 > A szabadság nem a kötöttségek hiánya, hanem hogy megkereshetjük a megfelelő kötöttségeket.
 >
 > -- Tim Keller
 > > Freedom is not so much the absence of restrictions as finding the right ones.
 
-Ha ezt a spirituális hozzáállást el tudjuk fogadni, akkor a továbbiakban a 4 gyakorlati területével is foglalkozunk: a hivatással, a házassággal, a személyes filozófiánkkal, és a közösségi kötelékeinkkel.
+Ha ezt a spirituális hozzáállást megpendít bennünk valamit, akkor a továbbiakban a 4 gyakorlati területével foglalkozhatunk: a hivatással, a házassággal, a személyes filozófiánkkal, és a közösségi kötelékeinkkel.
 
 <br>
 
@@ -233,7 +234,7 @@ Az már más kérdés, hogy milyen összevissza módon jutunk el odáig.
 <br>
 
 Sokunknak nem is kellene gondolkoznia rajta, mi lenne a hivatása.
-Megvan az a szikra, aki (visszatekintve) előrevetíti a hátralévő életünk nagyobb mozzanatait.
+Megvan az a szikra, ami (visszatekintve) előrevetíti a hátralévő életünk nagyobb mozzanatait.
 Sokszor valamit kompenzálni akarunk vele; sokszor valami érzéki, esztétikai fog meg benne először.
 Nem feltétlen gyerekkorban történik a "szerelembe esés pillanata", de a gyökerei szinte mindig oda vezethetők vissza.
 Ez aztán lehet, hogy nem nyilvánul meg azonnal, de már az is nagy segítség, ha segít kizárni pár opciót, amik biztos **ne** legyünk.
@@ -256,13 +257,13 @@ Csak aztán erre rátelepszik a társadalom konkrét, gazdaság-alapú rétege, 
 Higgyük el, ez a látszólag "gazdaságos" döntés épp hogy nem fogja megérni!
 
 Nyitni kell a vágyaink felé; vagy először is egyáltalán tudni meghallani őket!
-Nem hagyni a szürke hétköznapoknak, hogy elszürkítsék a látásmódunkat
+Nem hagyni a szürke hétköznapoknak, hogy elszürkítsék a látásmódunkat.
 Figyelni a művészetre, a barátságra, a szépségre, a gyermeki ártatlanságra -- és ezekkel párhuzamosan a világ bicskanyitogató igazságtalanságaira.
-Mi az mondjuk, amit szívesen tudnánk csinálni, és egyszerre meg is oldanánk vele valami nagy problémát?
+Mondjuk mi lenne az, amit szívesen tudnánk csinálni, és egyszerre meg is oldanánk vele valami nagy problémát?
 
 <br>
 
-Ha pedig találunk valami ilyen, akkor onnantól álmodjunk nagyot és lássunk munkához.
+Ha pedig találunk valami ilyet, akkor onnantól álmodjunk nagyot és lássunk munkához.
 Még akkor is, ha ez először (látszólag) senkit nem fog érdekelni!
 
 > Egy valamire való ember soha nincs munka nélkül... Csak legfeljebb épp nem fizetik meg érte.
@@ -336,15 +337,15 @@ De ha mindketten a saját hibáinkkal foglalkozunk, -- amikhez mellesleg csak ne
 - A **hivatalossá tétel** -- amikor a sok "én" döntésünk "mi" döntéssé válik;
 
 - Az elkerülhetetlen **krízis** -- amikor elkezd szétfoszlani a rózsaszín felhő, és elővillannak a nemkívánatos tulajdonságok.
-Ne feledjük, hogy a szerelemmel sajnos nem csak az örömre és az együttlétre, hanem a sértettségre, a féltékenységre, és a bizonytalanságra is nyitunk...
+Ne feledjük, hogy a szerelemmel sajnos nem csak az örömre és az együttlétre, hanem a sértettségre, a féltékenységre, és a bizonytalanságra is nyitunk.
 Itt ugye véget is ér sok kapcsolat, de ha kitartunk, akkor jöhet...
 
 - A **megbocsátás** -- amikor dűlőre jutunk a másik tökéletlenségével és kb. "megérik" az addig komolytalan szerelmünk;
 
-- Az **"egyesülés"** -- amikor kb. tényleg révbe érünk (és ezért meg is dolgoztunk).
+- Az **"egyesülés"** -- amikor tényleg révbe érünk (és ezért meg is dolgoztunk).
 
 Aki idáig eljut, az egyszerre önző és önzetlen: szolgálja a másikat és kompromisszumot köt, mert rájön, hogy kb. csak így *lehet* értelme az életnek.
-Persze ez nem egy végpont -- csak innentől kezdődik az "igazi" kapcsolat!
+Persze ez nem egy végállapot -- innentől kezdődik az "igazi" kapcsolat!
 
 <br>
 
@@ -363,11 +364,11 @@ Párválasztáshoz például a következő szempontokat érdemes figyelembe venn
 
 - Szeretjük-e azt, akik akkor vagyunk, amikor vele vagyunk (értsd, kompatibilitás)?
 Kitölti-e a legnagyobb űrt az életünkben?
-Illetve mivel a házasság kb. egy 50 éves beszélgetés: beszélgetnénk-e vele 50 évet?
 A kötődési stílusa és a személyiségjegyei alapján jól illeszkedünk-e?
+Illetve mivel a házasság kb. egy 50 éves beszélgetés: beszélgetnénk-e vele 50 évet?
 
 - A barátság (*philia*), a szenvedély (*eros*), és az önzetlen szeretet (*agape*) hármasából melyik(ek)et érezzük iránta?
-És az jó-e úgy?
+És az szerintünk jó-e úgy?
 
 - Végül pedig morális szemszögből: őszinte és egyenes?
 Fel tudunk-e nézni rá?
@@ -394,7 +395,7 @@ Bónusz két gyakori krízis, amire jó előre készülni:
 - Az első gyerek születése után nagy lehet a kísértés az egyre csak bonyolódó kapcsolatunkat a gyerek felé érzett tiszta, egyszerű szeretetre cserélni;
 - Az életközépi válságoknál és/vagy megkeseredéseknél hajlamosak vagyunk az önvizsgálat előtt (vagy rosszabb esetben az önvizsgálat *helyett*) a másikat hibáztatni a boldogtalanságunkért.
 
-Ha ilyen vagy ezekhez hasonló krízisek már annyira eluralkodtak, hogy parázs sem maradt, akkor néha elkerülhetetlen lehet a válás...
+Ha az ilyen vagy ezekhez hasonló krízisek már annyira eluralkodtak, hogy parázs sem maradt, akkor néha elkerülhetetlen lehet a válás...
 De ha nem tudunk "könnyen" hátat fordítani, akkor itt az ideje inkább még jobban odafordulni!
 Higgyük el, megéri -- hiszen így mássza meg a kapcsolatunk is a második hegyét, és teremt igazi örömöt.
 
@@ -442,7 +443,7 @@ Ezért kell a "Nagy Könyvek" alapján okulnunk -- és ha ezt senki nem biztosí
 > Az egyetemek, csakúgy mint a társadalom többi része, információban gazdagok de jelentésben szegények.
 > > The universities, like the rest of society, are information rich and meaning poor.
 
-Kell mind az intellektuális, mint az érzelmi intelligencia, hogy később teljes értékű emberként működhessünk:
+Kell mind az intellektuális, mind az érzelmi intelligencia, hogy később teljes értékű emberként működhessünk:
 
 - Intellektuális téren jegyezzük meg, hogy nincs új a nap alatt!
 Minden gondolat "csak" kommunikáció, amihez az építőköveket valaki mástól örököltük -- aki gyakran sok ezer éve halott.
@@ -460,8 +461,8 @@ A végére óhatatlanul is kialakul egy új értékrend és egy személyes filoz
 <br>
 
 A "hitvallás" természetesen magába foglalhat vallási és/vagy spirituális elemeket is -- amikkel magyarázni próbáljuk az emberiség jelenlegi tudása által megmagyarázhatatlan dolgokat.
-Sokan átélünk valamiféle "misztikus" élményt, amikor minden nagyon rosszra fordul.
-Amikor végre eltűnik a hétköznapok zaja és figyelem elterelése, akkor végre rájövünk, hogy vannak fontosabb, "mélyebb" dolgok az életben.
+Sokan átélünk valamiféle "misztikus" élményt, gyakran amikor minden nagyon rosszra fordul.
+Amint eltűnik a hétköznapok zaja és figyelem elterelése, akkor végre rájövünk, hogy vannak fontosabb, "mélyebb" dolgok az életben.
 És hogy azok számítanak igazán.
 
 Sokan leírták, szavalták, vagy elénekelték már az elmúlt pár *ezer* évben, hogy a szeretet és az egység a legfőbb hatalmak.
@@ -470,7 +471,7 @@ Ehhez viszont jó esetben nem kellene padlóra kerülnünk!
 Ha egy kicsit több tudatos erőfeszítést tennénk az élet értelmének keresése felé, talán egy személyes katasztrófa nélkül is menne.
 
 Brooks a Bibliát mint morális sztorit védi.
-Mindegy is, igaz-e, mert a lényeg, hogy egy kvázi forgatókönyvet ad az életünknek.
+Érvelése szerint mindegy is, hogy igaz-e; a lényeg, hogy egy kvázi forgatókönyvet ad az életünknek.
 És ennyiben tökéletesen egyet tudok érteni -- hogy a fikciónak és a mítosznak is megvan a helye az ember fejlődésében (lásd [Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %})).
 A túlzottan szó szerint vétellel azért persze továbbra is igencsak megvannak a magam problémái...
 De szerencsére erről itt szó sincs.
@@ -486,7 +487,7 @@ Amit a sztoikusok például nagy T-s Természetnek hívnának.
 Hogy ne mereven ráerőltetni próbáljuk az akaratunkat a világra, hanem azzal együttműködve kihozni a dolgokból a legjobbat.
 Valahol az aktív és a passzív között félúton.
 
-Erre jön aztán rá a szervezett vallás szintje, ami bizonyos dolgokban segíthet (rituálé, önkifejezés, "radikális kedvesség"), bizonyos dolgokban pedig épp hogy gátol (mi kontra ők szemlélet, vak hit, belekotnyeleskedés, intellektuális kisebbségi komplexus).
+Erre jön aztán rá a szervezett vallás szintje, ami bizonyos dolgokban segíthet (rituálé, önkifejezés, "radikális kedvesség"), bizonyos dolgokban pedig épp hogy káros (mi kontra ők szemlélet, vak hit, intellektuális kisebbségi komplexus).
 Érdemes ezekből átvenni a jókat úgy, hogy mellette a rosszak ne hagyjanak kesernyés szájízt.
 
 <br>
@@ -524,13 +525,14 @@ Aminek persze, megvan a negatívuma -- de azért az így alkotott közösségek 
 
 Hát ez a mai, elvárosiasodó és elszigetelődő világban megváltozott.
 Már senki nem kotnyeleskedik, de csak mert kb. senkit nem is érdekel senki más.
-És szépen jönnek is a magány, a depresszió, a rekordmennyiségű öngyilkosság...
-Na nyilván nem szigorúan ok-okozat, de azért biztos nem véletlen egybeesés.
+Ugyanitt szépen bekúszik a magány, a depresszió, a rekordmennyiségű öngyilkosság...
+Na nyilván nem szigorúan ok-okozati viszony, de azért biztos nem véletlen egybeesés.
 
 Egy másik nagy probléma, hogy rengeteg mindent kiszervezünk intézményekbe, amik eddig a közösség dolgai voltak.
-Oktatás, fizikai és mentális egészség...
+Oktatás, fizikai és mentális egészség, az idősek ellátása...
 Ezek mind elszemélytelenednek, amitől sokkal törékenyebbek lesznek.
-Felesleges hibást keresni, mert itt nem jó és rossz között megy a harc.
+
+Felesleges felelőst keresni, mert itt nem jó és rossz között megy a harc.
 Mind részesei vagyunk az el-egyediesedésnek.
 Ehhez is kell a második hegy: hogy mások szolgálatát tudjuk az életünk középpontjába (vagy legalábbis egy sokkal hangsúlyosabb pozícióba) helyezni.
 
@@ -599,7 +601,7 @@ Mi magunk is úgy járunk a legjobban, ha önként "adakozunk" valami nálunk na
 
 Kedvenc mozzanataim:
 
-- A 3D-s hivatás hasonlat, aminek egyszerre hossza, szélessége, és magassága is van;
+- A 3D-s hivatás hasonlat, aminek hossza, szélessége, és magassága is van;
 - A szempontrendszer, ami egy társ igazán fontos tulajdonságait mutatja;
 - A vallás morális (és **nem** szó szerinti!) értelmezése; illetve
 - A közösségi felelősségvállalás hangsúlyozása.
