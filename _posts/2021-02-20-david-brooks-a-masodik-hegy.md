@@ -2,15 +2,22 @@
 layout: post
 title: David Brooks - A második hegy
 pages: 384
-date: 2021-02-20 00:01
+date: 2021-02-19 00:01
 excerpt: >
-    TODO
+    Olyan könyv legyen-e a héten, ami az élet értelmét keresi, vagy olyan, ami a párkapcsolatokat vizsgálja?
+    Esetleg beszéljünk a személyes filozófia és a vallás szerepéről?
+    Vagy inkább a közösségi szemlélet fontosságáról?
+    Nyugalom, beugratós kérdések; mindre sor kerül.
 ---
 
-[](https://www.goodreads.com/book/show/40642458-the-second-mountain){:target="_blank"}
+Olyan könyv legyen-e a héten, ami az élet értelmét keresi, vagy olyan, ami a párkapcsolatokat vizsgálja?
+Esetleg beszéljünk a személyes filozófia és a vallás szerepéről?
+Vagy inkább a közösségi szemlélet fontosságáról?
+Nyugalom, beugratós kérdések; mindre sor kerül.
 
-
-
+Heti alanyunk David Brooks -- [A második hegy](https://www.goodreads.com/book/show/40642458-the-second-mountain){:target="_blank"} című könyve, ami egy meglepően széles, de mégis *mély* áttekintést ad arról, milyen is egy "jó" élet.
+Teszi mindezt az életközépi válság jelenségén keresztül, ami a megfelelő hozzáállás mellett a felnőtt korunk egyik legfontosabb átalakulásunkhoz vezethet.
+Ott jövünk rá ugyanis, hogy eddig a rossz hegyet másztuk -- és hogy jöhet a második hegy.
 
 A tartalom a következőképp alakul:
 
@@ -104,7 +111,7 @@ Egy ember legnagyobb hagyatéka egy olyan hit-, érték- vagy vélemény-rendsze
 Az ilyen morális közvélemények persze a társadalom szintjén is léteznek.
 Ezek viszont idővel sajnos elavulnak, amikor is jöhet a harc, hogy mi legyen az új domináns nézet, ami az új problémákra is megoldást jelenthet.
 Ez sokszor valami régi felfrissítésével, a modern helyzetre szabásával jár -- khmmm, sztoicizmus!
-Eddig ugye nem lepődtünk meg, hiszen ezt már [Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %}) is megmondta: a hős nem csak valami fizikai tettel, hanem a tanultak megosztásával is segíthet a többieken.
+Eddig ugye nem lepődtünk meg, hiszen ezt már Campbell is megmondta: a hős nem csak valami fizikai tettel, hanem a tanultak megosztásával is segíthet a többieken.
 Sőt, már a [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %}) is megmondta: a társadalmilag jóváhagyott "élet értelme" körkörös rendszerben változik.
 
 Így került leváltásra legutóbb a világháborúk utáni szocialista rendszer is egy egyéniség-központúbb nézetre.
@@ -422,79 +429,65 @@ Higgyük el, megéri -- hiszen így mássza meg a kapcsolatunk is a második heg
 
 ## <a name="hitvallas"></a>Hitvallás
 
-### 19 -- intellektuális
+A morális kudarc legtöbbször nem azért történik, mert nem vagyunk képesek eléggé kitartani egy eszménykép mellett -- hanem azért, mert egy elégtelen eszménykép mellett próbálunk kitartani.
+Vagyis az oktatás igazi szerepe az lenne, hogy megmutassa a lehetőségeinket.
+Hogy szembesítsen az emberiség (eddigi) legjavával, és magasra tegye a mércét, amit onnantól megugrani próbálunk.
 
-- a morális kudarc legtöbbször nem azért történik, mert nem vagyunk képesek eléggé kitartani egy eszménykép mellett -- hanem azért, mert egy elégtelen eszménykép mellett próbálunk kitartani
-    - vagyis az oktatás igazi szerepe az lenne, hogy megmutassa a lehetőségeinket
-    - hogy szembesítsen az emberiség (eddigi) legjavával, és magasra tegye a mércét, amit onnantól megugrani próbálunk
-- de aztán jött a már jól ismert túl-specializáció, és az ilyen átfogó, alapvető dolgokra nem maradt energia
-    - sőt, az ilyen nyitott, absztrakt kérdések ma már szinte komolytalan fényben tűnnek fel
-    - kinek van ideje ilyen ezoterikus baromságokkal foglalkozni, amikor a kvantum-algoritmusok vagy a nano-csövek konkrét tulajdonságait is vizsgálhatjuk
-- nincs már iskola, ami az *egész* emberi lényt tekintené
-    - "The universities, like the rest of society, are information rich and meaning poor."
-    - ezért kell a "Nagy Könyvek" alapján oktatni magunkat
-    - és ha ezt senki nem biztosítja, akkor magunknak biztosítani!
-- kell mind az intellektuális, mint az érzelmi intelligencia, hogy aztán teljes értékű emberként működhessünk
-    - intellektuálisan nincs olyan, hogy "eredeti"
-        - minden gondolat "csak" kommunikáció, amihez az építőköveket valaki mástól örököltük (aki gyakran sok ezer éve halott)
-        - ezért igyekezzük sokukkal kommunikálni, hogy kicsit cizelláltabb legyen a gondolati LEGO palettánk
-    - érzelmileg pedig szintén érdemes mások élményeiből táplálkoznunk
-        - hiszen azok készítenek majd fel arra, hogy a számunkra még ismeretlen eseményekkel is képesek legyünk megbirkózni
-- egy igazi oktatás megváltoztatja, hogy mit tartunk szeretetre méltónak
-    - úgymond megkóstoltatja velünk a minőségi borokat, hogy onnantól már ne legyünk elégedettek a tablettással
-    - és ha ez gyakorlati szempontból egy kicsit is elfordít minket a pénz, a testi javak és a hatalom felől valami eszményibb felé, akkor igazán nyomot hagyott
+Csak hát aztán jött a már jól ismert túl-specializáció, és az ilyen átfogó, alapvető dolgokra nem maradt energia.
+Sőt, a nyitott, absztrakt kérdések ma már szinte komolytalan fényben tűnnek fel.
+Elvégre kinek van ideje ezoterikus baromságokkal foglalkozni, amikor a kvantum-algoritmusok vagy a nano-csövek konkrét tulajdonságait is vizsgálhatjuk?!
+Nincs már iskola, ami az *egész* emberi lényt tekintené.
+Ezért kell a "Nagy Könyvek" alapján okulnunk -- és ha ezt senki nem biztosítja, akkor magunknak biztosítani!
 
-### 20 -- vallásos
+> Az egyetemek, csakúgy mint a társadalom többi része, információban gazdagok de jelentésben szegények.
+> > The universities, like the rest of society, are information rich and meaning poor.
 
-- sok ember átél valamiféle "misztikus" élményt, amikor minden nagyon rosszra fordul
-    - főleg amikor börtönbe kerülnek, és a szabadságuk is oda lesz
-    - ilyenkor ébrednek rá, amikor végre eltűnik a hétköznapok zaja és figyelem elterelése, hogy vannak fontosabb, mélyebb dolgok az életben
-        - és hogy azok számítanak igazán
-        - "“Bless you, prison,” the Soviet dissident Aleksandr Solzhenitsyn wrote in The Gulag Archipelago. “Bless you for being in my life. For there, lying upon the rotting prison straw, I came to realize that the object of life is not prosperity as we are made to believe, but the maturity of the human soul.”
-- sokan leírták, szavalták, vagy elénekelték már, hogy a szeretet és az egység a legfőbb hatalmak
-    - de ezt sajnos megtapasztalni kell, nem hallani
-    - ehhez viszont jó esetben nem kellene börtönbe kerülnünk...
-    - ha egy kicsit több tudatos erőfeszítést tennénk az élet értelmének keresése felé, talán a börtön nélkül is menne
+Kell mind az intellektuális, mint az érzelmi intelligencia, hogy később teljes értékű emberként működhessünk:
 
-### 21
+- Intellektuális téren jegyezzük meg, hogy nincs új a nap alatt!
+Minden gondolat "csak" kommunikáció, amihez az építőköveket valaki mástól örököltük -- aki gyakran sok ezer éve halott.
+Ezért igyekezzük sokukkal kommunikálni (például olvasás útján), hogy minél cizelláltabb legyen a gondolati LEGO palettánk.
 
-- saját sztorija, hogy hogyan fordult a vallás felé
-- a Bibliát mint morális sztorit védi
-    - hogy mindegy is, igaz-e, mert a lényeg, hogy egy kvázi forgatókönyvet ad az életünknek
-    - és ennyiben tökéletesen egyetértek -- hogy a fikciónak és a mítosznak is megvan a helye az ember fejlődésében (lásd Campbell)
-    - de túlzottan szó szerint vétellel azért továbbra is igencsak megvannak a magam problémái
-- "Salvation through work. Survival through intelligence."
-- sok kultúrában előfordul a bűnbak szerepkör -- hogy megállítsa a bosszúk és az "ellenbosszúk" állandó körforgását
-    - valakire rá lehet kenni a bűnöket, őt kitaszítani (vagy kinyírni), és onnan indulhat a gyógyulás
-    - ami Jézus esetében egy kicsit megcsavarja a sztorit, hogy ő eleve bűnbaknak érkezett a Földre
-- de emellett hajlamosak vagyunk szépen szemet hunyni afelett, hogy a szegénységet és az egyszerűséget hirdette
-    - nekünk az eredmények, a hatalom, a pénz kell
-    - "the pushy are blessed for they getteth shit done." -- "áldottak a törtetők, mert ők nem szaroznak vala" :D
-- leginkább úgy fogalmazza meg, hogy meglátta a világi dolgok "alatt" húzódó morális/spirituális/vallásos dimenziót
-    - hogy mindenki egy lélek, hogy mint egyek vagyunk "Istenben" (legyen az bármi is)
-    - és ez az a fajta kompatibilis, intelligens "vallás", amire nem haragszom
-    - ami nem törekszik az emberek irányítására, nem demagóg, és nem a elvakultságról szól
-    - hanem hogy tényleg csak azokat a réseket töltjük ki valami szívmelengetőbbel, ahova a tudomány nem is ér**het** el
-- felhívja a figyelmet, hogy az is a büszkeség egy formája, hogy azt hisszük, csak kemény munkával juthatunk előrébb
-    - a világi vonalon persze igen, de a spirituális tengelyen pont megállni, gondolkozni és befogadni kellene
-    - büszkeség azt hinni, hogy ténylegesen függetlenedhetünk, hogy "feljebb" lehetünk másoknál, hogy elég tudással kimagyarázhatunk minden misztikusat a világból
-- a hit nem egy mágikus gyógyír minden lelki sebre, hanem annak a vágya (és az afelé törekvés), hogy létezik ez az alsó dimenzió
-    - Frankl-ös terminológiával: ez is adhat jelentést a szenvedésünknek
-    - nem minden nap lesz ott az érzés, de ha a felé törekvésünk olyankor is megmarad, az a hit iránti igazi elköteleződés
-- "It’s a change in the quality of awareness. It’s a gradual process of acquiring a new body of knowledge that slowly, slowly gets stored in the center of your being." --> na EBBEN teljesen egyet tudunk érteni
-    - ehhez szerintem nem kell hinni, hogy Jézus szó szerint feltámadt... de akit az vezet közelebb hozzá, annak egészségére
+- Érzelmileg pedig szintén érdemes mások élményeiből táplálkoznunk -- hiszen azok készítenek majd fel arra, hogy a számunkra még ismeretlen eseményekkel is képesek legyünk megbirkózni.
+Egyenként nézve mindannyiunk élete túlságosan ingerszegény ahhoz, hogy esélyünk legyen elég érzelmet érdemben lefedni.
+De ez persze nem ad felmentést a váratlan helyzetek alól; csak azt jelenti, hogy majd nem leszünk képesek kezelni őket.
 
-### 22
+Egy "igazi" oktatás megváltoztatja, hogy mit tartunk szeretetre méltónak.
+Úgymond megkóstoltatja velünk a minőségi borokat, hogy onnantól már ne legyünk elégedettek a tablettással.
+És ha ez gyakorlati szempontból egy kicsit is elfordít minket a pénz, a testi javak és a hatalom felől valami eszményibb felé, akkor tudhatjuk, hogy igazán nyomot hagyott.
+A végére óhatatlanul is kialakul egy új értékrend és egy személyes filozófia, amire egy életen át támaszkodhatunk.
 
-- a praktikus hit nem kell, hogy az ego teljes hiánya legyen
-    - csak hogy egy felsőbb ideál szolgálatába állítsuk az egónkat
-    - amit a sztoikusok nagy T-s természetnek hívnának
-    - hogy ne mereven ráerőltetni próbáljuk az akaratunkat a világra, hanem azzal együttműködve kihozni a dolgokból a legjobbat
-        - valahol az aktív és a passzív között félúton
-    - jobb dolgokra fogunk vágyni, és *jobban* is tudunk majd vágyni rájuk
-        - helyesebb, egyensúlyibb mederbe sodródik a világszemléletünk -- nem minden csak gazdaságosság és politika és statisztika lesz, hanem egész embereket látunk majd a számok helyett
-- erre jön rá a szervezett vallás szintje, ami bizonyos dolgokban segít (rituálé, önkifejezés, "radikális kedvesség"), bizonyos dolgokban pedig épp hogy gátol (mi vs. ők, vak hit, belekotnyeleskedés, intellektuális kisebbségi komplexus)
-    - érdemes ezekből átvenni a jókat úgy, hogy mellette a rosszak ne hagyjanak kesernyés szájízt
+<br>
+
+A "hitvallás" természetesen magába foglalhat vallási és/vagy spirituális elemeket is -- amikkel magyarázni próbáljuk az emberiség jelenlegi tudása által megmagyarázhatatlan dolgokat.
+Sokan átélünk valamiféle "misztikus" élményt, amikor minden nagyon rosszra fordul.
+Amikor végre eltűnik a hétköznapok zaja és figyelem elterelése, akkor végre rájövünk, hogy vannak fontosabb, "mélyebb" dolgok az életben.
+És hogy azok számítanak igazán.
+
+Sokan leírták, szavalták, vagy elénekelték már az elmúlt pár *ezer* évben, hogy a szeretet és az egység a legfőbb hatalmak.
+De ezt sajnos megtapasztalni kell, nem hallani.
+Ehhez viszont jó esetben nem kellene padlóra kerülnünk!
+Ha egy kicsit több tudatos erőfeszítést tennénk az élet értelmének keresése felé, talán egy személyes katasztrófa nélkül is menne.
+
+Brooks a Bibliát mint morális sztorit védi.
+Mindegy is, igaz-e, mert a lényeg, hogy egy kvázi forgatókönyvet ad az életünknek.
+És ennyiben tökéletesen egyet tudok érteni -- hogy a fikciónak és a mítosznak is megvan a helye az ember fejlődésében (lásd [Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %})).
+A túlzottan szó szerint vétellel azért persze továbbra is igencsak megvannak a magam problémái...
+De szerencsére erről itt szó sincs.
+
+A könyv leginkább úgy fogalmazza meg a hitet, mint meglátni a világi dolgok "alatt" húzódó morális/spirituális/vallásos dimenziót.
+Hogy mindenki egy lélek, és hogy mind egyek vagyunk "Istenben" (legyen az bármi is).
+És ez az a fajta kompatibilis, intelligens "vallás", amire én sem haragszom.
+Ez a definíció ugyanis nem törekszik az emberek irányítására, nem demagóg, és nem a elvakultságról szól.
+Itt tényleg csak azokat a réseket töltjük ki valami szívmelengetőbbel, ahova a tudomány nem is ér**het** el.
+
+A praktikus hit nem kell, hogy az ego teljes hiánya legyen -- csak hogy egy felsőbb ideál szolgálatába állítsuk az egónkat.
+Amit a sztoikusok például nagy T-s Természetnek hívnának.
+Hogy ne mereven ráerőltetni próbáljuk az akaratunkat a világra, hanem azzal együttműködve kihozni a dolgokból a legjobbat.
+Valahol az aktív és a passzív között félúton.
+
+Erre jön aztán rá a szervezett vallás szintje, ami bizonyos dolgokban segíthet (rituálé, önkifejezés, "radikális kedvesség"), bizonyos dolgokban pedig épp hogy gátol (mi kontra ők szemlélet, vak hit, belekotnyeleskedés, intellektuális kisebbségi komplexus).
+Érdemes ezekből átvenni a jókat úgy, hogy mellette a rosszak ne hagyjanak kesernyés szájízt.
 
 <br>
 
@@ -526,41 +519,49 @@ Higgyük el, megéri -- hiszen így mássza meg a kapcsolatunk is a második heg
 
 ## <a name="kozosseg"></a>Közösség
 
-### 23
+Pár évtizeddel ezelőttig még teljesen normális volt, hogy a szomszédok ott vannak egymás nyakán és egymás életében.
+Aminek persze, megvan a negatívuma -- de azért az így alkotott közösségek "védőhálója" nagyon nem elhanyagolható!
 
-- pár évtizeddel ezelőttig még teljesen normális volt, hogy a szomszédok ott vannak egymás nyakán és egymás életében
-    - aminek persze, megvan a negatívuma, de azért az így alkotott közösségek "védőhálója" nagyon nem elhanyagolható
-- a mai, elvárosiasodó és elszigetelődő világban ez megváltozik
-    - és szépen jönnek is a depresszió, a rekordmennyiségű öngyilkosságok, ... (na nem szigorúan ok-okozat, de azért biztos nem véletlen egybeesés)
-- egy másik nagy probléma, hogy rengeteg mindent kiszervezünk intézményekbe, amik eddig a közösség dolgai voltak
-    - oktatás, fizikai és mentális egészség... ezek mind elszemélytelenednek, amitől sokkal törékenyebbek lesznek
-- nem jó és rossz között megy ez a harc, mert kb. mind részesei vagyunk az el-egyediesedésnek
-    - ahhoz is kell a második hegy, hogy mások szolgálatát tudjuk az életünk középpontjába helyezni
+Hát ez a mai, elvárosiasodó és elszigetelődő világban megváltozott.
+Már senki nem kotnyeleskedik, de csak mert kb. senkit nem is érdekel senki más.
+És szépen jönnek is a magány, a depresszió, a rekordmennyiségű öngyilkosság...
+Na nyilván nem szigorúan ok-okozat, de azért biztos nem véletlen egybeesés.
 
-- ha változást akarunk, figyeljünk az egyének helyett a közösségekre
-    - a viselkedés ragadós -- ami lehet rossz is, ha csak egy-egy személyt akarunk "megtisztítani" és aztán visszadobjuk a retekbe
-    - viszont lehet nagyon jó is, ha úgy ánblokk a retket kezdjük el egy kicsit kitakarítani
-- teremtsünk új kapcsolódási lehetőségeket a közösség számára
-    - és aztán ezeken belül lehetőséget, hogy mély beszélgetésekre is sor kerüljön
-    - hogy a tagok megnyíljanak
+Egy másik nagy probléma, hogy rengeteg mindent kiszervezünk intézményekbe, amik eddig a közösség dolgai voltak.
+Oktatás, fizikai és mentális egészség...
+Ezek mind elszemélytelenednek, amitől sokkal törékenyebbek lesznek.
+Felesleges hibást keresni, mert itt nem jó és rossz között megy a harc.
+Mind részesei vagyunk az el-egyediesedésnek.
+Ehhez is kell a második hegy: hogy mások szolgálatát tudjuk az életünk középpontjába (vagy legalábbis egy sokkal hangsúlyosabb pozícióba) helyezni.
 
-### 24
+Ha változást akarunk, figyeljünk az egyének helyett a közösségekre.
+A viselkedés ragadós!
+Ez lehet hátrány is, ha csak egy-egy személyt akarunk "megtisztítani" és aztán visszadobni a retekbe -- mert úgyis visszaszennyeződik.
+Viszont lehet nagyon előnyös is, ha úgy egészében a retket kezdjük el egy kicsit kitakarítani a társadalomban.
 
-- szép és jó, hogy megosztjuk a saját sztorijainkat, de a nagy mérföldkő a közös sztoriig eljutni
-    - az fogja igazán összetartani a közösséget
-    - honnan jöttünk, kik vagyunk, hova tartunk
-    - ha több generáción átívelő, akkor a legjobb, mert az öröklés szépen megtartatja majd az "előre fizetés" elvét
-- alapelvek a viselkedéshez
-    - közösség az egyén előtt
-    - radikális vendégszeretet (mint már mondtuk)
-    - jövőbe tekintés
-    - saját kezünkbe vesszük a dolgokat (elvégre mi értünk a saját dolgainkhoz a legjobban)
-    - közös felelősségvállalás
-- ha együtt építünk valamit, akkor azzal a konkrét eredményen felül új normákat is építünk
-    - a tradícióknak is el kell kezdődnie valahol
-- "több szem többet lát" módon, ökológiai szempontból is jobb az együttműködés
-    - Rachel Carsonnál szépen láthattuk, hogy egy tényező piszkálása sok egyebet ki tud billenteni
-    - de ha átlátjuk a komplex rendszert (mondjuk hogy hogyan javítsuk a közösségünkben a fiatalok tanulmányi eredményeit, vagy csökkentsük a hajléktalanságot, stb.), akkor hatékonyabban láthatunk munkához
+Teremtsünk új kapcsolódási lehetőségeket a közösség számára, és aztán ezeken belül lehetőséget, hogy mély beszélgetésekre is sor kerüljön.
+Hogy a tagok megnyíljanak, és elkezdjenek áramlani a személyes sztorik.
+A következő nagy mérföldkő pedig már a közös sztori lesz; az fogja igazán összetartani a közösséget.
+Honnan jöttünk?
+Kik vagyunk?
+Hova tartunk?
+
+Néhány alapelv a helyes(ebb) viselkedéshez:
+
+- Közösség az egyén előtt;
+- Radikális vendégszeretet (mint már mondtuk);
+- Jövőbe tekintés;
+- Kezdeményezés;
+- Közös felelősségvállalás.
+
+Vegyük a kezünkbe a dolgainkat, és ne várjuk, hogy "majd a társadalom", "majd a politikusok", ...
+Elvégre a saját ügyeinkhez mi értünk a legjobban.
+Ha pedig együtt építünk valamit, akkor azzal a konkrét eredményen felül új normákat is építünk.
+A tradícióknak is el kell kezdődnie valahol.
+
+A "több szem többet lát" mintájára, ökológiai szempontból is jobb az együttműködés.
+A [Néma Tavasz]({% post_url 2020-10-03-rachel-carson-nema-tavasz %})ban szépen láthattuk, hogy egyetlen tényező piszkálása sok egyebet ki tud billenteni az egyensúlyából.
+De ha átlátjuk a komplex rendszert, -- mondjuk hogy hogyan javítsuk a közösségünkben a fiatalok tanulmányi eredményeit, vagy hogyan csökkentsük a hajléktalanságot, stb. -- akkor hatékonyabban láthatunk munkához.
 
 <br>
 
@@ -590,13 +591,17 @@ Higgyük el, megéri -- hiszen így mássza meg a kapcsolatunk is a második heg
 
 ## Összefoglalás
 
+Szép széles összefoglaló volt ez arra, hogy hogyan is élhetnénk egy teljesebb, morálisabb -- mondhatni "jobb" -- életet.
+Vagy hogy merre is érdemes fordítani a figyelmünket, ha épp egy metaforikus gödörben találnánk magunkat.
+Érintettük a hivatást, a házasságot, a személyes hitvallást, és még a közösségi kapcsolatokat is.
+Mindegyiken átszűrődik azonban ugyanaz az egyszerű üzenet: az egónknak vissza kell zsugorodnia a megfelelő méretére!
+Mi magunk is úgy járunk a legjobban, ha önként "adakozunk" valami nálunk nagyobb felé.
 
-### 25
+Kedvenc mozzanataim:
 
-- csak az egész átismétlése és összefoglalása, "manifesto" formában
-    - innen lehet majd esetleg lesni, hogy az én összefoglalásom hogy sikerül(t)
-- "The revolution will be moral, or it will not be at all."
-- "A child is born with both ego and heart and soul on full display. But for many people, around adolescence, the ego begins to swell, and the heart and soul recede. People at this age need to establish an identity, to carve a self. Meanwhile, our society tells adolescent boys to bury their emotions and become men. It tells little girls that if they reveal the true depths of themselves, nobody will like them. Our public culture normalizes selfishness, rationalizes egoism, and covers over and renders us inarticulate about the deeper longings of the heart and soul." -- ouch!
-- "As T. S. Eliot observed, the chief illusion of modern political activity is the belief that you can build a system so perfect that the people in it do not have to be good."
-- építsünk hát egy olyan társadalmat, amiben könnyebb jónak lenni :)
-- "the self has shrunk back to its proper size."
+- A 3D-s hivatás hasonlat, aminek egyszerre hossza, szélessége, és magassága is van;
+- A szempontrendszer, ami egy társ igazán fontos tulajdonságait mutatja;
+- A vallás morális (és **nem** szó szerinti!) értelmezése; illetve
+- A közösségi felelősségvállalás hangsúlyozása.
+
+Remélem más is annyit merít majd ezekből a gondolatokból, mint amennyire nekem *"Aha!"*-jellegű volt őket összeírni...
