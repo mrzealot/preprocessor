@@ -45,9 +45,10 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > Fontosabb elsőnek lenni, mint jobbnak.
 
-- nem az a dolgunk, hogy a legjobbak legyünk, hanem hogy mi hatoljunk be a potenciális célközönség agyába elsőként az adott területen
-- ezáltal sokszor a termékünk márkanevével azonosítják majd a piacát is (algopirin == fájdalomcsillapító, coke == kóla)
-- ha már létező ilyenek ellen indulunk, legtöbbször csak másodikak lehetünk, hiába lennénk valamivel jobbak
+Vagyis nem az a dolgunk, hogy a legjobbak legyünk, hanem hogy mi hatoljunk be a potenciális célközönség agyába elsőként az adott területen.
+Ezáltal sokszor a termékünk márkanevével azonosítják majd a piacát is.
+Ha már létező nagy márkanevek ellen indulunk, legtöbbször csak másodikak lehetünk, hiába lennénk valamivel jobbak.
+Ezért...
 
 <br>
 
@@ -56,10 +57,10 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > Ha nem lehetsz elsőként piacon egy adott kategóriában, állíts fel egy új kategóriát, amelyben első lehetsz.
 
-- ezzel elkerülhetjük a "futottak még" hatást
-- ne azon agyaljunk, hogy miben vagyunk jobbak a konkurenciánál, hanem hogy miért más, amit mi csinálunk
-- hogy miért vagyunk mi az elsők egy olyan kategóriában, ami épp most születik (és véletlen pont mi vagyunk a hírhozói)
-- aztán pedig hirdessük magát az új kategóriát, ne feltétlen a márkánkat
+Ezzel elkerülhetjük a "futottak még" hatást.
+Ne azon agyaljunk, hogy miben vagyunk jobbak a konkurenciánál, hanem hogy miért **más**, amit mi csinálunk.
+Hogy miért vagyunk mi az elsők egy olyan kategóriában, ami épp most születik -- és véletlen pont mi vagyunk a hírhozói.
+Aztán pedig hirdessük magát az új kategóriát, ne feltétlen a márkánkat.
 
 <br>
 
@@ -68,11 +69,11 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > Jobb elsőnek lenni a koponyákban, mint elsőnek lenni a piacon.
   
-- ez igazából módosítja (vagy legalábbis egy fontos lábjegyzettel látja el) a vezérpozíciós törvényt
-- nekik csak azért megy, mert a piaci elsőségük miatt az emberek fejébe is elsőként férkőztek be
-- ha viszont választani kell, akkor nem is kérdés, hogy a "koponya" a fontosabb!
-    - aki ott első, az nem baj, ha esetleg a piacon nem volt az
-- az emberek véleményének megváltoztatása nagyon nehéz, ezért érdemes a még elfogulatlan agyakat támadni
+Ez igazából módosítja (vagy legalábbis egy fontos lábjegyzettel látja el) a vezérpozíciós törvényt.
+Ugyanis nekik is csak azért megy jól a szekér, mert a piaci elsőségük miatt az emberek fejébe is elsőként férkőztek be.
+Ha viszont választani kell, akkor nem is kérdés, hogy a "koponya" a fontosabb!
+Aki ott első, az nem baj, ha esetleg a piacon nem volt az.
+Az emberek véleményének megváltoztatása nagyon nehéz, ezért érdemes a még elfogulatlan agyakat támadni.
 
 <br>
 
@@ -81,12 +82,13 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > A marketing nem a termékek, hanem az érzetek csatája.
 
-- nagyot tévedünk, ha azt hisszük, hogy előbb-utóbb úgyis az objektíven "legjobb" termék fog győzni
-    - csak nézzünk vissza Descartes filozófiájáig, és egyből kiderült, hogy nem is létezik semmi objektív :)
-    - minden csak a fejünkben létezik, és csak a saját véleményeink és benyomásaink számítanak
-- vagyis nem az a fontos, hogy a miénk legyen a legjobb termék a piacon, csak az, hogy a vevőkben ezt a benyomást keltsük
-- szép példa erre, hogy ugyanazok a japán autók jelentősen más rangsorban állnak Japánban és Amerikában
-    - nem az ár, a fogyasztás vagy a minőség a szempont, hanem hogy a vevő mit gondol
+Nagyot tévedünk, ha azt hisszük, hogy előbb-utóbb úgyis az objektíven "legjobb" termék fog győzni.
+Csak nézzünk vissza [Descartes]({% post_url 2020-01-07-simon-blackburn-think %}) filozófiájáig, és egyből kiderül, hogy nem is létezik semmi objektív!
+Minden csak a fejünkben létezik; csak a saját véleményeink és benyomásaink számítanak.
+
+Vagyis nem az a fontos, hogy a miénk legyen a legjobb termék a piacon, csak az, hogy a vevőkben ezt a benyomást keltsük.
+Szép példa erre, hogy ugyanazok a japán autók jelentősen más rangsorban állnak Japánban és Amerikában.
+Nem az ár, a fogyasztás, vagy a minőség a szempont, hanem hogy a vevő mit gondol.
 
 <br>
 
@@ -95,12 +97,11 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > A marketing egyik leghatékonyabb fegyvere, hogy birtokoljunk egy szót a potenciális vevő koponyájában.
 
-- legyen a márkánk szinonima valamire, amire a vevők könnyen asszociálhatnak
-    - másét nagy valószínűséggel nem vehetjük át
-    - de van rengeteg használatlan, amire utána figyelmet terelhetünk
-- szűkíteni, és nem bővíteni érdemes a fókuszt
-    - legyen meg egy jól belőtt irányzat, amiben kiemelkedhetünk
-    - csináljunk egy dolgot, de azt jól -- ahelyett, hogy sokat közepesen
+Legyen a márkánk szinonima valamire, amire a vevők könnyen asszociálhatnak.
+Másét nagy valószínűséggel nem vehetjük át, de van rengeteg használatlan, amire utána figyelmet terelhetünk.
+Szűkíteni, és nem bővíteni érdemes a fókuszt.
+Legyen meg egy jól belőtt irányzat, amiben kiemelkedhetünk.
+Magyarán mondva: csináljunk egy dolgot, de azt jól -- ahelyett, hogy sokat közepesen!
 
 <br>
 
@@ -109,9 +110,9 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > A vevő fejében nem birtokolhatja egyszerre két vállalat ugyanazt a szót.
 
-- mint a koponyánál már emlegettük, az emberek véleménye nagyon ritkán (és olyankor is nehezen) változik
-    - ezért ha már asszociálnak valamit az általunk megcélzott kulcsszóval vagy tulajdonsággal, akkor inkább nézzünk másik kulcsszó után
-    - ne öntsünk egy csomó energiát oda, ahol várhatóan nem lesz sok értelme
+Mint a koponyánál már emlegettük, az emberek véleménye nagyon ritkán (és olyankor is nehezen) változik.
+Ezért ha már asszociálnak valamit az általunk megcélzott kulcsszóval vagy tulajdonsággal, akkor inkább nézzünk másik kulcsszó után.
+Ne öntsünk egy csomó energiát oda, ahol várhatóan nem lesz sok értelme!
 
 <br>
 
@@ -120,11 +121,13 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > Az alkalmazandó stratégia természete attól függ, a létra melyik fokán állsz.
 
-- nagyon messzire elmennénk azért, hogy a világképünk következetes maradhasson
-    - ezért ha olyan információt kapunk, ami ebben nem fér bele, akkor inkább befogjuk a fülünket
-    - vagyis aki a második, az ne arról próbálja meggyőzni a népet, hogy ő az első!
-- itt egyelőre sok konkrét tippet nem kapunk, csak annyit, hogy a stratégiánk reálisan tükrözze a jelenlegi piaci helyünket
-    - vagyis kb. ne arcoljunk, ha nincs mire
+Nagyon sokra képesek lennénk azért, hogy a világképünk következetes maradhasson.
+Ezért ha olyan információt kapunk, ami a jelenlegi mentális modellünkbe nem fér bele, akkor inkább befogjuk a fülünket.
+Lá-lá-lá-lá....
+
+Vagyis aki a második, az ne arról próbálja meggyőzni a népet, hogy ő az első!
+Itt egyelőre sok konkrét tippet nem kapunk, csak annyit, hogy a stratégiánk reálisan tükrözze a jelenlegi piaci helyünket.
+Kb. ne arcoljunk, ha nincs mire.
 
 <br>
 
@@ -133,8 +136,8 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > Hosszú távon minden piaci küzdelem egy kétlovas versennyé válik.
 
-- rövidebb távon ígéretes lehet harmadiknak (vagy elég nagy piacon akár a hetediknek is) lenni, de megfelelően hosszú távon a verseny mindig az első két indulóra élesedik ki
-    - ilyenkor még idejében kell alkalmaznunk a többi törvényből valami stratégiát, mielőtt szép lassan (de biztosan) eltűnünk a süllyesztőben a két titán mögött
+Rövidebb távon ígéretes lehet harmadiknak (vagy elég nagy piacon akár a hetediknek is) lenni, de megfelelően hosszú távon a verseny mindig az első két indulóra élesedik ki.
+Ilyenkor még idejében kell alkalmaznunk a többi törvényből valami stratégiát, mielőtt szép lassan (de biztosan) eltűnünk a süllyesztőben a két titán mögött.
 
 <br>
 
@@ -143,9 +146,9 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > Ha a második helyet céloztad meg, stratégiádat az előtted lévő határozza meg.
 
-- ugye ne "jobbak", hanem "mások" akarjunk lenni
-    - alternatíva kell, nem egy olcsóbb másolat
-- ehhez viszont elég intimen tudni kell, hogy a vetélytárs milyen, és azok alapján hangsúlyozni (vagy más megvilágításba helyezni) bizonyos tulajdonságainkat
+Ugye ez megint arra hasonlít, hogy ne "jobbak", hanem "mások" akarjunk lenni.
+A népnek alternatíva kell, nem egy olcsóbb másolat.
+Ehhez viszont elég intimen tudni kell, hogy a vetélytárs milyen, és az alapján hangsúlyozni (vagy más megvilágításba helyezni) bizonyos tulajdonságainkat.
 
 <br>
 
@@ -154,11 +157,14 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > Egy kategória idővel osztódni fog, és két vagy több kategória lesz belőle.
 
-- számítógépek, autók, sörök, zene... először egy nagy halmazként indulnak, majd egyre jobban specializálódnak
-    - gondolom ezért (is) nem kell annyira bánkódni, ha valamiben már vannak felettünk
-    - csak alakítsunk ki egy új kategóriát, amiben már majd mi lehetünk az elsők...
-- ha pedig már vezetőként akarunk egy különböző kategóriát megcélozni, akkor oda ne vigyük át a jelenlegi márkanevünket
-    - legyen meg a pontos célcsoport!
+Számítógépek, autók, sörök, zene...
+Először mind egy nagy halmazként indulnak, majd egyre jobban specializálódnak.
+Gondolom ezért (is) nem kell annyira bánkódni, ha valamiben már vannak felettünk.
+Csak alakítsunk ki egy új kategóriát, amiben már majd mi lehetünk az elsők...
+
+Ha pedig már vezetőként akarunk egy különböző kategóriát megcélozni, akkor oda fontos, hogy ne vigyük át a jelenlegi márkanevünket!
+Emlékezzünk: legyen meg a pontos célcsoport!
+Ha ezt a fókuszt felhígítjuk azzal, hogy a nevünk más területekre keveredik, az idővel vissza fog harapni.
 
 <br>
 
@@ -167,8 +173,9 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 > A marketinghatások csak hosszabb idő után mutatkoznak meg.
 
-- nagyon nem mindegy, hogy rövid vagy hosszú távra tervezünk
-    - és bizony ami hosszú távon jó, az rövid távon fájhat...
+Nagyon nem mindegy, hogy rövid vagy hosszú távra tervezünk.
+És bizony ami hosszú távon jó, az rövid távon fájhat...
+Igyekezzünk hát nem beleesni a vállalati menedzserek hibájába, amikor a negyedéves jelentés vagy a gyors siker fontosabbá válik a tartós növekedésnél!
 
 <br>
 
