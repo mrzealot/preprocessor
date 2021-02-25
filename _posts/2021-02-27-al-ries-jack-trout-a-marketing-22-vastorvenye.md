@@ -4,29 +4,25 @@ title: Al Ries & Jack Trout - A marketing 22 vastörvénye
 pages: 143
 date: 2021-02-27 00:01
 excerpt: >
-    TODO
+    A "havi egy marketing könyv" kvótám keretén belül most Al Ries és Jack Trout -- A marketing 22 vastörvénye című *alapművére* esett a választásom.
+    A lecke hamar kezdődik, hiszen maga a "vastörvény" szó is nyilván csak egy marketingfogás a címben.
+    Ezt azonban nem rovom fel nekik, hiszen alapelveknek vagy hasznos gondolati építőkockáknak azért mindenképp nevezhetjük őket...
 ---
 
-https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
+A "havi egy marketing könyv" kvótám keretén belül most Al Ries és Jack Trout -- [A marketing 22 vastörvénye](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing){:target="_blank"} című *alapművére* esett a választásom.
+A lecke hamar kezdődik, hiszen maga a "vastörvény" szó is nyilván csak egy marketingfogás a címben.
+Ezt azonban nem rovom fel nekik, hiszen alapelveknek vagy hasznos gondolati építőkockáknak azért mindenképp nevezhetjük őket.
 
+A következő 22 rövid gondolat akár egy ellenőrző listának is jó lehet azelőtt, hogy bármilyen módon reklámoznánk valamit (vagy változtatnánk egy már kiforrott stratégián).
+És ez nem csak a profikra vonatkozik ám, hiszen ott a munkaerőpiac, a társkeresés, az egyéni brand építés...
+Sokkal több helyen "reklámozunk", mint gondolnánk!
+Ezért nem árt tudni, mit is csinálunk -- vagyis hogy mit is *kellene* csinálnunk.
+Hogy úgymond ne a széllel szemben hugyozzunk...
 
-# Jegyzetek
+A tartalom (talán nem meglepő módon) a 22 törvény pár mondatos összefoglalása.
+A könnyebb ugráláshoz pedig szerepeljenek is itt a számok 1-től 22-ig:
 
-- maga a törvény is nyilván csak egy marketingfogás, de azért alapelveknek vagy hasznos gondolati építőkockáknak mindenképp nevezhetjük őket
-- akár egy ellenőrző listának is jó lehet azelőtt, hogy bármilyen módon is reklámoznánk valamit (vagy változtatnánk egy már kiforrott stratégián)
-    - és ne feledjük, a munkaerőpiacon, a társkeresésnél, a vállalkozásunkban... sokkal több helyen "reklámozunk", mint gondolnánk
-    - ezért nem árt tudni, mit is csinálunk -- vagyis hogy mit is *kellene* csinálnunk
-
-
-
-# Tartalom
-
-## Intro
-
-- a legnagyobb hiba, hogy sokan azt hiszik, bárkinek bármit el tudnak adni
-    - bele sem gondolnának, hogy a marketingnek törvényei lehetnének, mindenki azt csinál, amit akar (és amit tud, és amire kerete van)
-- de az igazság az, hogy igenis vannak olyan alapvető megfontolások, amiket érdemes fejben tartani
-    - hogy úgymond ne a széllel szemben hugyozzunk
+[#1](#1) &bull; [#2](#2) &bull; [#3](#3) &bull; [#4](#4) &bull; [#5](#5) &bull; [#6](#6) &bull; [#7](#7) &bull; [#8](#8) &bull; [#9](#9) &bull; [#10](#10) &bull; [#11](#11) &bull; [#12](#12) &bull; [#13](#13) &bull; [#14](#14) &bull; [#15](#15) &bull; [#16](#16) &bull; [#17](#17) &bull; [#18](#18) &bull; [#19](#19) &bull; [#20](#20) &bull; [#21](#21) &bull; [#22](#22)
 
 <br>
 
@@ -41,7 +37,7 @@ https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing
 
 
 
-## 1. Az indulási vezérpozíció törvénye
+## <a name="1"></a>1. Az indulási vezérpozíció törvénye
 
 > Fontosabb elsőnek lenni, mint jobbnak.
 
@@ -53,7 +49,7 @@ Ezért...
 <br>
 
 
-## 2. A kategória törvénye
+## <a name="2"></a>2. A kategória törvénye
 
 > Ha nem lehetsz elsőként piacon egy adott kategóriában, állíts fel egy új kategóriát, amelyben első lehetsz.
 
@@ -65,7 +61,7 @@ Aztán pedig hirdessük magát az új kategóriát, ne feltétlen a márkánkat.
 <br>
 
 
-## 3. A koponya törvénye
+## <a name="3"></a>3. A koponya törvénye
 
 > Jobb elsőnek lenni a koponyákban, mint elsőnek lenni a piacon.
   
@@ -78,7 +74,7 @@ Az emberek véleményének megváltoztatása nagyon nehéz, ezért érdemes a m�
 <br>
 
 
-## 4. Az érzetek törvénye
+## <a name="4"></a>4. Az érzetek törvénye
 
 > A marketing nem a termékek, hanem az érzetek csatája.
 
@@ -93,7 +89,7 @@ Nem az ár, a fogyasztás, vagy a minőség a szempont, hanem hogy a vevő mit g
 <br>
 
 
-## 5. A fókuszálás törvénye
+## <a name="5"></a>5. A fókuszálás törvénye
 
 > A marketing egyik leghatékonyabb fegyvere, hogy birtokoljunk egy szót a potenciális vevő koponyájában.
 
@@ -106,7 +102,7 @@ Magyarán mondva: csináljunk egy dolgot, de azt jól -- ahelyett, hogy sokat k�
 <br>
 
 
-## 6. A kizárólagosság törvénye
+## <a name="6"></a>6. A kizárólagosság törvénye
 
 > A vevő fejében nem birtokolhatja egyszerre két vállalat ugyanazt a szót.
 
@@ -117,7 +113,7 @@ Ne öntsünk egy csomó energiát oda, ahol várhatóan nem lesz sok értelme!
 <br>
 
 
-## 7. A létra törvénye
+## <a name="7"></a>7. A létra törvénye
 
 > Az alkalmazandó stratégia természete attól függ, a létra melyik fokán állsz.
 
@@ -132,7 +128,7 @@ Kb. ne arcoljunk, ha nincs mire.
 <br>
 
 
-## 8. A dualitás törvénye
+## <a name="8"></a>8. A dualitás törvénye
 
 > Hosszú távon minden piaci küzdelem egy kétlovas versennyé válik.
 
@@ -142,7 +138,7 @@ Ilyenkor még idejében kell alkalmaznunk a többi törvényből valami stratég
 <br>
 
 
-## 9. Az ellentétek törvénye
+## <a name="9"></a>9. Az ellentétek törvénye
 
 > Ha a második helyet céloztad meg, stratégiádat az előtted lévő határozza meg.
 
@@ -153,7 +149,7 @@ Ehhez viszont elég intimen tudni kell, hogy a vetélytárs milyen, és az alapj
 <br>
 
 
-## 10. Az osztódás törvénye
+## <a name="10"></a>10. Az osztódás törvénye
 
 > Egy kategória idővel osztódni fog, és két vagy több kategória lesz belőle.
 
@@ -169,7 +165,7 @@ Ha ezt a fókuszt felhígítjuk azzal, hogy a nevünk más területekre keveredi
 <br>
 
 
-## 11. A távlat törvénye
+## <a name="11"></a>11. A távlat törvénye
 
 > A marketinghatások csak hosszabb idő után mutatkoznak meg.
 
@@ -180,137 +176,145 @@ Igyekezzünk hát nem beleesni a vállalati menedzserek hibájába, amikor a neg
 <br>
 
 
-## 12. A lineáris választékbővítés törvénye
+## <a name="12"></a>12. A lineáris választékbővítés törvénye
 
 > Ellenállhatatlan nyomás hajt egy márka által biztosított nyereség növelésének irányába.
 
-- ha az egy termékre irányuló mély figyelmünket szétaprózzuk sok (de sekély) irányba, annak nem lesz jó vége
-    - inkább legyünk erősek valamiben, mint gyengék mindenben -- lásd fókusz
-- leginkább a gyávaság/lustaság hajtja, mert az új terméket új néven sokkal nehezebb lenne bevezetni
-    - viszont újra és újra bizonyított, hogy hosszú távon lerántja azt a menő nevet, amivel rövid távon segíteni akarunk neki
+A nyereség növeléssel önmagában persze nem lenne semmi baj, ha azt a fő ágazatunk fejlesztésével érnénk el.
+De ha az egy termékre irányuló mély figyelmünket szétaprózzuk sok (de sekély) irányba, annak nem lesz jó vége.
+Inkább legyünk erősek valamiben, mint gyengék mindenben -- lásd a fókusz törvénye.
+
+Leginkább a gyávaság és a lustaság hajtja ez az irányt, mert egy potenciális új terméket új néven sokkal nehezebb lenne bevezetni.
+Viszont újra és újra bizonyított, hogy amivel rövid távon segíteni akarunk neki, az hosszú távon inkább csak lerántja majd a menő márkát is.
 
 <br>
 
 
-## 13. Az áldozat törvénye
+## <a name="13"></a>13. Az áldozat törvénye
 
 > Ha valamit meg akarsz kapni, valamit fel kell adnod.
 
-- ez a választékbővítés ellentéte
-    - ha sikeresek akarunk lenni, fel kell adnunk vagy a választékot, vagy a célpiacot, vagy az állandó változást
-- a generalista szemléletet (avagy a Reneszánsz ember ideálját) hirdethetjük ugyan az életvezetéssel kapcsolatban, de a marketing nem így működik
-    - itt a specialistáknak megy jobban a sora, mert annyira rákoncentrálnak valamire, hogy aztán annak szinte szinonimájává válhatnak
-    - lásd fókusz
-    - a jó dolgok azokhoz fognak húzni, akik hajlandóak áldozatot hozni értük
+Ez kb. a választékbővítés ellentéte; vagyis ha sikeresek akarunk lenni, akkor fel kell adnunk vagy a választékot, vagy a célpiacot, vagy az állandó változást.
+A generalista szemléletet (avagy a [Reneszánsz ember]({% post_url 2020-09-19-jacob-lund-fisker-extrem-korai-nyugdij-1 %}) ideálját) hirdethetjük ugyan az életvezetéssel kapcsolatban, de a marketing sajnos nem így működik.
+Itt a specialistáknak megy jobban a sora, mert annyira rákoncentrálnak valamire, hogy aztán annak szinte szinonimájává válhatnak.
+A jó dolgok azokhoz fognak húzni, akik hajlandóak áldozatot hozni értük...
 
 <br>
 
 
-## 14. A tulajdonságok törvénye
+## <a name="14"></a>14. A tulajdonságok törvénye
 
 > Minden tulajdonságnak megfelel egy ellentétes, eredményes tulajdonság.
 
-- A fókuszban mondtuk, hogy kell egy szó a vevő fejében
-    - A kizárólagosságban pedig azt is, hogy ez a szó még szabadon kell, hogy legyen
-    - Most azt is hozzátesszük, hogy ez a versenytársakéval ellentétes legyen
-    - Persze, hogy vannak fontosabb tulajdonságok és jelzők, amiket magunkénak szeretnénk
-    - De ha már foglalt, akkor ne egy nagyon hasonlót, hanem egy ellentéteset célozzunk meg
+Szintén a fókusz törvényében mondtuk, hogy kell egy szó a vevő fejében.
+A kizárólagosság törvényében pedig azt is, hogy ez a szó még szabadon kell, hogy legyen.
+Ezeket vegyítjük most az ellentétek törvényével, és hozzátesszük azt is, hogy ez a bizonyos szó versenytársakéval *ellentétes* legyen.
+
+Persze, valószínűleg lesznek fontosabb tulajdonságok és jelzők, amiket magunkénak szeretnénk az adott területen.
+De ha azok már foglaltak, akkor ne egy nagyon hasonlót, hanem egy ellentéteset célozzunk meg.
+Némi kreativitással bármit fel lehet tüntetni pozitív fényben -- és ha ez a másságunkat hangsúlyozza a konkurenciával szemben, azzal végső soron jobban fogunk járni, mint egy alapból szimpatikusabb, de hasonló szóval.
 
 <br>
 
 
-## 15. A nyíltság törvénye
+## <a name="15"></a>15. A nyíltság törvénye
 
 > Ha elismersz egy negatívumot, a vevő valamilyen pozitívval fog felruházni.
 
-- egyértelmű negatívumot kell beismerni, nem csak valami tessék-lássék dolgot
-    - nem álszerénykedni próbálunk, hanem bizalmat kelteni a vevőben
-    - ha ezt a bizalmat utána gyorsan átfordítjuk valami pozitívumunk felé, annak már jobban fog hinni, mint a negatívum nélkül
+Ilyen esetben egy *egyértelmű* negatívumot kell beismerni, nem csak valami tessék-lássék dolgot!
+Elvégre nem álszerénykedni próbálunk, hanem bizalmat kelteni a vevőben.
+Ezt a bizalmat viszont utána könnyen átfordítjuk valami pozitívumunk felé -- aminek a vevő már jobban fog hinni, mint a kezdeti negatívum nélkül.
 
 <br>
 
 
-## 16. Az egyedülállóság törvénye
+## <a name="16"></a>16. Az egyedülállóság törvénye
 
 > Minden helyzetben csak egyetlen olyan húzás van, ami komoly eredményt hoz.
 
-> A marketingben ugyanaz működik hatékonyan, ami a háborúban: a váratlan.
-- ehhez viszont aktív résztvevőnek kell lenni a "frontvonalon", hogy tudjuk, mi működhet és mi nem az adott területünkön
-    - és aztán merni meglépni
+Ez pedig ritkán a megszokott, biztonságos lépés.
+Kell valami váratlan.
+Ehhez viszont aktív résztvevőnek kell lenni a "frontvonalon", hogy tudjuk, mi működhet és mi nem az adott területünkön.
+És aztán persze merni meglépni...
 
 <br>
 
 
-## 17. A megjósolhatatlanság törvénye
+## <a name="17"></a>17. A megjósolhatatlanság törvénye
 
 > Nem tudod megjósolni a jövőt, hacsak nem te készíted a konkurencia terveit.
 
-- a hosszú távú tervezés elég alaptalan, tekintve hogy milyen keveset tudunk a jövőről úgy általában
-    - de hosszú távú víziónk azért persze legyen
-    - olyan mérföldköveket célozzunk meg, amik hosszú távon növekedést és sikert ígérnek az ideiglenes gyors jutalmakkal szemben
-    - de legyünk minél rugalmasabbak, hogy amikor majd jön a változás, változni tudjunk vele
+A hosszú távú tervezés elég alaptalan, tekintve hogy milyen keveset tudunk a jövőről úgy általában.
+Na azért egy "víziónk" persze legyen.
+Célozzunk meg olyan mérföldköveket, amik távlati növekedést és sikert ígérnek az ideiglenes gyors jutalmakkal szemben.
+De legyünk minél rugalmasabbak, hogy amikor majd jön a változás, változni tudjunk vele.
 
 <br>
 
 
-## 18. A siker törvénye
+## <a name="18"></a>18. A siker törvénye
 
 > A siker gyakran arroganciához vezet, az arrogancia pedig kudarchoz.
 
-- az az érzetünk keletkezhet, hogy mindent megtehetünk, hogy mindenre képesek vagyunk
-    - a tényeket már nem érzékeljük elfogulatlanul, és a vevő fejével sem tudunk gondolkozni
-    - persze a világ majd szépen felkelt ebből az álomképből némi jól megérdemelt kudarccal
-- meg kell tudnunk tartani a kezdő szemléletet, és nem eltávolodni a frontvonalakról
-    - őszinte visszajelzések, a vevő szemszögéből
+A siker veszélyes, mert az érzetünk keletkezhet, hogy mindent megtehetünk; hogy mindenre képesek vagyunk.
+A tényeket már nem érzékeljük elfogulatlanul, és a vevő fejével sem tudunk gondolkozni.
+Persze a világ majd szépen felpofoz minket ebből az álomképből némi jól megérdemelt kudarccal -- de jobb lenne ebbe nem beleszaladni.
+Meg kell tudnunk tartani a kezdő szemléletet, és nem eltávolodni a frontvonalakról.
+Hallgatni az őszinte visszajelzésekre, és nem elszállni!
 
 <br>
 
 
-## 19. A kudarc törvénye
+## <a name="19"></a>19. A kudarc törvénye
 
 > A kudarcra számítani kell és el kell fogadni.
 
-- nem az a cél, hogy ne hibázzunk -- hanem hogy minél gyorsabban felismerjük és kijavítsuk, amikor hibázunk
-- különös figyelmet érdemel nagy létszámú vállalatoknál, hogy a döntéshozói pozícióban lévő személy a céget, és ne a saját karrierjét helyezze előtérbe
-    - ehhez viszont kell egy olyan vállalati szemlélet, ami nem büntetné a karrierjét az esetleges kudarc miatt
+Nem az a cél, hogy ne hibázzunk -- hanem hogy minél gyorsabban felismerjük és kijavítsuk, amikor hibázunk.
+Különös figyelmet érdemel nagy létszámú vállalatoknál, hogy a döntéshozói pozícióban lévő személy a céget, és ne a saját karrierjét helyezze előtérbe.
+Ehhez viszont kell egy olyan vállalati szemlélet, ami nem büntetné a karrierjét az esetleges kudarc miatt.
+
+Ennek az egyszemélyes vonatkozása, ha a külvilág véleményét többre értékeljük, mint a saját fejlődésünket.
+Megpróbálhatjuk fenntartani a tévedhetetlenség látszatát, de annak ára lesz.
 
 <br>
 
 
-## 20. A mesterséges szenzációkeltés törvénye
+## <a name="20"></a>20. A mesterséges szenzációkeltés törvénye
 
 > A helyzet gyakran pontosan az ellenkezője annak, ami a sajtóban megjelenik.
 
-- mint mondtuk, senki nem tudja megjósolni a jövőt
-    - ezért ha hatalmas hírveréssel előre isznak a medve bőrére, ne hagyjuk beugratni magunkat
-    - főleg olyankor ne, ha valami szinte azonnali, gyökeres változást ígér
+Mint mondtuk, senki nem tudja megjósolni a jövőt.
+Ezért ha hatalmas hírveréssel előre isznak a medve bőrére, ne hagyjuk beugratni magunkat.
+Főleg olyankor ne, ha valami szinte azonnali, gyökeres változást ígér.
 
 <br>
 
 
-## 21. A gyorsulás törvénye
+## <a name="21"></a>21. A gyorsulás törvénye
 
 > A sikeres marketingprogramok nem felkapott irányokra, hanem trendekre épülnek.
 
-- itt lehet némi fogalmi keveredés, mert "trend"-ként is szoktuk használni a gyors, hirtelen népszerű de aztán ugyanolyan hirtelen le is csengő irányzatokat is
-    - de itt most a trend a szép lassú, háttérben, észrevétlen meghúzódó változásokat jelenti, amikre alapozni kell
-    - figyeljük meg, hogy milyen irányba haladunk az elmúlt hónapok/évek távlatában, ne arra, hogy mit harsog épp a média
-- ha valaminek "felkapott irányzat" szaga van, akkor inkább csillapítani próbáljuk, minthogy sem gerjesztenénk!
-    - hátha trend-szerűbb lesz belőle, nem ég ki olyan hamar, és hosszabb távon is jól járhatunk vele
-    - soha ne elégítsük ki teljesen az igényeket, mert akkor utána már senki nem fog tőlünk akarni semmit
+Itt lehet némi fogalmi keveredés, mert "trend"-ként is szoktuk használni a gyors, hirtelen népszerű de aztán ugyanolyan hirtelen le is csengő irányzatokat.
+Most viszont a "trend" jelenti a szép lassú, háttérben, észrevétlen meghúzódó változásokat, amikre alapozni kell.
+Figyeljük meg, hogy milyen irányba haladtunk az elmúlt hónapok/évek távlatában -- ne arra, hogy mit harsog épp a média.
+
+Ha valaminek "felkapott irányzat" szaga van, akkor inkább csillapítani próbáljuk, minthogy sem gerjesztenénk!
+Hátha trend-szerűbb lesz belőle, nem ég ki olyan hamar, és hosszabb távon is jól járhatunk vele.
+Soha ne elégítsük ki teljesen az igényeket, mert akkor utána már senki nem fog tőlünk akarni semmit.
 
 <br>
 
 
-## 22. Az erőforrások törvénye
+## <a name="22"></a>22. Az erőforrások törvénye
 
 > Megfelelő finanszírozás nélkül lehetetlen egy ötletet sikerre vinni.
 
-- attól, hogy van egy jó ötletünk, azt még be is kellene valahogy juttatni a vevők koponyájába
-    - itt pedig súlyos pénzek fognak mozogni
-    - legyünk készen pénz szerezni és áldozni erre, különben azok simán lenyomnak majd, akiknek több erőforrás áll a rendelkezésére
-- talán ez a törvény öregedett a legkevésbé elegánsan, hiszen az internet korában azért ez már szerintem nem *teljesen* így van
-    - de azért a pénz persze mindig előnyt fog jelenteni
+Attól, hogy van egy jó ötletünk, azt még be is kellene valahogy juttatni a vevők koponyájába.
+Itt pedig súlyos pénzek fognak mozogni -- és súlyos ellenszél.
+Legyünk készen pénzt szerezni és áldozni erre, különben simán lenyomnak majd, akiknek több erőforrás áll a rendelkezésükre.
+
+Talán ez a törvény öregedett a legkevésbé elegánsan, hiszen az internet korában azért ez már szerintem nem *teljesen* így van.
+De azért a pénz persze mindig előnyt fog jelenteni -- és könnyen juthatunk olyan pozícióba, ahol már nekünk is megérné költeni rá.
 
 <br>
 
@@ -327,3 +331,12 @@ Igyekezzünk hát nem beleesni a vállalati menedzserek hibájába, amikor a neg
 
 ## Összefoglalás
 
+Az eredetileg 1993-as könyv stílusa, nyelvezete, és példái igencsak ósdinak hatottak így 2021-ben.
+A tartalma viszont nem -- és ez általában annak a jele, hogy valami általánosra sikerült rátapintani!
+Lényegi üzenetként azt emelném ki, hogy az igazi marketing a vevők fejében történik.
+Ne az objektív tulajdonságokra vagy a márkák közti versenyre figyeljünk, hanem arra, hogy megvethessük a lábunkat a vevők fejében.
+
+Ha elsők vagyunk, akkor ne engedjük magunkat szétaprózódni.
+Ha nem, akkor megkülönböztetni próbáljuk magunkat, ne hasonulni.
+Fókuszáljunk, ne szálljunk el, és gondolkodjunk hosszú távban.
+És időnként lapozzuk át ezt a 22 elemű ellenőrzőlistát emlékeztető gyanánt -- nehogy feleslegesen strapáljuk magunkat!
