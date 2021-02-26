@@ -5,18 +5,18 @@ pages: 143
 date: 2021-02-27 00:01
 excerpt: >
     A "havi egy marketing könyv" kvótám keretén belül most Al Ries és Jack Trout -- A marketing 22 vastörvénye című *alapművére* esett a választásom.
-    A lecke hamar kezdődik, hiszen maga a "vastörvény" szó is nyilván csak egy marketingfogás a címben.
+    A lecke hamar kezdődik, elvégre maga a "vastörvény" szó is nyilván csak egy marketingfogás a címben.
     Ezt azonban nem rovom fel nekik, hiszen alapelveknek vagy hasznos gondolati építőkockáknak azért mindenképp nevezhetjük őket...
 ---
 
 A "havi egy marketing könyv" kvótám keretén belül most Al Ries és Jack Trout -- [A marketing 22 vastörvénye](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing){:target="_blank"} című *alapművére* esett a választásom.
-A lecke hamar kezdődik, hiszen maga a "vastörvény" szó is nyilván csak egy marketingfogás a címben.
+A lecke hamar kezdődik, elvégre maga a "vastörvény" szó is nyilván csak egy marketingfogás a címben.
 Ezt azonban nem rovom fel nekik, hiszen alapelveknek vagy hasznos gondolati építőkockáknak azért mindenképp nevezhetjük őket.
 
 A következő 22 rövid gondolat akár egy ellenőrző listának is jó lehet azelőtt, hogy bármilyen módon reklámoznánk valamit (vagy változtatnánk egy már kiforrott stratégián).
 És ez nem csak a profikra vonatkozik ám, hiszen ott a munkaerőpiac, a társkeresés, az egyéni brand építés...
 Sokkal több helyen "reklámozunk", mint gondolnánk!
-Ezért nem árt tudni, mit is csinálunk -- vagyis hogy mit is *kellene* csinálnunk.
+Ezért nem árt tudni, mit is csinálunk -- vagy hogy mit is *kellene* csinálnunk.
 Hogy úgymond ne a széllel szemben hugyozzunk...
 
 A tartalom (talán nem meglepő módon) a 22 törvény pár mondatos összefoglalása.
@@ -41,7 +41,7 @@ A könnyebb ugráláshoz pedig szerepeljenek is itt a számok 1-től 22-ig:
 
 > Fontosabb elsőnek lenni, mint jobbnak.
 
-Vagyis nem az a dolgunk, hogy a legjobbak legyünk, hanem hogy mi hatoljunk be a potenciális célközönség agyába elsőként az adott területen.
+Vagyis nem az a dolgunk, hogy a legjobbak legyünk, hanem hogy mi érjünk elsőként a piacra az adott területen.
 Ezáltal sokszor a termékünk márkanevével azonosítják majd a piacát is.
 Ha már létező nagy márkanevek ellen indulunk, legtöbbször csak másodikak lehetünk, hiába lennénk valamivel jobbak.
 Ezért...
@@ -79,7 +79,7 @@ Az emberek véleményének megváltoztatása nagyon nehéz, ezért érdemes a m�
 > A marketing nem a termékek, hanem az érzetek csatája.
 
 Nagyot tévedünk, ha azt hisszük, hogy előbb-utóbb úgyis az objektíven "legjobb" termék fog győzni.
-Csak nézzünk vissza [Descartes]({% post_url 2020-01-07-simon-blackburn-think %}) filozófiájáig, és egyből kiderül, hogy nem is létezik semmi objektív!
+Csak nézzünk vissza [Descartes]({% post_url 2020-01-07-simon-blackburn-think %}) filozófiájáig, és egyből kiderül, hogy nincs is semmi objektív!
 Minden csak a fejünkben létezik; csak a saját véleményeink és benyomásaink számítanak.
 
 Vagyis nem az a fontos, hogy a miénk legyen a legjobb termék a piacon, csak az, hogy a vevőkben ezt a benyomást keltsük.
@@ -156,9 +156,9 @@ Ehhez viszont elég intimen tudni kell, hogy a vetélytárs milyen, és az alapj
 Számítógépek, autók, sörök, zene...
 Először mind egy nagy halmazként indulnak, majd egyre jobban specializálódnak.
 Gondolom ezért (is) nem kell annyira bánkódni, ha valamiben már vannak felettünk.
-Csak alakítsunk ki egy új kategóriát, amiben már majd mi lehetünk az elsők...
+Csak alakítsunk ki egy új kategóriát, amiben majd mi lehetünk az elsők...
 
-Ha pedig már vezetőként akarunk egy különböző kategóriát megcélozni, akkor oda fontos, hogy ne vigyük át a jelenlegi márkanevünket!
+Ha pedig vezetőként akarunk egy különböző kategóriát megcélozni, akkor oda fontos, hogy ne vigyük át a jelenlegi márkanevünket!
 Emlékezzünk: legyen meg a pontos célcsoport!
 Ha ezt a fókuszt felhígítjuk azzal, hogy a nevünk más területekre keveredik, az idővel vissza fog harapni.
 
@@ -185,7 +185,7 @@ De ha az egy termékre irányuló mély figyelmünket szétaprózzuk sok (de sek
 Inkább legyünk erősek valamiben, mint gyengék mindenben -- lásd a fókusz törvénye.
 
 Leginkább a gyávaság és a lustaság hajtja ez az irányt, mert egy potenciális új terméket új néven sokkal nehezebb lenne bevezetni.
-Viszont újra és újra bizonyított, hogy amivel rövid távon segíteni akarunk neki, az hosszú távon inkább csak lerántja majd a menő márkát is.
+Viszont újra és újra bizonyított, hogy ha egy máshonnan áthozott, jól csengő névvel akarjuk gyorsítani a folyamatot, az hosszú távon inkább csak lerántja majd a menő márkát is.
 
 <br>
 
@@ -256,11 +256,11 @@ De legyünk minél rugalmasabbak, hogy amikor majd jön a változás, változni 
 
 > A siker gyakran arroganciához vezet, az arrogancia pedig kudarchoz.
 
-A siker veszélyes, mert az érzetünk keletkezhet, hogy mindent megtehetünk; hogy mindenre képesek vagyunk.
+A siker veszélyes, mert az az érzetünk keletkezhet, hogy mindent megtehetünk; hogy mindenre képesek vagyunk.
 A tényeket már nem érzékeljük elfogulatlanul, és a vevő fejével sem tudunk gondolkozni.
 Persze a világ majd szépen felpofoz minket ebből az álomképből némi jól megérdemelt kudarccal -- de jobb lenne ebbe nem beleszaladni.
-Meg kell tudnunk tartani a kezdő szemléletet, és nem eltávolodni a frontvonalakról.
-Hallgatni az őszinte visszajelzésekre, és nem elszállni!
+Meg kell tudnunk fenntartani a kezdők szemléletét, és nem eltávolodni a frontvonalakról.
+Hallgatni az őszinte visszajelzésekre, és nem "elszállni"!
 
 <br>
 
@@ -269,7 +269,7 @@ Hallgatni az őszinte visszajelzésekre, és nem elszállni!
 
 > A kudarcra számítani kell és el kell fogadni.
 
-Nem az a cél, hogy ne hibázzunk -- hanem hogy minél gyorsabban felismerjük és kijavítsuk, amikor hibázunk.
+Nem az a cél, hogy ne hibázzunk -- hanem hogy minél gyorsabban felismerjük és kijavítsuk, *amikor* hibázunk.
 Különös figyelmet érdemel nagy létszámú vállalatoknál, hogy a döntéshozói pozícióban lévő személy a céget, és ne a saját karrierjét helyezze előtérbe.
 Ehhez viszont kell egy olyan vállalati szemlélet, ami nem büntetné a karrierjét az esetleges kudarc miatt.
 
@@ -313,7 +313,7 @@ Attól, hogy van egy jó ötletünk, azt még be is kellene valahogy juttatni a 
 Itt pedig súlyos pénzek fognak mozogni -- és súlyos ellenszél.
 Legyünk készen pénzt szerezni és áldozni erre, különben simán lenyomnak majd, akiknek több erőforrás áll a rendelkezésükre.
 
-Talán ez a törvény öregedett a legkevésbé elegánsan, hiszen az internet korában azért ez már szerintem nem *teljesen* így van.
+Talán ez a törvény öregedett a legkevésbé elegánsan, hiszen az internet korában ez már szerintem nem *teljesen* így van.
 De azért a pénz persze mindig előnyt fog jelenteni -- és könnyen juthatunk olyan pozícióba, ahol már nekünk is megérné költeni rá.
 
 <br>
@@ -332,11 +332,11 @@ De azért a pénz persze mindig előnyt fog jelenteni -- és könnyen juthatunk 
 ## Összefoglalás
 
 Az eredetileg 1993-as könyv stílusa, nyelvezete, és példái igencsak ósdinak hatottak így 2021-ben.
-A tartalma viszont nem -- és ez általában annak a jele, hogy valami általánosra sikerült rátapintani!
+A tartalma viszont nem -- ami jó, mert ez általában annak a jele, hogy valami általánosra sikerült rátapintani!
 Lényegi üzenetként azt emelném ki, hogy az igazi marketing a vevők fejében történik.
 Ne az objektív tulajdonságokra vagy a márkák közti versenyre figyeljünk, hanem arra, hogy megvethessük a lábunkat a vevők fejében.
 
 Ha elsők vagyunk, akkor ne engedjük magunkat szétaprózódni.
 Ha nem, akkor megkülönböztetni próbáljuk magunkat, ne hasonulni.
 Fókuszáljunk, ne szálljunk el, és gondolkodjunk hosszú távban.
-És időnként lapozzuk át ezt a 22 elemű ellenőrzőlistát emlékeztető gyanánt -- nehogy feleslegesen strapáljuk magunkat!
+És időnként persze lapozzuk át ezt a 22 elemű ellenőrzőlistát emlékeztető gyanánt -- nehogy feleslegesen strapáljuk magunkat!
