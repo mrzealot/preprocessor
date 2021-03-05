@@ -4,27 +4,35 @@ title: Peter C. Brown - Make It Stick
 pages: 253
 date: 2021-03-06 00:01
 excerpt: >
-    TODO
+    Egy csomó intuitív, "köztudottan hatásos" tanulási módszer nagyja csak kidobott erőfeszítés.
+    Ezzel szemben a tanulási folyamat tudományos megfigyelése egyre több olyan stratégiát hoz felszínre, ami talán nem annyira intuitív, viszont cserébe legalább működik.
+    Ezekre a stratégiákra fókuszál Peter C. Brown (és szerzőtársai) könyve, a Make It Stick (vagyis magyarul kb. "Ragadjon meg!").
 ---
 
+Egy csomó intuitív, "köztudottan hatásos" tanulási módszer nagyja csak kidobott erőfeszítés.
+Ezzel szemben a tanulási folyamat tudományos megfigyelése egyre több olyan stratégiát hoz felszínre, ami talán nem annyira intuitív, viszont cserébe legalább működik.
+Ezekre a stratégiákra fókuszál Peter C. Brown (és szerzőtársai) könyve, a [Make It Stick](https://www.goodreads.com/book/show/18770267-make-it-stick){:target="_blank"} (vagyis magyarul kb. "Ragadjon meg!").
 
+A könyv igazából 10 évnyi projektmunka eredménye, ahol kognitív kutatási eredményekből próbáltak konkrét oktatási stratégiákat kialakítani.
+Mert lássuk be, eddig leginkább egyéni elméletek, anekdoták, és intuíció alapján alakítjuk ki a tanulási stratégiánkat.
+Ehelyett itt túlnyomó többségben kontrollált (és szakmailag elbírált!) empirikus kísérletekre hagyatkozunk, hogy végre egy kicsit gatyába rázhassuk a folyamatot.
+A célközönség bárki, aki hatékonyabban szeretne tanulni vagy tanítani -- diákok és tanárok nyilván, de edzők, üzleti tanácsadók, vezetők, önfejlesztők...
 
-[](https://www.goodreads.com/book/show/18770267-make-it-stick){:target="_blank"}
+A tartalom a következőképp alakul:
 
+- [A tanulás félreértett](#attekintes)
+- [Felidézés kontra újraolvasás](#felidezes)
+- [Gyakoroljunk változatosan](#valtozatos)
+- [Akkor jó, ha nehéz](#nehez)
+- [Vigyázzunk a tudás illúziójával](#illuzio)
+- [Lépjünk túl a tanulási stílusokon](#stilusok)
+- [Növeljük a képességeinket](#kepesseg)
+- [Praktikus tippek](#tippek)
 
+<br>
 
-## Intro
 
-- egy csomó intuitív, "köztudottan hatásos" tanulási módszer nagyja csak kidobott erőfeszítés
-    - cserébe a tanulási folyamat tudományos megfigyelése egyre több olyan stratégiát hoz felszínre, ami talán nem annyira intuitív, de működik
-- ez a könyv igazából 10 évnyi munka eredménye, ahol kognitív kutatási eredményekből próbáltak konkrét oktatási stratégiákat kialakítani
-- már maga a könyv szerkezete is alkalmazza az eredményeket:
-    - sok lesz a időszakos ismétlés (spaced repetition) és a látszólag különböző, de mégis összetartozó területek összevonása (interleaving)
-    - szóval nem meglepődni, ha ugyanaz a tanulság többször, különböző kontextusokban is visszaköszön
-- a célközönség bárki, aki hatékonyabban szeretne tanulni vagy tanítani (diákok és tanárok nyilván, de edzők, üzleti tanácsadók, vezetők és önfejlesztők is)
 
-- leginkább egyéni elméletek, anekdoták, és intuíció alapján alakítjuk ki a tanulási stratégiánkat
-    - ehelyett itt túlnyomó többségben kontrollált (és szakmailag elbírált!) empirikus kísérletek eredményeire hagyatkozunk
 
 
 
@@ -36,81 +44,49 @@ excerpt: >
 
 
 
+## <a name="attekintes"></a>A tanulás félreértett
 
+Abban talán mind egyetérthetünk, hogy a tanulás az egész életünk része.
+Mindig új problémákat kell megoldanunk és új szituációkhoz kell tudnunk alkalmazkodni, ha akarjuk, ha nem.
+Jó esetben remélhetőleg *akarjuk* is, és aktívan megyünk a saját fejlődésünk után, aminek számtalan haszna lesz.
+Eddig világos.
+Amiről itt meg szeretnének győzni, az az, hogy maga a tanulási folyamat is tanulható.
 
+A jelenleg elterjedt módszerekkel sok energiát kidobunk az ablakon, de relatíve kis változtatásokkal látványosat javíthatnánk ezen.
+Az agyatlan ismétlés *önmagában* nem vezet hosszú távú emlékezéshez -- lásd. a könyvben említett egyetemi professzort, aki huszon-éve dolgozott ugyanabban az irodában, mégsem tudta, hogy közvetlenül az ajtaja mellett van a legközelebbi tűzoltó készülék.
 
+Az újraolvasás sem vezet mélyebb megértéshez, csak ha már elég idő eltelt az első olvasat óta.
+Amiért mégis népszerű (a rossz tanácsokon felül), az a tudás illúziója, hiszen már egyre ismerősebb az adott szöveg.
+Szóval érdemes magunkat gyakran tesztelgetni, és akár önkéntes kvízeket tartani egy-egy fejezet után, hogy ne essünk ebbe a hibába.
 
-## <a name="1"></a>A tanulás félreértett
+Sokan hirdetik, hogy a kreativitás többet ér, mint a tudás.
+De ez egy megtévesztő hasonlat.
+A kreativitás ugyanis pont azt jelenti, hogy a tudásunkat új *módon* alkalmazzuk.
+De hát ahhoz is tudni kell -- csak aztán még pluszban alkalmazni is!
+Vagyis a sztenderdizált tesztekkel sem maga a tesztelés a baj, hanem hogy mennyire a *megítélésre* használjuk őket, és mennyire nem *visszajelzésként*, hogy segíthessék a tanulási folyamatot.
 
-- amiben mind egyetérthetünk:
-    - a tanuláshoz memória is kell, hogy aztán később hasznosítható legyen
-    - a tanulás az egész életünk része, mert mindig új szituációkhoz kell tudnunk alkalmazkodni
-- amiről meg szeretnének győzni: a tanulási folyamat is tanulható, hogy hatékonyabb legyen
-    - és erről a növekedési szemléletmóddal rendelkezőket remélhetőleg nem lesz túl nehéz meggyőzni :)
-- a mondanivaló lényege (amikre a következő szekciókban részletesebben is visszatérünk):
-    - (it's all there: retrieval, spacing, interleaving, variation, reflection, and elaboration.)
-    - a tanulás akkor hatékonyabb, ha nehezen megy
-    - nagyon rosszul tudjuk megítélni, hogy épp jól megy-e -- és a haladás látszata miatt húzunk a könnyebb módszerekhez, amik viszont csak ideiglenes eredményeket nyújtanak
-    - a szövegek újraolvasása és a tömbösített gyakorlás a legelterjedtebb (és hosszú távon legkevésbé hatékony) taktikák
-    - az olvasottak/tanultak időszakos felidézése sokkal jobban beleveri az anyagot a fejünkbe
-    - ha kihagyunk egy kis időt két gyakorlás között, vagy valami mással is összevonjuk, akkor nehezebben fog menni, de eredményesebb lesz a folyamat
-    - jobban megtanulunk dolgokat, ha nem kapjuk egyből ezüst tálcán a választ
-    - nem érdemes egy adott tanulási stílusra (például audio vagy vizuális) koncentrálni
-    - jobban tanulunk, ha a konkrét problémák helyett a háttérben húzódó alapelveket is képesek vagyunk meglátni
-        - és, meglepetés, ehhez megint jobb, ha időszakosan térünk vissza a témához, és más területekkel is vegyítjük
-    - ha a saját tudásunkat kell megbecsülnünk, hajlamosak vagyunk nagyon mellélőni
-        - ezért kell a tesztelés, mint objektív visszajelzés, hogy segítsen fejleszteni a gyengeségeinken
-    - minden tanulás a korábbi tudásunkra épül
-        - minél jobban hozzá tudjuk kapcsolni az új anyagot a saját tapasztalatainkhoz, annál jobban megmarad (és utána új kapcsolódási pontokat ad)
-    - aki képes a lényeget kiemelni valami újból, és azt valamiféle mentális modellben elraktározni, az jobban tanul
-- egy az egyben "growth mindset": mi formáljuk az agyunkat
-    - az változhat, hogy honnan indulunk, de onnan szinte akármit elérhetünk, ha csináljuk
-    - és innentől a kudarc is "csak" egy erőfeszítési oklevél, mert legalább próbálkozunk!
+A mondanivaló lényege (amikre a következő szekciókban részletesebben is visszatérünk):
 
-- sok energiát kidobunk az ablakon, de relatíve kis változtatásokkal látványosat javíthatnánk ezen
-    - az agyatlan ismétlés *önmagában* nem vezet hosszú távú emlékezéshez (lásd. az egyetemi profot, aki huszon-éve dolgozott ugyanabban az irodában, mégsem tudta, hogy közvetlenül az ajtaja mellett van a legközelebbi tűzoltó készülék)
-    - az újraolvasás nem vezet mélyebb megértéshez, csak ha már elég idő eltelt az első olvasat óta
-    - amiért mégis népszerű (a rossz tanácsokon felül), az a tudás illúziója, mert már egyre ismerősebb az adott szöveg
-        - "students work hard to capture the precise wording of phrases they hear in class lectures, laboring under the misapprehension that the essence of the subject lies in the syntax in which it’s described."
-        - szóval érdemes magunkat gyakran tesztelgetni, önkéntes kvízeket tartani egy-egy fejezet után, hogy ne essünk ebbe a hibába
-- sokan hirdetik, hogy a kreativitás többet ér, mint a tudás, de ez egy megtévesztő hasonlat
-    - a kreativitás ugyanis pont azt jelenti, hogy a tudásunkat új *módon* alkalmazzuk
-    - de hát ahhoz is tudni kell! csak aztán még pluszban alkalmazni is!
-- a sztenderdizált tesztekkel sem maga a tesztelés a baj, hanem hogy mennyire a megítélésre használjuk őket (és nem visszajelzésként, hogy segíthessék a tanulási folyamatot)
+- A szövegek újraolvasása és a tömbösített gyakorlás a legelterjedtebb (és hosszú távon legkevésbé hatékony) taktikák -- az olvasottak/tanultak időszakos felidézése sokkal jobban beleveri az anyagot a fejünkbe;
 
+- Ha kihagyunk egy kis időt két gyakorlás között, valami mással is összevonjuk, és még a vegyítés sorrendjét is variáljuk, akkor eredményesebb lesz a folyamat;
 
+- A tanulás akkor hatékonyabb, ha nehezen megy -- jobban megtanulunk dolgokat, ha nem kapjuk egyből ezüst tálcán a választ;
 
+- Nagyon rosszul tudjuk megítélni, hogy épp jól megy-e a tanulás -- és a haladás látszata miatt húzunk a könnyebb módszerekhez, amik viszont csak ideiglenes eredményeket nyújtanak;
 
+- Abban is hajlamosak vagyunk nagyon mellélőni, ha a saját tudásunkat kell megbecsülnünk -- ezért kell a tesztelés, mint objektív visszajelzés, hogy segítsen fejleszteni a gyengeségeinken;
 
+- Nem érdemes egy adott tanulási stílusra (például audio vagy vizuális) koncentrálni -- jobban tanulunk, ha a konkrét problémák helyett a háttérben húzódó alapelveket is képesek vagyunk meglátni
+    
+- Minden tanulás a korábbi tudásunkra épül -- minél jobban hozzá tudjuk kapcsolni az új anyagot a saját tapasztalatainkhoz, annál jobban megmarad (és utána annál több új kapcsolódási pontokat ad);
 
+- A Dweck-féle ["növekedési szemléletmód"]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %}) tükrében itt is leszögezzük, hogy mi formáljuk az agyunkat -- az változhat, hogy honnan indulunk, de onnan szinte akármit elérhetünk, ha csináljuk.
 
+<br>
 
 
-## Hogy tanuljunk, emlékezzünk
 
-- ha visszagondolunk valami élményünkre (akár kudarcunkra), és újraértékeljük, az egy nagyon hasznos tanulási folyamat
-    - nem csak az oda tartozó tananyagot idézzük fel (és ezzel erősítjük meg az agyunkban), de még a tetejébe kapcsolunk is hozzá új személyes tapasztalatot, és vizualizáljuk, hogy a fejlemények fényében legközelebb hogy csinálnánk
-- a felidézéssel járó tanulás-segítő hatást sokan csak a tesztelés-effektként emlegetik
-    - ami persze nem újdonság, mert már Arisztotelész is írt róla: “exercise in repeatedly recalling a thing strengthens the memory.”
-    - a felejtés egy természetes folyamat, de jelentősen lassíthatjuk vagy akár egy időre meg is állíthatjuk, ha felidézzük a kérdéses tananyagot
-    - és ez is akkor a jó, ha mentális energiába kerül!
-        - szóval nem a beseggelés után felmondani, hanem egy hét szünet felelni belőle
-    - na az *ilyen* időszakos visszaidézések ismételgetése az, ami nagyon belénk tudja verni az anyagot
-- kísérletek mutatják, hogy az első olvasat után a felidézéssel kellene foglalkoznunk, nem az újraolvasással
-    - minél messzebb van a felidézés a tanulástól, annál többet felejtünk közben
-    - viszont ha már megtörtént a felidézés, az szinte megállítja a további felejtést
-        - egy felidézés is jelentősen lassít, de három (széthúzva különböző időpontokra) szó szerint megállított a felejtést
-- akik plusz felidézést csináltak egy sulis kísérletben, azok több mint egy egész jeggyel jobban teljesítettek a vizsgáik ide tartozó részén
-    - és ez nem csak a plusz ismétlés miatt volt, mert amit szintén pluszban ismételtek, az ugyanolyan lett, mint amit nem ismételtek
-    - magyarán: tényleg a visszaidézés a lényeg, hogy dolgozzunk vele, hogy csikorogjanak azok a kerekek!
-- a tesztek visszajelzése is jó, ha késik egy kicsit, nehogy megszokottá váljon, hogy egyből ott lesz a helyes válasz is
-- a saját szavas válaszok mindig jobbak, mint a választósak -- de már a választósak is nagyot dobnak a semmivel szemben
-- az alacsony tétek melletti, gyakori tesztelés sokszorosan segít
-    - pontosabban fogjuk tudni, hogy mit tudunk és mit nem
-    - maga a visszaidézés már segít jobban megtanulni az anyagot
-    - tovább fog megmaradni az, amit tanulunk, könnyebben fogunk rá emlékezni, és lazábban kapcsolódó helyzetekben is asszociálunk majd rá
-    - szoktat a teszteléshez, ami miatt jobban fog menni a nagyobb tétek melletti vizsga is
-    - széthúzza az anyag elsajátítását, ami miatt kevésbé kell magolásra hagyatkozni a vizsgák előtt
 
 
 
@@ -123,64 +99,53 @@ excerpt: >
 
 
 
-## Gyakoroljunk változatosan
 
-- a változatos gyakorlás még azzal szemben is növelni tudja a teljesítményünket, mintha csak azt gyakoroltuk volna, ami a vizsgaanyag lesz
-    - lásd 1.5 méterre kontra 1 ÉS 2 méterre is célba dobni
-- az egységes és/vagy tömbösített gyakorlás gyorsabban vezet eredményre, de utána a felejtés is gyors (és nagy mértékű)
-    - csak hát ugye a gyors eredmény a közérzetünk szempontjából mindent ver, ezért afelé hajlunk (még akkor is, ha objektíven megmutatható, hogy a tömbösítésnél végül nem járunk jól)
-    - szóval hagyjunk magunknak időt a tanulási/tesztelési alkalmak között, és hosszú távon mélyebben beég majd az új infó
-- a mással együtt tanulás/alkalmazás is ilyen változatosságnak számít
-    - a tanulás (megint) nehezebb lesz tőle, viszont a rögzülés szintjén meg fogja érni
-- a tömbösítés kb. annak felel meg, hogy tudjuk a problémát és a rá való választ is, ezért csak azt a választ gyakoroljuk
-    - a vegyítés és a mással együtt tanulás viszont azt a folyamatot is belénk veri, hogy elemezni tudjuk a problémákat, és beazonosítsuk hozzájuk a megfelelő válaszokat
-    - és lássunk csodát, az élet hajlamos inkább az utóbbi módon működni
-- interleaving = mixing different things
-            - variation = mixing the **order** of the different things
 
 
 
+## <a name="felidezes"></a>Felidézés kontra újraolvasás
 
+Ha visszagondolunk valami élményünkre (akár kudarcunkra), és újraértékeljük, az egy nagyon hasznos tanulási folyamat.
+Lehet, hogy nem kellemes, de hasznos.
+Olyankor ugyanis nem csak az oda tartozó tananyagot idézzük fel, hanem:
 
+- Megerősítjük az emléket az agyunkban, 
+- Kapcsolunk hozzá új személyes tapasztalatokat, és
+- Vizualizáljuk, hogy a fejlemények fényében legközelebb hogy csinálnánk.
 
+A felidézéssel járó tanulás-segítő hatást sokan csak a **tesztelés-effekt**ként emlegetik.
+Ami persze nem akkora újdonság, mert már Arisztotelész is írt róla -- csak valahogy mégsem használjuk ezt a jelenséget a javunkra.
+A felejtés egy természetes folyamat, de jelentősen lassíthatjuk (vagy akár egy időre meg is állíthatjuk), ha felidézzük a kérdéses tananyagot.
+És ez akkor a legjobb, ha mentális energiába kerül!
+Szóval nem ám beseggelés után felmondani, hanem egy hét szünet után felelni belőle.
+Na az *ilyen* időszakos visszaidézések ismételgetése az, ami nagyon belénk tudja verni az anyagot.
 
+Kísérletek mutatják, hogy már az *első* olvasat után a felidézéssel kellene foglalkoznunk, nem az újraolvasással.
+Minél messzebb van a felidézés a tanulástól, annál többet felejtünk közben.
+Viszont ha már megtörtént a felidézés, onnantól gyakorlatilag védettek vagyunk.
+Egy felidézés is jelentősen lassítja, de három (széthúzva különböző időpontokra) szó szerint megállítja a felejtést.
 
+Akik például plusz felidézést végeztek egy sulis kísérletben, azok több mint egy egész jeggyel jobban teljesítettek a vizsgáik ide tartozó részén.
+És ez nem csak a plusz ismétlés miatt volt!
+Direkt kijelöltek egy másik anyagrészt is, amit szintén pluszban ismételtek, de nem felidézéses módszerrel -- és az a rész nem is ment jobban a vizsgán.
+Magyarán mondva tényleg a visszaidézés a lényeg; hogy teszteljük magunkat; hogy dolgozzunk vele; hogy csikorogjanak azok a kerekek!
 
+Az alacsony tétek melletti, gyakori tesztelés sokszorosan segít:
 
+- Pontosabban fogjuk tudni, hogy mit tudunk és mit nem;
+- Maga a visszaidézés már segít jobban megtanulni az anyagot;
+- Tovább fog megmaradni az, amit tanulunk, könnyebben fogunk rá emlékezni, és lazábban kapcsolódó helyzetekben is asszociálunk majd rá;
+- Szoktat a teszteléshez, ami miatt jobban fog menni a nagyobb tétek melletti vizsga is;
+- Széthúzza az anyag elsajátítását, ami miatt kevésbé kell majd magolásra hagyatkoznunk a vizsgák előtt.
 
+Teszt típusok tekintetében a saját szavas válaszok mindig jobbak, mint a választósak -- de már a választósak is nagyot dobnak a semmivel szemben.
+Illetve a visszajelzésnél is jó, ha késik egy kicsit, nehogy megszokottá váljon, hogy egyből ott lesz a helyes válasz.
 
+<br>
 
 
-## Akkor jó, ha nehéz
 
-- mivel a nehezebb tanulás jobb rögzüléshez és visszaidézéshez vezet, ezeket a nehézségekre érdemes "kívánatos nehézségekként" gondolni
-- hogy ez miért így van, arra az agyunk emlék-képzési folyamata ("kódolása") adhat választ
-    - kiváló időszakos visszaidézése ez a Miért alszunk?-ban tanultaknak is :)
-    - először csak rövid táv, ahova az élményeinket agysejt kapcsolatokkal képezzük le
-        - de ha ebből hosszú távú emléket szeretnénk, akkor azt meg kell erősíteni és az eddigi tudásunk kontextusába kell helyezni (és mint tudjuk, aludni sem ártana!)
-        - ehhez pedig nem jó, ha rövid távú memóriából dolgozunk, mert az túl könnyű: ha ott van kéznél, akkor nem történik meg a visszaidézés, a letisztulás, a rendszereződés
-- persze nem csak elrakni kell tudni az új tudást, hanem a használatkor emlékezni is rá
-    - és habár furcsán hangozhat, ez a nehezebb rész
-    - tanulni szinte bármennyit tanulhatunk, mert az csak attól függ, hogy megértésük és a korábbi tudásunkhoz kössük az anyagot
-        - és ahogy egyre több tudásunk lesz, úgy egyre könnyebben értünk meg dolgokat, és egyre több helyre tudjuk kapcsolni őket
-    - emlékezni viszont nehéz, mert ahhoz bizonyos jelzések kellenek, amik előhívják
-        - de akkor is ott vannak azok az emlékek, ha épp nem könnyen vagy gyakran hívjuk elő őket
-        - és ha még a nehézségek ellenére is megküzdünk az előhívásukkal, az még tovább mélyíti a tanulást
-- és hát a rövid táv szavatossági ideje egyszer úgyis lejár... szóval ha ez után is szeretnénk felmutatni valamit a tanultakból, akkor a hosszú távú memóriából visszaidézést (és akár újraépítést) kellene gyakorolni
-    - ezért is jó, ha hagyunk egy kis felejtési időt, mert így egyre kevésbé torzíthat bele a rövid távú memória
-    - és magunkat sem verjük át vele, hogy mennyire tudjuk
-- ha valamit nem tudunk, akkor is jó, ha vergődünk vele egy kicsit, mielőtt megkapnánk a választ
-    - mert úgy a válasz egyből kontextusba kerül a fejünkben, az oda tartozó dolgok felidézése megerősödik, és ezért az új infó is jobban tárolódik
-- a saját szavainkkal megfogalmazás és leírás sokkal mélyebb tanuláshoz vezet
-    - amit teljes vállszélességgel tanúsíthatok
-    - amióta ezt a blogot írom, szinte mindenre emlékszem, amiről írtam
-        - szemben az egyetemi tanulmányaimmal, ahol azért igencsak jelentkeznek a magolás és a hasonlóan gyors kiesés tünetei :)
-- merjünk hibázni (dweck mindset!)
 
-- a nehézségek addig kívánatosak, amíg azért (fogcsikorgatva ugyan, de) meg tudunk birkózni velük
-    - illetve próbáljuk midig azt nézni, hogy a tudás valós életbeli alkalmazása során milyen nehézségek adódhatnak
-    - ha azokat megtanuljuk kezelni (vagy akár erőt meríteni belőlük, ahogy Josh Waitzkin írta), az jó
-    - de az egyéb nehézségeket inkább kerüljük, nehogy csak üresjáratban szívassuk magunkat
 
 
 
@@ -193,71 +158,37 @@ excerpt: >
 
 
 
-## Vigyázzunk a tudás illúziójával
+## <a name="valtozatos"></a>Gyakoroljunk változatosan
 
-- a fejlődés egy fő hajtóeleme a tudatosság -- amikor megfigyeljük magunkat, elemezzük a hibáinkat, tervezzük a következő lépéseinket, stb.
-    - ehhez pedig elengedhetetlenek a pontos visszajelzések, és hogy azokat pontosan értelmezzük
-    - sajnos egy csomó mindenben, és egy csomó módon tévedhetünk, ami nekünk belülről nehezen tűnik fel
-    - vagyis ezekre az ún. kognitív torzításokra jó előre készülni
-    - érzékelésbeli illúziók, hamis emlékek, hibás érvelések és "belemagyarázások"... ilyenkor nagyon kell a tudatos gondolkodási képesség
-- egyrészt nagyon nehezen viseljük a véletlenszerűséget és a bizonytalanságot
-    - mindent meg kell magunknak magyaráznunk, még akkor is, ha csak részleges információ áll a rendelkezésünkre -- sőt, akár az igazság rovására is
-    - és ez nem csak a külső eseményekre vonatkozik -- a narráló én (REF IDE) a saját életünk kanyargó ösvényéből is egy koherens, jól mesélhető sztorit próbál faragni
-- erre jön rá, hogy a saját, szubjektív tapasztalatainknak sokkal hajlamosabbak vagyunk hinni, mint az objektív eredményeknek és statisztikáknak
-    - mondhatni: mindenki magából indul ki
-    - csak hát mivel az emlékeink változhatnak (például pont a tanulási folyamat részeként is, ahol újraértelmezzük és új asszociációkkal látjuk el őket), ezért egy idő után már egyáltalán nem biztos, hogy a valóságot tükrözik
-        - egyes emlékek megszépülnek, jelentőségteljessé válnak... vagy épp fordítva
-- ez akár odáig is fajulhat, hogy egy képzeletbeli dolgot is szinte valósnak kezdünk hinni, ha elég élesen vizualizáljuk (UGYE MANÓ?!)
-    - persze ezt nem csak magunktól -- befolyásolhatnak célzott/rávezető kérdésekkel, hipnózissal
-- további torzítások
-    - ha mi magunk már tudunk valamit, akkor onnantól egyre nehezebb lesz elképzelni, hogy a kívülállóknak az milyen nehéz lehet
-    - ha valamit elégszer ismételnek (mondjuk a médiában, khhm), akkor az egyre "igazabbnak" kezd hangozni
-    - ha valaminek a leegyszerűsített magyarázatát értjük, attól még nem biztos, hogy a háttérben álló elveket is teljesen értjük
-    - ha alapból azt hisszük, hogy mindenki úgy vélekedik egy bizonyos dologról, mint mi
-    - Dunning-Kruger effekt...
-- szóval igyekezzük valami objektív mérési módszert találni, amivel nehezebb akaratlanul átverni magunkat
-    - hosszú idő után is fel tudjuk-e idézni?
-    - össze tudjuk-e foglalni a saját szavainkkal?
-    - mások (főleg hozzáértők) visszajelzése pozitív-e a teljesítményünkkel kapcsolatban?
-    - tudjuk-e a tudást valós (vagy azt szimuláló) körülmények között is alkalmazni?
+A változatos gyakorlás még azzal szemben is növelni tudja a teljesítményünket, mintha csak azt gyakoroltuk volna, ami a vizsgaanyag lesz.
+Két szemléletes példa:
 
+1. Tesiórán két csoport, ahol az egyik csak 2 méterre dobott célba, míg a másik csak 1 **és** 3 méterre gyakorolt. Amikor ezután tesztelték őket egy 2 méteres célba dobással, az 1-és-3 csoport nyert -- valószínűleg meg jobban megtanulták kalibrálni a dobásaik nagyságát.
 
+2. Baseball gyakorlásnál két csoport, ahol az egyik tömbösítve kapott 10 *ilyen*, 10 *olyan*, és 10 *amolyan* dobást, a másik pedig véletlenszerűen 30-at. Gyakorlás során látszólag a tömbösített csoport teljesített jobban, de a meccseken a véletlenszerűek -- valószínűleg mert az ütés mellett a dobások felismerését is megtanulták.
 
+Az egységes és/vagy tömbösített gyakorlás gyorsabban vezet eredményre, de utána a felejtés is gyors (és nagy mértékű).
+Csak hát ugye a gyors eredmény a közérzetünk szempontjából mindent ver, ezért afelé hajlunk -- még akkor is, ha objektíven megmutatható, hogy a tömbösítésnél végül nem járunk jól.
+Szóval hagyjunk magunknak időt a tanulási/tesztelési alkalmak között, és hosszú távon mélyebben beég majd az új infó.
 
+Több dolog együttes tanulása/alkalmazása ilyen változatosságnak számít (mint az első példában).
+A tanulás nehezebb lesz ugyan tőle, viszont a rögzülés szintjén meg fogja érni.
+A tömbösítés pedig kb. annak felel meg, hogy tudjuk a problémát és a rá való választ is, ezért csak azt a választ gyakoroljuk (mint a második példában).
+A vegyítés és a mással együtt tanulás viszont azt a folyamatot is belénk veri, hogy elemezni tudjuk a problémákat, és beazonosítsuk hozzájuk a megfelelő válaszokat.
+És lássunk csodát, az élet hajlamos inkább az utóbbi módon működni...
 
+<br>
 
 
 
 
 
 
-## Lépjünk túl a tanulási stílusokon
 
 
-- túl sokat koncentrálunk a vizuális vs. hallás utáni vs. olvasás utáni és egyéb tanulási módszerekre
-    - lehet preferenciánk, de attól a többi módon is be tud jutni az az információ
-    - vigyázzunk, hogy az "így jobban tanulok" üzenete nehogy "csak így tudok tanulni"-vá váljon!
-- figyeljünk inkább arra, hogy a lényeget képesek legyünk kikaparni a hatalmas infó-áradatból, és aztán az alapelvekből mentális modelleket építsünk
-    - tudjuk megállapítani, hogy mi a fontos, és mi nem
-    - hogy hogyan legyen ebből egy olyan leképzés a fejünkben, amit utána hasznosan tudunk alkalmazni (akár más területeken is)
-        - enélkül csak a konkrét példákat magoljuk, nem az alattuk húzódó elveket ismerjük fel
-    - és hogy aztán ezt az ún. "struktúra építést" hallás vagy látás után tesszük, az már majdnem mindegy
-- egy sztori is igazából egy struktúra, szóval ebben is segít a reflektálás, és a saját szavainkkal összefoglalás
-    - a konkrét példa magolóknak pedig javasolt a példák összehasonlítása, ami jó esetben majd rávezeti őket az elvekre
-    - időnként akár szó szerint kérdezzük meg magunktól, hogy "Na, most itt akkor mi is a központi mondanivaló?"
 
-- a lista élén a folyékony nyelvtudás és a szövegértés
-    - ugyanis ha ezekkel van baj, az nem olyanféle nehézség, ami segít
 
-- az IQ egy nagyon félrevezető metrika
-    - akinél magas, ott is lehetnek igencsak erős hiányosságok
-    - akinél pedig alacsony, ott lehet, hogy csak az a **fajta** intelligenciája alacsony, amit a teszt mér
-    - ez ugye feltételezi, hogy többféle intelligencia is létezik -- egyesek szerint 8, mások szerint 3
-- az sem mindegy, hogy milyen hozzáállással tesztelünk (megint csak Dweck)
-    - az egyszeri teszt csak egy statikus pillanatkép az aktuális tudásunkról, ami a potenciálunkról semmit nem mond el
-    - ehelyett javasolt a "dinamikus tesztelés", ahol egy teszt csak megmutatja a gyenge területeket, amiket utána fejleszthetünk az újratesztelésig, és így tovább
 
-- a legfontosabb tanulási stílus különben is az, hogy vállaljuk a felelősséget a saját tanulásunkért, és csináljuk
 
 
 
@@ -265,101 +196,232 @@ excerpt: >
 
 
 
+## <a name="nehez"></a>Akkor jó, ha nehéz
 
+Mivel a nehezebb tanulás jobb rögzüléshez és visszaidézéshez vezet, ezekre a nehézségekre érdemes "kívánatos nehézségekként" gondolni.
+Hogy ez miért így van, arra az agyunk emlék-képzési folyamata adhat választ -- és mellesleg kiváló időszakos visszaidézése ez a [Miért alszunk?]({% post_url 2020-10-24-matthew-walker-miert-alszunk %})-ban tanultaknak is.
+Először ugye csak rövid táv, ahova az élményeinket agysejt kapcsolatokkal képezzük le.
+De ha ebből hosszú távú emléket szeretnénk, akkor azt meg kell erősíteni és az eddigi tudásunk kontextusába kell helyezni (és aludni sem ártana!).
+Ehhez pedig nem jó, ha rövid távú memóriából dolgozunk, mert az túl könnyű: ha ott van kéznél, akkor nem történik meg a visszaidézés, a letisztulás, vagy a rendszereződés.
 
+Persze nem csak elrakni kell tudni az új tudást, hanem a használatkor emlékezni is rá.
+És habár furcsán hangozhat, ez a nehezebb rész.
+Tanulni szinte bármennyit tanulhatunk, mert az csak attól függ, hogy megértésük és a korábbi tudásunkhoz kössük az anyagot.
+És ahogy egyre több tudásunk lesz, úgy egyre könnyebben értünk meg dolgokat, és egyre több helyre tudjuk kapcsolni őket.
+Szóval a tanulási képességünk gyakorlatilag határtalan.
+Emlékezni viszont nehéz, mert ahhoz bizonyos jelzések kellenek, amik előhívják a tudást.
 
+A rövid távú memória szavatossági ideje egyszer úgyis lejár, így ha ez után is szeretnénk felmutatni valamit a tanultakból, akkor a hosszú távú memóriából visszaidézést (és akár újraépítést) kellene gyakorolni.
+Ezért is jó, ha hagyunk egy kis felejtési időt, mert így egyre kevésbé torzíthat bele a rövid távú memória -- és magunkat sem verjük át vele, hogy mennyire tudjuk.
+A jó hír, hogy akkor is ott vannak azok az emlékek, ha épp nem könnyen vagy gyakran hívjuk elő őket.
+És ha még a nehézségek ellenére is megküzdünk az előhívásukkal, az még tovább mélyíti a tanulást.
 
+Ha valamit egyáltalán nem tudunk, még akkor is jó, ha vergődünk vele egy kicsit, mielőtt megkapnánk a választ.
+Hiszen úgy a válasz egyből kontextusba kerül a fejünkben, az oda tartozó dolgok felidézése megerősödik, és ezért az új infó is jobban tárolódik -- kb. lesz mibe kapaszkodnia.
+Hasonló okból a saját szavainkkal megfogalmazás és leírás is sokkal mélyebb tanuláshoz vezet, amit teljes vállszélességgel tanúsíthatok.
+Amióta ezt a blogot írom, szinte minden fontosra emlékszem, amiről írtam (szemben az egyetemi tanulmányaimmal, ahol azért igencsak jelentkeznek a magolás miatti gyors kiesés tünetei).
 
+Azért persze ne essünk át a ló másik oldalára sem: a nehézségek addig kívánatosak, amíg azért (fogcsikorgatva ugyan, de) meg tudunk birkózni velük.
+Illetve próbáljuk midig azt nézni, hogy a tudás valós életbeli alkalmazása során milyen nehézségek adódhatnak.
+Ha azokat megtanuljuk kezelni (vagy akár erőt meríteni belőlük, ahogy [Josh Waitzkin]({% post_url 2021-02-06-josh-waitzkin-a-tanulas-muveszete %}) írta), az jó!
+De az egyéb nehézségeket továbbra is kerüljük inkább, nehogy csak üresjáratban szívassuk magunkat.
 
+<br>
 
 
 
 
-## Növeljük a képességeinket
 
-- a híres "mályvacukor kísérlet" (Walter Mischel) említése
-- neuroplaszticitás = az agyunk "képlékeny", ezért egyrészt növelhetjük a nyers képességeit, másrészt a meglévő képességeinket is használhatjuk jobban/hatékonyabban új kapcsolatok kiépítésével és/vagy megerősítésével
-    - mert habár az agyunk alapvető szerkezete és a benne lévő kapcsolatok *száma* genetikailag kötött, az egyes neurális kapcsolataink finomhangolásáért inkább a tapasztalataink és a tanulásunk felelnek!
-    - így akár sérült agyi régiók működését is átdrótozhatjuk más, épen maradt területekre (például vakon, külső szenzorok nyelvükre küldött jelei segítségével "látni")
-        - és ha ilyen lehetséges, akkor a matekot is biztos meg lehet érteni valahogy, nem? :)
 
-> > Ann and Richard Barnet, human intellectual development is “a lifelong dialogue between inherited tendencies and our life history.”
 
-- az átlag IQ egyre növekszik
-    - jobb (és több) tápanyag, jobb és szélesebb körű oktatás, több fejlődési lehetőség, szociális "szorzótényezők"...
-    - ami mutatja, hogy ez sem (csak) genetika
-- az agy nem izom, és az edzése nem általánosítható más területekre
-    - de ha magát az edzést szokássá tudjuk tenni, akkor azzal természetesen más területeken is nagyobb sikereket fogunk elérni
 
-- hatékonyabb használati stratégiák
-    - növekedési szemléletmód --> Dweck
-    - gyakoroljunk úgy, mint egy szakértő
-        - vagyis ne csak agyatlanul ismételgessük, amit már tudunk
-        - hanem gyakoroljunk tudatosan, koncentráljunk a gyengeségeinkre, és aktívan próbáljuk magunkat a jelenlegi szintünk fölé lökdösni
-        - ez nem lesz élvezetes, lassan fogunk haladni, és legtöbbször magányosan... de biztosan
-    - memory cues, vagyis kb. memória felidézési ingerek, mnemonikus eszközök
-        - a memória atléták módszereit használva mi is többet és jobban memorizálhatunk
-        - betűszavak, memória "palota", vizuális ingerek (amik jobban segítenek emlékezni, mint a verbális ingerek), rímek és listák összekötése
-        - ezek az anyag megértésében ugyan nem segítenek, de ha már egyszer megértettük, akkor a visszaidézésükben nagyon hasznosak lehetnek (amíg annyira be nem épül a tudás, hogy már nem lesz rájuk szükség)
-        - a pontos módszerekre máskor visszatérünk (és a kíváncsiaknak persze addig is ott a Google), de a lényeg, hogy az esetlegesen megkötött IQ-nkból is sokkal többet ki lehet hozni, ha okosan csináljuk
 
 
 
 
 
 
+## <a name="illuzio"></a>Vigyázzunk a tudás illúziójával
 
+A fejlődés egy fő hajtóeleme a tudatosság -- amikor megfigyeljük magunkat, elemezzük a hibáinkat, tervezzük a következő lépéseinket, stb.
+Ehhez pedig elengedhetetlenek a pontos visszajelzések, és hogy azokat pontosan értelmezzük.
+Sajnos egy csomó mindenben, és egy csomó módon tévedhetünk, ami a tetejébe nekünk belülről nehezen tűnik fel.
+Vagyis ezekre az ún. kognitív torzításokra jó előre készülni.
+Érzékelésbeli illúziók, hamis emlékek, hibás érvelések és "belemagyarázások" -- a lista jelentősen hosszabb, mint szeretnénk.
 
+Egyrészt nagyon nehezen viseljük a véletlenszerűséget és a bizonytalanságot.
+Mindent meg kell magunknak magyaráznunk, még akkor is, ha csak részleges információ áll a rendelkezésünkre.
+Sőt, akár az igazság rovására is!
+És ez nem csak a külső eseményekre vonatkozik -- a "narráló én" (lásd [Homo Deus]({% post_url 2020-08-08-yuval-noah-harari-homo-deus %})) a saját életünk kanyargó ösvényéből is egy koherens, jól mesélhető sztorit próbál faragni.
 
+Erre jön rá, hogy a saját, szubjektív tapasztalatainknak sokkal hajlamosabbak vagyunk hinni, mint az objektív eredményeknek és statisztikáknak.
+Mondhatni mindenki magából indul ki.
+Csak hát mivel az emlékeink változhatnak (például pont a tanulási folyamat részeként is, ahol újraértelmezzük és új asszociációkkal látjuk el őket), ezért egy idő után már egyáltalán nem biztos, hogy a valóságot tükrözik.
+Egyes emlékek megszépülnek, jelentőségteljessé válnak; mások épp fordítva.
+Ez pedig akár odáig is fajulhat, hogy egy képzeletbeli dolgot is szinte valósnak kezdünk hinni, ha elég élesen vizualizáljuk.
+Na ezt nem csak magunktól -- befolyásolhatnak célzott/rávezető kérdésekkel, hipnózissal, vagy valamelyik [Cialdini]({% post_url 2021-01-30-robert-b-cialdini-hatas %})-féle stratégiával is.
 
+Pár további torzítás, amiket most csak érintőlegesen említünk:
 
+- Ha mi magunk már tudunk valamit, akkor onnantól egyre nehezebb lesz elképzelni, hogy a kívülállóknak az milyen bonyolult lehet;
+- Ha valamit elégszer ismételnek (mondjuk a médiában, khhm), akkor az egyre "igazabbnak" kezd hangozni;
+- Ha valaminek a leegyszerűsített magyarázatát értjük, attól még nem biztos, hogy a háttérben álló elveket is teljesen értjük;
+- Ha alapból azt hisszük, hogy mindenki úgy vélekedik egy bizonyos dologról, mint mi;
+- És végül a személyes kedvencem, a Dunning-Kruger effekt -- ahol ugye annyira hülyék vagyunk valamiből, hogy még azt sem tudjuk felfogni, mennyire hülyék vagyunk belőle, és ezért természetesen azt hisszük, hogy elég jól értünk hozzá.
 
+Szóval mindenképp igyekezzük valami objektív mérési módszert találni, amivel nehezebb akaratlanul átverni magunkat.
+Segítségként például tegyük fel magunknak a következő kérdéseket:
 
+- Hosszú idő után is fel tudjuk-e idézni?
+- Össze tudjuk-e foglalni a saját szavainkkal?
+- Mások (főleg hozzáértők) visszajelzése pozitív-e a teljesítményünkkel kapcsolatban?
+- Tudjuk-e a tudást valós (vagy azt szimuláló) körülmények között is alkalmazni?
 
-## Ragadjon meg!
+<br>
 
-Praktikus tippek az eddigiek alkalmazására:
 
-- Tippek diákoknak
-    - memóriából visszaidézés
-        - kérdezzük ki magunkat menet közben, hogy miről van szó, mi a lényeg, mit tanultunk, stb.
-        - ez mélyebb megragadáshoz vezet, és pontosabban mutatja majd azt is, hogy valójában mit tudunk
-    - időszakos ismétlés
-        - húzzuk szét a tanulási alkalmakat, hogy némi felejtés beüthessen (és a hosszú távú memóriánk dolgozhasson a rövid távú helyett)
-        - ha így próbálunk visszaidézni, annál nehezebb lesz, de emiatt annál jobban megmarad majd
-        - a variáció is növeli a hatékonyságot -- a látszat ellenére
-    - vegyítés
-        - ilyenkor az egyes területek gyakorlása mellett a hasonlóságaikat és a különbségeiket is jobban megtanuljuk
-        - és persze a széthúzásban is szerepe van
-    - egyebek
-        - kifejtés
-            - fogalmazzuk meg a saját szavainkkal
-            - kapcsoljuk hozzá olyanokhoz, amiket már tudunk
-        - generálás
-            - próbáljuk meg úgy is megoldani a feladatot, hogy nem kapjuk meg rá rögtön a választ
-            - így jobban rögzül majd a válasz, amikor megkapjuk (még akkor is, ha nem sikerült megoldani)
-        - reflektálás
-            - ez kb. visszaidézés + kifejtés, amikor magunkban átnézzük az anyagot
-            - ilyenkor megkérdezhetjük magunktól, hogy mit tanultunk, mi ment, mi nem, és hogy máskor hogyan mehetne jobban?
-        - kalibrálás
-            - hogy biztosan tisztában legyünk vele, mit tudunk
-            - ne az érzéseinkre hagyatkozzunk (amik könnyen félrevezethetnek), hanem objektív visszajelzésekre
-        - mnemonikus trükkök
-            - hogy jobban képesek legyünk visszaidézni, amit egyszer már alaposan megtanultunk
 
 
-- Tippek tanároknak
-    - első sorban: tanítsuk meg a tanulókkal, hogy maga a tanulás hogy is működik!
-    - emellett: vezessük be "kívánatos nehézségeket" már a tanteremben
-        - gyakori, alacsony tétek melletti, kiszámítható kvízek
-        - hagyni őket "izzadni" egy kicsit az új problémákkal, mielőtt megmutatnánk a megoldást
-        - gyakorló tesztek a vizsgák előtt
-        - saját szavas, pár mondatos összefoglalók íratása (és a tesztekben is inkább ilyenekre érdemes fókuszálni a karikázás helyett)
-        - a tesztek nyúljanak vissza a korábbi anyagra is, hogy legyenek kapcsolatok
-        - már magát a tantervet jó lenne az időszakos ismétlések, a változatosság és a vegyítés köré építeni
-    - és persze mindezeket a tanulókkal is osszuk meg
-        - hogy tudják: nem csak úgy kedvtelésből szívatjuk őket, hanem a saját érdekükben
 
+
+
+
+
+
+
+
+
+
+
+## <a name="stilusok"></a>Lépjünk túl a tanulási stílusokon
+
+Ha tanulási módszertanról van szó, sokan asszociálhatunk egyből a vizuális vs. hallás utáni vs. olvasás utáni kategorizálásra.
+Na Brown-ék szerint erre pont *nem* kellene nagy hangsúlyt fektetni.
+Nyilván lehet preferenciánk, de attól a többi módon is be tud jutni az az információ.
+Vigyázzunk, hogy az "így jobban tanulok" üzenete nehogy "csak így tudok tanulni"-vá váljon!
+
+Figyeljünk inkább arra, hogy a lényeget képesek legyünk kikaparni a hatalmas infó-áradatból, és aztán az alapelvekből mentális modelleket építsünk.
+Tudjuk megállapítani, hogy mi a fontos, és mi nem.
+És főleg hogy hogyan lehet ebből egy olyan leképzés a fejünkben, amit utána hasznosan tudunk alkalmazni (akár más területeken is).
+Enélkül ugyanis csak a konkrét példákat magoljuk, nem az alattuk húzódó elveket ismerjük fel.
+Ha viszont követjük ezt az ún. "struktúra építést", akkor onnantól már majdnem mindegy, hogy ezt hallás vagy látás után tesszük.
+
+Igazából az is egy struktúra, ha egy személyes sztorit költünk valami köré, szóval ebben szintén segít a reflektálás, és a saját szavainkkal összefoglalás.
+A konkrét példa magolásra hajlamosaknak pedig javasolt az esetek *összehasonlítása*, ami jó esetben majd rávezeti őket a háttérben lévő elvekre.
+Időnként akár szó szerint kérdezzük meg magunktól, hogy "Na, most itt akkor mi is a központi mondanivaló?".
+
+A tanulásnál kívánatos kompetenciák közül (nem meglepően) a folyékony nyelvtudás és a szövegértés az elsők -- ugyanis ha ezekkel van baj, az nem olyanféle nehézség, ami segít.
+Utánuk viszont a legtöbb szempont másodlagos.
+Az IQ például egy nagyon félrevezető metrika.
+Akinél magas, ott is lehetnek igencsak erős hiányosságok -- akinél pedig alacsony, ott lehet, hogy csak az a **fajta** intelligenciája alacsony, amit az IQ teszt mér.
+
+Ez ugye feltételezi, hogy többféle intelligencia is létezik, de nyugalom, egyik sincs kőbe vésve.
+Ne feledjük, hogy minden egyszeri teszt csak egy statikus pillanatkép az aktuális állapotunkról, ami a *potenciálunkról* semmit nem mond el.
+Ehelyett javasolt a "dinamikus tesztelési" szemlélet, ahol egy teszt csak megmutatja a gyenge területeket, amiket utána fejleszthetünk az újratesztelésig, és így tovább.
+A legfontosabb tanulási stílus tehát az, hogy vállaljuk a felelősséget a saját tanulásunkért, és csak csináljuk.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="kepesseg"></a>Növeljük a képességeinket
+
+A számomra egyik legbiztatóbb modern tudományos fejlemény az ún. neuroplaszticitás, miszerint az agyunk "képlékeny".
+Ezért egyrészt növelhetjük a nyers képességeit, másrészt a meglévő képességeinket is használhatjuk jobban/hatékonyabban új kapcsolatok kiépítésével vagy régiek megerősítésével.
+Mert habár az agyunk alapvető szerkezete és a benne lévő kapcsolatok *száma* genetikailag kötött, az egyes neurális kapcsolataink finomhangolásáért inkább a tapasztalataink és a tanulásunk felelnek!
+Így akár sérült agyi régiók működését is átdrótozhatjuk más, épen maradt területekre -- például vakon, külső szenzorok nyelvükre küldött jelei segítségével "látni".
+És ha ilyen lehetséges, akkor a matekot is biztos meg lehet érteni valahogy, nem?
+
+Az átlag IQ egyre növekszik, ami leginkább a jobb (és több) tápanyagnak, a jobb és szélesebb körű oktatásnak, a több fejlődési lehetőségnek, és a szociális "szorzótényezőknek" tudható be.
+Ez szépen mutatja, hogy az IQ sem (csak) genetika.
+De még az IQ növelésre sincs szükség, ha egyszerűen csak hatékonyabban használjuk azt a gógyit, amink már úgyis van.
+Mondjuk:
+
+- Vallhatjuk a ["növekedési szemléletmódot"]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %}), ami már önmagában rengeteget jelenthet.
+
+- Gyakorolhatunk úgy, mint a szakértők -- vagyis ne csak agyatlanul ismételgessük, amit már tudunk, hanem gyakoroljunk tudatosan, koncentráljunk a gyengeségeinkre, és aktívan próbáljuk magunkat a jelenlegi szintünk fölé lökdösni.
+Ez nem lesz élvezetes, lassan fogunk haladni, és legtöbbször magányosan... de biztosan.
+
+- Használhatunk *mnemonikus* eszközöket, amikkel (a memória atlétákhoz hasonlóan) mi is többet és jobban memorizálhatunk.
+Betűszavak, memória "palota", vizuális ingerek, rímek és listák összekötése, stb.
+Ezek az anyag megértésében ugyan nem segítenek, de ha már egyszer megértettük, akkor a visszaidézésben nagyon hasznosak lehetnek (amíg annyira be nem épül a tudás, hogy már nem lesz rájuk szükség).
+A pontos módszerekre máskor visszatérünk, de a lényeg, hogy egy esetlegesen megkötött IQ-ból is sokkal többet ki lehet hozni, ha okosan csinálja az ember.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="tippek"></a>Praktikus tippek
+
+Az eddigieket tematikusan összefoglalva, mit is csináljon egy diák:
+
+- **Memóriából visszaidézés**: kérdezzük ki magunkat menet közben, hogy miről van szó, mi a lényeg, mit tanultunk, stb.
+Ez mélyebb megragadáshoz vezet, és pontosabban mutatja majd azt is, hogy valójában mit tudunk.
+
+- **Időszakos ismétlés**: húzzuk szét a tanulási alkalmakat, hogy némi felejtés beüthessen, és a hosszú távú memóriánk dolgozhasson a rövid távú helyett.
+Ha így próbálunk visszaidézni, annál nehezebb lesz, de emiatt annál jobban megmarad majd.
+
+- **Vegyítés**: ilyenkor az egyes területek gyakorlása mellett a hasonlóságaikat és a különbségeiket is jobban megtanuljuk.
+Ha változatos dolgokat és változatos sorrendben gyakorlunk, az (a látszat ellenére!) növeli a hatékonyságot.
+
+Ez a három a legfontosabb, ezért ezek szerepeljenek is külön.
+De ha van még kapacitás, akkor vannak még "egyéb" tippek:
+
+- **Kifejtés**: a tanultakat fogalmazzuk meg a saját szavainkkal, és kapcsoljuk hozzá olyanokhoz, amiket már tudunk.
+
+- **Generálás**: próbáljuk meg úgy is megoldani a feladatot, hogy nem kapjuk meg rá rögtön a választ.
+Így jobban rögzül majd a válasz, amikor megkapjuk (még akkor is, ha nem sikerült megoldani).
+
+- **Reflektálás**: ez kb. visszaidézés + kifejtés, amikor magunkban átnézzük az anyagot.
+Ilyenkor megkérdezhetjük magunktól, hogy mit tanultunk, mi ment, mi nem, és hogy máskor hogyan mehetne jobban?
+
+- **Kalibrálás**: mérjük magunkat, hogy biztosan tisztában legyünk vele, mit tudunk.
+Ne az érzéseinkre hagyatkozzunk (amik könnyen félrevezethetnek), hanem objektív visszajelzésekre.
+
+- **Mnemonikus trükkök**: hogy jobban képesek legyünk visszaidézni, amit egyszer már alaposan megtanultunk.
+
+<br>
+
+És hogy mindebben hogyan segíthet egy tanár?
+Első sorban: tanítsuk meg a tanulókkal, hogy maga a tanulás hogyan is működik!
+Ne hagyjuk, hogy a helyes technikák hiányában újraolvasásokra és magolásra pazarolják az energiáikat.
+
+Emellett vezessünk be "kívánatos nehézségeket" már a tanteremben, mint például:
+
+- Gyakori, alacsony tétek melletti, kiszámítható kvízek;
+- Hagyni őket "izzadni" egy kicsit az új problémákkal, mielőtt megmutatnánk a megoldást;
+- Gyakorló tesztek a vizsgák előtt;
+- Saját szavas, pár mondatos összefoglalók íratása (és a tesztekben is inkább ilyenekre érdemes fókuszálni a karikázás helyett);
+- A tesztek nyúljanak vissza a korábbi anyagra is, hogy legyenek kapcsolatok;
+- Már magát a tantervet jó lenne az időszakos ismétlések, a változatosság és a vegyítés köré építeni!
+
+És persze ezeket a terveinket a tanulókkal is osszuk meg -- nehogy azt higgyék, hogy csak úgy kedvtelésből szívatjuk őket!
+Így talán kitartanak majd addig, amíg az eredmények el nem kezdenek "magukért beszélni".
+
+<br>
 
 
 
@@ -380,17 +442,21 @@ Praktikus tippek az eddigiek alkalmazására:
 
 ## Összefoglalás
 
-- tanítás szempontjából nem árthat a szervezeti reform, de a tanulás szempontjából mindenki már most a kezébe veheti a saját fejlődését
-    - az itt felhozott elvekhez és tippekhez nem kell más oktatási rendszer, nem kell pénzt befektetni semmibe, és még több idős sem kell rászánni, mint eddig
-    - csak okosabban
-- a preprocessor tapasztalataimat megosztani
-    - a PhD-ig azért mondhatni, hogy tanultam eleget
-    - és ebből szinte semennyit nem "jól"
-        - hogy mégis csupa kitűnővel estem át a rendszeren, az inkább a rendszer hibája, mint az én érdemem
-    - amióta viszont ezt a blogot írom, szinte mindenre emlékszem az olvasottakból
-    - hogy miért
-        - mert már olvasás közben írom a vázlatot, amivel gyakorlatilag folyamatosan ellenőrzöm, hogy mennyire értem az anyagot
-        - a saját szavaimmal emelem ki a lényeget, és a korábbi cikkekhez kapcsolással a fejemben is már ismert elvekhez kötöm az olvasottakat
-        - aztán ezt hagyom állni, hogy utána az időszakos ismétlés során újra felidézzem
-        - végül logikus szerkezetbe foglalom és szándékosan leegyszerűsítve írok róla
-    - mondhatni öntudatlanul is követtem szinte minden itt felmerült tanácsot -- és így már számomra sem meglepő, hogy miért ragad meg minden ennyire 
+A tanítási folyamat megtámogatása szempontjából valóban nem ártana némi szervezeti reform.
+De jó hír: a tanulás szempontjából mindenki már most a kezébe veheti a saját fejlődését!
+Az itt felhozott elvekhez és tippekhez nem kell más oktatási rendszer, nem kell pénzt befektetni semmibe, és még több időt sem feltétlen kell rászánni, mint eddig.
+Csak okosabban -- és talán egy kicsit több energia befektetéssel.
+
+Nekem személy szerint ez a blog a bizonyíték arra, hogy a fenti tippek működnek.
+Mert habár az oktatási rendszerben eltöltött röpke 21 évem alatt azért mondhatni, hogy tanultam eleget -- de abból *szinte* semennyit nem "jól".
+Rengeteg volt a tűzoltás, a vizsgák előtti magolás, az akár másnapra elfelejtés...
+Hogy mégis csupa ötössel estem át a rendszeren, az inkább a rendszer hibája, mint az én érdemem.
+
+Amióta viszont ezt a blogot írom, mindenre sokkal jobban emlékszem az olvasottakból.
+Hogy miért?
+Mert már olvasás közben írom a vázlatot, amivel gyakorlatilag folyamatosan ellenőrzöm, hogy mennyire értem az anyagot.
+A saját szavaimmal emelem ki a lényeget, és a korábbi cikkekhez kapcsolással a fejemben is ismert elvekhez kötöm az új infót.
+A különböző olvasási és írási ütemem miatt egyszerre mindig több könyv anyaga kavarog a fejemben.
+Aztán ezt hagyom állni, hogy utána az időszakos ismétlés során újra felidézzem.
+Végül logikus szerkezetbe foglalom és szándékosan leegyszerűsítve írok róla.
+Mondhatni öntudatlanul is követtem szinte az összes itt felmerült tanácsot -- és így már számomra sem meglepő, hogy miért ragad meg minden ennyire.
