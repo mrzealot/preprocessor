@@ -41,57 +41,58 @@ A tartalom a következőképp alakul:
 
 ## <a name="praktikus"></a>Praktikus filozófia
 
+Az ókori filozófusok pontos értelmezéséhez fontos tudni az irodalmi, szokásbeli, formai és egyéb megkötéseket, amik árnyékában alkottak.
+Mai fejjel azért tűnik nehéznek az ilyen szövegek értelmezése, mert jelentős hátrányból indul kapcsolódó háttértudásunk.
+Régen erős szerkezeti megkötések voltak a publikációkkal kapcsolatban -- és maguk a publikációk is eleve legtöbbször csak leképzései voltak a sokkal népszerűbb, *szóbeli* szónoklatoknak.
 
-- a régiek pontos értelmezéséhez fontos tudni az irodalmi, szokásbeli, formai és egyéb megkötéseket, amik árnyékában alkottak
-    - azért tűnik nehéznek az ilyen szövegek értelmezése, mert jelentős hátrányból indul a kontextusunk -- a háttértudás, amivel értelmezni tudjuk a mondanivalót
-        - régen erős szerkezeti (szintaktikai) megkötések voltak a publikációkkal kapcsolatban
-            - és ezek is eleve legtöbbször csak leképzései voltak a szóbeli szónoklatoknak
-        - aki mondani akart valamit, azt csak egy jól meghatározott keretrendszeren belül tehette
-        - szóval hogy igazán megértsük a mondanivalóját, a hozzá tartozó keretrendszert sem ártana ismerni!
-            - nehogy mondjuk beleolvassunk dolgokat, amik nincsenek ott
-            - vagy kihagyjunk dolgokat, amik a látszat ellenére jelentőségteljesek
-    - ezért (is) fontos mindig frissen és hozzáférhetően tartani a tudást -- régen is sok jót tudtak már, de az a jelenben nem segíthet, ha nem "megy át"
-- ilyen szemlélettel még Marcus Aurelius Elmélkedéseiben is "szerkezetet" talált, ami naiv szemmel igencsak összevisszának tűnik
-    - a tartalom persze önmagában is aranyat ér -- ezt már eddig is nem kevésszer hangsúlyoztam, és még nem kevésszer fogom...
-    - de még mélyebbre áshatunk, ha a konkrét formájából kiolvassuk azokat a spirituális gyakorlatokat, amiket kedvenc császárunk valószínűleg napi szinten, módszeresen ismételt
-    - a szerkezet a lélek Epiktétosz által megállapított 3 funkciójára épül: az ítélőképesség, a vágy, és a hajlam
-        - ezeket ő a 3 nagy filozófiai irányzattal (logika, fizika, etika) azonosította
-        - vagyis önmagunk (az ítéletünk, a vágyaink, és a hajlamaink) kordában tartása (logikával, fizikai tudással, és etikai "jósággal") vezet a helyes élethez
-            - a logikának, az etikának, és a fizikának is megvannak a maguk praktikus vetületei
-            - hogy hogyan gondolkozzunk, hogyan viselkedjünk, és hogy hogyan viszonyuljunk a természethez
-            - ha kordában tartjuk az ítéleteinket, a hajlamainkat, és a vágyainkat, akkor pont ezt tesszük
-- modern szemmel hibásan azt gondolhatjuk, hogy a régiek is (hozzánk hasonlóan) logikus rendszereket és dogmákat akartak felépíteni
-    - de Hadot egyre inkább arra jött rá a szövegek irodalmi kötöttségeinek figyelembe vételével, hogy az ókori szövegek inkább egy mentális hatást szerettek volna kiváltani a hallgatóságban, és nem annyira a következetességre törekedtek
-    - szerinte a filozófia célja az, hogy "formáljon, nem pedig hogy informáljon"
-    - azért tűnnek botladozónak a szövegek, mert a változásunk folyamata sem tökéletes -- de ha végigvezetnek rajta, a kételyekkel és a zsákutcákkal együtt, akkor a végére jobban jövünk ki az utazásból
-- így jutunk el a spirituális gyakorlatokig, amik
-    - gyakorlatok, mert praktikusak voltak, erőfeszítést és edzést igényeltek, és megélni kellett őket
-    - spirituálisak, mert az egész lényünket, életmódunkat és világképünket formálták
+Aki mondani akart valamit, az csak egy jól meghatározott keretrendszeren belül tehette.
+Szóval hogy igazán megértsük a mondanivalóját, a hozzá tartozó keretrendszert sem ártana ismerni.
+Nehogy mondjuk beleolvassunk dolgokat, amik nincsenek ott, vagy átugorjunk dolgokat, amik a látszat ellenére jelentőségteljesek.
+Ezért (is) fontos mindig frissen és hozzáférhetően tartani a tudást -- régen is sok jót tudtak már, de az a jelenben nem segíthet, ha egyszerűen nem "megy át".
 
-- a sztoicizmusnak nem célja megmagyarázni az egész világot egy mindent **is** lefedő nagy elmélettel
-    - csak összekapcsol pár olyan elvet és példát, amikkel a megfelelő irányba lökdösheti a követői lelkét és életét
-    - szóval ne a logikai hibákat keressük benne, hanem a hatást, ami segít élni (és felkészülni a halálra)!
+Ilyen szemlélettel a szerző még Marcus Aurelius [Elmélkedéseiben]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) is "szerkezetet" talált, ami pedig naiv szemmel igencsak összevisszának tűnhet.
+A tartalma persze önmagában is aranyat ér -- ezt már eddig is nem kevésszer hangsúlyoztam, és még nem kevésszer fogom...
+De még mélyebbre áshatunk, ha a konkrét formájából kiolvassuk azokat a spirituális gyakorlatokat, amiket kedvenc császárunk valószínűleg napi szinten, módszeresen ismételt.
 
-> [Az ókori filozófia] mindig arra törekedett, hogy inkább legyen élő hang mint írás -- és még inkább legyen élet mint hang.
+A szerkezet a lélek [Epiktétosz]({% post_url 2021-02-13-epiktetosz-kezikonyvecskeje %}) által megállapított 3 funkciójára épül: az ítélőképességre, a vágyra, és a hajlamokra.
+Ezeket ő a kor három nagy filozófiai irányzatával (logika, fizika, etika) azonosította.
+Vagyis önmagunk (az ítéletünk, a vágyaink, és a hajlamaink) kordában tartása (logikával, fizikai tudással, és etikai "jósággal") vezet a helyes élethez.
+Ennek a praktikus vetületei, hogy hogyan gondolkozunk, hogy viszonyulunk a természethez, és hogyan viselkedünk az embertársainkkal -- a trió, ami Marcus gondolataiban is számtalanszor visszatér.
+De ennél mélyebbre vezet a nyúl ürege...
+
+Modern szemmel (hibásan) azt gondolhatjuk, hogy hozzánk hasonlóan a régiek is logikus rendszereket és dogmákat akartak felépíteni.
+De Hadot egyre inkább arra jött rá az irodalmi kötöttségek figyelembe vételével, hogy az ókori szövegek inkább egy mentális hatást szerettek volna kiváltani a hallgatóságban, és nem annyira a következetességre törekedtek.
+Szerinte a filozófia célja az, hogy "formáljon, nem pedig hogy informáljon".
+Azért tűnnek botladozónak a szövegek, mert a változásunk folyamata sem tökéletes -- de ha végigvezetnek rajta, a kételyekkel és a zsákutcákkal együtt, akkor a végére jobban jövünk ki az utazásból.
+
+Így jutunk el a spirituális gyakorlatokig, amik:
+
+- Gyakorlatok, mert praktikusak voltak, erőfeszítést és edzést igényeltek, és megélni kellett őket; és
+- Spirituálisak, mert az egész lényünket, életmódunkat és világképünket formálták.
+
+A sztoicizmusnak nem célja megmagyarázni az egész világot egy mindent **is** lefedő nagy elmélettel.
+Csak ("csak"...) összekapcsol pár olyan elvet és példát, amikkel a megfelelő irányba lökdösheti a követői lelkét és életét.
+Szóval ne a logikai hibákat keressük benne, hanem a hatást, ami segít élni -- és felkészülni a halálra!
+És Marcus Aurelius pontosan így is használta.
+Azért sok az ismétlés és látszólagosan össze-vissza az Elmélkedései felépítésében, mert ez nem egy modern publikálásra szánt iromány, hanem a saját spirituális gyakorlatainak jegyzetei.
+
+> [Az ókori filozófia] mindig arra törekedett, hogy inkább legyen élő hang mint írás -- és még inkább legyen *élet* mint hang.
 > > [Ancient philosophy] always endeavored to be more a living voice than writing and still more a life than a voice.
 
+A filozófus "idegen" a világban, mert egy olyan eszményképet követ, ami szinte összeegyeztethetetlen a hétköznapok őrületével.
+De mégis pont attól lesz igazi "bölcs", hogy összeegyezteti őket, és aktívan élni tud.
+Nem éri (és nem is nagyon érheti) el az eszményképet, de ő azért csak törekszik tovább.
+Ezt az összeegyeztetést innentől aztán mindenki máshogy oldja meg:
 
+- A sztoikusok (a nagy nehézség ellenére) megpróbálnak az őrült világban is erényesen élni;
+- Az epikureisták (a sztoikus feszültség ellentéteként) inkább minél relaxáltabban igyekeztek lenni a világi gondokkal kapcsolatban;
+- A szkeptikusok úgy, hogy látszólag részt vesznek ugyan a világban, de ennek ellenére is megőrzik a belső békéjüket;
+- A cinikusok úgy, hogy látványosan szarnak mindenre **is**...
 
-- a filozófus "idegen" a világban, mert egy olyan eszményképet követ, ami szinte összeegyeztethetetlen a világ őrületével
-    - de mégis pont attól lesz igazi "bölcs", hogy összeegyezteti, és aktívan élni is tud
-    - nem éri (és nem is nagyon érheti) el az eszményképet, de ő azért csak törekszik tovább
-- ezt az összeegyeztetést mindenki máshogy oldja meg
-    - a sztoikusok (a nagy nehézség ellenére) megpróbálnak az őrült világban is erényesen élni
-    - az epikureisták (a sztoikus feszültség ellentéteként) inkább minél relaxáltabban igyekeztek lenni a világi gondokkal kapcsolatban
-    - a szkeptikusok úgy, hogy részt vesznek a világban, de ennek ellenére is megőrzik a belső békéjüket
-    - a cinikusok úgy, hogy szarnak mindenre is
-- vannak tehát különbségek, de mindenhol konkrét életvezetési hatásokról beszélhetünk -- kéznél kell ugyanis tartani az alapvető "dogmákat", különben az élet összevisszaságában nem tudjuk majd hirtelen alkalmazni őket
-    - pl. a kozmikus szintű gondolkodás megfelelő távlatba helyezi, hogy az emberi dolgok mennyire nem fontosak, és így talán jobban a helyükön tudjuk kezelni őket
-    - előre készülünk a lehetséges rosszakra, hogy már kéznél legyen a válasz, amikor valamelyik bekövetkezik
+Vannak tehát különbségek, de mindenhol konkrét életvezetési hatásokról beszélhetünk -- kéznél kell ugyanis tartani az alapvető "dogmákat", különben az élet összevisszaságában nem tudjuk majd hirtelen alkalmazni őket.
 
-> > The concern with individual destiny and spiritual progress, the intransigent assertion of moral requirements, the call for meditation, the invitation to seek this inner peace that all the schools, even those of the skeptics, propose as the aim of philosophy, the feeling for the seriousness and grandeur of existence -- this seems to me to be what has never been surpassed in
-ancient philosophy and what always remains alive.
-
+> Sokan merülnek el teljesen a politikai aktivizmusban, hogy így készüljenek a társadalmi forradalomra. Ritka, nagyon ritka, az olyan, aki a forradalomra készülés érdekében méltóvá is szeretne válni rá.
+> 
 > -- Georges Friedmann
 > > Many are those who are entirely absorbed in militant politics, in the preparation for the social revolution. Rare, very rare, are those who, in order to prepare for the revolution, wish to become worthy of it.
 
@@ -134,60 +135,56 @@ ancient philosophy and what always remains alive.
 
 ## <a name="gyakorlatok"></a>Spirituális gyakorlatok
 
-- habár manapság nem annyira divatos, mégis fontos a "spirituális" szó használata
-    - nem lehet csak gondolati vagy intellektuális, mert az érzékekre és a világképünkre is vonatkozik
-    - nem lehet pusztán etikai, mert a személyiségünk átalakulásáról van szó
-- és meglepetés, ezekért megint a görög-római filozófia korába kell visszamenni
+A gyakorlati filozófia (mint például a sztoicizmus) célja nem csak annyi, hogy máshogy gondolkozzunk, hanem hogy mások *legyünk*.
+Hogy megtanuljunk élni.
+És habár tudni épp tudjuk, hogy a szenvedés megszüntetése csak a vágyaink megzabolázása által lehetséges, ezt elérni ugye nem kimondottabban könnyű.
+Kellenek a gyakorlatok, amik segítik az átalakulásunkat, és a napirendünkbe építik a tanultak alkalmazását.
+Alexandriai Philón szerencsére hagyott ránk két listát, amik szépen összefoglalják a kor általános, "spirituális terápiás" gyakorlatait.
+Ezeket összegyúrva, tematikusan vesszük:
 
-1: Élni tanulni
+- **Figyelem**:
+A sztoikus alaphozzáállás, miszerint a figyelmünk soha nem lankadhat.
+Mindig a jelenben vagyunk, tudatosan megéljük, és mindent szándékosan csinálunk.
+A jelenben maradással szabadítjuk meg magunkat a szenvedélyeinktől, mert azok mindig a múltra vagy a jövőre építenek (amikre nincs befolyásunk).
+A figyelem miatt tudunk majd azonnal "jól" reagálni az élet minden kihívására, mert kb. kéznél tartjuk a helyes hozzáállást.
+Mondhatni: ha folyamatosan készen állunk, akkor soha nem kell felkészülni...
 
-- a gyakorlati filozófia (mint például a sztoicizmus) célja nem csak annyi, hogy máshogy gondolkozzunk, hanem hogy mások *legyünk*
-    - a szenvedés megszüntetése csak a vágyaink megzabolázása által lehetséges
-    - de például a sztoikus ideált (azon belül is a címkézést, avagy az irányítás kettősségét) elérni ugye nem könnyű
-    - ehhez kellhetnek gyakorlatok, amik segítik az átalakulásunkat
-- Philo of Alexandria hagyott ránk két olyan listát, hogy abban a korban mik voltak az ilyen "spirituális terápiás" gyakorlatok
-    - ezeket összegyúrva vesszük
+- **Meditáció**:
+Készítsük fel magunkat olyan dolgokra, amik még meg sem történtek, de megtörténhetnek.
+Szegénység, fájdalom, betegség, halál -- ezek ugye nem "rossz" vagy "gonosz" dolgok, mert nincs rájuk befolyásunk...
+Ezek csak természetes jelenségek, amik mindenkivel megtörténhetnek, ezért érdemes rájuk előre edzeni.
+Szükség van olyan érvelésekre vagy elmés mantrákra, amiket ismételgethetünk -- hogy szoktassuk magunkat arra, hogyan kellene reagálni egy ilyen helyzetre.
 
-- figyelem
-    - a sztoikus alaphozzáállás, miszerint a figyelmünk soha nem lankad
-    - mindig a jelenben vagyunk, tudatosan megéljük, és mindent szándékosan csinálunk
-    - a jelenben maradással szabadítjuk meg magunkat a szenvedélyeinktől, mert azok mindig a múltra vagy a jövőre építenek (amikre nincs befolyásunk)
-    - a figyelem miatt tudunk majd azonnal "jól" reagálni az élet minden kihívására, mert kb. kéznél tartjuk a helyes hozzáállást
-        - ha folyamatosan készen állsz, akkor soha nem kell felkészülni...
-- meditáció
-    - készítsük fel magunkat olyan dolgokra, amik még meg sem történtek, de megtörténhetnek
-    - szegénység, fájdalom, betegség, halál -- ezek ugye nem "rossz" vagy "gonosz" dolgok, mert nincs rájuk befolyásunk... ezek csak természetes dolgok, amik mindenkivel megtörténhetnek, ezért érdemes rájuk előre edzeni
-        - szükség van olyan érvelésekre vagy elmék mantrákra, amiket ismételgethetünk, hogy szoktassuk magunkat arra, hogyan kellene reagálni egy ilyen helyzetre
-    - készüljünk ezen felül az előttünk álló napra, illetve reflektáljunk az épp elmúlt napon
-    - mindezt azért, hogy a belső monológunk következetes lehessen
-        - hogy bármilyen kizökkenés ellenére is emlékeztetni tudjuk magunkat a legfőbb sztoikus szabályra: tőlem függ-e vagy nem? és ha nem, akkor mindegy!
+    Ide tartozik még ezen felül, hogy készüljünk az előttünk álló napra, illetve hogy reflektáljunk az épp elmúlt napon.
+    Mindezt azért, hogy a belső monológunk következetes lehessen.
+    Hogy bármilyen kizökkenés ellenére is emlékeztetni tudjuk magunkat a legfőbb sztoikus szabályra: tőlem függ-e vagy nem?
+    És ha nem, akkor mindegy!
 
-- olvasás
-- hallgatás
-    - ezek ahhoz kellenek, hogy legyen "muníció" a meditációhoz
-    - lássuk/halljuk/vizsgáljuk, hogy mások milyen helyzetekbe kerültek, hogyan kezelték, mit tanulhatunk belőle, stb.
-- kutatás
-- vizsgálat
-    - ezek ahhoz szoktatnak, hogy ténylegesen úgy lássuk a dolgokat, amik
-    - ne hagyjuk, hogy az objektív valóság helyett a benyomásaink vezessék a definíciókat
+- **Olvasás, Hallgatás**:
+Ezek ahhoz kellenek, hogy legyen elég "muníció" a meditációhoz.
+Lássuk/halljuk/vizsgáljuk, hogy mások milyen helyzetekbe kerültek, hogyan kezelték, mit tanulhatunk belőle, stb.
 
-- önuralom
-- kötelességek elvégzése
-- közöny a közömbös dolgok iránt
-    - ezek pedig az elvek gyakorlatba ültetése, a viselkedésünk megreformálása
-    - a közöny például csak az alapszabály konkrét alkalmazása
-    - a céljuk, hogy szokásokat formáljanak, így érdemes a könnyebbektől a nehezebbek felé haladni
-        - ha megszokjuk, hogy adott helyzetekben hogyan "kell" viselkedni, akkor idővel egyre könnyebb lesz
+- **Kutatás, Vizsgálat**:
+Ezek ahhoz szoktatnak, hogy ténylegesen úgy lássuk a dolgokat, ahogy vannak.
+Ne hagyjuk, hogy az objektív valóság helyett a benyomásaink vezessék a definíciókat.
+Ide tartozik a "magasból letekintés" gyakorlata is, ahol a szándékos fókusz eltávolítással próbáljuk objektívebbé tenni a képet -- ha messziről nézzük, úgy majd talán kevésbé színezi az érzékelésünket mindenféle szubjektív vélemény.
 
-- a sztoikus filozofálás tehát aktív élni tanulás -- hogy hogyan élhetünk tudatosan és szabadon
+- **Önuralom, Kötelességek elvégzése, Közöny a közömbös dolgok iránt**:
+Ezek pedig az elvek gyakorlatba ültetése, a viselkedésünk megreformálása.
+A közöny például csak az alapszabály konkrét alkalmazása (miszerint ami nem ránk tartozik, azzal nem foglalkozunk).
+A céljuk, hogy szokásokat formáljanak, így érdemes a könnyebbektől a nehezebbek felé haladni.
+Ha megszokjuk, hogy adott helyzetekben hogyan "kell" viselkedni, akkor idővel egyre könnyebb lesz.
 
-- az epikureanizmusnak is ugyanilyen "szigorú" gyakorlatai vannak, annak ellenére, hogy az állítólag a relaxálás művészete
-    - mert pont attól relaxálhatunk, ha elengedjük a szükségtelen vágyainkat és félelmeinket
-    > > God presents no fears, death no worries. And while good is readily attainable, evil is readily endurable.
-        - tetropharmakos, a négy részes gyógyír
-    - a sztoikusokkal ellentétben itt azonban nem agyalunk a lehetséges rosszakon, hanem csak a jó dolgokra koncentrálunk
-        - ezzel megtanítjuk magunkat szisztematikusan lazítani
-    - illetve tudatosan kultiválni kell a barátságokat, ami kb. a legfőbb gyakorlat
+A sztoikus filozofálás tehát aktív élni tanulás -- hogy hogyan élhetünk tudatosan és szabadon.
+De nincs ebben semmi egyedülálló, a sztoikusok csak egy példa a sokból.
+Az epikureizmusnak is ugyanilyen "szigorú" gyakorlatai vannak (annak ellenére, hogy az állítólag a relaxálás művészete).
+Mert szerintük pont attól relaxálhatunk, ha elengedjük a szükségtelen vágyainkat és félelmeinket.
+A leghíresebb ide tartozó mantrájuk az ún. *tetropharmakos*, a négy részes gyógyír, miszerint:
+
+> Istentől nem kell félni, a halál miatt pedig nem kell aggódni. És míg a jó dolgok könnyen elérhetőek, a rosszak könnyen elviselhetőek.
+> > God presents no fears, death no worries. And while good is readily attainable, evil is readily endurable.
+
+A sztoikusokkal ellentétben itt azonban nem agyalunk a lehetséges rosszakon, hanem csak a jó dolgokra koncentrálunk -- amivel tulajdonképpen megtanítjuk magunkat szisztematikusan lazítani.
 
 <br>
 
@@ -216,6 +213,14 @@ ancient philosophy and what always remains alive.
 
 ## <a name="nevezo"></a>A közös nevező
 
+4: Megtanulni olvasni
+
+- sokféle filozófiai iskola sokféle gyakorlata, de mind egy módszerre épül (belső dialógus tudatos irányítása és mentális koncentráció), és egy a céljuk is (önfejlesztés)
+    - mind egyetértenek, hogy alapállapotában mindenki különböző módokon boldogtalan (kollégám szavaival: "mindenki a saját szintjén nyomorog"), de ebből az állapotból "megváltható"
+    - erre valók a spirituális gyakorlatok -- visszatérés az "igazi" önmagunkhoz, minden külső és felesleges sallang nélkül
+
+
+
 2: Dialógust tanulni
 
 - Szókratészi vitamódszer -- amihez nem feltétlen kell vitapartner
@@ -243,21 +248,13 @@ ancient philosophy and what always remains alive.
     - és kapcsolódunk a meditációs vonalhoz is, hiszen az individualitás csak illúzió, nem?
 
 
-4: Megtanulni olvasni
 
-- sokféle filozófiai iskola sokféle gyakorlata, de mind egy módszerre épül (belső dialógus tudatos irányítása és mentális koncentráció), és egy a céljuk is (önfejlesztés)
-    - mind egyetértenek, hogy alapállapotában mindenki különböző módokon boldogtalan (kollégám szavaival: "mindenki a saját szintjén nyomorog"), de ebből az állapotból "megváltható"
-    - erre valók a spirituális gyakorlatok -- visszatérés az "igazi" önmagunkhoz, minden külső és felesleges sallang nélkül
 - a végcél persze elérhetetlen, de attól mi csak próbálkozzunk szorgalmasan
     - az imposztor szindróma ugyanolyan gyakori lesz, mint bármilyen más "szakmában", de a törekvésünk a meghatározó
     - hogy a hétköznapi, materiális világ ellenére is csináljuk ezeket a spirituális gyakorlatokat
     - egy filozófus sem filozófus az élete minden pillanatában, de ettől még igyekezhet, hogy minél több pillanatban az legyen
 - vagyis az ókori filozófia eredendően praktikus, szinte önmagában is egy spirituális gyakorlat
     - tekintsünk rá így, tegyük bele a munkát, és meglesz az eredménye
-
-- értelmezési kérdésekben ne akadjunk fenn a látszólagos következetlenségeken
-    - lehet, hogy a szerzők egy-egy műve önmagában konzisztens volt, de a többi művével nem -- de csak mert mindegyik egy-egy jól meghatározott kérdésre (jól meghatározott felvetések mellett) ad választ
-    - az is lehet, hogy egy szerző művei azért nem konzisztensek, mert különböző *szintű* közönség számára készültek
 
 > > Vauvenargues said, "A truly new and truly original book would be one which made people love old truths."
 
