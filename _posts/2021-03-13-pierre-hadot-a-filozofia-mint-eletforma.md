@@ -7,11 +7,11 @@ excerpt: >
     TODO
 ---
 
-https://www.goodreads.com/book/show/305860.Philosophy_as_a_Way_of_Life
+A sztoikus filozófiát feszegető "rovatunkban" ma egy modernebb elemzés felé fordulunk Pierre Hadot -- [A filozófia mint életforma](https://www.goodreads.com/book/show/305860.Philosophy_as_a_Way_of_Life){:target="_blank"} (eredetileg "Philosophy as a Way of Life") című könyve segítségével.
+Ironikus módon azonban talán pont ez a modern szemszög juttat majd minket közelebb ahhoz, amit az ókori bölcsek valóban mondani szerettek volna.
 
-
-- filozófia történész
-- sztoikus tanok modern értelmezése!
+Hadot egy híres francia filozófia történész (és természetesen maga is filozófus), aki igyekezett a régi szövegek értelmezéséhez a keletkezési körülményeiket és az irodalmi műfajukat is figyelembe venni.
+Ezzel pedig mélyebb meglátásokat adhat a kedvenc sztoikus tanainkhoz -- sőt, még a gyakorlati alkalmazhatóságukat is jobban előkészíti.
 
 A tartalom a következőképp alakul:
 
@@ -213,50 +213,39 @@ A sztoikusokkal ellentétben itt azonban nem agyalunk a lehetséges rosszakon, h
 
 ## <a name="nevezo"></a>A közös nevező
 
-4: Megtanulni olvasni
+Sokféle filozófiai iskola létezik sokféle gyakorlattal, de végső soron mind egy módszerre épülnek: a belső dialógusunk tudatos irányítására és mentális koncentrációra.
+És egy a céljuk is: önfejlesztés.
+Mind egyetértenek, hogy alapállapotában mindenki különböző módokon boldogtalan, de ebből az állapotból "megváltható".
+Erre valók a spirituális gyakorlatok -- visszatérés az "igazi" önmagunkhoz, minden külső és felesleges sallang nélkül.
 
-- sokféle filozófiai iskola sokféle gyakorlata, de mind egy módszerre épül (belső dialógus tudatos irányítása és mentális koncentráció), és egy a céljuk is (önfejlesztés)
-    - mind egyetértenek, hogy alapállapotában mindenki különböző módokon boldogtalan (kollégám szavaival: "mindenki a saját szintjén nyomorog"), de ebből az állapotból "megváltható"
-    - erre valók a spirituális gyakorlatok -- visszatérés az "igazi" önmagunkhoz, minden külső és felesleges sallang nélkül
+Érdemes a belső dialógusra is ugyanolyan párbeszédként tekinteni, mint amiket másokkal folytatunk -- csak hát ehhez még vitapartner sem kell.
+A Szókratészi vitamódszer keretében magunkat is kifaggathatjuk.
+Megvizsgálhatjuk az indíttatásainkat, a saját lelkiismeretünket, és egyenesbe hozhatjuk a következetlen szándékainkat, hogy még véletlen se maradjon semmi képmutatás.
 
+Szókratész (mint vérbeli tanár) nem a pénzt vagy a rangot tartotta küldetésének, hanem hogy mindenki másra hathasson.
+Hogy mondjuk ők se a pénzzel vagy a ranggal foglalkozzanak, hanem hogy jó emberek lehessenek.
+Folyamatosan dialógusokba keveredett a többi polgárral, hogy tudatosan arra vezesse őket, amerre menniük kellene -- és ne csak sodródjanak arra, amerre a vágyaik viszik őket.
 
+Na ezt (Szókratész híján) magunkkal is megtehetjük, ha "vezethetőek" vagyunk.
+És persze ha elég ügyesen választjuk meg az utat -- mert sok kis lépésben haladva oda is eljuthatunk, ahova egy nagy lépésben nem tudtunk volna.
+Nem az a lényeg ugye, hogy gyorsan érjünk célba egy érveléssel, hanem hogy célba érjünk.
+Ha ehhez kellenek köztes lépések, akkor használjuk őket!
 
-2: Dialógust tanulni
+Egy másik közös vonás a különböző iskolák tanaiban, hogy mind oldani próbálják a haláltól való félelmünket.
+A filozofálás a test vágyainak különválasztása a lélektől, így a halál (amit itt a test és a lélek különválásának értelmezünk) már nem is tűnik olyan félelmetesnek.
+Ha az életünkben is azon vagyunk, hogy a lelkünket helyezzük a test elé, akkor ezzel gyakorlatilag a halálra készülünk.
+A sztoikusok természetesnek (és nem mellesleg motivációs forrásnak), az epikureisták fájdalommentességnek, a platosnisták az egyetemes gondolattal való egyesülésnek tekintik -- a lényeg, hogy a halál sehol nem "rossz", csak az emberi vágyakhoz ragaszkodók szemében.
 
-- Szókratészi vitamódszer -- amihez nem feltétlen kell vitapartner
-    - magunkat is kifaggathatjuk
-    - megvizsgálhatjuk az indíttatásainkat, a saját lelkiismeretünket, és egyenesbe hozhatjuk a következetlen szándékainkat
-    - hogy még véletlen se legyen képmutatás
-- Szókratész (mint igazi tanár) küldetése nem a pénz vagy a rang, hanem hogy minden másra hathasson
-    - hogy mondjuk ők se a pénzzel vagy a ranggal foglalkozzanak, hanem hogy jó emberek lehessenek
-- folyamatos dialógusban kell lennünk magunkkal, hogy tudatosan arra vezessük magunkat, amerre menni szeretnénk (és ne csak sodródjunk arra, amerre a vágyaink visznek)
-    - kell, hogy vezethetőek legyünk
-    - és ügyesen kell megválasztani az utat is, mert ha elég kis lépésekben haladunk, akkor oda is eljuthatunk, ahova egy lépésben nem tudtunk volna
-        - nem az a lényeg, hogy gyorsan érjünk célba egy érveléssel, hanem hogy célba érjünk
-        - ha ehhez kellenek köztes lépések, akkor használjuk őket
+Ha az egyén helyett egy *univerzális* szemszögből vizsgáljuk a dolgokat, megláthatjuk, hogy egy ember életében igazából semmi materiális nem olyan fontos.
+Akkor a test vége miért lenne az?
+Ezzel pedig szépen kapcsolódunk a sztoikus "magasról letekintés" gyakorlatához, illetve a keleti meditációs vonalhoz is -- hiszen az individualitás csak illúzió, nem?
 
-    
-3: Megtanulni meghalni
-
-- a filozofálás a test vágyainak különválasztása a lélektől, így a halál (amit itt a test és a lélek különválásának értelmezünk) már nem is tűnik olyan félelmetesnek
-    - ha az életünkben is azon vagyunk, hogy a lelkünket helyezzük a test elé, akkor ezzel gyakorlatilag a halálra készülünk
-    - a sztoikusok természetesnek (és nem mellesleg motivációs forrásnak), az epikureisták fájdalommentességnek, a platosnisták az univezális gondolattal való egyesülésnek tekintik
-        - a lényeg, hogy sehol nem "rossz", csak az emberi vágyakhoz ragaszkodók szemében
-- ha az egyén helyett egy univerzális szemszögből vizsgáljuk a dolgokat, meglátjuk, hogy egy ember életében igazából semmi materiális nem olyan fontos
-    - akkor a test vége miért lenne az
-    - ezzel pedig szépen kapcsolódunk a sztoikus "magasról letekintéshez"
-    - és kapcsolódunk a meditációs vonalhoz is, hiszen az individualitás csak illúzió, nem?
-
-
-
-- a végcél persze elérhetetlen, de attól mi csak próbálkozzunk szorgalmasan
-    - az imposztor szindróma ugyanolyan gyakori lesz, mint bármilyen más "szakmában", de a törekvésünk a meghatározó
-    - hogy a hétköznapi, materiális világ ellenére is csináljuk ezeket a spirituális gyakorlatokat
-    - egy filozófus sem filozófus az élete minden pillanatában, de ettől még igyekezhet, hogy minél több pillanatban az legyen
-- vagyis az ókori filozófia eredendően praktikus, szinte önmagában is egy spirituális gyakorlat
-    - tekintsünk rá így, tegyük bele a munkát, és meglesz az eredménye
-
-> > Vauvenargues said, "A truly new and truly original book would be one which made people love old truths."
+A mitikus "filozófiai bölcsesség" végcélja persze elérhetetlen, de attól mi csak próbálkozzunk szorgalmasan.
+És habár az imposztor szindróma ugyanolyan gyakori lesz, mint bármilyen más szakmában, itt is a törekvésünk a meghatározó.
+Hogy a hétköznapi, materiális világ ellenére is csináljuk-e ezeket a spirituális gyakorlatokat.
+Egy filozófus sem filozófus az élete minden pillanatában -- de ettől még igyekezhet, hogy minél több pillanatban az legyen.
+Vagyis az ókori filozófia eredendően praktikus, szinte önmagában is egy spirituális gyakorlat.
+Tekintsünk rá így, tegyük bele a munkát, és meglesz az eredménye.
 
 <br>
 
@@ -284,23 +273,32 @@ A sztoikusokkal ellentétben itt azonban nem agyalunk a lehetséges rosszakon, h
 
 ## <a name="kereszteny"></a>A keresztény hagyaték
 
-- a kereszténység is filozófiának indult, ami ezáltal a spirituális gyakorlatokat is "bekebelezte" az ógörög tradíciókból
-    - Jézus jelentette a megtestesült Logos-t, aki igazából összefoglalta "az egy igaz" filozófiába azt, aminek eddig mindenki más csak darabjait sejtette
-- a papok alapvető hozzáállásbeli törekvése is a sztoikus bölcsekére hajazott
-    - önmagunkat ismerni és önmagunkat folyamatosan figyelni (nehogy hamis gondolatok lakhassanak bennünk)
-    - törekedni arra, hogy a természet (vagy felsőbb akarat) elvárásai szerint élhessünk -- csak itt már "Mit tenne Jézus" módon
-    - Isten jelenléte mindenben is ezt a folyamatos figyelmet jelképezi -- hogy folyton a helyes úton tartsuk magunkat, ne feledjük a Jót (nagy J-vel), stb.
-- ők is "motivációs eszközként" használták a halált, ami majd egyenesen tartja őket, pont mint Marcus vagy Epiktétosz
-    - éljünk minden napot az utolsóként, hogy ne kövessünk el bűnt
-    - és ez persze megint vonzza magával a jelen fontosságát is
-- ők is hasonlóan foglalták össze a tanaik lényegét parancsolatokba és tömör jelmondatokba, amiken aztán meditálni lehetett (hogy mindig kéznél legyen a helyes viselkedés az élet váratlan helyzeteiben)
-- önelemzés, napi/heti/havi/éves "review", hogy hogyan haladunk a tökéletlenségeinkkel -- ez is sokszor felmerül a sztoikus szövegekben
-    - vagy hogy írjunk le mindent, amit gondolunk/csinálunk, mert nyilvánosan úgysem bűnöznénk...
-- a spirituális tökéletesség a vágyak teljes hiánya -- *apatheia*
-    - és ezt a testtől való eltávolodásnak (és még a szintjeinek is) van görög megfelelője
+Az ókori filozófia (habár szerencsére kezd újra "divatba" jönni) sokáig szinte feledésbe merült a kereszténység árnyékában.
+Elvégre a kereszténység is "filozófiának" indult, ami így a spirituális gyakorlatokat is bekebelezte az ógörög tradíciókból.
+Jézus jelentette a megtestesült Logos-t, aki igazából összefoglalta az "egy igaz" filozófiába mindazt, aminek eddig mindenki más csak darabjait sejtette.
 
-- számomra a tanulság az, hogy egy helyes olvasat mellett a kereszténység és a görög filozófia kb. felcserélhető
-    - kinek melyik megfogalmazás és szimbolizmus teszi emészthetőbbé a mondanivalót
+A papok alapvető hozzáállásbeli törekvései egy az egyben a sztoikus bölcsekére hajazott:
+
+- Önmagunkat ismerni és önmagunkat folyamatosan figyelni (nehogy hamis gondolatok lakhassanak bennünk);
+
+- Törekedni arra, hogy a természet (vagy felsőbb akarat) elvárásai szerint élhessünk -- csak itt már "Mit tenne Jézus?" módon;
+
+- Isten állandó jelenléte is ezt a folyamatos figyelmet jelképezi -- hogy folyton a helyes úton tartsuk magunkat és ne feledjük a Jót (nagy J-vel);
+
+- "Motivációs eszközként" használni a halált, ami majd egyenesen tartja őket (pont mint Marcus vagy Epiktétosz);
+
+- Minden napot az utolsóként megélni, hogy ne kövessünk el bűnt -- ami persze megint vonzza magával a jelen fontosságát;
+
+- A tanaik lényegét parancsolatokba és tömör jelmondatokba összefoglalni -- amiken aztán meditálni lehetett (hogy mindig kéznél legyen a helyes viselkedés az élet váratlan helyzeteiben);
+
+- Napi/heti/havi/éves önelemzést tartani, hogy hogyan haladunk a tökéletlenségeinkkel;
+
+- Minden gondolatunkat és tettünket leírni, mert nyilvánosan úgysem bűnöznénk;
+
+- A spirituális tökéletességet a vágyak teljes hiányával (*apatheia*) azonosítani.
+
+Számomra a tanulság itt az (mint ahogy kb. [Joseph Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %}#a-vallási-tanulság) is mondta), hogy egy helyes olvasat mellett a kereszténység és a görög filozófia kb. felcserélhető.
+Kinek melyik megfogalmazás és szimbolizmus teszi emészthetőbbé a mondanivalót...
 
 <br>
 
@@ -331,12 +329,15 @@ A sztoikusokkal ellentétben itt azonban nem agyalunk a lehetséges rosszakon, h
 
 ## Összefoglalás
 
-- a lényeg, hogy a modern filozófia nagyon rossz benyomást kelt (és hamis képet fest) arról, hogy a sztoikusok például mit is gondoltak volna filozófiának
-    - régen nem csak az volt a filozófus, aki írt róla, vagy tanította... hanem aki úgy élt, ahogy azt a filozófia megkövetelné
-    - nem beszélni kell róla, hanem csinálni
-        - nem szabad megelégedni az agyalással
-        - nem szabad engedni, hogy a filozófia (a vallástól és spiritualitástól, mint életformáló hatásoktól teljesen elválva) csak egy absztrakt, elméleti keretrendszer legyen
-        - nem szabad hagyni, hogy a túlspecializálódás és az akadémiai légkör értelmetlenné tegye a filozófiát a közemberek számára
-    - egész konkrét, hétköznapi dolgokra kell vonatkoztatni az alapelveket -- enni, inni, házasodni, gyereket nevelni, részt venni a társadalomban, elviselni másokat... ezekben nyilvánul meg, hogy mennyire *éljük* az értékeinket
-- forgassuk hát a fent felsorolt spirituális gyakorlatokat és tartsuk mindig kéznél a helyes szemléletet
-    - legyen a filozófia újra egy életforma!
+A modern filozófia tehát nagyon rossz benyomást kelt (és hamis képet fest) arról, hogy a sztoikusok például mit is gondoltak volna filozófiának.
+Régen nem az volt a filozófus, aki írt róla, vagy tanította... hanem aki úgy élt, ahogy azt a filozófia megkövetelné.
+Nem beszélni kell róla, hanem csinálni.
+
+Nem szabad megelégedni az agyalással.
+Nem szabad engedni, hogy a filozófia (a vallástól és spiritualitástól, mint életformáló hatásoktól teljesen elválva) csak egy absztrakt, elméleti keretrendszer legyen.
+Nem szabad hagyni, hogy a túlspecializálódás és a krétaporos akadémiai légkör értelmetlenné tegye a filozófiát a közemberek számára!
+
+Egész konkrét, hétköznapi dolgokra kell vonatkoztatni az alapelveket -- vagyis hogy hogyan kell enni, inni, házasodni, gyereket nevelni, részt venni a társadalomban, elviselni másokat...
+Ezekben nyilvánul meg, hogy mennyire *éljük* meg az értékeinket.
+Forgassuk hát a fent felsorolt spirituális gyakorlatokat és tartsuk mindig kéznél a helyes szemléletet.
+Legyen a filozófia újra egy életforma!
