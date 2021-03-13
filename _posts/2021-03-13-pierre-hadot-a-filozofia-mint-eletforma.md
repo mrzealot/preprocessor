@@ -4,7 +4,8 @@ title: Pierre Hadot - A filozófia mint életforma
 pages: 320
 date: 2021-03-13 00:01
 excerpt: >
-    TODO
+    A sztoikus filozófiát feszegető "rovatunkban" ma egy modernebb elemzés felé fordulunk Pierre Hadot -- A filozófia mint életforma (eredetileg "Philosophy as a Way of Life") című könyve segítségével.
+    Ironikus módon azonban talán pont ez a modern szemszög juttat majd minket közelebb ahhoz, amit az ókori bölcsek valóban mondani szerettek volna.
 ---
 
 A sztoikus filozófiát feszegető "rovatunkban" ma egy modernebb elemzés felé fordulunk Pierre Hadot -- [A filozófia mint életforma](https://www.goodreads.com/book/show/305860.Philosophy_as_a_Way_of_Life){:target="_blank"} (eredetileg "Philosophy as a Way of Life") című könyve segítségével.
@@ -42,10 +43,10 @@ A tartalom a következőképp alakul:
 ## <a name="praktikus"></a>Praktikus filozófia
 
 Az ókori filozófusok pontos értelmezéséhez fontos tudni az irodalmi, szokásbeli, formai és egyéb megkötéseket, amik árnyékában alkottak.
-Mai fejjel azért tűnik nehéznek az ilyen szövegek értelmezése, mert jelentős hátrányból indul kapcsolódó háttértudásunk.
+Mai fejjel azért tűnik nehéznek az ilyen szövegek értelmezése, mert jelentős hátrányból indul a kapcsolódó háttértudásunk.
 Régen erős szerkezeti megkötések voltak a publikációkkal kapcsolatban -- és maguk a publikációk is eleve legtöbbször csak leképzései voltak a sokkal népszerűbb, *szóbeli* szónoklatoknak.
 
-Aki mondani akart valamit, az csak egy jól meghatározott keretrendszeren belül tehette.
+Aki tehát mondani akart valamit, az csak egy jól meghatározott keretrendszeren belül tehette ezt.
 Szóval hogy igazán megértsük a mondanivalóját, a hozzá tartozó keretrendszert sem ártana ismerni.
 Nehogy mondjuk beleolvassunk dolgokat, amik nincsenek ott, vagy átugorjunk dolgokat, amik a látszat ellenére jelentőségteljesek.
 Ezért (is) fontos mindig frissen és hozzáférhetően tartani a tudást -- régen is sok jót tudtak már, de az a jelenben nem segíthet, ha egyszerűen nem "megy át".
@@ -57,22 +58,23 @@ De még mélyebbre áshatunk, ha a konkrét formájából kiolvassuk azokat a sp
 A szerkezet a lélek [Epiktétosz]({% post_url 2021-02-13-epiktetosz-kezikonyvecskeje %}) által megállapított 3 funkciójára épül: az ítélőképességre, a vágyra, és a hajlamokra.
 Ezeket ő a kor három nagy filozófiai irányzatával (logika, fizika, etika) azonosította.
 Vagyis önmagunk (az ítéletünk, a vágyaink, és a hajlamaink) kordában tartása (logikával, fizikai tudással, és etikai "jósággal") vezet a helyes élethez.
-Ennek a praktikus vetületei, hogy hogyan gondolkozunk, hogy viszonyulunk a természethez, és hogyan viselkedünk az embertársainkkal -- a trió, ami Marcus gondolataiban is számtalanszor visszatér.
+Ennek a praktikus vetületei, hogy hogyan gondolkozunk, hogyan viszonyulunk a természethez, és hogyan viselkedünk az embertársainkkal -- a trió, ami Marcus gondolataiban is számtalanszor visszatér.
 De ennél mélyebbre vezet a nyúl ürege...
 
 Modern szemmel (hibásan) azt gondolhatjuk, hogy hozzánk hasonlóan a régiek is logikus rendszereket és dogmákat akartak felépíteni.
-De Hadot egyre inkább arra jött rá az irodalmi kötöttségek figyelembe vételével, hogy az ókori szövegek inkább egy mentális hatást szerettek volna kiváltani a hallgatóságban, és nem annyira a következetességre törekedtek.
+De az irodalmi kötöttségek figyelembe vételével Hadot számára egyre világosabbá vált, hogy az ókori szövegek inkább egy mentális hatást szerettek volna kiváltani a hallgatóságban, és nem annyira a következetességre törekedtek.
 Szerinte a filozófia célja az, hogy "formáljon, nem pedig hogy informáljon".
 Azért tűnnek botladozónak a szövegek, mert a változásunk folyamata sem tökéletes -- de ha végigvezetnek rajta, a kételyekkel és a zsákutcákkal együtt, akkor a végére jobban jövünk ki az utazásból.
 
 Így jutunk el a spirituális gyakorlatokig, amik:
 
-- Gyakorlatok, mert praktikusak voltak, erőfeszítést és edzést igényeltek, és megélni kellett őket; és
-- Spirituálisak, mert az egész lényünket, életmódunkat és világképünket formálták.
+- Gyakorlatok, mert praktikusak, erőfeszítést és edzést igényelnek, és *megélni* kell őket; illetve
+- Spirituálisak, mert az egész lényünket, életmódunkat és világképünket formálják.
 
 A sztoicizmusnak nem célja megmagyarázni az egész világot egy mindent **is** lefedő nagy elmélettel.
 Csak ("csak"...) összekapcsol pár olyan elvet és példát, amikkel a megfelelő irányba lökdösheti a követői lelkét és életét.
 Szóval ne a logikai hibákat keressük benne, hanem a hatást, ami segít élni -- és felkészülni a halálra!
+
 És Marcus Aurelius pontosan így is használta.
 Azért sok az ismétlés és látszólagosan össze-vissza az Elmélkedései felépítésében, mert ez nem egy modern publikálásra szánt iromány, hanem a saját spirituális gyakorlatainak jegyzetei.
 
@@ -81,8 +83,8 @@ Azért sok az ismétlés és látszólagosan össze-vissza az Elmélkedései fel
 
 A filozófus "idegen" a világban, mert egy olyan eszményképet követ, ami szinte összeegyeztethetetlen a hétköznapok őrületével.
 De mégis pont attól lesz igazi "bölcs", hogy összeegyezteti őket, és aktívan élni tud.
-Nem éri (és nem is nagyon érheti) el az eszményképet, de ő azért csak törekszik tovább.
-Ezt az összeegyeztetést innentől aztán mindenki máshogy oldja meg:
+Nem éri (és nem is nagyon ér*heti*) el az eszményképet, de ő azért csak törekszik tovább.
+Az összeegyeztetés részleteit innentől aztán mindenki máshogy oldja meg:
 
 - A sztoikusok (a nagy nehézség ellenére) megpróbálnak az őrült világban is erényesen élni;
 - Az epikureisták (a sztoikus feszültség ellentéteként) inkább minél relaxáltabban igyekeztek lenni a világi gondokkal kapcsolatban;
@@ -147,7 +149,7 @@ A sztoikus alaphozzáállás, miszerint a figyelmünk soha nem lankadhat.
 Mindig a jelenben vagyunk, tudatosan megéljük, és mindent szándékosan csinálunk.
 A jelenben maradással szabadítjuk meg magunkat a szenvedélyeinktől, mert azok mindig a múltra vagy a jövőre építenek (amikre nincs befolyásunk).
 A figyelem miatt tudunk majd azonnal "jól" reagálni az élet minden kihívására, mert kb. kéznél tartjuk a helyes hozzáállást.
-Mondhatni: ha folyamatosan készen állunk, akkor soha nem kell felkészülni...
+Mondhatni: ha folyamatosan készen állunk, akkor soha nem lesz szükség felkészülni...
 
 - **Meditáció**:
 Készítsük fel magunkat olyan dolgokra, amik még meg sem történtek, de megtörténhetnek.
@@ -170,15 +172,16 @@ Ne hagyjuk, hogy az objektív valóság helyett a benyomásaink vezessék a defi
 Ide tartozik a "magasból letekintés" gyakorlata is, ahol a szándékos fókusz eltávolítással próbáljuk objektívebbé tenni a képet -- ha messziről nézzük, úgy majd talán kevésbé színezi az érzékelésünket mindenféle szubjektív vélemény.
 
 - **Önuralom, Kötelességek elvégzése, Közöny a közömbös dolgok iránt**:
-Ezek pedig az elvek gyakorlatba ültetése, a viselkedésünk megreformálása.
+Ezek pedig az elvek gyakorlatba ültetései, a viselkedésünk "megreformálásai".
 A közöny például csak az alapszabály konkrét alkalmazása (miszerint ami nem ránk tartozik, azzal nem foglalkozunk).
 A céljuk, hogy szokásokat formáljanak, így érdemes a könnyebbektől a nehezebbek felé haladni.
 Ha megszokjuk, hogy adott helyzetekben hogyan "kell" viselkedni, akkor idővel egyre könnyebb lesz.
 
-A sztoikus filozofálás tehát aktív élni tanulás -- hogy hogyan élhetünk tudatosan és szabadon.
+A sztoikus filozofálás tehát aktív élni tanulás -- hogy hogyan telhetnek a napjaink tudatosan és szabadon.
 De nincs ebben semmi egyedülálló, a sztoikusok csak egy példa a sokból.
 Az epikureizmusnak is ugyanilyen "szigorú" gyakorlatai vannak (annak ellenére, hogy az állítólag a relaxálás művészete).
-Mert szerintük pont attól relaxálhatunk, ha elengedjük a szükségtelen vágyainkat és félelmeinket.
+Mert szerintük pont attól leszünk képesek relaxálni, hogy elengedjük a szükségtelen vágyainkat és félelmeinket.
+Ezen viszont dolgozni kell!
 A leghíresebb ide tartozó mantrájuk az ún. *tetropharmakos*, a négy részes gyógyír, miszerint:
 
 > Istentől nem kell félni, a halál miatt pedig nem kell aggódni. És míg a jó dolgok könnyen elérhetőek, a rosszak könnyen elviselhetőek.
@@ -234,7 +237,7 @@ Ha ehhez kellenek köztes lépések, akkor használjuk őket!
 Egy másik közös vonás a különböző iskolák tanaiban, hogy mind oldani próbálják a haláltól való félelmünket.
 A filozofálás a test vágyainak különválasztása a lélektől, így a halál (amit itt a test és a lélek különválásának értelmezünk) már nem is tűnik olyan félelmetesnek.
 Ha az életünkben is azon vagyunk, hogy a lelkünket helyezzük a test elé, akkor ezzel gyakorlatilag a halálra készülünk.
-A sztoikusok természetesnek (és nem mellesleg motivációs forrásnak), az epikureisták fájdalommentességnek, a platosnisták az egyetemes gondolattal való egyesülésnek tekintik -- a lényeg, hogy a halál sehol nem "rossz", csak az emberi vágyakhoz ragaszkodók szemében.
+A sztoikusok természetesnek (és nem mellesleg motivációs forrásnak), az epikureisták fájdalommentességnek, a platonisták az egyetemes gondolattal való egyesülésnek tekintik -- a lényeg, hogy a halál sehol nem "rossz", csak az emberi vágyakhoz ragaszkodók szemében.
 
 Ha az egyén helyett egy *univerzális* szemszögből vizsgáljuk a dolgokat, megláthatjuk, hogy egy ember életében igazából semmi materiális nem olyan fontos.
 Akkor a test vége miért lenne az?
@@ -275,9 +278,10 @@ Tekintsünk rá így, tegyük bele a munkát, és meglesz az eredménye.
 
 Az ókori filozófia (habár szerencsére kezd újra "divatba" jönni) sokáig szinte feledésbe merült a kereszténység árnyékában.
 Elvégre a kereszténység is "filozófiának" indult, ami így a spirituális gyakorlatokat is bekebelezte az ógörög tradíciókból.
-Jézus jelentette a megtestesült Logos-t, aki igazából összefoglalta az "egy igaz" filozófiába mindazt, aminek eddig mindenki más csak darabjait sejtette.
+Jézus jelentette a megtestesült felsőbbrendű értelmet, aki igazából összefoglalta az "egy igaz" filozófiába mindazt, aminek eddig mindenki más csak darabjait sejtette.
 
-A papok alapvető hozzáállásbeli törekvései egy az egyben a sztoikus bölcsekére hajazott:
+És ezt nem is kimondottabban rejtették véka alá.
+A papok alapvető hozzáállásbeli törekvése egy az egyben a sztoikus bölcsekére hajazott:
 
 - Önmagunkat ismerni és önmagunkat folyamatosan figyelni (nehogy hamis gondolatok lakhassanak bennünk);
 
@@ -331,7 +335,7 @@ Kinek melyik megfogalmazás és szimbolizmus teszi emészthetőbbé a mondanival
 
 A modern filozófia tehát nagyon rossz benyomást kelt (és hamis képet fest) arról, hogy a sztoikusok például mit is gondoltak volna filozófiának.
 Régen nem az volt a filozófus, aki írt róla, vagy tanította... hanem aki úgy élt, ahogy azt a filozófia megkövetelné.
-Nem beszélni kell róla, hanem csinálni.
+Magyarán mondva: nem beszélni kell róla, hanem csinálni.
 
 Nem szabad megelégedni az agyalással.
 Nem szabad engedni, hogy a filozófia (a vallástól és spiritualitástól, mint életformáló hatásoktól teljesen elválva) csak egy absztrakt, elméleti keretrendszer legyen.
