@@ -7,63 +7,31 @@ excerpt: >
     TODO
 ---
 
-https://www.goodreads.com/book/show/7108725-start-with-why
+Bevallom, nem tudtam, mire számítsak Simon Sinek -- [Kezdj a miérttel!](https://www.goodreads.com/book/show/7108725-start-with-why){:target="_blank"} című könyvétől.
+De már annyi "legjobb" és "kedvenc" listán találkoztam vele, hogy kíváncsiságból előre vettem.
+Mint kiderült, egyszerre lefedi a havi "hagyományos önfejlesztés" és "marketing" kvótámat.
+És a tetejébe az a fajta könyv, ami egy relatíve egyszerű de mégis jelentőségteljes üzenettel egy csomó mindent más megvilágításba helyez.
 
-## Intro
+Sinek fő célja megtanítani nekünk, hogy hogyan inspiráljunk másokat -- vagyis hogy hogyan kommunikáljunk olyan módon, ami "át is megy".
+Az már csak mellékhatás, hogy ez pluszban a saját életcélunk kikristályosodásában is sokat segíthet.
+A három (visszatérő) nagy példája: a Wright testvérek, az Apple, és Martin Luther King.
+Mert habár semmi kimondottan "egyedi" nincs bennük, és a konkrét szavaik/tetteik relatíve egyszerűen utánozhatók, mégis kilógnak a követőik száma és lelkesedése miatt.
+Nem csak motiváltak (vásárlásra, szavazásra, munkára...), hanem inspiráltak.
+Nem azért követik őket, mert érdemes, vagy mert kell, hanem mert követni is *akarják* őket.
 
-- a könyv fő célja megtanítani nekünk, hogy hogyan inspiráljunk másokat
-    - hogy hogyan kommunikáljunk olyan módon, ami "át is megy"
-    - az már csak mellékhatás, hogy ez pluszban a saját életcélunk kikristályosodásában is sokat segíthet
-- a 3 nagy példa: Wright testvérek, Apple, Martin Luther King
-    - semmi kimondottan "egyedi" nincs bennük, és a konkrét szavaik/tetteik relatíve egyszerűen utánozhatók
-    - mégis kilógnak a követőik száma és lelkesedése miatt
-        - nem csak motiválták őket valamire (vásárlásra, szavazásra, munkára, stb.), hanem inspirálták őket
-        - nem azért követik őket, mert érdemes, vagy mert kell... hanem mert követni is *akarják* őket
-- a kulcs, hogy pont fordítva kommunikálnak, mint mások
-    - ha ezt mi is megtanuljuk tőlük, mi is valóra válthatjuk, amiben igazán hiszünk
-- nem fogja megmondani, hogy mit csináljunk, vagy hogy hogyan... ezek helyett arra fogunk koncentrálni (ami a cím alapján talán nem annyira meglepő), hogy **miért**
+Ennek a kulcsa pedig az, hogy pont fordítva kommunikálnak, mint mások.
+Ha ezt mi is megtanuljuk tőlük, mi is valóra válthatjuk, amiben igazán hiszünk.
+Azt persze nem fogja megmondani, hogy mit csináljunk, vagy hogy hogyan -- ezek helyett arra fogunk koncentrálni (ami a cím alapján talán nem annyira meglepő), hogy **miért**.
 
+A tartalom a következőképp alakul:
 
+- [Manipuláció kontra inspiráció](#manipulacio)
+- [Az "aranykör"](#aranykor)
+- [Biológiai háttér](#biologia)
+- [Megvalósítási tippek](#megvalositas)
+- [A siker veszélyei](#siker)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## I -- Egy világ, ami *nem* a miért-tel kezd
-
-### 1 -- Tegyük fel, hogy tudjuk
-
-- vigyázzunk, hogy miről hisszük, hogy tudjuk
-    - gyűjthetünk mi akármennyi adatot, ha egy rossz feltételezésre építjük a döntéseinket, akkor köthetünk ki nagyon rossz helyen
-    - vagy köthetünk ki jó helyen úgy is, hogy rossz (értsd, rövid távú) stratégiákat alkalmaztunk
-    - ilyenkor érdemes nem még több adatot gyűjteni, hanem az alapvető feltételezéseinket megkérdőjelezni
-
-### 2 -- A répa és a bot
-
-- minden termékhez van egy valag másik, ami kb. ugyanazt tudja, kb. ugyanazon az áron, kb. ugyanolyan minőségben...
-    - az emberek mégis azzal magyarázzák a hűségüket egy-egy márkához, hogy az jobb, olcsóbb, minőségibb
-    - vagyis valószínűleg mi magunk sem tudjuk, miért állunk valami mögé (és persze a cégek sem, hogy miért állunk mögéjük)
-    - így pedig elég nehéz "jobban" csinálni, amit csinálnak, ha egyszer azt sem tudják, hogy mit csinálnak
-- manipuláció vs. inspiráció
-    - árak, promóciós ajánlatok, félelem, aspirációk, szociális nyomás, újdonság
-        - az "akció spirál" csak akció-függőket csinál a vevőkből, amivel hosszú távon a saját sírunkat ássuk
-        - a másik a félelem, amivel a termékek mellett a hírek és a politikusok is manipulálnának
-            - igazából még az aspirációs üzenetek is ide tartoznak, csak a másik oldalról
-            - mert hiába hirdetik azt, hogy valamit megkaphatsz, mert csak a termékükkel/módszerükkel/stb. kaphatod meg... ami miatt félünk majd, hogy önállóan arra nem is lennénk képesek
-            - sőt, még a szociális nyomás is ide sorolható, mert ott is attól félünk, hogy kilógunk, vagy hogy nincs igazunk a többséggel szemben
-        - az újdonságnál pedig ne keverjük az innovációt (ami iparágakat, vagy akár a világot is megváltoztathatja) az legfrissebb csillogó kütyüvel (ami persze lehet sikeres, de csak a következő, még frissebb kütyüig)
-    - ezek soha nem lesznek tartósak, mert inkább vezetnek tranzakciókhoz, mint hűséghez...
-        - ez nyilván nem hátrány, ha eleve az a célunk, hogy a tranzakciók számát növeljük, mert úgysem lenne belőle tartós kapcsolat
-        - de attól hogy ez a hozzáállás működik, még nem lesz "helyes"... lehetne ezt másképp is
+<br>
 
 
 
@@ -79,37 +47,97 @@ https://www.goodreads.com/book/show/7108725-start-with-why
 
 
 
+## <a name="manipulacio"></a>Manipuláció kontra inspiráció
+
+Minden termékhez és szolgáltatáshoz van egy valag másik, ami kb. ugyanazt tudja, kb. ugyanazon az áron, kb. ugyanolyan minőségben.
+Az emberek mégis azzal magyarázzák a hűségüket egy-egy márkához, hogy az jobb, olcsóbb, és minőségibb.
+Vagyis valószínűleg mi magunk sem tudjuk, miért állunk valami mögé -- és persze a cégek sem, hogy miért állunk mögéjük.
+Így pedig elég nehéz "jobban" csinálni, amit csinálnak, ha egyszer azt sem tudják, hogy mit csinálnak jól.
+
+Ilyenkor hajlamosak sokan az inspiráció helyett mindenféle manipulációs stratégiára hagyatkozni.
+Na nem feltétlen rossz szándékból!
+Lehet, hogy csak egyszerűen nincs jobb ötletük.
+Kedvezőbb árak, promóciós ajánlatok, félelem, aspirációk, szociális nyomás, újdonság -- bármit, hogy pénz csikarhassanak ki belőlünk.
+Még akkor is, ha ezek hosszú távon bizonyítottan nem vezetnek semmi jóra.
+
+- Az "akció spirál" például csak akció-függőket csinál a vevőkből, akiknek így normál áron eszük ágában nem lesz vásárolni.
+
+- A másik a félelem, amivel a termékek mellett a hírek és a politikusok is manipulálnának, és ami szintén nem kimondottabban fenntartható.
+
+- Igazából még az aspirációs üzenetek is a félelemhez tartoznak, csak a másik oldalról: hiába hirdetik azt, hogy valamit megkaphatunk, mert csak az ő termékükkel/módszerükkel/stb. kaphatjuk meg!
+A háttérben ott van, hogy önállóan arra nem lennénk képesek.
+
+- Sőt, még a szociális nyomás is ide sorolható, mert ott meg attól félünk, hogy kilógunk, vagy hogy nincs igazunk a többséggel szemben.
+
+- Az újdonságnál pedig ne keverjük az innovációt (ami iparágakat, vagy akár a világot is megváltoztathatja) a legfrissebb "csillogó kütyüvel" -- ami persze lehet sikeres, de csak a következő, még frissebb és még csillogóbb kütyüig.
+
+Ezek soha nem lesznek tartósak, mert inkább vezetnek tranzakciókhoz, mint hűséghez.
+Ez nyilván nem feltétlenül hátrány, ha eleve az a célunk, hogy a tranzakciók számát növeljük (mondjuk mert úgysem lenne belőle tartós kapcsolat).
+De attól, hogy ez a hozzáállás működik, még nem lesz "helyes".
+Lehetne ezt másképp is...
+
+<br>
 
 
 
 
-## II -- Egy másik nézőpont
 
-### 3 -- Az "aranykör"
 
-- why > how > what
-- mint ahogy az aranymetszés rendet talál a természet látszólagos véletlenszerűségében, úgy az "aranykör" Sinek állítása szerint rendet talál az emberi viselkedésben
-    - segít megmagyarázni, hogy miért is van/volt akkora sikere például az Apple-nek, Martin Luther King-nek, vagy a Wright testvéreknek
-- azt kb. mindenki tudja, hogy MIT csinál -- ez látszik a felszínen: mi a termék vagy szolgáltatás, amit kínál
-- azt már kevesebben tudják, hogy HOGYAN csinálják, amit csinálnak -- miben mások a többiektől, milyen plusz értéket nyújtanak, stb.
-- a legkevesebben pedig azt tudják, hogy MIÉRT csinálják, amit csinálnak
-    - és nem, a pénz vagy a profit nem válasz, mert az már csak az eredmény (mint ahogy ezt Druckernél is tárgyaltuk)
-    - inkább hogy miben hisznek? miért létezik a cég/szervezet egyáltalán? miért kelnek fel reggelente -- és ez másokat miért is érdekeljen?
-- a többség kívülről befelé kommunikál
-    - egy Apple példán keresztül: "Nagyszerű számítógépeket gyártunk. (MIT) Gyönyörűen megtervezettek, egyszerűen használhatók és felhasználóbarátak. (HOGYAN) Vegyél egyet!"
-    - a MIÉRT-ig legtöbbször már el sem jutunk
-- ezzel szemben az inspiráló vezetők belülről kifelé kommunikálnak
-    - "Bármit is teszünk, azt a status quo megbillentésére tesszük. Hiszünk benne, hogy érdemes másként gondolkozni. (MIÉRT) Úgy támadjuk a status quo-t, hogy (a többiekkel ellentétben) gyönyörűen megtervezett, egyszerűen használható és felhasználóbarát termékeket gyártunk. (HOGYAN) Jelen esetben ez a termék épp egy nagyszerű számítógép. (MIT) Akarsz venni egyet?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="aranykor"></a>Az "aranykör"
+
+Mint ahogy az aranymetszés rendet talál a természet látszólagos véletlenszerűségében, úgy az "aranykör" Sinek állítása szerint rendet talál az emberi viselkedésben.
+Segít megmagyarázni, hogy miért is van/volt akkora sikere például az Apple-nek, Martin Luther King-nek, vagy a Wright testvéreknek.
+Na jó, de ugye *mi* is az?
+Legegyszerűbben:
+
+<p style="text-align: center;"><b>MIT < HOGYAN < MIÉRT</b></p>
+
+Azt kb. mindenki tudja, hogy MIT csinál, hiszen ez látszik a felszínen: mi a termék vagy szolgáltatás, amit kínál.
+Azt már kevesebben tudják, hogy HOGYAN csinálják, amit csinálnak, vagyis miben mások a többiektől, milyen plusz értéket nyújtanak, stb.
+A legkevesebben pedig azt tudják, hogy MIÉRT csinálják, amit csinálnak.
+És nem, a pénz vagy a profit nem válasz, mert az már csak az eredmény (mint ahogy ezt [Druckernél]({% post_url 2020-08-15-peter-drucker-menedzsment-alapok %}) is tárgyaltuk).
+Inkább hogy miben hisznek?
+Miért létezik a cég/szervezet egyáltalán?
+Miért kelnek fel reggelente -- és ez másokat miért is érdekeljen?
+
+Mint látjuk, a fontossági sorrend szépen megfordul.
+Azt csinálják sokan és jól, ami a legkevésbé számít, illetve azt csinálják kevesen és rosszul, ami viszont számítana.
+A többség sajnos a MIT &#8658; MIÉRT irányba kommunikál -- és így a MIÉRT-ig legtöbbször már el sem jutunk.
+Egy Apple példán keresztül:
+
+> Nagyszerű számítógépeket gyártunk. (MIT) Gyönyörűen megtervezettek, egyszerűen használhatók és felhasználóbarátak. (HOGYAN) Vegyél egyet!
+
+Ezzel szemben az inspiráló vezetők épp hogy a MIÉRT &#8658; MIT irányba kommunikálnak.
+Ha mondjuk átírnánk a fenti Apple példát, egyből ez lenne belőle:
+
+> Bármit is teszünk, azt a status quo megbillentésére tesszük. Hiszünk benne, hogy érdemes másként gondolkozni. (MIÉRT) Úgy támadjuk a status quo-t, hogy (a többiekkel ellentétben) gyönyörűen megtervezett, egyszerűen használható és felhasználóbarát termékeket gyártunk. (HOGYAN) Jelen esetben ez a termék épp egy nagyszerű számítógép. (MIT) Akarsz venni egyet?
+
+Hát nem rögtön más?
+A MIT jó esetben "csak" a konkrét, kézzelfogható bizonyítéka a MIÉRT-ünknek.
+Mindez persze nem jelenti, hogy a MIT vagy a HOGYAN nem számítanak -- mert ha ezekkel gond van, az az egészre kihat.
+De önmagukban nem elegek egy tisztán és érthetően kommunikált MIÉRT nélkül.
 
 > Az emberek nem azt veszik meg, AMIT csinálsz, hanem AMIÉRT csinálod.
 > > People don't buy WHAT you do, they buy WHY you do it.
 
-- a MIT csak a konkrét, kézzelfogható bizonyítéka a MIÉRTnek
-- mellesleg ezért nehéz más piacokra is betörni -- ha azzal azonosítottuk magunkat, hogy MIT csinálunk, akkor amint valami másba fogunk, az senkit nem fog érdekelni
-    - ha viszont arra koncentrálunk, hogy MIÉRT létezünk, akkor annak már könnyebben lehetnek más megtestesülései is
-- mindez persze nem jelenti, hogy a MIT vagy a HOGYAN nem számítanak... mert ha ezekkel gond van, az az egészre kihat
-    - de önmagukban nem elegek egy MIÉRT nélkül
+Mellesleg ezért nehéz más piacokra is betörni -- ha azzal azonosítottuk magunkat, hogy MIT csinálunk, akkor amint valami másba fogunk, az senkit nem fog érdekelni.
+Ha viszont arra koncentrálunk, hogy MIÉRT létezünk, akkor annak már könnyebben lehetnek más megtestesülései is.
 
+<br>
 
 
 
@@ -133,29 +161,32 @@ https://www.goodreads.com/book/show/7108725-start-with-why
 
 
 
-### 4 -- Ez nem vélemény, ez biológia
+### <a name="biologia"></a>Biológiai háttér
 
-- a megérzéseinket pont azért nem tudjuk jól szavakba önteni, mert nem a tudatos agyunkból származnak
-    - az elcsépelt MIT részt a neocortex-ünk (vagyik kb. a tudatos agyunk) dolgozza fel, de a miértre inkább a limbikus rendszerünk (vagyis kb. az régi, "állati" agyunk) reagál
-    - és mivel ott születnek a viselkedésünkért és döntéseinkért felelős érzések, ezért eleve ezt kellene megcélozni
-        - az már más kérdés, hogy utána ezt az új döntésünket vagy viselkedésünket milyen tudatos érvekkel magyarázzuk majd magunknak
-        - de érezni azt fogjuk, hogy így a helyes
-- szóval ha valakiben kétségek maradnak a termékünkkel/szolgáltatásunkkal kapcsolatban, akkor az legtöbbször nem azért van, mert nem mellékeltünk elég konkrétumot
-    - hanem mert nem kommunikáltuk elég tisztán, hogy MIÉRT van erre szüksége
-    - ha azt érti, akkor a többiről ő már jobban meggyőzi magát, mint bárki más
-- ezért sem érdemes túlértékelni, hogy aztán a vásárlók mit mondanak a vásárlásuk okáról
-    - mert azzal leginkább a racionalizálásukat ismerhetjük meg, és nem azt, hogy első sorban mit fogta meg őket
-- szemléletes példa: az öblítők sokáig azzal a szlogennel reklámoztak, hogy "fehérebb fehérek, színesebb színek", mert hát mindenki ezt várta el egy öblítőtől
-    - de igazából a friss illat dobott rajta nagyot -- mert attól **érződött** tisztának az eredmény
-    - senki nem állt neki lámpa mellett hasonlítgatni a fehérek fehérségét, viszont szinte mindenki rögtön beleszippantott a frissen mosott ruhába
-    - csak hát ezt a vásárlók nem fogják tudni lekommunikálni felénk...
-- vagy visszatérve az Apple példára: egy MacBook vagy iPhone használó sem fogja azt a képedbe mondani, hogy "nagyon tudok azonosulni az Apple status quo megbillentési hozzáállásával, és ezért szeretném olyan emberekkel és termékekkel körülvenni magam, amik ezt tükrözik"
-    - pedig valójában valami ilyesmi lehet a háttérben -- mert az ár, a teljesítmény, vagy a kompatibilitás szemszögéből biztos talált volna jobb alternatívát is
+A megérzéseinket pont azért nem tudjuk jól szavakba önteni, mert nem a tudatos agyunkból származnak.
+Az elcsépelt MIT részt a neocortex-ünk (vagyis kb. a tudatos agyunk) dolgozza fel, de a MIÉRT-re inkább a limbikus rendszerünk (vagyis kb. az régi, "állati" agyunk) reagál.
+És mivel ott születnek a viselkedésünkért és döntéseinkért felelős érzések, ezért az inspirációhoz eleve ezt kellene megcélozni.
+Az már más kérdés, hogy utána ezt az új döntésünket vagy viselkedésünket milyen tudatos érvekkel magyarázzuk majd magunknak -- de **érezni** azt fogjuk, hogy így a helyes.
 
+Szóval ha valakiben kétségek maradnak a termékünkkel/szolgáltatásunkkal kapcsolatban, akkor az legtöbbször nem azért van, mert nem mellékeltünk elég konkrétumot.
+Hanem mert nem kommunikáltuk elég tisztán, hogy MIÉRT van erre szüksége.
+Ha azt érti, akkor a többiről ő már jobban meggyőzi magát, mint bárki más...
 
+Ezért sem érdemes túlértékelni a piackutatásoknál, hogy aztán a vásárlók mit mondanak majd a vásárlásuk okáról.
+Hiszen azzal leginkább a racionalizálásukat ismerhetjük meg, és nem azt, hogy első sorban mi fogta meg őket.
+Szemléletes példa erre az öblítők esete, amiket sokáig azzal a szlogennel reklámoztak, hogy "fehérebb fehérek, színesebb színek".
+Mert hát mindenki ezt várta el egy öblítőtől, nem?
+De igazából a friss illat dobott rajta nagyot -- mert attól **érződött** tisztának az eredmény.
+Senki nem állt neki lámpa mellett hasonlítgatni a fehérek fehérségét, viszont szinte mindenki rögtön beleszippantott a frissen mosott ruháiba.
+Csak hát ezt a vásárlók nem fogják tudni lekommunikálni felénk, mert tudatos szinten valószínűleg ők maguk sincsenek tisztában vele. (Hehh, tisztában... Ééérted?!)
 
+Vagy visszatérve az Apple példára: egy MacBook vagy iPhone használó sem fogja azt a képünkbe mondani, hogy "nagyon tudok azonosulni az Apple status quo elleni hozzáállásával, és ezért szeretném olyan emberekkel és termékekkel körülvenni magam, amik ezt tükrözik".
+Pedig valójában valami ilyesmi lehet a szimpátiája hátterében -- mert pusztán az ár, a teljesítmény, vagy a kompatibilitás szemszögéből biztos talált volna jobb alternatívát is.
 
+Mindezzel Sinek arra próbál rámutatni, hogy az aranykörös elmélete szépen passzol az agyunk biológiai felépítéséhez.
+Ha mélyebb, a viselkedésre is kiható változást szeretnénk elérni, akkor az értelem helyett az érzelem szintjén kell kommunikálni -- ehhez pedig kell a MIÉRT!
 
+<br>
 
 
 
@@ -176,75 +207,64 @@ https://www.goodreads.com/book/show/7108725-start-with-why
 
 
 
-### 5 -- Letisztultság, fegyelem, és következetesség
 
-- attól, hogy (helyesen) a MIÉRT-tel kezdünk, még nem szabad elhanyagolni a többi részt sem
-- a MIÉRT adja meg a letisztulást, amitől majd tudjuk, mi a fontos és mi nem
-    - ezek a hiteink, az értékrendünk, az üzenetünk, amiért kiállunk
-- a HOGYAN adja a rendszereket és folyamatokat, amivel a MIÉRT-ünk a gyakorlatba ültethető
-    - és aztán ez lesz az igazán nehéz rész: hogy ehhez a HOGYAN-hoz tartsuk magunkat
-        - ezt tesszük a MIÉRT-ünk megvalósításáért
-    - mert a hosszú távú sikerhez sokszor rövid távú kudarcokon keresztül vezet az út
-    - és lesz kiskapu, amivel levághatnánk az utat... de "az úton" tartjuk magunkat, akkor nem fogjuk
-- a MIT pedig a tetteink eredménye, ami remélhetőleg konzisztens mind a MIÉRT-tel, mind a HOGYAN-nal
-    - itt jön be az integritás
 
-- ha egyensúlyban van az aranykör, akkor ott autentikusak leszünk és bizalmat tudunk majd építeni
-    - mindenben tisztán látszani fog a MIÉRT-ünk, és ha ez valakivel kompatibilis, akkor ő hozzánk fog húzni
-    - még akár egy jobb konkurencia vagy személyes kellemetlenség ellenére is
-    - mert ezzel bizonyítja, hogy ő abban hisz, amiben mi is
-        - vagyis természetesen a vevő szemében ez sem rólunk szól, hanem róla
-        - mi csak megkönnyítjük neki, hogy "önmegvalósíthasson" általunk
-- ha viszont nincs egyensúlyban az aranykörünk, akkor ott vagyunk, ahol a part szakad, és maradnak a manipulációs technikák
+## <a name="megvalositas"></a>Megvalósítási tippek
 
+<!-- ### 5 -- Letisztultság, fegyelem, és következetesség -->
 
+Természetesen attól, hogy (helyesen) a MIÉRT-tel kezdünk, még nem szabad elhanyagolni a többi részt sem:
 
+- A **MIÉRT** adja meg a *letisztultságot*, amitől majd tudjuk, mi a fontos és mi nem.
+Ezek a hiteink, az értékrendünk, és az üzenetünk, amiért teljes vállszélességben kiállunk.
 
-## III -- A vezetőknek követők kellenek
+    Persze ennek a MIÉRT-es extra hatásnak ára van: az emberek többet is fognak várni tőlünk -- és egy magasabb színvonalat fenntartani nem könnyű!
+    Szóval ha nem hiszünk benne igazán, és nem testesítjük meg az értékeit, akkor nagyot borulhat az egész.
+    Ha viszont igen, akkor ez adja majd az alapot minden továbbihoz.
 
-### 6 -- A bizalom kialakulása
+    > Azok a cégek, ahol a MIÉRT tiszta, általában teljesen figyelmen kívül hagyják a versenytársaikat, míg a hományos MIÉRT-ű cégek folyton azzal foglalkoznak, hogy mások mit csinálnak.
+    > > Companies with a clear sense of WHY tend to ignore their competition, whereas those with a fuzzy sense of WHY are obsessed with what others are doing.
 
-- Continental story --> alkalmazottak > vevők > részvényesek
-- culture fit
-    - mindenki tud lelkes lenni, csak nem mindegy, miért
-    - alkalmazottak, társak, stb. keresésénél is ugyanolyan fontos, hogy a MIÉRT-tel kezdjünk
+- Ezután a **HOGYAN** adja a rendszereket és a folyamatokat, amikkel a MIÉRT-ünk a gyakorlatba ültethető.
+És ez lesz ám az igazán nehéz rész: hogy ehhez a HOGYAN-hoz *fegyelmezetten* tartsuk magunkat.
+Mert a hosszú távú sikerhez sokszor rövid távú kudarcokon keresztül vezet az út.
+Lesz kiskapu, amivel levághatnánk az utat -- de ha a MIÉRT tiszta, akkor az "úton" tartjuk magunkat.
 
-> > Companies with a clear sense of WHY tend to ignore their competition, whereas those with a fuzzy sense of WHY are obsessed with what others are doing.
+    A konkrét karrierünk majdnem mindegy, ha ki tudjuk benne élni a MIÉRT-ünket!
+    De ettől ha konkrét, kézzel fogható eredményt szeretnénk kihozni a MIÉRT-ünkből, akkor azért azt sem ártana tudni, hogy HOGYAN.
+    Ha ez egyedül nem megy, akkor ne szégyelljünk egy HOGYAN-hozzáállásúbb társat (vagy többesszámban társ**ak**at) keresni magunk mellé.
 
-- cirkuszos háló hasonlat: ha van védőháló, akkor merünk újítani és próbálkozni, ami az egész közösségnek jó
-    - ehhez kell a bizalom, amihez viszont a MIÉRT-eken keresztül kell kapcsolódni, nem csak "tranzakcionálisan" a MIT-eken keresztül
+- A **MIT** pedig a tetteink eredménye, ami remélhetőleg konzisztens mind a MIÉRT-tel, mind a HOGYAN-nal.
+Itt jön képbe az integritás, hiszen a MIT-nél nem is annyira a konkrétumok számítanak, hanem a *következetesség*!
 
+    A MIT akár változhat is az évek/trendek során, de a MIÉRT jó esetben állandó.
+    A MIÉRT kommunikálásához sokszor sztorikat és szimbólumokat használunk -- mert a tudatos nyelv szintjén nehezebb.
+    És ha jól csináljuk, idővel a termékünk maga lesz a legfőbb ilyen szimbólum: a MIÉRT-ünk kézzel fogható megtestesülése.
 
-## IV -- Hogyan gyűjtsük össze azokat, akik hisznek
+<br>
 
-### 8 -- Kezdjünk a miérttel, de azért tudjuk, HOGYAN!
+Ha egyensúlyban van az aranykör, akkor nem csak autentikusak leszünk, de annak is fogunk látszani -- és ezzel bizalmat tudunk majd építeni.
+Mindenben tisztán látszani fog a MIÉRT-ünk, és ha ez valakivel kompatibilis, akkor ő könnyen mellénk csapódhat.
+Még akár egy jobb konkurencia vagy személyes kellemetlenség ellenére is!
+Mert ezzel bizonyítja (saját maga előtt is), hogy ő abban hisz, amiben mi is.
+Vagyis természetesen a vevő szemében ez az egész továbbra sem rólunk szól, hanem róla.
+Mi csak megkönnyítjük neki, hogy "önmegvalósíthasson" általunk.
 
-- a konkrét karrierünk majdnem mindegy, ha ki tudjuk benne élni a MIÉRT-ünket!
-    - de ettől ha konkrét, kézzel fogható eredményt szeretnénk kihozni a MIÉRT-ünkből, akkor azért azt sem ártana tudni, hogy HOGYAN
-    - ha ez egyedül nem megy, akkor ne szégyelljünk egy HOGYAN-társat (vagy társakat) keresni magunk mellé
-- persze a MIÉRT-es extra hatásnak ára van: az emberek többet fognak várni tőlünk
-    - egy magasabb színvonalat fenntartani nem könnyű
-    - szóval ha nem hiszünk benne igazán, és nem testesítjük meg az értékeit, akkor nagyot borulhat az egész
+Ne feledjük azonban, hogy a kommunikáció nem csak a beszédről, hanem a hallgatásról is szól.
+Vagyis az üzenetünk jelentését végső soron a külvilág határozza meg.
+Hogy nekik hogyan "jön le", amit közvetítünk.
+Emiatt lehet egy kiváló eszköz az ún. **zeller-teszt**, ami kb. a "látványos következetességet" figyeli.
 
-### 9 -- Tudd MIÉRT, tudd HOGYAN... és aztán MIT?
+Anekdota formájában úgy szerepel, mintha mások (a saját tapasztalataik alapján) különböző élelmiszereket javasolnának nekünk.
+Az egyik szerint M&M's cukorkát vegyünk, a másik szerint rizstejet, a harmadik szerint az Oreo keksznek nincs párja, míg a negyedik a zellert dicséri agyba-főbe.
+Ha ezután elmegyünk a boltba és mindből veszünk, az egy elég vegyes üzenetet küld a külvilág számára -- még akkor is, ha mi tényleg jó szándékból, mások sikere és tanácsa alapján döntöttünk így.
+Ha azt akarjuk, hogy már a kasszásnak is ránézésre egyértelmű legyen az értékrendünk, akkor vagy legyünk "édesszájúak" az M&M's-szel és az Oreo-val, vagy egészségtudatosak a rizstejjel és a zellerrel.
 
-- a MIT változhat az évek/trendek során, de a MIÉRT jó esetben állandó
-- a MIÉRT kommunikálásához sokszor sztorikat, szimbólumokat használunk (mert a tudatos nyelv szintjén nehezebb)
-    - és ha jól csináljuk, a termékünk lesz a legfőbb ilyen szimbólum
-    - a kézzel fogható eredménye a MIÉRT-ünknek, amit a HOGYAN-on megvalósítottunk
+Általános alakjában úgy foglalhatnánk össze, hogy habár minden helyzetben egy csomó "jó" tanács/opció/lehetőség létezik, **nekünk** ettől még nem lesz mindegyik jó.
+Ha a MIÉRT-tel kezdünk, akkor az ilyeneket könnyű lesz leszűrni -- és egy nagyobb szervezeten belül a többiek is könnyebben tudják majd szűrni.
 
-### 10 -- A kommunikáció nem a beszédről, hanem a hallgatásról szól
+<br>
 
-- egy jelképnek/szimbólumnak is a MIÉRT ad jelentést
-    - egy tiszta MIÉRT nélkül legfeljebb a cég/termék beazonosításában segít
-    - és nem, a minőség/kiszolgálás/innováció **nem** MIÉRT-ek... ezek csak egyre inkább a MIT-re terelik a figyelmet
-- de ha évekig kristálytisztán kommunikáljuk, hogy miben hiszünk, akkor a logónk idővel (jó esetben) azt kezdi majd szimbolizálni
-    - és aki egyetért vele, az ezt majd a logónkkal tudja/akarja közvetíteni a külvilág felé
-- de ne feledjük, hogy ezt a jelentést a külvilág határozza meg
-    - hogy nekik "lejön", hogy mit közvetítünk -- lásd fejezetcím :)
-- zeller-teszt (kb. a "látványos konzisztencia" tesztje)
-    - csomó jó tanács/opció/lehetőség létezik, de **nekünk** ettől még nem lesz mindegyik jó
-    - ha a MIÉRT-tel kezdünk, akkor az ilyeneket könnyű lesz leszűrni -- és egy nagyobb organizáción belül a többiek is könnyebben tudják majd szűrni
 
 
 
@@ -262,40 +282,40 @@ https://www.goodreads.com/book/show/7108725-start-with-why
 
 
 
-## V -- A siker a legnagyobb kihívás
 
-### 7 -- Mitől billen át az átbillenés?
 
-- terjedési haranggörbe
-    - a legtöbben középen vannak, akik viszont már csak akkor állnak be a sorba, ha már mások is beálltak
-    - szóval ha terjedni akarunk, akkor az úttörőkre és korai alkalmazókra kell fókuszálnunk
-- ezt pedig megint csak a MIÉRT-tel lehet
-    - ha az az üzenetünk tiszta, akkor azok fognak kapcsolódni, akik azzal egyetértenek
-    - ők viszont akkor nagyobb eséllyel vállalják cserébe a kezdeti kellemetlenségeket, és ajánlanak másoknak is
-- ha ezzel eljutunk egy bizonyos szintig (ami egyes kutatások szerint a piac kb. 15-18%-a), akkor onnantól már majd beindul az átbillenés, és a növekedés gyorsabbá (és nem mellesleg automatikussá) válik
-    - de csak a MIÉRT terjed, a MIT vagy a HOGYAN nem!
-    - és a MIÉRT is csak azért, mert azzal a terjesztők a **saját** hitüket hangoztathatják -- hozzánk nem sok köze, csak hogy tisztán lekommunikáltuk a MIÉRT-ünket
+## <a name="siker"></a>A siker veszélyei
 
-### 11 -- Amikor a miért homályossá válik
+Az üzenetünk terjedése (mint sok minden más) általában egy haranggörbén ábrázolható.
+A legtöbben középen vannak, és ők csak akkor állnak be a sorba, ha már előttük mások is elegen beálltak.
+Szóval ha terjedni akarunk, akkor az úttörőkre és a korai alkalmazókra kell fókuszálnunk!
 
-- Wal-Mart esettanulmány, ahol az alapító után szépen elfelejtették a MIÉRT-et
-    - és a HOGYAN-ra koncentrálás (olcsó) várhatóan a kizsákmányoláshoz vezetett
-- a siker veszélyes lehet, ha a MIT/HOGYAN fókusz miatt egyre jobban elvesztjük a MIÉRT-ünket
-    - siker vs. eredményesség
-    - és ez persze nem jelenti azt, hogy akkor ne legyünk eredményesek -- de vigyázzunk, hogy "sikeresen" legyünk eredményesek!
+Ezt pedig (meglepetés!) megint csak a MIÉRT-tel lehet.
+Ha az üzenetünk tiszta, akkor azok fognak elsők közt kapcsolódni, akik azzal egyetértenek.
+Ők viszont emiatt nagyobb eséllyel vállalják az egyetértésért cserébe a kezdeti kellemetlenségeket.
+Mi több, nagyobb eséllyel ajánlanak majd másoknak is.
 
-### 12 -- Amikor a MIÉRT és a MIT szétválik
+Ha ezzel eljutunk egy bizonyos szintig (ami egyes kutatások szerint a piac kb. 15-18%-a), akkor onnantól beindul az "átbillenés", és a növekedés gyorsabbá (és nem mellesleg szinte automatikussá) válik.
+De csak a MIÉRT terjed, a MIT vagy a HOGYAN nem!
+És a MIÉRT is csak azért, mert azzal a terjesztők a **saját** hitüket hangoztathatják -- hozzánk nem sok köze, csak hogy tisztán lekommunikáltuk a MIÉRT-ünket.
 
-- egy szép hasonlat: a MIT növekedése határozza meg, hogy milyen hangos az üzenetünk, a MIÉRT pedig hogy milyen tiszta
-    - ezért veszélyes a siker... ahogy egyre hangosabbak leszünk, úgy egyre zajosabbak is (mert a MIÉRT közben elveszti a fókuszt)
-- nagyon fontos, hogy mit mérünk -- és hogy az milyen viszonyban van a MIÉRT-ünkkel
-    - a MIT könnyű mérni, de ez nem jelenti, hogy azt is *kellene* mérni
-    - és fordítva: attól, hogy a MIÉRT-et nehéz mérni, még nem jelenti, hogy *nem* azt kellene
-    - vagyis egy újabb figyelem felhívás a híres [McNamara tévedés](https://en.wikipedia.org/wiki/McNamara_fallacy) ellen
-- ha egy szervezet vezetőt vált, akkor is nagyon kell figyelni, hogy nehogy a MIÉRT bánja
+És hogy mi itt a veszély?
+Az, hogy a siker (és a vele járó megnövekedett érdeklődés/tempó/bevétel/lehetőségek/stb.) miatt önkéntelenül is egyre inkább a MIT és a HOGYAN lesz fókuszban.
+Emiatt pedig elhomályosodhat a MIÉRT-ünk -- sőt, rossz esetben el is veszthetjük út közben.
 
+Vigyázzunk, hogy ne keverjük a sikert az eredményességgel!
+Mert míg az egyiknél a MIÉRT-ünket éljük ki, addig a másiknál legfeljebb a HOGYAN-unkat.
+Elvégre még olyankor is sokáig dőlhet a pénz vagy az érdeklődés, amikor már rossz irányba fordultunk.
+Amikor például már a bevétel lett a fontos a mögöttes üzenet helyett.
+Ez persze nem jelenti azt, hogy akkor ne legyünk eredményesek -- de vigyázzunk, hogy "sikeresen" legyünk eredményesek!
 
+Egy szép hasonlattal élve: a MIT növekedése határozza meg, hogy milyen hangos az üzenetünk, a MIÉRT pedig azt, hogy milyen tiszta.
+És ahogy egyre hangosabbak leszünk, úgy általában egyre zajosabbak is (mert a MIÉRT közben elveszti a fókuszt).
+Nagyon fontos tehát, hogy mit mérünk -- és hogy az milyen viszonyban van a MIÉRT-ünkkel.
+A MIT tulajdonságait könnyű mérni, de ez nem jelenti, hogy azt is *kellene* mérni.
+És fordítva: attól, hogy a MIÉRT-hez való igazodást nehéz mérni, még nem jelenti, hogy nem *azt* kellene (lásd [McNamara tévedés](https://en.wikipedia.org/wiki/McNamara_fallacy)).
 
+<br>
 
 
 
@@ -315,9 +335,11 @@ https://www.goodreads.com/book/show/7108725-start-with-why
 
 
 
-## VI -- Találjuk meg a miért-ünket
+## Összefoglalás
 
-### 13 -- Egy MIÉRT eredete
+<!-- ## VI -- Találjuk meg a miért-ünket -->
+
+<!-- ### 13 -- Egy MIÉRT eredete -->
 
 - a MIÉRT-ünket az intuitív előretekintés helyett pont a múltunkban (a neveltetésünkben, az eddigi tapasztalatainkban) fedezhetjük fel
     - és aztán jön a nehéz rész, hogy tartsuk is magunkat hozzá
@@ -326,10 +348,10 @@ https://www.goodreads.com/book/show/7108725-start-with-why
     - újra meg kellett fogalmaznia magában, hogy MIÉRT is csinálja, amit csinál: hogy arra inspiráljon másokat, hogy ők is inspirálni tudjanak... I'm so meta...
 - és a MIÉRT-fókusz miatt (ugyanazzal a tapasztalattal és tudással, csak a más megfogalmazás és hozzáállás miatt) tényleg beütött a siker
 
-### 14 -- Az új verseny
+<!-- ### 14 -- Az új verseny -->
 
 - magunknál próbáljunk jobbak lenni, ne másoknál!
 
-### Outro
+<!-- ### Outro -->
 
 - vezetői szerep = vízió (egy olyan világról, ami még nem létezik) + annak a képessége, hogy ezt tisztán kommunikáljuk mások felé
