@@ -19,12 +19,12 @@ Sinek fő célja megtanítani nekünk, hogy hogyan inspiráljunk másokat -- vag
 Az már csak mellékhatás, hogy ez pluszban a saját életcélunk kikristályosodásában is sokat segíthet.
 A három (visszatérő) nagy példája: a Wright testvérek, az Apple, és Martin Luther King.
 Mert habár semmi kimondottan "egyedi" nincs bennük, és a konkrét szavaik/tetteik relatíve egyszerűen utánozhatók, mégis kilógnak a követőik száma és lelkesedése miatt.
-Nem csak motiváltak (vásárlásra, szavazásra, munkára...), hanem inspiráltak.
+Nem csak motiválnak (vásárlásra, szavazásra, munkára...), hanem inspirálnak.
 Nem azért követik őket, mert érdemes, vagy mert kell, hanem mert követni is *akarják* őket.
 
 Ennek a kulcsa pedig az, hogy pont fordítva kommunikálnak, mint mások.
 Ha ezt mi is megtanuljuk tőlük, mi is valóra válthatjuk, amiben igazán hiszünk.
-Azt persze nem fogja megmondani, hogy mit csináljunk, vagy hogy hogyan -- ezek helyett arra fogunk koncentrálni (ami a cím alapján talán nem annyira meglepő), hogy **miért**.
+Azt persze senki nem fogja megmondani, hogy mit csináljunk, vagy hogy hogyan -- ezek helyett arra fogunk koncentrálni (ami a cím alapján talán nem meglepő), hogy **miért**.
 
 A tartalom a következőképp alakul:
 
@@ -61,7 +61,7 @@ Ilyenkor hajlamosak sokan az inspiráció helyett mindenféle manipulációs str
 Na nem feltétlen rossz szándékból!
 Lehet, hogy csak egyszerűen nincs jobb ötletük.
 Kedvezőbb árak, promóciós ajánlatok, félelem, aspirációk, szociális nyomás, újdonság -- bármit, hogy pénz csikarhassanak ki belőlünk.
-Még akkor is, ha ezek hosszú távon bizonyítottan nem vezetnek semmi jóra.
+Még akkor is, ha ezek hosszú távon bizonyítottan nem vezetnek semmi jóra:
 
 - Az "akció spirál" például csak akció-függőket csinál a vevőkből, akiknek így normál áron eszük ágában nem lesz vásárolni.
 
@@ -102,7 +102,7 @@ Lehetne ezt másképp is...
 
 ## <a name="aranykor"></a>Az "aranykör"
 
-Mint ahogy az aranymetszés rendet talál a természet látszólagos véletlenszerűségében, úgy az "aranykör" Sinek állítása szerint rendet talál az emberi viselkedésben.
+Mint ahogy az [aranymetszés](https://hu.wikipedia.org/wiki/Aranymetsz%C3%A9s){:target="_blank"} rendet talál a természet látszólagos véletlenszerűségében, úgy az "aranykör" Sinek állítása szerint rendet talál az emberi viselkedésben.
 Segít megmagyarázni, hogy miért is van/volt akkora sikere például az Apple-nek, Martin Luther King-nek, vagy a Wright testvéreknek.
 Na jó, de ugye *mi* is az?
 Legegyszerűbben:
@@ -119,7 +119,7 @@ Miért kelnek fel reggelente -- és ez másokat miért is érdekeljen?
 
 Mint látjuk, a fontossági sorrend szépen megfordul.
 Azt csinálják sokan és jól, ami a legkevésbé számít, illetve azt csinálják kevesen és rosszul, ami viszont számítana.
-A többség sajnos a MIT &#8658; MIÉRT irányba kommunikál -- és így a MIÉRT-ig legtöbbször már el sem jutunk.
+A többség sajnos a MIT &#8658; MIÉRT irányba kommunikál -- és így a MIÉRT-ig legtöbbször már el sem jut.
 Egy Apple példán keresztül:
 
 > Nagyszerű számítógépeket gyártunk. (MIT) Gyönyörűen megtervezettek, egyszerűen használhatók és felhasználóbarátak. (HOGYAN) Vegyél egyet!
@@ -127,7 +127,7 @@ Egy Apple példán keresztül:
 Ezzel szemben az inspiráló vezetők épp hogy a MIÉRT &#8658; MIT irányba kommunikálnak.
 Ha mondjuk átírnánk a fenti Apple példát, egyből ez lenne belőle:
 
-> Bármit is teszünk, azt a status quo megbillentésére tesszük. Hiszünk benne, hogy érdemes másként gondolkozni. (MIÉRT) Úgy támadjuk a status quo-t, hogy (a többiekkel ellentétben) gyönyörűen megtervezett, egyszerűen használható és felhasználóbarát termékeket gyártunk. (HOGYAN) Jelen esetben ez a termék épp egy nagyszerű számítógép. (MIT) Akarsz venni egyet?
+> Bármit is teszünk, azt a status quo megbillentése érdekében tesszük. Hiszünk benne, hogy érdemes másként gondolkozni. (MIÉRT) Úgy támadjuk a status quo-t, hogy (a többiekkel ellentétben) gyönyörűen megtervezett, egyszerűen használható és felhasználóbarát termékeket gyártunk. (HOGYAN) Jelen esetben ez a termék épp egy nagyszerű számítógép. (MIT) Akarsz venni egyet?
 
 Hát nem rögtön más?
 A MIT jó esetben "csak" a konkrét, kézzelfogható bizonyítéka a MIÉRT-ünknek.
@@ -175,13 +175,13 @@ Szóval ha valakiben kétségek maradnak a termékünkkel/szolgáltatásunkkal k
 Hanem mert nem kommunikáltuk elég tisztán, hogy MIÉRT van erre szüksége.
 Ha azt érti, akkor a többiről ő már jobban meggyőzi magát, mint bárki más...
 
-Ezért sem érdemes túlértékelni a piackutatásoknál, hogy aztán a vásárlók mit mondanak majd a vásárlásuk okáról.
+Ezért sem érdemes túlértékelni a piackutatásoknál, hogy a vásárlók mit mondanak a vásárlásuk okáról.
 Hiszen azzal leginkább a racionalizálásukat ismerhetjük meg, és nem azt, hogy első sorban mi fogta meg őket.
 Szemléletes példa erre az öblítők esete, amiket sokáig azzal a szlogennel reklámoztak, hogy "fehérebb fehérek, színesebb színek".
 Mert hát mindenki ezt várta el egy öblítőtől, nem?
 De igazából a friss illat dobott rajta nagyot -- mert attól **érződött** tisztának az eredmény.
 Senki nem állt neki lámpa mellett hasonlítgatni a fehérek fehérségét, viszont szinte mindenki rögtön beleszippantott a frissen mosott ruháiba.
-Csak hát ezt a vásárlók nem fogják tudni lekommunikálni felénk, mert tudatos szinten valószínűleg ők maguk sincsenek tisztában vele. (Hehh, tisztában... Ééérted?!)
+Csak hát ezt a vásárlók nem fogják tudni lekommunikálni felénk, mert tudatos szinten valószínűleg ők maguk sincsenek tisztában vele. (Hehh, *tisztában*... Ééérted?!)
 
 Vagy visszatérve az Apple példára: egy MacBook vagy iPhone használó sem fogja azt a képünkbe mondani, hogy "nagyon tudok azonosulni az Apple status quo elleni hozzáállásával, és ezért szeretném olyan emberekkel és termékekkel körülvenni magam, amik ezt tükrözik".
 Pedig valójában valami ilyesmi lehet a szimpátiája hátterében -- mert pusztán az ár, a teljesítmény, vagy a kompatibilitás szemszögéből biztos talált volna jobb alternatívát is.
@@ -264,7 +264,7 @@ Ha ezután elmegyünk a boltba és mindből veszünk, az egy elég vegyes üzene
 Ha azt akarjuk, hogy már a kasszásnak is ránézésre egyértelmű legyen az értékrendünk, akkor vagy legyünk "édesszájúak" az M&M's-szel és az Oreo-val, vagy egészségtudatosak a rizstejjel és a zellerrel.
 
 Általános alakjában úgy foglalhatnánk össze, hogy habár minden helyzetben egy csomó "jó" tanács/opció/lehetőség létezik, **nekünk** ettől még nem lesz mindegyik jó.
-Ha a MIÉRT-tel kezdünk, akkor az ilyeneket könnyű lesz leszűrni -- és egy nagyobb szervezeten belül a többiek is könnyebben tudják majd szűrni.
+Ha a MIÉRT-tel kezdünk, akkor az ilyeneket könnyű lesz leszűrni.
 
 <br>
 
@@ -315,8 +315,8 @@ Ez persze nem jelenti azt, hogy akkor ne legyünk eredményesek -- de vigyázzun
 Egy szép hasonlattal élve: a MIT növekedése határozza meg, hogy milyen hangos az üzenetünk, a MIÉRT pedig azt, hogy milyen tiszta.
 És ahogy egyre hangosabbak leszünk, úgy általában egyre zajosabbak is (mert a MIÉRT közben elveszti a fókuszt).
 Nagyon fontos tehát, hogy mit mérünk -- és hogy az milyen viszonyban van a MIÉRT-ünkkel.
-A MIT tulajdonságait könnyű mérni, de ez nem jelenti, hogy azt is *kellene* mérni.
-És fordítva: attól, hogy a MIÉRT-hez való igazodást nehéz mérni, még nem jelenti, hogy nem *azt* kellene (lásd [McNamara tévedés](https://en.wikipedia.org/wiki/McNamara_fallacy)).
+A MIT tulajdonságait könnyű mérni, de ez nem jelenti, hogy azokat is *kellene* mérni.
+És fordítva: attól, hogy a MIÉRT-hez való igazodást nehéz mérni, még nem jelenti, hogy nem pont **azt** kellene (lásd [McNamara tévedés](https://en.wikipedia.org/wiki/McNamara_fallacy)).
 
 <br>
 
