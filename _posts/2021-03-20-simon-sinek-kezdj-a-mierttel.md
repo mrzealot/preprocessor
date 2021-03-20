@@ -4,7 +4,10 @@ title: Simon Sinek - Kezdj a miérttel!
 pages: 256
 date: 2021-03-20 00:01
 excerpt: >
-    TODO
+    Bevallom, nem tudtam, mire számítsak Simon Sinek -- Kezdj a miérttel! című könyvétől.
+    De már annyi "legjobb" és "kedvenc" listán találkoztam vele, hogy kíváncsiságból előre vettem.
+    Mint kiderült, egyszerre lefedi a havi "hagyományos önfejlesztés" és "marketing" kvótámat.
+    És a tetejébe az a fajta könyv, ami egy relatíve egyszerű de mégis jelentőségteljes üzenettel egy csomó mindent más megvilágításba helyez.
 ---
 
 Bevallom, nem tudtam, mire számítsak Simon Sinek -- [Kezdj a miérttel!](https://www.goodreads.com/book/show/7108725-start-with-why){:target="_blank"} című könyvétől.
@@ -337,21 +340,19 @@ A MIT tulajdonságait könnyű mérni, de ez nem jelenti, hogy azt is *kellene* 
 
 ## Összefoglalás
 
-<!-- ## VI -- Találjuk meg a miért-ünket -->
+Messziről nézve a könyv mondanivalója nagyon egyszerűen összefoglalható az aranykör hasonlatával.
+Elvégre minden törekvésünkre vonatkozik a MIÉRT, a HOGYAN, és a MIT is.
+És itt ugye "csak" annyit mondunk, hogy ezeket a MIÉRT oldala felől érdemes közelíteni.
 
-<!-- ### 13 -- Egy MIÉRT eredete -->
+Kicsit közelebbről nézve viszont remélem látszott, hogy ez mennyi mindenre kihathat:
 
-- a MIÉRT-ünket az intuitív előretekintés helyett pont a múltunkban (a neveltetésünkben, az eddigi tapasztalatainkban) fedezhetjük fel
-    - és aztán jön a nehéz rész, hogy tartsuk is magunkat hozzá
-- és a végére a személyes sztori
-    - hogy ment át a saját "split"-jén, hogy találta meg az összefüggést az aranykörös elmélete és a biológia között
-    - újra meg kellett fogalmaznia magában, hogy MIÉRT is csinálja, amit csinál: hogy arra inspiráljon másokat, hogy ők is inspirálni tudjanak... I'm so meta...
-- és a MIÉRT-fókusz miatt (ugyanazzal a tapasztalattal és tudással, csak a más megfogalmazás és hozzáállás miatt) tényleg beütött a siker
+- A manipuláció helyett így inspirálhatjuk a potenciális követőinket;
+- A biológiai háttér miatt mélyebb kapcsolódást (és viselkedés befolyásolást) érhetünk el; illetve
+- Még a sikerrel is jobban képesek leszünk "megbirkózni".
 
-<!-- ### 14 -- Az új verseny -->
-
-- magunknál próbáljunk jobbak lenni, ne másoknál!
-
-<!-- ### Outro -->
-
-- vezetői szerep = vízió (egy olyan világról, ami még nem létezik) + annak a képessége, hogy ezt tisztán kommunikáljuk mások felé
+Aki a MIÉRT-tel kezd, az tudja, hogy a vezetői szerepkör igazából egy vízió (egy olyan világról, ami még nem létezik), plusz annak a képessége, hogy ezt tisztán kommunikáljuk mások felé.
+Az szinte már csak mellékhatás, hogy ehhez először magunkban is le kell tisztáznunk a saját MIÉRT-ünket.
+Ha viszont ezt megtesszük...
+És következetesen tartjuk magunkat hozzá...
+És a másokra fókuszálás helyett magunknál próbálunk mindig jobbak lenni...
+Na akkor az igazi siker csak idő kérdése.
