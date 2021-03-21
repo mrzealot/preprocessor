@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+  {%- include header.html -%}
+
+  {% if page.layout == "home" %}
+  {%- include greeter.html -%}
+  {% endif %}
+  
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+  
+  {%- include subscribe.html -%}
+  {%- include footer.html -%}
+  {%- include search.html -%}
+  
+  <script src="{{ 'assets/js/jquery.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/multiquotes.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/theme.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/micromodal.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/hotkeys.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/typeahead.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/fuse.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/search.js' | relative_url }}"></script>
+  
+  {% if page.layout == "post" %}
+  <script src="{{ 'assets/js/nanobar.min.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/progress.js' | relative_url }}"></script>
+  {% endif %}
+
+  <!-- Cloudflare Web Analytics -->
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "50340a8e4b07462a9fe42b34a8f546cb"}'></script>
+
+  <!-- Panelbear Analytics - We respect your privacy -->
+  <script async src="https://cdn.panelbear.com/analytics.js?site=8TCrvl57u4X"></script>
+  <script>
+      window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+      panelbear('config', { site: '8TCrvl57u4X' });
+  </script>
+
+
+</body>
+
+</html>

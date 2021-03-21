@@ -30,10 +30,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme
   - jekyll-paginate
+# - jekyll-remote-theme
 
-remote_theme: mrzealot/minima
+# remote_theme: mrzealot/minima
 
 minima:
   list_title: Bejegyzések

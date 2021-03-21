@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+$brand-color:           #e8e8e8 !default;
+$brand-color-light:     lighten($brand-color, 40%) !default;
+$brand-color-dark:      darken($brand-color, 25%) !default;
+$brand-bg:              #222 !default;
+
+$text-color:            #e8e8e8 !default;
+$text-color-dark:       #ccc !default;
+$background-color:      #333 !default;
+$background-color-dark: #222 !default;
+$background-color-light: #444 !default;
+
+$code-background-color: #444 !default;
+$code-border-color:     #555 !default;
+
+$link-base-color:       #16cb46 !default;
+$link-visited-color:    darken($link-base-color, 0%) !default;
+$link-dark-color:       darken($link-base-color, 25%) !default;
+
+
+
+
+$day-brand-color:           #e8e8e8 !default;
+$day-brand-color-light:     lighten($brand-color, 40%) !default;
+$day-brand-color-dark:      darken($brand-color, 25%) !default;
+$day-brand-bg:              #222 !default;
+
+$day-text-color:            #333 !default;
+$day-text-color-dark:       #222 !default;
+
+$day-background-color:      #f5f5f5 !default;
+$day-background-color-dark: #ccc !default;
+$day-background-color-light: #fff !default;
+
+$day-code-background-color: #bbb !default;
+$day-code-border-color:     #aaa !default;
+
+$day-link-base-color:       #008000 !default;
+$day-link-visited-color:    darken($day-link-base-color, 0%) !default;
+$day-link-dark-color:       darken($day-link-base-color, 25%) !default;
+
+
+
+
+
+// light vs. dark mode
+
+html, html[data-theme="dark"] {
+  --brand-color: #{$brand-color};
+  --brand-color-light: #{$brand-color-light};
+  --brand-color-dark: #{$brand-color-dark};
+  --brand-bg: #{$brand-bg};
+
+  --text-color: #{$text-color};
+  --text-color-dark: #{$text-color-dark};
+  --background-color: #{$background-color};
+  --background-color-dark: #{$background-color-dark};
+  --background-color-light: #{$background-color-light};
+
+  --code-background-color: #{$code-background-color};
+  --code-border-color: #{$code-border-color};
+
+  --link-base-color: #{$link-base-color};
+  --link-visited-color: #{$link-visited-color};
+  --link-dark-color: #{$link-dark-color};
+}
+
+html[data-theme="light"] {
+  --brand-color: #{$day-brand-color};
+  --brand-color-light: #{$day-brand-color-light};
+  --brand-color-dark: #{$day-brand-color-dark};
+  --brand-bg: #{$day-brand-bg};
+
+  --text-color: #{$day-text-color};
+  --text-color-dark: #{$day-text-color-dark};
+  --background-color: #{$day-background-color};
+  --background-color-dark: #{$day-background-color-dark};
+  --background-color-light: #{$day-background-color-light};
+
+  --code-background-color: #{$day-code-background-color};
+  --code-border-color: #{$day-code-border-color};
+
+  --link-base-color: #{$day-link-base-color};
+  --link-visited-color: #{$day-link-visited-color};
+  --link-dark-color: #{$day-link-dark-color};
+}
+
+
+// import skin-agnostic styles and override
+@import
+  "minima/initialize",
+  "minima/custom-styles"
+;
