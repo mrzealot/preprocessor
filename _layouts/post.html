@@ -5,28 +5,12 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.tags != empty -%}
-      <span class="tags">
-        &nbsp;&ndash;&nbsp; {{ site.minima.tags_title | default: "Tags" }}:
-        {{ page.tags | join: ", " }}
-      </span>
-      {%- endif -%}
-      &nbsp;&ndash;&nbsp; <span class="tags">
-        {{ content | strip_html | number_of_words | divided_by:200 }} perc
-      </span>
-      {%- if page.author -%}
-        &nbsp;&ndash;&nbsp; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- endif -%}</p>
+    {% include post_meta.html post=page %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {%- if page.cover -%}
-      <img class="post-image" src="/covers/{{ page.cover }}.jpg" />
+      <img class="post-image" src="{{ 'covers' | absolute_url }}/{{ page.cover }}.jpg" />
     {%- endif -%}
     {{ content }}
   </div>

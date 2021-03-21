@@ -273,6 +273,29 @@
   color: var(--text-color-dark);
   margin-bottom: 15px;
   display: block;
+  padding-left: 1px;
+  margin-top: 2px;
+
+  svg.calendar {
+    position: relative;
+    top: 2px;
+  }
+
+  svg.tag {
+    position: relative;
+    top: 3px;
+  }
+
+  svg.clock {
+    position: relative;
+    top: 3px;
+  }
+
+  b {
+    position: relative;
+    top: -1px;
+    opacity: 50%;
+  }
 }
 
 .post-link {

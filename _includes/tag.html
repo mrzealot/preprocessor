@@ -1,0 +1,20 @@
+{% assign thetag = include.tag %}
+<div class="home">
+  <h1 class="page-heading">{{ thetag | capitalize }}</h1>
+  <ul class="post-list">
+    {% for tag in site.tags %}
+        <p>tag = {{ tag[0] }}</p>
+        {%- if tag[0] == thetag -%}
+        {% for post in tag[1] %}
+            <li>
+                <h3>
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}
+                    </a>
+                </h3>
+                {% include post_meta.html post=post %}
+            </li>
+        {% endfor %}
+        {% endif %}
+    {% endfor %}
+</div>

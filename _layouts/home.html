@@ -18,24 +18,10 @@ layout: default
                   {{ post.title | escape }}
               </a>
           </h3>
-          <span class="post-meta">
-              <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-                  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                  {{ post.date | date: date_format }}
-              </time>
-              {%- if post.tags != empty -%}
-              &nbsp;&ndash;&nbsp; <span class="tags">
-                  {{ site.minima.tags_title | default: "Tags" }}:
-                  {{ post.tags | join: ", " }}
-              </span>
-              {%- endif -%}
-              &nbsp;&ndash;&nbsp; <span class="tags">
-                  {{ post.content | strip_html | number_of_words | divided_by:200 }} perc
-              </span>
-          </span>
+          {% include post_meta.html post=post %}
           {%- if site.show_excerpts -%}
             {%- if post.cover -%}
-            <a href="{{ post.url | relative_url }}"><img class="cover-image" src="/covers/{{ post.cover }}.jpg" /></a>
+            <a href="{{ post.url | relative_url }}"><img class="cover-image" src="{{ 'covers' | absolute_url }}/{{ post.cover }}.jpg" /></a>
             {%- endif -%}
             {{ post.excerpt | markdownify }}
           {%- endif -%}
