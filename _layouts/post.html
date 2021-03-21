@@ -25,6 +25,9 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.cover -%}
+      <img class="post-image" src="/covers/{{ page.cover }}.jpg" />
+    {%- endif -%}
     {{ content }}
   </div>
 

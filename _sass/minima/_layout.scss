@@ -259,7 +259,12 @@
   }
 
   h3 {
+    margin-top: 50px;
     margin-bottom: 0;
+  }
+
+  >li:first-of-type h3 {
+    margin-top: 20px;
   }
 }
 
@@ -535,4 +540,45 @@ h3.greeter-heading {
 .tt-cursor {
   color: $link-base-color;
   font-weight: bold;
+}
+
+
+
+img.cover-image {
+  display: block;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  max-width: 220px;
+  max-height: 220px;
+  position: relative;
+  top: 6px;
+  left: 2px;
+
+  @include media-query(420px) {
+    margin: 0 auto 20px;
+    float: none;
+  }
+}
+
+.post img.post-image {
+  display: block;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  max-width: 320px;
+  max-height: 320px;
+  position: relative;
+  top: 6px;
+  left: 2px;
+
+  @include media-query(420px) {
+    max-width: 220px;
+    max-height: 220px;
+  }
+
+  @include media-query(520px) {
+    margin: 0 auto 20px;
+    float: none;
+  }
 }

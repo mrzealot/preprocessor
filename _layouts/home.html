@@ -34,7 +34,10 @@ layout: default
               </span>
           </span>
           {%- if site.show_excerpts -%}
-          {{ post.excerpt | markdownify }}
+            {%- if post.cover -%}
+            <a href="{{ post.url | relative_url }}"><img class="cover-image" src="/covers/{{ post.cover }}.jpg" /></a>
+            {%- endif -%}
+            {{ post.excerpt | markdownify }}
           {%- endif -%}
       </li>
       {%- endfor -%}
