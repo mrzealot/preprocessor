@@ -21,7 +21,7 @@ layout: default
           {% include post_meta.html post=post %}
           {%- if site.show_excerpts -%}
             {%- if post.cover -%}
-            <a href="{{ post.url | relative_url }}"><img class="cover-image" src="{{ 'covers' | absolute_url }}/{{ post.cover }}.jpg" /></a>
+            <a href="{{ post.url | relative_url }}"><img class="cover-image" src="{{ 'covers' | absolute_url }}/{{ post.cover }}.jpg" alt="{{ post.title | escape }}" /></a>
             {%- endif -%}
             {% capture tovabb %}<a href="{{ post.url | relative_url }}">Tovább &raquo;</a>{% endcapture %}
             {{ post.excerpt | append: tovabb | markdownify }}

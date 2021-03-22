@@ -580,7 +580,6 @@ img.cover-image {
   margin-right: 20px;
   margin-bottom: 20px;
   max-width: 220px;
-  max-height: 220px;
   position: relative;
   top: 6px;
   left: 2px;
@@ -597,14 +596,12 @@ img.cover-image {
   margin-right: 20px;
   margin-bottom: 20px;
   max-width: 320px;
-  max-height: 320px;
   position: relative;
   top: 6px;
   left: 2px;
 
   @include media-query(420px) {
     max-width: 220px;
-    max-height: 220px;
   }
 
   @include media-query(520px) {
