@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Carol S. Dweck - Szemléletváltás
+cover: mindset
 pages: 276
 date: 2021-01-16 00:01
 excerpt: >

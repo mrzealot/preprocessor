@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Edith Eva Eger - A döntés
+cover: choice
 pages: 360
 date: 2021-01-23 00:01
 excerpt: >

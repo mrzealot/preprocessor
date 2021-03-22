@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Simon Sinek - Kezdj a miérttel!  
+title: Simon Sinek - Kezdj a miérttel!
+cover: sinek
 pages: 256
 date: 2021-03-20 00:01
 excerpt: >

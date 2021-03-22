@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pierre Hadot - A filozófia mint életforma
+cover: hadot
 pages: 320
 date: 2021-03-13 00:01
 excerpt: >

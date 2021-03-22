@@ -258,6 +258,12 @@
     margin-bottom: $spacing-unit;
   }
 
+  > li::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
   h3 {
     margin-top: 50px;
     margin-bottom: 0;
@@ -298,7 +304,8 @@
   }
 }
 
-.post-link {
+.post-link, .post-link:visited {
+  color: var(--text-color);
   display: block;
   @include relative-font-size(1.4);
 }
