@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Yuval Noah Harari - Sapiens
+tags: [szemléletmód]
 pages: 498
 date: 2020-02-12 23:00
 excerpt: >

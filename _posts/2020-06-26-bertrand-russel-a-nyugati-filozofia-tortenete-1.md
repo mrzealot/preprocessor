@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bertrand Russel - A nyugati filozófia története - 1
+tags: [szemléletmód]
 pages: 906
 date: 2020-06-26 00:01
 excerpt: >

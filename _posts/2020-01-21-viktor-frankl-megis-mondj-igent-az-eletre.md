@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Viktor Frankl - ...mégis mondj igent az életre!
+tags: [szemléletmód]
 pages: 165
 date: 2020-01-21 23:00
 excerpt: >

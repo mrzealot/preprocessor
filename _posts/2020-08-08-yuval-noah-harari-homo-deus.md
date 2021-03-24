@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Yuval Noah Harari - Homo Deus
+tags: [szemléletmód]
 pages: 450
 date: 2020-08-08 00:01
 excerpt: >

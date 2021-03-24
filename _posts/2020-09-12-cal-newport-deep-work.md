@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cal Newport - Deep Work
+tags: [produktivitás]
 pages: 296
 date: 2020-09-12 00:01
 excerpt: >

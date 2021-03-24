@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Steven Pressfield - A művészet háborúja
+tags: [szemléletmód]
 pages: 168
 date: 2020-02-04 23:00
 excerpt: >

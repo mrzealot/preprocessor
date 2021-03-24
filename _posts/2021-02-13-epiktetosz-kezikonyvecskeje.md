@@ -2,6 +2,7 @@
 layout: post
 title: Epiktétosz kézikönyvecskéje
 cover: epictetus
+tags: [szemléletmód]
 pages: 20
 date: 2021-02-13 00:01
 excerpt: >

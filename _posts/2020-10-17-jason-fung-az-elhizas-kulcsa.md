@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jason Fung - Az elhízás kulcsa
+tags: [táplálkozás]
 pages: 328
 date: 2020-10-17 00:01
 excerpt: >

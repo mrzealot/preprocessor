@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dale Carnegie - Hogyan szerezzünk barátokat és befolyásoljuk az embereket
+tags: [kapcsolatok, stratégia]
 pages: 288
 date: 2020-05-01 15:00
 excerpt: >

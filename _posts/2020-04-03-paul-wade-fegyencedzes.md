@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Paul Wade - Fegyencedzés
+tags: [aktivitás]
 pages: 320
 date: 2020-04-03 15:00
 excerpt: >

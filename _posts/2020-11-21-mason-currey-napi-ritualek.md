@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mason Currey - Napi rituálék
+tags: [produktivitás]
 pages: 304
 date: 2020-11-21 00:01
 excerpt: >

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: John Yates - The Mind Illuminated - Alapok
+tags: [szemléletmód]
 pages: 504
 date: 2020-05-08 12:00
 excerpt: >

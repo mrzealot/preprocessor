@@ -1,6 +1,7 @@
 ---
 layout: post
 title: John Stuart Mill - A szabadságról
+tags: [szemléletmód]
 pages: 187
 date: 2020-06-19 00:01
 excerpt: >

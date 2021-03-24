@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rachel Carson - Néma Tavasz
+tags: [minimalizmus]
 pages: 378
 date: 2020-10-03 00:01
 excerpt: >

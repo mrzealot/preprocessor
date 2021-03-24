@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cal Newport - Digital Minimalism
+tags: [minimalizmus, produktivitás]
 pages: 302
 date: 2020-03-13 15:00
 excerpt: >

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jacob Lund Fisker - Extrém Korai Nyugdíj - 1
+tags: [pénzügyek, szemléletmód]
 pages: 240
 date: 2020-09-19 00:01
 excerpt: >

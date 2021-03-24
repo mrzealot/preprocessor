@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gary Chapman - Az 5 szeretetnyelv
+tags: [kapcsolatok]
 pages: 209
 date: 2020-04-24 15:00
 excerpt: >

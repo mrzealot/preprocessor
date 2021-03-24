@@ -2,6 +2,7 @@
 layout: post
 title: Carol S. Dweck - Szemléletváltás
 cover: mindset
+tags: [szemléletmód]
 pages: 276
 date: 2021-01-16 00:01
 excerpt: >

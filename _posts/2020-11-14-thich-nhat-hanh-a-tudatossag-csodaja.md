@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thich Nhat Hanh - A tudatosság csodája
+tags: [szemléletmód]
 pages: 140
 date: 2020-11-14 00:01
 excerpt: >

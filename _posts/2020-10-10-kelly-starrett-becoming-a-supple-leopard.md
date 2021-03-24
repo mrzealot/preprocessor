@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kelly Starrett - Becoming A Supple Leopard
+tags: [aktivitás]
 pages: 400
 date: 2020-10-10 00:01
 excerpt: >

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Joseph Campbell - A hős útja
+tags: [szemléletmód]
 pages: 240
 date: 2020-07-31 00:01
 excerpt: >

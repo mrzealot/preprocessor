@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Csíkszentmihályi Mihály - Flow
+tags: [szemléletmód]
 pages: 303
 date: 2020-01-18 14:00
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bea Johnson - Zero Waste Otthon
+tags: [minimalizmus]
 pages: 304
 date: 2020-03-27 15:00
 excerpt: >

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Susan Cain - Csend
+tags: [kapcsolatok]
 pages: 333
 date: 2020-11-07 00:01
 excerpt: >

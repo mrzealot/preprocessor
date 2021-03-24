@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Seneca - Erkölcsi levelek
+tags: [szemléletmód]
 pages: 256
 date: 2020-06-05 00:01
 excerpt: >

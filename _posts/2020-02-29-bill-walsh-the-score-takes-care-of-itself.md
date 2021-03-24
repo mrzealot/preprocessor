@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bill Walsh - The Score Takes Care of Itself
+tags: [stratégia, produktivitás]
 pages: 288
 date: 2020-02-29 10:00
 excerpt: >

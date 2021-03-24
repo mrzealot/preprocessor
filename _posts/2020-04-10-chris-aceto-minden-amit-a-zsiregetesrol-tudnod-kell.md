@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chris Aceto - Minden, amit a zsírégetésről tudnod kell
+tags: [táplálkozás]
 pages: 170
 date: 2020-04-10 15:00
 excerpt: >

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vicki Robin - Your Money or Your Life
+tags: [pénzügyek]
 pages: 328
 date: 2020-03-20 15:00
 excerpt: >

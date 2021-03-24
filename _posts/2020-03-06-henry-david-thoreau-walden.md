@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Henry David Thoreau - Walden
+tags: [minimalizmus]
 pages: 352
 date: 2020-03-06 15:00
 excerpt: >

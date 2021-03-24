@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Christie Aschwanden - Good to Go
+tags: [táplálkozás, aktivitás]
 pages: 320
 date: 2020-04-17 15:00
 excerpt: >

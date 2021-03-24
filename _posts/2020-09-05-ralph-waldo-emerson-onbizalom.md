@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ralph Waldo Emerson - Önbizalom
+tags: [szemléletmód]
 pages: 52
 date: 2020-09-05 00:01
 excerpt: >

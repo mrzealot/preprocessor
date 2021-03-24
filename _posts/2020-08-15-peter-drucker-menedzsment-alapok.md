@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Peter Drucker - Menedzsment alapok
+tags: [stratégia, produktivitás]
 pages: 368
 date: 2020-08-15 00:01
 excerpt: >

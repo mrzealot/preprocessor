@@ -2,6 +2,7 @@
 layout: post
 title: Robert B. Cialdini - Hatás
 cover: cialdini
+tags: [stratégia]
 pages: 320
 date: 2021-01-30 00:01
 excerpt: >

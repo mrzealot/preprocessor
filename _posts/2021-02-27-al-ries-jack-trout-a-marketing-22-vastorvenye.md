@@ -2,6 +2,7 @@
 layout: post
 title: Al Ries & Jack Trout - A marketing 22 vastörvénye
 cover: ironlaw
+tags: [stratégia]
 pages: 143
 date: 2021-02-27 00:01
 excerpt: >

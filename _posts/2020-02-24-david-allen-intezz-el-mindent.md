@@ -1,6 +1,7 @@
 ---
 layout: post
 title: David Allen - Intézz el mindent!
+tags: [produktivitás]
 pages: 352
 date: 2020-02-24 22:00
 excerpt: >

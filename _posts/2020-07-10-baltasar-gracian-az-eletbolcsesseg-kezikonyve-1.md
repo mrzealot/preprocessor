@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Baltasar Gracián - Az életbölcsesség kézikönyve - 1
+tags: [stratégia]
 pages: 216
 date: 2020-07-10 00:01
 excerpt: >

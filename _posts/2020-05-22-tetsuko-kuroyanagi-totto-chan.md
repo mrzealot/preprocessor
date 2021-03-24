@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tetsuko Kuroyanagi - Totto-chan
+tags: [szemléletmód]
 pages: 232
 date: 2020-05-22 00:01
 excerpt: >

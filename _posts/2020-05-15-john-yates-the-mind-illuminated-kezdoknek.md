@@ -1,6 +1,7 @@
 ---
 layout: post
 title: John Yates - The Mind Illuminated - Kezdőknek
+tags: [szemléletmód]
 date: 2020-05-15 00:01
 excerpt: >
     A múlt heti alapozó után végre belecsaphatunk a metaforikus lecsóba és érdemben is elkezdünk meditálni.

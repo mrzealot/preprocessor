@@ -2,6 +2,7 @@
 layout: post
 title: David Brooks - A második hegy
 cover: mountain
+tags: [szemléletmód, kapcsolatok]
 pages: 384
 date: 2021-02-19 00:01
 excerpt: >

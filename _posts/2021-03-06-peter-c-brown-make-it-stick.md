@@ -2,6 +2,7 @@
 layout: post
 title: Peter C. Brown - Make It Stick
 cover: stick
+tags: [szemléletmód]
 pages: 253
 date: 2021-03-06 00:01
 excerpt: >

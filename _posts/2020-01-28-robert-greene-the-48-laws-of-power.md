@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Robert Greene - The 48 Laws of Power
+tags: [stratégia]
 pages: 452
 date: 2020-01-28 18:00
 excerpt: >

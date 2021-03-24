@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Seneca - Erkölcsi levelek - 2. felvonás
+tags: [szemléletmód]
 date: 2020-06-12 00:01
 excerpt: >
     A múlt héten Lucius Annaeus Seneca sztoikus jótanácsait szedtük csokorba önfejlesztés, fókusz, tanítás és elfogadás témakörökben.

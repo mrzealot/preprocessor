@@ -1,6 +1,7 @@
 ---
 layout: post
 title: John Gottman - A jól működő házasság 7 alapelve
+tags: [kapcsolatok]
 pages: 271
 date: 2020-10-31 00:01
 excerpt: >

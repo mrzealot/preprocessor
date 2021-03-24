@@ -1,6 +1,7 @@
 ---
 layout: post
 title: J. D. Salinger - Zabhegyező
+tags: [szemléletmód]
 pages: 210
 date: 2020-11-28 00:01
 excerpt: >

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: George Patton - War As I Knew It
+tags: [stratégia]
 pages: 448
 date: 2020-08-29 00:01
 excerpt: >
