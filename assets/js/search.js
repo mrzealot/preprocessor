@@ -12,6 +12,10 @@ async function init_search() {
                         name: 'title',
                         weight: 10
                     },
+                    {
+                        name: 'tags',
+                        weight: 5
+                    },
                     'content'
                 ]
             })
@@ -32,7 +36,7 @@ async function init_search() {
                     }, 1)
                 },
                 display: item => {
-                    return item.title
+                    return $('<div></div>').html(item.title).text()
                 },
                 templates: {
                     notFound: item => {
