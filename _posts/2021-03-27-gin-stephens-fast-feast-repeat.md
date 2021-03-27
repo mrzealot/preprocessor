@@ -7,12 +7,12 @@ pages: 224
 date: 2021-03-27 00:01
 excerpt: >
     Jason Fung táplálkozási tanácsai között is hangsúlyosan szerepelt az időszakos böjtölés, ezért gondoltam egy dedikált könyv segítségével érdemes lenne jobban elmerülni a részletekben.
-    Ezt a cél szolgálja most Gin Stephens -- Fast. Feast. Repeat. (magyarul kb. "Böjtölj. Lakomázz. Ismételd.") című összefoglalója.
+    Ezt a célt szolgálja most Gin Stephens -- Fast. Feast. Repeat. (magyarul kb. "Böjtölj. Lakomázz. Ismételd.") című összefoglalója.
     És mivel Gin barátnőnknek doktorija van oktatásból, így rajta keresztül remélhetőleg sikerül majd érthetően elmagyarázni a relatíve bonyolult dolgokat is.
 ---
 
 [Jason Fung]({% post_url 2020-10-17-jason-fung-az-elhizas-kulcsa %}) táplálkozási tanácsai között is hangsúlyosan szerepelt az időszakos böjtölés, ezért gondoltam egy dedikált könyv segítségével érdemes lenne jobban elmerülni a részletekben.
-Ezt a cél szolgálja most Gin Stephens -- [Fast. Feast. Repeat.](https://www.goodreads.com/book/show/51168294-fast-feast-repeat){:target="_blank"} (magyarul kb. "Böjtölj. Lakomázz. Ismételd.") című összefoglalója.
+Ezt a célt szolgálja most Gin Stephens -- [Fast. Feast. Repeat.](https://www.goodreads.com/book/show/51168294-fast-feast-repeat){:target="_blank"} (magyarul kb. "Böjtölj. Lakomázz. Ismételd.") című összefoglalója.
 És mivel Gin barátnőnknek doktorija van oktatásból, így rajta keresztül remélhetőleg sikerül majd érthetően elmagyarázni a relatíve bonyolult dolgokat is.
 
 Észrevehetjük, hogy se nem orvos, se nem laboratóriumi technikus, se nem dietetikus.
