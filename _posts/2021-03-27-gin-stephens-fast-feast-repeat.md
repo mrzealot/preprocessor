@@ -6,7 +6,9 @@ tags: [táplálkozás]
 pages: 224
 date: 2021-03-27 00:01
 excerpt: >
-    TODO
+    Jason Fung táplálkozási tanácsai között is hangsúlyosan szerepelt az időszakos böjtölés, gondoltam egy dedikált könyv segítségével érdemes lenne jobban elmerülni a részletekben.
+    Ezt a cél szolgálja most Gin Stephens -- Fast. Feast. Repeat. (magyarul kb. "Böjtölj. Lakomázz. Ismételd.") című összefoglalója.
+    És mivel Gin barátnőnknek doktorija van oktatásból, így rajta keresztül remélhetőleg sikerül majd érthetően elmagyarázni a relatíve bonyolult dolgokat is.
 ---
 
 [Jason Fung]({% post_url 2020-10-17-jason-fung-az-elhizas-kulcsa %}) táplálkozási tanácsai között is hangsúlyosan szerepelt az időszakos böjtölés, gondoltam egy dedikált könyv segítségével érdemes lenne jobban elmerülni a részletekben.
@@ -63,64 +65,44 @@ A tartalom a következőképp alakul:
 
 ## <a name="miert"></a>Miért böjtöljünk?
 
-- inzulin/glukagon intro
-    - hogy megy "rendben" a rendszer
-    - de ha folyamatosan zabálunk/üdítőzünk, akkor mindig inzulin, és soha nincs zsír felélés
-- a tetejébe aki már kövér, annak eleve magasabb a nyugalmi inzulin szintje is
-    - és a kaja is erősebb inzulin választ vált ki
-    - ördögi kör, de van kiút
-- ezt az egyensúlyt teszi rendbe az IF
-    - ha a májban már nincs elég "gyorsítótárazott" energia, akkor a zsír felé fordulnánk
-    - ha a zsír "zárva van" a krónikusan magas inzulin szint miatt, akkor nincs más választás, mint csökkenteni az energiafelhasználást (mert hát nincs honnan kielégíteni)
-    - ha viszont koplalással csökkentjük az inzulin szintet és ÚGY fogyasztjuk ki a májat, akkor végre majd egyre jobban fordulhat a zsírhoz a szervezet
-        - és ott meglátja, hogy "nahát, van itt tartalék", és emiatt **nem** kell lassítania a felhasználást
-        - vagyis az izmokat sem kell lebontani!
-- ezt nevezzük "metabolikus átkapcsolásnak", amikor már a zsírból is tudunk energiát szerezni (mint amire a szervezetünk tervezve lett)
+Mint ahogy [Jason Fung]({% post_url 2020-10-17-jason-fung-az-elhizas-kulcsa %})-nál (vagy akár [Chris Aceto]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %})-nál) is láttuk korábban, a zsírégetés területén az inzulin és a glukagon a két kulcsjátékos.
+Az előbbi a fölösleges vércukor elraktározásáért, az utóbbi a túl alacsony vércukor visszanöveléséért felel.
+A részletekért nyugodtan szabad visszaolvasni; itt most elég annyit a fejünkbe vésnünk, hogy amíg az inzulin szintünk magas, addig a szervezetünknek esze ágában sem lesz az elrakott zsírhoz nyúlni -- hiszen most is az a parancs, hogy még raktározzon!
 
-- összevetve egy kalóriacsökkentésen alapuló diétával
-    - itt fennmarad (sőt, az extra növekedési hormon miatt akár még nő is) az izommennyiségünk, és vele a BMR, míg ott csökken
-    - itt lecsökken az inzulin, ami miatt tudunk zsírból energiát nyerni, míg ott nem
+Vagyis ha folyamatosan zabálunk és üdítőzünk, akkor mindig sok az inzulin, és soha nincs zsír felélés.
+A tetejébe aki már kövér, annak a kajálás erősebb inzulin választ vált ki (lásd inzulin rezisztancia).
+Sőt, ami még rosszabb: eleve magasabb a "nyugalmi" inzulin szintje is.
+Ördögi kör, de nyugalom, van kiút.
 
+Ezt az egyensúlyt teszi rendbe az IF.
+Ha a májban már nincs elég "gyorsítótárazott" energia, akkor alapesteben a zsír felé fordulnánk.
+Igen ám, de ha a zsír "zárva van" a krónikusan magas inzulin szint miatt, akkor nincs más választás, mint csökkenteni az energiafelhasználást (mert hát nincs honnan kielégíteni a hiányzó kalóriákat).
+Ha viszont időszakos böjtökkel csökkentjük az inzulin szintet és **úgy** fogyasztjuk ki a májat, akkor végre majd egyre jobban fordulhat a zsírhoz a szervezetünk.
+Ott meglátja majd, hogy "Nahát, van itt tartalék!", és emiatt **nem** kell lassítania a felhasználást.
+Ezt nevezzük "metabolikus átkapcsolásnak", amikor már a zsírból is tudunk energiát szerezni -- mint amire a szervezetünk tervezve lett.
 
-<!-- ## 2 -->
+Összevetve egy hagyományos, kalóriacsökkentésen alapuló diétával, itt:
+    
+- Fennmarad (sőt, a koplalt állapotban termelt extra növekedési hormon miatt akár még nő is) az izommennyiségünk, és vele az anyagcserénk üteme, míg ott csökken;
+- Lecsökken az inzulin (mind kajáláskor, mind nyugalmi szinten), ami miatt jobban tudunk zsírból energiát nyerni, míg ott nem.
 
-- emellett ugye egészséges
-    - a kóros túlsúllyal együtt egy csomó más is menni fog (jobb vérnyomás/keringés/szívritmus, enyhült gyulladások/autoimmun betegségek, kisebb cukorbetegség és rák veszély, élesebb agyműködés)
-- és az étkezéssel kapcsolatos extrákat is nyújt
-    - éhség és telítettség ingerek "gyári visszaállítása"
-    - bélbaktériumok helyreállítása
-- autofágia = ön-evés = testi melléktermékek újrahasznosítása
-    - ez nyilván mindenfélére jó, de a fogyással kapcsolatban a szemléletes példa az extra bőr (ami jó esetben nem marad a fogyás után)
-    - ez is kb. a ketózissal kéz-a-kézben gyorsul fel
+Ezen felül talán az sem mellékes, hogy a böjtölés egészséges.
+Mert persze legtöbben a fogyás kapcsán ismerkedünk meg vele, de távolról sem ez az egyetlen pozitívuma.
+A kóros túlsúllyal együtt egy csomó más is történni fog:
 
+- Visszatérés a természetes éhség és telítettség ingerekhez;
+- Helyreállt bélbaktériumok;
+- Jobb vérnyomás/keringés/szívritmus;
+- Enyhült gyulladások és autoimmun betegségek
+- Kisebb cukorbetegség és rák kockázat
+- Élesebb agyműködés
+- Megnövekedett autofágia (avagy "ön-evés", avagy a testi melléktermékek újrahasznosítása).
 
-<!-- ## 3 -->
+Friss (és egyelőre igencsak korlátozott méretű!) vizsgálatok konkrétan azt is kimutatták, hogy a rendszeres böjtölés az öregedés tipikus tüneteit is lassítja.
+Maradjunk annyiban, amit a szerző is visszatérően emleget:
 
-- friss (és egyelőre igencsak korlátozott méretű!) vizsgálatok azt mutatják, hogy az öregedés tipikus tüneteit is lassítja
-    - nem mondanám ténynek, de maradjunk annyiban, hogy jó előjel
-- sokszor visszaköszön: "intermittent fasting is the health plan with a side effect of weight loss"
-
-
-
-- a böjt alatt a cél, hogy
-    1. az inzulin szintünket minél alacsonyabban tartsuk,
-    2. a zsírból nyerjük az energiánkat, és
-    3. hagyjuk, hogy az extra autofágia újrahasznosítsa a melléktermékeket
-- az egyeshez nyilván ne együnk semmi szénhidrát-szerűt
-    - DE: még csak ne is ízleljünk semmi édeset... még a kalóriamenteset se! még akkor se, ha le sem nyeljük!
-    - cephalikus fázis --> ilyenkor is jön az extra inzulin!
-        - CPIR = Cephalic Phase Insulin Response
-- a ketteshez van, aki extra zsír-bevitelt vagy ketózis-segítőt ajánl, de NE!
-    - attól, hogy nem (annyira?) vezet inzulin termeléshez, attól még ez is extra bevitt energia, és ennél később érünk a saját zsírunkhoz
-- a hármashoz pedig a fehérjéket, aminosavakat, és bármi ilyen származékot kell kerülni
-    - egyrészt ez is inzulin (annak ellenére, hogy nem szénhidrát), másrészt ez kimutatottan csökkenti az autofágiát
-
-<!-- ## 5 -- HOGYAN koplalunk tisztán? -->
-
-- víz/ásványvíz, fekete kávé, ízesítetlen fekete/zöld "nyers" tea, só és/vagy ásványi anyagok (és persze a felírt gyógyszerek, amiknek nem baj, hogy nem étkezéssel)
-    - ENNYI
-    - a vitaminok, gyógyteák, kivonatok már szürke zóna
-    - és minden más (bármi kaja, kaja-szerű, édes vagy ízes) pedig egyértelműen nem.
+> Az időszakos böjtölés inkább egy egészség rutin, aminek a súlyvesztés csak mellékhatása.
+> > Intermittent fasting is the health plan with a side effect of weight loss.
 
 <br>
 
@@ -144,58 +126,97 @@ A tartalom a következőképp alakul:
 
 ## <a name="hogyan"></a>Hogyan böjtöljünk?
 
-<!-- ## 6 -- Az "ablakos" módszer -->
+A böjt alatt az a cél, hogy:
 
-- 12:12? 16:8? 19:5? 20:4? 23:1?
-    - mint látjuk, a minta `x:24-x`, ahol az első szám a koplalás, a második a kajálás
-    - kicsit különc (legalábbis nevezéktanilag) az OMAD = One Meal A Day
-- az inzulincsökkentő varázs 12-16 óra körül kezd beütni (embere válogatja), ezért ez alá nem nagyon érdemes célozni
-    - a zsírégetéshez pedig inkább 18-24 között van az arany középút
-- a 12:12-t majdnem mindenki öntudatlanul is csinálja (már aki egy kicsit is odafigyel)
-    - 8 órát alszik, lefekvés előtt már legalább 3 órával nem eszik, felkelés után pedig kb. 1 órán belül jut a reggelihez. kész.
-    - ha a MIT és a MENNYIT eszünk rész, az alvás, és a mozgás rendben vannak, akkor ezzel is lehet teljesen jó eredményeket elérni, csak olyankor maga a "koplalás" nem sokat tesz hozzá ehhez az egészhez
-- az igazi a 16:8-nál kezdődik
-    - mondjuk kihagyjuk a reggeliket, vagy a vacsorákat
-    - mindenféle egészségre pozitív hatás (mint láttuk), de a zsírégetéshez még tovább érdemes tolni
-- 19:5, 20:4
-    - időben és pozitív hatásokban kb. "ez az igazi"
-- OMAD
-    - flexibilis, mert az az egy kaja lehet nagyobb adag, "több tányér", több órán áthúzva...
-- az sose baj, ha egyik nap ilyen, másik nap olyan a pontos időzítésünk
-    - sőt, még jobb is lehet, hogy a testünk (és az energia háztartásunk) ne tudjon hozzászokni és alkalmazkodni
+1. Az inzulin szintünket minél alacsonyabban tartsuk,
+2. A zsírból nyerjük az energiánkat, és
+3. Hagyjuk, hogy az extra autofágia újrahasznosítsa a melléktermékeket.
 
-<!-- ## 7 -- Az "egyszer fent, máskor lent" módszer -->
+Az egyeshez nyilvánvaló lehet, hogy ne együnk semmi szénhidrát-szerűt.
+De amire sokan nem gondolnak: fontos, hogy még csak ne is **ízleljünk** semmi édeset!
+Még akkor se, ha kalóriamentes!
+Még akkor se, ha le sem nyeljük!
+Hogy miért, arra a Fung által is emlegetett "cephalikus fázis" adhat választ, hiszen már abból is jön az extra inzulin, amikor a szervezetünk (Pavlovi reflexként) csak *számít rá*.
+Érdeklődőknek ajánlom a "CPIR" (Cephalic Phase Insulin Response) keresőszavakat.
 
-- itt is megvannak a varázsszámok és betűszavak
-    - itt most `x:7-x`, azt jelezve, hogy hány napon ehetünk "normálisan", és hányon koplalunk
-    - az ADF pedig "Alternate Day Fasting", vagyis minden másnap (ami ugye nem jön ki jól 7-re)
-- a "lent" napok lehetnek
-    - egy kis kajával (kb. 500 kcal), hogy két kaja között 24 óra teljen el
-    - teljesen koplalva (így az előző napi vacsi és az *utána* napi reggeli között már inkább ilyen 36 óra nagyságrend telik el!)
-- a "fent" napokon viszont akkor tessék rendesen enni!
-    - a "lent" napok megadják a zsírégetést, a hormonális hatást, és az összegzett kalória deficitet
-    - viszont a "fent" napokon kell az anyagcsere pörgetés, akár még túlevéssel is
-        - ez tudatja a szervezetünkkel, hogy nincs veszély, nem éhezünk, pöröghet tovább az anyagcsere a megszokott ütemben
-    - ha ilyenkor is "diétázunk", akkor az az egész rendszert egy alacsony kalóriás diéta zónába billenti, amihez (mint ugye tudjuk) idővel hozzászokunk
-        - lassul az anyagcsere, bomlik az izom, megáll a fogyás, és belekerülünk a yo-yo-ba!
-- a legfontosabb, hogy két "lent" nap ne legyen egymás után
-    - mindig van, aki úgy gondolkodik, hogy ha 1 kihagyás jó, akkor 2 még jobb... de ne!
+A ketteshez van, aki extra zsír-bevitelt vagy ketózis-segítőt ajánl, de **ne**!
+Attól, hogy nem *annyira* vezet inzulin termeléshez, mint maga a szénhidrát, attól valamennyi inzulint még ez is eredményez.
+Meg hát ez is extra bevitt energia, és ennél később érünk a saját zsírunkhoz.
 
-<!-- ## 8 -- Egy flexibilis hozzáállás -->
+A hármashoz pedig a fehérjéket, aminosavakat, és bármi ilyen származékot kell kerülni.
+Egyrészt ugye ez is inzulin (annak ellenére, hogy nem szénhidrát), másrészt ez kimutatottan csökkenti az autofágiát.
 
-- homeosztázis -- a test minden folyamatára van egy elfogadható tartomány, amibe visszaállít
-    - csak nagyon nem mindegy, hogy milyenek a "gyári beállításaink", amire a testünk visszaállni szeretne (lásd Fung termosztát hasonlata)
-- ha hosszú távon tartjuk az új életmódunkat (és a vele járó súlyunkat), akkor ez persze átállhat
-    - de azért a homeosztázisra való hajlamunkat nem rázhatjuk le teljesen
-- ezért érdemes néha "megkeverni az állóvizet"
-    - a fentiekben kaptunk egy csomó eszközt a böjtök ütemezésére, szóval néha próbáljunk ki mást is a megszokott mellett
-- az én javaslatom, hogy mérjük a folyamatot rendszeresen, és az eredmények fényében látni fogjuk, ha lassul/megáll/visszafordul
-    - legtöbbször tudni fogjuk, hogy miért (például pár napja "bűnöztünk" egy hatalmas bezabálással, és ennek az ideiglenes hatását mutatja a mérleg)
-    - de ha rendszeresen, mondjuk már 3-4 hete "tiszták" vagyunk és mégsem moccan, piszkáljunk bele
-- javaslatok
-    - váltsunk az ablakos és a fent/lent módszerek között
-    - változtassuk meg az ablakaink méretét/idejét
-    - próbáljunk ki egy hibridet, ahol pl. 6:1-es fent/lent megy, de nagy fent és nagy lent napokon felül ablakozunk
+Ezeket azért részletezzük és indokoljuk ilyen szájbarágósan, mert ahogy egyre népszerűbb lesz a böjt, úgy lesz egyre több "böjt segítő termék" is, amikkel átbasznának a palánkon.
+Ne ugorjunk be nekik!
+Az ún. tiszta böjt azt jelenti, hogy csak a következőek megengedettek a böjtölési időszak alatt:
+
+- Víz/ásványvíz,
+- fekete kávé (minden sallang nélkül!),
+- Ízesítetlen fekete/zöld "nyers" tea,
+- Só és/vagy ásványi anyagok (mondjuk a vízhez adva),
+- És persze a felírt gyógyszerek, amiknek nem baj, hogy nem étkezéssel vesszük be őket.
+    
+**Ennyi.**
+Már a vitaminok, a gyógyteák, és az ilyen-olyan esszenciák/kivonatok is szürke zónának minősülnek, minden más pedig egyértelműen tilos.
+Legyen az bármiféle kaja, vagy akár csak kaja-**szerű**, édes vagy ízes valami.
+
+<br>
+
+A következő megfontolás, hogy akkor ezt hogyan is illeszthetnénk a hétköznapokba?
+Az egyik legelterjedtebb megközelítés az ún. **"ablakos" módszer**.
+A fajtáit általában `x:24-x` alakban jelöljük, ahol az első szám a böjt, míg a második a kajálási ablak időtartama.
+Gyakori változatai a `12:12`, a `16:8`, a `19:5`, a `20:4`, és a `23:1`.
+Ide tartozik még a nevezéktanilag kicsit különc "OMAD" (One Meal A Day, vagyis napi egy étkezés).
+A böjt inzulincsökkentő varázsa 12-16 óra körül kezd beütni (embere válogatja), ezért ez alá nem nagyon érdemes célozni -- a zsírégetéshez pedig inkább 18-24 között van az arany középút.
+
+A `12:12`-t szerintem majdnem mindenki öntudatlanul is csinálja, aki egy kicsit is odafigyel.
+8 órát alszik, lefekvés előtt már legalább 2-3 órával nem eszik, felkelés után pedig kb. 1 órán belül jut a reggelihez.
+Kész is.
+És a jó hír: ha a MIT és a MENNYIT eszünk rész, az alvás, és a mozgás rendben vannak, akkor akár már ezzel is lehet teljesen jó eredményeket elérni.
+Csak olyankor maga a "böjtölés" nem sokat tesz hozzá ehhez az egészhez.
+
+Az igazi a `16:8`-nál kezdődik, ahol mondjuk rendszeresen kihagyjuk a reggeliket, vagy a vacsorákat -- `20:4` esetében pedig még tovább szigorítunk.
+Az OMAD ezeknél flexibilisebb, mert az az egy kaja lehet nagyobb adag, "több tányérra szétosztva", több órán át húzva.
+Az sose baj, ha egyik nap ilyen, a másik nap olyan a pontos időzítésünk.
+Sőt, még jobb is lehet, hogy a testünk (és az energia háztartásunk) ne tudjon hozzászokni és alkalmazkodni.
+Elég, ha annyit észben tartunk, hogy a megfelelő kalóriabevitel ütemezésében próbáljunk a böjtölve töltött időszakokra is odafigyelni.
+
+<br>
+
+Egy másik elterjedt megközelítés az alternáló, **"egyszer fent, máskor lent" módszer**.
+Persze itt is megvannak a varázsszámok és betűszavak, csak itt most `x:7-x` alakban -- azt jelezve, hogy hány napon ehetünk "normálisan", és hányon van böjt.
+Az OMAD-hoz hasonló fekete bárány pedig az ADF ("Alternate Day Fasting", váltott napos böjt), ahol minden másnap tartunk "lent" napot (és ez ugye nem jön ki jól 7-re).
+
+A "lent" napok telhetnek:
+
+- Egy kis kajával (kb. 500 kcal), hogy két étkezés között kb. 24 óra teljen el; vagy
+- Teljesen koplalva (így az előző napi vacsi és az *utána* napi reggeli között már inkább ilyen 36 óra nagyságrendű idő telik el).
+    
+A "fent" napokon viszont akkor tessék rendesen enni!
+A "lent" napok megadják a zsírégetést, a hormonális hatást, és az összegzett kalória deficitet.
+Ezért cserébe viszont a "fent" napokon kell az anyagcsere pörgetés, akár még túlevéssel is.
+Ez tudatja ugyanis a szervezetünkkel, hogy nincs veszély, nem éhezünk, düböröghet tovább az anyagcsere a megszokott ütemben.
+Ha ilyenkor is "diétázunk", akkor az az egész rendszert egy alacsony kalóriás diéta zónába billenti, amihez (mint ugye tudjuk) idővel hozzászokunk -- lassul az anyagcsere, bomlik az izom, megáll a fogyás, és belekerülünk a yo-yo-ba!
+
+A legfontosabb, hogy két "lent" nap ne legyen egymás után!
+Mindig van, aki úgy gondolkodik, hogy ha 1 kihagyás jó, akkor 2 még jobb...
+De ne!
+
+<br>
+
+A testünk hajlamos a homeosztázisra -- vagyis minden folyamatára van egy "elfogadható tartomány", amibe visszaállít.
+Csak nagyon nem mindegy, hogy milyenek a gyári beállításaink, amire a testünk visszaállni szeretne (lásd [Fung]({% post_url 2020-10-17-jason-fung-az-elhizas-kulcsa %}) termosztát hasonlata).
+Persze ha hosszú távon tartjuk az új életmódunkat (és a vele járó súlyunkat), akkor ez a nyugalmi pont átállhat.
+De azért a homeosztázisra való hajlamunkat nem rázhatjuk le teljesen.
+
+Ezért érdemes néha megkeverni az állóvizet.
+A fentiekben kaptunk egy csomó eszközt a böjtök ütemezésére, szóval néha próbáljunk ki mást is a megszokott mellett.
+Az én javaslatom, hogy mérjük a folyamatot rendszeresen, és az eredmények fényében látni fogjuk, ha bármi lassul/megáll/visszafordul.
+
+Legtöbbször tudni fogjuk, hogy miért -- például pár napja "bűnöztünk" egy hatalmas bezabálással, és ennek az ideiglenes hatását mutatja a mérleg.
+De ha rendszeresen, mondjuk már 3-4 hete "tiszták" vagyunk és mégsem moccan, nyugodtan piszkáljunk bele!
+Váltsunk az ablakos és a fent/lent módszerek között; változtassuk meg az ablakaink méretét/idejét; vagy akár próbáljunk ki egy hibridet, ahol például egy `6:1`-es fent/lent megy, de a lent és az utána kötelező fent napokon felül ablakozunk.
+Legyünk flexibilisek, mert úgy a legnagyobb a siker esélye.
 
 <br>
  
@@ -223,47 +244,44 @@ A tartalom a következőképp alakul:
 
 ## <a name="start"></a>Hogyan fogjunk bele?
 
-<!-- ## 9 -- Mikre vigyázzunk -->
+A szerző javaslata egy 28 napos gyorstalpaló, ahol a szervezetünket kb. megismertetjük a böjtöléssel.
+A lényeg, hogy tisztán tartsuk be az ablakokon kívüli időszakot -- nincs cukros kávé, nincs rágó, nincs diétás kóla vagy bármi kalóriamentes étel-szerűség.
+Innentől pedig nincs már dolgunk, mint hagyni, hogy a testünk adaptálódjon.
 
-- túlkoplalás (mert ha a koplalás jó, akkor még több az még jobb lesz)
-- potenciális evészavar
-    - a böjt (főleg az időszakos) NEM evészavar, csak egy eszköz
-    - viszont mint a legtöbb eszközt, ezt is lehet rosszul használni
-    - figyeljük magunkat, hogy mik a céljaink, mi a motivációnk
-- ne alkalmazzuk gyerekeknél (ha még növésben van a szervezete)
-    - ilyenkor is "tisztán" kellene enni (lásd később), de nem feltétlen nagyobb böjtökkel karöltve
-- ne alkalmazzuk terhesség vagy szoptatás közben
-    - valószínűleg megfelelő összmennyiségű és minőségű kaja mellett nem lenne gond, de erről még egyszerűen nem tudunk eleget, hogy rá merjük mondani
+Fontos, hogy itt még ne várjunk látványos eredményeket, eltűnt kilókat, vagy kifogyott ruhákat.
+Ez a fázis csak arra van, hogy hozzászoktassa a szervezetünket, hogy a raktározott zsírból is tudjon energiát nyerni.
+Egyelőre azt ne piszkáljuk azt sem, hogy MIT vagy hogy MENNYIT eszünk, csak hogy MIKOR.
+Persze idővel a MIT és a MENNYIT is rendbe kell tenni, de ne egyszerre sokkoljuk már hülyére magunkat!
 
-<!-- ## 10 -- 28 napos gyorstalpaló -->
+Legyünk következetesek, mert habár ez a nehéz rész, utána sokkal könnyebb lesz.
+A hozzászokás alatt a testünk "hisztizni" fog, mert eddig folyamatosan kapta a könnyen használható energiát, és most hozzá kell nyúlnia a raktárakhoz.
+Az elején fáradtak, ingerlékenyek és "lassúak" leszünk, de ez pár hét alatt teljesen el fog tűnni.
 
-- FAST = Fast Clean, Adapt, Settle In, Tweak
-    - csak tisztán!
-    - aztán hagyni, hogy a testünk adaptálódjon
-    - ha pedig hozzászoktunk az alapokhoz, utána kezdhetjük finomhangolgatni magunknak
-- a szoktatás alatt még ne várjunk látványos eredményeket, eltűnt kilókat, vagy kifogyott ruhákat
-    - ez csak arra van, hogy hozzászoktassa a szervezetünket, hogy a raktározott zsírból is tudjon energiát nyerni
-- egyelőre azt ne piszkáljuk, hogy MIT vagy hogy MENNYIT eszünk, csak hogy MIKOR!
-    - persze idővel a MIT és a MENNYIT is rendbe kell tenni, de ne egyszerre sokkoljuk már hülyére a testünket
-- legyünk következetesek, mert habár ez a nehéz rész, utána sokkal könnyebb lesz
-    - a hozzászokás alatt a testünk "hisztizni" fog, mert eddig folyamatosan kapta a könnyen használható energiát, és most hozzá kell nyúlnia a raktárakhoz
-    - az elején fáradtak, ingerlékenyek és "lassúak" leszünk, de ez pár hét alatt teljesen el fog tűnni
-    - éhesek is leszünk, ami viszont nem fog elmúlni... és nem is kell neki, mert egy kis gyakorlással simán figyelmen kívül hagyható
-- ha végre "nyitva az ablak" és ehetünk, akkor kezdetben várhatóan zabálni fogunk
-    - ez normális, hiszen még nem vagyunk hozzászokva, hogy zsírból "rendesen" tápláljuk magunkat a böjt alatt, ezért mire a kajához érünk, már majd meg akarunk halni éhen
-        - ezért aztán könnyen lehet, hogy nem is vesztünk majd súlyt... sőt, akár még fel is szedhetünk, ha erősen túleszünk
-    - de nyugalom, az étvágyunk idővel le fog csillapodni
-- ki-ki a maga ritmusában vágjon bele az első 4 hétbe
-    - 12-10-8-6, 8-7-6-5, 6-6-5-4 ablakokkal
+Az éhség része viszont soha nem fog teljesen elmúlni... és nem is kell neki, mert egy kis gyakorlással simán figyelmen kívül hagyható.
+Az csak a modern társadalom mániája, hogy az éhségérzet egyenlő valamiféle személyes katasztrófával.
+Ha a lelki részét megtanuljuk kezelni, onnan a testi része már piskóta.
 
-<!-- ## 11 -- Igazgassuk addig, amíg már könnyű -->
+Amint végre "nyitva az ablak" és ehetünk, kezdetben várhatóan zabálni fogunk.
+Nyugalom, ez normális, hiszen még nem vagyunk hozzászokva, hogy zsírból "rendesen" tápláljuk magunkat a böjt alatt, ezért mire a kajához érünk, már majd meg akarunk halni éhen.
+Így aztán könnyen lehet, hogy nem is vesztünk majd súlyt...
+Sőt, akár még fel is szedhetünk egy keveset, ha erősen túleszünk.
+De semmi vész, az étvágyunk idővel le fog csillapodni.
 
-- innentől piszkálgathatjuk, testre szabhatjuk, a tiszta koplaláson felül mindent szabad állítgatni
-    - de persze minden állítgatásnak adjunk elég időt, hogy tényleg hat-e, javul-e/romlik-e tőle valami, stb.
-- és hogy honnan tudjuk, hogy jó-e? pár hét után kérdezzük meg magunkat, hogy hogyan vagyunk:
-    - mentálisan
-    - fizikálisan
-    - jönnek-e az eredmények, amiket elvárunk (és itt nagyon nem csak a súlyt kellene mérni)
+<br>
+
+Ha túl vagyunk a bevezetésen, akkor onnantól piszkálgathatjuk és testre szabhatjuk a folyamatot "amíg már könnyű".
+A *tiszta* koplaláson felül mindent szabad állítgatni.
+De persze minden állítgatásnak adjunk elég időt, hogy tényleg hat-e, javul-e/romlik-e tőle valami, stb.
+És hogy honnan tudjuk, hogy jó-e?
+Egyszerű: pár hét után kérdezzük meg magunkat, hogy hogyan vagyunk.
+Mentálisan, fizikálisan, és hogy jönnek-e az eredmények, amiket elvárunk -- és itt nagyon nem csak a súlyra gondolunk.
+
+Végül néhány szempont, amire vigyázzunk:
+
+- Túlkoplalás -- mert ha a koplalás jó, akkor még több az még jobb lesz;
+- Potenciális evészavarok -- mert habár a böjt (főleg az időszakos) önmagában nyilván **nem** evészavar, csak egy eszköz, viszont mint a legtöbb eszközt, ezt is lehet rosszul használni;
+- Ne alkalmazzuk gyerekeknél -- akinek még növésben van a szervezete, az is egyen "tisztán" (lásd később), de nem feltétlen nagyobb böjtökkel karöltve; illetve
+- Ne alkalmazzuk terhesség vagy szoptatás közben -- mert habár valószínűleg megfelelő összmennyiségű és minőségű kaja mellett nem lenne gond, de erről még egyszerűen nem tudunk eleget, hogy tiszta lelkiismerettel rá merjük mondani.
 
 <br>
 
@@ -286,67 +304,58 @@ A tartalom a következőképp alakul:
 
 ## <a name="lakoma"></a>Lakoma
 
-<!-- ## 12 -- Ne tagadd meg magadtól, csak késleltesd -->
+Na de a böjt csak az egyenlet egyik fele!
+Mi lesz a lakomákkal?
+A jelmondatunk: "Ne tagadd meg magadtól, csak késleltesd".
 
-- a késleltetés rész egyértelmű
-    - a "nem kell megtagadni" részt viszont érdemes egy kicsit kibontani
-    - ez NEM jelenti ugyanis, hogy akkor MINDENT lehet, és BÁRMILYEN mennyiségben
-    - azt jelenti, hogy nincs kimondott tiltólista, és ha nekem mondjuk pont a McDonald's vagy a krémes a kedvencem, akkor időnként még azokat is lehet
-        - de nem minden nap, és nem alkalmanként HÁROM egész adagot, mert most épp nyitva van az ablak!!
-    - illetve csak a céljaimmal összeegyeztetve
-        - ha heti 1 kiló mínusszal akarok haladni, akkor ez a bizonyos késleltetés bizony hónapokat is jelenthet, amikortól (a karbantartási időszak alatt) már majd újra előkerülhet a "csalás"
-- amitől fogyunk, az továbbra is a kalória deficit
-    - és a makrók továbbra is más-más hatással vannak erre a folyamatra
-    - erre csak rásegít a MIKOR beszabályozása, mert (a plusz egészségügyi jótékony hatásokon felül)
-        - sokkal nehezebben lassul be az anyagcserénk a kalória deficit ellenére, és
-        - sokkal alacsonyabb lesz az átlag inzulin szintünk, ami segíti a zsírégetést
-    > While intermittent fasting does come with some degree of hormonal and metabolic magic, it’s not so magical that you can overeat within your eating window and still expect to lose weight.
-- az én olvasatomban amit az IF ad, az a flexibilitás
-    - nem kell patikamérleggel adagolni az egzotikus alapanyagokból kotyvasztott vacsorát ahhoz, hogy már pont fogyjunk, de ez még pont ne menjen az anyagcsere rovására
-    - így Bolognai spagettizés és étcsokis granola mellett, kalóriaszámolgatás nélkül is könnyebb szép eredményeket elérni
+A késleltetés rész talán egyértelmű, de a "nem kell megtagadni" részt viszont érdemes egy kicsit kibontani.
+Ez **nem** jelenti ugyanis, hogy akkor *mindent* lehet, és *bármilyen* mennyiségben.
+Azt jelenti, hogy nincs kimondott tiltólista.
+És ha nekem mondjuk pont a McDonald's vagy a francia krémes a kedvencem, akkor időnként még azokat is lehet.
+De nem minden nap, és nem alkalmanként **három** egész adagot, mert most épp nyitva van az ablak!
 
-<!-- ## 13 -- A "diéta agy", és hogyan kerüljük el -->
+Illetve mindezt is csak a céljaimmal összeegyeztetve.
+Ha heti 1 kiló mínusszal akarok haladni, akkor ez a bizonyos késleltetés bizony hónapokat is jelenthet, amikortól (a karbantartási időszak alatt) már majd újra előkerülhetnek a kevésbé inzulin-barát fogások.
 
-- mondj egy tetszőleges élelmiszert, és én mutatok mellé egy diétát, amiben azt tilos
-    - tanuljunk meg hallgatni a testünkre, az éhség és telítettség ingereinkre, az energiaszintünkre, stb.
-    - és persze, ismerjük a biológiai/fiziológiai alapokat. de aztán ne kezdjünk el parázni, hogy állati vagy növényi eredetű, alacsony vagy magas zsírtartalmú, ...
+Véssük az eszünkbe, hogy amitől fogyunk, az továbbra is a kalória deficit.
+És az ételeink minősége továbbra is nagy hatással van erre a folyamatra.
+Erre csak rásegít a MIKOR beszabályozása, mert a plusz egészségügyi jótékony hatásokon felül:
 
-<!-- ## 14 -- Bio-individualitás -->
+- Sokkal nehezebben lassul be az anyagcserénk a kalória deficit ellenére, és
+- Sokkal alacsonyabb lesz az átlag inzulin szintünk, ami segíti a zsírégetést.
 
-- nincs univerzális étrend! alapelvek és kísérletezés van
-- friss kutatások mutatják, hogy a leginkább a genetikánkon és a bélrendszerünkben élő baktériumokon múlik, hogy milyen ételre hogyan reagálunk
-    - példa a "glikémiás index", ami elvileg egy konstans, és mégis tök könnyen lehet embereket találni, akik nagyon fölötte vagy nagyon alatta vannak, tetszőleges kaja esetében
-- biztos sokat fog még fejlődni ez a terület, és pár éven/évtizeden belül akár ténylegesen működő, testre szabott étrendeket kaphatunk
-    - de egyelőre a legbiztosabb az, ha nekiállunk kipróbálni, hogy mi működik
-    - az alapelvek (értsd: inzulin-központúság, makrótápanyagok figyelembevétele, stb.) betartása mellett, és az eredményeink következetes figyelésével kialakul majd
+> Habár az időszakos böjt tényleg hordoz némi hormonális és metabolikus mágiát, annyira azért nem mágikus, hogy túlzabálhass az ablakodon belül és még úgy is számíthass a fogyásra.
+> > While intermittent fasting does come with some degree of hormonal and metabolic magic, it’s not so magical that you can overeat within your eating window and still expect to lose weight.
 
-<!-- ## 15 -- A kalória vége -->
+Az én olvasatomban amit az IF ad, az a flexibilitás.
+Nem kell patikamérleggel adagolni az egzotikus alapanyagokból kotyvasztott vacsorát ahhoz, hogy már pont fogyjunk, de ez még pont ne menjen az anyagcsere rovására.
+Így az alkalmi, szemre kimért Bolognai spagettizés és étcsokis granola mellett, kalóriaszámolgatás nélkül is könnyebb szép eredményeket elérni.
 
-- nem csak kalória, hanem makrók! (sőt, mint ugye látjuk, akár azon belül is bizonyos kaják, személyre szabottan)
-    - nem számolgatunk, hanem a testünk ingereivel akarunk újra rendesen kapcsolatba kerülni
+<br>
 
-<!-- ## 16 -- Éhségérzet -->
+A konkrét ételválasztásokra pedig csak annyit mondunk, hogy *bio-individualitás*.
+Egy úttörő kutatásban kimutatták, hogy nincs univerzális étrend -- amit persze intuitíven eddig is érezhettünk, de most már legalább a számok is alátámasztják.
+Leginkább a genetikánkon és a bélrendszerünkben élő baktériumokon múlik, hogy milyen ételre hogyan reagálunk.
+Példa a *glikémiás index*, ami elvileg egy konstans mérőszámként mutatja az élelmiszerekre adott inzulin reakciónkat.
+És mégis tök könnyen lehetett embereket találni, akik nagyon fölötte, vagy épp nagyon alatta vannak, tetszőleges kaja esetében.
 
-- addig eszünk, amíg kb. 80%-ban jól lakunk
-    - meg kell tanulni figyelni a jeleket
-    - és nem annyira gyorsan és lendületesen zabálni, hogy túlcsússzunk
-- az éhség jelzést akkor is kaphatjuk, ha kalóriák szempontjából már rég túl vagyunk a kvótánkon
-    - csak tápanyagok szintjén nem vittük be, amire szükség lett volna
-    - ezért sem mindegy, hogy milyen minőségű forrásokat használunk...
+Biztos sokat fog még fejlődni ez a terület, mert sajnos van mit (főleg abban, ahogy a nép felé mindezt lekommunikálják). 
+Pár éven/évtizeden belül akár ténylegesen működő, testre szabott étrendeket kaphatunk.
+De egyelőre a legbiztosabb az, ha nekiállunk kipróbálni saját magunkon, hogy mi működik.
+Nyilván fontos ismernünk a biológiai/fiziológiai alapokat, az inzulin szerepét, a makrótápanyagokat, stb.
+Csak aztán ne kezdjünk el parázni, hogy állati vagy növényi eredetű-e, vagy épp alacsony vagy magas zsírtartalmú-e.
+Inkább próbáljuk ki, és tanuljunk meg hallgatni a testünkre, az éhség és telítettség ingereinkre, illetve az energiaszintünkre.
 
-<!-- ## 17 -- Kajaminőség -->
+**Mennyiség** szempontjából együnk addig, amíg kb. 80%-ban jól lakunk.
+Figyelni kell a jeleket, és nem annyira gyorsan és lendületesen zabálni, hogy túlcsússzunk.
+Megjegyezzük még, hogy az éhség jelzést akkor is kaphatjuk, ha kalóriák szempontjából már rég túl vagyunk a kvótánkon, de a tápanyagok szintjén nem vittük be, amire szükség lett volna.
+Ezért sem mindegy, hogy milyen minőségű forrásokat használunk...
 
-- ugye nincs "tiltólista", de azért nagyon is jól tudjuk mi, hogy mi igazi étel, és mi nem
-    - szóval természetesen továbbra sem kell kényszeresen csirke-rizsezni -- de enélkül is ellökdöshetjük magunkat az "igazibb" kaják irányába
-- ugyanúgy, mint a mennyiségeknél, az ételválasztásnál is figyeljünk a testünkre
-    - megmondja az, hogy a cukortól hogy bepörög, és utána mekkorát zuhan (ún. "agyhalál")
-    - vagy hogy a túl sok marhahús megemésztése már relatíve fiatalon sem gyerekjáték!
-    - ettől néha ilyeneket is lehet -- csak ezután már remélhetőleg a hatása teljes tudatában, és szándékosan
-- bármit ehetünk, amit akarunk -- csak ezután már nem biztos, hogy akarni fogjuk... az meg úgy ugye már más tészta
-- feldolgozott vs. ultra-feldolgozott ételek
-    - nyilván nem mondja senki, hogy nyersen együnk mindent, amit a földön találunk
-    - de azért van különbség a feldolgozott (megfőztem, ledaráltam, összekevertem) és aközött, amit a modern ételipar az orrunk elé tol
-    - szerintem továbbra is az "igazi" a megfelelő szó... együnk IGAZI kajákat, és onnantól már nagy baj nem lehet
+**Minőség** szempontjából ugye nincs "tiltólista", de azért általában nagyon is jól tudjuk mi, hogy mi *igazi* étel, és mi nem.
+Szóval természetesen továbbra sem kell kényszeresen csirke-rizsezni -- de enélkül is ellökdöshetjük magunkat az "igazibb" kaják irányába.
+Ha figyeljünk a testünkre, az itt is megmondja majd, hogy a cukortól mennyire bepörög -- és utána mekkorát zuhan az a bizonyos "agyhalál" felé.
+Vagy hogy a túl sok marhahús megemésztése már relatíve fiatalon sem gyerekjáték!
+Ettől néha ilyeneket is lehet, csak ezután már remélhetőleg a hatása teljes tudatában, és szándékosan.
 
 <br>
 
@@ -381,72 +390,56 @@ A tartalom a következőképp alakul:
 
 ## <a name="ismetles"></a>Ismétlés
 
-<!-- ## 18 -- A haladásunk mérése -->
+Jó, tegyük fel, hogy a böjtös és a lakomázós oldallal is megbarátkoztunk.
+Innentől már "csak" annyi a dolgunk, hogy ezt elégszer elismételjük, nem?
+Hááát... de.
+Minden esetre fussunk át azért egy pár pszichológiai vonatkozáson, nehogy véletlen itt essünk pofára.
 
-- súly vs. zsír% és izom%
-    - körfogatok, fényképek
-    - amíg **valami** a jó irányba változik, addig nyugalom!
-    - kompozíció változás --> vagyis nem szarrá agyalni magunkat a súlyon
-        - gondolkozzunk inkább trendekben, mint adat pontokban!
+Először is: a **haladásunk mérésénél** érdemes nem csak a súlyra koncentrálni!
+Jobb esetben olyan digitális mérlegünk van, ami zsír%-ot és izom%-ot is mér, amik a test kompozíciójára is adnak egy becslést.
+Itt nem is a pontos érték annyira fontos, hanem hogy hogyan változik a hetek múlásával.
+Ezek mellett mérhetünk rendszeresen körfogatokat (csípő, has, mellkas, comb, stb.), készíthetünk fényképeket, vagy akár lehet egy "lelkiismeret farmerünk", amibe bele kell férni.
+A lényeg, hogy mérjünk minél több szempontot a teljesebb összkép érdekében -- és amíg **valami** jó irányba változik, addig nyugalom!
 
-<!-- ## 19 -- Diéta vs. életstílus -->
+Másodszor: ügyeljünk a **hozzáállásunkra**!
 
-- a "diéta" és a "csalás/bűnözés" szavakat érdemes elhagyni
-    - akadékoskodásnak tűnhet, de a szavak a fejünkben mentális modellekké válnak, amikből mi valóságot csinálunk
-    - ezért ha egy időszakos diétaként tekintünk erre a rendszerre, akkor a végén az is lesz belőle
-    - pedig ez egy fenntartható (és egészséges) életmód
-- "csalás" helyett pedig tudatosan vállalt alkalmak/időszakok vannak, amikor (kényelmes határokon belül) jobban elengedjük magunkat
-    - és ezt bűntudat nélkül lehet, csak először következetességgel ki kell érdemelni
+- Ha nem tisztán csináljuk, akkor szükségtelenül nehéz lesz, és úgy nem bírjuk majd sokáig.
+A böjt tényleg legyen böjt!
 
-<!-- ## 20 -- Hozzáállás -->
+- Ha gyors és/vagy lineáris eredményeket várunk, akkor csalódottak leszünk, és nem csináljuk majd elég ideig.
+Gondolkozzunk inkább trendekben, ne adatpontokban!
 
-- ha nem tisztán csináljuk, akkor szükségtelenül nehéz lesz, és úgy nem bírjuk majd sokáig
-- ha gyors és/vagy lineáris eredményeket várunk, akkor csalódottak leszünk, és nem csináljuk majd elég ideig
-- ha egy fenntartható életstílus helyett időszakosként tekintünk rá, akkor még az esetleges sikereinkből is tudunk újra látványos visszacsúszásokat produkálni
-- ha kötött szemléletmóddal rendelkezünk a növekedési helyett, akkor az út közben elkerülhetetlen bukkanókon nem jutunk át (Dweck ref.)
+- Ha kötött szemléletmóddal rendelkezünk a növekedési helyett, akkor az út közben elkerülhetetlen bukkanókon nem jutunk át (lásd [Carol Dweck]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %})).
 
-- mint kb. mindenben, itt is nagyon fontos, hogy hogyan beszélünk magunkhoz
-    - ha mi is irigyen "megérdemelnénk" a kaját, amikor mások esznek, akkor egy akaraterő-alapú küzdelem lesz minden perc
-    - de ha ehelyett például inkább azt mondjuk magunknak, hogy megérdemeljük a fit, egészséges alakot, akkor egyből máshogy fogunk tekinteni a többiek zabálására
-- placebo effekt említés
-- próbáljuk a böjtöt is úgy élvezni, mint a kajálást -- és higgyük el, ahhoz is hozzá lehet szokni
+- Ha egy fenntartható és egészséges életstílus helyett időszakos diétaként tekintünk rá, akkor még az esetleges (ideiglenes) sikereinkből is tudunk majd újra látványos visszacsúszásokat produkálni.
+Hasonló okból a "csalás" vagy a "bűnözés" szavak helyett is legyen inkább tudatos lazítás, amit előtte/utána a megfelelő következetességgel kiérdemlünk.
+Tudom, akadékoskodásnak tűnhet, de a szavak a fejünkben mentális modellekké válnak, amikből aztán mi valóságot csinálunk.
+Úgyhogy csak óvatosan.
 
-<!-- ## 21 -- A mozgás szerepe -->
+Harmadszor: ne aggódjuk túl a böjtök és a **mozgás** összeegyeztetését.
+Konkrét mozgás tervekre nem térünk ki (arra ott van például a [Fegyencedzés]({% post_url 2020-04-03-paul-wade-fegyencedzes %})), kajailag viszont az a lényeg, hogy nyugodjunk meg.
+Nem kell rögtön edzés előtt enni, mert anélkül is lesz bőven energiaforrás.
+Nem kell rögtön edzés után sem enni, mert nélküle is lesz miből épülnie az izmoknak (az autofágia például erre is való).
+Ha általánosságban van elégséges fehérje és egyéb tápanyag bevitelünk, akkor nem lesz baj.
+Sőt, a böjt alatt ugye több a növekedési hormon, szóval ha már egyszer hozzászoktunk a böjthöz (és ezért nem vagyunk tiszta letargikusak), akkor még akár jobban is járunk, ha koplaltan edzünk.
 
-- konkrét mozgás tervekre nem térünk ki
-    - mindenki csináljon, amit szeret, és ami (rendszeresen!) belefér a napjába
-    - csak csináljon **valamit**, mert a mozgás bizony része egy teljes és egészséges életnek
-- kajailag viszont a lényeg, hogy nyugodjunk meg
-    - nem kell rögtön edzés előtt enni, mert így is lesz bőven energiaforrás
-    - nem kell utána sem, mert nélküle is lesz miből épülnie az izmoknak (az autofágia erre is való, BCAA-kat újrahasznosít)
-    - ha általánosságban van elégséges fehérje és egyéb tápanyag bevitelünk, akkor nem lesz baj
-- plusz a böjt alatt ugye több a növekedési hormon + jobban dübörög az autofágia is, szóval ha már egyszer hozzászoktunk a böjthöz (és ezért nem vagyunk tiszta letargikusak), akkor még akár jobban is járunk, ha koplaltan edzünk
-- megjegyzés: edzéssel karöltve általában még lassabb lesz a súlyvesztés
-    - lásd rekompozíció
+Végül pedig: legyünk türelmesek az esetleges **platóknál**.
+Hosszabb (értsd, legalább 1-2 hónapos!) stagnálás esetén fussuk végig a következő ellenőrzőlistát:
 
-<!-- ## 22 -- Platók áttörése -->
+- Nincs a háttérben gyógyszer mellékhatás vagy valami betegség?
+- Nem a hosszútávú elhízás miatt tart-e hosszabb ideig a rendszer beindulása?
+- Biztosan nem haladunk? -- mert ugye nem csak a mérleg számít, hanem a körfogatok, vagy a képek, vagy akár a közérzet...
+- Tényleg tiszták azok a böjtök?
+- Az ablak nyitvatartása alatt nem zabálunk túl sokat?
+- Nem szemetet fogyasztunk?
+- Nem lehetne egy kicsit rövidíteni vagy tolni az ablakunkon?
+- A fent/lent napos váltakozás sem segített?
+- Próbáltunk már más kajákat is (ugye a bio-individualitás jegyében)?
+- Tudnánk ideiglenesen még szigorúbbra tisztítani az étrendet?
+- Biztos adtunk a folyamatnak elég időt?
 
-- először is bizonyosodjunk meg róla, hogy nincs a háttérben
-    - gyógyszer mellékhatás vagy valami betegség
-    - hosszútávú elhízás, ami miatt hosszabb ideig tart a rendszer beindulása
-- másrészt legyünk biztosak benne, hogy tényleg nem haladunk
-    - mert ugye nem csak a mérleg számít, hanem a körfogatok, vagy a képek, vagy akár a közérzet...
-- aztán jöhetnek az étrendhez kapcsolódó ellenőrzések
-    - tényleg tiszták azok a böjtök?
-    - az ablak nyitvatartása alatt nem zabálunk túl sokat?
-    - nem szemetet fogyasztunk?
-- ha még idáig is eljutottunk, akkor kezdhetünk finomhangolni
-    - rövidebb ablakok (akár csak hetente párszor)...
-        - vagy toljuk el az ablakunkat más napszakra
-        - vagy mondjuk egy-egy teljes napos lent nap / fent nap kombó az ablakok mellé
-    - kísérletezés más kajákkal, hátha a jelenlegi pont nem annyira OK a szervezetünknek
-    - plusz ideiglenes! tisztítás
-        - ugye nem kell örökre lemondani dolgokról, de egy egy ilyen átbillenéshez hasznos lesz, ha ideiglenesen lemondunk az alkoholról/desszertekről/stb.
-- végül pedig IDŐ!!
-
-<!-- ## 23 -- Karbantartás -->
-
-<!-- ## 24 -- Terjeszteni ér -->
+Ezeken végighaladva szinte biztos, hogy sikerül kibillenteni magunkat.
+És onnantól már tényleg csak idő kérdése...
 
 <br>
 
@@ -471,3 +464,16 @@ A tartalom a következőképp alakul:
 
 
 ## Összefoglalás
+
+És íme, hölgyeim és uraim.
+Egy (remélhetőleg) meggyőző érvelés az időszakos böjtölés mellett.
+Láthattuk, hogyan *ne* együnk, ha zárva az ablak; és hogyan együnk, ha nyitva.
+És persze hogy mindezt hogyan tudjuk elégszer megismételni, hogy értelme is legyen.
+
+A három sarkalatosabb tanulság, amit külön kiemelnék:
+
+- Böjt ügyben az **anyagcsere belassulása**, ami egy folyamatosan csökkentett diéta során szinte elkerülhetetlen, az IF mesterséges "hullámoztatása" mellett viszont könnyen kivédhető.
+
+- Lakoma ügyben a **bio-individualitás**, vagyis hogy ahányan vagyunk, annyiféle reakciónk lehet bizonyos ételekre -- és hogy ezért az alapismereteken felül érdemes itt is inkább a saját kezünkbe venni a kísérletezést.
+
+- Ismétlés ügyben pedig az *ideiglenes diéta* kontra *tartós életmód* **hozzáállás**, ami a "heti 1 kiló" és az "előtte/utána fénykép" fázisnál ugyan nem fog számítani, de pár év múlva visszatekintve (és rossz esetben visszahízva) nagyon.
