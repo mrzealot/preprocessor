@@ -2,6 +2,8 @@
 layout: post
 title: Fizikai áttekintés
 permalink: /2020/fizikai-attekintes
+cover: 2020_physical
+tags: [táplálkozás, aktivitás, minimalizmus, pénzügyek]
 date: 2020-12-12 00:01
 excerpt: >
     A karácsonyi készülődések közepette ugyan, de tovább zakatol a "repeta-hónap".

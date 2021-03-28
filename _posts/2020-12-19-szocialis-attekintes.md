@@ -2,6 +2,8 @@
 layout: post
 title: Szociális áttekintés
 permalink: /2020/szocialis-attekintes
+cover: 2020_social
+tags: [kapcsolatok, stratégia]
 date: 2020-12-19 00:01
 excerpt: >
     Telik-múlik a "repeta-december", amit a szociális vonatkozásokkal folytatunk.

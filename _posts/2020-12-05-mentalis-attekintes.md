@@ -2,6 +2,8 @@
 layout: post
 title: Mentális áttekintés
 permalink: /2020/mentalis-attekintes
+cover: 2020_mental
+tags: [szemléletmód, produktivitás]
 date: 2020-12-05 00:01
 excerpt: >
     Az időközönkénti ismétlés minden jó tanulási módszerben alapkövetelmény.

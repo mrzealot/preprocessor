@@ -2,7 +2,7 @@
 layout: post
 title: Josh Waitzkin - A tanulás művészete
 cover: waitzkin
-tags: [szemléletmód]
+tags: [szemléletmód, produktivitás]
 pages: 265
 date: 2021-02-06 00:01
 excerpt: >
