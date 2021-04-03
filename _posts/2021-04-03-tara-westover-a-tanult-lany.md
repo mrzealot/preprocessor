@@ -3,27 +3,59 @@ layout: post
 title: Tara Westover - A tanult lány
 cover: westover
 tags: [szemléletmód]
+pages: 334
 date: 2021-04-03 00:01
 excerpt: >
     TODO
 ---
 
-# Jegyzetek
+A héten tovább feszegetjük a (folyamatos) tanulás témakörét, csak most a konkrét produktivitási tanácsok helyett egy visszaemlékezés segítségével.
+A hatékonyság ugyanis csak akkor számít, ha már eleve tanulni akarunk -- és tanulni pedig valószínűleg akkor fogunk akarni, ha felismerjük, hogy az mekkora érték.
+Sőt, kiváltság.
 
-- a POFÁM LESZAKAD, ahogy ezt olvasom...
+Na ez a felismerés az, ami mellett gyakorlatilag nem lehet elmenni Tara Westover -- [A tanult lány](https://www.goodreads.com/book/show/35133922-educated){:target="_blank"} című könyvét olvasva.
+A történet egy mormon, paranoiás, világvégére készülős neveltetésből "kitörésről" szól, ahol Tara nem járhatott iskolába -- és ezért büntetlenül rengeteg olyan tévképzetet nevelhettek belé, amiket utána évek munkába volt egyesével újraértékelni.
+Olvasás közben a leggyakoribb gondolatom az volt, hogy "A pofám leszakad"!
+De pontosan ez az érzelmi töltet teszi hatásossá a háttérben meghúzódó üzenetet.
 
-- egy mormon neveltetésből "kitörés" története, ahol Tara nem járhatott iskolába -- és ezért büntetlenül rengeteg olyan tévképzetet nevelhettek belé, amiket utána évek munkába volt egyesével újraértékelni (?)
+A tartalom a következőképp alakul:
+
+- [Egy abnormális gyerekkor](#gyerekkor)
+- [Két világ között](#kozott)
+- [A nagy törés](#tores)
+- [A tanulság&trade;](#tanulsag)
+
+Illetve talán magától értetődő, de azért megjegyzem, hogy az egész poszt területén **Spoiler warning** van érvényben.
+Aki még nem olvasta, annak csak annyi a spoiler-mentes értékelésem, hogy olvassa el!
+Utána itt találkozunk.
+
+<br><br><br><br><br><br><br><br><br><br><br>
+Mondtam, hogy **Spoiler warning**? Ja igen? Akkor jó.
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
-# Tartalom
 
-## Előszó
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="gyerekkor"></a>Egy abnormális gyerekkor
+
+<!-- ## Előszó -->
 
 - az iskolabusz megállás nélkül hajt el a farmjuk mellett a főúton -- nem jár iskolába
 - a világvégére készülnek (ún. "prepperek"), szóval még csak nem is a vakbuzgó vallás lesz az egyetlen kihívás :/
 - az Indián Hercegnő hegycsúcs az otthon
 
-## A jót választani
+<!-- ## A jót választani -->
 
 - a nagyi szerint kellett volna az iskola, de az apuka szerint az csak a kormány módszere, hogy a gyerekeket "letérítsék Isten útjáról"
 - apa valami tejes-mézes Biblia idézettől vezérelve a fejébe vette, hogy csak a méz a jó, a tej pedig nem, ezért tej-ellenes "hadjáratba" kezdett
@@ -36,7 +68,7 @@ excerpt: >
         - egy szó mint száz, látványos agybaj... csak hát ez ugye belülről (főleg egy kislány szemében) nem így jött le
 - a Lenti Nagyi megszöktette volna Arizonába (hogy ott iskolába is járhasson), de ő mégsem ment
 
-## A bábaasszony
+<!-- ## A bábaasszony -->
 
 - bábaság: az anyja nagyon nem akar bába lenni, de az apja szerint ez Isten akarata
     - meg különben is, ezzel is függetlenebbek lesznek a kormánytól
@@ -45,13 +77,13 @@ excerpt: >
         - addig nem is tudták pontosan a szülinapjukat, csak hogy kb. szeptember vége felé szokták tartani :D
 - emlékezetes sztori, hogy kellett "adnia a hülyét", amikor az egyik esetét csak kórházba kellett szállítani, nehogy levegyék, hogy ő bábáskodott (ami félig/meddig ugye illegális)
 
-## Krémszínű cipők  
+<!-- ## Krémszínű cipők   -->
 
 - családi háttér
     - az anya jó (túl "jó", a látszatra sokat adó) családból származott, és pont ez ellen próbált lázadni
     - az apja fiatalon vidám és gondtalan volt, de aztán szépen folyamatosan ütött be az, amiről később Tara megtudta, hogy talán bipoláris zavar, paranoia, vagy ki tudja (soha nem is derülhet ki, hiszen kinek hagyná, hogy diagnosztizálja...)
 
-## Apacs asszonyok
+<!-- ## Apacs asszonyok -->
 
 - Arizonában "kényszer-nyaralnak", mert apa már-már öntudatlan állapotban van
     - amiből csak olyankor tér magához, amikor épp az Illuminati vagy a sátáni orvoslás ellen prédikál
@@ -61,7 +93,7 @@ excerpt: >
     - anya komolyan megsérül (valószínűleg jelentős agykárosodás), de nincs orvosi kezelés, "Isten kezében van"...
         - még évek múlva is rossz neveket szólítja a gyerekeit
 
-## Tisztességes piszok
+<!-- ## Tisztességes piszok -->
 
 - az otthoni "oktatás" igencsak foghíjasan ment
     - egy darabig az anyjuk ragaszkodott ahhoz az önáltatáshoz, hogy "azért tanulnak a gyerekek otthon az iskola helyett, mert így jobb oktatásban részesülnek"
@@ -74,7 +106,7 @@ excerpt: >
 - a Városi Nagyinál kibukik, hogy WC után nem is mos kezet
     - ezt egy picit szégyelli, amíg a nagyi "hatása alatt áll", de amint az apja érte jön, megint teljesen természetes lesz
 
-## Pajzs és páncél
+<!-- ## Pajzs és páncél -->
 
 - a nagyobb gyerekek "kirepültek" otthonról
     - habár csak Tyler bátyja volt ilyen "tudálékos", a többiek is saját munkát/kocsit szereztek, hogy eltávolodhassanak az apjuk elnyomásától
@@ -90,12 +122,12 @@ excerpt: >
     - Tara pedig persze magát is okolja, annyira az apja hatása alatt áll
     - ez segít neki végleg eldönteni, hogy iskolába akar járni
 
-## Az Úr gondoskodik az övéiről
+<!-- ## Az Úr gondoskodik az övéiről -->
 
 - Luke bátyja benzint farmerra öntős, megégéses balesete
     - és természetesen ezzel sem viszik kórházba
 
-## Apró szajhák
+<!-- ## Apró szajhák -->
 
 - apró munkákat vállal, amiből saját pénz, amiből pedig zongora és táncórákat vesz
     - a táncnál persze hatalmas probléma, hogy nem öltözhet "szajhának", csak "rendes" ruhában
@@ -104,12 +136,12 @@ excerpt: >
 - ez viszont nagyon bejön, kiderül, hogy van tehetsége hozzá
     - onnantól mindenhova hívják énekelni
 
-## A világvége elmarad
+<!-- ## A világvége elmarad -->
 
 - főszerepeket énekel a városi színházban
 - az Y2K-ra készülnek, ami végül ugye elmarad
 
-## Tollpáncél
+<!-- ## Tollpáncél -->
 
 - új Arizonai kirándulás, ahonnan újra éjszaka akarnak hazajönni
     - a tetejébe viharban
@@ -121,11 +153,11 @@ excerpt: >
 - az egyik hazalátogató bátyja (Shawn, csontkovácsosdit játszva) kireccsenti a nyakát
     - ami attól, hogy szerencsésen épp működött, még kurva felelőtlen volt
 
-## Üvöltő ösztönök
+<!-- ## Üvöltő ösztönök -->
 
 - ló betörések, majdnem baleset, de aztán mégsem
 
-## Halszemek
+<!-- ## Halszemek -->
 
 - kamionozni megy Shawn bátyjával
     - aki első körben tök jó fejnek tűnik (legalább is családi berkekben)
@@ -133,7 +165,7 @@ excerpt: >
     - és a neki "udvarló" lányt is elég kegyetlenül szívatja
 - ez végül kiborul Tara-val is, akivel (mint kiderül) tud agresszívan is bánni
 
-## Csend a templomokban
+<!-- ## Csend a templomokban -->
 
 - Shawn-ból megint előjön az állat, ahogy az egyre nőiesebbé váló kishúga "szajhálkodik", mert sminkelni meri magát és fiúkkal meg beszélgetni
     - konkrétan úgy megveri és fojtogatja, hogy félig-meddig be is ájul
@@ -143,7 +175,7 @@ excerpt: >
 - Tyler próbálja kirángatni szegényt ebből a közegből
     > Kint egy másik világ van, Tara. És nagyon másmilyennek látod majd, ha Apa nem sulykolja állandóan beléd a saját nézeteit.
 
-## Nem a földön járok
+<!-- ## Nem a földön járok -->
 
 - elkezd önállóan egy főiskolai felvételire készülni
     - és ahol kell, Tyler is segít neki
@@ -152,20 +184,21 @@ excerpt: >
     - de ahogy visszaerősödik, úgy jönnek újra a dühkitörések is
         - Tara akkoriban még meggyőzte magát, hogy ezek a sérülés tünetei, de így visszagondolva nem volt sokkal másabb a helyzet, mint előtte... csak így már volt mire fogni
 
-## Már nem gyermek többé
+<!-- ## Már nem gyermek többé -->
 
 - az apja természetesen megpróbálja lebeszélni az iskoláról (és mindig elborul az agya, amikor mégis afelé görbülnek a dolgok)
     - de Tara akkor is leteszi a felvételit, ami (még a saját meglepetésére is) egész jól sikerül
 - az apja legújabb szerzeménye egy minden eddiginél életveszélyesebb vasvágógép, amit az egyik fia lesérülése után Tara-val akar üzemeltetni
     - a felgyógyulóban lévő Shawn kiváltja
 
-## Gyarló ember, lázadó angyalok
+<!-- ## Gyarló ember, lázadó angyalok -->
 
 - meg Shawn baleset, ezúttal motoros, fejsérülés, nagyon vérzik
     - és az apja szerint nyilván ezt is majd otthon anya az olajokkal megoldja
     - Tara-ban ekkor pattan el valami, és csak azért is kórházba viszi
     - kb. ez tekinthető az apai befolyás végének
 
+<br>
 
 
 
@@ -177,9 +210,27 @@ excerpt: >
 
 
 
-# 2. rész
 
-## Maradjon szent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="kozott"></a>Két világ között
+
+<!-- ## Maradjon szent -->
 
 - erős kultúrsokk, ahogy egy városi albérletbe kerül a főiskolai tanulmányai idejére
     - a lakótársak pofátlanul bűnöznek az Úr mindenféle parancsolata ellen, mint például kilátszik a válluk, és vasárnap vásárolnak...
@@ -188,13 +239,13 @@ excerpt: >
     - ún. "feketelyuk-szavak", amikről annyira nem tudja, mit jelentenek, hogy szinte a körülöttük lévő többi szót is magukba szívják
         - és amikor pont a holokausztra sikerül rákérdeznie, ki is borul a bili
 
-## Vér és tollak
+<!-- ## Vér és tollak -->
 
 - „A tankönyvet el kell olvasni" --> szerencsétlen még azt sem tudta az egyik könyvéről, hogy abban nem csak a képeket kell nézni, hanem olvasni sem ártana mellé
     - viszont miután elkezdett olvasni, sokkal könnyebb lett a helyzet (mart aztán tanulni meg tanult is hajnalokig)
     - ugye-ugye, ahogy kezd kiegyenlítődni az előismeretek kontra szorgalom
 
-## Minden kezdet nehéz
+<!-- ## Minden kezdet nehéz -->
 
 - a nyári szünetben hazament
     - felvennék eladónak, hogy a tandíjra spórolhasson, de az apja követeli, hogy nála dolgozzon (különben nem is lakhat otthon)
@@ -205,7 +256,7 @@ excerpt: >
 - rügyező szerelmi viszony a régi színházban látott sráccal (Charles)
     - de a belévert "szajházás" miatt sokáig még a kezét sem tudja bűntudat nélkül megfogni
 
-## Az apák meséi
+<!-- ## Az apák meséi -->
 
 - aktívan próbálják visszahúzni
     - nehogy "fennhéjázó" legyen, az iskolája és az új barátja miatt
@@ -213,7 +264,7 @@ excerpt: >
     - ez már régebben is előfordult, de most, a frissen tanult Amerikai történelem fényében egy kicsit máshogyan hat
     - de a megalázás helyett (mellett?) pont azt érték el vele, hogy egyre jobban tudatosul Tara-ban a közte és a családja közt tátongó szakadék
 
-## Csukóka
+<!-- ## Csukóka -->
 
 - először vesz be fájdalomcsillapítót, ami (a lobéliával is a vízmelléki csukókával szemben) működött, és ettől teljesen leesett az álla
 - új albi, új lakótársak
@@ -224,7 +275,7 @@ excerpt: >
     - és még algebrából is bukásra áll
     - de egy kis noszogatásra legalább hajlandó volt bemenni a professzorhoz segítséget kérni
 
-## Suttogás és sikoly
+<!-- ## Suttogás és sikoly -->
 
 - brutális tagadás és önpusztítás
     - egy otthoni ebédnél Shawn bátyja konkrétan megveri a fiúja előtt, de ő csak próbálja tettetni, hogy minden rendben
@@ -242,7 +293,7 @@ excerpt: >
     - aztán jön még új bocsánatkérés, és újra átértelmezi, hogy félreértés...
     - de legalább a kétség szikrája már felvetődött benne, hogy ha valamit nem is tud biztosan, attól még nem kell hinnie a családja (biztosnak kikiáltott) verziójának!
 
-## Idahói vagyok
+<!-- ## Idahói vagyok -->
 
 - végül csak megnyílik a Utah-i helyi papja előtt, aki meghallgatja
     - és ezzel elkezdi "kiszívni a mérget" a sebből
@@ -251,7 +302,7 @@ excerpt: >
     - a lakbért sem nagyon tudja fizetni állás és második állás nélkül, nem hogy a hirtelen beütött fogászati kezelését (amit így is hónapokig halogatott)
 - de végül a lakótárs és a pap fokozatosan csak rábeszélik, hogy igényeljen ösztöndíjat (amit az eredményei miatt hipp-hopp meg is kap)
 
-## Kóbor lovag
+<!-- ## Kóbor lovag -->
 
 > [M]egtapasztaltam a pénz legnagyobb előnyét: hogy az ember képes lesz a pénzen kívül másra is gondolni.
 - bevezető pszichológia kurzus, ahol a bipoláris zavarban erősen az apjára ismer
@@ -265,7 +316,7 @@ excerpt: >
     - egy komolyabb torokgyulladással azonban mégis muszáj leküzdenie ezt a félelmét is
     - antibiotikumot kap, amiről eddig úgy tudta, hogy iszonyatos bűn és még évekkel később is torz gyerekei születnek majd... de a kíváncsiság győzött
 
-## Kénköves lángok
+<!-- ## Kénköves lángok -->
 
 - az apja felrobbantja magát egy benzintankkal
     - de még ekkor is visszautasítja az orvosokat
@@ -273,7 +324,7 @@ excerpt: >
     - csodával határos módon életben marad, és Tara is mellette van (miután már nem fél, hogy a saját bacijaival megfertőzheti)
 - ekkor tudatosul benne, hogy azért valamikor majd bízott a békülésben, és a viszályukat nem véglegesnek gondolta
 
-## A lélek embere
+<!-- ## A lélek embere -->
 
 - az apja horrorisztikus sérülései mély nyomot hagynak benne
 - megpróbálja Shawn menyasszonyát lebeszélni az esküvőről, de
@@ -281,7 +332,7 @@ excerpt: >
     - másrészt a lány (nyilván) tisztában van az erőszakos természetével, és ennek ellenére is döntött
 - szakít az új barátjával, mert egyszerűen nem tudja vele megosztani a múltját
 
-## Ha nő lennék
+<!-- ## Ha nő lennék -->
 
 - egyre jobban nyílik a szeme a változatos egyetemi tárgyakon keresztül
     - és ezt egyre nehezebben tudja összeegyeztetni azzal, hogy egy nőnek milyennek is kellene lennie
@@ -292,7 +343,7 @@ excerpt: >
     - Shawnéknál a gyerek nagyon koraszülött, de megmarad
         - és apa/anya szerint ennek pont így is kellett lennie, ez Isten akarata
 
-## Pygmalion
+<!-- ## Pygmalion -->
 
 - Cambridge-ben nem is a történelemről, hanem a történészekről szeretne kutakodni
     - mert ő aztán tudja, hogy milyen szubjektív ez az egész, és hogy milyen, amikor az ember lába alól kirántják a talajt
@@ -307,7 +358,7 @@ excerpt: >
 - erős imposztor szindróma, még a fényes megfelelés mellett is
     - ebben a nagy fényűzésben az otthoni fejet wc-be nyomások még élesebb kontrasztot adnak :/
 
-## Diplomaosztó
+<!-- ## Diplomaosztó -->
 
 - visszatér Amerikába, és egy szülői látogatás során szembesül vele, hogy egy friss, "világi" szemszögből mennyire nevetségesek, amiket az apja összemagyaráz
     - > Elképesztő, hogy régebben mindezt a legkisebb gyanakvás nélkül elhittem", írtam. „Az egész világ tévedett, csak Apának volt igaza.
@@ -315,6 +366,7 @@ excerpt: >
     - nem akarja bevallani, hogy korábban nem járt iskolába
     - és ezt még az apja veszi sértésnek, mert szerinte egyenesen pont azért ilyen sikeres, mert az otthoni oktatása mennyivel jobb a szoci rendszernél
 
+<br>
 
 
 
@@ -328,9 +380,20 @@ excerpt: >
 
 
 
-# 3. rész
 
-## A Mindenható keze
+
+
+
+
+
+
+
+
+
+
+## <a name="tores"></a>A nagy törés
+
+<!-- ## A Mindenható keze -->
 
 - az ösztöndíjjal újra Cambridge, de most már mind hivatalos ottani polgár
 - megint egy elég nagy áttörés: a feminizmusról olvas (és most először találkozik vele *nem* negatív fényben)
@@ -338,7 +401,7 @@ excerpt: >
 - még innen is hazalátogat, csak hogy tanúja legyen, hogy Shawn hogyan bánik a feleségével
     - és sajnos nem tud "emancipált nőként" viselkedni, csak visszaesik a régi mintáiba
 
-## Tragédia, majd bohózat
+<!-- ## Tragédia, majd bohózat -->
 
 - John Stuart Mill szabadság-elméletéről ír diplomamunkát :)
 - kényszeríti magát az egyre jobb "beilleszkedésre"
@@ -349,7 +412,7 @@ excerpt: >
 - Tara megérti, hogy eddig sem az elegancia miatt érezte magát imposztornak Cambridge-ben, hanem mert a szülei viselkedése miatt úgy általánosságban szerethetetlennek és méltatlannak tartotta magát
     - de ez most végre változóban, és innentől már nyíltan tud beszélni a múltjáról is
 
-## Az az asszony dolga!
+<!-- ## Az az asszony dolga! -->
 
 - a háttérben összejövöget egy Drew nevű sráccal otthonról
 - a Lenti Nagyija haldoklik, ezért újra hazalátogat
@@ -358,12 +421,12 @@ excerpt: >
     - már rengeteg munkás, ház bővítések, rendelések, cég, stb.
 - a Nagyi halála megint dührohamos kedvébe hozza az apját, de az anyja (életében talán először) szembeszáll vele
 
-## A fizika varázslata
+<!-- ## A fizika varázslata -->
 
 - Shawnnál egy hajszálon múlik, hogy nem borul ki teljesen
     - Audrey-ról visszahallotta, miket mond róla, és ha ezt Tara is vállalta volna, azzal könnyen kórházba (vagy temetőbe) kerülhetett volna
 
-## A dolgok lényege
+<!-- ## A dolgok lényege -->
 
 - beszél az apjával, annak a reményében, hogy majd az anyja is mellé áll
     - de itt megint gyengének bizonyul, és egyedül marad
@@ -375,7 +438,7 @@ excerpt: >
         - és ezt a véres kést Tara kezébe nyomta a beszélgetés alatt
 - itt még sikerül addig csillapítani a kedélyeket, amíg végül el nem tud menekülni
 
-## A naptól nyugatra
+<!-- ## A naptól nyugatra -->
 
 - Shawn utólag persze átgondolja a vádakat, és hogy csak hazudott, amikor ott este tagadott
     - hívogatja, bérgyilkossal fenyegetőzik, a szülei pedig természetesen továbbra is az ő pártját fogják, hogy "nem gondolja komolyan"
@@ -389,7 +452,7 @@ excerpt: >
 - egyszerűen annyira abszurd ez az egész, hogy Tara a saját épelméjűségében is kezd kételkedni
     - évekkel később persze lesz kézzelfogható bizonyíték is a naplóján felül, de itt teljes egzisztenciális válságba zuhan
 
-## Szélmalomharc
+<!-- ## Szélmalomharc -->
 
 - a szülei meglátogatják, most már a Harvardon (ahova szintén ösztöndíjat kapott)
     - megpróbálják "megtéríteni", ő pedig még mindig "hagyná", ha visszaállhatna a béke
@@ -398,7 +461,7 @@ excerpt: >
 - minden eddigi tanulása azt mutatta neki, hogy más igazságok is vannak az apjáéin felül, ezért nagy nehezen visszautasította az "áldást"
     - erre a szülei hirtelen a gonosz jelenlétét érezték, és nem maradhattak egy perccel sem tovább
 
-## A megbocsátásért bármit
+<!-- ## A megbocsátásért bármit -->
 
 - erre viszont teljesen meggajdul
     - napi 18-20 órát TV-zik, nem tanul, rémálmai vannak, éjszakánként gyakran az utcán ébred alvajárás is sikoltozás közben
@@ -407,20 +470,42 @@ excerpt: >
 - végül fogja a naplóit, és végleg elmegy otthonról
     - utána is folytatódnak a pánikrohamok, amiért egy dühös levélben "legalább egy évre" megszakítja a kapcsolatot az otthoniakkal
 
-## Gyászterápia
+<!-- ## Gyászterápia -->
 
 - Tyler kitart mellette, pedig nem is mert számítani rá, hogy valaki az ő pártját fogná
     - sokat beszélget velük, illetve VÉÉÉGRE pszichológushoz is jár
 - így sikerül visszazökkennie a PhD vágányra, amit végül (szinte napra pontosan tíz évvel az otthonról kitörése után) meg is szerez
 
-## A Hercegnő hívó szava
+<!-- ## A Hercegnő hívó szava -->
 
 - úgy dönt, hogy túl sokáig hagyta, hogy az apja írja az ő történetét is
     - ezért a doktori után újra hazatér, hogy ne csak egy gyáva elmenekülése, hanem egy egyenes gerincű kilépője legyen
 - és aki nem függ anyagilag az apjáéktól, azokkal érdekes módon sikerül is újra felvennie a kapcsolatot
     - > A családom középen kettészakadt: három, aki elment a hegyről; négy, aki maradt. A három doktorit szerzett, a másik négy még a középiskolát sem végezte el.
 
-## A tanult lány
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="tanulsag"></a>A tanulság&trade;
 
 - befejezés: már évek óta nem beszélt a szüleivel, és az ő pártjukat fogókkal
     - a két doktor bátyjával (és az egyik otthon maradttal), illetve a család távolabbi tagjaival tartja a kapcsolatot
@@ -431,3 +516,8 @@ excerpt: >
     - ez a véres késes estén tört végleg ketté, és azóta már az új énje döntéseinek következményei közt él
 - az, hogy ez az átalakulás "megvilágosodás" vagy "árulás"-e, az csak nézőpont kérdése
     - Tara leginkább tapasztalatszerzésként tekint rá, ahogy tanult lánnyá vált
+
+
+nem kell ahhoz ennyire fanatikus, vallásos, világvége-készülős környezetben felnőnünk, hogy nekünk is lehessenek mentális torzításaink.
+Igazából gyakorlatilag garantálható, hogy ezek a feltételek nélkül is lesznek.
+De ha egy ilyen extrém agy-ketrecből is ki lehet törni, akkor nekünk már nincs kifogás...
