@@ -16,7 +16,7 @@ A hatékonyság ugyanis csak akkor számít, ha már eleve tanulni akarunk -- é
 Sőt, kiváltság.
 
 Na ez a felismerés az, ami mellett gyakorlatilag nem lehet elmenni Tara Westover -- [A tanult lány](https://www.goodreads.com/book/show/35133922-educated){:target="_blank"} című könyvét olvasva.
-A történet egy mormon, paranoiás, világvégére készülős neveltetésből "kitörésről" szól, ahol Tara nem járhatott iskolába -- és ezért büntetlenül rengeteg olyan tévképzetet nevelhettek belé, amiket utána évek munkába volt egyesével újraértékelni.
+A történet egy mormon, paranoiás, világvégére készülős neveltetésből "kitörésről" szól, ahol Tara nem járhatott iskolába -- és ezért büntetlenül rengeteg olyan tévképzetet nevelhettek belé, amiket utána évek munkája volt egyesével újraértékelni.
 Olvasás közben a leggyakoribb gondolatom az volt, hogy "A pofám leszakad"!
 De pontosan ez az érzelmi töltet teszi hatásossá a háttérben meghúzódó üzenetet.
 
@@ -28,7 +28,7 @@ A tartalom a következőképp alakul:
 - [A tanulság&trade;](#tanulsag)
 
 Illetve talán magától értetődő, de azért megjegyzem, hogy az egész poszt területén **Spoiler warning** van érvényben.
-Aki még nem olvasta, annak csak annyi a spoiler-mentes értékelésem, hogy olvassa el!
+Aki még nem olvasta, annak csak annyi a spoiler-mentes értékelésem, hogy <u>olvassa el</u>!
 Utána itt találkozunk.
 
 <br><br><br><br><br><br><br><br><br><br><br>
@@ -56,7 +56,7 @@ A kis Tara ugyanis nem jár iskolába, ahogy a testvérei sem.
 És ez még talán nem is lenne akkora baj egy *rendes* otthoni oktatás mellett...
 De sajnos ahol egyszerre vakbuzgó mormonok, összeesküvés-elméleteket szajkózó kormányellenesek, és a világvégére készülő "prepperek" a szülők, ott lesz nagyobb baj is.
 
-Az anya jó (túl "jó", a látszatra sokat adó) családból származott, és valószínűleg pont ez ellen próbált lázadni.
+Az anyja jó (túl "jó", a látszatra sokat adó) családból származott, és valószínűleg pont ez ellen próbált lázadni.
 Az apja pedig egy igazi parasztgyerek, aki fiatalon még vidám és gondtalan volt, míg aztán szépen folyamatosan be nem ütött az, amiről később Tara megtudta, hogy talán bipoláris zavar.
 De ki tudhatná pontosan -- soha nem is derülhet ki, hiszen kinek hagyná, hogy diagnosztizálja...
 
@@ -67,15 +67,15 @@ Na ehhez még képzeljünk hozzá 7, azaz *hét* gyereket, és máris minden idi
 
 Bőven lehetne mit mondani az otthoni körülményekről, de ragadjunk ki csak egy példát, szemléltetésként.
 Egyszer Arizonában "kényszer-nyaralnak", mert apa akkor épp időszakosan szinte öntudatlan.
-Ebből az állapotából csak olyankor tér magához, amikor épp az Illuminati vagy a sátáni orvoslás ellen prédikál.
+Ebből az állapotából csak olyankor tér magához, amikor épp az Illuminátusok vagy a sátáni orvoslás ellen prédikál.
 Innen hazafelé durva autóbalesetet szenvednek el -- mert persze apa ragaszkodott hozzá, hogy éjszaka autózzanak le egy 12 órás utat.
 Anya itt komolyan megsérül (valószínűleg jelentős agykárosodással karöltve), de nincs orvosi kezelés, "Isten kezében van"!
 Gondolom így történhetett meg, hogy az addig relatíve racionális nő bábáskodási "praxisában" is egyre jobban előkerültek az *izomválaszok*, az energia pontok, a csakra kiigazítások, és a homeopátiás szerek.
 
-Ebből a nevetséges szintű felelőtlenségből utána sajnos minta lesz.
+Ebből a nevetséges szintű felelőtlenségből utána sajnos minta lesz:
 
 - Luke bátyja benzint farmerra öntős, megégéses balesete;
-- Tara roncstelepi lezuhanó balesete;
+- Tara roncstelepi lezuhanós balesete;
 - Egy második, gyakorlatilag ugyanilyen éjszakai, viharban hazavezetős baleset;
 - Vasvágógépes baleset(ek);
 - Shawn bátyja építkezési balesete...
@@ -88,7 +88,7 @@ Egy darabig az anyjuk ragaszkodott ahhoz az önáltatáshoz, hogy "azért tanuln
 Ez idővel odáig torzult, amit az apjuk is mindig mondogatott: tudjanak olvasni, a többi csak értelmetlen okoskodás.
 A gyerekeket minél korábban és minél emberesebb munkákra kell befogni, hadd gyűljön csak a "tisztességes piszok" a körmük alatt.
 
-A kis kori emlékekből még "jó fejként" feltűnő Shawn bátyja egyre agresszívebb Tara-val.
+A kiskori emlékekből még "jó fejként" feltűnő Shawn bátyja egyre agresszívebb Tara-val.
 Főleg akkor jön elő belőle az állat, amikor az egyre nőiesebbé váló kishúga "szajhálkodik", mert sminkelni meri magát és fiúkkal mer beszélgetni.
 Rendszeresen WC-be dugja a fejét, kicsavarja a karját, és néha konkrétan úgy megveri és fojtogatja, hogy félig-meddig be is ájul.
 Ezeket másnap persze mindig "bánja", és azt mondja, hogy Tara értékes.
@@ -96,14 +96,14 @@ Visszatekintve azonban ez könnyen átértelmezhető:
 
 > Ami értékes, az nem én vagyok, hanem a korlátozások tiszteletben tartásából származó máz, amely elfedi a valódi énemet.
 
-Van viszont egy "példakép" is Tyler bátyja képébe, aki mindig is jobban érdeklődött a tanulás és a műveltség iránt.
+Van viszont egy "példakép" is Tyler bátyja képében, aki mindig is jobban érdeklődött a tanulás és a műveltség iránt.
 Klasszikus zenét hallgatott, önszántából matekozott, és nyilván jobban húzott a város intellektuálisabb légköre felé.
 Elég nagy port kavart, amikor bejelentette, hogy ő márpedig főiskolára megy -- még akkor is, ha az apja szerint az csak az Illuminátusok agymosása.
-Eredetileg Tyler próbálja kirángatni szegényt Tara-t is ebből a közegből:
+Eredetileg ő próbálja kirángatni szegényt Tara-t is ebből a közegből:
 
 > Kint egy másik világ van, Tara. És nagyon másmilyennek látod majd, ha Apa nem sulykolja állandóan beléd a saját nézeteit.
 
-A gondolat szép lassan szöget üt a fejében, és elkezd önállóan egy főiskolai felvételire készülni.
+A gondolat szép lassan szöget üt Tara fejében, és elkezd önállóan egy főiskolai felvételire készülni.
 Az apja természetesen megpróbálja lebeszélni az iskoláról, és mindig elborul az agya, amikor mégis afelé görbülnek a dolgok.
 De Tara akkor is leteszi a felvételit, ami (még a saját meglepetésére is) egész jól sikerül.
 Kb. ez tekinthető az abszolút apai befolyás végének.
@@ -140,8 +140,8 @@ Kb. ez tekinthető az abszolút apai befolyás végének.
 
 ## <a name="kozott"></a>Két világ között
 
-Egy ilyen háttér után gondolhatjuk, milyen erős kultúrsokk következik, amikor egy nagyvárosi albérletbe kerül a főiskolai tanulmányai idejére.
-Tara először azt sem tudja, hol áll a feje.
+Egy ilyen háttér után gondolhatjuk, milyen erős kultúrsokk következik, amikor Tara egy nagyvárosi albérletbe kerül a főiskolai tanulmányai idejére.
+Először azt sem tudja, hol áll a feje.
 Kezdjük ott, hogy a lakótársak pofátlanul bűnöznek az Úr mindenféle parancsolata ellen, mint például kilátszik a válluk, vagy hogy vasárnap vásárolnak.
 
 Erre jön rá a főiskola, ahol fogalma nincs, melyik kurzust hogy kell felvenni.
@@ -154,10 +154,10 @@ Egy szóval mondjuk úgy, hogy hátrányból indult.
 Viszont miután elkezdett olvasni, sokkal könnyebb lett a helyzet -- főleg mert aztán tanulni meg tanult is hajnalokig.
 És ugye-ugye, fokozatosan kezdett kiegyenlítődni az előismeretek hiánya kontra szorgalom.
 
-Tara egyre jobban megtanult együttműködni a modern világ szokásaival.
+Tara egyre jobban megtanul együttműködni a modern világ szokásaival.
 Például már nem hagy maga után rohadó kajamaradékokat, és még kezet is mos a WC használat után.
-Vagy itt vesz be először fájdalomcsillapítót is, ami (az anyja lobéliás és vízmelléki csukókás főzetével szemben) működött, és ettől teljesen leesett az álla.
-Az állandó idegesség miatti gyomorfekélye alakul ki, és anyagilag rengeteg munkára szorul a tanulás mellett, szóval itt egy ideig kissé önpusztító üzemmódban működik.
+Vagy itt vesz be először fájdalomcsillapítót is, ami (az anyja lobéliás és vízmelléki csukókás főzetével szemben) működik, és ettől teljesen leesik az álla.
+Az állandó idegesség miatti gyomorfekélye alakul ki, és anyagilag rengeteg munkára szorul a tanulás mellett, szóval itt még egy ideig kissé önpusztító üzemmódban működik.
 De szépen lassan azért alakulnak a dolgai.
 
 <br>
@@ -170,11 +170,11 @@ A tetejébe a vizsgaeredményei olyan jól sikerülnek, hogy ösztöndíjjal biz
 Otthon aktívan próbálják visszahúzni, nehogy "fennhéjázó" legyen az iskolája miatt.
 Az olajos, fekete arca miatt például egy egész nyáron át "nigger"-nek hívják, ami szerintük teljesen rendben van... sőt, humoros.
 Ez persze már régebben is előfordult, de most, a frissen tanult Amerikai történelem fényében Tara-nak egy *kicsit* máshogyan hat.
-De a megalázás helyett (mellett?) pont csak azt érik el vele, hogy Tara-ban egyre jobban tudatosul a közte és a családja közt tátongó szakadék.
+A megalázás helyett (mellett?) pont csak azt érik el vele, hogy Tara-ban egyre jobban tudatosul a közte és a családja közt tátongó szakadék.
 
 Továbbra is képes viszont brutális tagadásra és önpusztításra.
 Mondjuk mikor egy otthoni ebédnél Shawn bátyja konkrétan bántalmazza a fiúja előtt, de ő csak próbálja tettetni, hogy minden rendben.
-Vagy amikor nyilvánosan (és eddig a legdurvábban) megveri, mert a nagy fennhéjázásában már nem akar koszosan bemenni a boltba.
+Vagy amikor szintén Shawn nyilvánosan (és eddig a legdurvábban) megveri, mert a nagy fennhéjázásában már nem akar koszosan bemenni a boltba.
 Tankönyvi bántalmazó, aki utána még Tara-ra tolja a felelősséget, hogy "miért nem szólt, ha tényleg fáj".
 Elvégre csak "ökörködtek".
 
@@ -187,7 +187,7 @@ Legalább a kétség szikrája már felvetődött benne, hogy ha valamit nem is 
 
 Végül az egyik szemesztere során csak megnyílik az egyetemi papja előtt a belső konfliktusait illetően, aki meghallgatja -- és ezzel elkezdi "kiszívni a mérget" a sebből.
 Az ő (és a szobatársai) hatására pedig a pénzügyi gondjai is megoldódnak.
-Rábeszélik ugyanis, hogy igényeljen ösztöndíjat (amit az eredményei miatt hipp-hopp meg is kap).
+Rábeszélik ugyanis, hogy igényeljen ösztöndíjat, amit eddig a szoci kormány gyűlölete miatt nem akart (és amit az eredményei miatt hipp-hopp meg is kap).
 
 > Megtapasztaltam a pénz legnagyobb előnyét: hogy az ember képes lesz a pénzen kívül másra is gondolni.
 
@@ -196,13 +196,13 @@ Ezzel mind végre "kiborul a bili" és Tara átcsap haragba az apja iránt.
 Hivatalosan nem szakítja meg ugyan a kapcsolatot, de ideiglenesen nincsenek épp jóban.
 Innentől próbál tudatosan "más" életet élni -- hogy megtapasztalhassa, miből maradt ki eddig.
 
-A "szajhaság" miatt szégyene és a kapcsolatai jobban működnek, de azért berögzülésből orvoshoz továbbra sem nagyon akaródzik menni.
+A "szajhaság" miatti szégyene és a kapcsolatai jobban működnek, de azért berögzülésből orvoshoz továbbra sem nagyon akaródzik menni.
 Egy komolyabb torokgyulladással azonban mégis muszáj leküzdenie ezt a félelmét is.
 Életében először kap antibiotikumot, amiről eddig úgy tudta, hogy iszonyatos bűn és még évekkel később is torz gyerekei születnek majd...
 De a kíváncsiság győzött!
 
 Egyre jobban nyílik a szeme a változatos egyetemi tárgyakon keresztül, és ezt egyre nehezebben tudja összeegyeztetni azzal, hogy a mormon tanok szerint egy nőnek milyennek is kellene lennie.
-Egy professzora unszolására úgy dönt, először felderíti, hogy mi is rejlik igazán benne (mondhatni, kitágítja a határait), és majd csak aztán dönt, hogy mit is akar kezdeni az életével.
+Egy professzora unszolására úgy dönt, először felderíti, hogy mi is rejlik benne igazán (mondhatni, kitágítja a határait), és majd csak aztán dönt, hogy mit is akar kezdeni az életével.
 És a prof közbenjárásával meg is kap egy komoly Cambridge-i ösztöndíjat.
 
 Cambridge-ben nem is a történelemről, hanem a történészekről szeretne kutakodni.
@@ -210,16 +210,16 @@ Mert ha valaki, akkor ő aztán tudja, hogy milyen szubjektív ez az egész -- �
 Ha a történészek szemszögével megismerkedhetne, akkor talán látná, ők hogyan küzdöttek meg a bizonytalanságaikkal.
 És talán könnyebben el tudná fogadni ő is, hogy mekkora szakadék tátong a korábbi és a mostani nézetei között.
 
-Itt tanul meg kritikusan olvasni, ami valahol a tiltólista és a bálványozás között van valahol félúton.
+Itt tanul meg kritikusan olvasni, ami a tiltólistázás és a bálványozás között van valahol félúton.
 Eddig ugyanis az apjánál csak a szélsőségek voltak elérhetőek.
-Vagy a Bibliát/Alapító Okiratokat/ilyesmit kellett szóról szóra imádni, vagy az eretnek tanokat kellett megtagadni.
+Vagy a Bibliát és az Alapító Okiratokat kellett szóról szóra imádni, vagy az eretnek tanokat kellett megtagadni.
 Itt viszont ő "láthatta bele" a saját értelmezéseit a dolgokba, elemezhetett, önállóan gondolkozhatott...
 És ez sajnos Tara számára igencsak újdonság számba ment.
 
 A konzulense agyon dicséri az esszéjét, amit Tara alig tud kezelni.
 Szegény a sok bántalmazás után csak a rossz elviselésére van felkészülve, a pozitívumok befogadására alig.
 Erős imposztor szindrómával küzd, még a fényes megfelelés mellett is.
-Ebben a nagy fényűzésben az otthoni fejet WC-be nyomások még élesebb kontrasztot adnak.
+Ebben a nagy eleganciában az otthoni fejet WC-be nyomások még élesebb kontrasztot adnak.
 De ez fordítva is igaz: az ösztöndíj után hazatérve egy szülői látogatás során szembesül vele, hogy egy friss, "világi" szemszögből mennyire nevetséges, amit az apja összemagyaráz.
 
 > Elképesztő, hogy régebben mindezt a legkisebb gyanakvás nélkül elhittem. [...] Az egész világ tévedett, csak Apának volt igaza.
@@ -252,7 +252,7 @@ De ez fordítva is igaz: az ösztöndíj után hazatérve egy szülői látogat�
 ## <a name="tores"></a>A nagy törés
 
 Tara akadémiai karrierje továbbra is szárnyal.
-Újabb ösztöndíjjal megint Cambridge-be utazhat, de most már mind hivatalos ottani egyetemi polgár.
+Újabb ösztöndíjjal megint Cambridge-be utazhat, de most már mint hivatalos ottani egyetemi polgár.
 A következő nagy áttörése, hogy a feminizmusról olvas -- és most először találkozik vele *nem* negatív fényben.
 Kezdi elhinni, hogy akár nő létére is lehet bármi belőle, nem csak feleség és anya, mint ahogy az el van rendelve.
 [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) szabadság-elméletéről ír diplomamunkát, miközben kb. "kényszeríti" magát az egyre jobb szociális beilleszkedésre.
@@ -323,15 +323,15 @@ Sokat beszélget vele, illetve (*vééégre!*) pszichológushoz is jár.
 
 ## <a name="tanulsag"></a>A tanulság&trade;
 
-Tara sokáig két gyökeresen különböző ént próbált összeegyeztetni: az bimbózó értelmiségit, és a 16 éves lányt, aki utoljára otthon lakott.
+Tara sokáig két gyökeresen különböző ént próbált összeegyeztetni: a bimbózó értelmiségit, és a 16 éves lányt, aki utoljára otthon lakott.
 És (szerintem túl sokáig) mindig visszaváltott abba a 16 éves lányba, amikor csak hazament.
 Ez az ellentét a "véres késes" estén tört végleg ketté, és azóta már csak az új énje döntéseinek következményei közt él.
 Az, hogy ez az átalakulás "megvilágosodás" vagy épp "árulás", az csak nézőpont kérdése.
 Tara leginkább tapasztalatszerzésként tekint rá, ahogy tanult lánnyá vált.
 
 Nem kell azonban ennyire fanatikus, vallásos, világvége-készülős környezetben felnőnünk, hogy nekünk is lehessenek mentális torzításaink a világgal kapcsolatban.
-Igazából gyakorlatilag garantálható, hogy ezek a feltételek nélkül is lesznek torzult előítéleteink.
-De ha egy ilyen extrém agy-ketrecből is ki lehet törni, akkor nekünk már nincs kifogás.
+Igazából gyakorlatilag garantálható, hogy ezek a feltételek nélkül is lesznek hamis előítéleteink.
+De ha egy ilyen extrém agy-ketrecből is ki lehet törni, akkor a többieknek már nincs kifogás.
 
 Szerintem nekünk hétköznapi polgároknak legalább a következő 3 dolgot érdemes leszűrnünk Tara sztorijából:
 
