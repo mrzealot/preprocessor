@@ -265,7 +265,7 @@ Egy ilyen rövid áttekintésben úgysem tudom rendesen megragadni a kapcsolód�
 
 - Elsőre látszólag jól alakul a dolog: az anyja üzenetekben bevallja, hogy félrenézett, bocsánatot kér, először viselkedik igazi anyaként;
 
-- Egy személyes látogatás során Tara beszél az apjával, annak a reményében, hogy majd az anyja is mellé áll, de az anyja itt megint gyengének bizonyul (a korábbi "pálfordulása" is valószínűleg csak annyi volt, hogy akkor épp Tara-t tekintette esősnek az apa helyett, és neki hódolt be);
+- Egy személyes látogatás során Tara beszél az apjával, annak a reményében, hogy majd az anyja is mellé áll, de az anyja itt megint gyengének bizonyul (a korábbi "pálfordulása" is valószínűleg csak annyi volt, hogy akkor épp Tara-t tekintette erősnek az apa helyett, és neki hódolt be);
 
 - Az apja hívja Shawn-t is "szembesítésre", ami konkrét életveszély -- Shawn (mint utólag kiderült) csak azért tudott relatíve nyugodt maradni, mert előtte egy késsel lemészárolta a kutyájukat, és ezt a véres kést Tara kezébe adta... Megalapozva ezzel a beszélgetés hangnemét, csak ahogy szokás, nemde?
 
