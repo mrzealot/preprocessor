@@ -9,92 +9,128 @@ excerpt: >
     TODO
 ---
 
-https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa
+Bevallom, Stephen R. Covey -- [A kiemelkedően eredményes emberek 7 szokása](https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa){:target="_blank"} nevezetű könyvével kapcsolatban elég megosztott véleményekkel találkoztam.
+Egyrészről sokan az eleve unszimpatikus "sikerkönyv" kategória egy ódivatú tagjának tartják -- amit, láttuk be, a címétől kezdve a borítón át a nyelvezetig minden alátámaszt.
+Mások szerint viszont ha hajlandóak vagyunk a külsőségek mögé tekinteni, számos időtlen igazsággal találkozhatunk.
+Én úgy voltam vele, hogy már csak a puszta népszerűsége miatt is megérdemel egy esélyt -- és utólag egyértelműen az "időtlen igazságos" táborba sorolom magam!
 
+Sőt, ami azt illeti, annyi benne az említésre méltó, hogy jobban tesszük, ha két részben tárgyaljuk őket.
+Ezen a héten (némi alapozást követően) az első három szokással foglalkozunk, amik az egyéni győzelmeinkhez vezetnek.
+A jövő héten pedig jöhet majd az ezekre épülő 4-5-6. szokás a közös győzelmekért, illetve a 7. szokás a folyamat fenntarthatóságáért.
+
+A tartalom egyelőre tehát a következőképp alakul:
+
+- [Alapozás](#)
+- Egyéni győzelmek
+    1. [Légy proaktív!](#proaktiv)
+    1. [Lásd a célt már a kezdetektől!](#cel)
+    1. [Először a fontosat!](#fontos)
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="alapozas"></a>Alapozás
 
 > Nem csak a világot kell látnunk, hanem azokat a lencséket is, amiken keresztül a világot látjuk, mert maga a lencse határozza meg a világlátásunkat.
 
-- vezetői tréningeket tart, és a siker irodalmának elmúlt 200 évét dolgozza fel kutatás gyanánt
-    - ebből az elmúlt 50 igencsak felszínes
-    - az előtte lévő 150 viszont sokkal mélyebb -- ún. jellem-etika
-- és persze nem mondja, hogy a felszíni technikák (személyiség, befolyásolás, kommunikáció, pozitív gondolkodás) nem hasznosak
-    - de látnunk kell, hogy másodlagosak!
-    - egy szilárd jellemre kell épülniük, különben olyan lenne, mintha "vetés nélkül próbálnánk aratni"
+Stephen barátunk ideje egy részében vezetői tréningeket tartott, a háttérben pedig a siker irodalmának elmúlt 200 évét dolgozta fel kutatás gyanánt.
+Ebből a szemszögből azt vette észre, hogy míg az elmúlt 50 év igencsak felszínes dolgokra koncentrál (ún. személyiség-etika), addig az előtte lévő 150 év viszont sokkal mélyebbre tekint (ún. jellem-etika).
+És persze nem mondja, hogy a felszíni technikák (személyiség, befolyásolás, kommunikáció, pozitív gondolkodás) nem hasznosak -- de látnunk kell, hogy másodlagosak!
+Egy szilárd jellemre kell épülniük, különben olyan lenne, mintha "vetés nélkül próbálnánk aratni".
 
-> Ami vagy, olyan hangosan kiabál, hogy nem hallom tőle azt, amit mondasz. -- Emerson
+> Ami vagy, olyan hangosan kiabál, hogy nem hallom tőle azt, amit mondasz.
+>
+> -- Ralph Waldo Emerson
 
-- az a lényeg, hogy kik vagyunk, nem az, hogy kiknek mutatjuk magunkat
-- ezért ha mások akarunk lenni, ahhoz az egész világlátásunkat kell megváltoztatni
-    - "paradigma váltás"
-    - vagyis ha rossz térképet kapunk, akkor ne pusztán keményebben és gyorsabban meneteljünk a rossz cél felé
-        - vagy ne érjük be annyival, hogy a pozitív hozzáállásunk miatt a rossz célt is el tudjuk fogadni
-        - keressünk inkább először egy jó térképet
-        - utána már a lassabb haladás is jó irányba halad majd, és előbb utóbb megtérül
-        - és aztán ENNEK a tetejébe jöhet a gyorsabb/hatékonyabb haladás!
-
-- van egy pár alapszabály, ami az emberi interakciókat meghatározza
-    - kb. mint a természeti törvények, amiket nem nagyon érdekel, hogy tudomást veszünk-e róluk, attól még úgy vannak
-    - ezek sokszor és sok formában felbukkannak tanulságként
-    - igazságosság, becsület, tisztesség, emberi méltóság, szolgálat, teljesítőképesség, türelem, kitartás, ...
-- azért ezekkel érdemes foglalkozni, mert ha csak egy-egy konkrét megvalósításukat tanuljuk meg, az lehet, hogy bizonyos helyzetekben már nem fog működni
-    - ha viszont az alapok megvannak, akkor azokat majd mi magunk testreszabhatjuk a helyzetnek megfelelően
-    - mint ahogy ezt az alapvető igazságot már itt is sokszor tárgyaltuk: Flow, GTD, Vicki Robin, Fisker, Make It Stick...
-- ennek ellenére sokan hajlamosak vagyunk figyelmen kívül hagyni, és inkább a "gyorsabb" és "egyszerűbb" utakat keresni
-    - és a jelen kor általános értékrendje sajnos nem is nagyon tart minket vissza ettől
-    - ez a lerövidítés a zongoratudásban vagy a teniszképességeinkben látványosan nem lehetséges, viszont emberi/érzelmi/kapcsolati téren sokkal homályosabb a helyzet
-    - de ettől ne higgyük, hogy sikerülhet... csak legfeljebb később derül ki
-
-> Ahogy a problémát látjuk, az maga a probléma.
-
-- itt most (A Simon Sinek-es MIÉRT-esdihez nagyon hasonlóan) belülről kifelé haladunk, az alapvető paradigmáinkkal kezdünk, és gyökerestül változtatjuk meg a hozzáállásunkat
+Vagyis Covey szerint az a lényeg, hogy kik vagyunk, és nem az, hogy kiknek mutatjuk magunkat.
+Ezért ha mások akarunk lenni, ahhoz az egész világlátásunkat kell megváltoztatni.
+Ha mondjuk egy rossz térképet kapunk, akkor sem logikus pusztán keményebben és gyorsabban menetelni a rossz cél felé; vagy beérni annyival, hogy a pozitív hozzáállásunk miatt a rossz célt is el tudjuk majd fogadni.
+Keressünk inkább először egy jó térképet.
+Utána már a lassabb haladás is jó irányba halad majd, és előbb utóbb úgyis megtérül.
+Illetve **ennek** a tetejébe már akár jöhet a gyorsabb/hatékonyabb haladás is.
 
 > Ha az elismert tehetség másodlagos nagyságára vágysz, akkor először az elsődleges nagyságra, a nagyszerű jellemre törekedj.
 
+Az egyéni (vagyis saját magunk feletti) győzelmek eléréséhez az első három szokás betartását ajánlja, amikre azonnal ki is térünk.
+Előbb azonban egy pár hozzáállásbeli alapozó jótanács:
+
+- **Soha ne érjük be a tüneti kezeléssel.**
+Azért az alapelvekkel érdemes foglalkozni, mert ha csak egy-egy konkrét megvalósításukat tanuljuk meg, az lehet, hogy bizonyos helyzetekben már nem fog működni.
+Ha viszont az alapok megvannak, akkor azokat majd mi magunk testreszabhatjuk a helyzeteknek megfelelően.
+
+    Ennek ellenére sokan hajlamosak vagyunk ezt figyelmen kívül hagyni, és inkább a "gyorsabb" és "egyszerűbb" utakat keresni.
+    És a jelen kor általános értékrendje sajnos nem is nagyon tart minket vissza ettől.
+    Ez a lerövidítés a zongoratudásban vagy a teniszképességeinkben *látványosan* nem lehetséges, viszont emberi/érzelmi/kapcsolati téren sokkal homályosabb a helyzet.
+    De ettől ne higgyük, hogy sikerülhet -- csak legfeljebb később derül ki, hogy nem sikerült.
+
+- **Termelés/Termelőképesség (T/TK) egyensúly.**
+Ha csak az aranytojásra koncentrálunk, akkor a végén levágjuk az aranytojást tojó libát, és hoppon maradunk.
+Ha viszont csak a libára koncentrálunk, akkor a végén nem lesz elég pénzünk a tojásokból, hogy eltartsuk magunkat (vagy a libát).
+Akkor jó, ha egyensúly van -- vagyis a termelőeszközeinket és a termelést is megfelelően karbantartjuk.
+
+    Szépen magyarázza ez a hasonlat azt is, miért vagyunk jelenleg ekkora szarban a kései kapitalizmus markában.
+    Csak az aranytojások vannak a középpontban, az embereket (és a környezetet) pedig úgy zsákmányoljuk ki menet közben, ahogy nem szégyelljük.
+    Márpedig nem szégyellünk mi szinte semmit...
+
+- **Függés < Függetlenség < Egymásrautaltság.**
+Azt kb. mind érezzük, hogy a függésnél jobb a függetlenség.
+Amikor már nem szorulok a **te** segítségedre, hanem **én** önálló vagyok.
+Amire viszont Covey fel szeretné hívni a figyelmet, hogy itt még nincs vége.
+Hiszen habár egyedül is menne, attól még nem feltétlen egyedül lesz a leghatékonyabb (vagy a legkielégítőbb).
+
+    Sok olyat is lerázunk magunkról a függetlenség nevében, ami igazából csak a belső függőségeink miatt volt kellemetlen.
+    Például még nem voltunk elég érettek, hogy másokat kezelni tudjunk, és a megbirkózás helyett inkább kikerültük a problémát.
+    Ennél még magasabb szinten találhatjuk az egymásrautaltságot, ahol már nem **én** vagyok önálló, hanem **mi** vagyunk képesek együttműködni.
+    Másként fogalmazva: tény, hogy az egyéni győzelmek alapoznak meg mindent, de itt azért még ne álljunk meg!
+
+Ennyi felkészítés után pedig lássuk végre, hogy mi is ez a hihetetlenül beharangozott első három szokás.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="proaktiv"></a>1. Légy proaktív!
+
+<!-- stoic hasonlat -->
+
+> Ahogy a problémát látjuk, az maga a probléma.
+
 > Kiterjedt tapasztalataim ellenére még soha nem láttam, hogy valaki önmagán kívül talált volna megoldást a problémá[i]ra [...]
-
-## A 7 elv összefoglalása
-
-- itteni értelmezésben a szokás = a tudás, a készség, és a vágy metszete
-- függés (te segítesz) --> függetlenség (én önálló vagyok) --> egymásrautaltság (mi együttműködünk)
-    - a mai szemléletben a függetlenség áll mindenek felett, de igazából nem az lenne a legfelsőbb szint
-        - jó, ha már egyedül is menne, de attól még nem feltétlen egyedül lesz a leghatékonyabb (vagy legkielégítőbb)
-    - sok olyat is lerázunk magunkról a függetlenség nevében, ami igazából csak a belső függőségeink miatt volt probléma
-        - például még nem voltunk elég érettek, hogy másokat kezelni tudjunk, és a megbirkózás helyett inkább kikerültük a problémát
-- az első három szabály a függőségből a függetlenségbe juttat (egyéni győzelmek)
-- a második három szabály a függetlenségből az egymásrautaltságba (közös győzelmek)
-- a hetedik pedig az egészet körülvevő hatékonyságról és növekedésről szól
-
-- T/TK egyensúly (termelés / termelőképesség)
-    - ha csak az aranytojásra koncentrálunk, akkor a végén levágjuk a libát, és hoppon maradunk
-    - ha viszont csak a libára koncentrálunk, akkor a végén nem lesz elég pénzünk a tojásokból, hogy eltartsuk magunkat (vagy a libát)
-    - akkor jó, ha egyensúly van -- vagyis a termelőeszközeinket és a termelést is megfelelően karbantartjuk
-- szépen magyarázza ez azt is, miért vagyunk jelenleg ekkora szarban a kései kapitalizmus markában
-    - csak az aranytojások, az embereket (és a környezetet) pedig úgy zsákmányoljuk ki, ahogy nem szégyelljük
-    - márpedig vastag a bőr a képeken, nem szégyellünk mi semmit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 1 -- Légy proaktív
 
 - kb. "én vagyok a felelős"
 
@@ -122,6 +158,7 @@ https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szok
 - kezeljük a hibáinkat is proaktívan -- a következményeket már nem irányíthatjuk, de a következményekre adott reakcióinkat megint igen
     - ismerjük be, javítsuk ki, tanuljunk belőle
 
+<br>
 
 
 
@@ -147,7 +184,7 @@ https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szok
 
 
 
-## 2 -- Lásd a célt (már a kezdetektől)
+## <a name="cel"></a>2. Lásd a célt már a kezdetektől!
 
 - kb. "jó irányba haladjak"
 
@@ -198,6 +235,7 @@ https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szok
         - tudni is kell mindenkinek, és
         - mindenkinek részt is kell vennie a megalkotásában! (hogy aztán szívvel/lélekkel részt vehessen a végrehajtásában is)
 
+<br>
 
 
 
@@ -223,7 +261,7 @@ https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szok
 
 
 
-## 3 -- Először a fontosat
+## <a name="fontos"></a>3. Először a fontosat!
 
 - kb. "hatékonyan haladjak"
 - kell az alap, hogy
@@ -267,3 +305,36 @@ https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szok
     - és amikor borul (ugye nem ha, hanem amikor), akkor is szem előtt tarthatjuk az elveinket -- hogy habár nem a terveknek megfelelően haladnak a dolgok, de akkor is az elveinkkel összhangban
         - és EZÉRT nem kell majd olyankor sem bűntudatot vagy frusztrációt éreznünk!
 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Összefoglalás
+
+Megfelelően magas szintről nézve "csak" ennyi tehát a dolgunk ahhoz, hogy magunkat gatyába rázzuk:
+
+1. Ismerjük el a saját felelősségünket és legyünk proaktívak;
+
+2. Legyünk biztosak benne, hogy jó irányba kormányozzuk az életünket; és aztán
+
+3. Haladjunk is abba az irányba minél hatékonyabban, a hétköznapok látszólagos krízisei és figyelemelterelései ellenére!
+
+Az ilyen tudatos, elvekre épülő élet garantáltan kiegyenesíti majd a gerincünket.
+És mellesleg csak így kerülhetünk magunkkal elég bensőséges viszonyba ahhoz, hogy utána már a másokkal ápolt kapcsolatainkkal is értelme legyen foglalkozni -- amire a jövő héten visszatérünk...
