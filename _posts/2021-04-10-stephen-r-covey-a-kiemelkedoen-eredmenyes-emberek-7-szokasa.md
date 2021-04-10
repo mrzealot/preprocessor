@@ -12,7 +12,7 @@ excerpt: >
 ---
 
 Bevallom, Stephen R. Covey -- [A kiemelkedően eredményes emberek 7 szokása](https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa){:target="_blank"} nevezetű könyvével kapcsolatban elég megosztott véleményekkel találkoztam.
-Egyrészről sokan az eleve unszimpatikus "sikerkönyv" kategória egy ódivatú tagjának tartják -- amit, láttuk be, a címétől kezdve a borítón át a nyelvezetig minden alátámaszt.
+Egyrészről sokan az eleve unszimpatikus "sikerkönyv" kategória egy ódivatú tagjának tartják -- amit, lássuk be, a címétől kezdve a borítón át a nyelvezetig minden alátámaszt.
 Mások szerint viszont ha hajlandóak vagyunk a külsőségek mögé tekinteni, számos időtlen igazsággal találkozhatunk.
 Én úgy voltam vele, hogy már csak a puszta népszerűsége miatt is megérdemel egy esélyt -- és utólag egyértelműen az "időtlen igazságos" táborba sorolom magam!
 
@@ -22,7 +22,7 @@ A jövő héten pedig jöhet majd az ezekre épülő 4-5-6. szokás a közös gy
 
 A tartalom egyelőre tehát a következőképp alakul:
 
-- [Alapozás](#)
+- [Alapozás](#alapozas)
 - Egyéni győzelmek
     1. [Légy proaktív!](#proaktiv)
     1. [Lásd a célt már a kezdetektől!](#cel)
@@ -64,7 +64,7 @@ Vagyis Covey szerint az a lényeg, hogy kik vagyunk, és nem az, hogy kiknek mut
 Ezért ha mások akarunk lenni, ahhoz az egész világlátásunkat kell megváltoztatni.
 Ha mondjuk egy rossz térképet kapunk, akkor sem logikus pusztán keményebben és gyorsabban menetelni a rossz cél felé; vagy beérni annyival, hogy a pozitív hozzáállásunk miatt a rossz célt is el tudjuk majd fogadni.
 Keressünk inkább először egy jó térképet.
-Utána már a lassabb haladás is jó irányba halad majd, és előbb utóbb úgyis megtérül.
+Utána már a lassabb haladás is jó irányba történik majd, ami előbb utóbb úgyis megtérül.
 Illetve **ennek** a tetejébe már akár jöhet a gyorsabb/hatékonyabb haladás is.
 
 > Ha az elismert tehetség másodlagos nagyságára vágysz, akkor először az elsődleges nagyságra, a nagyszerű jellemre törekedj.
@@ -74,7 +74,7 @@ Előbb azonban egy pár hozzáállásbeli alapozó jótanács:
 
 - **Soha ne érjük be a tüneti kezeléssel.**
 Azért az alapelvekkel érdemes foglalkozni, mert ha csak egy-egy konkrét megvalósításukat tanuljuk meg, az lehet, hogy bizonyos helyzetekben már nem fog működni.
-Ha viszont az alapok megvannak, akkor azokat majd mi magunk testreszabhatjuk a helyzeteknek megfelelően.
+Ha viszont az alapok megvannak, akkor azokat majd mi magunk testre szabhatjuk a helyzeteknek megfelelően.
 
     Ennek ellenére sokan hajlamosak vagyunk ezt figyelmen kívül hagyni, és inkább a "gyorsabb" és "egyszerűbb" utakat keresni.
     És a jelen kor általános értékrendje sajnos nem is nagyon tart minket vissza ettől.
@@ -137,23 +137,23 @@ A felelősségvállalás kikerülésének 3 gyakori módja:
 
 - Genetika -- mindenért a nagyszülők és a génjeik a felelősek;
 - Pszichológia -- mindenért a szüleink és a neveltetésünk a felelősek;
-- Környezet -- mindenért a főnök, a párunk, a gyerek, a kormány a felelős...
+- Környezet -- mindenért a főnök, a párunk, a gyerek, vagy a kormány a felelős...
 
 De ahogy Covey fogalmaz:
 
-> Kiterjedt tapasztalataim ellenére még soha nem láttam, hogy valaki önmagán kívül talált volna megoldást a problémá[i]ra [...]
+> Kiterjedt tapasztalataim ellenére még soha nem láttam, hogy valaki önmagán kívül talált volna megoldást a problémáira [...]
 
-Ha ezekből fel szeretnénk nőni, ott jön képbe a személyes felelősségvállalás.
-A proaktivitás és a reaktivitás közötti fő különbség, hogy vállaljuk-e a tetteinkért a felelősséget, vagy a külső körülmények kezébe adják magukat.
+Ha ezekből a kifogásokból fel szeretnénk nőni, ott jön képbe a személyes felelősségvállalás.
+A proaktivitás és a reaktivitás közötti fő különbség, hogy vállaljuk-e a tetteinkért a felelősséget, vagy a külső körülmények kezébe adjuk magukat.
 Hogy a belső értékeink vezérlik-e a válaszainkat, vagy az épp aktuális helyzet?
-Nem az fáj, ami velünk történik, hanem az, ahogy megéljük a történteket.
-Többek között ezért is nagyon fontos a nyelvhasználat, hiszen öntudatlanul is árulkodik a belső gondolkodásunkról.
 
+Nem az fáj, ami velünk történik, hanem az, ahogy megéljük a történteket.
 [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) ezt úgy mondaná: "Az inger és a reakció között megmarad a választás szabadsága".
 Vagy egy másik, szemléletes hasonlattal élve: a reaktív ember hangulata függ az időjárástól (ide értve a szociális, a pénzügyi, és minden egyéb "időjárásokat" is), míg a proaktív ember magában hordozza a napsütést.
+Többek között ezért is nagyon fontos a nyelvhasználat, hiszen öntudatlanul is árulkodik a belső gondolkodásunkról.
 
 Hogy a helyén kezelhessük a dolgokat, Covey különbséget tesz az *érdeklődési* és a *befolyásolási* körünk között.
-Az érdeklődési körünkbe tartozik minden, ami iránt nem vagyunk közömbösek, a befolyásolási viszont ennek csak egy (relatíve kicsi) részhalmaza.
+Az érdeklődési körünkbe tartozik minden, ami iránt nem vagyunk közömbösek, a befolyásolási kör viszont ennek csak egy (relatíve kicsi) részhalmaza.
 A proaktivitás mértékét az mutatja, hogy melyik körszeletben töltünk több időt.
 Ha a befolyásolási körre koncentrálunk, azzal nem hogy csak vállaljuk a saját felelősségünket, de új lehetőségek/összefüggések felismerésével akár egyre bővíthetjük is.
 Ha viszont a külső zónára fókuszálunk, azzal még azokat a területeket is elhanyagoljuk, amiket könnyen befolyásolhatnánk -- ezzel pedig gyakorlatban szűkítjük a saját befolyásunkat (mert bár lenne, mégsem élünk vele).
@@ -161,7 +161,7 @@ Ha viszont a külső zónára fókuszálunk, azzal még azokat a területeket is
 > Valahányszor azt gondoljuk, hogy a gondok kívülről jönnek, az igazi problémánk magával a gondolkodásunkkal van. Ezzel a hozzáállással hatalmat adunk a külső dolgoknak, hogy uralkodjanak felettünk.
 
 Külön megjegyezzük, hogy érdemes a hibáinkat is proaktívan kezelni.
-Hiszen bár következményeket már nem irányíthatjuk, de a következményekre adott reakcióinkat megint igen.
+Hiszen bár a hibáink következményeit nem irányíthatjuk, de a következményekre adott reakcióinkat megint igen.
 Ismerjük be, javítsuk ki, tanuljunk belőle.
 
 <br>
@@ -192,13 +192,13 @@ Ismerjük be, javítsuk ki, tanuljunk belőle.
 
 ## <a name="cel"></a>2. Lásd a célt már a kezdetektől!
 
-Ismerjük fel, hogy az elfoglaltnak lenni közel sem ugyanaz, mint eredményesnek lenni.
+Ismerjük fel, hogy elfoglaltnak lenni közel sem ugyanaz, mint eredményesnek lenni.
 Vagyis tisztázzuk minél hamarabb a céljainkat, hogy aztán egyrészt tudhassuk, hol tartunk, másrészt pedig hogy csak olyasmiket csináljunk, amik arrafelé visznek.
 Ha ezt nem tesszük meg, akkor hiába haladunk nagy léptekkel, mert lehet, hogy nem jó felé.
 Avagy a kedvenc létrás példámmal élve: hiába érünk hamar a tetejére, ha nem is jó falnak volt támasztva.
 
 Az életünk nagyobb céljainak meghatározásához Covey visszafelé dolgozik, és a "temetés tesztet" javasolja.
-Ennek keretében előre elképzeljük, mit szeretnénk hallani a családunktól, a barátainktól, a munkahelyünkről, és az egyházunktól / közösségünktől a szertartás során?
+Ennek keretében előre elképzeljük, mit szeretnénk hallani a családunktól, a barátainktól, a kollégáinktól, és az egyházunktól / közösségünktől a szertartás során?
 Mondhatnám, hogy ez a tipp is a Sztoikus ["halál, mint értékrendi és motivációs forrás"]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}#halál) elvet csomagolja újra -- de mindezt elismeréssel, és abszolút rosszindulat-mentesen mondanám!
 
 Mindent kétszer teremtünk meg: egyszer fejben, és egyszer fizikailag.
@@ -238,7 +238,7 @@ Csak tesszük mindezt úgy, hogy akár a családunk elvesztése vagy felbomlása
 
 Ezt a küldetésnyilatkozatot persze nem egy nap alatt kell megírni, hanem hetek/hónapok alatt finomítgatni, amíg elég tömören és frappánsan kifejezi a legmélyebb értékrendünket és indíttatásainkat.
 És ami talán még fontosabb: aztán rendszeresen felülvizsgálni!
-Nem mondja senki, hogy az alkotmány nem változhat, hiszen ahogy egyre előrébb haladunk, úgy majd egyre másabb szemmel látjuk a világot, de a gyökere persze jó esetben mindig ugyanaz lesz.
+Nem mondja senki, hogy az alkotmány nem változhat, hiszen ahogy egyre előrébb haladunk, úgy majd egyre inkább más szemmel látjuk a világot -- de a gyökere persze jó esetben mindig ugyanaz lesz.
 
 Írás közben ne felejtsük ki a sokféle szerepünk egyikét sem!
 Lehetünk egyének, házastársak, szülők, munkaerők, barátok, egy közösség tagjai, stb.
@@ -249,8 +249,8 @@ Az itt leírtak alapján már hatékonyabb "forgatókönyveket" készíthetünk 
 Tekinthetjük úgy, hogy ezzel újabb jó pár spirituális gyakorlatot kipipálunk a Sztoikus listáról: készülés a rosszra, folyamatos éberség, az elvek kéznél tartása (lásd [Hadot]({% post_url 2021-03-13-pierre-hadot-a-filozofia-mint-eletforma %})).
 
 Ugyanez az alkotmány-módszer alkalmazható az egyénen felül családok és szervezetek esetében is.
-De több személy esetében már nem elég annyi, hogy legyen egy küldetés nyilatkozat.
-Arról egyrészt tudni is kell mindenkinek, másrészt pedig mindenkinek részt is kell vennie a megalkotásában -- hogy aztán szívvel-lélekkel részt vehessen a végrehajtásában.
+De több személy esetében már nem elég ám annyi, hogy legyen egy küldetés nyilatkozat!
+Arról egyrészt tudni is kell mindenkinek, másrészt pedig mindenkinek részt kell vennie a megalkotásában -- hogy aztán szívvel-lélekkel részt vehessen a végrehajtásában is.
 
 <br>
 
@@ -284,7 +284,7 @@ Az időgazdálkodás lényege egy tudatos prioritási lista -- hiszen tudnunk ke
 De ha a felelősségvállalás és a létra jó falnak támasztása már adott, akkor *onnantól* azért persze az sem mindegy, milyen sebességgel mászunk.
 
 Covey egyik átfogó meglátása, hogy a látványos/hősies tettek sokkal kevesebbet érnek, mint az apró, napi, rendszeres tettek!
-Az igazi kihívás tehát abba rejlik, hogy hogyan egyeztetjük össze a nagy célokat az apró napi dolgokkal, és aztán hogyan tegyük ezt elég ideig, hogy számítson.
+Az igazi kihívás tehát abba rejlik, hogy hogyan egyeztetjük össze a nagy célokat az apró napi dolgokkal, és aztán hogyan tesszük ezt elég ideig ahhoz, hogy számítson.
 A siker csak azon múlik, hogy megtartjuk-e a magunknak tett ígéreteinket, illetve hogy megtesszük-e, amit tudjuk, hogy meg kell tenni -- még akkor is, ha nincs kedvünk hozzá.
 
 Hasznos mentális modell lehet a tevékenységeinket a következő "időgazdálkodási mátrix" mentén, sürgősség és fontosság alapján rendszerezni:
@@ -307,14 +307,14 @@ A harmadik és negyedik negyed "nem fontos" dolgaitól pedig némi tudatosságga
 Vagyis a hatékonyság egyik legjobb mutatója, hogy az időnk mekkora hányadát töltjük abban a bizonyos második negyedben -- a nem sürgős de fontos dolgok között.
 
 Ha tudjuk a fontos igen-einket, akkor a többire könnyebb lesz nem-et mondani.
-Sokaknak az "önfegyelemmel" is csak azért van baja, mert felületesen próbálják megoldani az értékrendi problémáikat.
+Sokaknak az önfegyelemmel is csak azért van baja, mert felületesen próbálják megoldani az értékrendi problémáikat.
 Nincs meg az igazi küldetés nyilatkozatuk, és nem az elvek állnak az életük középpontjában.
-Így pedig idővel óhatatlanul visszacsapódnak azokhoz a külső tényezőkhöz, aminek ők maguk adtak hatalmat az életük felett.
+Így pedig idővel óhatatlanul visszacsapódnak azokhoz a külső tényezőkhöz, amiknek ők maguk adtak hatalmat az életük felett.
 Ha viszont tényleg belülről fakad a fontossági sorrend, onnantól nem is lesz *annyira* nehéz tartani magunkat hozzá.
 Na azt nem mondja senki, hogy könnyű lesz...
 De nem csak a nagyon korlátozott önfegyelem készleteinkből kell majd kihúznunk a napokat.
 
-Megvalósítás szempontjából emelkedjünk felül a sima `TODO` listákon és agyatlan naptár használatokon, mert azokban nincs semmi fontossági sorrend (illetve az egyes dolgok megkérdőjelezése, hogy egyáltalán legyenek-e).
+Megvalósítás szempontjából emelkedjünk felül a sima `TODO` listákon és az agyatlan naptárhasználaton, mert azokba nincs beleépítve semmi fontossági sorrend (sem az egyes dolgok megkérdőjelezése, hogy egyáltalán legyenek-e).
 Határozzuk inkább meg a szerepeinket, és az ezeken belüli (második negyedes!) céljainkat, hogy aztán ezeket előbb heti, majd napi szinten ütemezhessük.
 Praktikus tippekért hadd ajánljam továbbá a [GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %})-t, vagy a [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %}) javaslatait.
 
@@ -345,7 +345,7 @@ Ne feledjünk viszont megfelelő mennyiségű ütemezetlen időt is hagyni, ami 
 
 ## Összefoglalás
 
-Megfelelően magas szintről nézve tehát "csak" ennyi a dolgunk ahhoz, hogy magunkat gatyába rázzuk:
+Megfelelően magas szintről nézve tehát "csak" ennyi a dolgunk ahhoz, hogy gatyába rázhassuk magunkat:
 
 1. Ismerjük el a saját felelősségünket és legyünk proaktívak;
 
