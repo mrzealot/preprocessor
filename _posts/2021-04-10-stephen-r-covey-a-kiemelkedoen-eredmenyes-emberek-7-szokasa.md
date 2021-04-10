@@ -6,7 +6,9 @@ tags: [szemléletmód, produktivitás]
 pages: 378
 date: 2021-04-10 00:01
 excerpt: >
-    TODO
+    Bevallom, Stephen Covey könyvével kapcsolatban elég megosztott véleményekkel találkoztam.
+    Egyrészről sokan az eleve unszimpatikus "sikerkönyv" kategória egy ódivatú tagjának tartják; mások szerint viszont ha hajlandóak vagyunk a külsőségek mögé tekinteni, számos időtlen igazsággal találkozhatunk.
+    Én úgy voltam vele, hogy már csak a puszta népszerűsége miatt is megérdemel egy esélyt -- és utólag egyértelműen az "időtlen igazságos" táborba sorolom magam!
 ---
 
 Bevallom, Stephen R. Covey -- [A kiemelkedően eredményes emberek 7 szokása](https://moly.hu/konyvek/stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa){:target="_blank"} nevezetű könyvével kapcsolatban elég megosztott véleményekkel találkoztam.
@@ -126,37 +128,41 @@ Ennyi felkészítés után pedig lássuk végre, hogy mi is ez a hihetetlenül b
 
 ## <a name="proaktiv"></a>1. Légy proaktív!
 
-<!-- stoic hasonlat -->
+A Covey iránt érzett szimpátiámat talán az alapozta meg a legjobban, hogy minden további elvet a "proaktivitásra" épít, ami pedig gyakorlatilag egy-az-egyben hajaz a Sztoikus irányítás kettősségére (avagy a "címkézésre", ahogy korábban emlegettük).
+Kb. "én vagyok a felelős a saját sorsomért", ami pont olyan elcsépelt, mint amennyire mégsem tartjuk be.
 
 > Ahogy a problémát látjuk, az maga a probléma.
 
+A felelősségvállalás kikerülésének 3 gyakori módja:
+
+- Genetika -- mindenért a nagyszülők és a génjeik a felelősek;
+- Pszichológia -- mindenért a szüleink és a neveltetésünk a felelősek;
+- Környezet -- mindenért a főnök, a párunk, a gyerek, a kormány a felelős...
+
+De ahogy Covey fogalmaz:
+
 > Kiterjedt tapasztalataim ellenére még soha nem láttam, hogy valaki önmagán kívül talált volna megoldást a problémá[i]ra [...]
 
-- kb. "én vagyok a felelős"
+Ha ezekből fel szeretnénk nőni, ott jön képbe a személyes felelősségvállalás.
+A proaktivitás és a reaktivitás közötti fő különbség, hogy vállaljuk-e a tetteinkért a felelősséget, vagy a külső körülmények kezébe adják magukat.
+Hogy a belső értékeink vezérlik-e a válaszainkat, vagy az épp aktuális helyzet?
+Nem az fáj, ami velünk történik, hanem az, ahogy megéljük a történteket.
+Többek között ezért is nagyon fontos a nyelvhasználat, hiszen öntudatlanul is árulkodik a belső gondolkodásunkról.
 
-- az én-tudatunk választ el az állatoktól -- hogy tudunk magáról a gondolkozásról is gondolkozni
-    - viszont akkor ezt legyünk szívesek, és tegyük is meg
-- a felelősségvállalás kikerülésének 3 gyakori módja
-    - genetika -- mindenért a nagyszülők és a génjeik a felelősek
-    - pszichológia -- mindenért a szüleink és a neveltetésünk a felelősek
-    - környezet -- mindenért a főnök, vagy a párunk, vagy a gyerek, vagy a kormány a felelős
-- ha ebből fel szeretnénk nőni, ott jön a személyes felelősségvállalás
-    - Frankl példa: "az inger és a reakció között megmarad a választás szabadsága"
-    - és természetesen egy-az-egyben hajazunk a Sztoikus irányítás kettősségére (avagy a "címkézésre", ahogy korábban emlegettük)
-- proaktivitás vs. reaktivitás: vállaljuk-e a tetteinkért a felelősséget, vagy a külső körülmények kezébe adják magukat
-    - a belső értékeink vezérlik-e a válaszainkat, vagy az épp aktuális helyzet?
-    - egy szemléletes hasonlattal élve: a reaktív ember hangulata függ az időjárástól (ide értve a szociális/pénzügyi "időjárást" is), míg a proaktív ember magában hordozza a napsütést
-- nem az fáj, ami velünk történik, hanem az, ahogy megéljük
-- a nyelvhasználat nagyon fontos, mert öntudatlanul is árulkodik a belső gondolkodásunkról
-- érdeklődési vs. befolyásolási kör
-    - és a proaktivitás mértéke, hogy melyik körszeletben töltünk több időt
-    - ha a befolyásolásira koncentrálunk, azzal egyre csak bővítjük
-    - ha viszont a külső zónára, azzal még azokat a területeket is elhanyagoljuk, amiket könnyen befolyásolhatnánk, ezzel pedig gyakorlatban szűkítjük a saját befolyásunkat (mert bár lenne, nem élünk vele)
+[Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) ezt úgy mondaná: "Az inger és a reakció között megmarad a választás szabadsága".
+Vagy egy másik, szemléletes hasonlattal élve: a reaktív ember hangulata függ az időjárástól (ide értve a szociális, a pénzügyi, és minden egyéb "időjárásokat" is), míg a proaktív ember magában hordozza a napsütést.
+
+Hogy a helyén kezelhessük a dolgokat, Covey különbséget tesz az *érdeklődési* és a *befolyásolási* körünk között.
+Az érdeklődési körünkbe tartozik minden, ami iránt nem vagyunk közömbösek, a befolyásolási viszont ennek csak egy (relatíve kicsi) részhalmaza.
+A proaktivitás mértékét az mutatja, hogy melyik körszeletben töltünk több időt.
+Ha a befolyásolási körre koncentrálunk, azzal nem hogy csak vállaljuk a saját felelősségünket, de új lehetőségek/összefüggések felismerésével akár egyre bővíthetjük is.
+Ha viszont a külső zónára fókuszálunk, azzal még azokat a területeket is elhanyagoljuk, amiket könnyen befolyásolhatnánk -- ezzel pedig gyakorlatban szűkítjük a saját befolyásunkat (mert bár lenne, mégsem élünk vele).
 
 > Valahányszor azt gondoljuk, hogy a gondok kívülről jönnek, az igazi problémánk magával a gondolkodásunkkal van. Ezzel a hozzáállással hatalmat adunk a külső dolgoknak, hogy uralkodjanak felettünk.
 
-- kezeljük a hibáinkat is proaktívan -- a következményeket már nem irányíthatjuk, de a következményekre adott reakcióinkat megint igen
-    - ismerjük be, javítsuk ki, tanuljunk belőle
+Külön megjegyezzük, hogy érdemes a hibáinkat is proaktívan kezelni.
+Hiszen bár következményeket már nem irányíthatjuk, de a következményekre adott reakcióinkat megint igen.
+Ismerjük be, javítsuk ki, tanuljunk belőle.
 
 <br>
 
@@ -186,54 +192,65 @@ Ennyi felkészítés után pedig lássuk végre, hogy mi is ez a hihetetlenül b
 
 ## <a name="cel"></a>2. Lásd a célt már a kezdetektől!
 
-- kb. "jó irányba haladjak"
+Ismerjük fel, hogy az elfoglaltnak lenni közel sem ugyanaz, mint eredményesnek lenni.
+Vagyis tisztázzuk minél hamarabb a céljainkat, hogy aztán egyrészt tudhassuk, hol tartunk, másrészt pedig hogy csak olyasmiket csináljunk, amik arrafelé visznek.
+Ha ezt nem tesszük meg, akkor hiába haladunk nagy léptekkel, mert lehet, hogy nem jó felé.
+Avagy a kedvenc létrás példámmal élve: hiába érünk hamar a tetejére, ha nem is jó falnak volt támasztva.
 
-- saját temetés teszt
-    - mit szeretnénk hallani a családtól, a barátoktól, a munkahelyünkről, és az egyházunktól/társadalmi szervezetektől (vagy ilyesmi)?
-- elfoglalt != eredményes
-    - vagyis tisztázzuk minél hamarabb a céljainkat, hogy aztán egyrészt tudhassuk, hol vagyunk, másrészt pedig hogy csak olyasmiket csináljunk, amik arrafelé visznek
-    - ha ezt nem tesszük meg, akkor hiába haladunk nagy léptekkel, mert lehet, hogy nem jó felé
-    - létrás példa, ami ugye nem is a jó falnak van támasztva
-- mindent kétszer teremtünk meg; egyszer fejben, és egyszer fizikailag.
-    - de a fizikai "építkezés" előtt fejben már kész kell lennie a teljes tervnek!
-    - és minél később végzünk változtatásokat, annál költségesebbek lesznek
-    - szóval legyünk benne eléggé biztosak, hogy jó felé haladunk
-- a második teremtésért könnyebb vállalni a felelősséget, mert azt legtöbbször tényleg mi intézzük
-    - de aki az első teremtésért nem vállalja a felelősséget, az ezzel mások kezébe adja a tervrajz készítését
-    - a szülők, a kollégák, a főnökök, a szomszédok szabják majd meg, hogy mit jelent sikeresnek lenni, és mi a második teremtésünkkel az ő álmaikat váltjuk valóra
-        - ha ez nem passzol a mi álmainkhoz, az szívás... és annál nagyobb, minél tovább tart ez a felismerés
-- > A menedzselés azt jelenti, hogy jól tesszük a dolgunkat; a vezetés pedig azt, hogy a jó dolgokat tesszük. -- Peter Drucker
-- de egy személyes értékrend kialakítása csak az első lépés
-    - praktikus szempontból a hétköznapok zaja igencsak képes elvonni az ember figyelmét
-    - csak most még ezt letudom, a költözés most elsőbbséget élvez, majd az előléptetés után, majd ha a gyerek már nagyobb...
-- a legjobb megoldás az írott személyes/céges küldetésnyilatkozat (mission statement), amit aztán rendszeresen (akár naponta!) átolvasunk, és élesen tartunk a fejünkben
-    - hogy utána könnyebb legyen nap közben is ennek fényében dönteni, bármit is dobjon a gép.
-    - ez adja majd a stabil középpontot a gyorsan változó világban, amibe kapaszkodhatunk
-    - ha van valami állandó (írásos!), amihez mérhetjük magunkat, akkor könnyebben maradunk következetesek
+Az életünk nagyobb céljainak meghatározásához Covey visszafelé dolgozik, és a "temetés tesztet" javasolja.
+Ennek keretében előre elképzeljük, mit szeretnénk hallani a családunktól, a barátainktól, a munkahelyünkről, és az egyházunktól / közösségünktől a szertartás során?
+Mondhatnám, hogy ez a tipp is a Sztoikus ["halál, mint értékrendi és motivációs forrás"]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}#halál) elvet csomagolja újra -- de mindezt elismeréssel, és abszolút rosszindulat-mentesen mondanám!
 
-- választható középpontok
-    - egy csomó példa, hogy milyen rossz (értsd, külső) dolgok köré építhetjük az "alkotmányunkat"
-    - házasság, család, batárok/ellenségek, pénz, munka, vagyon/hírnév, egyház, egó
-        - sőt, még olyan is akad, aki időről időre ingadozik a központok között
-- ezek helyett javasolja Covey (jó sztoikus bölcs módjára) az elv-központúságot, ami végre állandó, és ezért bátran lehet rá egy egész életet is felépíteni
-    - és itt is előjön, hogy végül úgyis mások valamilyen szolgálatában találjuk meg az igazi kiteljesedést (lásd Brooks)
+Mindent kétszer teremtünk meg: egyszer fejben, és egyszer fizikailag.
+De a fizikai "építkezés" előtt fejben már kész kell lennie a teljes tervnek.
+És minél később végzünk változtatásokat, annál költségesebbek lesznek, szóval ezért sem árt kellően biztosnak lennünk benne, hogy jó felé haladunk.
 
-- ezt nem egy nap alatt kell megírni, hanem hetek/hónapok alatt finomítgatni, amíg elég tömören és frappánsan kifejezi a legmélyebb értékrendünket és indíttatásainkat
-    - és aztán rendszeresen felülvizsgálni! nem mondja senki, hogy az alkotmány nem változhat, hiszen ahogy egyre előrébb haladunk, úgy majd egyre másabb szemmel is látjuk a világot
-    - a gyökere persze jó esetben ugyanaz lesz
-- és ne felejtsük ki a sokféle szerepünk egyikét sem!
-    - egyén, házastárs, szülő, munkaerő, barát, közösségi tag...
-    - csak akkor lesz egyensúly, ha mindet (és mindegyikkel kapcsolatos céljainkat/értékeinket) érintjük az alkotmányunkban
-- az itt leírtak alapján már hatékonyabb "forgatókönyveket" készíthetünk majd a hétköznapi helyzetek kezelésére
-    - és ha ezt elég gyakran és mélyen verjük magunkba, akkor hamarosan öntudatlanul is úgy kezdünk majd reagálni
-        - vizualizáció!
-    - megint: sztoikus készülés a rosszra, folyamatos éberség, az elvek kéznél tartása (lásd Hadot)
+Egy másik érdekes meglátás, hogy a második teremtésért könnyebb vállalni a felelősséget, hiszen azt legtöbbször tényleg mi magunk intézzük.
+De aki az első teremtésért nem vállalja a felelősséget, az ezzel mások kezébe adja a tervrajz készítését.
+A szülők, a kollégák, a főnökök és a szomszédok szabják majd meg, hogy mit jelent sikeresnek lenni, és mi a második teremtésünkkel az ő álmaikat váltjuk valóra.
+Ha ez nem passzol a mi álmainkhoz, az szívás...
+És annál nagyobb szívás, minél tovább tart ez a felismerés.
 
-- ugyanez az alkotmány alkalmazható családok, szervezetek esetében is!
-    - és persze nem elég, hogy legyen egy küldetés nyilatkozat
-    - arról
-        - tudni is kell mindenkinek, és
-        - mindenkinek részt is kell vennie a megalkotásában! (hogy aztán szívvel/lélekkel részt vehessen a végrehajtásában is)
+> A menedzselés azt jelenti, hogy jól tesszük a dolgunkat; a vezetés pedig azt, hogy a jó dolgokat tesszük.
+>
+> -- Peter Drucker
+
+Egy személyes értékrend kialakítása azonban csak az első lépés.
+Praktikus szempontból a hétköznapok zaja igencsak képes elvonni az ember figyelmét, mint ezt gondolom már sokan tapasztaltuk.
+Csak most még ezt letudom...
+A költözés most elsőbbséget élvez...
+Majd az előléptetés után...
+Majd ha a gyerek már nagyobb...
+
+A legjobb megoldás erre az írott személyes/céges küldetésnyilatkozat, amit aztán rendszeresen (akár naponta!) átolvasunk, és élesen tartunk a fejünkben.
+Hogy utána könnyebb legyen nap közben is ennek fényében dönteni, bármit is dobjon a gép.
+Ez adja majd a stabil középpontot a gyorsan változó világban, amibe kapaszkodhatunk.
+Ha van valami állandó (írásos!), amihez mérhetjük magunkat, akkor könnyebben maradunk következetesek.
+
+Az életünknek nagyon sok választható "középpontja" létezik -- csak ezek közül sajnos sok épít rossz (értsd, külső) dolgok köré.
+A házasság, a család, a batárok/ellenségek, a pénz, a munka, a vagyon/hírnév, vagy az egyházi szerepünk egyikét sem mi irányítjuk teljes mértékben.
+Szóval habár ezek némelyike nemes élet-középpontnak hangozhat (különösen gondolok itt a családra), ezek mégsem jó választások, mert így soha nem leszünk igazi biztonságban a sors csapásai ellen.
+
+Ezek helyett Covey (ismét jó Sztoikus bölcs módjára) az elv-központúságot javasolja, ami végre állandó, csak tőlünk függ, és ezért bátran lehet rá egy egész életet is felépíteni.
+És nyugalom, ezek után sem kell megfeledkezni a családról.
+Elvégre itt is előjön, hogy valamilyen módon végül úgyis mások szolgálatában találjuk majd meg az igazi kiteljesedést (lásd [Brooks]({% post_url 2021-02-19-david-brooks-a-masodik-hegy %})).
+Csak tesszük mindezt úgy, hogy akár a családunk elvesztése vagy felbomlása után sem omlunk össze.
+
+Ezt a küldetésnyilatkozatot persze nem egy nap alatt kell megírni, hanem hetek/hónapok alatt finomítgatni, amíg elég tömören és frappánsan kifejezi a legmélyebb értékrendünket és indíttatásainkat.
+És ami talán még fontosabb: aztán rendszeresen felülvizsgálni!
+Nem mondja senki, hogy az alkotmány nem változhat, hiszen ahogy egyre előrébb haladunk, úgy majd egyre másabb szemmel látjuk a világot, de a gyökere persze jó esetben mindig ugyanaz lesz.
+
+Írás közben ne felejtsük ki a sokféle szerepünk egyikét sem!
+Lehetünk egyének, házastársak, szülők, munkaerők, barátok, egy közösség tagjai, stb.
+Csak akkor lesz egyensúly, ha mindet (és mindegyikkel kapcsolatos céljainkat/értékeinket) érintjük az alkotmányunkban.
+
+Az itt leírtak alapján már hatékonyabb "forgatókönyveket" készíthetünk majd a hétköznapi helyzetek kezelésére.
+És ha ezeket elég gyakran és mélyen verjük magunkba, akkor hamarosan öntudatlanul is úgy kezdünk majd reagálni, ahogy tényleg kellene.
+Tekinthetjük úgy, hogy ezzel újabb jó pár spirituális gyakorlatot kipipálunk a Sztoikus listáról: készülés a rosszra, folyamatos éberség, az elvek kéznél tartása (lásd [Hadot]({% post_url 2021-03-13-pierre-hadot-a-filozofia-mint-eletforma %})).
+
+Ugyanez az alkotmány-módszer alkalmazható az egyénen felül családok és szervezetek esetében is.
+De több személy esetében már nem elég annyi, hogy legyen egy küldetés nyilatkozat.
+Arról egyrészt tudni is kell mindenkinek, másrészt pedig mindenkinek részt is kell vennie a megalkotásában -- hogy aztán szívvel-lélekkel részt vehessen a végrehajtásában.
 
 <br>
 
@@ -263,47 +280,47 @@ Ennyi felkészítés után pedig lássuk végre, hogy mi is ez a hihetetlenül b
 
 ## <a name="fontos"></a>3. Először a fontosat!
 
-- kb. "hatékonyan haladjak"
-- kell az alap, hogy
-    1. vállaljuk a felelősséget a saját haladásunkért, és
-    2. jó falnak legyen támasztva a létra
-- de ha ez már adott, akkor azért az sem mindegy, milyen sebességgel mászunk
-- látványos/hősies tettek < apró napi, rendszeres tettek!
-    - egyeztessük össze a nagy célokat az apró napi dolgokkal, és aztán tegyük ezt elég ideig, hogy számítson
-    - integritás -- megtartjuk-e a magunknak tett ígéreteinket
-    - megtesszük-e, amit tudjuk, hogy meg kell tenni -- még akkor is, ha nincs kedvünk hozzá
-- az időgazdálkodás lényege egy tudatos prioritási lista
-    - tudnunk kell, mi a fontos, hogy aztán előre vehessük
-- időgazdálkodási mátrix -- sürgősség és fontosság alapján
-    - **sürgős és fontos** = ezzel van a legkisebb baj, mert ha tényleg sürgős is és fontos is, akkor meg fogjuk csinálni
-        - itt is legyen azonban gyanús, ha túl sok a válsághelyzet, mert akkor valószínűleg olyanokat is odaveszünk, amiket nem kellene
-    - **nem sürgős de fontos** = itt jön elő a proaktivitás, mert ha a határidő nem sürget vagy semmi egyéb külső tényező nem liheg a nyakunkban, akkor hajlamosak vagyunk nem megcsinálni
-    - **sürgős de nem fontos** = az állandó válságban élésnél már csak az a rosszabb, ha az a tetejébe még nem is fontos
-    - **nem is sürgős és nem is fontos** = elméletben könnyen kihagyható lenne, csak hát itt tanyázik egy csomó kellemes (rövid távon relaxáló, de valójában ártalmas) dolog
-- megfelelő felkészültség mellett az első negyed problémái csak ritkán ütnek majd be
-    - a harmadik és negyedik negyed "nem fontos" dolgaitól pedig tudatossággal távol tarthatjuk magunkat
-    - vagyis a hatékonyság egyik legjobb mutatója, hogy az időnk mekkora hányadát töltjük abban a bizonyos második negyedben -- a nem sürgős de fontos dolgok között
-- ha tudjuk a fontos igen-einket, akkor a többire könnyebb lesz nem-et mondani
-- sokaknak az "önfegyelemmel" is csak azért van baja, mert felületesen próbálják megoldani az értékrendi problémáikat
-    - nincs meg az igazi küldetés nyilatkozatuk, és nem az elvek állnak az életük középpontjában
-    - így pedig idővel óhatatlanul visszacsapódnak azokhoz a külső tényezőkhöz, aminek ők maguk adtak hatalmat az életük felett
-    - ha viszont tényleg belülről fakad a fontossági sorrend, onnantól nem is lesz olyan nehéz tartani magunkat hozzá
-        - na azt nem mondja senki, hogy könnyű lesz... de nem csak a nagyon korlátozott önfegyelem készleteinkből kell majd kihúznunk a napokat
+Az időgazdálkodás lényege egy tudatos prioritási lista -- hiszen tudnunk kell, mi a fontos, hogy aztán előre vehessük.
+De ha a felelősségvállalás és a létra jó falnak támasztása már adott, akkor *onnantól* azért persze az sem mindegy, milyen sebességgel mászunk.
 
-- megvalósítás szempontjából felülemelkedünk a
-    1. sima TODO listán, mert abban semmi idő és fontossági sorrend
-    2. a naptárazáson, mert abban sincs semmi fontosság (és egyes dolgok megkérdőjelezése, hogy egyáltalán legyen-e)
-- amire építünk, az a
-    - következetesség
-    - egyensúly!!!
-    - második negyedbeli tevékenységek
-    - rugalmasság
-    - hordozhatóság
-- határozzuk meg a szerepeinket, és az ezeken belüli (második negyedes!) céljainkat
-    - aztán ezeket előbb heti, majd napi szinten ütemezzük
-    - hagyjunk megfelelő mennyiségű ütemezetlen időt, ami rugalmasságot ad!
-    - és amikor borul (ugye nem ha, hanem amikor), akkor is szem előtt tarthatjuk az elveinket -- hogy habár nem a terveknek megfelelően haladnak a dolgok, de akkor is az elveinkkel összhangban
-        - és EZÉRT nem kell majd olyankor sem bűntudatot vagy frusztrációt éreznünk!
+Covey egyik átfogó meglátása, hogy a látványos/hősies tettek sokkal kevesebbet érnek, mint az apró, napi, rendszeres tettek!
+Az igazi kihívás tehát abba rejlik, hogy hogyan egyeztetjük össze a nagy célokat az apró napi dolgokkal, és aztán hogyan tegyük ezt elég ideig, hogy számítson.
+A siker csak azon múlik, hogy megtartjuk-e a magunknak tett ígéreteinket, illetve hogy megtesszük-e, amit tudjuk, hogy meg kell tenni -- még akkor is, ha nincs kedvünk hozzá.
+
+Hasznos mentális modell lehet a tevékenységeinket a következő "időgazdálkodási mátrix" mentén, sürgősség és fontosság alapján rendszerezni:
+
+- Az első negyed **sürgős és fontos**. 
+Ezzel van a legkisebb baj, mert ha tényleg sürgős is és fontos is, akkor úgyis meg fogjuk csinálni, nem?
+Itt is legyen azonban gyanús, ha túl sok a válsághelyzet, mert akkor valószínűleg olyanokat is válságnak könyvelünk el, amiket nem kellene.
+
+- A második negyed **nem sürgős, de fontos**.
+Itt jön elő a proaktivitás, mert ha a határidő nem sürget vagy semmi egyéb külső tényező nem liheg a nyakunkban, akkor hajlamosak vagyunk nem megcsinálni.
+
+- A harmadik negyed **sürgős, de nem fontos**.
+Az első negyed állandó válságban élésénél már csak az a rosszabb, ha a tevékenység a tetejébe még csak nem is fontos.
+
+- A negyedik negyed **nem is sürgős és nem is fontos**.
+Elméletben könnyen kihagyható lenne, csak hát itt tanyázik egy csomó kellemes (rövid távon relaxáló, de valójában ártalmas) dolog, mint például a komfort evés, a TV előtt rohadás, és egyéb alattomos társaik.
+
+Megfelelő felkészültség mellett az első negyed problémái csak ritkán ütnek majd be.
+A harmadik és negyedik negyed "nem fontos" dolgaitól pedig némi tudatossággal távol tarthatjuk magunkat.
+Vagyis a hatékonyság egyik legjobb mutatója, hogy az időnk mekkora hányadát töltjük abban a bizonyos második negyedben -- a nem sürgős de fontos dolgok között.
+
+Ha tudjuk a fontos igen-einket, akkor a többire könnyebb lesz nem-et mondani.
+Sokaknak az "önfegyelemmel" is csak azért van baja, mert felületesen próbálják megoldani az értékrendi problémáikat.
+Nincs meg az igazi küldetés nyilatkozatuk, és nem az elvek állnak az életük középpontjában.
+Így pedig idővel óhatatlanul visszacsapódnak azokhoz a külső tényezőkhöz, aminek ők maguk adtak hatalmat az életük felett.
+Ha viszont tényleg belülről fakad a fontossági sorrend, onnantól nem is lesz *annyira* nehéz tartani magunkat hozzá.
+Na azt nem mondja senki, hogy könnyű lesz...
+De nem csak a nagyon korlátozott önfegyelem készleteinkből kell majd kihúznunk a napokat.
+
+Megvalósítás szempontjából emelkedjünk felül a sima `TODO` listákon és agyatlan naptár használatokon, mert azokban nincs semmi fontossági sorrend (illetve az egyes dolgok megkérdőjelezése, hogy egyáltalán legyenek-e).
+Határozzuk inkább meg a szerepeinket, és az ezeken belüli (második negyedes!) céljainkat, hogy aztán ezeket előbb heti, majd napi szinten ütemezhessük.
+Praktikus tippekért hadd ajánljam továbbá a [GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %})-t, vagy a [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %}) javaslatait.
+
+Ne feledjünk viszont megfelelő mennyiségű ütemezetlen időt is hagyni, ami a kellő rugalmasságot adja!
+Így amikor borul a rendszer, akkor is szem előtt tarthatjuk az elveinket -- hogy habár nem a terveknek megfelelően haladnak a dolgok, de akkor is az értékrendünkkel összhangban.
+És *ezért* nem kell majd olyankor sem bűntudatot vagy frusztrációt éreznünk.
 
 <br>
 
@@ -328,7 +345,7 @@ Ennyi felkészítés után pedig lássuk végre, hogy mi is ez a hihetetlenül b
 
 ## Összefoglalás
 
-Megfelelően magas szintről nézve "csak" ennyi tehát a dolgunk ahhoz, hogy magunkat gatyába rázzuk:
+Megfelelően magas szintről nézve tehát "csak" ennyi a dolgunk ahhoz, hogy magunkat gatyába rázzuk:
 
 1. Ismerjük el a saját felelősségünket és legyünk proaktívak;
 
