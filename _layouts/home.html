@@ -23,7 +23,7 @@ layout: default
             {%- if post.cover -%}
             <a href="{{ post.url | relative_url }}"><img class="cover-image" src="{{ 'covers' | absolute_url }}/{{ post.cover }}.jpg" alt="{{ post.title | escape }}" /></a>
             {%- endif -%}
-            {% capture tovabb %}<a href="{{ post.url | relative_url }}">Tovább &raquo;</a>{% endcapture %}
+            {% capture tovabb %}<a href="{{ post.url | relative_url }}">Tovább&nbsp;&raquo;</a>{% endcapture %}
             {{ post.excerpt | append: tovabb | markdownify }}
           {%- endif -%}
       </li>

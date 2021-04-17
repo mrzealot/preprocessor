@@ -5,7 +5,9 @@ cover: covey2
 tags: [szemléletmód, kapcsolatok, stratégia]
 date: 2021-04-17 00:01
 excerpt: >
-    TODO
+    Múlt héten ugye megbeszéltünk mindent Stephen R. Covey -- A kiemelkedően eredményes emberek 7 szokása című könyvéből, ami az egyéni győzelmekhez (azaz saját magunk gatyába rázásához) szükséges.
+    És a sorrend nem véletlen: egyéni győzelem nélkül nincs közös győzelem!
+    Viszont attól, hogy egyszer elérjük a függetlenséget, ne elégedjünk meg vele -- lépjünk inkább tovább a sokkal pozitívabb kicsengésű "egymásrautaltság" felé.
 ---
 
 [Múlt héten]({% post_url 2021-04-10-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa %}) ugye megbeszéltünk mindent Stephen R. Covey -- A kiemelkedően eredményes emberek 7 szokása című könyvéből, ami az egyéni győzelmekhez (azaz saját magunk gatyába rázásához) szükséges.
@@ -54,19 +56,24 @@ A tartalom a következőképp alakul:
 
 ## <a name="bankszamla"></a>Az érzelmi bankszámla
 
-- érzelmi bankszámla hasonlat
-    - emlékeztető, hogy a gyorstalpaló módszerek nem működnek, és hosszú távon csak akkor működhet bármi is, ha mi magunk adó szemléletűvé válunk
-    - ha tele a bankszámla, akkor a kisebb súrlódások meg sem érződnek, és minden gördülékenyen megy majd
-- betéti fajták
-    - a másik megértése
-        - ne a saját értékrendünket vetítsük rájuk
-        - legyen annyira fontos az ő érdeklődési körük, mint amennyire ők fontosak nekünk
-    - odafigyelés az apró dolgokra
-    - betartott ígéretek
-    - tisztázott elvárások
-    - személyes feddhetetlenség
-    - az őszinte bocsánatkérés képessége!
-- a szeretet elsődleges szabálya, hogy ne kössük feltételekhez
+Az emberi kapcsolatok megalapozásához Covey előre kiemeli az érzelmi bankszámla fontosságát.
+Ez alatt azt érti, hogy minden egyes interakciónk vagy növeli, vagy fogyasztja azt az összegzett véleményt, amit a másik fél alkot rólunk.
+Ha tele a bankszámla, akkor a kisebb súrlódások meg sem érződnek, és minden gördülékenyen megy.
+Ha viszont üres (vagy akár mínuszban van), akkor meglátjuk majd, hogy minden kijelentés, hangsúly és gesztus ezerféleképpen félremagyarázható.
+
+Mint ahogy már sok helyes érintettük, a gyorstalpaló módszerek (értsd, manipuláció) legfeljebb is csak egy-egy konkrét eredmény etikátlan kicsikarásához lesz elegendő.
+Hosszú távon csak akkor működhet bármi is, ha mi magunk adó szemléletűvé válunk.
+Persze az adásnak is rengeteg fajtája lehetséges:
+
+- A másik megértése;
+- Odafigyelés az apró dolgokra;
+- Betartott ígéretek;
+- Tisztázott elvárások;
+- Személyes feddhetetlenség;
+- Az őszinte bocsánatkérés képessége!
+
+Jogosan juthatnak eszünkbe Gary Chapman [szeretetnyelvei]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}), hiszen ott is az érzelmi "tankot" töltöttük -- és ott sem volt mindegy, hogyan tesszük ezt.
+Amint készen állunk ilyen szemléletre építeni az összes emberi kapcsolatunkat (és természetesen miután magunkat már rendbe tettük), következhetnek a közös győzelmek szokásai...
 
 <br>
 
@@ -99,36 +106,50 @@ A tartalom a következőképp alakul:
 
 ## <a name="nyernyer"></a>4. Nyer/nyer gondolkozás
 
-- veszít/veszít
-    - ellenségeskedés, akár a saját javunk árán is
-    - "dögöljön meg a szomszéd tehene is" mentalitás, ami az első rész tudatossága után szerintem nem is érdemel több figyelmet
-    - ilyet értelmes, jó szándékú ember nem csinál
-- nyer/veszít vagy veszít/nyer
-    - azt a nézetet erősíti, hogy az értékek nem bennünk, hanem rajtunk kívül vannak
-    - hogy csak akkor lehetünk elég jók, ha *jobbak* vagyunk, mint a konkurencia
-    - a legtöbbünknek ez az alapbeállítás (és a társadalom is eléggé ezt sulykolja)
-    - fordítva is ugyanígy látjuk, csak még a versenybe sem megyünk bele -- inkább önként áldozzuk fel magunkat
-        - egy kötélhúzásos hasonlattal élve: nem hogy csak nem húzzuk a kötelet, de még sétálunk is a másik irányába
-    - a túlzott törtetés és a túlzott engedékenység végletei között könnyű ingázni, de lehet ezt máshogy is
-- nyer
-    - ilyenkor a másik fél nem számít -- nem is mindig *van* másik fél
-    - a lényeg, hogy én nyerjek, mások gondjaival meg foglalkozzanak mások
-- nyer/nyer
-    - a bőség elve: itt végre nem a verseny a lényeg, hanem az együttműködés
-    - hogy jut elég mindenkinek
-    - sőt, hogy együtt többre megyünk, mint külön-külön tudtunk volna
-    - persze továbbra is nyerni akarunk, de már úgy, hogy közben a másik is nyerjen!
-- nyilván mindhez adható sarkított, mesterséges példa, amikben ezek a megfelelő hozzáállások, de a való életben (jó esetben) a nyer/nyer legyen a középpontban
-    - pontosabban: nyer/nyer, különben nincs egyezség
-    - ha nem sikerül a kompromisszum, akkor neheztelés mellett nincs értelme belefogni
+A modern hozzáállás tükrében a legtöbb jelentőségteljes interakció szinte egyféle párbajnak tűnik.
+Így sajnos jogos, hogy Covey is az alapján csoportosítja őket, hogy ki "nyer" és ki "veszít":
 
-- hozzávalók
-    - az első 3 pont, hogy mi pontosan tudjuk a saját értékeinket
-    - az empátia és a bátorság megfelelő egyensúlya -- mert így tudjuk majd figyelembe (és komolyan) venni a másik álláspontját, de mégis szükség esetén kiállni a magunké mellett
-    - bőség-szemlélet, vagyis hogy jut mindenkinek!
-        - az életre nem szabad zéró-összegű játékként tekintenünk
-        - attól, hogy más jól jár, még mi is járhatunk jól... sőt, mindenki **jobban** jár, ha *mindenki* jól jár
-        - > A nyilvános siker nem egyenlő a mások fölött aratott győzelemmel.
+- **Veszít/veszít**:
+Ellenségeskedés, akár a saját javunk árán is.
+Ez a tipikus "Dögöljön meg a szomszéd tehene is!" mentalitás, ami az első rész tudatossága után szerintem nem is érdemel több figyelmet.
+Ilyet értelmes, jó szándékú ember egyszerűen nem csinál.
+
+- **Nyer/veszít** vagy **veszít/nyer**:
+Az előbbi azt a nézetet erősíti, hogy az értékek nem bennünk, hanem rajtunk kívül vannak.
+Hogy csak akkor lehetünk elég jók, ha *jobbak* vagyunk, mint a konkurencia.
+A legtöbbünknek ez az alapbeállítás -- és a társadalom is eléggé ezt sulykolja belénk.
+
+    Az utóbbinál is ugyanígy látjuk a dolgokat, csak még a versenybe sem megyünk bele -- inkább önként áldozzuk fel magunkat.
+    Egy kötélhúzásos hasonlattal élve: nem hogy csak nem húzzuk a kötelet, de még sétálunk is a másik irányába.
+    A túlzott törtetés és a túlzott engedékenység végletei között könnyű ingázni, de amint mindjárt látni fogjuk, lehet ezt máshogy is.
+
+- **Nyer**:
+Ilyenkor a másik fél egyszerűen nem számít -- nem is mindig *van* másik fél.
+A lényeg, hogy *én* nyerjek, mások gondjaival meg foglalkozzanak mások.
+Ez annyiban tekinthető előrelépésnek, hogy már a vesztésre legalább nem fókuszálunk.
+De miért is ne fókuszálhatnánk arra, hogy a másik **is** nyerjen?
+
+- **Nyer/nyer**:
+Itt végre képesek vagyunk elhinni, hogy mindenkinek juthat elég!
+Így juthatunk egy olyan pontra, ahol már nem a verseny, hanem az együttműködés a fő cél.
+Sőt, észrevesszük majd, hogy együtt többre megyünk, mint külön-külön tudtunk volna.
+Persze továbbra is nyerni akarunk, de innentől már úgy, hogy közben a másik is nyerjen!
+
+Nyilván a fentiek mindegyikéhez adható sarkított, mesterséges példa, amikben pont azok a megfelelő hozzáállások, de a való életben (jó esetben) igyekezzük a nyer/nyer hozzáállást a középpontban tartani.
+Pontosabban: legyen nyer/nyer, különben nincs egyezség!
+Ha nem sikerül a kompromisszum, akkor az elkerülhetetlen neheztelés mellett már belefogni sincs értelme.
+
+A nyer/nyer szemlélet hozzávalói:
+
+- A múlt héten tárgyalt első 3 pont -- hogy mi magunk pontosan tudjuk a saját értékeinket;
+- Az empátia és a bátorság megfelelő egyensúlya -- mert így tudjuk majd figyelembe (és komolyan) venni a másik álláspontját, de mégis szükség esetén kiállni a magunké mellett; illetve
+- A bőség-szemlélet -- vagyis hogy jut mindenkinek!
+
+Az életre nem szabad zéró-összegű játékként tekintenünk.
+Attól, hogy más jól jár, még mi is járhatunk jól...
+Igazából mindenki **jobban** jár, ha *mindenki* jól jár.
+
+> A nyilvános siker nem egyenlő a mások fölött aratott győzelemmel.
 
 <br>
 
@@ -154,36 +175,48 @@ A tartalom a következőképp alakul:
 
 ## <a name="ertsd"></a>5. Értsd, hogy értsenek!
 
- (Először a másikat értsd meg, aztán értesd meg magad!)
-- írni, olvasni, és beszélni is elég sokat tanulunk, de (meg)hallgatni közel sem annyit, mint kellene
-- ezeket az alapokat már Dale Carnegie-nél is vettük -- egy szóval: empátia.
-    - ne csak a saját sorunkat várjuk a beszédre, és ne csak a saját értékrendünk szerinti javaslatokkal próbáljuk megoldani a másik problémáját (vagy legalábbis amit a másik problémájából érzékelünk)
-    - előbb értsük meg, de úgy rendesen
-    - másrészt ha mi hagyjuk, hogy (a megértés során) a másik nézőpontja befolyásoljon minket, akkor utána sokkal valószínűbb, hogy majd mi is eredményesebben segíthetünk neki a mi nézőpontunkból -- talán mert a plusz tudásunkkal jobban az ő füléhez tudjuk igazítani, amit mondunk
-        - ellenkező esetben pedig úgysem hallgatnak majd ránk -- ha nem bíznak a diagnózisunkban, akkor a kezelési javaslatunkban sem fognak
-    - ez valamilyen szinten sebezhetőség -- ezért nagyon fontos az első három szabály, hogy a mi énünk már szilárd, elv-alapú legyen, és ne tudjanak kibillenteni, ha mi nem akarjuk
-- öt szint
-    1. figyelmen kívül hagyás
-    2. tettetett figyelem
-    3. szelektív figyelem
-    4. teljes figyelem
-    5. empatikus figyelem
-- leggyakrabban az első négy valamelyikét használjuk -- de minden esetre az ötödiket biztos nem annyiszor, mint kellene
-    - nem egyetérteni kell, "csak" megérteni
-- itt is kicsit Maslow-i hierarchia: a megértésre mindenki sokkal jobban vágyik, mint arra, hogy neki kelljen új nézőpontokat megértenie
-    - kb. mintha éhesek lennénk, de közben épp nem is kapunk levegőt. egyből szarnánk a kajára, garantálom.
-    - viszont ha már egyszer újra adott az oxigén, onnantól újra probléma lehetne az éhség
-    - hasonlóan: először értsük meg a másikat, és a megértettség igényének kielégülése után már talán jobban nyitott lesz a konkrét problémamegoldásra is
-- empatikus hallgatási módszerek (a legbénábbtól a legjobbig, sorban)
-    - tartalom ismétlés
-    - tartalom újrafogalmazása saját szavainkkal
-    - mögöttes érzések tükrözése
-    - tartalom újrafogalmazása saját szavainkkal ÉS mögöttes érzések tükrözése
-- a problémák, a körülmények, vagy mások viselkedése (habár az érdeklődési körünkben vannak) a befolyásolási körünkön **kívül** vannak.
-    - az viszont, hogy először minél jobban megérteni próbáljuk a másikat, az mindig a befolyásolási körünk kellős közepén van
-    - szóval tanuljuk meg félretenni a saját szemüvegünket (vagyis a saját látásmódunkat, a saját önéletrajzunkat, a saját paradigmáinkat), és próbáljuk a másik szemszögéből látni a világot
-- mindez sok munkának hangozhat, de a befektetés kamatostul megtérül
-    - egy csomó problémának egyszerűen alkalma sem lesz kialakulni és elmérgesedni odáig, ahol már tripla ennyi energiával sem lenne megoldható
+Vagyis először a másikat értsük meg, és csak aztán próbáljuk megértetni magunkat!
+Írni, olvasni, és beszélni is elég sokat tanulunk, de (meg)hallgatni közel sem annyit, mint kellene.
+
+Ezeket az alapokat már [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %})-nél is vettük -- egy szóval összefoglalva: empátia.
+Ne csak a saját sorunkat várjuk a beszédre, és ne csak a saját értékrendünk szerinti javaslatokkal próbáljuk megoldani a másik problémáját -- vagy legalábbis amit a másik problémájából érzékelünk.
+Előbb értsük meg, de úgy rendesen.
+Legyen annyira fontos az ő érdeklődési körük, mint amennyire ők maguk fontosak nekünk.
+
+Másrészt ha mi hagyjuk, hogy (a megértés során) a másik nézőpontja befolyásoljon minket, akkor utána sokkal valószínűbb, hogy majd mi is eredményesebben segíthetünk neki a mi nézőpontunkból -- talán mert a plusz tudásunkkal jobban az ő füléhez tudjuk igazítani, amit mondunk.
+Ez mondjuk valamilyen szinten sebezhetőség lesz a részünkről, de épp ezért nagyon fontos az első három szabály.
+Hogy a mi énünk már szilárd, elv-alapú legyen, és ne tudjanak kibillenteni, ha mi nem akarjuk.
+De a kibillentésnek legalább a *lehetőségét* meg kell adnunk, mert ellenkező esetben úgysem hallgatnak majd ránk.
+Ha nem bíznak a diagnózisunkban, akkor nyilván a kezelési javaslatunkban sem fognak.
+
+Covey a figyelem öt szintjén különíti el:
+
+1. Figyelmen kívül hagyás
+2. Tettetett figyelem
+3. Szelektív figyelem
+4. Teljes figyelem
+5. Empatikus figyelem
+
+Leggyakrabban az első négy valamelyikét használjuk -- de minden esetre az ötödiket biztos nem annyiszor, mint kellene.
+Ha viszont mégis az empatikus hallgatással próbálkozunk, azt mindenképp próbáljuk a másik felé is visszajelezni.
+Ennek módjai (a legbénábbtól a legjobbig, sorban):
+
+- Tartalom ismétlése
+- Tartalom újrafogalmazása saját szavainkkal
+- Mögöttes érzések tükrözése
+- Tartalom újrafogalmazása saját szavainkkal **és** a mögöttes érzések tükrözése
+
+A fentieket érdemes lehet Maslow szükségleti hierarchiája szemszögéből is megvizsgálni: a megértésre mindenki sokkal jobban vágyik, mint arra, hogy neki kelljen új nézőpontokat megértenie.
+Kb. mintha éhesek lennénk ugyan, de közben épp nem kapunk levegőt -- egyből szarnánk a kajára, garantálom.
+Viszont ha már egyszer újra adott az oxigén, onnantól megint probléma lehetne az éhség.
+Hasonlóan: először értsük meg a másikat, és a megértettség igényének kielégülése után már talán jobban nyitott lesz a konkrét problémamegoldásra is.
+
+A problémák, a körülmények, vagy mások viselkedése (habár az érdeklődési körünkben vannak) a befolyásolási körünkön **kívül** esnek.
+Az viszont, hogy először minél jobban megérteni próbáljuk a másikat, az mindig a befolyásolási körünk kellős közepén található!
+Szóval tanuljuk meg félretenni a saját szemüvegünket (vagyis a saját látásmódunkat, a saját önéletrajzunkat, a saját paradigmáinkat), és próbáljuk egy pillanatra a másik szemszögéből látni a világot.
+
+Mindez sok munkának hangozhat, de a befektetés kamatostul megtérül.
+Egy csomó problémának egyszerűen alkalma sem lesz kialakulni és elmérgesedni odáig, ahol már tripla ennyi energiával sem lenne megoldható.
 
 <br>
 
@@ -213,23 +246,27 @@ A tartalom a következőképp alakul:
 ## <a name="szinergia"></a>6. Használd ki a szinergiákat!
 
 > [A szinergia] az összes többi aranyszabály próbája és együttes megnyilvánulási formája.
-- az egész több, mint a részek összege
-    - kell hozzá a bátorság, mert a kreativitás "megfoghatatlansága" miatt előre pontosan nem tudhatjuk, hogy mi is vár majd a túloldalon -- de hiszünk benne, hogy több és jobb, mintha maradnánk a seggünkön.
-- látszólag ellentét van a "már a kezdetektől lásd magad előtt a célt" felkiáltással, de ez könnyen feloldható
-    - a szinergiát kihasználó helyzetekben az legyen a végcél, amit magunk előtt látunk, hogy az alapelvek alkalmazásával valami olyan szintű jót is ki fogunk tudni ebből az egészből, ami az elején még szinte elképzelhetetlen
-- a kapcsolat bizalmi szintje egyenesen arányos a szinergia lehetőségével
-    - ha alacsony, akkor hamar védekezésbe fordulunk
-    - közepes szinten már kompromisszumkészek leszünk
-    - magas szinten pedig elérhetjük, hogy az összeadott tudásunk valami még jobbat eredményezzen
-        - mert ilyenkor nyílunk meg igazán
-        - és mert ilyenkor tiszteljük annyira a másikat, hogy a nézeteltérések esetében megértésre, és nem vak meggyőzésre törekszünk
-- a különbségeket értékelni kell -- lásd John Stuart Mill szólásszabadságos érvelése
-    - ne arra vágyjunk, hogy a másik is pont úgy lássa a világot, mint mi
-    - hanem inkább arra, hogy a kettőnk nézőpontjából összetehessünk egy harmadikat, ami mindkettőnk eredeti verziójánál hasznosabb
-    - és különben is, ha valakinek pontosan ugyanaz a véleménye, mint nekünk, akkor mi értelme is lenne beszélni vele
-        - csak olyat mondhat, amit már én is tudok, nem?
-- a szinergiát már önmagunkon belül, a tipikusan jobb és bal agyféltekés működés összeegyeztetésével is megkezdhetjük
-    - és ha belül már teljes az összhang, akkor kifelé is jobban tudunk majd az kölcsönösen előnyös kapcsolatokra törekedni
+
+A szinergia igazából csak egy szép csengésű idegen szó arra, hogy az egész több, mint a részei összege.
+Kell hozzá a bátorság, mert a kreativitás "megfoghatatlansága" miatt előre pontosan nem tudhatjuk, hogy mi is vár majd a túloldalon -- de hiszünk benne, hogy több és jobb, mintha maradnánk a seggünkön.
+A szinergiát már önmagunkon belül, a tipikusan jobb és bal agyféltekés működés összeegyeztetésével is megkezdhetjük.
+És ha belül teljes az összhang, akkor kifelé is jobban tudunk majd a kölcsönösen előnyös kapcsolatokra törekedni.
+
+Látszólag ugyan ellentét van a "Már a kezdetektől lásd magad előtt a célt!" felkiáltással, de ez könnyen feloldható.
+Mert habár a szinergiát kihasználó helyzetekben is van valami végcél, amit magunk előtt látunk, az alapelvek alkalmazásával valami olyan szintű jót is ki fogunk tudni hozni ebből az egészből, ami az elején még szinte elképzelhetetlen lett volna.
+Szóval ne legyünk céltalanok -- de aztán ne lepődjünk meg, ha még jobban sül el.
+
+A kapcsolat bizalmi szintje egyenesen arányos a szinergia lehetőségével:
+- Ha alacsony, akkor hamar védekezésbe fordulunk;
+- Közepes szinten már kompromisszumkészek leszünk;
+- Magas szinten pedig elérhetjük, hogy az összeadott tudásunk valami még jobbat eredményezzen.
+Mert ilyenkor nyílunk meg igazán.
+És mert ilyenkor tiszteljük annyira a másikat, hogy a nézeteltérések esetében megértésre, és nem vak meggyőzésre törekszünk.
+
+A különbségeket és nézeteltéréseket nem kerülni, hanem *értékelni* kell -- lásd [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) szólásszabadságos érvelése.
+Ne arra vágyjunk, hogy a másik is pont úgy lássa a világot, mint mi, hanem inkább arra, hogy a kettőnk nézőpontjából összetehessünk egy harmadikat, ami mindkettőnk eredeti verziójánál hasznosabb.
+És különben is, ha valakinek pontosan ugyanaz a véleménye, mint nekünk, akkor mi értelme egyáltalán beszélgetni vele?
+Csak olyat mondhat, amit már én is tudok, nem?
 
 <br>
 
@@ -255,42 +292,54 @@ A tartalom a következőképp alakul:
 
 ## <a name="furesz"></a>7. Élezd meg a fűrészt!
 
-- fakivágós tanmese
-    - életlen fűrésszel vág, így már öt órája csinálja, még sincs vége
-    - de amikor meg azt javasolják neki, hogy meg kéne élezni a fűrészt, arra "nyilván" nincs ideje, mert még ma ki kell vágnia a fát
-    - tekintve, hogy egy élesebb fűrésszel már végzett volna, jogosan mondhatjuk, hogy **nem** megélezni nincs ideje!
-- az első három szabály tehát lefektette, hogy magunknak hogyan legyünk urai
-    - a második három pedig azt, hogy másokkal hogyan működhetünk együtt hatékonyabban
-    - de mindez a sok energiabefektetés csak akkor lesz fenntartható, ha a hozzájuk kötődő "fogadalmainkat" rendszeres megújítjuk a mindennapokban
-- Covey szerint a megújulás négy területe:
-    - fizikai --> 1-es szabályhoz különösen jó
-        - miket eszünk, mennyit pihenünk/lazítunk, hogyan mozgunk
-        - állóképesség (aerob), erő (anaerob), rugalmasság (mobilitás, nyújtás, yoga)
-        - több energia, ami mindenre kihat
-        - fejben pedig a saját proaktivitásunk tudatát erősíti bennünk, mert a visszahúzó erők ellenére is "második negyedes" tevékenységet végzünk
-        - a fűrészeshez hasonlóan: amilyen relatíve kis befektetés, és amekkora előnyt nyújt cserébe, inkább azt nem engedhetjük meg, hogy ne csináljuk
-    - lelki --> 2-es szabályhoz különösen jó
-        - vallási/spirituális szövegek böngészése, szépirodalmi (nem ismeretterjesztő!) olvasás, a természet közelség, kinek mi
-        - a lényeg, hogy újra és újra kapcsolatba kerüljünk a belső értékeinkkel, és mindegy felfrissítsük őket
-        > Ha kapcsolatba kerülünk a meghatározó középpontunkkal, akkor ez a kapcsolat védőernyőt tart minden más fölé is.
-        - ide kapcsolódik persze a személyes küldetési nyilatkozatunk is!
-    - szellemi --> 3-as szabályhoz különösen jó
-        - az oktatási rendszerről (és annak hiányosságairól) alkotott véleményemet szerintem eddig sem rejtettem véka alá
-        - de az talán még ennél is szomorúbb, hogy az a relatíve kis mennyiségű igazi oktatás után magunktól ezt a vonalat már nagyon kevesen folytatják
-        - ezzel egy csomó képességük kiaknázatlanul marad, szemléletmódjuk megkövül
-        - ellenben ha minél több szemléletmóddal ismerkedünk, akkor annál szélesebb (és általánosabb) világképre tehetünk szert
-        > Aki nem olvas, semmivel sincs jobb helyzetben annál, mint aki nem is tud olvasni.
-        - a másik elhanyagolt gyakorlat pedig az írás, amivel nem csak a kifejezőképességünket, hanem a tudatosságunkat és tisztánlátásunkat is fejleszthetjük
-        - vizualizáció?
-    - társas/érzelmi
-        - gyakoroljuk a 4-5-6-os szabályokat a mindennapi érintkezéseink során, és meglesz a gyümölcse
-        - mások szolgálata, lásd Brooks
-        > Érdemeld ki felebarátod szeretetét. -- Dr. Selye János
-- fontos, hogy ezekben is az egyensúlyra törekedjünk
-    - lelki értékek nélkül pénzt hajhászni például ugyanannyira hülyeség, mint tisztán lelki jó szándékból egy anyagilag fenntarthatatlan vállalkozásba kezdeni
-- re: anyagi biztonság:
-    > Anyagi biztonságod alapja nem az állásod, hanem a termelőképességed. [...] Nem az a lényeg, mekkora vagyonod van, hanem az a a képességed, amellyel vagyont tudsz magadnak teremteni.
-- tanulj --> vállalj --> cselekedj felfelé ívelő spirál
+A 7. szokás címét egy fakivágós tanmese ihlette:
+Alanyunk életlen fűrésszel vág egy fát, így már öt órája csinálja, még sincs közel a végéhez.
+De amikor azt javasolják neki, hogy meg kéne élezni a fűrészt, arra "nyilván" nincs ideje, mert még ma ki kell vágnia a fát.
+Tekintve, hogy egy élesebb fűrésszel már eddig is végezhetett volna, jogosan mondhatjuk, hogy **nem** megélezni nincs ideje!
+Vagyis: soha ne megüljünk bele annyira abba, amit csinálunk, hogy ne tudjunk azon gondolkozni, hogy *hogyan* csináljuk.
+
+
+Az első három szabály tehát lefektette, hogy magunknak hogyan legyünk urai.
+A második három pedig azt, hogy másokkal hogyan működhetünk együtt hatékonyabban.
+De mindez a sok energiabefektetés csak akkor lesz fenntartható, ha a hozzájuk kötődő "fogadalmainkat" rendszeresen megújítjuk a mindennapokban.
+Covey szerint a következő négy területre érdemes figyelnünk:
+
+- **Fizikai** (ami az 1-es szabályhoz különösen jó).
+Figyeljük, miket eszünk, mennyit pihenünk/lazítunk, hogyan mozgunk, stb.
+Az aktivitások terén vegyítsük az állóképességet (aerob), az erőt (anaerob), és a rugalmasságot (mobilitás, nyújtás, yoga) fejlesztő gyakorlatokat.
+Ezzel a sok energia befektetéssel (látszólag ellentmondásos módon) több energiához jutunk, ami az életünk más területeire is kihat majd.
+Fejben pedig a saját proaktivitásunk tudatát erősítjük ezzel, mert a visszahúzó erők ellenére is "második negyedes" tevékenységet végzünk.
+A fűrészes példához hasonlóan: amilyen relatíve kis befektetés, és amekkora előnyt nyújt cserébe, inkább azt nem engedhetjük meg, hogy ne csináljuk.
+
+- **Lelki** (ami a 2-es szabályhoz különösen jó).
+Vallási/spirituális szövegek böngészése, szépirodalmi (nem ismeretterjesztő!) olvasás, a természet közelsége; kinek mi.
+És ide kapcsolódik persze a személyes küldetési nyilatkozatunk is!
+A lényeg, hogy újra és újra kapcsolatba kerüljünk a belső értékeinkkel, és mindegy felfrissítsük őket.
+
+    > Ha kapcsolatba kerülünk a meghatározó középpontunkkal, akkor ez a kapcsolat védőernyőt tart minden más fölé is.
+
+- **Szellemi** (ami a 3-as szabályhoz különösen jó).
+Az oktatási rendszerről (és annak hiányosságairól) alkotott véleményemet szerintem eddig sem rejtettem véka alá.
+De az talán még ennél is szomorúbb, hogy az a relatíve kis mennyiségű igazi oktatás után maguktól ezt a vonalat már nagyon kevesen folytatják.
+Ezzel egy csomó képességük kiaknázatlanul marad, a szemléletmódjuk pedig megkövül.
+Ha mi ezzel ellentétben minél több szemléletmóddal ismerkedünk, akkor annál szélesebb (és általánosabb) világképre tehetünk szert.
+
+    > Aki nem olvas, semmivel sincs jobb helyzetben annál, mint aki nem is tud olvasni.
+
+    A másik elhanyagolt gyakorlat pedig az írás, amivel nem csak a kifejezőképességünket, hanem a tudatosságunkat és a tisztánlátásunkat is fejleszthetjük.
+    Vezessünk naplót, foglaljuk össze a gondolatainkat, és meglepő felismerésekre juthatunk.
+
+- **Társas/érzelmi** (ami pedig a ma tárgyalt 4-5-6-os szabályokhoz kiváló).
+Gyakoroljuk a mindennapi érintkezéseink során, hogy a másik szemszögét (is) figyelembe vesszük, és meglesz a gyümölcse.
+Gyanúsan sokan jutnak arra a következtetésre, hogy valamilyen formában mások szolgálata a lényeg, nem? (lásd például [Brooks]({% post_url 2021-02-19-david-brooks-a-masodik-hegy %}))
+
+    > Érdemeld ki felebarátod szeretetét.
+    >
+    > -- Dr. Selye János
+
+Fontos, hogy ezekben is az egyensúlyra törekedjünk.
+Elvégre lelki értékek nélkül pénzt hajhászni például ugyanannyira hülyeség, mint tisztán lelki jó szándékból egy anyagilag fenntarthatatlan vállalkozásba kezdeni.
+Ha viszont tartjuk az egyensúly, akkor a folyamatos tanulás/vállalás/cselekvés felfelé ívelő spiráljában magasabbra juthatunk, mint valaha gondoltuk volna.
 
 <br>
 
@@ -315,6 +364,9 @@ A tartalom a következőképp alakul:
 
 ## Összefoglalás
 
-- legyünk az átalakulás emberei
-    - kb. hidak a múlt és egy jobb jövő között
-    - nem csak öntudatlanul továbbadjunk a tanult forgatókönyveinket, hanem képesek vagyunk hátralépni, megvizsgálni őket, és lecserélni azokat, amik cserére szorulnak
+Láthattuk tehát, hogy a másokkal való kapcsolatainkban miért érdemes mindig a nyer/nyer kimenetre törekedni, miért érdemes bármiféle győzködés helyett előbb a másikat megérteni, és hogy a közös munka hogyan mutathat túl az egyéni teljesítményeken.
+Sőt, azt is láttuk, hogy hogyan tudunk olyan következetesek lenni, ami által ezek az elvek el is jutnak majd a virágzási fázisukba.
+
+Végszóként mégis az egyéni szokások, azon belül is a felelősségvállalás felé fordulunk vissza.
+Covey kérése, hogy legyünk az "átalakulás emberei" -- akik kb. hidak a múlt és egy jobb jövő között.
+A tanult forgatókönyveink öntudatlan továbbadása helyett igyekezzünk rendszeresen hátralépni, megvizsgálni őket, és lecserélni azokat, amik cserére szorulnak.
