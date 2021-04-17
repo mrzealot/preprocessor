@@ -14,7 +14,7 @@ excerpt: >
 És a sorrend nem véletlen: egyéni győzelem nélkül nincs közös győzelem!
 Amíg a személyes függetlenséget el nem érjük, addig legfeljebb a negatív kicsengésű függés lehet terítéken.
 
-Viszont attól, hogy egyszer elérjük a függetlenséget, ne elégedjünk meg vele -- lépjünk inkább tovább a sokkal pozitívabb kicsengésű "egymásrautaltság" felé.
+Viszont attól, hogy egyszer elérjük a függetlenséget, ne elégedjünk meg vele -- lépjünk inkább tovább a sokkal pozitívabb hangzású "egymásrautaltság" felé.
 Ez az, amikor már egyedül is boldogulnánk, csak rájövünk, hogy nem érdemes.
 Nézzük, mit tehetünk az ügy érdekében...
 
@@ -61,8 +61,8 @@ Ez alatt azt érti, hogy minden egyes interakciónk vagy növeli, vagy fogyasztj
 Ha tele a bankszámla, akkor a kisebb súrlódások meg sem érződnek, és minden gördülékenyen megy.
 Ha viszont üres (vagy akár mínuszban van), akkor meglátjuk majd, hogy minden kijelentés, hangsúly és gesztus ezerféleképpen félremagyarázható.
 
-Mint ahogy már sok helyes érintettük, a gyorstalpaló módszerek (értsd, manipuláció) legfeljebb is csak egy-egy konkrét eredmény etikátlan kicsikarásához lesz elegendő.
-Hosszú távon csak akkor működhet bármi is, ha mi magunk adó szemléletűvé válunk.
+Mint ahogy már sok helyen érintettük, bármilyen gyorstalpaló módszer (értsd, manipuláció) legfeljebb egy-egy konkrét eredmény etikátlan kicsikarásához lesz elegendő.
+Hosszú távon csak akkor működhet egy kapcsolat, ha mi magunk adó szemléletűvé válunk.
 Persze az adásnak is rengeteg fajtája lehetséges:
 
 - A másik megértése;
@@ -114,14 +114,15 @@ Ellenségeskedés, akár a saját javunk árán is.
 Ez a tipikus "Dögöljön meg a szomszéd tehene is!" mentalitás, ami az első rész tudatossága után szerintem nem is érdemel több figyelmet.
 Ilyet értelmes, jó szándékú ember egyszerűen nem csinál.
 
-- **Nyer/veszít** vagy **veszít/nyer**:
-Az előbbi azt a nézetet erősíti, hogy az értékek nem bennünk, hanem rajtunk kívül vannak.
+- **Nyer/veszít**:
+Azt a nézetet erősíti, hogy az értékek nem bennünk, hanem rajtunk kívül vannak.
 Hogy csak akkor lehetünk elég jók, ha *jobbak* vagyunk, mint a konkurencia.
 A legtöbbünknek ez az alapbeállítás -- és a társadalom is eléggé ezt sulykolja belénk.
 
-    Az utóbbinál is ugyanígy látjuk a dolgokat, csak még a versenybe sem megyünk bele -- inkább önként áldozzuk fel magunkat.
-    Egy kötélhúzásos hasonlattal élve: nem hogy csak nem húzzuk a kötelet, de még sétálunk is a másik irányába.
-    A túlzott törtetés és a túlzott engedékenység végletei között könnyű ingázni, de amint mindjárt látni fogjuk, lehet ezt máshogy is.
+- **Veszít/nyer**:
+Itt is ugyanígy látjuk a dolgokat, mint a nyer/veszít esetben, csak még a versenybe sem megyünk bele -- inkább önként áldozzuk fel magunkat.
+Egy kötélhúzásos hasonlattal élve: nem hogy csak nem húzzuk a kötelet, de még sétálunk is a másik irányába.
+A túlzott törtetés és a túlzott engedékenység végletei között könnyű ingázni, de amint mindjárt látni fogjuk, lehet ezt máshogy is.
 
 - **Nyer**:
 Ilyenkor a másik fél egyszerűen nem számít -- nem is mindig *van* másik fél.
@@ -135,7 +136,7 @@ Itt végre képesek vagyunk elhinni, hogy mindenkinek juthat elég!
 Sőt, észrevesszük majd, hogy együtt többre megyünk, mint külön-külön tudtunk volna.
 Persze továbbra is nyerni akarunk, de innentől már úgy, hogy közben a másik is nyerjen!
 
-Nyilván a fentiek mindegyikéhez adható sarkított, mesterséges példa, amikben pont azok a megfelelő hozzáállások, de a való életben (jó esetben) igyekezzük a nyer/nyer hozzáállást a középpontban tartani.
+Nyilván a fentiek mindegyikéhez adható sarkított, mesterséges példák, amikben pont azok a megfelelő hozzáállások, de a való életben (jó esetben) igyekezzük a nyer/nyer hozzáállást a középpontban tartani.
 Pontosabban: legyen nyer/nyer, különben nincs egyezség!
 Ha nem sikerül a kompromisszum, akkor az elkerülhetetlen neheztelés mellett már belefogni sincs értelme.
 
@@ -206,10 +207,10 @@ Ennek módjai (a legbénábbtól a legjobbig, sorban):
 - Mögöttes érzések tükrözése
 - Tartalom újrafogalmazása saját szavainkkal **és** a mögöttes érzések tükrözése
 
-A fentieket érdemes lehet Maslow szükségleti hierarchiája szemszögéből is megvizsgálni: a megértésre mindenki sokkal jobban vágyik, mint arra, hogy neki kelljen új nézőpontokat megértenie.
+A fentieket érdemes lehet Maslow szükségleti hierarchiájának szemszögéből is megvizsgálni: a megértésre mindenki sokkal jobban vágyik, mint arra, hogy neki kelljen új nézőpontokat megértenie.
 Kb. mintha éhesek lennénk ugyan, de közben épp nem kapunk levegőt -- egyből szarnánk a kajára, garantálom.
 Viszont ha már egyszer újra adott az oxigén, onnantól megint probléma lehetne az éhség.
-Hasonlóan: először értsük meg a másikat, és a megértettség igényének kielégülése után már talán jobban nyitott lesz a konkrét problémamegoldásra is.
+Hasonlóan: először értsük meg a másikat, és a megértettség igényének kielégülése után már talán jobban nyitott lesz a konkrét javaslatainkra is.
 
 A problémák, a körülmények, vagy mások viselkedése (habár az érdeklődési körünkben vannak) a befolyásolási körünkön **kívül** esnek.
 Az viszont, hogy először minél jobban megérteni próbáljuk a másikat, az mindig a befolyásolási körünk kellős közepén található!
@@ -264,9 +265,9 @@ Mert ilyenkor nyílunk meg igazán.
 És mert ilyenkor tiszteljük annyira a másikat, hogy a nézeteltérések esetében megértésre, és nem vak meggyőzésre törekszünk.
 
 A különbségeket és nézeteltéréseket nem kerülni, hanem *értékelni* kell -- lásd [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) szólásszabadságos érvelése.
-Ne arra vágyjunk, hogy a másik is pont úgy lássa a világot, mint mi, hanem inkább arra, hogy a kettőnk nézőpontjából összetehessünk egy harmadikat, ami mindkettőnk eredeti verziójánál hasznosabb.
-És különben is, ha valakinek pontosan ugyanaz a véleménye, mint nekünk, akkor mi értelme egyáltalán beszélgetni vele?
-Csak olyat mondhat, amit már én is tudok, nem?
+Ne arra vágyjunk, hogy a másik is pont úgy lássa a világot, mint mi, hanem inkább arra, hogy a kettőnk nézőpontjából összegyúrhassunk egy harmadikat, ami mindkettőnk eredeti verziójánál hasznosabb.
+És különben is, ha valakinek ugyanaz a véleménye, mint nekünk, akkor mi értelme egyáltalán beszélgetni vele?
+Csak olyat mondhat, amit már mi is tudunk, nem?
 
 <br>
 
@@ -296,7 +297,7 @@ A 7. szokás címét egy fakivágós tanmese ihlette:
 Alanyunk életlen fűrésszel vág egy fát, így már öt órája csinálja, még sincs közel a végéhez.
 De amikor azt javasolják neki, hogy meg kéne élezni a fűrészt, arra "nyilván" nincs ideje, mert még ma ki kell vágnia a fát.
 Tekintve, hogy egy élesebb fűrésszel már eddig is végezhetett volna, jogosan mondhatjuk, hogy **nem** megélezni nincs ideje!
-Vagyis: soha ne megüljünk bele annyira abba, amit csinálunk, hogy ne tudjunk azon gondolkozni, hogy *hogyan* csináljuk.
+Vagyis: soha ne merüljünk bele annyira abba, amit csinálunk, hogy ne tudjunk azon gondolkozni, hogy *hogyan* kellene csinálnunk.
 
 
 Az első három szabály tehát lefektette, hogy magunknak hogyan legyünk urai.
@@ -314,7 +315,7 @@ A fűrészes példához hasonlóan: amilyen relatíve kis befektetés, és amekk
 - **Lelki** (ami a 2-es szabályhoz különösen jó).
 Vallási/spirituális szövegek böngészése, szépirodalmi (nem ismeretterjesztő!) olvasás, a természet közelsége; kinek mi.
 És ide kapcsolódik persze a személyes küldetési nyilatkozatunk is!
-A lényeg, hogy újra és újra kapcsolatba kerüljünk a belső értékeinkkel, és mindegy felfrissítsük őket.
+A lényeg, hogy újra és újra kapcsolatba kerüljünk a belső értékeinkkel és felfrissítsük őket.
 
     > Ha kapcsolatba kerülünk a meghatározó középpontunkkal, akkor ez a kapcsolat védőernyőt tart minden más fölé is.
 
@@ -331,7 +332,8 @@ Ha mi ezzel ellentétben minél több szemléletmóddal ismerkedünk, akkor ann�
 
 - **Társas/érzelmi** (ami pedig a ma tárgyalt 4-5-6-os szabályokhoz kiváló).
 Gyakoroljuk a mindennapi érintkezéseink során, hogy a másik szemszögét (is) figyelembe vesszük, és meglesz a gyümölcse.
-Gyanúsan sokan jutnak arra a következtetésre, hogy valamilyen formában mások szolgálata a lényeg, nem? (lásd például [Brooks]({% post_url 2021-02-19-david-brooks-a-masodik-hegy %}))
+Gyanúsan sokan jutnak arra a következtetésre, hogy valamilyen formában mások szolgálata a lényeg, nem?
+Lásd például [Brooks]({% post_url 2021-02-19-david-brooks-a-masodik-hegy %})...
 
     > Érdemeld ki felebarátod szeretetét.
     >
@@ -339,7 +341,7 @@ Gyanúsan sokan jutnak arra a következtetésre, hogy valamilyen formában máso
 
 Fontos, hogy ezekben is az egyensúlyra törekedjünk.
 Elvégre lelki értékek nélkül pénzt hajhászni például ugyanannyira hülyeség, mint tisztán lelki jó szándékból egy anyagilag fenntarthatatlan vállalkozásba kezdeni.
-Ha viszont tartjuk az egyensúly, akkor a folyamatos tanulás/vállalás/cselekvés felfelé ívelő spiráljában magasabbra juthatunk, mint valaha gondoltuk volna.
+Ha viszont képesek vagyunk tartani az egyensúlyt, akkor a folyamatos tanulás/vállalás/cselekvés felfelé ívelő spiráljában magasabbra juthatunk, mint valaha gondoltuk volna.
 
 <br>
 
@@ -368,5 +370,5 @@ Láthattuk tehát, hogy a másokkal való kapcsolatainkban miért érdemes mindi
 Sőt, azt is láttuk, hogy hogyan tudunk olyan következetesek lenni, ami által ezek az elvek el is jutnak majd a virágzási fázisukba.
 
 Végszóként mégis az egyéni szokások, azon belül is a felelősségvállalás felé fordulunk vissza.
-Covey kérése, hogy legyünk az "átalakulás emberei" -- akik kb. hidak a múlt és egy jobb jövő között.
+Covey kérése, hogy legyünk az "átalakulás emberei" -- akik kb. hidat képeznek a múlt és egy jobb jövő között.
 A tanult forgatókönyveink öntudatlan továbbadása helyett igyekezzünk rendszeresen hátralépni, megvizsgálni őket, és lecserélni azokat, amik cserére szorulnak.
