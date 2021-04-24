@@ -6,11 +6,11 @@ tags: [szemléletmód]
 pages: 176
 date: 2021-04-24 00:01
 excerpt: >
-    Az alkimista egy rövid, tömör tanmese, ami az első félévben kemény 2, azaz **kettő** db elkelt példánytól egészen a 80 nyelvre lefordításig és a nemzetközi best-seller státuszig jutott.
+    Az alkimista egy rövid, tömör tanmese, ami az első félévben kemény 2, azaz **kettő** darab elkelt példánytól egészen a 80 nyelvre lefordításig és a nemzetközi best-seller státuszig jutott.
     És habár ez önmagában még nem garancia a minőségre, azért bevallom, kíváncsi voltam, milyen könyv képes ekkora kultuszt építeni maga köré.
 ---
 
-[Az alkimista](https://moly.hu/konyvek/paulo-coelho-az-alkimista){:target="_blank"} egy rövid, tömör tanmese, ami az első félévben kemény 2, azaz **kettő** db elkelt példánytól egészen a 80 nyelvre lefordításig és a nemzetközi best-seller státuszig jutott.
+[Az alkimista](https://moly.hu/konyvek/paulo-coelho-az-alkimista){:target="_blank"} egy rövid, tömör tanmese, ami az első félévben kemény 2, azaz **kettő** darab elkelt példánytól egészen a 80 nyelvre lefordításig és a nemzetközi best-seller státuszig jutott.
 Sokszor hallottam vissza róla lenéző/megvető véleményeket; sőt, a "Coelho" egyes körökben majdhogynem a bárgyúság szinonimája.
 De mellette legalább ilyen gyakran találkozhatunk vele a legjobb könyvek listáján is.
 És habár ez önmagában még nem garancia a minőségre, azért bevallom, kíváncsi voltam, milyen könyv képes ekkora kultuszt építeni maga köré.
@@ -73,72 +73,72 @@ Nem akar leragadni a "langyos pocsolyában", és inkább az álmait követi.
 <br>
 
 Áthajózik Afrikába, ahol egy igen erős kultúrsokk következik.
-Nem ismeri a kultúrát, nem beszéli a nyelvet, és a zöldfülűségét kihasználva szinte nyomban ki is rabolják.
+Nem ismeri a szokásokat, nem beszéli a nyelvet, és a zöldfülűségét kihasználva szinte nyomban ki is rabolják.
 De elhatározza, hogy nem áldozatként, hanem kalandorként tekint magára, és akkor is megkeresi a saját kincsét.
 
 Egy kristályárusnál kezd dolgozni, hogy pénzt spórolhasson -- ha mást nem, legalább a hazaútra.
 Itt viszont egyre jobban belejön az üzletbe, ami természetesen változtat a kilátásain, és innentől a nyája kétszeresét is szeretné visszaszerezni.
-A kereskedőnek egy újabb tökéletes példa a begyöpösödésre, mert nagyon nem szimpatikus neki, hogy csak így kibillentik az eddigi életritmusából (még ha a siker felé is).
+A kereskedő pedig egy újabb tökéletes példa a begyöpösödésre, mert nagyon nem szimpatikus neki, hogy csak így kibillentik az eddigi életritmusából (még ha a siker felé is).
 
 Santiago az itteni események segítségével tapasztalja meg, amit már a király is mondott neki: hogy létezik egy "nyelv", ami se nem spanyol, se nem arab.
 A "lelkesedés és az ómenek nyelve", ami mindig megmutatja az utat; az univerzális nyelv, ami a szerencsén és a véletlenen keresztül kommunikál.
 Rájön, hogy habár a nyáj visszavásárlása mindig ott lesz, mint B terv, miért ne próbálhatná meg újra megvalósítani az álmát?
-A kristályos is a sivatagon át, karavánokkal importálja az árut -- mi baj lehet, ha utánakérdez a Piramisoknak?
+A kristályos is a sivatagon át, karavánokkal importálja az árut -- mi baj lehet, ha utánakérdez Egyiptomnak és a Piramisoknak?
 
 Találkozik egy Angollal, aki alkimista akar lenni, és azért utazik a karavánnal, mert így hátha találkozhat egy állítólag 200 éves alkimistával.
 Mivel úgy gondolja, hogy a célként kitűzött Oázis is egy megállóval közelebb viszi a Piramisokhoz, Santiago is csatlakozik a karavánhoz.
 
-Menet közben egy karavánossal beszélget, akinek az élettörténete alapján megláthatjuk, hogy nem kell félni az ismeretlentől, ha az ember magában megbízik.
+Menet közben az egyik karavánossal beszélget, akinek az élettörténete alapján megláthatjuk, hogy nem kell félni az ismeretlentől, ha az ember megbízik magában.
 Itt sem fél az esetleges törzsi háborútól, mert képes a jelenben élni (nem a múltban, és nem is a jövőben).
 Ha eszik, akkor eszik; ha menetel, akkor menetel; ha majd harcolni kell, akkor harcolni fog.
 Ez a sorsa, így van megírva, avagy az arab mondás szerint "Maktub"...
 
-Ezzel párhuzamosan egymást "tanítják" az Angollal.
+Ezzel párhuzamosan az Angollal is "tanítják" egymást.
 Santiago azt tanítja neki, hogy figyeljen jobban a karavánra, a sivatagra, a jelenre, és tanuljon a környezetéből.
 Az Angol pedig azt tanítja neki, hogy olvasson többet -- amire érdemes kb. egy mentális karavánként gondolni, és az ottani kirándulásokból tapasztalatot szerezni.
-Ez a kísérlet egyik irányból sem ment igazán jól, amiből levonhatjuk, hogy mindenki a maga módján tanul -- de ha ettől még a jó cél felé törekszik, akkor ez nem is számít.
+Ez a kísérlet egyik irányból sem megy igazán jól, amiből levonhatjuk, hogy mindenki a maga módján tanul -- de ha ettől még a jó cél felé törekszik, akkor ez nem is számít.
 
 <br>
 
-Végül csak elérik az Oázist, ami ennyi utazás után egyből más megvilágításba helyezi azokat a hétköznapi kényelmeket, amikről más szinte tudomást sem vesz:
+Végül csak elérik az Oázist, ami ennyi utazás után egyből más megvilágításba helyezi azokat a hétköznapi kényelmeket, amikről előtte szinte tudomást sem vettek:
 
 > Talán Isten azért teremtette a sivatagot, hogy az ember értékelni tudja a datolyafát.
 > > Maybe God created the desert so that man could appreciate the date trees.
 
 Itt találkozik Fatimával, akibe egyből beleszeret.
 Ilyen sorsos és/vagy univerzális nyelves módon egyből tudja, hogy a lány a kincs (vagy legalábbis a kincs része), amiért útra kelt.
-Hónapokig itt ragadnak a háttérben kitörő törzsi háborúk miatt, amíg minden nap találkozik vele a kútnál
-Végül a lány is szerelmet vall neki, de nagyon "idegen" módon: ne maradjon vele, hanem menjen csak az álma után.
+Hónapokig itt ragadnak a háttérben kitörő törzsi háborúk miatt, amíg minden nap találkozik vele a kútnál.
+Végül a lány is szerelmet vall neki, de nagyon "idegen" módon: ne maradjon vele, hanem előbb menjen csak az álma után.
 Ha igazi a szerelmük, akkor úgyis visszatér majd hozzá; ha nem, akkor viszont úgyis csak neheztelés lenne belőle hosszú távon.
 Vagyis Santiago következő leckéje a birtoklás nélküli szeretet.
 
 Víziója támad, hogy az Oázisban is veszély fenyegeti őket -- annak ellenére, hogy az egy tradicionálisan biztonságos hely.
 Úgymond belelát a "Világ Lelkébe", a színfalak mögé, mert hisz az ómenekben, és ezzel megmenti az embereket egy meglepetés támadástól.
 Ezzel a víziójával hívja fel magára az alkimista figyelmét, aki, mint kiderül, tényleg itt várta az új tanítványát -- csak nem az Angolt.
-Átmegy az alkimista tesztjén (életet talál a sivatagban, mert hagyja a lovát, hogy az érezze meg), és ezért az vállalja, hogy a törzsi háborúk ellenére is elviszi a Piramisokhoz.
+Átmegy az alkimista tesztjén (életet talál a sivatagban, mert hagyja a lovát, hogy az érezze meg, merre kell menni), és ezért az vállalja, hogy a törzsi háborúk ellenére is elviszi a Piramisokhoz.
 Fatimától elbúcsúzik, de megfogadja, hogy visszajön.
 
-Út közbeni beszélgetések, ahol az alkimistától további bölcsességeket tanulhatunk:
+Az út közbeni beszélgetések során további bölcsességeket tanulhatunk az alkimistától:
 
 - Hallgass a szívedre!
 Persze nem feltétlen kell mindig azt csinálni, amit a szívünk akar...
-De azért legalább tisztában kell lenni vele, hogy mit is akarna -- mert így nem lesz váratlan az "árulása".
+De azért legalább tisztában kell lennünk vele, hogy mit is akarna -- mert így nem lesz váratlan az "árulása".
 
 - Már a keresés folyamata maga is egy találkozás Istennel.
 Út a cél előtt!
 
-- Minden projekt a kezdők szerencséjével indul (mert az univerzum is segít rálépni az útra), de a vége előtt minden leckét letesztel a sors.
-Kb. ilyen "hajnal előtt a legnagyobb a sötétség" módon.
+- Minden projekt a kezdők szerencséjével indul (mert az univerzum is segít rálépni az útra), de a vége előtt minden leckét letesztel a sors -- kb. ilyen "hajnal előtt a legnagyobb a sötétség" módon.
 
-Ezek szemléltetéseként persze azonnal el is fogják őket, mire az alkimista lazán felajánlja, hogy a fiú majd széllé változtatja magát és elfújja az egész tábort.
+Az utóbbi szemléltetéseként persze azonnal el is fogják őket, mire az alkimista lazán felajánlja, hogy a fiú majd széllé változtatja magát és elfújja az egész tábort.
 Átvitt értelemben tiszta sor, hogy Santiago itt érti meg a végső leckéket.
 Minden egy, és a szeretet mindent összeköt.
 A változás és a körforgás áll az élet középpontjában.
 Beteljesíteni a Személyes Legendánkat, de aztán (vagyis, közben) jobbá válni, ami miatt már egy újabb cél következhet.
 Konkrétan viszont csak azt látjuk, ahogy szó szerint *beszél* a sivataggal, a széllel, a Nappal, és magával Istennel, hogy segítsenek neki, és így tényleg hatalmas szélvihar támad.
 Ezt a kettőt mindenki úgy egyezteti össze, ahogy jónak látja...
+Egy szó mint száz, újra útnak engedik őket, ahonnan Santiago már egyedül megy tovább.
 
-Végül elér a piramisokhoz, ahol ásni kezd a kincs után.
+Végül elér a piramisokhoz, ahol az ómenek által kijelölt helyen ásni kezd a kincs után.
 Itt, szinte már komikus módon, harmadszor is kirabolják, és még ki is gúnyolják.
 De egy utolsó fordulat keretében az egyik rabló lazán elejt egy megjegyzést az álmokkal kapcsolatban: neki is volt egy visszatérő álma, hogy Spanyolországban, egy romos templomnál, egy fa tövében kell ásni a kincsért.
 Egy szóval, metaforikusan és szó szerint is "végig ott volt az orrunk alatt".
@@ -169,16 +169,16 @@ A történet a hazatért, a kincset frissen kiásó, és a Fatimához visszatér
 ## <a name="elemzes"></a>És ez mit is jelent?
 
 Először is, ez egy kimondott tanmese, ami nem is próbál *nem* tanmesének látszani.
-Szóval nézzük el a Deus Ex Machina jellegű fantasztikus elemeket és a szándékosan egyszerű nyelvezetet.
+Szóval nézzük el a *deus ex machina* jellegű fantasztikus elemeket és a szándékosan egyszerű nyelvezetet.
 Senki nem tisztán az irodalmi értékei miatt fog felnézni egy gyakorlatilag tőmondatokból álló könyvecskére.
 A fontos, hogy a rokonszenves sztoriban meglássuk magunkat, és így talán jobban beüssön a mondanivaló.
 
-Részemről én már sajnos az elején magamra ismertem egy külföldi munkatapasztalattal.
+Részemről én már sajnos az elején magamra ismertem egy külföldi munkatapasztalattal kapcsolatban.
 Próbáltam "pék" lenni, hogy félretegyek, és majd később ráérek élni...
 Szerencsére még a begyöpösödés előtt nagy nehezen csak rájöttem, hogy már akár most is élhetnék.
-Mentségemre szóljon, hogy legalább már akkor sem mások megbecsüléséért, hanem saját magamért csináltam -- de attól még nem lett helyes!
+Mentségemre szóljon, hogy legalább már akkor sem mások megbecsüléséért, hanem saját magamért csináltam -- de attól még nem lesz helyes!
 
-De sebaj, hiszen mondjuk úgy, hogy azóta már sokkal tudatosabban a Személyes Legendám felé fordultam, ami mindenek előtt az önfejlesztésre épül.
+Sebaj, mondjuk úgy, hogy azóta már sokkal tudatosabban a Személyes Legendám&trade; felé fordultam, ami mindenek előtt az önfejlesztésre épül.
 És ezzel (remélem) szépen kapcsolódok az alkimista szimbólumához, aki a könyv definíciója szerint annyira jobbá akar válni, hogy ezzel együtt menet közben a környezetét is jobbá teszi.
 Innen láthatjuk, hogy a cím sem az alkimista karakterre, hanem (nyilván) Santiago-ra utal.
 Elvégre mi mind Santiago-k vagyunk, a [saját életünk hősei]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %})!
@@ -229,6 +229,7 @@ Ha ugyanis érzéketlenné válunk a közhelyekkel szemben, akkor hiába volt az
 
 ## Összefoglalás
 
-Amire felhívnám a figyelmet, hogy minden könyv mondanivalója legalább két félen múlik.
+Minden könyv mondanivalója legalább két félen múlik.
 Egy író sem annyira hatalmas, hogy az olvasó együttműködése nélkül is átadhassa a mondanivalóját.
+Szóval ha egy lenéző "klisé" címkével lelegyintjük a fentiek jelentőségét, akkor természetesen könnyen hatástalaníthatjuk őket.
 Ha viszont hajlandóak leszünk egy pár percre félretenni a cinikussá patinásodott énünket, akkor megígérhetem, hogy Az alkimista jó irányba mutatja majd az utat...
