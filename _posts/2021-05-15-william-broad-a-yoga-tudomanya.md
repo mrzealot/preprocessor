@@ -17,7 +17,7 @@ Haladunk tovább a [Kék Zónák]({% post_url 2021-05-01-dan-buettner-foldunk-ke
 Az egyik oldalon nyers, gyakorlatokat és pózokat felsoroló, anatómiai pontosságú kötetek sorakoznak, a másik oldalon pedig a megfoghatatlan, keleti miszticizmusban úszik minden.
 Arany középútnak William Broad díjnyertes újságírói szemléletét, és [A yoga tudománya](https://moly.hu/konyvek/william-j-broad-the-science-of-yoga){:target="_blank"} című áttekintését választottam.
 
-Habár a yoga régen még egy kevesek számára ismert (vagy egyáltalán elérhető) terület volt, manapság kb. a csapból is a az folyik.
+Habár a yoga régen még egy kevesek számára ismert (vagy egyáltalán elérhető) terület volt, manapság kb. a csapból is az folyik.
 Ez sok okból érthető, elvégre a rohanó és külső ingerekre figyelő világunkban a yoga a lassúság és a befelé fordulás szigete.
 Broad hasonlatával élve: a yoga egy anti-civilizációs pirula.
 Azonban a népszerűségi skála mindkét vége lehet veszélyes.
@@ -80,16 +80,17 @@ Első sorban: a yoga egy spirituális, filozófiai irányzat a megvilágosodás 
 A Tantra sokak szerint csak egy spirituális kifogás volt arra, hogy különböző módokon büntetlenül élvezkedhessenek.
 
 Amit mi ma yoga-nak értelmezünk, az a "testtartási yoga", amit a Hatha vezetett be -- csakhogy régen a fókuszban inkább a nemi szervek, a "környezetük", és azok stimulációja álltak.
-Na és ugye a rengeteg "csoda", miszerint a yogik halhatatlanok, levitálni tudnak, élve eltemethetők és túlélik, gondolatolvasók, ...
-Szóval habár biztosan sok olyan yogi akadt, aki a "megvilágosodásban" a valódi spirituális célt látta, sokan mások inkább élvezetet és cirkusz vagy utcai bűvész-jellegű profitot kerestek.
+Na és ugye ennek a tetejébe jött a rengeteg "csoda", miszerint a yogik halhatatlanok, gondolatolvasók, levitálni tudnak, élve eltemethetők és túlélik, stb.
+Szóval habár biztosan sok olyan yogi akadt, aki a "megvilágosodásban" a valódi spirituális célt látta, sokan mások inkább élvezetet és utcai bűvész-jellegű profitot kerestek.
 
 A nagy pálfordulás ott kezdődött, amikor a Britt megszállásnak ellenálló indiai nacionalista mozgalom szándékosan megpróbálta egy kicsit modernebb és "vállalhatóbb" fényben feltüntetni az ősi yoga hagyományát.
 Hogy egyrészt hagyatkozhassanak az "ősi"-ségre (és ezzel a saját nemzetük felsőbbrendűségét hangsúlyozzák a megszállók Európai kultúrájával szemben), de azért közben valami olyat hirdessenek, amihez egy 20. századi, középosztálybeli embernek is fűlene a foga.
-Így vált a yoga 1920-as évektől folyamatosan az egészség és a fitness új sztárjává.
+Így vált a yoga az 1920-as évektől folyamatosan az egészség és a fitness új sztárjává.
 
-Ehhez idővel egyre jobban jöttek az egészségességet alátámasztó kutatások (amiket először inkább propagandának címkézhetnénk), és a bűvésztrükköket lebuktató kutatások.
+Ehhez idővel egyre jobban jöttek a bűvésztrükköket lebuktató tesztek és az egészségességet alátámasztó kutatások.
+Az utóbbiakat kezdetben inkább propagandának címkézhetnénk, de idővel egyre komolyabban vették őket.
 Persze az orvosibb vonalon is akadtak cáfolatok -- kimutatták mondjuk, hogy a vér magasabb oxigenizálása nettó hülyeség, mert egy egészséges ember vére alapból 99-100%-ban oxigenizált.
-Végső soron azonban mégis akadnak kézzel fogható egészségügyi vonatkozások.
+Végső soron azonban mégis akadnak kézzel fogható egészségügyi pozitívumok.
 
 Egyrészt a fiziológiai lelassulás oldja a stresszt, lassítja a pulzust, csökkenti a vérnyomást, visszafogja a koleszterin szintet, ritkítja a vérrögök kialakulását, és erősíti az immunrendszert.
 Megállítani azért nem fogjuk tudni a szívünket, mint ahogy azt a régi misztikusok nagyzolták, de azért az oda vezető úton véletlen beleakadhatunk egy fittebb köztes állapotba.
@@ -139,21 +140,21 @@ Vajon lemérhetjük, hogy a yoga hogyan viszonyul a többi edzésformához?
 
 Egy jelentőségteljes mérőszám kutatása kapcsán derült ki az is, hogy a teljesítőképességben *nem* a tüdő a lényeg (és hogy minőségileg mennyire tudja oxigenizálni a vért), hanem a szív (és hogy egységnyi idő alatt mennyi vért tudunk teljesen oxigenizálni).
 A vitalitási kapacitáson és a vitalitási indexen keresztül eljutottunk a maximális oxigénfelvételi képességig, ami liternyi felvett oxigén per percben mérhető, és a mai napig használatban van.
-Jele a **VO<sub>2</sub> max**, ahol V = Volume = térfogat, O<sub>2</sub> = oxigén, a max pedig nyilván maximum.
+Jele a **VO<sub>2</sub> max**, ahol V = volume = térfogat, O<sub>2</sub> = oxigén, a max pedig nyilván maximum.
     
 Innen ered tehát a nagy "aerob" (vagyis levegőt igénylő), illetve a "cardio" (avagy szívműködéssel kapcsolatos) mánia a köztudatban, és ezért olyan hatékonyak az ezekhez legalkalmasabb mozgásformák, mint pl. a futás, az úszás, és bármi egyéb *felpörgetés*.
 Egy kutatás azt találta azonban, hogy míg a bringázás fejlesztette a VO<sub>2</sub> max értékét egy 4 hónapos időszak alatt, addig a yoga nem.
-Ugyan a yogás résztvevők egy valag egyéb pozitívumól számoltak be, de azokat majd a hangulat szekcióban tárgyalunk.
+Ugyan a yogás résztvevők egy valag egyéb pozitívumól számoltak be, de azokat majd a lentebb, a hangulat szekcióban tárgyaljuk...
 
 Egy másik tanulmány (ami a még modernebb, napköszöntéses, lihegősebb) yogát tanulmányozta, talált némi fejlődést.
 És habár ez egy igen kicsi és statisztikai kontrollok *nélküli* kísérlet volt, a yoga reklámipara természetesen egyből rávetette magát az eredményekre.
 Ezt aztán többen megint cáfolták -- kicsit más körülmények között, mást mérve már az jött ki, hogy a yoga még a gyors gyaloglást sem üti úgy átlagban.
-Az erő, az állóképesség, a hajlékonyság, és az egyensúly tényleg fejlődik, de a VO<sub>2</sub> max növeléséhez egyszerűen nincs ott az intenzitás.
+Az erő, az állóképesség, a hajlékonyság, és az egyensúly tényleg fejlődik tőle, de a VO<sub>2</sub> max növeléséhez egyszerűen nincs ott az intenzitás.
 
 A tudományos konszenzus jelenleg az, hogy a yoga összességében legalább olyan jó (vagy talán még jobb is) az egyensúly fejlesztésében, a fáradtság/szorongás/stressz/fájdalom/koleszterol csökkentésében, és a hangulat/alvásminőség növelésében, mint más edzésformák.
 De az aerob teljesítményben kb. egy kellemes séta szintjén mozog.
 A könyv azt a tanulságot vonja le, hogy a yoga nagyszerű, de inkább az aerob/anaerob edzések **kiegészítéseként** ajánlott, és nem önmagában.
-Ez újra a kék zónás tanulmány javaslatát visszhangozza -- és mellesleg személyes tapasztalatok alapján én is teljesen egyetértek, ha az számít valamit.
+Ez újra a Kék Zónás tanulmány javaslatát visszhangozza -- és mellesleg személyes tapasztalatok alapján én is teljesen egyetértek, ha az számít valamit.
 
 <br>
 
@@ -187,7 +188,7 @@ Ez újra a kék zónás tanulmány javaslatát visszhangozza -- és mellesleg sz
 ## <a name="hangulatok"></a>Hangulatok
 
 Az iskola (többek között) sajnos a stressz kezelésére sem készít fel -- pláne nem a megelőzésére.
-Mint ahogy a fogainkat védjük a szuvasodástól, és nem csak utólag rohangálunk megjavíttatni a helyzetet, úgy kellene a stressz által okozott negatív dolgokat is megelőzni.
+Mint ahogy a fogainkat védjük a szuvasodástól, és nem csak utólag rohangálunk megjavíttatni a helyzetet, úgy kellene a stressz által okozott negatív következményeket is megelőzni.
 Nagyon tetszett a könyv szójátéka, miszerint "a 
 *dentális* higiéniára nagyon figyelünk, de a *mentális* higiéniára annál kevésbé".
 
@@ -216,7 +217,7 @@ Márpedig a yoga kimutathatóan jó a **depresszió ellen** -- pl. a magasabb GA
 Az már csak bónusz, hogy a **kreativitás**nak is jót tehet.
 Egy zenészekkel/művészekkel folytatott kísérletben a yoga csökkentette a lámpalázat, és sok egyéb extrém érzelmet -- vagyis egy kiegyensúlyozottabb hangulathoz, és ezáltal jobb teljesítményhez vezetett.
 Egy másik kísérletben pedig azt mutatták ki, hogy a jobb agyfélteke erősebben működik yoga/meditáció közben -- és ez az agyi "jobb-csúsztatás" egyes feltételezések szerint újabb nézőpontokhoz és fokozott alkotókészséghez vezethet.
-De persze már azzal is jól járunk, ha "csak" megtanuljuk elcsendesíteni az elménket, relaxálunk, oldjuk a stresszt, és "kiengedjük" az amúgy elnyomott érzelmeinket...
+De persze már azzal is jól járunk, ha "csak" megtanuljuk elcsendesíteni az elménket, relaxálunk, oldjuk a stresszt, és kiengedjük az amúgy elnyomott érzelmeinket...
 
 <br>
 
@@ -249,11 +250,11 @@ De persze már azzal is jól járunk, ha "csak" megtanuljuk elcsendesíteni az e
 ## <a name="serulesek"></a>Sérülések
 
 Az egészség-centrikus marketing *imidzs* ellenére az eszetlen yoga komoly bajok forrása lehet.
-Az óvatosság, a mentális jelenlét, és a testünk alapos megfigyelése nagyon fontos, mert ha csak a konkrét pózokra koncentrálunk a megfelelő mentális hozzáállás nélkül, akkor könnyű sérüléseket összeszedni.
+Az óvatosság, a mentális jelenlét, és a testünk alapos megfigyelése nagyon fontos, mert ha csak a fizikai teljesítményre koncentrálunk a megfelelő mentális hozzáállás nélkül, akkor könnyű sérüléseket összeszedni.
 
 Szakértők szerint a komolyabb kondíciót igénylő gyakorlatokat eleve nem kellene erőltetni a "köznép" számára.
 Csak hát sokan itt is menőzni akarnak, mint amikor a fekvenyomásnál kell minél nagyobb súllyal dicsekedni.
-Pont az ego visszacsökkentése lenne az egyik cél, és így még ironikusabb, hogy az egónk kielégítésére szaggatjuk meg az inainkat vagy daráljuk szét az ízületeinket.
+A yoga filozófiai részében pont az ego visszacsökkentése lenne az egyik cél, és így még ironikusabb, hogy az egónk kielégítésére szaggatjuk meg az inainkat vagy daráljuk szét az ízületeinket.
 Vigyázzunk arra is, hogy milyen órákra vagy közösségekbe járunk!
 Ha az amúgy merev, székben tespedő tagjainkat akarjuk hirtelen perecbe hajtogatni, abból semmi jó nem származhat -- pláne ha mindezt egy kiképző őrmestert megszégyenítő edző mellett tesszük.
 
@@ -275,12 +276,12 @@ Minden esetre most, hogy túl vagyunk a biztonsági figyelmeztetéseken, érdeme
 Egy példa az óvatosan végzett fejenállás a vállsérülések kezelésére.
 Megtaníthatjuk a rotátorköpeny más izmainak átadni a terhelés egy részét, így segíthetve a gyógyulást.
 Sokaknak csak a műtét látszott kiútnak a válluk helyrehozására, de a rendszeres fejenállások után már nem volt rá szükségük.
-Emellett ajánlják az ilyen inverz pózokat csontritkulásra és vegyes izületi gyulladás enyhítésére is.
+Emellett ajánlják az ilyen inverz pózokat csontritkulásra és vegyes izületi gyulladások enyhítésére is.
 
 Arra persze ügyeljünk, hogy a gyógyulásunkat segítő yoga gyakorlatok mindenképp legyenek szorosan az állapotunkhoz igazítva!
 A legtöbb rehabilitációt igénylő sérülésre lehet mondani azt gyógyító/enyhítő, vagy épp azt tovább rontó mozdulatokat is, tehát ilyen esetekben a "yoga segít" felkiáltás túl általános ahhoz, hogy hasznos lehessen.
 És az sem mindegy, hogy kitől fogadunk el tanácsot a témában.
-Amikor ezt egy yogához **is** értő orvos tesz javaslatot, az nagyon más, mintha egy olyan tenné, aki csak valami akkreditálatlan yoga edző vagy "terapeuta".
+Amikor egy yogához is értő **orvos** tesz javaslatot, az nagyon más, mintha egy olyan tenné, aki csak valami akkreditálatlan yoga edző vagy "terapeuta".
 
 <br>
 
@@ -313,7 +314,7 @@ Amikor ezt egy yogához **is** értő orvos tesz javaslatot, az nagyon más, min
 
 ## <a name="szex"></a>"Isteni szex"
 
-Sok beszámoló és anekdota, miszerint a yoga javítja a szexuális együttlétek gyakoriságát, minőségét, és akár a párunk iránti vonzódást is.
+Sok a beszámoló és az anekdota, miszerint a yoga javítja a szexuális együttlétek gyakoriságát, minőségét, és akár a párunk iránti vonzódást is.
 Meg hát Broad említ jó pár híres gurut, akik még a hatvanas/hetvenes éveikben is szexbotrányokba keveredtek -- ami a botrányoktól eltekintve egy jó előjel lehet libidó téren.
 Vagyis visszakanyarodunk egy kicsit az eredeti, szex-kultuszos múlt irányába, csak most már megalapozottabban.
 Vajon miért talál mindig egymásra ez a két témakör?
@@ -323,17 +324,17 @@ Mivel az élvezet csak a túlélés után következhet a Maslow-i piramisban, ez
 De azzal, hogy a yoga csökkenti az adrenalin és az egyéb üss-vagy-fuss stresszhormonok szintjét, lehetővé teszi, hogy biztonságban érezzük magunkat.
 
 Ezen felül kimutatták azért, hogy a szexhormonok szintje közvetlenül is növekszik tőle.
-Egyes spekulációk szerint a furcsa pózok miatti extra keringés miatt -- minden esetre mérhetően.
+Egyes spekulációk szerint a furcsa pózok általi extra keringés miatt -- minden esetre mérhetően.
 A hasi területeket belülről "masszírozó" légzésminták és pózok természetesen stimulálnak, mert a testünk idegvégződései nagyon nem egyenletesen oszlanak el, és a nemi szervek környékére sokkal nagyobb hangsúly jut.
-Mások EEG-vel az agyi hullámokat, vagy egy hazugságvizsgáló-szerűséggel a bőr vezetőképességét mérték, és itt is láthattunk érdekes "felizgulásokat", amik szembemennek a yoga általánosan elismert nyugtató hatásával.
+Mások EEG-vel az agyi hullámokat, vagy egy hazugságvizsgáló-szerűséggel a bőr vezetőképességét mérték, és itt is tapasztaltak érdekes "felizgulásokat", amik szembemennek a yoga általánosan elismert nyugtató hatásával.
 
-A gyors légzés (mint láttuk) csökkenti az agy oxigén ellátását -- de ez csak a külső agykéregre vonatkozik, ahol a magasabb szintű funkciók laknak.
-Ha ezt belassítjuk, miközben a mélyebb, primitívebb (érzelmesebb, kontrollálatlanabb, és esetleg szexuálisan is aktívabb) rész tovább dübörög, akkor egy összességében is primitívebb irányba billenthetjük magunkat.
-A gyors légzés nem csak az izgatottság eredménye, hanem akár az okozója is lehet.
+A gyors légzés (mint láttuk) csökkenti az agy oxigén ellátását -- de ez csak a külső agykéregre vonatkozik, ahol a magasabb szintű mentális funkciók laknak.
+Ha ezt belassítjuk, de közben a mélyebb, érzelmesebb, kontrollálatlanabb, és esetleg szexuálisan is aktívabb rész tovább dübörög, akkor egy összességében is primitívebb irányba billenthetjük magunkat.
+A gyors légzés tehát nem csak az izgatottság eredménye, hanem akár az okozója is lehet.
 Olyannyira, hogy ez a módszer egy konkrét kísérletben még csökkent libidójú nőknél is működött.
 
 Mindent összevetve Broad azt a következtetést szűri le, hogy egy jól felépített yoga rutin -- a maga stresszoldásával, szexhormon generálásával, vérbőségével, intim régiók stimulálásával, fokozódó aktivitási szintjével, és a gyors légzéssel -- majdhogynem olyan, mint amikor anyu és apu játszik egy kicsit.
-És emiatt akár ahhoz is vezethet, hogy anyu és apu nagyobb előszeretettel játszik is majd egy kicsit...
+És emiatt akár ahhoz is vezethet, hogy anyu és apu nagyobb előszeretettel játszik majd egy kicsit...
 
 <br>
 
@@ -368,14 +369,14 @@ Mindent összevetve Broad azt a következtetést szűri le, hogy egy jól felép
 Láthattuk, hogy a yoga egy igencsak misztikus, kultusz-szerű múltból fordult egy egészségtudatosabb, fittebb jövő felé.
 Ez persze nem jelenti, hogy a filozofikus, energiaáramlós, vagy csakrás vonatkozásaiban ne lehetne igazság.
 A tudomány sem tud mindent, és attól, hogy egy csomó minden (egyelőre) nem mérhető, még nem jelenti, hogy nem is érdemes rá figyelmet fordítani.
-De itt most próbáltunk azokra a területekre összpontosítani, amiket már legalább valamennyire kézzel foghatóan tudunk.
+De itt most próbáltunk azokra a területekre összpontosítani, amiket már legalább valamennyire kézzel foghatóan értünk.
 
-Örömmel jelenthetjük, hogy amit tudunk, az nagyrészt jó.
+Örömmel jelenthetjük, hogy amit értünk, az nagyrészt jó.
 A yoga bizonyítottan segít az egyensúlyunk fejlesztésében, a gerincünk védelmében, a mobilitásunk megőrzésében és a hangulatunk stabilizálásában.
 Sőt, ezeken felül jó eséllyel a kreativitásunkra és a szexuális életünkre is pozitív hatással lehet.
 
 Mindezek ellenére sem elég azonban ahhoz, hogy kiváltsa az egyéb típusú (aerob, anaerob) edzéseinket.
-A fentiek alapján a yoga egyértelműen megérdemli, hogy helyet kapjon a napirendünkben, de ne minden más mozgásforma rovására.
+A fentiek alapján a yoga szerintem egyértelműen megérdemli, hogy helyet kapjon a napirendünkben, de ne minden más mozgásforma rovására.
 Vigyázzunk továbbá, hogy óvatosan és fokozatosan végezzük a gyakorlatait, mert sajnos annyira azért nem biztonságos, mint amennyire a marketingje elhitetni szeretné velünk.
 
 A konkrét gyakorlatokat írásban nehéz lenne átadni, de egy gyors netes keresés úgyis számtalan képpel és videóval segít majd az érdeklődőknek.
