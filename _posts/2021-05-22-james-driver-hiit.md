@@ -6,12 +6,14 @@ tags: [aktivitás]
 pages: 272
 date: 2021-05-22 00:01
 excerpt: >
-    TODO
+    Dübörög az Aktív május&trade;, ahol a Kék Zónák egyik fő tanulságának, vagyis a rendszeres és változatos testmozgásnak részleteit boncolgatjuk.
+    Túl vagyunk a flexibilitás témakörén némi nyújtással, az egyensúly témakörén némi yoga-val, és most a teljesítőképességünket (na meg vele együtt a pocakunkat) hozhatjuk formába egy kis intenzív edzéssel.
+    Kalauzunk James Driver személyi edző, aki HIIT című könyvében mindent megoszt, amit egy hatékonyabb cardio edzéshez tudnunk kell.
 ---
 
 Dübörög az Aktív május&trade;, ahol a [Kék Zónák]({% post_url 2021-05-01-dan-buettner-foldunk-kek-zonai %}) egyik fő tanulságának, vagyis a rendszeres és változatos testmozgásnak részleteit boncolgatjuk.
 Túl vagyunk a flexibilitás témakörén némi [nyújtással]({% post_url 2021-05-08-pavel-tsatsouline-relaxalt-nyujtas %}), az egyensúly témakörén némi [yoga]({% post_url 2021-05-15-william-broad-a-yoga-tudomanya %})-val, és most a teljesítőképességünket (na meg vele együtt a pocakunkat) hozhatjuk formába egy kis intenzív edzéssel.
-Kalauzunk James Driver, aki [HIIT](https://moly.hu/konyvek/james-driver-hiit){:target="_blank"} című könyvében minden fogalmat, technikát és tudományosan alátámasztott indoklást megoszt, amit egy hatékonyabb cardio edzéshez tudnunk kell.
+Kalauzunk James Driver személyi edző, aki [HIIT](https://moly.hu/konyvek/james-driver-hiit){:target="_blank"} című könyvében minden fontos fogalmat, technikát és tudományosan alátámasztott indoklást megoszt, amit egy hatékonyabb cardio edzéshez tudnunk kell.
 
 A tartalom a következőképp alakul:
 
@@ -39,9 +41,9 @@ Alapjában véve semmi bonyolultra nem kell gondolni, csak az intenzív (sprint)
 Mindez a folyamatos/egyenletes edzéssel (**C**ontinuous **T**raining, "CT") áll szemben, ahol kb. egy sebességben csináljuk kitartóan ugyanazt.
 Ezt a bizonyos CT-t nevezzük legtöbbször a köznyelvben cardio-nak vagy aerob edzésnek, de természetesen a HIIT is egyféle cardio/aerob edzés.
 Sőt, valójában abból is lehet egy csapásra HIIT, amit eddig "cardio" néven végeztünk -- amint egy kicsit gyilkosabban végezzük.
-A HIIT kontra CT csak egy edzési *mód*, amit aztán számtalan mozgásformára alkalmazhatunk.
+A HIIT vagy a CT ugyanis csak edzési *módok*, amiket aztán számtalan mozgásformára alkalmazhatunk.
 
-És hogy miért is működik ez olyan jól?
+És hogy miért is működik a HIIT annyival jobban?
 Egyrészt sokkal természetesebb -- a hétköznapi teendőinket sem teljes egyenletességgel, hanem aktívabb és inaktívabb fázisok váltakozásával végezzük.
 Másrészt a testünk a terheléshez alkalmazkodik -- és a folyamatosan fenntartható terhelés nem elég intenzív ahhoz, hogy látványos változást váltson ki, míg a maximális kapacitásunk időszakos megközelítése igen.
 Harmadrészt pedig az így összeadódó intenzív részek kalóriaigénye még a pihenők ellenére is magasabb lesz, mint a folyamatos lötyögés esetében.
@@ -101,7 +103,7 @@ Egy kemény HIIT edzés után akár egy nappal is kimutatható az alapvonalnál 
 
 #### Anaerob határ
 
-Egyénenként változó, és persze függ az edzettségi állapotunktól, de általában a maximális teljesítőképességünk 65%-80% felett kapcsolunk át az anaerob módba -- ahol önmagában már nem elég az aerob energiarendszer, nincs elég levegőnk, kifulladtunk.
+Egyénenként változó, és persze függ az edzettségi állapotunktól, de általában a maximális teljesítőképességünk 65%-80%-a felett kapcsolunk át az anaerob módba -- ahol önmagában már nem elég az aerob energiarendszer, nincs elég levegőnk, kifulladtunk.
 Ilyenkor gyorsabban termelődik a tejsav az izmokban, mint ahogy azt képesek lennénk feldolgozni, így csak halmozódik, és ez okozza a (remélhetőleg jól ismert) égést.
 
 A CT ugye nem tolja ezt határt, a HIIT viszont igen.
@@ -121,28 +123,28 @@ A CT nem visz ebbe a zónába, tehát semmilyen jótékony hatása nem is lehet 
 A béta-endorfin kb. az "érezd jól magad" hormon, amit az agyunk többek között a fájdalom tompítására termel.
 A szintje pedig ilyenkor egyenesen arányos a fájdalom mértékével, amit tompítania kellene.
 Edzés közben a *jóféle* fájdalmat a keletkező tejsav okozza, amiből pedig (ahogy fentebb említettük) csak akkor indul meg a halmozódás, ha átlépjük az anaerob határt.
-Látható tehát, hogy a HIIT ez extra hatékonyság mellett még szinte szó szerint boldogabbá is tesz.
+Látható tehát, hogy a HIIT az extra hatékonyság mellett még szinte szó szerint boldogabbá is tesz.
 
 #### VO<sub>2</sub> max
 
-A múlt héten már tárgyaltuk a VO2 max értéket, ami gyakorlatilag az atletikus teljesítőképesség mérőszáma.
+A múlt héten már tárgyaltuk a VO<sub>2</sub> max értéket, ami gyakorlatilag az atletikus teljesítőképesség mérőszáma.
 Ott az volt a tanulság, hogy a yoga erre nem kimondottabban jó, és használjunk inkább különböző cardio módszereket.
-Most pedig azzal egészítjük ezt ki, hogy a cardio módszereken belül is inkább a HIIT-et részesítsük előnyben a CT-vel szemben.
+Most pedig azzal egészítjük ki ezt az állítást, hogy a cardio módszereken belül is inkább a HIIT-et részesítsük előnyben a CT-vel szemben.
 Persze a CT is hat ugyan, de sokkal kisebb mértékben -- egy 12 hetes tanulmányban például 46% kontra 14% volt a fejlődés a HIIT javára.
 
 #### Időigény
 
 Felmérések szerint az időhiány az egyik leggyakoribb ok, ami miatt az emberek el sem kezdenek edzeni.
 Márpedig aki "nem ér rá", annak a HIIT egy kiváló választás, hiszen a magasabb intenzitás miatt egy egységnyi terhelést tömörebben és gyorsabban adagolhatunk magunknak.
-És ahogy majd alkalmazkodunk az új terheléshez, vagy kezd egyre könnyebb lenni, olyankor sem az edzés hosszát növeljük, hanem az intenzitását, szóval az időigény mindig minimális marad.
+És ahogy majd alkalmazkodunk az új terheléshez, vagy kezd egyre könnyebb lenni, olyankor sem az edzés hosszát növeljük, hanem az intenzitását -- szóval az időigény mindig minimális marad.
 
-A korábban említett 12%-os zsírvesztés például mindössze heti 3, egyenként 22 perces edzés eredménye a 45 perces CT-vel szemben, szóval dupla akkora eredmények, fele annyi idő alatt!
+A korábban említett 12%-os zsírvesztés például mindössze heti 3, egyenként 22 perces edzés eredménye a 45 perces CT-kkel szemben, szóval dupla akkora eredmények, fele annyi idő alatt!
 És ha nem a fejlődés a célunk, akkor az egészség megőrzéshez vagy karbantartáshoz már akár heti egyetlen 22 perces HIIT alkalom is bizonyítottan segít.
-Abba meg már ne is menjünk bele, hogy ez legtöbbször értékrend kérdése, és inkább a NEM edzést nem engedhetjük meg magunknak.
+Abba meg már ne is menjünk bele, hogy ez legtöbbször értékrend kérdése, és inkább a **nem** edzést nem engedhetjük meg magunknak.
 
 #### Élvezet
 
-További felmérések szerint ha már valaki el is kezdi edzést (mert mondjuk valahogy mégis megtalálta rá az időt), akkor onnantól az unalom az egyik első számú ok, ami miatt feladja.
+További felmérések szerint ha már valaki el is kezd edzeni (mert mondjuk valahogy mégis megtalálta rá az időt), akkor onnantól az unalom az egyik első számú ok, ami miatt feladja.
 Na hát unalom az itt nem lesz -- és ne becsüljük le a mentális hozzáállás erejét!
 
 A CT oldalán sokszor szembesülünk azzal, hogy 10 perc után is még vagy 30 perc van hátra ugyanabból...
@@ -151,7 +153,7 @@ Innen nézve talán nem meglepő, hogy egy kérdőíves, szubjektív kiértékel
 
 <br>
 
-A CT is éget kalóriákat, a CT is növeli a képességeinket, és a CT is karban tud tartani.
+Igen, a CT is éget kalóriákat, a CT is növeli a képességeinket, és a CT is karban tud tartani.
 Sőt, tovább megyünk: csak úgy változatosságnak időnként bárkinél érdemes lehet beiktatni egy kis CT-t.
 Újoncoknak pedig főleg ajánlott valami lazább CT-vel kezdeni és onnan belemártani a lábujjukat a magasabb intenzitásba.
 
@@ -204,30 +206,30 @@ Mindenféle váltakozó intenzitással végzett edzésmódot nevezhetünk "inter
 A HIIT onnan kapja a HI-t az elejére, mert az intenzív részben tényleg megpróbáljuk a 100%-ot kihozni magunkból, amennyire csak tudjuk.
 Amit még ezen felül a különböző protokollok változtathatnak, az leginkább az időzítés:
 
-- **Fartlek** = nincs szabály, ahogy esik, csak váltakozzon.
+- A **Fartlek**-nél nincs szabály, ahogy esik, csak váltakozzon.
 Itt a siker leginkább azon múlik, hogy mennyire vagyunk szigorúak magunkkal.
 Cserébe viszont azt sem kell "kudarcnak" megélni, hogy nem tudunk egy előre meghatározott időt végigsprintelni.
 
-- **Little** = 60 sec sprint, 75 sec pihenés, mindez 8-12 körben ismételve.
-Hátránya, hogy a hosszabb sprintek miatt itt lehet nem tudjuk majd igazán 100%-on tartani a sprintet.
-Előnye viszont, hogy emiatt még mindig kezdőbarátabb mint a...
+- A **Little** módszernél 60 sec sprint, 75 sec pihenés, mindez 8-12 körben ismételve.
+Hátránya, hogy a hosszabb sprintek miatt itt várhatóan nem tudjuk majd igazán 100%-on tartani a sprintet.
+Előnye viszont, hogy emiatt még mindig kezdő-barátabb mint...
 
-- **Tabata** = 20 sec sprint, 10 sec pihenés, ami még 8 körben ismételve is csak 4 perc.
-Nagyon tömören nagyon látványos eredmények -- de erre a szintre valószínűleg fel kell küzdenünk magunkat.
+- A **Tabata**, ahol pedig 20 sec sprint, 10 sec pihenés -- ami még 8 körben ismételve is csak 4 perc.
+Nagyon tömören nagyon látványos eredmények, de erre a szintre valószínűleg fel kell küzdenünk magunkat, mert ember legyen a talpán, aki ezt bírja tüdővel!
 
 #### Mozgásformák
 
-Gyakorlatilag bármi, amit tudunk kontrolláltan, váltakozó intenzitással csinálni:
-
-- **Séta** -- megfelelően meredek körülmények között, tempóban, vagy súly cipelésével ez is bőven elég kihívást nyújthat.
+Gyakorlatilag bármi, amit tudunk kontrolláltan, váltakozó intenzitással végezni:
 
 - **Futás** -- talán a legegyszerűbb, legkézenfekvőbb, és legnépszerűbb alternatíva.
 Driver figyelmeztet azonban, hogy futópadon veszélyes lehet a hirtelen tempóváltás még előprogramozva is, de pláne ha futás közben kell nyomkodni.
 Szóval ha futópadosan csináljuk, akkor inkább az emelkedő meredekségével játsszunk, amúgy meg próbáljunk inkább kimenni a szabadba, esetleg keresni egy dombot.
 
+- **Séta** -- megfelelően meredek körülmények között, tempóban, vagy súly cipelésével ez is bőven elég kihívást nyújthat.
+
 - **Bringázás** -- közlekedés közben szinte észrevétlenül is valami intervallum-szerűt csinálunk a lámpáknál megállásokkal, vagy az esetleges emelkedőknél/lejtőknél.
-Erre még rájátszhatunk, ha a váltó áttételével időszakosan nehezítjük/könnyítjük a saját dolgunkat.
-A szobabiciklikre nem vonatkoznak a futópados figyelmeztetések, bátran spinning-ezhetünk is vagy ilyesmi.
+Erre még rájátszhatunk, ha a váltó áttételével és a sebességgel időszakosan nehezítjük vagy könnyítjük a saját dolgunkat.
+A szobabiciklikre nem vonatkoznak a futópados figyelmeztetések, bátran spinning-ezhetünk is.
 
 - **Evezés** -- ez valószínűleg inkább gép-függő (hiszen kevesen lakunk természetes evezési lehetőség közelében).
 A teljes testet megmozgatja, ezért nagyon hatékony, de gyilkolhatja a hátat, ha helytelen technikával végezzük!
@@ -238,13 +240,13 @@ Ezért az újoncoknak mindenképp ajánlott, hogy először tanuljanak meg rende
 - **Lépcsőzés** -- vagy még leegyszerűsítettebb formájában: fellépegetés.
 Akár súlymellénnyel vagy vizesüvegekkel telepakolt hátizsákkal.
 
-- **Úszás** -- low impact opció, szóval térd- és bokaproblémákkal, vagy épp valamiből felgyógyulás közben is tudjuk majd hozni a futás-szerű eredményeket.
+- **Úszás** -- *low impact* opció, szóval térd- és bokaproblémákkal, vagy épp valamiből felgyógyulás közben is tudjuk majd hozni a futás-szerű eredményeket.
 
 - **Box** -- egy felsőtest-centrikusabb alternatíva, ha a lábunk esetleg valamiért pihenőre szorulna.
 
 - **Kettlebell** és/vagy **testsúlyos gyakorlatok** -- például személyes kedvencem (és egyben főellenségem) a négyütemű fekvőtámasz.
 
-A legtöbbünknek idővel kialakul egy kedvenc, de érdemes néha a gyakorlatokat is váltogatni a teljesebb, átfogóbb kondícionálásért.
+A legtöbbünknek idővel kialakul egy kedvenc, de érdemes néha a gyakorlatokat is váltogatni a teljesebb, átfogóbb kondicionálásért.
 Mert ugye jó esetben eleve váltogatjuk az ellenállással végzett (anaerob) és szívpörgetősebb (HIIT) edzéseinket.
 De aztán a HIIT-en (és ami azt illeti, a súlyzóson) belül is ajánlott a változatosság!
 Plusz néha egy kis yoga, egy kis mobilitás...
@@ -252,7 +254,7 @@ Plusz néha egy kis yoga, egy kis mobilitás...
 
 Nyilván aki sportol, az koncentráljon első sorban a specifikus sport-szerű tevékenységére, mert azzal fejlesztheti magát az adott területen a legjobban.
 De nekünk többieknek az a legbiztosabb, ha generalisták maradunk.
-Sőt, így a túlhasználással és kopással kapcsolatos sérülésektől is jobban védjük magunkat -- mert nagyobb területre osztjuk el az idők során összeadódó terhelést, vagyis biztonságosabban, és öregebb fejjel is tovább edzhetünk majd.
+Sőt, így a túlhasználással és kopással kapcsolatos sérülésektől is jobban védjük magunkat -- mert nagyobb területre osztjuk el az idők során összeadódó terhelést, vagyis biztonságosabban, és öregebb fejjel is tovább aktívak lehetünk majd.
 
 #### Egyéb tippek
 
@@ -262,7 +264,7 @@ Az optimális eredmények, a sérülések elkerülése, és a minél hamarabbi r
 
 - **Dinamikus nyújtás** -- ami a statikussal szemben hasznos a mozgás előtt, egyre jobban bejáratva az érintett izmok/ízületek mozgástartományát;
 
-- Előre kitalált, **struktúrált edzés** -- hogy legyen mihez tartanunk magunkat, hogy a vállunkon ülő kisördög ne tudjon ott helyben meggyőzni a "kompromisszumairól", és hogy egy naplóban követve láthassuk a fejlődésünket (amire aztán mindig rátehetünk egy lapáttal);
+- Előre kitalált, **strukturált edzés** -- hogy legyen mihez tartanunk magunkat, hogy a vállunkon ülő kisördög ne tudjon ott helyben meggyőzni a "kompromisszumairól", és hogy egy naplóban követve láthassuk a fejlődésünket (amire aztán mindig rátehetünk egy lapáttal);
 
 - Fokozatosan bevezetett **intenzitás** -- ha például kezdőként még nem tudunk biztonságosan 100%-ra felmenni, akkor is "hullámoztathatjuk" a terhelésünket egy magasabb és egy alacsonyabb szint között, aminek hatására majd annál gyorsabban jutunk egy HIIT-kész állapotba;
 
@@ -298,9 +300,9 @@ Az optimális eredmények, a sérülések elkerülése, és a minél hamarabbi r
 ## Összefoglalás
 
 Remélem sikerült elég meggyőzően tálalni, hogy miért járnánk mind jobban némi intenzív hullámoztatással a cardio edzéseink során.
-Nem csak az úszógumi fogyna gyorsabban, de a hétköznapok terhelését is sokkal lazábban söpörhetnénk le a vállunkról -- mindezt rövidebb idő alatt, nagyobb összesített élvezhetőséggel, nulla unalommal, és kevesebb ízületi kopással.
+Nem csak az úszógumi fogyna gyorsabban, de a hétköznapok terhelését is sokkal lazábban söpörhetnénk le a vállunkról -- mindezt rövidebb ráfordított idő alatt, nagyobb összesített élvezhetőséggel, kevesebb ízületi kopással, és a tetejébe szinte bármilyen mozgásformára alkalmazhatóan!
 Mit lehet itt nem szeretni?
 
-Hát, mondjuk azt, hogy cserébe az a relatíve rövid idő alatt aztán tényleg tenni kell érte.
+Hát, mondjuk hogy cserébe az a relatíve rövid idő alatt aztán tényleg oda kell tenni magunkat.
 A beszélgető-képes pulzusú laza lötyögéseket fel kell cserélnünk némi bél-kilógós kemény munkára.
 Viszont ezt abban a biztos tudatban tehetjük, hogy (mint az élet többi területén) itt is pontosan azt kapjuk majd, amiért megdolgozunk.
