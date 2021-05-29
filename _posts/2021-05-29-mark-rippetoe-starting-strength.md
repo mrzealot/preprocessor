@@ -17,7 +17,7 @@ Emellett pedig a [Fegyencedzés]({% post_url 2020-04-03-paul-wade-fegyencedzes %
 
 A Starting Strength népszerűségét jól magyarázza a benne található számos illusztráció, illetve a részletes fizikai/anatómiai/mechanikai magyarázatok, amik valószínűleg gyakorlatonként is egy-egy külön blog bejegyzést érdemelnének.
 És egyszer majd lehet, hogy vissza is térünk rájuk.
-Most viszont csak az átfogó lényeget foglalnám össze -- a részletekért pedig mindenkinek ajánlom az eredeti szöveget.
+Most viszont csak a lényeget foglalnám össze -- a részletekért pedig mindenkinek ajánlom az eredeti szöveget.
 A tartalom a következőképp alakul:
 
 - [Bevezetés](#intro)
@@ -26,9 +26,9 @@ A tartalom a következőképp alakul:
 - [Edzésterv](#program)
 
 Előre kiemelném továbbá, hogy csak minimális konditermi tapasztalatom van, és az is nagyon régről.
-Nem titkoltan a testsúlyos edzés híve vagyok, de szeretnék teljesebb képek kapni az opciókról.
+Nem titkoltan a testsúlyos edzés híve vagyok, de szeretnék teljesebb képet kapni az opciókról.
 Szóval ha egy kicsit okoskodósnak vagy túlzottan "megmondóembernek" hangzik a poszt egy-két technikai kérdésben, akkor kérlek vegyétek figyelembe, hogy csak Rippetoe edző mondanivalóját tolmácsolom.
-És az alapján majd egyszer biztosan saját tapasztalatokat is szerezhetek...
+És ezek alapján majd igyekezni fogok a jövőben saját tapasztalatokat is szerezni...
 
 <br>
 
@@ -57,20 +57,20 @@ Szóval ha egy kicsit okoskodósnak vagy túlzottan "megmondóembernek" hangzik 
 ## <a name="intro"></a>Bevezetés
 
 Az intro erős macsó stílussal indít: az erő a legfontosabb.
-Amivel önjelölt intellektuálisként azért teljesen nem tudok egyetérteni -- de az alábbi idézet azért mégis megfogott:
+Amivel önjelölt intellektuálisként azért nem tudok teljesen egyetérteni -- de az alábbi idézet azért mégis megfogott:
 
 > A gyenge ember nem olyan boldog, mint amilyen boldog ugyanaz az ember lenne, ha erős lenne. Ez a tény sértő azok számára, akik az élet intellektuális vagy spirituális vetületeit szeretnék előtérbe helyezni. Tanulságos hát látni, hogy mi történik ezekkel az emberekkel, ahogy a guggolásuk megerősödik.
 > > A weak man is not as happy as that same man would be if he were strong. This reality is offensive to some people who would like the intellectual or spiritual to take precedence. It is instructive to see what happens to these very people as their squat strength goes up.
 
-Szerintem ahelyett, hogy a fontossági sorrenden vitáznánk, egyezzünk inkább meg, hogy az edzettség **is** fontos.
+Szerintem ahelyett, hogy a fontossági sorrenden vitáznánk, egyezzünk inkább meg, hogy az erő **is** fontos.
 
 A munkamegosztás miatt ugyan már kevés embernek kell szó szerint a megélhetéséért dolgoznia -- ezért ülhetünk naphosszat a gép előtt, míg valaki más megtermeli helyettünk az élelmet, és/vagy távol tartja a ragadozókat, stb.
 De ez a bizonyos munkamegosztás még nem *annyira* régi fejlemény az emberi evolúcióban, hogy a genetikánk alkalmazkodni tudott volna.
 Vagyis, habár a közvetlen szükségleteink szemszögéből úgy tűnhet, a mozgás mégsem opcionális!
-Működőképes állapotban kell tartanunk magunkat, amihez bizony külső inger kell az izmainknak és ízületeinknek.
-Na ezt szimulálhatjuk az edzéssel.
+Működőképes állapotban kell tartanunk magunkat, amihez bizony külső inger kell az izmainknak és az ízületeinknek.
+Na ezt szimulálhatjuk némi tudatos edzéssel.
 
-Érdekes lehet, de már itt az elején megtaláljuk a közös nevezőt a Fegyencedzés hangsúlyosan súlyzó-ellenes kijelentéseivel.
+Érdekes lehet, de már itt az elején megtaláljuk a közös nevezőt a Fegyencedzés hangsúlyosan kondi-ellenes kijelentéseivel.
 Hiszen itt is rögtön lefikázzuk azokat a gépeket, amik izoláltan mozgatják az egyes izmokat, és kiemeljünk helyettük a természetes ("neuromuscular") használati mintákat.
 Sőt, azok a gépek sem jobbak, amik több izmot mozgatnak ugyan, de kötött pályán, mert (gondolom a *semmi*t leszámítva) a szabad súlyok tudják a legjobban szimulálni, hogy hogyan működne igazából a test.
 Egy szóval itt is kb. ugyanazokra a komplex mozdulatokra törekszünk, mint a testsúlyos gyakorlatoknál, csak itt nem a mozdulat komplikálásával, hanem a terhelés növelésével késztetjük a szervezetünket a fejlődésre.
@@ -79,9 +79,9 @@ Egy szóval itt is kb. ugyanazokra a komplex mozdulatokra törekszünk, mint a t
 > > Properly performed, full-range-of-motion barbell exercises are essentially the functional expression of human skeletal and muscular anatomy under a load.
 
 A két tananyagot együtt forgatva remélem bármilyen körülmények között megtaláljuk majd a módot a helyes edzésre.
-Plusz (talán még a fegyencedzéssel szemben is) az extra terhelés a csontsűrűségünknek is jót tesz, ami idős korunkra lesz egyre fontosabb -- lásd a [Kék Zónák]({% post_url 2021-05-01-dan-buettner-foldunk-kek-zonai %}) tanulságait.
-A legnagyobb hátránya a szabad súlyos edzésnek (a felszerelés-függésen felül) az, hogy a legtöbben egyszerűen nem tudják helyesen végezni.
-Ezt próbálja Rippetoe itt orvosolni, már amennyire írásos formában lehetséges.
+Plusz (a fegyencedzéssel szemben) az extra terhelés a csontsűrűségünknek is jót tesz, ami idős korunkra válik egyre fontosabbá -- lásd a [Kék Zónák]({% post_url 2021-05-01-dan-buettner-foldunk-kek-zonai %}) tanulságait.
+A szabad súlyos edzés legnagyobb hátránya (a felszerelés-függésen felül) az, hogy a legtöbben egyszerűen nem tudják helyesen végezni.
+Ezt próbáljuk most orvosolni, már amennyire egy írásos összefoglalásban lehetséges.
 
 <br>
 
@@ -108,14 +108,14 @@ Ezt próbálja Rippetoe itt orvosolni, már amennyire írásos formában lehets�
 [Videó illusztráció &#x2197;](https://www.youtube.com/watch?v=QhVC_AnZYYM){:target="_blank"}
 
 A guggolást kicsit részletesebben tárgyaljuk, mint a többieket.
-Egyrészt mert a szerző saját állítása szerint is ez **A** legjobb erőfejlesztő gyakorlat, ha bármi áron csak egyet kellene választani.
+Egyrészt mert a szerző saját állítása szerint is ez **<u>a</u>** legjobb erőfejlesztő gyakorlat, ha bármi áron csak egyet kellene választani.
 Másrészt pedig azért, mert rajta keresztül egy csomó általános érvényű elvet érinthetünk, amik majd a többieknél is alkalmazhatóak lesznek.
 
-A csípő nyitásra ("hip extension") kb. a guggolás az egyetlen gyakorlat, ami a teljes mozgástartományon átmozgatja, mindezt végig terhelés alatt.
+A csípő nyitásra ("hip extension") kb. a guggolás az egyetlen gyakorlat, ami a teljes mozgástartományán átmozgatja, mindezt végig terhelés alatt.
 Rippetoe fizika óra mélységben elemzi a mozdulatot a gravitáció, az erőkarok és az áttételek függvényében.
 
 Alapvető a lábközép vonalában megtartott egyensúly.
-Kisebb súlyoknál még elviselhetőbb a kilengés, de ahogy nő a terhelés, úgy "tanít majd meg" tökéletesen függőlegesen, a gravitációval ellentétesen mozgatni az egyensúlyi középpontunkat.
+Kisebb súlyoknál még elviselhetőbb a kilengés, de ahogy nő a terhelés, úgy "tanít majd meg" tökéletesen függőlegesen, a gravitációval ellentétesen mozgatni a tömegközéppontunkat.
 Ha nem így teszünk, azzal rengeteg erőfeszítést pazarlunk majd az egyensúlyozásra -- és azzal az erővel annyival nagyobb súlyt is guggolhatnánk, nem?
 
 Egy másik fizikai részletességű megfontolás, hogy guggolásnál elöl vagy hátul legyen-e a rúd?
@@ -125,16 +125,16 @@ Ezek a szögek pedig nagyon más módon/arányban dolgoztathatjuk majd a guggol�
 
 A térd hajlításért csak a combunk (quadriceps) felel, míg a csípő hajlításáért az ún. "hátsó láncban" a combunk belső és hátsó része (hamstrings, adductors), illetve a seggünk (glutes) is részt vesznek.
 Azért jó tehát, ha a hátsó részt jobban használatba vesszük, mert ott több izom is szétoszthatja a terhelést, míg elölről csak a combra jut minden, ami egyenetlen erőltetést, fejlődést, és "kopást" jelent.
-Szólnak ugyan érvek az elülső guggolás mellett is, de az egyenletesebb eloszláshoz mindenképp a hátsó súly ajánlott!
+Szólnak ugyan érvek az elülső guggolás mellett is, de az egyenletesebb eloszláshoz mindenképp a hátsó rúd pozíció ajánlott!
 
 Hasonló okból kéri az edző azt is, hogy mindig mélyen guggoljunk.
 És itt "mély" alatt szigorúan azt értjük, amikor a csípőnk a térdünkhöz képest már a vízszintes **alá** ért.
 Nem kell "ráülni a bokánkra", de mindenképp menjünk mélyre, mert így dolgoztatjuk meg a hátsó láncot.
-Ha sekélyen maradunk, akkor a hátsó súly ellenére is nagyrészt csak a combot dolgoztatjuk -- ami, mint mondtuk, egyenetlen elülső terhelés, és emiatt a térdünk sem lesz mindkét oldalról rendesen biztosítva.
+Ha sekélyen maradunk, akkor a hátsó súly ellenére is nagyrészt csak a quad-ot dolgoztatjuk -- ami, mint mondtuk, egyenetlen elülső terhelés, és emiatt a térdünk sem lesz mindkét oldalról rendesen biztosítva.
 Szóval hátra azt a segget!
     
 A másik baj a sekély guggolással, hogy az látszólag sokkal nagyobb súlyokkal is menni fog.
-Ez viszont a hátunk miatt veszélyes, mert olyan súlyokat veszhetnénk a hátunkra, amik (még?) nem valók oda!
+Ez viszont a hátunk miatt veszélyes, mert olyan súlyokat vehetünk a hátunkra, amik (még?) nem valók oda!
 
 > Ha ahhoz túl nehéz, hogy vízszint alá guggolj vele, akkor ahhoz is túl nehéz, hogy a hátadra vedd.
 > > If it's too heavy to squat below parallel, it's too heavy to have on your back.
@@ -147,14 +147,15 @@ Először érdemes súly nélkül, magát a technikát pontosra begyakorolni:
 
 - Lábfejek kb. 30°-os szögben kifelé.
 
-- Az alsó pozícióban tegyük a könyökünket a térdünk közé, tenyerek középen egymásnak összetéve, térdek "szétfeszítve", és akkor kb. olyan helyzetben leszünk, ahogy kellene.
+- Az alsó pozícióban tegyük a könyökünket a térdünk közé, tenyerek középen egymásnak, térdek "szétfeszítve", és akkor kb. olyan helyzetben lesznek a lábaink, ahogy kellene.
 
-- Talpak a talajon, comb kb. vízszintesen (vagy kicsit alatta), térdek max egy kicsit a lábfejek előtt, a hát pedig kb. 45° szögben -- egyáltalán nem függőlegesen!
+- Talpak teljesen a talajon, comb kb. vízszintesen (vagy kicsit alatta), térdek maximum egy kicsit a lábfejek előtt, a hát pedig kb. 45°-os szögben -- egyáltalán nem függőlegesen!
 Ez talán az egyik leggyakoribb hiba, amit Rippetoe-éknak javítania kell a kezdőknél: valamiért mindenkiben az él, hogy a "helyes" guggolásnál a hát függőleges.
 Ez a könyv fizikás/mechanikás levezetése után könnyen látható, hogy baromság.
 Egyenesnek legyen egyenes a hát, de tessék előre hajolni!
 
-- Szemek előre -- ami a 45°-os hát miatt ugye magunk elé, le a földre.
+- Szemek előre -- ami a 45°-os hát miatt ugye azt jelenti, hogy tessék magunk elé, le a földre bámulni.
+Semmiképp ne a plafonra, amihez fel kellene jönnie a mellkasnak, és emiatt már nem állhatna jól a törzsünk!
 
 - Kijövéskor pedig ne arra gondoljunk, hogy a lábunkkal nyomunk lefelé, mert ez nem a megfelelő idegi jelet küldi az agyunknak.
 Gondoljuk inkább úgy, hogy a seggünket egyenesen felfelé akarjuk emelni.
@@ -175,7 +176,7 @@ Ha ez mind stimmel, akkor jöhet az (egyelőre **üres**!!) rúd, amivel begyako
 - Spotter-rel, kb. 5-ösével, helyes formával bejáratjuk a mozgást.
 
 Ha ez is megvan, akkor innentől lehet fokozatosan nehezítgetni a súlyt -- de csak amíg a formát tartani tudjuk!
-Egy extra trükk a forma tartásához: képzeljük el, hogy a rúd egy sínhez van rögzítve, és ezért csak tisztán függőlegesen képes mozogni.
+Egy extra trükk a forma tartásához: képzeljük el, hogy a rúd egy sínhez van rögzítve, és ezért csak tisztán függőleges pályán képes mozogni.
 Ha ezt elég erősen vizualizáljuk, akkor a testünk *valahogy* ösztönösen is jobban megoldja majd a feladványt, mint ahogy arra tudatosan képesek lettünk volna.
 
 <br>
@@ -206,7 +207,7 @@ Ha ezt elég erősen vizualizáljuk, akkor a testünk *valahogy* ösztönösen i
 
 ## <a name="others"></a>A többi gyakorlat
 
-A másik négy (plusz pár kiegészítő) gyakorlatról egyelőre csak röviden, a főbb tippekkel karöltve:
+A másik négy (plusz pár kiegészítő) gyakorlatról most csak röviden, a főbb tippekkel karöltve:
 
 #### Fej felett nyomás (Press)
 
@@ -225,7 +226,7 @@ A kettő közül viszont a fej feletti nyomás a fontosabb!
 
 [Videó illusztráció &#x2197;](https://www.youtube.com/watch?v=4AObAU-EcYE){:target="_blank"}
 
-- Álló helyzetből (innen ered az angol kifejezés "dead" része) erő generálás, ahol is a földről, egyenes karral húzzuk fel a súlyt.
+- Álló, mozdulatlan helyzetből (innen ered az angol kifejezés "dead" része) erő generálás, ahol is a földről, egyenes karral húzzuk fel a súlyt.
 
 - Az alján légzünk, ki és be is, mert különben feszültséget vesztenénk, aminek a mozdulat közepén nem sok értelme!
 
@@ -244,7 +245,7 @@ Inkább talán pont az a könyv egyik nagy tanulsága, hogy nem a felsőtest a m
 Mechanikailag ugyan jobb lenne a 90°, de ezzel idővel elkoptatnánk a vállunkat.
 Szóval itt szándékosan bevállalunk egy kis *hatékonytalanságot* a sérülések elkerülése miatt.
 
-- Húzzuk hátra a lapockákat, és "csavarjuk be" a vállakat, mellet ki, íves hát, és a seggünk végig maradjon kontaktban a paddal.
+- Húzzuk hátra a lapockákat, és "csavarjuk be" a vállakat a helyükre; mellet ki, íves hát, és a seggünk végig maradjon kontaktban a paddal.
 
 - Nagy súlynál mindig gondoljunk a biztonságra: legyen a hüvelykujj a rúd körül, zárt könyökkel vigyük át a súlyt a torkunk/fejünk felett, és kérjünk spottert, aki figyel!
 
@@ -258,7 +259,7 @@ Szóval itt szándékosan bevállalunk egy kis *hatékonytalanságot* a sérül�
 Viszont ahogy az edzés folyamán erősödünk, a kiállással legalább *megtarthatjuk* az alap kirobbanóságunkat (hogy ne "lassuljunk le" cammogósra az újdonsült erőnk mellé).
 Ez mindenféle atletikus teljesítménynél fontos.
 
-- **Nem** a karunkkal emelünk, a karunk csak "kötél", könyök egyenesre kizárva.
+- **Nem** a karunkkal emelünk; a karunk csak "kötél", és egyenesre kizárt könyökkel rántjuk fel a súlyt annyira, hogy utána aláfoghassunk.
 
 - Később kezdjünk vele foglalkozni, amikor a guggolás már nagyon megy, mert ez belepiszkálhat a korrekt hátszögről ott kialakított mentális képünkbe.
 Itt tényleg egyenesebb lesz a hátunk, mert a súly elöl van, de a guggolásnál ugye az az egyik elsődleges lecke, hogy merjünk előre hajolni!
@@ -304,7 +305,7 @@ A fentiek gyengített, "feles", szoktató verzióin felül szóba jön:
 ## <a name="program"></a>Edzésterv
 
 Nem attól leszünk erősek, hogy összesen mennyi gyakorlatot végzünk, hanem hogy mi a legnehezebb gyakorlat, amihez a testünknek alkalmazkodnia kell.
-Ezért itt, látszólag faék egyszerűséggel, azt mondjuk, hogy minden sikeres emelés után növeljünk a súlyon.
+Ezért itt, látszólag faék egyszerűséggel, azt mondjuk, hogy minden sikeres emelést követő edzés során növeljünk a súlyon.
 Ez pedig kezdőknél (vagy akár nem kezdőknél is, akik eddig nem megfelelően terhelték magukat) egy szinte lineáris adaptációt fog kiváltani.
 Alap biológia: a stressz mindig adaptációhoz vezet, ha nem túlterhelő, és van elég idő a regenerációra.
 
@@ -322,11 +323,11 @@ A gyakorlatokat egy edzésen belül is mindig a megadott sorrendben érdemes vé
 A Starting Strength edzésterv 3 fázisa:
 
 1. **A** = guggolás, fej felett nyomás, felhúzás; **B** = guggolás, fekve nyomás, felhúzás.
-Ez megy pár hétig, míg a felhúzás jócskán a guggolási súlyunk fölé ér, és úgy általánosságban meg nem szokjuk az alapokat.
+Ez megy pár hétig, amíg a felhúzás jócskán a guggolási súlyunk fölé ér, és úgy általánosságban meg nem szokjuk az alapokat.
 Itt vezethetjük be a kiállást...
 
 2. **A** = guggolás, fej felett nyomás, felhúzás; **B** = guggolás, fekve nyomás, helyből kiállás.
-Ez további 2-3 hétig megy, míg megszokjuk a kiállást, és utána jöhet a harmadik fázis...
+Ez további 2-3 hétig megy, amíg megszokjuk a kiállást is, és utána jöhet a harmadik fázis...
 
 3. **A** = guggolás, fej felett nyomás, felhúzás/kiállás; **B** = guggolás, fekve nyomás, húzódzkodás, hát hajlítás.
 Itt igazából váltogatjuk az A edzésen belül, hogy a harmadik gyakorlat felhúzás vagy kiállás legyen-e.
@@ -339,7 +340,7 @@ Fejjük meg mindegyik lépést, amennyire csak tudjuk!
 <br>
 
 Minden edzés bemelegítéssel indul!
-Ez az izmok/ízületek puhítása és kenése érdekében továbbra is ugyanolyan fontos, mint a HIIT-nél is volt.
+Ez az izmok/ízületek puhítása és kenése érdekében továbbra is ugyanolyan fontos, mint a [HIIT]({% post_url 2021-05-22-james-driver-hiit %})-nél is volt.
 És emellett az üres rúddal (vagy kisebb súlyokkal) végzett szettek a mozdulatot is újra felfrissítik a fejünkben -- nehogy pont a nagy súlynál bénázzunk el valamit, és sérüljünk meg közben.
 
 > Ha egy rendes bemelegítés nem fér bele az idődbe, akkor maga az edzés sem fér bele.
@@ -383,7 +384,7 @@ Az edzés csak az inger, ami miatt a test alkalmazkodik, de a pihenés az, *amik
 ## Összefoglalás
 
 És íme, hölgyek, urak.
-Kellően magas szintről ez minden, ami a teljes testünk átmozgatásához és erősítéséhez tudnunk kell.
+Kellően magas szintről ez minden, amit a testünk teljes átmozgatásához és erősítéséhez tudnunk kell.
 A [Fegyencedzés]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) korábban már megtanított minket mindenféle eszköz nélkül edzeni, viszont ott a nehézségi szintet valóban bonyolultabb volt állítgatni.
 Itt pedig láthattuk, hogyan mozgassuk meg kb. ugyanazokat a porcikákat egyszerűen nehezíthető módon -- viszont most már egy súlyozott rúd segítségével.
 
