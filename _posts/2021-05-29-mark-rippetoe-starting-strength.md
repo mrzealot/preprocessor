@@ -121,7 +121,7 @@ Ha nem így teszünk, azzal rengeteg erőfeszítést pazarlunk majd az egyensúl
 Egy másik fizikai részletességű megfontolás, hogy guggolásnál elöl vagy hátul legyen-e a rúd?
 Ez azért fontos, mert emiatt nagyon máshol lesz a tömegközéppontunk.
 Na most ha az egyensúlyunkat pont a lábközép felett szeretnénk tartani, akkor következésképpen nagyon más lesz a törzsünk és a térdünk hajlási szöge.
-Ezek a szögek pedig nagyon más módon/arányban dolgoztathatjuk majd a guggolásban résztvevő izmokat.
+Ezek a szögek pedig nagyon más módon/arányban dolgoztatják majd a guggolásban résztvevő izmokat.
 
 A térd hajlításért csak a combunk (quadriceps) felel, míg a csípő hajlításáért az ún. "hátsó láncban" a combunk belső és hátsó része (hamstrings, adductors), illetve a seggünk (glutes) is részt vesznek.
 Azért jó tehát, ha a hátsó részt jobban használatba vesszük, mert ott több izom is szétoszthatja a terhelést, míg elölről csak a combra jut minden, ami egyenetlen erőltetést, fejlődést, és "kopást" jelent.
@@ -226,9 +226,9 @@ A kettő közül viszont a fej feletti nyomás a fontosabb!
 
 [Videó illusztráció &#x2197;](https://www.youtube.com/watch?v=4AObAU-EcYE){:target="_blank"}
 
-- Álló, mozdulatlan helyzetből (innen ered az angol kifejezés "dead" része) erő generálás, ahol is a földről, egyenes karral húzzuk fel a súlyt.
+- Mozdulatlan helyzetből (innen ered az angol kifejezés "dead" része) erő generálás, ahol is a földről, egyenes karral húzzuk fel a súlyt.
 
-- Az alján légzünk, ki és be is, mert különben feszültséget vesztenénk, aminek a mozdulat közepén nem sok értelme!
+- A lenti pozícióban légzünk, ki és be is, mert különben feszültséget vesztenénk, aminek a mozdulat közepén nem sok értelme!
 
 - A has/hát gyakorlatilag minden porcikáját erősíthetjük vele.
 
