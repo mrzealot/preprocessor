@@ -176,8 +176,8 @@ Ahogy a képregényem népszerűvé vált, úgy nőtt a nyomás is, hogy kihaszn
 A képregény kereskedelem egy évi 12 *milliárd* dolláros üzletág, és a szindikátus érthető okokból akart magának egy szeletet.
 De minél többet gondolkoztam rajta, hogy mit is kezdenének az alkotásommal, annál összeegyeztethetetlenebbnek tűnt azzal, amiért rajzolok.
 
-A lelkünk eladása általában inkább egy "bevásárlás".
-Ha eladjuk magunkat, azzal belevásárlunk valaki más értékrendjébe, szabályaiba, és jutalomrendszerébe.
+A lelkünk eladása általában inkább egy "belevásárlás".
+Ha eladjuk magunkat, azzal belevásárolunk valaki más értékrendjébe, szabályaiba, és jutalomrendszerébe.
 Az úgynevezett "lehetőség", amivel szembekerültem, azt jelentette volna, hogy feladom a saját hangomat egy pénzhajhász vállalatéért.
 Azt jelentette volna, hogy onnantól az írásom célja az, hogy eladjak dolgokat, nem pedig hogy mondjak dolgokat.
 A szakmabeli büszkeségemet áldoztam volna fel a tömeggyártás és az asszisztensekre hagyatkozás oltárán.
