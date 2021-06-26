@@ -127,19 +127,36 @@ Csak nekünk jó esetben nem muszáj megvárni a rákot ahhoz, hogy a fejtisztí
 
 ## <a name="vonnegut"></a>Kurt Vonnegut -- Mi szép, ha nem ez?
 
-- https://moly.hu/konyvek/kurt-vonnegut-mi-szep-ha-nem-ez
-- “I think it would be better if colleges spread out the really important stuff over four years, instead of saving it all up for the very end."
-- az a legnagyobb baj a világgal, hogy még ma is Hammurapi "törvénykönyve" szerint élünk -- annak ellenére, hogy közel 4000 év után már igencsak lejárt a szavatossága
-    - szemet szemért, fogat fogért.
-    - ennek az ellenszere Jézus tanítása: bocsásd meg a vétkeinket, miként mi is megbocsátunk az ellenünk vétkezőknek
-        - és ehhez abszolút nem kell hívőnek lenni, tekinthetjük Jézust egy korabeli filozófusnak is, mindenféle természetfeletti képesség és kapcsolat nélkül -- attól még sok mindenben igaza van
-- extended family, or at least a synthetic community to replicate its effects!
-    - kimondottan kiemeli, hogy élő kapcsolatokra gondol, és "ne az interneten kergessünk szellemeket"
-    - de én azért hozzáteszem, hogy ha (teszem azt) egy világjárvány... vagy egy ritka érdeklődési kör miatti földrajzi szétszórtság miatt csak úgy megy, akkor a semminél azért az is sokkal jobb ám!
-- hála 
-    - Alex bácsikája egyik gyakori panasza volt az emberekre, hogy egyszerűen észre sem veszik, ha boldogok.
-        - sztoikus/Buddhista jelenlét, tudatosság, stb.
-    - ezért amikor csak feltűnt neki, mindig hangosan kimondta (akár a másik szavába vágva is), hogy "Mi szép, ha nem ez?"
+Utolsó alanyunk a szarkasztikus stílusáról híres Kurt Vonnegut, aki pedig (többek között) az Agnes Scott College 1999-es köszöntését tartotta.
+Hatalmas karakter volt az öreg, nem véletlen hívta minden intézmény jobbra-balra avatási beszédeket tartani.
+Monológjaiból később egy dedikált gyűjtemény is készült, ami az egyik leggyakrabban visszatérő anekdotájáról kapta a címét: [Mi szép, ha nem ez?](https://moly.hu/konyvek/kurt-vonnegut-mi-szep-ha-nem-ez){:target="_blank"}
+Az Agnes Scott-os alkalommal három témakört érintett:
+
+Először is: szerinte az a legnagyobb baj a világgal, hogy még ma is Hammurapi babiloni király "törvénykönyve" szerint élünk.
+Tudjuk, ez a jól ismert "szemet szemért, fogat fogért" elv, ami miatt egy folyamatos bosszú-körforgásban erőszakoskodunk és soha nincs rendesen béke.
+Annak ellenére követjük ezt a "törvényt", hogy az azóta eltelt közel 4000 évben már igazán kitalálhattunk volna valami jobbat.
+
+Ja de várjunk csak, kitaláltunk; és már azt sem mostanában.
+Az ellenszer Jézus tanítása, miszerint "bocsásd meg a vétkeinket, miként mi is megbocsátunk az ellenünk vétkezőknek".
+És Vonnegut (aki maga is ateista) külön hangsúlyozza: ehhez abszolút nem kell ám hívőnek lenni.
+Tekinthetjük Jézust egy korabeli filozófusnak is, mindenféle természetfeletti képesség és kapcsolat nélkül -- attól még sok mindenben igaza volt.
+Szóval röviden: **igyekezzünk a sértések és sértettségek felől a megbocsátás felé hajlani**.
+
+Másik vesszőparipája a **nagy méretű család** -- vagy legalábbis valami mesterséges közösség, amivel utánozni tudjuk az empátiára és az együttműködő képességünkre kifejtett hatását.
+És habár kimondottan kiemeli, hogy élő kapcsolatokra gondol, és "ne az interneten kergessünk szellemeket", én azért hozzáteszem, hogy ha (teszem azt) egy világjárvány... vagy mondjuk egy ritka érdeklődési kör miatti földrajzi szétszórtság miatt csak úgy megy, akkor a semminél azért az is sokkal jobb.
+
+Harmadik témája pedig az emlegetett visszatérő **anekdota a háláról**.
+Főszereplőnk Vonnegut Alex bácsikája, aki nagyon nem nézte jó szemmel, hogy az emberek egyszerűen észre sem veszik, amikor boldogok.
+A bajban valahogy mindig élesen tudatában vagyunk a bajnak, és legtöbbször a siránkozás sem marad el. De amikor minden rendben, azt valahogy hajlamosak vagyunk természetesnek venni, és a hála érzése fel sem merül.
+Alex bácsi ezt a jelenséget úgy próbálta orvosolni, hogy a sztoikusokat megszégyenítő tudatossággal amikor csak feltűnt neki, mindig hangosan kimondta (akár a másik szavába vágva is), hogy "Mi szép, ha nem ez?".
+Vegyünk hát példát Alex bácsi hozzáállásáról, legyünk jelen, és értékeljük a szép pillanatokat.
+
+Bónusz idézet, ami szépen megfogalmazza a hivatalos tananyag és a ballagási életigazságok relatív jelentőségét:
+
+> Szerintem jobb lenne, ha az egyetemek szétosztanák az igazán fontos dolgokat a négy év során ahelyett, hogy a legvégére tartogatják mindet.
+>
+> -- Kin Hubbard
+> > I think it would be better if colleges spread out the really important stuff over four years, instead of saving it all up for the very end.
 
 <br>
 
@@ -154,3 +171,28 @@ Csak nekünk jó esetben nem muszáj megvárni a rákot ahhoz, hogy a fejtisztí
 
 ## <a name="ceremoniak"></a>A világi ceremóniákról
 
+Íme tehát néhány az avatási beszédek műfajának leghíresebb példái közül.
+Emlékezetes hasonlatokat és fennkölt prózát kapunk az eredeti változatokkal, de a lényegükre lecsupaszítva mégis mind közhelyek, nem?
+Empátia, hit, és hála.
+Menni tovább a kudarc után; soha nem megalkudni; a saját utunkat követni.
+Uncsi.
+
+De **miért** uncsi vajon az ilyesmi?
+Miért közhelyes?
+Valószínűleg mert a nagy igazságokat már annyian felfedezték, és annyiféleképpen megfogalmazták, hogy valahol/valahogy úgyis találkoztunk velük korábban.
+Na de akkor miért hat mégis másként egy ilyen beszéd esetében ugyanaz a mondanivaló?
+Én azt mondom azért, mert ceremónia.
+Mert elhisszük, hogy jelentőségteljes, és ezért nem szégyellünk mélyebb jelentést adni a hallottaknak.
+
+Vagyis kiváló szokás az ilyen tanácsokkal és élettapasztalatokkal tűzdelt ballagási beszéd -- már ahol szokás; ahol nem, ott pedig annak kéne lennie.
+Nagy változás előtt áll az ember, és ilyenkor talán betalál valami.
+Viszont önmagában egyetlen ilyen alkalom édes kevés, és olyan fiatal fejjel amúgy sem nagy az esély, hogy tartósan megmarad az üzenet.
+
+Itt látszik szépen a vallásosok előnye, hiszen náluk ott a rendszeres mise lehetősége.
+Habár ott is rengeteg az üres gesztus, és ott is könnyen lehet zárva az ember füle a mondanivalóra, az átszellemültebb légkör (vagy akár a puszta ismétlés) mégis nagyobb esélyt ad rá, hogy *átmenjen* valami.
+Viszont mivel egyre többen a tudományba és a humanista értékrendbe vetik a "hitüket", ezzel nem csak az égbeli szakállas bácsi mentális képét veszítik el (ami talán nem akkora baj), hanem a vele járó spirituális és morális támogatást is (ami viszont, legalábbis szerintem, marha nagy baj).
+
+Potenciális megoldás lehet, hogy próbáljuk egy kicsit divatba hozni a vallás nélküli, mégis *vallásias* hangulatú monológokat és párbeszédeket.
+Hogy az ilyen témákat is érinthessük valamilyen rendszerességgel, de lehetőleg szemforgatás és a cinikusság kényelmes védőpajzsa nélkül.
+Ha ez kötetlenül, baráti körön belül nem megy, akkor szaporítsuk el az olyan rendezvényeket -- mondhatnám, "világi ceremóniákat" -- ahol a megkövült hétköznapi szemléletünkön is át tud hatolni egy adag *közhely*.
+Nekem például hatalmasat fordult az életem, mióta próbálok az ilyen unalomig ismételt általános igazságok mögé nézni; és feltételezem, hogy a többieknek sem ártana...
