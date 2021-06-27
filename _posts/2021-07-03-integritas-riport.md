@@ -16,11 +16,12 @@ Viszont ahogy közeledtünk az esedékességhez, és ahogy egyre többet gondolk
 
 
 Itt jön a képbe [Stephen Covey]({% post_url 2021-04-10-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa %}#cel), aki a személyes győzelmekhez kapcsolódó javaslatai között szintén hivatkozik valami nagyon hasonlóra, csak ő "küldetésnyilatkozat", vagy "személyes alkotmány" címszavakkal.
-Úgy döntöttem tehát, hogy ebben a remélhetőleg rovat-teremtő első integritásos posztban az eddig olvasott legjobb tanulságok és belső értékrendszerem kategorikus összefoglalásával megpróbálom megírni a saját alkotmányomat.
+Úgy döntöttem tehát, hogy ebben a remélhetőleg rovat-teremtő első integritásos posztban az eddig olvasott legjobb tanulságok és a belső értékrendszerem kategorikus összefoglalásával megpróbálom megírni a saját alkotmányomat.
 
-Ebből persze jó esetben egy olyan magasztos ideál-halmaz születik, amit még véletlen sincs esélyem elérni -- de törekedni attól nyugodtan lehet.
+Ebből persze jó esetben egy olyan magasztos ideál-halmaz születik, amit még véletlen sincs esélyem elérni soha -- de törekedni attól nyugodtan lehet.
 Plusz játékként pedig igyekeztem minden pontnak vicces, mégis jelentőségteljes nevet adni.
-Az eredmény a következő 10+1 elemű lista:
+Az eredmény az alábbi 10+1 elemű lista, ami remélem rajtam kívül másnak is hasznára lehet.
+És ha az enyém netán egy kicsit is inspirálóan hatna, akkor biztatnék mindenkit, hogy írjon sajátot...
 
 <br>
 
@@ -46,9 +47,9 @@ Sőt, ha/amíg nincs kamat, addig magában a következetesen befektetett munkáb
 #### **02**&nbsp;&nbsp;&nbsp; A Polihisztor Szabály
 
 Alapvető hajtóerő, hogy folyamatosan tanuljak és fejlődjek.
-Még a generalista vizeken evezve is sok életnyi tudás áll rendelkezésre, és én aktívan teszek azért, hogy ennek minél nagyobb százalékába belekontárkodhassak legalább valamennyire.
+Még a generalista vizeken evezve is sok életnyi tudás áll rendelkezésre a világon, és én aktívan teszek azért, hogy ennek minél nagyobb százalékába belekontárkodhassak legalább valamennyire.
 Hiszem, hogy minden képesség fejleszthető; a tehetség csak a kiindulási pontot és a kezdeti tempót befolyásolja, az elérhető szintet nem.
-Próbálok nyitott maradni új nézőpontjára, és nem megkövülni semmilyen meggyőződésemben.
+Próbálok nyitott maradni az új nézőpontokra, és nem megkövülni semmilyen meggyőződésemben.
 
 *A név (nyilván a szó szerinti jelentésen felül) arra utal, ahogy kiskoromban a széles, és igencsak csapongó érdeklődési köreim miatt a felnőttektől gyakran megkaptam (nem ritkán némi csúfolódó felhanggal), hogy "Polihisztor lesz ez a gyerek."*
 *Hát, én azon leszek...*
@@ -78,7 +79,7 @@ Nem módosítom a tudatom, hanem szélesítem, és így józanul is több öröm
 Szimbolikusan gondolkozom, és mindenben a leckét keresem -- mert ilyen szemmel meg is fogom találni.
 Nem szégyellek jelentést es jelentőséget adni a jelentős dolgoknak.
 
-*A név [Joseph Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %})-re utal, és hogy szerinte a tudatosan mitologikus gondolkozás által mennyivel kerekebb és kielégítőbb életet élhetünk.*
+*A név [Joseph Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %}) munkásságára utal, és hogy szerinte a tudatosan mitologikus gondolkozás által mennyivel kerekebb és kielégítőbb életet élhetünk.*
 
 <br>
 
@@ -92,10 +93,10 @@ Igyekszem folyamatosan fejben tartani a Sztoikus alapelveket:
 
 - A címkézést (avagy, az irányítás kettősségét), hogy szétválaszthassam, mivel kellene foglalkoznom, és mivel nem;
 - A "memento mori" mottót, hogy a halandóságom tudatát erkölcsi és motivációs eszközként használhassam;
-- A magaslati képet, hogy képes legyek az perspektívába helyezni a mindennapok apróságait; illetve
-- A rossz dolgot előzetes megfontolását, hogy a jó időkben is készülhessek az élet elkerülhetetlen csapásaira.
+- A magaslati nézőpontot, hogy képes legyek perspektívába helyezni a mindennapok apróságait; illetve
+- A rossz dolgokra készülést, hogy a jó időkben is edzhessek az élet elkerülhetetlen csapásaira.
 
-*A név természetesen a [sztoákra](https://hu.wikipedia.org/wiki/Sztoa_(%C3%A9p%C3%ADt%C3%A9szet)){:target="_blank"}, vagyis az ókori görög oszlopcsarnokokra utal, ahol a Sztoicizmus is megalakult.*
+*A név természetesen a [sztoákra](https://hu.wikipedia.org/wiki/Sztoa_(%C3%A9p%C3%ADt%C3%A9szet)){:target="_blank"}, vagyis az ókori görög oszlopcsarnokokra utal, ahol a Sztoicizmus maga is megalakult.*
 
 <br>
 
@@ -109,8 +110,8 @@ Az alkotás, mint központi cél szerepel az életemben -- mindegy mi és hány 
 A folyam formálásával segíthetek másoknak, és közben kifejezhetem önmagam.
 Igyekszem megtalálni a megfelelő egyensúlyt a produktivitás és a rekreáció között, hogy az áramlás sebességét kiégés nélkül tarthassam magas szinten. 
 
-*A név persze a rajtam átáramló folyam sebességének szabályozása miatt is releváns, de nekem első sorban a stressz leengedés miatt jutott eszembe.*
-*A társított mentális kép Puzzola a [Szaffiból](https://hu.wikipedia.org/wiki/Szaffi_(film)){:target="_blank"}, amint épp leengedi a kormányzó túlnyomását...*
+*A név persze a rajtam átáramló folyam sebességének szabályozása miatt is releváns lehet, de nekem első sorban a stresszoldás miatt jutott eszembe.*
+*A társított mentális kép Puzzola a [Szaffiból](https://hu.wikipedia.org/wiki/Szaffi_(film)){:target="_blank"}, amint épp leengedi a kormányzó agyából a túlnyomást...*
 
 <br>
 
@@ -135,7 +136,7 @@ Tisztában vagyok vele, hogy a várható élettartam (vagy akár a menet közben
 #### **08**&nbsp;&nbsp;&nbsp; Az Elég Szabály
 
 Mértékletességgel és minimalista szemlélettel állok minden tárgyi dologhoz és fizikai szükséglethez.
-Fenntartom a jogot, hogy a vágy és a szükség között saját belátásom szerint húzzak vonalat, de cserébe vállalom, hogy ezt a vonalat mindig tudatosan es érvekkel alátámasztva húzom meg.
+Fenntartom a jogot, hogy a vágy és a szükség között saját belátásom szerint húzzak vonalat, de cserébe vállalom, hogy ezt a vonalat mindig tudatosan és érvekkel alátámasztva húzom meg.
 Amim van, az jó minőségű, és nem csak tulajdonosa, hanem gazdája vagyok; amim nincs, azt nem hiányolom.
 
 *A név magáért beszél.*
@@ -165,9 +166,9 @@ A jelszavak: erdőterápia és ökológia.
 
 Az emberi kapcsolataimban arra törekszem, hogy a másik félnek jobb legyen az élete attól, hogy kapcsolatba került velem -- és persze az enyém is, de ettől nem válok függővé.
 Előbb akarok jó ember lenni, ami után már könnyebben lehetek jó társ és barát.
-Próbálom megérteni a másikat, de csak hogy jobban együttérezhessek (és a potenciális nézőpontbeli különbségekből fakadó tanulási lehetőség miatt), nem manipuláció érdekében!
+Próbálom megérteni a másikat, de csak hogy jobban együttérezhessek (és a potenciális nézőpontbeli különbségekből fakadó tanulási lehetőség miatt), soha nem a manipuláció érdekében!
 
-*Oké, oké, a név nem kimondottabban eredeti, de az emberi kapcsolatok témakörében az a tapasztalatom, hogy kb. ez az egyetlen fogalom körül forog minden más.*
+*Oké, oké, a név nem kimondottabban eredeti, de az emberi kapcsolatok témakörében az a bevett tapasztalat, hogy kb. ez az egyetlen fogalom körül forog minden más.*
 
 <br>
 
