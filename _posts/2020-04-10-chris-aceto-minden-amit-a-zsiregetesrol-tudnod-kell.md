@@ -218,8 +218,8 @@ Zsírt veszteni úgy kell tehát, hogy kényszerítés helyett szép óvatosan "
 
 Mindez nyilván nem könnyű.
 Sokan küszködnek, és a kudarcot követő reakciókat embere válogatja.
-Kiemelném azonban az egyik legtanulságosabb alkategóriát, ahol mindenért a [genetika](/pics/genetics.jpg) a hibás.
-"Ilyen a testalkatom!", ["Vastagok a csontjaim"](/pics/big-bones.jpg), stb.
+Kiemelném azonban az egyik legtanulságosabb alkategóriát, ahol mindenért a [genetika](/images/external/genetics.jpg) a hibás.
+"Ilyen a testalkatom!", ["Vastagok a csontjaim"](/images/external/big-bones.jpg), stb.
 Legyünk tisztában vele, hogy az ilyen "körülmények áldozata" szerepkör az esetek túlnyomó többségében csak kamu.
 Persze, a testalkatunk, a zsírsejtjeink száma és a tárolási hajlam is lehet változó...
 De leginkább a szokásaink vezetnek ide -- és a kifogásaink.
