@@ -88,5 +88,5 @@ Jó kérdés.
 
 Egy esetleges ellenszer, ha minél többször csúszunk le azon a bizonyos lejtőn, mert utána (talán?) annál kevésbé hajlunk majd arra, hogy üres fejjel legyen nagy a pofánk.
 Fogadjuk el (de azért kezeljük a helyén) a kritikát és más emberek véleményét, próbáljunk meg gyakran "hátralépni", és kérdőjelezzük meg magunkat!
-Illetve nyilván a folyamatos tanulás erre is kiváló -- pláne a generalista szemléletű tanulás, nem a szakbarbár elmélyülés egy-egy szűk területben, minden már rovására.
+Illetve nyilván a folyamatos tanulás erre is kiváló -- pláne a generalista szemléletű tanulás, nem a szakbarbár elmélyülés egy-egy szűk területben, minden más rovására.
 Így remélhetőleg egyre kevesebb lesz az észrevétlen homály, ami torzíthatná a világképünket.
