@@ -24,7 +24,7 @@ A kutatást kiváltó egyik sztori McArthur Wheeler története, aki citromleves
 Úgy gondolta ugyanis, hogy ha már a citromlé alkalmazható láthatatlan tintaként titkos üzenetek papírra vetéséhez, akkor az ő citromos képét sem mutatja majd a bank biztonsági kamerája.
 Ez nyilván olyannyira nem jött össze, hogy a rendőrség egy napon belül őrizetbe vette -- de ő még akkor is hitetlenkedett, miszerint "De hát viseltem a citromlevet!"
 
-Dunning és Kruger ezt az esetet, és vele együtt sok másik területet vizsgált a sakktól és a humortól kezdve az autóvezetési képességen át egészen az orvosi vagy informatikai munkahelyi teljesítményig.
+Dunning és Kruger ezt az esetet, és vele együtt sok másik területet vizsgált a sakktól és a humortól kezdve az autóvezetési képességen át egészen a különböző szakmai teljesítményekig.
 Fő megállapításuk pedig a következő: ahhoz is kell egy legalább alapszintű tudás, hogy egyáltalán fel tudjuk mérni, mennyire vagyunk járatosak az adott dologban.
 Ezért sajnos egybeesik az a korai időszak, ahol egyszerre:
 
@@ -42,8 +42,8 @@ A görbén négy fontosabb pontot járunk be, amik a legtöbb netes változatban
 
 A **"hülyeség hegyét"** fénysebességgel, rögtön a legelején megmásszuk.
 Itt a legnagyobb az arcunk -- csak azt tudná bárki, hogy mire.
-Józsi bátyám, tud maga zongorázni?
-Tudok há', fiam, csak még nem próbáltam.
+*Józsi bátyám, tud maga zongorázni?*
+*Tudok há', fiam, csak még nem próbáltam.*
 
 Amint egy kicsit is kompetensebbé válunk (és ezáltal képesek leszünk megítélni, hogy mi mindent nem tudunk), sajnos ugyanilyen gyors a zuhanás is a **"kétségbeesés völgyébe"**.
 És innen bizony már elég kellemetlen lesz a korábbi önmagunkra visszagondolni.
@@ -52,26 +52,20 @@ Ahogy Frankie Boyle mondaná: a fintorgó izmaink olyan edzést kapnak, hogy onn
 Ha viszont nem engedjük, hogy mindez szárnyunkat szegje, akkor a valós fejlődésen keresztül eljuthatunk a **"megvilágosodás emelkedőjére"** (ahol mégiscsak kezd összeállni a kép), és végül a **"szakértelem fennsíkjára"**.
 Itt valamilyen szinten újra magabiztosakká válhatunk, csak az a különbség, hogy itt már joggal.
 
-<br/>
-
-
-
-
-
 A jelenség egyik kellemetlen mellékhatása, hogy szinte senki nem látja tisztán a saját képességeit: a marhák indokolatlan önbizalma magasan felette jár az igazságnak, míg a kompetensebbek általában valamennyivel alulbecsülik magukat.
 
 ![Dunning-Kruger kontra valóság](/images/original/dunning_kruger_zones.png){: width=700px style="margin:40px 20px;" }
 
 Ez a közepeseknél a leglátványosabb -- gondolom mert ott még élesen hat az a nagy visszaesés a hülyeség hegyéről, és nem szeretnének még egyszer ugyanabba a hibába esni.
 Viszont ahogy egyre inkább szakértőbe hajlanak, akkor sem érik be teljesen a valóságot; sőt, a végén akár újra távolodhatnak is tőle.
-A professzoroknál lehetséges gondja az, hogy egyre inkább a saját tudásukat vélik alapvetőnek.
-Nem tartják kivételesnek magukat (pedig azok) -- egyszerűen csak azt hiszik, hogy "Ezt ki nem tudja?!"
-Ezért viszont az átlaghoz képest nem olyan magasra lövik majd be magukat, mint azt a tényleges tudásuk indokolná.
-Ezzel pedig öntudatlanul ugyan, de csak tovább erősítik a hülyeség világra gyakorolt hatását.
+A professzorok lehetséges gondja az, hogy idővel a saját tudásukat vélik az "alapnak".
+Nem tartják kivételesnek magukat (pedig azok) -- sok dologról egyszerűen azt hiszik, hogy "Ezt ki nem tudja?!"
+Ezért viszont az átlaghoz viszonyítva nem olyan magasra lövik majd be magukat, mint azt a tényleges képességeik indokolnák.
+Ezzel pedig (öntudatlanul ugyan, de) csak tovább erősítik a hülyeség világra gyakorolt hatását.
 
 Gondoljunk csak egy nyilvános vitára, ahol egy kretén, egy közepesen kompetens egyén, és egy szakértő professzor tárgyalnak egy témát.
 A közepesnek természetesen nincs esélye sem tudásban, sem magabiztosságban, és ezzel talán nincs is baj.
-Baj viszont, hogy még a professzort is leverheti egy kretén, mert annyira magabiztos (míg a professzor, pont a téma alapos ismerete miatt visszafogottan, a korlátok és kivételek figyelembe vételével fogalmaz), hogy a közönség szemében ő lesz a befutó.
+Baj viszont, hogy még a professzort is leverheti a kretén, mert annyira magabiztos (míg a professzor, pont a téma alapos ismerete miatt visszafogottan, a korlátok és kivételek figyelembe vételével fogalmaz), hogy a közönség szemében ő lesz a befutó.
 
 ![A közönségkedvenc](/images/original/dunning_kruger_diff.png){: width=700px style="margin:40px 20px;" }
 
@@ -87,7 +81,7 @@ Csak hát nem tud szegény.
 > > The problem with the world is that the intelligent people are full of doubt, while stupid ones are full of confidence.
 
 Összességében azt mondhatjuk, hogy a Dunning-Kruger hatás mindenkire veszélyes -- elvégre mindannyiunkban lehetnek ilyen tudatlanság-gócok, nem?
-Lehetünk mi profik bizonyos területeken, de akkor is marad még bőven olyasmi, amiben a béka segge alatt leszünk -- és ennek ellenére profi szinte képzeljük magunkat.
+Lehetünk mi akármilyen profik bizonyos területeken, de akkor is marad még bőven olyasmi, amiben a béka segge alatt leszünk -- és ennek ellenére, két elcsípett félmondat összes "oktatásával" a zsebünkben nagyon nem arra a szinte képzeljük magunkat.
 
 Hogy mit tehetünk ez ellen?
 Jó kérdés.
