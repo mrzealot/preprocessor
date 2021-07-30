@@ -23,13 +23,13 @@ Most pedig azt ábrázoljuk, hogy a fejlődésünk fényében várhatóan hol he
 
 ![A haranggörbe](/images/original/bell_curve_shape.png){: width=700px style="margin:40px 20px;" }
 
-A haraggörbe mindig ilyen szép harag alakú, de a mérések *átlagától* függően csúszkálhat jobbra-balra a számegyenesen; illetve hogy ezen felül mennyire magas és vékony, vagy épp alacsony és vaskos, azt az úgynevezett *szórása* határozza meg.
+A haranggörbe mindig ilyen szép harang alakú, de a mérések *átlagától* függően csúszkálhat jobbra-balra a számegyenesen; illetve hogy ezen felül mennyire magas és vékony, vagy épp alacsony és vaskos, azt az úgynevezett *szórása* határozza meg.
 Magasabb szórásnál laposabb, mert a középen lévő átlagtól messzebbre kell kinyúlnia pozitív és negatív irányba is (nagyobbak a kilengések, gyakrabban fordulnak elő kirívó esetek, ilyesmi) -- alacsony szórásnál pedig fordítva.
 Pongyolán fogalmazva mondhatjuk, hogy minden szórásnyi eltávolodás az átlagtól egy minőségbeli ugrást jelent.
 
-Nem változik azonban sem az átlaggal, sem a szórással, hogy a megfigyelt mérések hány százaléka esik a bizonyos szórási határok közé.
-Az első/második/harmadik sztenderd szórási határok között a megfigyelések 68%-a (zöld), 95%-a (zöld és sárga), illetve 99.7%-a (zöld, sárga és piros) található.
-Ez azt jelenti, hogy ha csinálnánk egy szemléletes `idióta < béna < gyenge < átlagos < jó < profi < zseni` skálát, akkor az emberek 68%-a az gyengétől a jóig tartó területbe esne, 95%-uk a béna és a profi közé, és 99.7%-uk az idióta és a zseni közé.
+Nem változik azonban sem az átlaggal, sem a szórással, hogy a megfigyelt mérések hány százaléka esik a bizonyos szórási határok közé (lásd a következő képen).
+Az első/második/harmadik sztenderd szórási határok között a megfigyelések 68%-a (zöld), 95%-a (zöld és sárga), illetve 99,7%-a (zöld, sárga és piros) található.
+Ez azt jelenti, hogy ha megfogalmaznánk egy szemléletes `idióta < béna < gyenge < átlagos < jó < profi < zseni` skálát, akkor az emberek 68%-a az gyengétől a jóig tartó területbe esne, 95%-uk a béna és a profi közé, és 99,7%-uk az idióta és a zseni közé.
 
 ![A haranggörbe szórása](/images/original/bell_curve_zones.png){: width=700px style="margin:40px 20px;" }
 
@@ -42,8 +42,8 @@ Ehelyett most nézzünk rá a fenti ábrára, és ismerjük fel, hogy mekkora a 
 És aztán ezt szorozzuk fel fejben az élet számtalan, változatos területével -- mert persze lehet, hogy japán nyelvtudásban, munkahelyi produktivitásban, vagy origami elefánt hajtogatásban magasan az átlag felett vagyunk, de attól marad még a az autóvezetési ügyességünk, a tenisz technikánk, vagy a párkapcsolati kommunikációnk kifinomultsága, és még úgy megközelítőleg 9000 dolog.
 
 Ha ebből a szemszögből egy kicsit átfogalmazzuk a fenti szórásos ismereteket, akkor sem jönnek ki túl biztató számok.
-Ha például zseniálisan kitűnők akarunk lenni valamiben, akkor ahhoz az emberek 99.85%-ánál jobb teljesítményt kell mutatnunk (99.7%, plusz a maradék 0.3% idióta oldalra maradó fele).
-Ha *csak* a profival szinttel megelégszünk, akkor is a 97.5%-os lécet kell megugrani; a "jó"-hoz pedig a 87%-ot.
+Ha például zseniálisan kitűnők akarunk lenni valamiben, akkor ahhoz az emberek 99,85%-ánál jobb teljesítményt kell mutatnunk (99.7%, plusz a maradék 0,3% idióta oldalra maradó fele).
+Ha *csak* a profi szinttel megelégszünk, akkor a 97,5%-os lécet kell megugrani; a "jó"-hoz pedig a 87%-ot.
 És ne feledjük, hogy az **átlag** is 50%, ami önmagában sem kevés -- hiszen az emberek felénél jobbnak kell lennünk valamiben, hogy egyáltalán az átlagos középvonalat megüssük.
 
 ![Miből lesz a zseni?](/images/original/bell_curve_percentages.png){: width=700px style="margin:40px 20px;" }
@@ -62,7 +62,7 @@ Ha valamiért teszünk, akkor azzal egyidőben egy nagy halom másért épp *nem
 
 A baj az lenne, ha homokba dugnánk a fejünket ezzel a ténnyel kapcsolatban.
 A fejlődés egyik alapfeltétele, hogy tudjuk, hol vagyunk.
-Vagyis ha ettől megfosztjuk magunkat, akkor igen nehéz lesz bármit is elérni.
+Vagyis ha ettől megfosztjuk magunkat, akkor igen nehéz lesz bármit elérni.
 De még ha nem is akarnánk fejlődni, akkor is érdemes tisztában lenni az erősen valószínű, és a vártnál sokkal kiterjedtebb átlagosságunkkal -- ha másért nem, a Dunning-Kruger kordában tartására.
 
 A másik baj az lehetne, ha hagynánk, hogy ez a felismerés letörjön, vagy bármilyen negatív pszichológiai hatással legyen ránk.
@@ -86,9 +86,9 @@ Ahogy [Mark Manson](https://markmanson.net/being-average) mondta:
 Láttuk tehát a jelenséget, és láttuk a kerülendő reakciókat is.
 Akkor hogyan **érdemes** hozzáállni?
 
-Van, aki úgy birkózik meg az átlagosság tudatával, hogy közben tökéletesen elégedett és boldog tud maradni -- na ő már itt nyert.
+Van, aki úgy birkózik meg az átlagossága tudatával, hogy közben tökéletesen elégedett és boldog tud maradni -- na ő már itt nyert.
 Én ugyan nem fogom rugdosni, hogy mindig még többet és még többet; tőlem dőljön hátra.
-Én hiszem ugyan, hogy mindig van hova fejlődni (és hogy hosszú távon mindig meg is fogja éri a fejlődés), de ha neki ott jó, ahol van, akkor miattam ugyan meg ne moccanjon!
+Én hiszem ugyan, hogy mindig van hova fejlődni (és hogy hosszú távon mindig meg is fogja érni a fejlődés), de ha neki ott jó, ahol van, akkor miattam ugyan meg ne moccanjon!
 
 Van olyan is, aki a saját átlagosságát úgy oldja meg, hogy egy nagyon szűk területre specializálódik, miközben minden másból próbál annyira kimaradni, amennyire csak lehet (nehogy kompromittálja a specializált teljesítményét).
 És ha ezt tudatosan csinálja (vagyis nem csak a fent emlegetett homokba dugja a fejét a többi szempontból mért átlagosságával kapcsolatban), és neki ez így tényleg jó (vagyis nem csak a szülői/társadalmi/külső vélt elvárások teljesítése érdekében teszi, mondjuk a pénzre vagy a karrierre fókuszálva), akkor rá is áldásom.
