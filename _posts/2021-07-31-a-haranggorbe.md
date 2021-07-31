@@ -29,7 +29,7 @@ Pongyolán fogalmazva mondhatjuk, hogy minden szórásnyi eltávolodás az átla
 
 Nem változik azonban sem az átlaggal, sem a szórással, hogy a megfigyelt mérések hány százaléka esik a bizonyos szórási határok közé (lásd a következő képen).
 Az első/második/harmadik sztenderd szórási határok között a megfigyelések 68%-a (zöld), 95%-a (zöld és sárga), illetve 99,7%-a (zöld, sárga és piros) található.
-Ez azt jelenti, hogy ha megfogalmaznánk egy szemléletes `idióta < béna < gyenge < átlagos < jó < profi < zseni` skálát, akkor az emberek 68%-a az gyengétől a jóig tartó területbe esne, 95%-uk a béna és a profi közé, és 99,7%-uk az idióta és a zseni közé.
+Ez azt jelenti, hogy ha megfogalmaznánk egy szemléletes `idióta < béna < gyenge < átlagos < jó < profi < zseni` skálát, akkor az emberek 68%-a a gyengétől a jóig tartó területbe esne, 95%-uk a béna és a profi közé, és 99,7%-uk az idióta és a zseni közé.
 
 ![A haranggörbe szórása](/images/original/bell_curve_zones.png){: width=700px style="margin:40px 20px;" }
 
@@ -39,7 +39,7 @@ Csak arra koncentrálunk, ami amúgy is megy, amivel egy kicsit kitűnhetünk (l
 És jó esetben legalább azt azért fejlesztgetjük -- rosszabb esetben pedig csak élvezkedünk a természetes tehetségünk babérjain, miközben kerülünk minden olyan szituációt, ahol kiderülhetnének a korlátaink.
     
 Ehelyett most nézzünk rá a fenti ábrára, és ismerjük fel, hogy mekkora a tolongás a közepén, és hogy milyen kihalt a két vége.
-És aztán ezt szorozzuk fel fejben az élet számtalan, változatos területével -- mert persze lehet, hogy japán nyelvtudásban, munkahelyi produktivitásban, vagy origami elefánt hajtogatásban magasan az átlag felett vagyunk, de attól marad még a az autóvezetési ügyességünk, a tenisz technikánk, vagy a párkapcsolati kommunikációnk kifinomultsága, és még úgy megközelítőleg 9000 dolog.
+És aztán ezt szorozzuk fel fejben az élet számtalan, változatos területével -- mert persze lehet, hogy francia nyelvtudásban, munkahelyi produktivitásban, vagy origami elefánt hajtogatásban magasan az átlag felett vagyunk, de attól marad még a az autóvezetési ügyességünk, a tenisz technikánk, vagy a párkapcsolati kommunikációnk kifinomultsága; és még úgy megközelítőleg 9000 dolog.
 
 Ha ebből a szemszögből egy kicsit átfogalmazzuk a fenti szórásos ismereteket, akkor sem jönnek ki túl biztató számok.
 Ha például zseniálisan kitűnők akarunk lenni valamiben, akkor ahhoz az emberek 99,85%-ánál jobb teljesítményt kell mutatnunk (99.7%, plusz a maradék 0,3% idióta oldalra maradó fele).
@@ -63,19 +63,19 @@ Ha valamiért teszünk, akkor azzal egyidőben egy nagy halom másért épp *nem
 A baj az lenne, ha homokba dugnánk a fejünket ezzel a ténnyel kapcsolatban.
 A fejlődés egyik alapfeltétele, hogy tudjuk, hol vagyunk.
 Vagyis ha ettől megfosztjuk magunkat, akkor igen nehéz lesz bármit elérni.
-De még ha nem is akarnánk fejlődni, akkor is érdemes tisztában lenni az erősen valószínű, és a vártnál sokkal kiterjedtebb átlagosságunkkal -- ha másért nem, a Dunning-Kruger kordában tartására.
+De még ha nem is akarnánk fejlődni, akkor is érdemes tisztában lenni az erősen valószínű, és a vártnál sokkal kiterjedtebb átlagosságunkkal -- ha másért nem, a [Dunning-Kruger]({% post_url 2021-07-24-dunning-kruger-effekt %}) kordában tartására.
 
 A másik baj az lehetne, ha hagynánk, hogy ez a felismerés letörjön, vagy bármilyen negatív pszichológiai hatással legyen ránk.
 Az átlagosság egy, nos, *átlagos* dolog, és -- még egyszer -- nem bűn.
 Ennek tudatában remélhetőleg nem támasztunk majd magunkkal szemben olyan abszurd elvárásokat, amiket eleve nem lehet realisztikusan teljesíteni.
 És így nem tesszük élvezhetetlenné az amúgy teljesen élvezhető életünket.
-Nem akarunk majd superman-ek lenni -- vagy legalábbis nem oda tesszük a minimum "lécet", hogy minden **is** menjen, mikor egy-egy emberöltő alatt örülhetünk, ha egy (esetleg két) dologba kellő mélységben beleáshatjuk magunkat ahhoz, hogy kiemelkedőt alkothassunk.
+Nem akarunk majd superman-ek lenni -- vagy legalábbis nem oda tesszük a minimum lécet, hogy minden **is** menjen, mert láttuk, hogy az mennyire nem "alap".
 
 A harmadik baj pedig az lenne, ha valamit eleve középszerűen, félvállról szeretnénk csinálni -- ahelyett, hogy igyekeznénk a legtöbbet kihozni magunkból.
 És ez nagy különbség!
 Ha alapból ilyen a hozzáállásunk, akkor inkább bele se vágjunk.
 Ha viszont csináljuk, akkor csináljuk rendesen és lelkiismeretesen, legyen az bármi!
-Ahogy [Mark Manson](https://markmanson.net/being-average) mondta:
+Ahogy [Mark Manson](https://markmanson.net/being-average){:target="_blank"} mondta:
 
 > A középszerűség, mint cél, az szívás. De a középszerűség, mint eredmény, az OK.
 > > Mediocrity, as a goal, sucks. But mediocrity, as a result, is OK.
@@ -91,7 +91,10 @@ Van, aki úgy birkózik meg az átlagossága tudatával, hogy közben tökélete
 Én hiszem ugyan, hogy mindig van hova fejlődni (és hogy hosszú távon mindig meg is fogja érni a fejlődés), de ha neki ott jó, ahol van, akkor miattam ugyan meg ne moccanjon!
 
 Van olyan is, aki a saját átlagosságát úgy oldja meg, hogy egy nagyon szűk területre specializálódik, miközben minden másból próbál annyira kimaradni, amennyire csak lehet (nehogy kompromittálja a specializált teljesítményét).
-És ha ezt tudatosan csinálja (vagyis nem csak a fent emlegetett homokba dugja a fejét a többi szempontból mért átlagosságával kapcsolatban), és neki ez így tényleg jó (vagyis nem csak a szülői/társadalmi/külső vélt elvárások teljesítése érdekében teszi, mondjuk a pénzre vagy a karrierre fókuszálva), akkor rá is áldásom.
+Ha ezután csak abban az egy dologban méri magát, akkor soha nem lesz átlagos.
+És ha ezt tudatosan csinálja (vagyis nem csak a fent emlegetett homokba dugja a fejét a többi szempontból mért átlagosságával kapcsolatban)...
+És neki ez így tényleg jó (vagyis nem csak a szülői/társadalmi/külső vélt elvárások teljesítése érdekében teszi, mondjuk a pénzre vagy a karrierre fókuszálva)...
+Akkor rá is áldásom.
 
 De szerintem -- és ez nyilván szubjektív és vitatható, de ezt most én írom, úgyhogy -- **szerintem** nem attól lesz kiváló az ember, hogy a legjobb képességével meddig jut, hanem hogy összesen mennyi képességét bontakoztatja ki és mennyire.
 Ehhez az általános kibontakozáshoz pedig szintén nagyon fontos szembenézni azzal, hogy mennyi mindenben átlagosak vagyunk.
