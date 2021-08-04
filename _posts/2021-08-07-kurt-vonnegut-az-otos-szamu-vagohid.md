@@ -4,6 +4,7 @@
 - Billy Pilgrim balladája, aki megjárja a 2. világháborút, elkallódott újonckodástól a hadifogoly táboron keresztül Drezda gyújtóbombázásáig
     - Roland Weary
     - Paul Lazarro
+    - vicces öltözet
 
 - gazdag szemész családba házasodik, fényes karriert fut be
     - repülőgép baleset
@@ -26,6 +27,7 @@ Az abszurd abrazolas miatt talan mi is mashogynezzuk a dolgainkat, es rajovunk, 
 
 
 A masik jo az ido egyben latasa, amiben tanulhatnank a tralfamadoriaktol. Elore ugyan tenyleg nem tudjuk, mi lesz, de elkepzelhetjuk, hogy hogyan szeretnenk majd visszagojndolni arra ahol most tartunk, hatha az perspektivaba teszi, hogy megeri e az epp aktualis apro kellemetlenseget tulaggodni - vagy a szep pillanatok felett atsiklani
+    - ide tartozik a halál elkerülhetetlensége is -- így megy ez...
 
 
 
@@ -37,7 +39,9 @@ Ahogy a szirup gyarban szintiszta hala tolti el egy kanalka fu alatt csent sziru
 
 értelmezés kérdése, hogy tényleg ugrál-e?
 A vegere szepen kiderul, h a repulobalesete ota kepzeleg csak, a kilgore trout konyvekben olvasottakbol van a fejeben a sok scifi, meg a parja is egy eltunt szineszno...
-Erdekes mentalis kep, h billy pont attol lesz "perverz" egy pirno magazinokat arusito boltban, hogy az alibi kirakatkonyvek egyiket akarja inkabb megvenni. Fujj mar, te nem is a szexert vagy itt?! :D
+    - Erdekes mentalis kep, h billy pont attol lesz "perverz" egy pirno magazinokat arusito boltban, hogy az alibi kirakatkonyvek egyiket akarja inkabb megvenni. Fujj mar, te nem is a szexert vagy itt?! :D
+- de az is lehet, hogy a repülő baleset sem kellett ehhez, mert már maga a háború annyira értelmetlenné tette a szemében az emberi életet, hogy kellett valami fatalista, beletörődő, halál-lefitymáló személyes filozófia, amivel egyáltalán kibírja a hétköznapokat.
 
 egy lehetséges "fő" tanulság: a háború alapból gallyra tette szegény Billy-t, aki elég szenvtelenül, majdhogynem kívülállóként ballagott végig az életén a baleset előtt is
+    - a háború eleve egy összetartó elemként működik a könyvben Billy időbeli ide-oda ugrálása közepette, de ha belegondolunk, a látszólag háborútlan időszakokra is igencsak kihat
     - minden esetre: háború rossz, fujj :)
