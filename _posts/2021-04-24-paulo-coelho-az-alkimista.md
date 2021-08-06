@@ -2,7 +2,7 @@
 layout: post
 title: Paulo Coelho - Az alkimista
 cover: coelho
-tags: [szemléletmód]
+tags: [fikció]
 pages: 176
 date: 2021-04-24 00:01
 excerpt: >
