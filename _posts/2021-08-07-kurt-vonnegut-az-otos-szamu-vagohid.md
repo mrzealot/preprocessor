@@ -3,6 +3,7 @@ layout: post
 title: Kurt Vonnegut - Az ötös számú vágóhíd
 cover: slaughterhouse
 tags: [fikció]
+pages: 232
 date: 2021-08-07 00:01
 excerpt: >
     Pár hete előkerült Kurt Vonnegut neve az egyik ballagási beszéd kapcsán, illetve a könyves ajánlások között is gyakran szembejön, mint nagyszerű író, ezért úgy gondoltam, hogy fikciózzunk egy kicsit a nagy ismeretterjesztés közepette.
