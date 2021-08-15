@@ -15,7 +15,7 @@ Ha már a múlt heti fikciózással megnyitottuk az utat a nem kimondottan ismer
 Mert habár Frank Herbert [Dűnéje](https://moly.hu/konyvek/frank-herbert-a-dune){:target="_blank"} sokak szerint a legjobb (és mellesleg legnagyobb példányszámban elkelt) sci-fi a világon, valahogy eddig soha nem jutottam hozzá.
 És ez így visszatekintve talán nem is baj.
 
-Na nem azért, nem nem tetszett -- alig tudtam letenni.
+Na nem azért, mert nem tetszett -- alig tudtam letenni.
 Úgy értem: talán nem is baj, hogy *eddig* nem olvastam.
 Mert itt bizony a felszíni kalandregény alatt is van mit kicsomagolni, amihez egyáltalán nem bánom, hogy most már jelentősen szélesebb olvasottsággal tudtam hozzáállni.
 
