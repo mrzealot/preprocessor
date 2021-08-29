@@ -6,11 +6,14 @@ tags: [fikció]
 pages: 256
 date: 2021-08-29 00:01
 excerpt: >
-    TODO
+    A múlt heti mini-vakációs kimaradás után tovább haladunk a világirodalmi fikcióból összeállított "Ezt már rég illett volna elolvasnom!" listámon, és az ajánlások ezúttal sem vittek tévútra.
+    Mai alanyunk Daniel Keyes -- Virágot Algernonnak című remekműve, amiről elöljáróban szerencsére szinte semmit nem tudtam, így teljes erővel tudott ütni a sztori.
+    És higgyétek el, ütött.
 ---
 
-A múlt heti mini-vakációs kimaradás után tovább haladunk a világirodalmi fikcióból összeállított "Ezt már rég illett volna elolvasnom!" listámon, ami ezúttal sem vitt tévútra.
+A múlt heti mini-vakációs kimaradás után tovább haladunk a világirodalmi fikcióból összeállított "Ezt már rég illett volna elolvasnom!" listámon, és az ajánlások ezúttal sem vittek tévútra.
 Mai alanyunk Daniel Keyes -- [Virágot Algernonnak](https://moly.hu/konyvek/daniel-keyes-viragot-algernonnak){:target="_blank"} című remekműve, amiről elöljáróban szerencsére szinte semmit nem tudtam, így teljes erővel tudott ütni a sztori.
+És higgyétek el, ütött.
 
 Mivel mindenki másnak is ugyanezt az élményt kívánom, ezért maradjunk annyiban, hogy aki még nem olvasta, annak most STOP.
 A spoiler-mentes értékelésem csak annyi, hogy olvassátok el!
@@ -167,32 +170,34 @@ Sajnos a megoldás azonban (kb. itt már várhatóan) az, hogy az intelligenciá
 
 #### Visszafejlődés
 
-- végre ráveszi magát, hogy az anyját is meglátogassa
-    - szenilis már, de egy-egy pillanatban felismeri, és boldog, hogy végre okos a fia (presze az imái hatására)
-    - azánt a húga is hazaér, aki váratlanul kedves vele
-    - késes epizód, ami gyakorlatilag az utolsó találkozásuk visszhangja
+Talán a ketyegő óra ad végül elég motivációt, hogy tisztába tegye a múltat, és az anyját is meglátogassa.
+Szenilis már, de egy-egy pillanatban felismeri, és boldog, hogy végre okos a fia (de persze itt sem a fia miatt, hanem hogy már nem kell szégyenkeznie).
+Aztán a húga is hazaér, aki váratlanul kedves vele -- Charlie itt érti meg, hogy a vele kapcsolatos "undok" gyerekkori emlékei nem igazán írhatóak a húga számlájára, aki maga is csak gyerekként küzdött meg a helyzetükkel.
 
-- kezdi is magán megfigyelni a visszafejlődés első jeleit, mire Algernon már halott (rendellenesen kisímult aggyal)
-    - "There was no way to stop the sands of knowledge from slipping through the hourglass of my mind."
-    - már az öngyilkosságra is gondol, de aztán megállja, mert ez végülis Charlie élete, amit ő csak kölcsönbe kapott
-        - meg hát amúgy is, a folyamat pontos dokumentálása fontos lehet az utókor számára
-        - "These progress reports are Charlie Gordon's contribution to mankind."
+Az anyja viszont felnőttként produkálta a szarságait, és a demenciája közepén most is előhúz egy kést, hogy elkergesse az emlékeiben élő, rossz hatású Charlie-t az ő kislányától.
+Ez gyakorlatilag az utolsó találkozásuk visszhangja, amikor kiköveteli, hogy Charlie ne lakhasson többé velük a lánya védelmében.
+Mint sajnos sok emberi kapcsolatban, Charlie-nak is be kell érnie az elfogadással és az elengedéssel egy igazi "békülés" helyett.
 
-- az IQ spektrumon visszafelé újra Alice szintjére ér
-    - Charlie most már képes nem az anyja vagy a húgaként tekinteni rá
-    - ami végre lehetővé teszi nekik, hogy egy kicsit együtt legyenek
-    - kevés az idő, de "what we have, I suspect, is more than most people find in a lifetime."
+Algernon-t a többi kísérleti egérrel anonim "kukázásával" ellentétben a hátsó kertben temeti el.
+Ekkorra azonban már kezdi magán is megfigyelni a visszafejlődés első jeleit.
+Az öngyilkosságra gondol, de aztán megállja -- elvégre ez a "régi Charlie" élete, amit ő csak kölcsönbe kapott.
+Meg hát amúgy is, a folyamat utolsó szakaszának pontos dokumentálása fontos lehet az utókor számára.
 
-- őszintén szólva: borzasztó végignézni, ahogy visszafejlődik
-    - és hogy tudja is, mi történik, de mégsem tehet ellene semmit :/
-    - a régi érdeklődéseit fokozatosan elhagyja (mert már nem érdeklik, vagy csak nem érti őket), és marad a TV
-        - "I should know better than to drug my mind with this dishonest stuff that's aimed at the child in me."
-- Alice-t is elküldi, mert egyre jobban idegesíti, hogy most már mennyivel alatta van, és megszánva/babusgatva érzi magát
-- önálló akar maradni, ezért visszamegy a pékségbe
-    - és nem sokkal később annyira visszaesik a régi mintáiba, hogy konkrétan bemegy Alice (Miss Kinnian) órájára
-    - ezután tényleg önként vonul a Warren-be
+A könyv számomra legszívmelengetőbb (és egyben legszívfacsaróbb) fázisában eljutunk tehát odáig, ahol Charlie az IQ spektrumon visszafelé haladva újra Alice szintjére ér.
+Viszont a menet közben lezajlott rengeteg érzelmi érésnek köszönhetően most már képes nem az anyja vagy a húgaként tekinteni rá, ami végre lehetővé teszi nekik az intimitást és egy rövid, mégis igazi romantikus kapcsolatot.
+Mindössze pár hétig tart csak az átmenet, de Charlie még ezt is többre értékeli, mint ami másoknak egy egész élet alatt megadatik.
 
-Utolsó kérése, hogy aki a lakása felé jár, az tegyen virágot Algernon sírjára...
+Őszintén szólva borzasztó végignézni, ahogy hősünk visszafejlődik -- és hogy tudja is, mi történik, de mégsem tehet ellene semmit.
+A régi érdeklődéseit fokozatosan elhagyja (mert már nem érdeklik, vagy csak nem érti őket), és végül újra marad a TV.
+
+> Igazán tudhatnám, hogy ne mérgezzem az elmémet ezzel a hamis szarsággal, ami csak a bennem élő gyereknek szól.
+> > I should know better than to drug my mind with this dishonest stuff that's aimed at the child in me.
+
+Hamarosan elküldi Alice-t, mert egyre jobban idegesíti, hogy most már mennyivel alatta van, és mennyire megszánva/babusgatva érzi magát.
+Önálló akar maradni, ameddig csak lehet, ezért ideiglenesen visszamegy a pékségbe (ahol ilyen állapotában már legalább képesek *némi* együttérzéssel fogadni).
+Ám nem sokkal később annyira visszaesik a régi mintáiba, hogy konkrétan bemegy Alice (vagyis itt már csak "Miss Kinnian") tanórájára.
+Ez adja meg a lökést, hogy önként vonuljon gondozó intézetbe.
+Utolsó kérése a búcsú jelentésében, hogy aki a lakása felé jár, az tegyen virágot Algernon sírjára...
 
 <br>
 
@@ -213,37 +218,62 @@ Utolsó kérése, hogy aki a lakása felé jár, az tegyen virágot Algernon sí
 ## <a name="elemzes"></a>És ez mit is jelent?
 
 A fenti történet szerintem önmagában is jelentős művészi értéket képvisel.
-Számomra a cselekmény szempontból Charlie és Alice rövid, szomorkás, ám mégis jelentőségteljes kapcsolata emelkedik ki.
-Stilisztikailag pedig főleg a mű [episztoláris](https://hu.wikiqube.net/wiki/Epistolary_novel){:target="_blank"} jellege tetszett, és hogy ezzel milyen hatásosan tudta szemléltetni Charlie értelmi fel- és visszafejlődését.
+Számomra a cselekmény szempontjából Charlie és Alice rövid, szomorkás, ám mégis jelentőségteljes kapcsolata emelkedik ki.
+Stilisztikailag pedig főleg a mű [episztoláris](https://hu.wikiqube.net/wiki/Epistolary_novel){:target="_blank"} jellege tetszett, és hogy Keyes ezzel milyen hatásosan tudta szemléltetni Charlie intellektuális hullámvasútját.
+Ha azonban vesszük a fáradságot, hogy egy kicsit a forma és a fikció mögé tekintsünk, akkor akad ott még bőven megszívlelnivaló:
 
-Ha azonban vesszük a fáradságot, hogy egy kicsit a forma és a fikció mögé tekintsünk, akkor akad még ott bőven megszívlelnivaló:
 
 - **Az emberi élet íve**:
-- az egész íve az emberi életre is igaz, csak itt nyilván tömörebben
-    - de ezzel úgyis mindenkinek szembe kell néznie
-    - a "virágot Algernonnak" = kb. magát is előre gyászolhatja
-    - Alice-szel a viszonya oda és vissza
-        - és mennyit számít, hogy hogyan tekint a helyzetre (mert elvileg ugyanazok a körülmények)
+Talán a legszembetűnőbb mondanivaló, hogy a sztori oda- és visszafejlődése az emberi életet mintázza -- csak egy kicsit tömörebben.
+Habár a Sztoikus tanításokban sokat szerepel a halálra való készülés, Charlie története azt hangsúlyozza, hogy a halál előtt bizony egy elkerülhetetlen hanyatlási fázis is várható.
+Ezzel mindannyiunknak szembe kell majd nézni -- és mivel egy zen szerzetes belső békéje valószínűleg keveseknek elérhető, szerintem nyugodtan aspirálhatunk arra a szintre, ahogyan Charlie viselte a sorsát.
+
+    Próbáljunk nem körömszakadtáig ragaszkodni a dolgokhoz; sem a kapcsolatainkhoz; sem a saját képességeinkhez.
+    Mert ugyan van rájuk befolyásunk, mégsem kizárólag rajtunk múlik, hogy meddig maradhatnak meg -- és a ragaszkodástól csak annyival fájdalmasabb lesz az elszakadás.
+    Igyekezzünk inkább megőrizni az optimizmusunkat és a kedvességünket, ameddig csak tudjuk.
+    [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) hasonlatával élve: merítsünk abból jelentést, *ahogyan* viseljük, amit viselnünk kell.
 
 
-- **IQ vs. EQ**:
-- egyik sem előfeltétele a másiknak, és egyik sem implikálja a másikat
-- morális relativitás, mint nagy ráébredés
-- intimitás kontra szex
+- **IQ kontra EQ**:
+A másik nagy tanulság az intellektuális és az érzelmi fejlődés különbözősége.
+Hogy egyik sem előfeltétele a másiknak, és hogy egyik sem garantálja automatikusan a másikat.
+Láthattuk például, ahogy Charlie a korai időszakokban a zsenialitása ellenére is mennyire gyerekesen viselkedett, mind Alice-szel, mind a kutatókkal.
+De láthattuk azt is, ahogy a visszacsökkenőben lévő intelligenciája ellenére is mennyire érettebben tudott gondolkodni a végefelé.
+
+    Az arany középút természetesen az lenne, ha mindkét vonalat kéz-a-kézben tudná fejleszteni, vagy csak karbantartani az ember -- hogy a fenti idézet alapján a műveltséghez emberi szeretet is társulhasson (lásd még: [Stephen R. Covey]({% post_url 2021-04-10-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa %})).
+
+    Ide tartozhat még a morális relativitás kérdésköre is, mint mondjuk Charlie "beárulós" nagy ráébredése, hogy nem minden kérdésre létezik tiszta, egyértelmű, érzelemmentes válasz (lásd még: [Homo Deus]({% post_url 2020-08-08-yuval-noah-harari-homo-deus %})).
+    Illetve újfent kiemelném, mennyire tetszett, hogy a könyv kihangsúlyozza a szex és az intimitás közti különbséget (lásd még: [Szeretetnyelvek]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %})).
     
 
 - **Tolerancia**:
-- A másság elfogadása
-- családi dráma rész
-- munkahelyi rész
-    - fájdalmas lehet, amikor az embernek kinyílik a szeme, de akkor is jobb tudni az igazságot
+És ha már Charlie nézőpontjából megjártuk az EQ fontosságát, akkor itt pedig a külvilág EQ-jára térnék ki "tolerancia" címszó alatt.
+A másság elfogadásával kapcsolatban ugyanis szerintem... Ööö... Mondjuk úgy, hogy továbbra is akad tennivaló, mind családi, mind társadalmi szinten.
+Hiszen habár manapság talán nem tűnik olyan borzasztónak a helyzet, mint 1966-ban (a regény keletkezésekor), érdemes lehet elgondolkodni rajta, hogy ennek mekkora része valós haladás, és mekkora része puszta látszat?
+
+    Vegyük példának Charlie pékségbeli körülményeit.
+    Ilyen csúfolások és szívatások egy modern munkahelyen biztos nem fordulnának elő, mondhatnánk a saját vállunk veregetése közben.
+    De ez vajon nem azért lehet, mert szimplán megtanultuk első ránézésre udvariasabb módon lerázni és kirekeszteni a "másokat"?
+    Van egyáltalán esélyünk "olyanokba" futni a munkahelyen, vagy őket eleve egy külön *kasztba* szerveztük?
+    És itt most a "más" vagy a "kaszt" alatt a fogyaték helyett nyugodtan érthetjük az anyagi helyzetet, a bőrszínt, vagy bármi **más**t.
+
+    Családi körben pedig: nem azért nem látunk ilyet, mert senki nem köti az orrunkra?
+    Már persze ha vagyunk olyan szerencsések, hogy a mi családunkban nem ilyen a légkör.
+    Charlie problémáival is csak azért találkozunk, mert belülről láthatjuk a családi szennyest.
+    Nem azt mondom, hogy könnyű a másik szemszögéből látni a dolgokat -- és még csak azt sem mondom abszolút Sztoikus/Buddhista módon, hogy rögtön képesnek kellene lennünk ezt a nagy empátiát *minden* embertársunkra kiterjeszteni -- de ha ezt a családon belül sem tudjuk vagy akarjuk megtenni, ott azért nagy a baj (lásd még: [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %})).
 
 
 - **A tudomány ridegsége**:
-    - nem ők teremtették, előtte is létezett
-        - az emberi élet magában is méltóságteljes
-    - nem csak azokkal az eredményekkel kell foglalkozni, amiket ki akarunk hozni a kutatásból
-    - ne akarjunk Istent játszani, mert úgyis visszaüt
+Ráadás tanulság, hogy a tudományos hozzáállást is lehet túlzásba vinni.
+Mondjuk ez a pont talán nem *annyira* aktuális a járvány idején, amikor lépten-nyomon két lábon járó Dunning-Kruger effektusok  kérdőjelezik meg a tudományt -- de szerintem akkor sem árt az emlékeztető, hogy ez is egy egyensúly.
+
+    Charlie egyik fő sérelme, hogy az egész lényét a műtét eredményeként tekintették -- mintha addig nem is létezett volna.
+    Ez részben a tolerancia rovatba is tartozhatna, de én inkább úgy látom, hogy a tudósok Istent játszó, embereket is statisztikának tekintő szemléletmódja a gond.
+    Jó esetben az emberi élet (sőt, úgy általánosságban, az élet) önmagában is méltóságteljes.
+    
+    Illetve ne feledjük azt sem, hogy Charlie-t mekkora sikerként mutatták be a konferencián -- annak ellenére, hogy nem sokkal később mekkora látványos "bukás" lett belőle.
+    Nem példa nélküli, amikor az ember túl hamar von le túl általános következtetéseket, vagy amikor szubjektíven torzítja az adatokat, hogy az jöjjön ki belőlük, amit vár.
+    És hát sajnos a kutatók is csak emberek.
 
 <br>
 
