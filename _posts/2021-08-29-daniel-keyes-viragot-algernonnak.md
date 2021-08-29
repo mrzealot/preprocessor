@@ -54,8 +54,8 @@ A stílus eleinte nagyon gyermeki, és hősünk a tetejébe úgy ír mindent, ah
 Egyszerű tőmondatok és egyszerű gondolatok, viszont színtiszta jó szándék és optimizmus.
 
 A műtét előtti alaphelyzet, és a műtét utáni haladás felmérésére többek között egy Algernon nevű fehér egérrel kell versenyeznie, hogy melyikük képes gyorsabban megoldani a kutatók labirintus feladványait.
-Charlie türelmetlen, amiért nem lesz **egyből** okos az operáció után, és mérges Algernon-ra is, amiért soha nem tudja megverni a tesztekben.
-De aztán megtudja, hogy Algernon-nak is volt ilyen műtétje, és azért egy átlagos egérnél azért valószínűleg okosabb lenne.
+Charlie türelmetlen, amiért nem lesz **egyből** okos az operáció után, és mérges Algernonra is, amiért soha nem tudja megverni a tesztekben.
+De aztán megtudja, hogy Algernonnak is volt ilyen műtétje, és egy *átlagos* egérnél azért valószínűleg okosabb lenne.
 
 <br>
 
@@ -65,12 +65,12 @@ De aztán megtudja, hogy Algernon-nak is volt ilyen műtétje, és azért egy á
 
 Az eddigi tanárnője (Alice) különórákat ad Charlie-nak, és egy TV-szerű tanító eszközt is kap alvás előtti használatra.
 A változás első jelei a pékségben jelentkeznek, ahol egyre többet beszél, illetve egyre többet szeretne (és képes) tanulni -- nekünk olvasóknak pedig a jelentések szövegminősége javul rohamosan.
-Kezdi továbbá megkérdőjelezni mások hatóságot (vagyis, kicsit már felesel a dokikkal), ami mind ígéretes előjel.
+Kezdi továbbá megkérdőjelezni mások hatóságát (vagyis, kicsit már felesel a dokikkal), ami mind ígéretes előjel.
 
 Egyelőre még nem tűnik fel neki, de a kollégái -- a "jó barátai", akikkel olyan sokat nevet -- azok igazából rajta nevetnek.
 Szívatni akarják például azzal is, hogy rontsa el a keverőgépet, de helyette ügyesen használja (mert a műtétje óta figyelte, hogyan kellene), és ezzel mindenkit meglep.
 Csak sajnos még mindig nem érti, hogy miért mérgesek rá emiatt azok a rohadékok.
-Szegény tanárnője el is sírja magát, amikor Charlie magabiztosan közli, hogy a barátai mindig kedvesek vele...
+Szegény Alice el is sírja magát, amikor Charlie magabiztosan közli, hogy a barátai mindig kedvesek vele.
 
 Egy kocsmai incidens után azonban végre leesik neki a tantusz.
 Illetve ahogy egyre több az emléke, összerakja a képet azzal kapcsolatban is, hogy **eddig is** ezt csinálták vele.
@@ -82,16 +82,16 @@ Végül randira hívja, ami persze elég nyögvenyelősen megy, mert habár reng
 De hát ha egy érzelmi "zavarban" még az az ember is lebénul, akinek egy egész életnyi tapasztalat van a háta mögött, akkor szegény Charlie pár hetes fejlődésétől hogy is várhatnánk jobbat.
 A kirendelt pszichológusa szavaival:
 
-> Az intellektuális fejlődésed le fogja hagyni az érzelmi fejlődésedet.
+> Az intellektuális fejlődésed messze le fogja hagyni az érzelmi fejlődésedet.
 > > Your intellectual growth is going to outstrip your emotional growth.
 
-Érdekes mérföldkő Charlie érzelmi fejlődésében, amikor lopáson kapja a senior kollégát -- ami, mint az emlékeiből rájön, már évek óta tart, és még őt is cinkostársként használták hozzá.
+Érdekes mérföldkő Charlie érzelmi fejlődésében, amikor lopáson kapja az egyik kollégáját -- ami, mint az emlékeiből rájön, már évek óta tart, és még őt is cinkostársként használták hozzá.
 Ezzel morális dilemmába fut: feladja-e a főnöknek, vagy megkímélje az állása elvesztésétől?
 Csak hát mint tudjuk, a morális dilemmáknál nem igazán tipikus az egyértelmű helyes válasz, úgyhogy Charlie az újdonsült intelligenciájával sem igazán tud mit kezdeni vele.
 Az sem segít, hogy a két kutató teljesen más tanácsot ad a megoldásra.
 
 Alice-t kéri fel "döntőbírónak", aki azzal az egyszerű tanáccsal segít neki, hogy hallgasson saját magára -- ami érdekes módon eddig Charlie-nak fel sem merült.
-Annyira mereven hitte, hogy létezik **A** helyes válasz, hogy nem merte bevállalni, amit ő magától mit csinálna.
+Annyira mereven hitte, hogy létezik **A** helyes válasz, hogy nem merte bevállalni, amit ő magától csinálna.
 Ez pedig csak tovább betonozza benne, hogy mennyire szerelmes a szemét felnyitó Alice-be.
 
 <br>
@@ -114,14 +114,14 @@ Alice-szel is megromlik a kapcsolata, mert egyre kevesebb türelme van a banáli
 Ráadásul egyre több részletre emlékszik arról, hogy az anyja mennyire mostohán bánt vele a különcsége miatt, és hogy mekkora intimitás-ellenességet vert belé, ami miatt amúgy is képtelen "rendesen" közeledni Alice-hoz.
 
 A mélypontot a kutatók által várva várt Chicago-i konferencián érjük el, ahol Charlie átváltozását először bemutatnák, mint kísérleti sikert.
-Charlie-nak itt ugyanis arra kell ráébrednie, hogy mivel eredeti nyelven olvassa a szakiratokat, így ő maga már többet tud a saját "okosodási folyamatáról", mint a két kutató, akik elvégezték a kísérletet.
+Charlie-nak itt ugyanis arra kell ráébrednie, hogy mivel eredeti nyelvű szakiratokat is olvas, így ő maga már többet tud a saját "okosodási folyamatáról", mint a két kutató, akik elvégezték rajta a kísérletet.
     
 > Meg kell próbálnom visszafogni a természetes ingert, hogy lenézzem őket, most hogy túlnőttem rajtuk.
 > > I've got to guard against the natural tendency to look down on them now that I have surpassed them.
 
 A legjobban azonban továbbra is az zavarja az egészben, hogy úgy beszélnek róla, mintha eddig nem létezett volna.
 Mintha ez a kísérlet hozta volna őt létre egyáltalán.
-Ezért bosszúból elengedi Algernon-t a ketrecéből, majd meg is szökteti, és titokban visszamenekülnek New York-ba.
+Ezért bosszúból elengedi Algernont a ketrecéből, majd meg is szökteti, és titokban visszamenekülnek New York-ba.
 
 <br>
 
@@ -141,9 +141,9 @@ Vagyis kiderül, hogy azért továbbra is ott van a "régi Charlie" a művelt r�
 
 Minden esetre mondhatjuk, hogy Charlie érzelmileg is kezd egyre jobban megvilágosodni és felnőni.
 Újra felveszi a kapcsolatot Alice-szel, de romantikus értelemben sajnos nem tudnak együtt lenni, mert a benne élő "régi Charlie" nem engedi, hogy nőként tekintsen rá.
-Mondhatni túl erős gyermekien ártatlan jellegű szálak kötik hozzá -- kénytelen hát a szomszéd lánnyal kielégíti az emberi kontakt iránti szükségleteit (ha értitek, mire gondolok).
+Mondhatni túl erős, gyermekien ártatlan jellegű szálak kötik hozzá -- kénytelen hát a szomszéd lánnyal kielégíti az emberi kontakt iránti szükségleteit (ha értitek, mire gondolok).
 A legszebb az egészben, hogy Alice a féltékenykedés helyett ezt képes megérteni és elfogadni.
-Hiszen ha mögénéz az ember ennek a furcsa szituációnak, akkor Charlie szemszögéből pont a szex lehetősége jelenti azt, hogy a szomszéd lány nem olyan fontos.
+Hiszen ha mögénéz az ember ennek a furcsa szituációnak, akkor Charlie szemszögéből pont a szex lehetősége jelenti azt, hogy a szomszéd lány nem olyan fontos, mint Alice.
 
 A stagnálást Algernon egyre agresszívebb viselkedése (és a gyakori részegségek alatt rendszeresen előbújó "régi Charlie") piszkálják meg, mert ezek elég erősen arra utalnak, hogy ez a nagy megokosodás nem lesz végleges.
 Charlie megkerüli az egójuk miatt elfogult kutatókat, és egyből a kutatást finanszírozó alapítványtól kér jogot, hogy ő maga turkáljon bele a kísérletébe.
@@ -175,20 +175,20 @@ Szenilis már, de egy-egy pillanatban felismeri, és boldog, hogy végre okos a 
 Aztán a húga is hazaér, aki váratlanul kedves vele -- Charlie itt érti meg, hogy a vele kapcsolatos "undok" gyerekkori emlékei nem igazán írhatóak a húga számlájára, aki maga is csak gyerekként küzdött meg a helyzetükkel.
 
 Az anyja viszont felnőttként produkálta a szarságait, és a demenciája közepén most is előhúz egy kést, hogy elkergesse az emlékeiben élő, rossz hatású Charlie-t az ő kislányától.
-Ez gyakorlatilag az utolsó találkozásuk visszhangja, amikor kiköveteli, hogy Charlie ne lakhasson többé velük a lánya védelmében.
-Mint sajnos sok emberi kapcsolatban, Charlie-nak is be kell érnie az elfogadással és az elengedéssel egy igazi "békülés" helyett.
+Ez gyakorlatilag az utolsó találkozásuk visszhangja, amikor szintén késsel követelte ki, hogy Charlie ne lakhasson többé velük a lánya védelmében.
+Mint sajnos sok emberi kapcsolat esetében, itt Charlie-nak is be kell érnie az elfogadással és az elengedéssel egy igazi "békülés" helyett.
 
-Algernon-t a többi kísérleti egérrel anonim "kukázásával" ellentétben a hátsó kertben temeti el.
+Algernon állapota addig romlik, míg bele nem hal, de Charlie a többi kísérleti egér anonim "kukázásával" ellentétben a hátsó kertben temeti el.
 Ekkorra azonban már kezdi magán is megfigyelni a visszafejlődés első jeleit.
 Az öngyilkosságra gondol, de aztán megállja -- elvégre ez a "régi Charlie" élete, amit ő csak kölcsönbe kapott.
 Meg hát amúgy is, a folyamat utolsó szakaszának pontos dokumentálása fontos lehet az utókor számára.
 
-A könyv számomra legszívmelengetőbb (és egyben legszívfacsaróbb) fázisában eljutunk tehát odáig, ahol Charlie az IQ spektrumon visszafelé haladva újra Alice szintjére ér.
+A könyv számomra legszívmelengetőbb (és egyben legszívfacsaróbb) fázisában eljutunk tehát odáig, ahol Charlie, az IQ spektrumon visszafelé haladva, újra Alice szintjére ér.
 Viszont a menet közben lezajlott rengeteg érzelmi érésnek köszönhetően most már képes nem az anyja vagy a húgaként tekinteni rá, ami végre lehetővé teszi nekik az intimitást és egy rövid, mégis igazi romantikus kapcsolatot.
 Mindössze pár hétig tart csak az átmenet, de Charlie még ezt is többre értékeli, mint ami másoknak egy egész élet alatt megadatik.
 
 Őszintén szólva borzasztó végignézni, ahogy hősünk visszafejlődik -- és hogy tudja is, mi történik, de mégsem tehet ellene semmit.
-A régi érdeklődéseit fokozatosan elhagyja (mert már nem érdeklik, vagy csak nem érti őket), és végül újra marad a TV.
+A régi érdeklődéseit fokozatosan elhagyja (mert vagy már nem érdeklik, vagy egyszerűen csak nem érti őket), és végül újra marad a TV.
 
 > Igazán tudhatnám, hogy ne mérgezzem az elmémet ezzel a hamis szarsággal, ami csak a bennem élő gyereknek szól.
 > > I should know better than to drug my mind with this dishonest stuff that's aimed at the child in me.
@@ -196,7 +196,7 @@ A régi érdeklődéseit fokozatosan elhagyja (mert már nem érdeklik, vagy csa
 Hamarosan elküldi Alice-t, mert egyre jobban idegesíti, hogy most már mennyivel alatta van, és mennyire megszánva/babusgatva érzi magát.
 Önálló akar maradni, ameddig csak lehet, ezért ideiglenesen visszamegy a pékségbe (ahol ilyen állapotában már legalább képesek *némi* együttérzéssel fogadni).
 Ám nem sokkal később annyira visszaesik a régi mintáiba, hogy konkrétan bemegy Alice (vagyis itt már csak "Miss Kinnian") tanórájára.
-Ez adja meg a lökést, hogy önként vonuljon gondozó intézetbe.
+Ez a sokk adja meg a lökést, hogy önként vonuljon gondozó intézetbe.
 Utolsó kérése a búcsú jelentésében, hogy aki a lakása felé jár, az tegyen virágot Algernon sírjára...
 
 <br>
@@ -217,7 +217,7 @@ Utolsó kérése a búcsú jelentésében, hogy aki a lakása felé jár, az teg
 
 ## <a name="elemzes"></a>És ez mit is jelent?
 
-A fenti történet szerintem önmagában is jelentős művészi értéket képvisel.
+A fenti történet szerintem önmagában is komoly művészi értéket képvisel.
 Számomra a cselekmény szempontjából Charlie és Alice rövid, szomorkás, ám mégis jelentőségteljes kapcsolata emelkedik ki.
 Stilisztikailag pedig főleg a mű [episztoláris](https://hu.wikiqube.net/wiki/Epistolary_novel){:target="_blank"} jellege tetszett, és hogy Keyes ezzel milyen hatásosan tudta szemléltetni Charlie intellektuális hullámvasútját.
 Ha azonban vesszük a fáradságot, hogy egy kicsit a forma és a fikció mögé tekintsünk, akkor akad ott még bőven megszívlelnivaló:
@@ -237,10 +237,10 @@ Ezzel mindannyiunknak szembe kell majd nézni -- és mivel egy zen szerzetes bel
 - **IQ kontra EQ**:
 A másik nagy tanulság az intellektuális és az érzelmi fejlődés különbözősége.
 Hogy egyik sem előfeltétele a másiknak, és hogy egyik sem garantálja automatikusan a másikat.
-Láthattuk például, ahogy Charlie a korai időszakokban a zsenialitása ellenére is mennyire gyerekesen viselkedett, mind Alice-szel, mind a kutatókkal.
-De láthattuk azt is, ahogy a visszacsökkenőben lévő intelligenciája ellenére is mennyire érettebben tudott gondolkodni a végefelé.
+Láthatjuk például, ahogy Charlie a korai időszakokban a zsenialitása ellenére is mennyire gyerekesen viselkedett, mind Alice-szel, mind a kutatókkal.
+De a vége felé láthatjuk azt is, ahogy a visszacsökkenőben lévő intelligenciája ellenére is mennyivel érettebben tud gondolkodni.
 
-    Az arany középút természetesen az lenne, ha mindkét vonalat kéz-a-kézben tudná fejleszteni, vagy csak karbantartani az ember -- hogy a fenti idézet alapján a műveltséghez emberi szeretet is társulhasson (lásd még: [Stephen R. Covey]({% post_url 2021-04-10-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa %})).
+    Az arany középút természetesen az lenne, ha mindkét vonalat kéz-a-kézben tudná fejleszteni/karbantartani az ember -- hogy a fenti idézet alapján a műveltséghez emberi szeretet is társulhasson (lásd még: [Stephen R. Covey]({% post_url 2021-04-10-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa %})).
 
     Ide tartozhat még a morális relativitás kérdésköre is, mint mondjuk Charlie "beárulós" nagy ráébredése, hogy nem minden kérdésre létezik tiszta, egyértelmű, érzelemmentes válasz (lásd még: [Homo Deus]({% post_url 2020-08-08-yuval-noah-harari-homo-deus %})).
     Illetve újfent kiemelném, mennyire tetszett, hogy a könyv kihangsúlyozza a szex és az intimitás közti különbséget (lásd még: [Szeretetnyelvek]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %})).
@@ -253,26 +253,26 @@ Hiszen habár manapság talán nem tűnik olyan borzasztónak a helyzet, mint 19
 
     Vegyük példának Charlie pékségbeli körülményeit.
     Ilyen csúfolások és szívatások egy modern munkahelyen biztos nem fordulnának elő, mondhatnánk a saját vállunk veregetése közben.
-    De ez vajon nem azért lehet, mert szimplán megtanultuk első ránézésre udvariasabb módon lerázni és kirekeszteni a "másokat"?
+    De ez vajon nem azért lehet, mert szimplán megtanultuk udvariasabb módon lerázni és kirekeszteni a "másokat"?
     Van egyáltalán esélyünk "olyanokba" futni a munkahelyen, vagy őket eleve egy külön *kasztba* szerveztük?
-    És itt most a "más" vagy a "kaszt" alatt a fogyaték helyett nyugodtan érthetjük az anyagi helyzetet, a bőrszínt, vagy bármi **más**t.
+    És itt most a "más" vagy a "kaszt" alatt a fogyaték helyett nyugodtan érthetjük az anyagi helyzetet, a bőrszínt, vagy bármi más **más**t.
 
     Családi körben pedig: nem azért nem látunk ilyet, mert senki nem köti az orrunkra?
     Már persze ha vagyunk olyan szerencsések, hogy a mi családunkban nem ilyen a légkör.
-    Charlie problémáival is csak azért találkozunk, mert belülről láthatjuk a családi szennyest.
-    Nem azt mondom, hogy könnyű a másik szemszögéből látni a dolgokat -- és még csak azt sem mondom abszolút Sztoikus/Buddhista módon, hogy rögtön képesnek kellene lennünk ezt a nagy empátiát *minden* embertársunkra kiterjeszteni -- de ha ezt a családon belül sem tudjuk vagy akarjuk megtenni, ott azért nagy a baj (lásd még: [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %})).
+    Charlie problémáival is csak azért találkozunk, mert belülről teregetik a családi szennyest.
+    Na nem azt mondom, hogy könnyű a másik szemszögéből látni a dolgokat -- és még csak azt sem mondom abszolút Sztoikus/Buddhista módon, hogy rögtön képesnek kellene lennünk ezt a nagy empátiát *minden* embertársunkra kiterjeszteni -- de ha ezt a családon belül sem tudjuk vagy akarjuk megtenni, ott azért nagy a baj (lásd még: [Dale Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %})).
 
 
 - **A tudomány ridegsége**:
 Ráadás tanulság, hogy a tudományos hozzáállást is lehet túlzásba vinni.
-Mondjuk ez a pont talán nem *annyira* aktuális a járvány idején, amikor lépten-nyomon két lábon járó Dunning-Kruger effektusok  kérdőjelezik meg a tudományt -- de szerintem akkor sem árt az emlékeztető, hogy ez is egy egyensúly.
+Mondjuk ez a pont talán nem *annyira* aktuális egy olyan járvány idején, ahol lépten-nyomon két lábon járó [Dunning-Kruger]({% post_url 2021-07-24-dunning-kruger-effekt %}) effektusok  kérdőjelezik meg a tudományt -- de szerintem akkor sem árt az emlékeztető, hogy ez is egy egyensúly.
 
     Charlie egyik fő sérelme, hogy az egész lényét a műtét eredményeként tekintették -- mintha addig nem is létezett volna.
     Ez részben a tolerancia rovatba is tartozhatna, de én inkább úgy látom, hogy a tudósok Istent játszó, embereket is statisztikának tekintő szemléletmódja a gond.
-    Jó esetben az emberi élet (sőt, úgy általánosságban, az élet) önmagában is méltóságteljes.
+    Jó esetben az emberi élet (sőt, úgy általánosságban, az élet) önmagában is méltóságteljes kéne, hogy legyen.
     
-    Illetve ne feledjük azt sem, hogy Charlie-t mekkora sikerként mutatták be a konferencián -- annak ellenére, hogy nem sokkal később mekkora látványos "bukás" lett belőle.
-    Nem példa nélküli, amikor az ember túl hamar von le túl általános következtetéseket, vagy amikor szubjektíven torzítja az adatokat, hogy az jöjjön ki belőlük, amit vár.
+    Illetve ne feledjük azt sem, hogy Charlie-t mekkora sikerként mutatták be azon a konferencián -- annak ellenére, hogy nem sokkal később mekkora látványos "bukás" lett az egészből.
+    Nem példa nélküli, amikor az ember túl hamar von le túl általános következtetéseket; vagy amikor szubjektíven torzítja az adatokat, hogy az jöjjön ki belőlük, amit vár.
     És hát sajnos a kutatók is csak emberek.
 
 <br>
