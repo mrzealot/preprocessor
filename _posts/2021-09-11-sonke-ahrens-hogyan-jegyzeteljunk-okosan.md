@@ -21,7 +21,6 @@ A(z igencsak hosszúra sikeredett) tartalom a következőképp alakul:
 
 - [Bevezetés](#intro)
 - [A rendszer áttekintése](#attekintes)
-- [A mögöttes alapelvek](#alapelvek)
 - [Az írási folyamat fázisai](#fazisok)
     1. [Dolgozzunk okosan](#munka)
     1. [Olvassunk a megértésért](#olvasas)
@@ -46,7 +45,7 @@ A(z igencsak hosszúra sikeredett) tartalom a következőképp alakul:
 
 
 
-## <a name="intro"></a>Intro
+## <a name="intro"></a>Bevezetés
 
 Egy bizonyos ponton felül már egyszerűen nem lehet külső segítség nélkül gondolkodni.
 És tekintve a világunk jelenlegi (és egyre csak növekedő) komplexitását, ez a pont legtöbbünknél már szinte az óvodában elérkezik.
@@ -122,132 +121,38 @@ A helyes használathoz pedig először is külön kell szednünk a fejünkben az
 - Ha már egy létező, hatalmas, logikusan kategorizált és csoportosított tudásbázisból kellene összeválogatnunk (és sorba raknunk) a releváns tudásmorzsákat egy adott téma alapján, az is menne.
 
 Mind külön feladat.
-És lehet, hogy mind más-más jellegű figyelmet és kreativitást igényel, de mind jól körbehatárolt -- ezért sokkal kiszámíthatóbban és kézzelfoghatóbban végrehajtható.
-Ezután persze gondolhatnánk, hogy na jó, de azt a hatalmas tudásbázist a nagy cucc kiépíteni.
+És lehet, hogy mind más-más jellegű figyelmet és kreativitást igényel, de mind jól körbehatárolt -- ezért sokkal kiszámíthatóbban és kézzelfoghatóbban végrehajtható, mint mondjuk egy általános "haladni a cikkel".
+Ezután persze gondolhatnánk, hogy na jó, de akkor biztos azt a hatalmas tudásbázist a nagy cucc kiépíteni.
 Pedig valójában az meg csak szokás kérdése.
 
+Nem kell mást tennünk, csak tollal a kézben olvasni, és ideiglenes jegyzeteket és irodalmi hivatkozásokat gyűjteni menet közben.
+Amint ezek leülepedtek egy kicsit, egy második körben letisztíthatjuk őket végleges jegyzetté a slip-box-unkba.
+Ilyenkor tulajdonképpen kiemeljük a központi tanulságokat a saját szavainkkal, és jó esetben az eredeti szövegkörnyezettől való függés nélkül, hogy ezzel egy önálló, független formát adjunk a gondolatoknak.
 
-- ideiglenes jegyzetek + irodalmi hivatkozások
-- leülepedés után ideiglenes --> végleges jegyzet letisztítás
-    - és aztán hozzáadás az eddigi adatbázishoz, a megfelelő helyre, a megfelelő hivatkozásokkal, esetleg egy index-ből hivatkozva
-    - az eredeti módszerben ezek a jegyzetek tényleg papír kártyákra mentek, nagyon tömören, és bonyolult számozással (ami fent tudta tartani a jegyzet-láncok viszonyát akkor is, ha később került közéjük újabb jegyzet)
-        - nyilván ez egy digitális megvalósításban már nem probléma -- a lényeg csak annyi, hogy különböztessük meg a témák közti "gyengébb", kereszthivatkozásokat az "erősebb", sorrendiségi egymás után következéstől
+Az így létrejött végleges jegyzetek (mint a nevük talán mutatja) innentől véglegesen részeivé válnak a "külső agyunk" tárházának.
+A független tartalmukon felül hivatkozásokat is kaphatnak a lazábban kapcsolódó, és már létező jegyzetekre, helyileg pedig egy olyan korábbi jegyzet mögé kerülnek, amit a legszorosabban "követhet".
+Az eredeti módszerben ezek a jegyzetek tényleg papír kártyákra készültek, nagyon tömören szöveggel (hogy elférjen), és bonyolult számozással (ami fent tudta tartani a jegyzet-láncok viszonyát akkor is, ha később fizikailag távolabb kerülnek a dobozban).
+Nyilván ezek egy digitális megvalósításban már nem jelentenek problémát -- a lényeg csak annyi, hogy különböztessük meg a témák közti "gyengébb", kereszthivatkozásokat az "erősebb", sorrendiségi egymás után következéstől.
 
+Később ezekből a jegyzet-láncokból (és a lánc-közi gyengébb hivatkozásokból) csoportosodnak, mondhatni "csomósodnak" majd össze a témák, amikről írhatunk -- és ami alapján utána már célzottabban olvashatunk, rés kitöltési szándékkal.
+Ebből idővel meglesz az adatbázis, amiből aztán már "csak" kiszedünk és sorba rakunk egy szeletet, vázlatot írunk róla, és letisztítjuk.
+Tádáá!
 
-- aztán ezekből a láncokból (és a lánc-közi gyengébb hivatkozásokból) csoportosodnak, mondhahtni csomósodnak majd össze a témák, amikről írhatunk
-    - és ami alapján utána már célzottabban olvashatunk, rés kitöltési szándékkal
-- ennyi... ebből idővel meglesz az adatbázis
-    - aztán már "csak" kiszedünk és sorba rakunk belőle egy szeletet, vázlatot írunk, és letisztítjuk. tádáá!
+A folyamat szándékosan ilyen egyszerű, mert nem akarjuk túlbonyolítani.
+Elvégre ez mindössze egy külső támasz az objektív emlékezésre (ami az agyunknak nem megy), hogy cserébe csinálhassa azt, ami viszont megy neki: gondolkozhasson, és váratlan kapcsolatokat fedezhessen fel.
+Négy dolog szükséges, hogy belevághassunk (és mindből vannak remek, ingyenes alternatívák):
 
+1. Egy minél gyorsabb és súrlódásmentesebb jegyzetelési módszer az ideiglenes jegyzetekhez -- lehet analóg papír/ceruza, de lehet telefon, [Google Keep](https://keep.google.com){:target="_blank"}, ami tetszik;
 
+1. Egy hivatkozás kezelő (szerző, cím, azonosító, olvasás közbeni jegyzetek, fontos idézetek, és ilyesmik eltárolására) minden olvasmányhoz -- a szerző ajánlata a [Zotero](https://www.zotero.org/){:target="_blank"}, de ez is lehet szinte bármivel, akár analóg módon is;
 
-### Amit kéznél kell tartani
+1. Maga a slip-box a végleges jegyzetekhez -- ami szintén lehet egy fizikai cipős doboz papír kártyákkal, vagy bármi digitális, ami ezt utánozni és egyszerűsíteni tudja (pl. [Roam](https://roamresearch.com/){:target="_blank"}, [Evernote](https://evernote.com/){:target="_blank"}, [TiddlyWiki](https://tiddlywiki.com/){:target="_blank"}, ...); illetve
 
-- kb. semmit, mert nem akarjuk túlbonyolítani a folyamatot
-    - ez csak egy külső támasz az objektív emlékezésre (ami az agyunknak nem megy)
-    - hogy cserébe csinálhassa azt, ami viszont megy neki: gondolkozhasson, és váratlan kapcsolatokat fedezhessen fel
+1. Egy szövegszerkesztő, amiben majd a kimeneti szöveget a legkisebb ellenállás mellett alkothatjuk meg -- Word, Google Docs, Scrivener, VS Code, ...
 
-- 4 dolog kell
-    - gyors jegyzetelési képesség -- papír/ceruza, Google Keep, whatever
-    - hivatkozás kezelés (szerző, cím, azonosító, olvasás közbeni jegyzetek, fontos idézetek, etc)
-    - maga a slip-box -- ami szintén lehet egy fizikai cipős doboz papír kártyákkal, vagy bármi digitális, ami ezt utánozni (és egyszerűsíteni) tudja
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## <a name="alapelvek"></a>A mögöttes alapelvek
-
-### Csak az írás számít
-
-- az írás nem csak a gondolkodás kimenete, hanem a bemenete is
-    - nyilván az olvasásból, vagy előadásokból és innen-onnan szedjük össze a legtöbb ötletünket (nincs új a nap alatt), de az olvasottak/hallottak is másként ütnek majd, ha saját szavainkkal kell leírnunk a tanultakat
-- az írás kikristályosítás, ami aztán fókuszálja a további tanulást
-    - és a tanultak összekötését az eddigiekkel
-- nem más *rovására* kell előre venni az írást
-    - de minden mást is az írás érdekében kell csinálni
-- ez a hozzáállás annyira hatásos, hogy még akkor is fejleszthetjük vele az olvasási/gondolkodási/intellektuális képességeinket, ha nem írunk egy árva sort sem
-    - ha úgy tekintünk az írásra, mintha csak az számítana, akkor az magával ránt egy csomó mindent
-
-### Első az egyszerűség
-
-- The slip-box is the shipping container of the academic world.
-    - első ránézésre csak extra munkát jelenthet az aláhúzgáláshoz, a margináliákhoz, vagy a külön összefoglalókhoz és jegyzetekhez képest
-    - de ha egyszer elengedjük a régi rendszereinket, és nem csak az azonnali haszon, hanem egy hosszútávú befektetés szemszögéből kezdünk tekinteni rá, meglátjuk majd, hogy milyen produktivitást és váratlan kapcsolatokat produkál majd
-- minden sztenderd módon, egy helyre kerül, kb. ömlesztve
-    - ebben soha nem lehet majd olyan hatékonyan keresni, mint egy témák alapján kategorizált rendszerben
-        - de ott az agyunk felelőssége, hogy előre lerendszerezzen mindent, amibe aztán az új, addig ismeretlen dolgok is beleférnek majd
-        - ezt meg ugye hogy is tudná
-    - ha helyette a slip-box-ot használjuk, akkor inkább véletlenszerűen találunk majd rá olyan dolgokra, amiket egyszer már megtanultunk, de azóta elfelejtettünk
-        - így az agyunknak inkább gondolkodni kell majd (amire való), nem pedig emlékezni (amire nem való)
-- ideiglenes vs. maradandó vs. projekt-specifikus jegyzetek között kell csak különbséget tenni
-    - ha egybe tesszük őket, akkor nem lesz elég "sűrű" az adatbázisunk (felhígítja a sok ideiglenes [és ki nem szortírozott], vagy projekt-specifikus, és ezért már kontextusban nem releváns) jegyzet
-    - ha mindent csak ideiglenesként kezelünk, akkor vagy teljesen elhavazunk, vagy magunktól akarunk majd tiszta lappal indulni -- egyik esetben sem volt semmi értelme a jegyzetelésnek
-    - ha pedig projektenként válogatjuk szét, akkor
-        - minden projektnél üres lappal indulunk, és kezdhetjük elölről
-        - minden olyan, amivel egy projekt alatt találkozunk, de nem oda tartozik, az elvész
-- ha viszont rendszeresen gyűjtjük a jegyzeteket, selejtezzük (vagy véglegesítjük) az ideigleneseket, és külön kezeljük a projekt-specifikusakat, akkor a slip-box-unk idővel elér egy olyan átbillenési pontot, ahol már elég az ötlet (és elég energiát fektettünk ebbe a fajta gondolkodásba) hogy elkezdjen osztalékot fizetni
-
-
-### Senki nem indul üres lappal
-
-- “The white sheet of paper – or today: the blank screen – is a fundamental misunderstanding” (Armin Nassehi 2015, 185)
-- a legtöbb kutatási/írási ajánlás azt mondja (valamilyen formában), hogy 1) válassz egy témát, 2) tervezd meg a kutatást, 3) kutakodj, és 4) írj róla
-    - de még ezek az útmutatók is elismerik, hogy ez egy eléggé lineáris, és ezért életszerűtlenül optimista hozzáállás
-    - a témaválasztáshoz és a kérdésfelvetéshez már eleve kellett sokat olvasni
-        - és hogy mit olvasunk, az is a korábbi olvasmányainkon, ismereteinken, és érdeklődési körünkön múlik, nem?
-- sokkal természetesebb, ha az agyunkon kívül, fokozatosan építgetjük a gondolatainkat, amikre az érdeklődésünk követésével természetes módon fogunk rátalálni
-    - és ilyenkor nem csak hogy maguktól, erőltetés nélkül bukkannak majd fel az érdekes témák, de a tetejébe már egy csomó előzetes kutatással is rendelkezni fogunk a kifejtésükhöz
-- persze az sem "tiszta lappal" indul, aki azt hiszi
-    - elvégre ő is csak olyan információkra támaszkodhat, amikkel már találkozott korábban valahol
-    - csak ő ezekről nem készített visszakövethető feljegyzést, ezért nehezebb dolga lesz
-- ez is az egy jó váza vs. X db akármilyen váza példát követi
-    - ha folyamatosan írunk, ahogy új ismereteket szerzünk, akkor a sok kis jegyzetből természetesen is kialakul, ami érdekel
-
-
-### Engedjük, hogy a munka magával sodorjon
-
-- endoterm vs. exoterm reakciók: az előbbinek folyamatos energia befektetés kell a fenntartásához, míg az utóbbi nem csak hogy fenntartja magát, de még energiát is termel
-    - ilyen módon kell beállítanunk a folyamatainkat is, ha azt szeretnénk, hogy hosszú távon is fenntarthatóak legyenek
-    - ha rá kell erőltetni magunkat, akkor mindegy, meddig tart ki az akaraterő készletünk, mert egyszer úgyis elfogy
-    - ha viszont a munka a saját maga jutalma, akkor korbács nélkül is csinálni akarjuk majd
-- plus growth mindset!
-- a menet közben írás (a saját szavainkkal megfogalmazás) egy rövidebb feedback loop, ami által jobban tanulhatunk
-    - sokszor ugyanis addig hisszük csak, hogy értettük, amit olvastunk, amíg meg nem próbáljuk a saját szavainkkal megfogalmazni...
-- ezzel szintén gyakoroljuk, hogy
-    - jobban képesek legyünk megragadni és kiemelni a dolgok lényegét
-    - jobbak képesek legyünk kifejezni a saját gondolatainkat
-- az is visszajelzést ad, ahogy a végleges jegyzeteket bővítjük a slip-box-ban
-    - ha ismétlésekbe, következetlenségekbe, vagy konkrét ellentmondásokba futunk, akkor tudhatjuk, hogy azt a témát még nem gondoltuk végig minden szemszögből
-- gráf csúcsok vs. élek: ahogy nő a jegyzetek száma, ahhoz képest a potenciális kapcsolatok száma exponenciálisan fog nőni
-    - ez is az ilyen egyre gyorsuló gyorsulás, ami egy kezdeti beindítás után magával ránt majd
-- ha együtt tanulunk a menet közben kialakuló slip-box-unkkal, akkor meglepő dolgokra lehetünk képesek
-    - az agyunk és a box együtt többre lesznek képesek, mint külön-külön
-    - nyilván azért van az egész, hogy az agyunkat tovább fejlesszük
-        - de ehhez nem elég, hogy csak úgy megkapjuk valaki más box-át
-        - úgy fejlődik a gondolkodásmódunk is, ahogy a box-unkban alakítjuk ki a csúcsokat és éleket
-
-<br>
-
-
-
-
-
-
+Röviden ennyi.
+És ha ezzel már annyit sikerül elérni, hogy egy közös helyre jegyzetelünk az olvasmányainkról és a gondolatainkról, szerintem már akkor megérte.
+De azért a következőkben lássuk egy kicsit hosszabban is, hogy a fentiek pontosan *hogyan* (és *miért*) működnek...
 
 
 
@@ -269,25 +174,27 @@ Pedig valójában az meg csak szokás kérdése.
 
 #### <a name="munka"></a>Dolgozzunk okosan
 
-- teljes figyelem, külső zavaró tényezők nélkül -- deep work
-- nincs multitasking! -- deep work
-    - lehet, hogy produktívabbnak **érezzük** tőle magunkat, de egy kontroll csoporttal összehasonlítva egyértelműen látszik, hogy mind mennyiségben, mind minőségben a mély fókusz a nyerő
-- adjunk megfelelő típusú figyelmet minden feladatnak
-    - az írás (mint számos másik tevékenység) több nagyon különböző fázisból áll
-    - ha ezeket tudatosan el is különítjük, azzal csak rásegítünk a fenti "teljes figyelem" + "nincs multitasking" pontokra, mert mindegyiknek a megfelelő FAJTA (fókuszált, részlet-orientált; vagy absztrakt, összefüggéseket kereső; vagy játékos, kreatívan csapongó; vagy épp más szemével értelmező) figyelmet adjuk meg
-- ne akarjuk olyan tervet készíteni, ami minden eshetőséget lefed -- inkább alkalmazkodni tanuljunk meg a változó körülményekhez
-    - az eddigiekben felvázolt írási fázisok és a slip-box módszer adnak egy keretet, de ezen belül szabadok vagyunk
-    - szabadon is hibázhatunk, de pont ezekből tanuljuk majd meg, hogy nekünk mi működik, vagy hogy melyik projekthez melyik fázisra kell jobban vagy kevésbé ráfeküdni
-    - mint mondtuk: ez nem egy lineáris folyamat (mint ahogy a kreatív dolgoknál szerintem semmi)
-    - szóval ne kössük magunkat egy tervhez, hanem csak ússzunk az árral (a módszer keretein belül), és majd belejövünk
-- figyeljünk a lezárásra -- GTD
-    - Zeigarnik-hatás: (kb.) amit befejezünk, VAGY LEÍRUNK, az kész, és mehet kifelé a rövidtávú memóriából. amit viszont nem, az ott fog motoszkálni, és foglalni a helyet/erőforrást
-    - a slip-box és a jegyzetek eleve a külső gondolkodást segítik, de ezt használjuk projekt-specifikusan is, és mindig úgy hagyjuk abba a folyamatot, hogy onnan újrakezdhessük, és ezért menet közben kitisztulhasson az agyunk
-        - sőt, fordítva is megy: aminél viszont pont azt szeretnénk, hogy ott motoszkáljon a tudatalattinkban, azt meg tudatosan NE zárjuk le, és akkor fog is :)
-- ne pazaroljuk az akaraterőt -- hozzunk minél kevesebb döntést -- Atomi szokások
-    - vagyis: hozzuk magunkat eleve olyan helyzetbe, hogy minél kevesebb döntést kelljen hozni
-    - ezt pedig ebben a kontextusban leginkább úgy tehetjük meg, ha elkötelezzük magunkat egy rendszer mellett, és aztán mindig azt használjuk
-        - így nem kell mindig kitalálni, hogy "ezt most hova írjam fel", vagy hogy "ezt vajon hol keressem", mert ezeket a döntéseket már előre meghoztuk
+- Fordítsuk a teljes figyelmünket az adott feladatra, bármiféle külső zavaró tényezők nélkül!
+És véletlen sincs "multitasking"!
+Lehet, hogy produktívabbnak **érezzük** tőle magunkat, de egy kontroll csoporttal összehasonlítva egyértelműen látszana, hogy mind mennyiségben, mind minőségben a mély fókusz a nyerő.
+
+- Adjunk megfelelő **típusú** figyelmet minden feladatnak!
+Az írás (mint számos másik tevékenység) több nagyon különböző fázisból áll.
+Ha ezeket tudatosan el is különítjük, azzal nem csak rásegítünk a fenti "teljes figyelem" + "nincs multitasking" pontra, de a tetejébe képesek leszünk mindegyiknek a megfelelő *fajta* (fókuszált, részlet-orientált; vagy absztrakt, összefüggéseket kereső; vagy játékos, kreatívan csapongó; vagy épp más szemével értelmező) figyelmet megadni.
+
+- Ne akarjuk előre olyan tervet készíteni, ami minden eshetőséget lefed -- inkább alkalmazkodni tanuljunk meg a változó körülményekhez!
+Az írás nem egy lineáris folyamat (mint ahogy a kreatív dolgoknál szerintem semmi), szóval merjünk mindig azzal foglalkozni, ami érdekel.
+
+- Figyeljünk az egyes szálak lezárásra!
+A Zeigarnik-hatás ugyanis (kb.) azt mondja ki, hogy amit befejezünk, **vagy leírunk**, azt az agyunk képes lesz késznek tekinteni, és mehet kifelé a rövidtávú memóriából.
+Amit viszont se nem fejezünk be, **se nem írunk le**, az ott fog motoszkálni a fejünkben, és foglalni a helyet/erőforrást.
+A slip-box és a jegyzetek eleve a külső gondolkodást segítik, de ezt használjuk projekt-specifikusan is, és mindig úgy/ott hagyjuk abba a folyamatokat, hogy onnan újrakezdhessük, és ezért menet közben kitisztulhasson az agyunk.
+Sőt, fordítva is megy: aminél viszont pont azt szeretnénk, hogy ott motoszkáljon a tudatalattinkban, azt meg tudatosan **ne** zárjuk le, és akkor fog is...
+    
+- Ne pazaroljuk az akaraterőt!
+Hozzunk minél kevesebb döntést -- vagyis, hozzuk magunkat eleve olyan helyzetbe, hogy minél kevesebb döntést kelljen hozni.
+Ezt pedig ebben a kontextusban leginkább úgy tehetjük meg, ha elkötelezzük magunkat a slip-box rendszer mellett, és aztán mindig azt használjuk.
+Így nem kell mindig újra és újra kitalálni, hogy "Ezt most hova írjam fel?", vagy hogy "Ezt vajon hol keressem?", mert ezeket a döntéseket már előre meghoztuk.
 
 <br>
 
@@ -302,28 +209,37 @@ Pedig valójában az meg csak szokás kérdése.
 
 #### <a name="olvasas"></a>Olvassunk a megértésért
 
-- olvassunk tollal a kézben
-    - ragadjuk meg az olvasottak lényegét, és készítsünk "irodalmi jegyzeteket" (amik sztem kb. az ideiglenes jegyzetek párjai, csak utána sem törlendők, mert a könyv és a slip-box közti átmenetet jelentik)
-    - ezeket tárolhatjuk együtt a referenciáinkkal -- mert azokat ugye úgyis elmentjük, hogy miket olvasunk (hogy később hivatkozhassunk a forrásokra!)
-- legyen nyitott az elménk
-    - vagyis korlátozzuk a confirmation bias-t (megerősítési torzítás) -- ne csak arra figyeljük, ami már most is belefér a világképünkbe, hanem mindenre kb. egyformán (amiben a slip-box-os módszer váza megint csak segíteni fog)
-        - sőt, egy idő után külön poén lesz látszólag ellentmondásos infókat keresni, mert azok csak gazdagítják majd a slip-box-on belüli "párbeszédet" és lehetséges továbbgondolási szálakat
-    - vagyis (továbbra is): ne akarjunk előre valamiről írni, csak tömjük azt a slip-box-ot releváns tartalommal, és végül majd felmerül, hogy miről is kéne írni
-    - "If insight becomes a threat to your academic or writing success, you are doing it wrong."
-- emeljük ki a lényeget
-    - az írásnak ez a "napi kenyere" -- mint a zongoristáknak a napi zongora gyakorlás
-    - és ez fontos, hogy a saját megértésünkön alapuljon, ne pedig más másodkézből kapott véleményén
-    - "Have the courage to use your own understanding" // Immanuel Kant
-    - ahogy ezt írásban gyakoroljuk, úgy egyre inkább a beszédünkre és a gondolkodásunkra is kihat majd
-        - egyre lényegretörőbben és érthetően tudunk majd komplex témákról is beszélni
-- tanuljunk meg olvasni
-    - csak akkor értünk valamit igazán, ha egyszerűen is el tudnánk magyarázni egy laikus közönségnek (Feynman, John Searle, ...)
-    - a slip-box-ba kerülő "végleges" jegyzeteink tulajdonképpen ezek a mini-előadások, csak a laikus közönség nélkül
-        - mi magunk leszünk a "laikus" közönség egy pár nap/hét múlva, amikor már nem emlékszünk majd az eredeti kontextusra, de még ilyenkor is meg szeretnénk érteni, hogy mi magunk mire is gondoltunk közben
-    - a végleges jegyzetek tehát tesztelik, hogy az eredeti kontextusból kiragadva is tudunk-e egy koherens gondolatot formálni az olvasottakból
-    - ezzel szemben (ahogy a Make It Stick-ben is vettük) a sima ismétlés/újraolvasás csak a tanulás illúzióját adja
-        - ezért is jó a slip-box rendszer, mert a saját szavas átfogalmazás és a régebbi jegyzetekkel való kapcsolatok keresése teszteli a valós tanulást (és így rá is kényszerít minket... viszont közben szar lesz :/)
-- tanuljunk az olvasás által ^^^
+- Olvassunk tollal a kézben!
+Ragadjuk meg az olvasottak lényegét, és készítsünk "irodalmi jegyzeteket"
+Ezeket tárolhatjuk együtt az irodalmi referenciákkal -- mert azokat ugye úgyis elmentjük, hogy miket olvasunk (hogy később hivatkozhassunk a forrásokra)!
+
+- Legyen nyitott az elménk!
+Vagyis: korlátozzuk a megerősítési torzítást (confirmation bias).
+Ne csak arra figyeljük, ami már most is belefér a világképünkbe, hanem mindenre kb. egyformán.
+Ebben a slip-box módszer váza megint csak segíteni fog -- sőt, egy idő után külön poén lesz látszólag ellentmondásos infókat keresni, mert azok csak gazdagítják majd a slip-box-on belüli "párbeszédet" és a lehetséges továbbgondolási szálakat.
+Soha ne akarjunk előre valamiről írni -- csak tömjük azt a slip-box-ot releváns tartalommal, és végül majd felmerül, hogy miről is *kéne* írnunk.
+
+    > Ha az írás közbeni felismeréseket fenyegedésként éled meg, akkor rosszul csinálod.
+    > > If insight becomes a threat to your academic or writing success, you are doing it wrong.
+
+- Emeljük ki a lényeget!
+Az írásnak ez a "napi kenyere" -- kb. mint a zongoristáknak a napi zongora gyakorlás.
+És ez fontos, hogy a saját megértésünkön alapuljon, ne pedig egy másodkézből kapott véleményen.
+Ahogy ezt írásban gyakoroljuk, úgy egyre inkább a beszédünkre és a gondolkodásunkra is kihat majd.
+    
+    > Legyen bátorságod a saját értelmezésedet használni!
+    >
+    > -- Immanuel Kant
+    > > Have the courage to use your own understanding!
+
+- Tanuljunk meg olvasni!
+Csak akkor értünk valamit igazán, ha **egyszerűen** is el tudnánk magyarázni egy laikus közönségnek.
+És a slip-box-ba kerülő "végleges" jegyzeteink tulajdonképpen pont ezek a mini-előadások, csak a laikus közönség nélkül.
+Sajnos mi magunk leszünk a "laikus" közönség egy pár nap/hét múlva, amikor már nem emlékszünk majd az eredeti kontextusra, de még ilyenkor is meg szeretnénk érteni, hogy mi magunk mire is gondoltunk közben.
+
+    A végleges jegyzetek tehát tesztelik, hogy az eredeti kontextusból kiragadva is tudunk-e egy koherens gondolatot formálni az olvasottakból.
+    Ezzel szemben (ahogy a [Make It Stick]({% post_url 2021-03-06-peter-c-brown-make-it-stick %})-ben is vettük) a sima ismétlés/újraolvasás csak a tanulás illúzióját adja.
+    Ezért is jó a slip-box rendszer, mert a saját szavas átfogalmazás és a régebbi jegyzetekkel való kapcsolatok keresése teszteli a valós tanulást (és ezáltal rá is kényszerít).
 
 <br>
 
@@ -339,30 +255,35 @@ Pedig valójában az meg csak szokás kérdése.
 
 #### <a name="jegyzet"></a>Jegyzeteljünk okosan
 
-- építsünk karriert, jegyzetről jegyzetre
-    - Trollope vs. Luhmann -- kb. mint a lineáris vs. exponenciális növekedés
-    - szép és jó, hogy konzisztensen dolgozunk, de ha a konkrétan megírt oldalak száma helyett a jegyzeteink számát növeljük, akkor az (a kezdeti lassúság után) hirtelen megindítja majd a produktivitásunkat
-    - mellesleg az non-fiction vonalon nem olyan könnyű kilóra mérni a haladást (mert az írást rengeteg előzetes olvasás és gondolkodás előzi meg)
-    - mérjük magunkat inkább a "végleges jegyzet per nap" metrikával
-        - abban haladjunk olyan szép lineárisan, mint Trollope, és az eredménye olyan exponenciális lesz, mint Luhmann
-- gondolkozzunk az agyunkon kívül
-    - ahogy az introban is mondtuk: egy bizonyos komplexitás felett már nem fog menni írás nélkül
-    - fordítsuk hát le a gondolatainkat szöveges formába, hogy aztán kívülállóként tekinthessünk rájuk, és objektívebben vizsgálhassuk, hogy így is értelmesek-e (vagy csak a fejünkben hangzottak annak)
-        - és aztán ebből jönnek majd az olyan meglátások, amik új gondolatokhoz vezetnek -- amiket megint leírunk, és így tovább
-    - vagyis az írás nem a gondolkodás végeredménye, hanem a MÓDJA, a folyamata!
-- tanuljunk úgy, hogy nem is próbálkozunk
-    - nem a dolgok raktározásával van a baj az agyunkban, hanem hogy a túlnyomó többségüket kiszűrjük (különben kb. bele is őrülnénk a túlterhelésbe)
-        - ha valamit egyszer megértünk, az onnantól ott van, csak nem biztos, hogy előhívható, amikor szükségünk lenne rá
-        - ha viszont nem értjük meg, akkor biztos, hogy nem lesz előhívható (mert nincs mihez kapcsolódnia), és ezért amint a cache-ből ürül, el is veszik!
-    - ezért érdemes a nyers tudás mennyiség helyett a kapcsolatok mennyiségével foglalkozni (hogy így a fontosabb pontokon megállítsuk az önkéntelen felejtést, és a "rántja magával" hatására megkönnyítsük az emlékezést)
-    - a véletlen kapcsolatok (egy illatra eszünkbe jut valami, vagy valamire jobban emlékszünk abban a szobában, ahol tanultuk) helyett a slip-box pont a szándékos és hasznos kapcsolatokat gyarapítja
-        - a releváns, valamilyen szálon összefüggő gondolatok egymás kiváltói (cue) lesznek, és "rántják magukkal" a másikat
-        - "What does it mean? How does it connect to … ? What is the difference between … ? What is it similar to?" --> így lesz a literature note-okból végleges, és így kapcsolhatjuk egy csomó helyre, hogy aztán vissza is térjen
-        - ebből egy elég sűrű háló...
-- technikailag vagy a hivatkozott jegyzet után tegyük, vagy az egész slip-box legvégére (ha semmire nem hivatkozik)
-    - többszörös hivatkozásnál írjuk a kártyára a kimenő link-jeit
-    - tartsunk fent egy index-et, ahonnan a főbb szálak elérhetők (vagy legyen kereshető, ha digitális)
-    - és innentől már építgethetjük a mentális modelljeinket...
+- Építsünk karriert, jegyzetről jegyzetre!
+Szép és jó, hogy konzisztensen dolgozunk, de ha a konkrétan megírt oldalak száma helyett a jegyzeteink számát növeljük, akkor az (a kezdeti lassúság után) hirtelen megindítja majd a produktivitásunkat!
+Kicsit olyan ez, mint a kémiában az *endoterm* kontra *exoterm* reakciók: az előbbinek folyamatos energia befektetés kell a fenntartásához, míg az utóbbi nem csak hogy fenntartja magát, de még energiát is termel.
+Az eddig megírt oldalak nem sokat segítenek abban, hogy ezután is ugyanolyan ütemben írjuk az oldalakat -- az eddig megírt végleges jegyzetekkel viszont exponenciálisan növekednek majd a jegyzetek közti potenciális kapcsolatok, és azokból már egyre könnyebb lesz oldalakat is írni.
+Újra egy ["gyorsuló gyorsulás"]({% post_url 2021-07-10-az-s-gorbe %}), ami a kezdeti beindítás után magával ránt.
+
+- Exportáljuk az agyunkon kívülre!
+Fordítsuk le a gondolatainkat szöveges formába, hogy aztán kívülállóként tekinthessünk rájuk, és objektívebben vizsgálhassuk, hogy így is értelmesek-e (vagy csak a fejünkben hangzottak annak).
+Később ebből jönnek majd az olyan meglátások, amik új gondolatokhoz vezetnek -- amiket megint leírunk, és így tovább...
+Vagyis az írás nem csak a gondolkodás végeredménye, hanem jó esetben a *módja*, a *folyamata*!
+
+    Az írás *kikristályosítás*, ami aztán fókuszálja a további tanulást -- és a tanultak összekötését az eddigiekkel.
+    Szóval nem más *rovására* kell előre venni az írást, hanem sokkal inkább minden mást is az írás érdekében kell(ene) csinálni.
+    Még akkor is fejleszthetjük az intellektuális képességeinket, ha nem írunk egy árva sort sem -- csak úgy *tekintünk* az írásra, mintha csak az számítana.
+
+- Próbáljunk mindent mindenhez kötni!
+Az új anyag megértése persze szükséges előfeltétel, mert anélkül nem is lehet mihez kapcsolni, és így azonnal elvész, amint a rövid távú memóriából törlődik.
+Ezért nem jó ötlet a magolás.
+Ha viszont valamit egyszer megértünk, az onnantól jelen lesz az agyunkban -- csak továbbra sem biztos, hogy előhívható, amikor szükségünk lenne rá.
+Ezért érdemes a nyers tudás mennyiség helyett a kapcsolatok mennyiségével foglalkozni.
+
+    Ha a fontosabb meglátásokhoz sok a hozzáférési pont, akkor megállíthatjuk az önkéntelen felejtést és megkönnyíthetjük az emlékezést.
+    A releváns, valamilyen szálon összefüggő gondolatok egymás hívószavai lesznek, és "rántják magukkal" a másikat.
+    Minden irodalmi és ideiglenes jegyzet véglegesítése közben kérdezzük meg magunktól: Mit jelent ez? Hogy kapcsolódik X-hez? Mi a különbség ez és Y között? Mihez hasonlít a legjobban?
+    Ebből lesz az a sűrű tudásháló, ami hamarosan osztalékot fog fizetni.
+
+- Technikailag minden új végleges jegyzetet vagy a legszorosabb kapcsolódási pontja után tegyük, vagy az egész slip-box legvégére (ha még semmire nem hivatkozik).
+Többszörös hivatkozásoknál írjuk a kártyára a kimenő link-jeit.
+Illetve kezdőpontként tartsunk fent egy index-et, ahonnan a főbb szálak elérhetők (vagy az egész legyen kereshető, ha digitális).
 
 <br>
 
@@ -382,54 +303,63 @@ Pedig valójában az meg csak szokás kérdése.
 
 #### <a name="gondolkodas"></a>Fejlesszük az ötleteinket
 
-- hamar el kell fogadnunk, hogy a slip-box-ot nem fogjuk teljes egészében átlátni
-    - "the slip-box is the medium we think **in**, not something we think **about**."
-    - viszont a benne lévő sorozatok és hivatkozások által az egész gondolkodásunk fejlődni fog
-    - ajánlott az egymás-utániság és a kereszthivatkozások keverése, hogy egyszerre "csomósodjon" a komplexitásból egy-egy gondolatszál, és mellette más szálakhoz is lehessen kapcsolata
-- fejlesszük a témákat
-    - az index/taggelés csak kezdőpontokat jelentsen, mert a jegyzetek közti élek a fontosabbak
-        - ha az indexből minden elérhető lenne (és úgy is használnánk), akkor semmi értelme az egésznek
-        - pont attól lesz jó, hogy menet közben fedezünk majd fel dolgokat
-    - ha valamilyen kategorizálást szeretnénk a jegyzetek fölé (mondjuk egy téma áttekintése), akkor az is egy jegyzet, amire szépen lehet hivatkozni az indexből
-        - és ha ez változik, akkor frissíthető, vagy új jegyzet írható, amire az index hivatkozás frissíthető...
-    - nem az a lényeg, hogy hova tegyük el a dolgokat, hanem hogy milyen kontextusokban szeretnénk vele újra találkozni (archivista vs. írói mentalitás)
-        - nem fontos, hogy önmagában hova tartozna -- inkább az, hogy a mi érdeklődési köreinkben hova tartozHAT, hova érdemes tartoznia, stb.
-- létesítsünk kapcsolatokat
-    - "erős kapcsolat" == melyik jegyzet melyik után jön fizikailag
-        - ezekből is lehet ugye szétágazás, vagy összeolvadás, szóval nem teljesen lineáris
-        - de ezek szorosan összetartozó, lineárisABBan egymás után következő jegyzet sorozatok
-    - "gyenge kapcsolat" == keresztél, amik mentén látszólag teljesen különböző területek is összeérhetnek
-    - ez nem csak egy külön slip-box "karbantartási" művelet, amit büntetésből meg kell csinálnunk, az írástól külön
-        - ez nagyon is az írási folyamat része, csak itt most nem a fejünkben turkálunk a megfoghatatlan gondolat-foszlányok után, hanem feketén-fehéren, a leírt jegyzeteink között keresünk lehetséges kapcsolatokat
-- összehasonlítások, javítások, megkülönböztetések
-    - ha nagy az egyetértés, akkor az tovább erősíti a kutatásunk helyességét
-    - ha pedig látszólagos ellentmondást találunk két jegyzetünk között, akkor azzal egyrészt ennek objektíven tudatába kerülhetünk (hogy eddig két ellentmondásos álláspontot is vallottunk egyszerre!), másrészt pedig továbbgondolhatjuk a kérdést (ami valószínűleg csak még több jegyzethez és felismeréshez vezet)
-    - ezek mellett a kapcsolatok keresése közben az agyunk végre csinálhatja, amiben nagyon jó: hasonlóságot találni a látszólag különböző dolgok között, és különbségeket találni a látszólag hasonló dolgok között
-        - csak hát ehhez ugye már eleve kéznél kell lennie az összehasonlítandó dolgoknak, amiben viszont az agyunk nagyon nem jó -- de a slip-box igen!
-    - plusz: a jegyzeteink rendszeres átnézésével elkerülhetjük azt is, hogy mindig csak a legfrissebb infók dominálják a gondolkodásunkat
-        - lehet, hogy egy adott helyzetben valami más sokkal relevánsabb lenne, mint ami épp a cache-ben van, csak arra már annyira nem emlékszünk, hogy még csak nem is hiányoljuk
-- alakítsunk ki egy gondolkodási eszköztárat
-    - ha eléggé el-absztraktálunk, elkezdünk majd mindenben ismétlődő mintákat látni
-        - és pont ezek fognak segíteni az eddig ismeretlen helyzetek megoldásában is -- mert beugorhat egy látszólag más, de "szerkezetileg" mégis nagyon hasonló helyzet, amire pont tudunk egy kiválóan illeszkedő megoldást
-    - "A truly wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation schemes."
-    - és a slip-box karbantartása alatt pont ezt csináljuk: az ottani kapcsolatok kialakításával a fejünkben is összekapcsoljuk az elemeket, ezáltal együtt fejlődhetünk
-- használjuk kreativitás-gépként
-    - "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something." (Steve Jobs)
-    - DE: "Even sudden breakthroughs are usually preceded by a long, intense process of preparation." --> szóval mi csak főjünk szépen a saját levünkben a slip-box-szal, nem kell erőltetni semmit, és előbb vagy utóbb úgyis felbukkannak majd érdekes dolgok
-- gondolkozzunk a dobozBAN -- avagy: amire a módszer nem kényszerít, de azért jól tennénk...
-    - mindig kérdezzük meg, hogy mi NINCS épp a képben? mit NEM veszünk épp figyelembe?
-        - az is sokat elmondhat, hogy egy érvelés miről nem ír...
-        - lásd: repülő megerősítéses sztori -- nem azokat a helyeket kellett, ahol a legtöbb golyó érte, hanem pont hogy ahol NEM érte őket, mert ezek azok a gépek, amik visszatértek
-            - figyelembe kell venni azokat a gépeket is, amik nem tértek vissza
-        - a szerző másik példája: pénz. lehet szidni, hogy milyen társadalmi problémákkal jár, de ilyenkor illene abba is belegondolni, hogy pénz nélkül hogyan is tudnánk megoldani az áruk és szolgáltatások cseréjét?
-            - szóval lehet, hogy most is van baj, de ez már abból a megoldásból fakad, ami egy sokkal nagyobb bajra ad választ
-    - illetve igyekezzünk mindig a megfelelő kérdést feltenni
-        - gondoljunk bele, hogy egyáltalán milyen jellegű válaszra számíthatunk egy adott kérdésre, és hogy az nekünk kielégítő lesz-e
-        - sokszor egy probléma megoldása már létezik, csak úgy kellene megfogalmazni a problémát, hogy látszódjon a kapcsolatuk
-- a megkötések szülik a kreativitást
-    - maga a slip-box követése ugye egy csomó lehetőséget kivesz a kezünkből -- ami nem baj, mert így nem a lehetőségeink közti tévelygésre, hanem a valós munkára koncentrálhatunk
-    - plusz ha nem is papíron csináljuk, akkor is maradjunk szűkszavúak a jegyzeteinkben (javaslat: férjen egy képernyőre, és soha ne kelljen görgetni egy adott jegyzeten belül!)
-        - "Not having to make choices can unleash a lot of potential, which would otherwise be wasted on making these choices."
+- Hamar el kell fogadnunk, hogy a slip-box-ot soha nem fogjuk teljes egészében átlátni!
+De ez nem baj, mert jó esetben a slip-box-**BAN** gondolkozunk, nem a slip-box-**RÓL**.
+És különben is, a benne lévő sorozatok és hivatkozások által az egész gondolkodásunk fejlődni fog.
+Ajánlott az egymás-utániság és a kereszthivatkozások keverése, hogy egyszerre "csomósodjon" a komplex bejövő infóhalmazból egy-egy gondolatszál, és mellette más szálakhoz is lehessen kapcsolata.
+
+- Alakítsuk ki a saját témáinkat!
+Az index, és az esetleges címkézés csak kezdőpontokat jelentsen minden keresésben, mert a jegyzetek közti élek a fontosabbak.
+Ha az indexből minden elérhető lenne (és úgy is használnánk), akkor az gyakorlatilag csak egy könyvtári archívum -- és ha mindig előre tudjuk, hogy mit és hol keresünk, akkor semmi értelme az egésznek.
+A slip-box épp attól lesz jó, hogy menet közben fedezünk majd fel váratlan dolgokat.
+
+    Ha valamilyen extra kategorizálást szeretnénk a jegyzetek fölé (mondjuk egy téma áttekintése), akkor az is legyen egy jegyzet, amire szépen lehet hivatkozni az indexből.
+    És ha ez változik, akkor frissíthető -- vagy új jegyzet írható, amire az index hivatkozás frissíthető.
+    Nem az a lényeg, hogy hova tegyük el a dolgokat, hanem hogy milyen kontextusokban szeretnénk vele újra találkozni (archivista vs. írói mentalitás).
+    És nem fontos, hogy önmagában hova tartozna; inkább az, hogy a mi érdeklődési köreinkben hova tartozHAT, hova érdemes tartoznia, stb.
+
+- Létesítsünk további kapcsolatokat!
+Amiből, mint mondtuk, kétféle is lehet.
+
+    Az "erős kapcsolat" kb. annyi, hogy melyik jegyzet melyik után jön fizikailag.
+    Ezekből is szabad azért szétágazni, vagy szálakat összeolvasztani, szóval nem teljesen lineáris -- de ezek szorosan összetartozó, lineárisABBan egymás után következő jegyzet sorozatok.
+    A "gyenge kapcsolat" pedig kb. egy keresztél, ami mentén látszólag teljesen különböző területek is összeérhetnek.
+
+    Amit mindenképp tudatosítsunk magunkban: az új élek behúzgálása nem csak egy külön slip-box "karbantartási" művelet, amit büntetésből meg kell csinálnunk, az írástól külön.
+    Ez nagyon is az írási folyamat része, csak itt most nem a fejünkben turkálunk a megfoghatatlan gondolat-foszlányok után, hanem feketén-fehéren, a leírt jegyzeteink között keresünk lehetséges kapcsolatokat.
+
+- Végezzünk összehasonlításokat, javításokat, megkülönböztetéseket!
+Ha nagy az egyetértés több jegyzet között, akkor az tovább erősíti a kutatásunk helyességét.
+Ha pedig látszólagos ellentmondást találunk két jegyzetünk között, akkor azzal **A)** ennek objektíven tudatába kerülhetünk (vagyis hogy eddig két ellentmondásos álláspontot is vallottunk egyszerre!), illetve **B)** továbbgondolhatjuk a kérdést (ami valószínűleg csak még több jegyzethez és felismeréshez vezet).
+
+    > A kreativitás csak dolgok összekapcsolása. Ha megkérdezel kreatív embereket, hogy hogyan csináltak valamit, általában egy kis bűntudatot fognak érezni, mert igazából nem csináltak semmit, csak *megláttak* valamit.
+    >
+    > -- Steve Jobs
+    > > Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something.
+    
+    Ezek mellett a kapcsolatok keresése közben az agyunk végre olyat csinálhat, amiben nagyon jó: hasonlóságot találni a látszólag különböző dolgok között, és különbségeket találni a látszólag hasonló dolgok között.
+    Csak hát ehhez ugye már eleve kéznél kell lennie az összehasonlítandó dolgoknak, amiben viszont az agyunk nagyon nem jó -- de a slip-box igen!
+    Plusz pozitívum: a jegyzeteink rendszeres átnézésével elkerülhetjük azt is, hogy mindig csak a legfrissebb infók dominálják a gondolkodásunkat.
+    Lehet, hogy egy adott helyzetben valami más sokkal relevánsabb lenne, mint ami épp a gyorsítótárunkban van, csak arra már *annyira* nem emlékszünk, hogy még csak nem is hiányoljuk.
+
+- Alakítsunk ki egy gondolkodási eszköztárat!
+Ha eléggé el-absztraktálunk, elkezdünk majd mindenben ismétlődő mintákat látni.
+És pont ezek fognak segíteni az eddig ismeretlen helyzetek megoldásában is -- mert beugorhat egy látszólag más, de "szerkezetileg" mégis nagyon hasonló helyzet, amire pont tudunk egy kiválóan illeszkedő megoldást.
+Kicsit átfogalmazva a szerző szavait: nem az az igazán bölcs ember, aki mindent tud, hanem aki a kiterjedt értelmezési sémái segítségével azt is képes felfogni, amit addig nem tudott.
+És megjegyezzük, hogy a slip-box karbantartása alatt pont ezt a folyamatot segítjük.
+Az ottani kapcsolatok kialakításával a fejünkben is összekapcsoljuk az elemeket, és ezáltal kéz-a-kézben fejlődhetünk a jegyzeteinkkel.
+
+- Tegyünk fel jó kérdéseket!
+Mindig gondoljunk például arra, hogy mi **nincs** épp a képben?
+Mit nem veszünk épp figyelembe?
+Az is sokat elmondhat, hogy egy érvelés miről nem ír.
+
+    Gondoljunk továbbá arra is hogy egyáltalán milyen jellegű válaszra számíthatunk egy adott kérdésre -- és hogy az nekünk kielégítő lesz-e?
+    Sokszor egy probléma megoldása már létezik, csak úgy kellene megfogalmazni magát a problémát, hogy látszódjon a kapcsolatuk.
+
+- Fogadjuk örömmel a megkötéseket, mert azok szülik a kreativitást!
+Maga a slip-box-os módszer követése ugye egy csomó lehetőséget kivesz a kezünkből -- ami nem baj, mert így nem a lehetőségeink közti tévelygésre, hanem a valós munkára koncentrálhatunk.
+Javasoljuk ezért, hogy maradjunk szűkszavúak a jegyzeteinkben, még ha nem is papíron csináljuk (jó digitális ökölszabály, hogy minden jegyzetünk férjen egy képernyőre, és soha ne kelljen görgetni).
 
 <br>
 
@@ -452,31 +382,43 @@ Pedig valójában az meg csak szokás kérdése.
 
 #### <a name="megosztas"></a>Osszuk meg a meglátásainkat
 
-- hagyjunk fel a brainstorming-gal
-    - az ötlet generálás és a váratlan kapcsolatok felfedezése továbbra is cél, csak ezt nem érdemes az agyunkra bízni, mert abban legtöbbször úgyis csak a legutóbb olvasottak molyolnak
-    - és attól nem lesz jobb egy téma, hogy frissebben hallottunk róla!
-    - az ötletek generálására (is) való a slip-box -- ahol felgyűltek a szálak, az
-        - látjuk, hogy érdekel minket
-        - van is hozzá bőven elég anyag
-        - evolúciós módon kivált a középszerűbb ötletek közül
-    - a hónapok/évek alatt úgyis jobb ötleteket fogunk generálni, mint ott helyben pár perc alatt
-    - a végleges jegyzetekkel pont azt döntjük el, hogy miről érdemes írni -- szóval ha írni akarunk, akkor ezen már nem kell gondolkodni, mert menet közben a folyamatból ez csak úgy kipottyan
-- ne fentről fúrjunk lefelé, építkezzünk inkább lentről felfelé
-    - kb. amiről eddig is szó volt...
-    - illetve: az "ismerni kell a szabályokat, hogy aztán megszeghessük őket" elve alapján, addig nem fogunk tudni igazán "újat"/jelentőset alkotni, amíg nem ismerjük elég részletesen a területet és az eddigi eredményeket
-        - lehet, hogy azt HISSZÜK majd, hogy valami újra bukkantunk -- egészen addig, amíg ki nem derül, hogy a jelenségnek konkrétan neve is van
-- kövessük az érdeklődésünket
-    - ha elég flexibilisen állítjuk be a munkát, akkor erőfeszítésmentesen tartható fent a motiváció, mert mindig olyat fogunk csinálni, amit csinálni is szeretnénk
-    - a slip-box-ban amúgy is annyi dolog csírája lesz jelen egy adott pillanatban -- és tetszőleges projektünknek lesznek olyan "melléktermékei", amik oda nem illettek, de egy későbbi témánál hasznosak lehetnek -- szóval gyakorlatilag így-is úgy-is mondható, hogy egyszerre több szállal foglalkozunk
-        - ezek közül pedig akkor miért ne azt a szálat vinnénk, amihez épp kedvünk van, vagy ami mintha épp "magától menne"?
-- innen pedig már "csak" fejezzük be az aktuális projektet és fussunk egy korrektúra kört
-    - tegyük mindezt abban a felszabadító tudatban, hogy a munka lényegi része már kész
-    - most már mindössze lineáris formába kell öntenünk -- a slip-boxos, pókhálószerű kapcsolatokból úgymond vissza-linearizáljuk a mondanivalónkat
-    - de itt is először legyen mit korrektúrázni, és csak AZTÁN a korrektúra!
-        - tudatosan győzzük meg magunkat, hogy csak vázlatot írunk, és akkor hátha nem törekszünk majd annyira a tökéletességre
-    - a korrektúránál pedig kegyetlenül vágjunk ki mindent, ami nem tartozik oda
-        - ha kell, helyezzük a mondatokat/bekezdéseket egy "maradék" dokumentumba, ahonnan később használhatóak
-        - persze nem fogjuk használni őket, de ez segít majd megnyugtatni a lelkiismeretünket :)
+- Hagyjunk fel a brainstorming-gal!
+Az ötlet generálás és a váratlan kapcsolatok felfedezése persze továbbra is cél -- csak ezt nem érdemes az agyunkra bízni, mert abban legtöbbször úgyis csak a legutóbb olvasottak molyolnak.
+És attól nem lesz jobb egy téma, hogy frissebben hallottunk róla!
+A hónapok/évek alatt úgyis jobb ötleteket fogunk generálni, mint ott helyben pár perc alatt.
+
+    A slip-box az ötletek generálására (is) való -- ahol felgyűltek a szálak, ott A) látjuk, hogy érdekel minket a téma, B) eleve van is hozzá bőven anyag, és C) az evolúció is megerősíti, hogy ez a terület kiemelkedett a középszerűbb ötletek közül.
+    Hiszen a végleges jegyzetekkel pont azt döntjük el, hogy miről érdemes írni, nem?
+    Szóval ha írni akarunk, akkor a "miről" kérdésen már nem nagyon kell gondolkodni.
+    Ez csak úgy kipottyan a folyamatból menet közben.
+
+- Ne fentről fúrjunk lefelé, építkezzünk inkább lentről felfelé!
+A legtöbb kutatási/írási ajánlás azt mondja (valamilyen formában), hogy 1) válassz egy témát, 2) tervezd meg a kutatást, 3) kutakodj, és 4) írj róla.
+De még ezek az útmutatók is elismerik, hogy ez egy eléggé lineáris, és ezért életszerűtlenül optimista hozzáállás.
+A témaválasztáshoz és a kérdésfelvetéshez már eleve kellett sokat olvasni -- és hogy mit olvasunk, az is a korábbi olvasmányainkon, ismereteinken, és érdeklődési körünkön múlik, nem?
+
+    Sokkal logikusabb tehát, ha az agyunkon kívül, fokozatosan építgetjük a gondolatainkat, amikre az érdeklődésünk követésével természetes módon fogunk rátalálni.
+    És ilyenkor nem csak hogy maguktól, erőltetés nélkül bukkannak majd fel az érdekes témák, de a tetejébe már egy csomó előzetes kutatással is rendelkezni fogunk a kifejtésükhöz.
+    Soha többé nem indulunk majd "üres lappal"!
+
+    > Az üres lap -- vagy manapság: az üres képernyő -- egy alapvető félreértés.
+    >
+    > -- Armin Nassehi
+    > > The white sheet of paper -- or today: the blank screen -- is a fundamental misunderstanding.
+   
+    Mellesleg az sem "tiszta lappal" indul, aki azt hiszi -- elvégre ő is csak olyan információkra támaszkodhat, amikkel már találkozott korábban valahol.
+    Csak ő ezekről nem készített visszakövethető feljegyzést, ezért nehezebb dolga lesz...
+
+- Kövessük az érdeklődésünket!
+Ha elég flexibilisen állítjuk be a munkát, akkor erőfeszítésmentesen tartható fent a motiváció, mert mindig olyat fogunk csinálni, amit csinálni is szeretnénk.
+A slip-box-ban amúgy is annyi dolog csírája lesz jelen egy adott pillanatban -- és annyi projektünknek lesznek olyan "melléktermékei", amik oda épp nem illettek, de egy későbbi témánál hasznosak lehetnek -- szóval gyakorlatilag így-is úgy-is mondható, hogy egyszerre több szállal foglalkozunk.
+Ezek közül pedig akkor miért ne azt a szálat vinnénk, amihez pillanatnyilag kedvünk van és ami mintha "magától menne"?
+
+- Innentől pedig már "csak" fejezzük be az aktuális projektet és fussunk egy/két korrektúra kört!
+Tegyük mindezt abban a felszabadító tudatban, hogy a munka lényegi része már kész.
+Itt mindössze lineáris formába kell öntenünk -- a slip-boxos, pókhálószerű kapcsolatokból úgymond vissza-linearizáljuk a mondanivalónkat.
+De itt is figyeljünk, hogy először legyen mit korrektúrázni, és csak **aztán** a korrektúra!
+Ha kell, tudatosan győzzük meg magunkat, hogy most csak vázlatot írunk, és akkor hátha nem törekszünk majd annyira a tökéletességre.
 
 <br>
 
@@ -490,7 +432,8 @@ Pedig valójában az meg csak szokás kérdése.
 
 #### <a name="szokas"></a>Legyen belőle szokás
 
-- lásd James Clear
+Időbe telik, mire egy slip-box jegyzetei elérik azt a bizonyos "kritikus tömeget", ahonnan kezdve igazi ötletgyárként működhetnek -- vagyis ez az egész csak akkor fog működni, ha a jegyzetelés egy teljesen természetes, automatikus szokásunkká válik.
+De tekintve, hogy ez a poszt már így is eléggé kisregény szeretne lenni, itt csak egyszerűen annyit mondanék: lásd [James Clear]({% post_url 2021-01-09-james-clear-atomi-szokasok %})!
 
 <br>
 
@@ -531,11 +474,11 @@ Ez teszi lehetővé, hogy túlszárnyaljuk a saját agyunk határait.
 És ha elég ideig csináljuk, akkor túl is fogjuk.
 
 Összeér a mondanivaló továbbá egy csomó korábbi anyag tanulságával is.
-Elvégre lebontjuk tiszta, érthető részfeladatokra a dolgainkat, és ezeket olyan rendszerbe szervezzük, amiben utána megbízhatunk -- ez pedig tehermentesíti az agyunkat, hogy aztán a tényleg kreatív háttérdolgokkal foglalkozhasson a sallang helyett ([GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %})).
+Elvégre lebontjuk tiszta, érthető részfeladatokra a munkát, és ezeket olyan rendszerbe szervezzük, amiben utána megbízhatunk -- ez pedig tehermentesíti az agyunkat, hogy aztán tényleg kreatív tennivalókkal foglalkozhasson a sallang helyett ([GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %})).
 A részfeladatok miatt könnyebben tehetjük meg, hogy egyszerre csak egy dologra figyelünk, amibe akkor viszont mélyen belemerülhetünk ([Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %})).
 A jól körülhatárolt elvárások és a mérhető haladás miatti visszacsatolás épp a [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %}) élményt segítik elő.
 Sőt, még a [Make It Stick]({% post_url 2021-03-06-peter-c-brown-make-it-stick %})-ből is szinte mindenre pipa, ha Luhmann-osan rendezkedünk be.
 
 A slip-box tehát gyakorlatilag észrevétlenül is "rákényszerít", hogy pont a (kutatásokkal alátámasztottan) leghatékonyabb tanulási, gondolkodási és produktivitási stratégiákat alkalmazzuk.
 Örömmel konstatálom továbbá, hogy az eddigi írási folyamatom során magamtól is belebotlottam egy csomó itt emlegetett alapelvbe -- még ha nem is teljesen szándékosan.
-De ezek után viszont már semmi akadálya, hogy szándékosan fejleszthessem tovább.
+Ezek után viszont már semmi akadálya, hogy ezen a téren is szándékosan fejlődhessek tovább.
