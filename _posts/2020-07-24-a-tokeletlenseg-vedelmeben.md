@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A tökéletlenség védelmében...
+tags: [szösszenet]
 date: 2020-07-24 00:01
 excerpt: >
     ...avagy hogy falazok magamnak egy hét "szabit".

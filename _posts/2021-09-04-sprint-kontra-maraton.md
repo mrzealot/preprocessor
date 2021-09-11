@@ -2,6 +2,7 @@
 layout: post
 title: Sprint kontra maraton
 cover: turtlehare
+tags: [szösszenet]
 date: 2021-09-04 00:01
 excerpt: >
     Ez a poszt csak egy "bejelentés", hogy mostantól határozatlan ideig két hetente lesz csak új könyv a blogon -- a köztes heteken pedig valami kis rövid bölcsesség-bonbonnal fogok készülni.
