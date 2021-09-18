@@ -34,7 +34,7 @@ Ez pedig sajnos azzal jár, hogy amikor ő kanyarodik, akkor ott külön, dedik�
 - Csavarni kell a kormányt,
 - Nyomni kell a pedálokat,
 - Használni kell a váltót,
-- Használni kell az indexet,
+- Ki kell tenni az indexet,
 - Figyelni kell a zebrát, stb...
 
 Neki ezek a megfontolások még nem süllyedtek le arra az automatikus szintre, mint nekem tizen-X év tapasztalat után.
