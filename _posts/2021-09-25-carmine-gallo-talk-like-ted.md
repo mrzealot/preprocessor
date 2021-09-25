@@ -26,7 +26,7 @@ Persze ahány előadó, annyiféle prezentációs stílus, de legtöbbjükben m�
 
 Az emlegetett kilenc tipp a következő:
 
-1. [Merjünk szenvedélyesnek látszani](#1)
+1. [Merjünk szenvedélyesnek lenni](#1)
 1. [Tanuljuk meg a történetmesélés művészetét](#2)
 1. [Érződjön olyannak, mint egy beszélgetés](#3)
 1. [Tanítson valami újat](#4)
@@ -54,7 +54,7 @@ Az emlegetett kilenc tipp a következő:
 
 
 
-## <a name="1"></a>Merjünk szenvedélyesnek lenni
+## <a name="1"></a>1. Merjünk szenvedélyesnek lenni
 
 Találjuk meg, hogy nekünk miért annyira fontos a téma, amiről beszélünk, és aztán abba hajoljunk bele rendesen -- mind hangulatilag, mint a motivációnk magyarázataként.
 A közönséget is akkor fogja igazán érdekelni a mondókánk, ha:
@@ -71,7 +71,7 @@ De ha szinte önzetlenül, jó szándékból, tanító és segítő célzattal m
 
 Akinek ehhez objektívebb meggyőzésre van szüksége: a látszólagos szenvedélyesség kérdőíves kutatások alapján kimutathatóan fontos szerepet játszott start-up ötletek befektetési döntéseinél.
 Egy másik kutatás alapján pedig a magas és alacsony karizma osztályba sorolt embereknél megfigyelhető, hogy a karizmatikusak akár egy szó nélkül is tudják befolyásolni az alacsony karizmájúak hangulatát.
-Vagyis a testtartásunkon és a gesztusainkon keresztül tényleg "sugárzik rólunk", amit éreznek.
+Vagyis a testtartásunkon és a gesztusainkon keresztül tényleg "sugárzik rólunk", amit érzünk.
 
 Mindenki csak mondogatja, hogy "csináld, amit szeretsz", de aztán a legtöbben valahogy mégsem tesznek így.
 És ez nagy hiba, mert pont ezért nem is fognak sikereket elérni -- egyszerűen látszani fog, hogy nem szeretik (eléggé?), amit csinálnak.
@@ -88,10 +88,10 @@ Karrier vonatkozásban lásd még [Simon Sinek]({% post_url 2021-03-20-simon-sin
 
 
 
-## <a name="2"></a>Tanuljuk meg a történetmesélés művészetét
+## <a name="2"></a>2. Tanuljuk meg a történetmesélés művészetét
 
 Történeteken keresztül érhetjük el a hallgatóság szívét -- és az elméjüket is akkor leszünk csak képesek elérni, ha a szívük már megvolt!
-Jó esetben ugyanis valami olyat próbálunk elmondni nekik, ami új (lásd lentebb), és amiről meg kell győznünk őket (vagyis alapból nincsenek meggyőzve).
+Jó esetben ugyanis valami olyat próbálunk nekik elmondni, ami új (lásd lentebb), és amiről meg kell győznünk őket (vagyis alapból nincsenek meggyőzve).
 Viszont ha azt szeretnénk, hogy magukra ismerjenek a mondanivalónkban, akkor biztosítanunk kell valamiféle kapcsolódási pontot.
 
 > Egy történet csak olyan adat, aminek lelke van.
@@ -99,11 +99,11 @@ Viszont ha azt szeretnénk, hogy magukra ismerjenek a mondanivalónkban, akkor b
 > -- Brené Brown
 > > Stories are just data with a soul.
 
-Kicsit olyan ez, mint a Socrates-i vitamódszer: vezessük végig a közönséget az úton, ahol ők is maguktól eljuthatnak a következtetésünkig -- ne csak azt várjuk, hogy higgyenek nekünk a két szép szemünkért.
+Kicsit olyan ez, mint a Socrates-i vitamódszer: vezessük végig a közönséget az úton, amin ők is maguktól eljuthatnak a következtetésünkig -- ne csak azt várjuk, hogy higgyenek nekünk a két szép szemünkért.
 Egy magával ragadó narratíva a legjobb mód, hogy "ledöntsük a falakat".
 Ez pedig különösen fontos, ha a közvélemény nem üres lappal indul, hanem már eleve **nem** a mi szemszögünkből látja a dolgokat.
 
-További görög bölcsességgel élve: egy érvelés akkor lesz meggyőző, ha egyszerre van benne jelen az ethos (szavahihetőség/háttér), a logos (logika), és a pathos (az érzelmekre kifejlett hatás).
+További ókori bölcsességgel élve: egy érvelés akkor lesz meggyőző, ha egyszerre van benne jelen az **ethos** (szavahihetőség/háttér), a **logos** (logika), és a **pathos** (az érzelmekre kifejlett hatás).
 Gallo pedig ebből a szemszögből is elemezte az adatokat, és (talán kissé meglepő módon) a legmeggyőzőbb prezentációkban több a pathos, mint a másik kettő együtt!
 Vagyis hiába áll "Prof. Dr." a nevünk előtt (ethos), és hiába van egy csomó nyers statisztika és érv a mi oldalunkon (logos), az érzelmi hatás nélkül nem fog átmenni az üzenet.
 
@@ -122,10 +122,10 @@ Szóval semmiképp ne hagyjuk ki a személyes történeteket, a másokkal megese
 
 
 
-## <a name="3"></a>Legyen olyan, mint egy beszélgetés
+## <a name="3"></a>3. Érződjön olyannak, mint egy beszélgetés
 
 Gyakoroljunk addig, amíg a mondanivalónk olyan lazán és természetesen hangzik, mintha épp csak egy barátunkkal beszélgetnénk.
-Ha a hangsúlyunk/testbeszédünk/mimikánk nem illeszkedik jól az üzenetünkhöz, akkor nem is fognak megbízni benne.
+Ha a hangsúlyunk, a testbeszédünk vagy a mimikánk nem illeszkedik jól az üzenetünkhöz, akkor nem is fognak megbízni benne.
 
 És kiemelnénk: az "autentikus" messze nem ugyanaz, mint a "természetes".
 Ha csak természetesek akarnánk lenni, akkor beszélhetnénk "csak úgy", gyakorlás nélkül is, nem?
@@ -139,8 +139,8 @@ Illetve használjunk az üzenethez illeszkedő hangsúlyt és hangerőt -- igaz�
 
 Figyeljünk továbbá a testbeszédre.
 Érzékeltetésként: emberi hazugságvizsgálatos tesztek során a testbeszéd többet számított a hazugságok megállapításánál, mint hogy egyáltalán hallják-e, amit az alany mond.
-Támaszkodjunk arra, hogy a testbeszédünk és a hangulatunk közti kapcsolat oda-vissza működik.
-Hormonszintek mérésével igazolt, hogy "csináljunk úgy, mintha magabiztosak lennénk, és attól majd magabiztosabbak leszünk".
+Támaszkodjunk arra, hogy a testbeszédünk és a hangulatunk közti kapcsolat oda-vissza létezik.
+Hormonszintek mérésével igazoltan működhet, hogy "csináljunk úgy, mintha magabiztosak lennénk, és attól majd magabiztosabbak leszünk".
 Szóval húzzuk ki magunkat, legyen szemkontaktus (képzeljünk egy kicsit [extrovertáltnak]({% post_url 2020-11-07-susan-cain-csend %}) magunkat akkor is, ha nem vagyunk azok), és merjünk kézmozdulatokat használni -- nem erőltetve, de ami jön azt bátran.
 
 A leghasznosabb tipp ezen a területen: nézzük vissza magunkat videón.
@@ -158,15 +158,15 @@ Viszont ha egyszer tisztába kerülünk a javítanivalókkal, onnantól a javít
 
 
 
-## <a name="4"></a>Tanítson valami újat
+## <a name="4"></a>4. Tanítson valami újat
 
 Egy jó prezentáció magja az új információ -- vagy valami régi információ egy teljesen új szemszögből.
 Mindkettő új ötletekhez és meglátásokhoz vezethet.
 A lényeg, hogy ki tudjuk billenteni a hallgatóságot az eddigi világképéből egy kicsit, ami miatt aztán megmarad nekik, amit hallottak.
-A klisék használata sem azért rossz, mert nem igazak, hanem mert már annyiszor hallottuk pont ugyanazt az információt pont ugyanolyan formában, hogy egyszerűen **így** már nem jelent semmit.
+A klisék használata sem azért rossz, mert nem igazak, hanem mert már annyiszor hallottuk pont ugyanazt az információt pont ugyanolyan formában, hogy egyszerűen **így** már nem jelentenek semmit.
 
 Általában ez az újdonság lesz majd az az egy "tanulság", amit szeretnénk, ha vissza tudnának idézni.
-Ezért fontos, hogy előtte minél jobban letisztítsunk magunkban -- például a "twitter teszt" segítségével, ahol megnézzük, hogy 140 karakterbe beleférne-e egy nagyon tömör összefoglaló.
+Ezért fontos, hogy előtte minél jobban letisztítsuk magunkban -- például a "twitter teszt" segítségével, ahol megnézzük, hogy 140 karakterbe beleférne-e egy nagyon tömör összefoglaló.
 
 A dopamin (vagyis kb. az "öröm hormon") is jelentős szerepet játszik abban, hogy valami megmarad-e.
 És lássunk csodát, az is dopamint termel az agyunkban, ha valami újat és érdekeset tanulunk.
@@ -185,7 +185,7 @@ Szóval ha azt akarjuk, hogy a prezentációnk megmaradjon, tanítsunk általa v
 
 
 
-### <a name="5"></a>Essen le az álluk
+### <a name="5"></a>5. Essen le az álluk
 
 Ha tehetjük, vegyünk az előadásunkba valami meglepőt vagy sokkolót -- valamit, amire aztán tényleg nem számítottak.
 Ezzel olyan "érzelmi töltöttségű emlékeket" generálhatunk a hallgatóságban, amire később akár a prezentáció többi részétől függetlenül is könnyű lesz emlékezniük.
@@ -209,9 +209,9 @@ Több módon is elérhetünk egy ilyen "wow"-pillanatot; a szerző a következő
 
 
 
-## <a name="6"></a>Ne felejtsük ki a humort
+## <a name="6"></a>6. Ne felejtsük ki a humort
 
-Ne vegyünk túl komolyan se magunkat se a témánkat, és bátran használjunk humort a prezentációnkban.
+Ne vegyük túl komolyan se magunkat, se a témánkat, és bátran használjunk humort a prezentációnkban.
 Nevetéssel úgymond "felpuhíthatjuk" a közönséget az üzenetünk befogadására.
 Másrészt magunkat is jobban megkedveltethetjük, ami miatt megint csak szívesebben hallgatnak majd ránk.
 
@@ -233,7 +233,7 @@ Konkrét viccek helyett építsünk be:
 - Videókat, amikben valaki más(ok) vicces(ek); illetve
 - Vicces képeket vagy illusztrációkat a diákon.
 
-De még ha ezeket is használnánk, soha ne erőltessük a humort.
+De még ha ezekre is korlátoznánk magunkat: soha ne erőltessük a humort.
 Ne mondjuk olyat, amit amúgy nem mondanánk csak azért, hogy nevessenek.
 Mindössze igyekezzünk megtalálni a természetesen előforduló humort a mondanivalónkban -- és ezt mutassuk is meg, a közönség örömére.
 
@@ -253,14 +253,14 @@ Mindössze igyekezzünk megtalálni a természetesen előforduló humort a monda
 
 
 
-## <a name="7"></a>Tartsuk magunkat a 18 perces szabályhoz
+## <a name="7"></a>7. Tartsuk magunkat a 18 perces szabályhoz
 
 A TED szabályok szerint egy prezentáció maximum 18 perc.
 És habár ez elsőre kevésnek hangozhat, tetszőleges téma beleférhet 18 percbe, ha eléggé megfontoljuk, hogy igazából mit is akarunk mondani.
 Pont ez a ránk kényszerített megfontolás az, ami kikristályosítja a mondanivalónk lényegét, és tömören tárja a hallgatóság elé.
 Persze a "lényeg" akkor is benne lenne, ha egy órát pofáznánk, csak akkor sokkal hígabban, unalmasabban, és addig már amúgy sem tudnánk fenntartani az érdeklődést.
 
-Mint ahogy az okos jegyzetelésnél is megállapítottuk: a kreativitás épp a korlátozások közt virágzik.
+Mint ahogy az [okos jegyzetelésnél]({% post_url 2021-09-11-sonke-ahrens-hogyan-jegyzeteljunk-okosan %}) is megállapítottuk: a kreativitás épp a korlátozások közt virágzik.
 Amint elengedjük, hogy "nem lehet", és elkezdünk úgy gondolkodni róla, hogy "hogyan lehetne", valahogy egyből beindulnak majd a tekervények -- és a végeredmény cserébe sokkal fogyaszthatóbb lesz a közönség számára.
 Gallo szavaival:
 
@@ -268,12 +268,12 @@ Gallo szavaival:
 > > What isn't there makes what is there even stronger!
 
 Másrészt vegyük figyelembe, hogy a szorongás nem csak az előadóban van jelen.
-Ha feltesszük, hogy valaki tényleg figyelni akar, akkor az újonnan elhangzottakkal egyre csak nő az a mentális teher, amire emlékeznie kell a teljes megértéshez.
-És ha ebben túlmegyünk egy határon, akkor inkább eldobja majd az egészet -- kb. túlfeszítjük a húrt, amit nagyon szeretnénk elkerülni.
+Ha feltesszük, hogy valaki tényleg figyelni akar, akkor számára az újonnan elhangzottakkal egyre csak nő az a mentális teher, amire emlékeznie kell a teljes megértéshez.
+És ha ebben túlmegyünk egy határon, akkor inkább eldobja majd az egészet -- kb. túlfeszítjük nála a húrt, amit ugye nagyon szeretnénk elkerülni.
 
 Gyakorlati tapasztalatok alapján a 18 perc mondható az arany középútnak.
 Rövidebbre nem kell összetolni, mert ennyi még relatíve kényelmesen belefér a hallgatóság memóriájába, de ha hosszabbra hagyjuk, akkor már kellenének bele szünetek vagy fellélegzős *szünet-szerűségek* (kép, videó, demonstráció, valami).
-De még szünetekkel együtt is megfontolandó, hogy megéri-e, mert az folyamatosan gyülemlő mentális teher miatt mindenképp egyre nehézkesebb lesz.
+De még szünetekkel együtt is megfontolandó, hogy megéri-e húzni, mert a folyamatosan gyülemlő mentális teher miatt úgyis egyre nehézkesebb lesz.
 
 > Ha egyszerűen nem tudod elmagyarázni, akkor te sem érted eléggé.
 > 
@@ -292,10 +292,10 @@ De még szünetekkel együtt is megfontolandó, hogy megéri-e, mert az folyamat
 
 
 
-## <a name="8"></a>Aktiváljunk az érzékeket
+## <a name="8"></a>8. Aktiváljunk az érzékeket
 
 Semmiképp ne csak nyers, száraz szövegre hagyatkozzunk a diáinkon.
-Sőt, jó esetben ne is kizárólag képekkel próbáljuk kiváltani, hanem akár hangokkal, szagokkal, ízekkel, tapintani valókkal -- vagy legalábbis ezek megidézésével
+Sőt, jó esetben ne is kizárólag képekkel próbáljuk kiváltani a kisregényeket, hanem akár hangokkal, szagokkal, ízekkel és tapintani valókkal -- vagy legalábbis ezek megidézésével.
 Minél több érzékhez tudjuk kapcsolni a mentális képeinket, annál jobban megmaradnak majd.
 
 Felejtsük el a hagyományos "Powerpoint betegséget", ahol minden dia egy címből plusz egy felsorolásnyi bekezdésből áll, csupa szöveggel.
@@ -324,7 +324,7 @@ Ez, a hangunkkal, a kellékeinkkel, és a mentális jeleneteinkkel karöltve, se
 
 
 
-## <a name="9"></a>Maradjunk autentikusak
+## <a name="9"></a>9. Maradjunk autentikusak
 
 Ne akarjunk olyannak mutatni magunkat, amilyenek nem vagyunk!
 Az eddigiek arra valók, hogy *kihozzák* belőlünk, ami bennünk van, és azt a legjobban át is adják a hallgatóságnak; nem pedig arra, hogy hihetőbben színészkedjünk vagy hatásosabban manipuláljunk -- amit mellesleg nagy valószínűséggel úgyis ki fognak szagolni.
@@ -355,13 +355,13 @@ Használjuk hát őket az igazi önmagunk kifejezésére, és meglesz az eredmé
 Gallo stílusának sokszor van "siker-könyv" szaga, de attól szerencsére nem lesz kevésbé hasznos -- vagy fontos -- amiről beszél.
 Az ötleteink tisztább és hatásosabb kinyilvánítása a mai világban gyakorlatilag mindenki számára egy elengedhetetlen készség.
 Csak amikor ő pénzről vagy hírnévről beszél, mi szerintem igyekezzünk inkább egy teljesen hétköznapi kommunikációs szituációt odaképzelni.
-Vagy persze a nagy, tömegeket megmozgató pillanatokat is elképzelhetjük non-profit, társadalmat "megváltó" jelleggel.
+Vagy persze a nagy, tömegeket megmozgató pillanatokat is vizualizálhatjuk non-profit, társadalmat "megváltó" színekben.
 A lényeg, hogy ha képesek vagyunk elvenni a mondanivaló tradicionálisan *"amerikai siker"* élét, akkor hasznos infókat találhatunk.
 
 Amennyire nem tetszik a "siker" szemlélet, annyira pozitív viszont a szerző újságírói hozzáállása.
 Mindig van sztori!
 Olyan nincs, hogy nincs; csak megfelelő szemmel kell nézni az eseményeket -- ebből a szempontból [Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %})-re emlékeztet.
 
-A végére pedig belefért egy kis [növekedési szemléletmód]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %}) emlékeztető is: a nyilvános beszéd is "csak egy készség", ami ugyanúgy fejleszthető, mint bármi.
+A végére pedig visszhangoznám a könyv [növekedési szemléletmód]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %}) emlékeztetőjét: a nyilvános beszéd is "csak egy készség", ami ugyanúgy fejleszthető, mint bármi más.
 Nincs olyan, hogy "nekem ez nem megy" -- legfeljebb olyan, hogy "nekem ez **alapból** nem nagyon megy", de innen aztán fejleszthetem.
 A fenti szempontok segítségével pedig remélem még hatékonyabban megy majd az a fejlesztés.
