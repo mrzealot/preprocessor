@@ -30,7 +30,7 @@ Ilyen erős az, ha valaki ([Carol Dweck]({% post_url 2021-01-16-carol-s-dweck-sz
 És hogy hogy jön ide a távirányítók javítása?
 Jogos a kérdés.
 Pár héttel ezelőtt kilátogattam vidékre anyumhoz, aki egyetlen kisfia iránt érzett szeretetének tudtomra adása után rögtön a lényegre tért: nem működik a TV távirányítója, és hát de jó is, hogy itt vagyok, mert majd én biztos meg tudom csinálni. 
-Első reakcióm zsigerből az volt, hogy ugyan hogy tudnám már pont én megcsinálni?
+Első reakcióm zsigerből az volt, hogy ugyan hogy tudnám már pont én megjavítani?
 Még jó, hogy nem tettem hozzá, hogy "elvégre intellektuálisnak neveltél"!
 
 De aztán csak elkezdett bennem mocorogni, hogy nem túl bölcs ehhez kapásból így hozzáállni.
@@ -50,10 +50,10 @@ Ezt bizony forrasztani kellene -- amit, bevallom, a növekedési szemléletem bo
 Igen ám, csak most nincs itt semmi szerszámom.
 De hát mi is a forrasztás?
 Forró fém rúddal ónt olvasztunk, ami aztán megszilárdulva kötést ad két áramköri pont között.
-Itt meg már alapból van ón a kötésen, szóval mindössze egy forró fém rúd kellene.
+Itt meg már alapból van ón a kötésen, szóval mindössze egy forró fém rúd kellene egy kis újraolvasztásos *igazításhoz*.
 
 Nagypapa régi kamrájából csavarhúzó behozatala: 2 perc.
-Gáztűzhely felett felforrósítás: 4 perc.
+Gáztűzhely felett felforrósítás: még 2 perc.
 Elem áramkörének javítása: 1 mozdulat.
 Összerakom, elemet bele, működik.
 A hamisítatlan [MacGyver](https://hu.wikipedia.org/wiki/MacGyver){:target="_blank"} élmény megfizethetetlen.
@@ -61,7 +61,7 @@ A hamisítatlan [MacGyver](https://hu.wikipedia.org/wiki/MacGyver){:target="_bla
 <br>
 
 Utólag gondolkoztam csak el, hogy ez a mások szemében talán banálisnak tűnő sztori egy milyen hosszú és alapjaimban érintő személyiségfejlődés végeredménye.
-A kutatói cuccok, a billentyűzetes dolgaim, a rengeteg blogos olvasmány, és a tanultak nap mint nap magamba sulykolása kellett hozzá -- és még **így** is az volt kapásból a reakcióm, hogy "ugyan hogy tudnám megcsinálni?", mert olyan mélyre evődött a régi dogma.
+A kutatói cuccok, a billentyűzetes dolgaim, a rengeteg blogos olvasmány, és a tanultak nap mint nap magamba sulykolása kellettek hozzá -- és még **így** is az volt kapásból a reakcióm, hogy "ugyan hogy tudnám megcsinálni?", mert olyan mélyre evődött a régi dogma.
     
 De aztán szerencsére bekapcsolt az új programozás.
 Miért ne próbálnám legalább meg?
@@ -80,4 +80,4 @@ Szerintem látjátok a mintát...
 
 Szóval: nektek mi az, ami nem megy?
 Aztán, ami fontosabb: miért is gondoljátok, hogy nem menne?
-És ami talán a legfontosabb: biztos, hogy nem mehetne?
+És ami talán a legfontosabb: biztos, hogy egy kis próbálkozás után nem mehetne?
