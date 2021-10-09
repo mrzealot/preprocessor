@@ -375,75 +375,50 @@ Ha nem, akkor viszont feltétlen tartsunk szünetet, mert empátia nélkül úgy
 
 ## <a name="tippek"></a>Gyakorlati tippek
 
-- esettanulmányok
-    - munkahelyi és társasági szituációkban, mentális betegségek kezelésében, vagy akár veszélyhelyzetekben is segíthet az empatikus hallgatás
+A könyv (különösen a harmadik, bővített kiadás) az alapelvek ismertetésén felül egy csomó esettanulmányt, szituációs példát és konkrét alkalmazási tanácsot is tartalmaz.
+A példákat én most meghagyom a könyvnek, a gyakorlatiasabb tippekből viszont összeszedtem egy csokorra valót:
 
-## Kapcsolódás önmagunkhoz
+- **Kapcsolódás önmagunkhoz**:
+Habár a szégyen vagy az önutálat miatt is lehet "fejlődni", ez nem igazán fog egészséges gyökerekkel rendelkezni.
+Mint ugye már mondtuk, a kritika hatására hajlamosak vagyunk akkor is ellenállni ("csakazértis" módra), ha amúgy jogos lenne.
+Ezért olyan fontos, hogy ne kritizáljuk saját magunkat sem!
+Inkább kerüljünk tudatába annak a szükségletünknek, amit a "hibánk" által rosszul próbáltunk kielégíteni
+Ilyenkor nagy eséllyel az is gyorsan látszódni fog, hogy hogyan lehetne "jól" kielégíteni azt a bizonyos szükségletet.
 
-- ugyanígy, csak saját magunkra vonatkoztatva
-    - ugye a magunk hibáztatása is hibáztatás
-    - és habár a szégyen vagy az önutálat miatt is lehet "fejlődni", ez nem biztos, hogy egészséges gyökerekkel rendelkezik
-- mint már mondtuk, a kritika hatására hajlamosak vagyunk akkor is ellenállni (csakazértis módra), ha amúgy jogos lenne
-    - ezért olyan fontos, hogy ne kritizáljuk saját magunkat sem!
-    - "Avoid shoulding yourself!"
-- ne ítéljük el magunkat a hibáinkért -- inkább kerüljünk tudatába annak a szükségletünknek, amit a "hibánk" által rosszul próbáltunk kielégíteni
-    - ilyenkor nagy eséllyel az is gyorsan látszódni fog, hogy hogyan lehetne "jól" kielégíteni azt a bizonyos szükségletet
-    - have to --> choose to (get to?)
+- **A düh csak egy felszíni tünet**: 
+A dühöt nem elnyomni kell, hanem **teljesen** kifejezni, amire az agresszió (azon felül, hogy nem kívánatos) nem megfelelő.
+Eleve csak azért lehetünk dühösek, mert hibáztatunk (vagy mást, vagy magunkat).
+Helyette figyeljünk a saját szükségleteinkre, vagy próbáljuk kihámozni a másikét.
+A "dühös vagyok, mert ők..." jellegű gondolatok helyett próbálkozzunk "dühös vagyok, mert arra van szükségem, hogy..." jellegűekkel!
 
-## A düh teljes kifejezése
+- **A szükséglet nem egy konkrét stratégia**:
+Számtalan stratégia létezhet ugyanannak a szükségletnek a kielégítésére.
+És a köznyelvi értelmezésben vett "kompromisszum" is csak azért jár áldozatokkal, mert egy-egy konkrét stratégiából kell engednünk.
+Ha ehelyett tudnánk tisztán a szükségleteinket nézni, akkor azokhoz szinte garantált, hogy létezne olyan stratégia, ami maradéktalanul kielégítené mindenkiét.
 
-- az agresszió bármilyen formája már csak egy felszíni tünet
-    - a dühöt nem elnyomni kell, hanem **teljesen** kifejezni, amire az agresszió (azon felül, hogy nem kívánatos) nem megfelelő
-- ha a dühünket másra kenjük, azzal a szükségleteknél vett négy lehetőség közül a másodikat választjuk -- amivel nem járunk jól
-    - eleve csak azért lehetünk dühösek, MERT hibáztatunk (vagy mást, vagy magunkat)
-    - helyette figyeljünk a saját szükségleteinkre, vagy próbáljuk kihámozni a másikét
-    - "dühös vagyok, mert ők..." helyett "dühös vagyok, mert arra van szükségem, hogy..."!
-    - ez is csak címkézés
-        - például egy fél órás késést tekinthetünk idegesítőnek, ha nagyon be vagyunk táblázva, de fellélegzésnek is, ha pont egy kis szünetre lett volna szükségünk
-        - vagyis a düh sem attól van, hogy mások mit csinálnak, hanem hogy arra mi hogyan reagálunk a szükségleteink fényében
-- szóval düh esetén
-    1. álljunk meg egy lélegzetre
-    2. mérjük fel az ítélkező gondolatainkat
-    3. engedjük el őket, és fókuszáljunk inkább a szükségleteinkre (vagy a másik szükségleteire), és
-    4. fejezzük is ki azokat
+    > Minél több tapasztalatot gyűjtök a konfliktuskezelésben az évek során, és minél többször látom, hogy mik vezetnek a családi viszályokhoz és a nemzetek háborúihoz, annál biztosabb leszek benne, hogy ezeket a konfliktusokat egy kisiksolás is meg tudná oldani.
+    > > The more experience I have gained in mediating conflicts over the years and the more I’ve seen what leads families to argue and nations to go to war, the more convinced I am that most schoolchildren could solve these conflicts.
+    
+    Vagyis: ha egyszer tisztán kikristályosodnak a szükségletek, amit mindkét fél meg is ért (mert mondjuk nem érzi kritizálva magát, nincs ítélkezés, stb.), akkor onnantól a konkrét technikai megoldás már általában gyerekjáték.
 
-## Konfliktusok kezelése
+- **Oltalmazó kontra büntető erőszak**:
+Sajnos lehet olyan, hogy a másik fél erőszakossága miatt az erőszakmentesség nem csak rajtunk múlik.
+De ilyenkor is fontos különbséget tenni aközött, hogy oltalmazó vagy büntető szándékkal használunk-e agressziót.
+Az erőszakos cselekedetet hasznos mindig tudatlansági problémának tekinteni -- az elkövető nincs tisztában vele, hogy pontosan mik is a tettei következményei, vagy hogy a szükségleteit máshogy is ki lehetne elégíteni.
+Ilyenkor a válasz "erőszak" (ami legtöbbször csak aktív megakadályozás) nem büntető, hanem inkább *oktató* jellegű.
 
-- a lényeg: nem arra törekszünk, hogy a másik azt csinálja, amit mi akarunk
-    - olyan megoldásra törekszünk, amit mindketten szívesen csinálunk
-        - talán a "kompromisszum" annyira nem is jó szó, mert a hátterében ott van, hogy egyik oldalon sem teljes a megelégedettség, mert fel kellett adni valamit
-        - de ha pontosan tudatába kerülünk az érzéseinknek/szükségleteinknek, akkor észrevesszük majd, hogy van olyan megoldás, amihez *igazából* nem kell feladnunk semmit -- csak addig úgy tűnt, mert nem elég pontosan fogalmaztuk/értettük meg, hogy mit akarunk, és hogy a másik fél mit akar
-    - és a tetejébe: ÚGY törekszünk rá, ami már eleve a megcélzott értékrendszert tükrözi -- vagyis nem erőszakkal kényszerítjük ki a békét, hanem békésen (ha egyszer a béke a célunk)
-- az emberi, empatikus kapcsolatot kell felépíteni a két fél között, és onnantól a probléma legtöbbször megoldja saját magát
-- szükséglet != konkrét stratégia
-    - számtalan stratégia létezhet ugyanannak a szükségletnek a kielégítésére
-    - és a kompromisszum is csak azért jár "áldozatokkal", mert egy-egy konkrét stratégiából kell engednünk
-    - ha tudnánk tisztán a szükségleteinket nézni, akkor azokhoz szinte garantált, hogy létezik olyan stratégia, ami maradéktalanul kielégítené mindenkiét
-- "The more experience I have gained in mediating conflicts over the years and the more I’ve seen what leads families to argue and nations to go to war, the more convinced I am that most schoolchildren could solve these conflicts."
-    - vagyis: ha egyszer tisztán megvannak a szükségletek, amit mindkét fél meg is hall (mert mondjuk nem érzi kritizálva magát, nincs ítélkezés, stb.), akkor onnantól már gyerekjáték
+    Büntetéssel amúgy is inkább van esélyünk neheztelést, ellenállást és lázadást kiváltani, mint valódi megbánást és változást.
+    Lehet, hogy a másik oldalon azt csinálnák, amit akarunk, de nem **azért**, amiért akarnánk, hogy csinálják -- és ez egy fontos különbség!
 
-## Oltalmazó kontra büntető erőszak
 
-- sajnos az erőszakmentes megoldás két emberen múlik
-    - ezért lehetnek olyan szituációk, ahol nincs választásunk
-    - de ilyenkor is fontos különbséget tenni aközött, hogy oltalmazó vagy büntető szándékkal használunk-e agressziót
-- az erőszakos cselekedetet hasznos mindig tudatlansági problémának tekinteni
-    - az elkövető nincs tisztában vele, hogy pontosan mik is a tettei következményei, vagy hogy a szükségleteit máshogy is ki lehetne elégíteni
-    - ilyenkor a válasz "erőszak" (ami legtöbbször csak visszatartás) nem büntető, hanem oktató jellegű
-- büntetéssel amúgy is inkább van esélyünk neheztelést, ellenállást és lázadást kiváltani, mint valódi megbánást és változást
-    - lehet, hogy azt csinálnák, amit akarunk, de nem **azért**, amiért akarnánk, hogy csinálják -- és ez egy fontos különbség!
+- **A dicséret megfogalmazása sem mindegy**:
+Furán hangozhat, de ha nem vigyázunk, akkor a pozitív mondanivalónkat is kifejezhetjük szükségtelenül negatív módon.
+Például ha ítéletet csinálunk belőle -- hiába pozitív, ha azt sugallom vele, hogy nekem jogom van megítélni a másikat, és a tettei/szavai helyességét.
+Helyette inkább (igazi NCV módra) fejezzük ki, hogy 1) mit tett, 2) emiatt mit érzünk, és 3) ez milyen szükségletünket elégítette ki.
 
-## Magunk felszabadítása, és mások segítése
-
-## A nagyrabecsülés kifejezése NVC módon
-
-- furán hangozhat, de a pozitív mondanivalónkat is kifejezhetjük szükségtelenül negatív módon
-    - például ha ítéletet csinálunk belőle: hiába pozitív, ha azt sugallom vele, hogy nekem jogom van megítélni téged, és a tetteid/szavaid helyességét
-    - helyette inkább: "Saying “thank you” in NVC: “This is what you did; this is what I feel; this is the need of mine that was met.”
-- a dicséret fogadásánál pedig hasznos mentális modell, ha azt gondoljuk, hogy valami felsőbb hatalom biztosította számunkra a képességet, amivel rászolgálhattunk a dicséretre
-    - ezzel elkerülhetjük az ego csapdáját (hogy már pedig nekünk az kijár)
-    - és a hamis szerénykedés csapdáját is (amivel pedig lekicsinyelnénk)
-    - ezek helyett őszinte örömmel vehetünk részt valami jó megünneplésében
+    A dicséret fogadásánál pedig hasznos mentális modell, ha azt gondoljuk, hogy valami felsőbb hatalom biztosította számunkra a képességet, amivel rászolgálhattunk a dicséretre.
+    Ezzel elkerülhetjük az ego csapdáját (hogy már pedig nekünk az kijár), és a hamis szerénykedés csapdáját is (amivel pedig lekicsinyelnénk a helyzetet).
+    Ezek helyett őszinte örömmel vehetünk részt a másikkal együtt valami jó megünneplésében.
 
 <br>
 
@@ -464,17 +439,17 @@ Ha nem, akkor viszont feltétlen tartsunk szünetet, mert empátia nélkül úgy
 ## Összefoglalás
 
 A mondanivaló tömör összefoglalását maga Rosenberg is megteszi az egyik későbbi fejezet elején.
-Ennél jobbat én sem tudnék, úgyhogy álljon az itt:
+Ennél velősebben én sem tudnék fogalmazni, úgyhogy álljon itt az az idézet:
 
 > Megfigyelünk, azonosítjuk és kifejezzük az érzéseinket, összekapcsoljuk az érzéseinket a szükségleteinkkel, és végrehajtható kéréseket intézünk a másik félhez tiszta, konkrét, pozitív, tettekre utaló megfogalmazásban.
 > > Observing, identifying and expressing feelings, connecting feelings with needs, and making doable requests of another person using clear, concrete, positive action language.
 
 Tizenéves párkapcsolati távlatból abszolút meg tudom érteni, milyen nehéz lesz például egy vita során ellenállni az érzelmek sodrásának és a másik hibáztatása helyett csak magunkra koncentrálni.
-Még nehezebb talán a másik negatív megfogalmazásából az ő szükségleteit és a kéréseit kihallani megsértődés nélkül.
+Még nehezebb talán a másik negatív megfogalmazásából az ő szükségleteit és a kéréseit kihallani, megsértődés nélkül.
 De számát sem tudom már, hányszor csúszott vészesen félre egy lelkizésünk valami apró félreértés vagy egyéb "kommunikációs malőr" miatt.
-Szóval pont a tizenéves párkapcsolati távlat miatt vagyok biztos abban, hogy ez az erőszakmentes módszer a szükséges erőfeszítések ellenére is nagyon meg fogja érni.
+Szóval pont a tizenéves párkapcsolati távlat miatt vagyok biztos abban, hogy ez az erőszakmentes módszer a szükséges erőfeszítések ellenére is nagyon megéri.
 
-Emellett a könyvnek erős filozófiai és politikai vonzata is akad.
-A hierarchián alapuló, "kevesek uralkodnak a sokakon" jellegű társadalmakban szinte természetes, hogy a külső forrásból származó értékrendek és kényszerek nyelvezete a menő -- mert azzal lehet szolgasorban tartani a tömegeket.
-Hiszen aki tisztában van a saját érzéseivel, a szükségleteivel, és a felelősségével (és ezeket fel is meri vállalni), azt nem lehet irányítani.
+Emellett (kicsit meglepő módon) a könyvnek erős filozófiai és politikai vonzata is akad.
+A hierarchián alapuló, "kevesek uralkodnak a sokakon" jellegű társadalmakban szinte természetes, hogy a külső forrásból származó értékrendek és kényszerek nyelvezete a menő, mert azzal lehet szolgasorban tartani a tömegeket.
+Hiszen aki tisztában van az érzéseivel, a szükségleteivel, és a saját felelősségével -- és ezeket netán fel is meri vállalni -- azt onnantól nem lehet kívülről irányítani.
 Szóval ha a módszer kommunikáció-olajozó, empátia-elősegítő vonzata önmagában esetleg nem lenne elég, akkor már csak egyfajta politikai lázadásként is megéri megfontolni.
