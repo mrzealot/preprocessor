@@ -5,7 +5,8 @@ cover: keepright
 tags: [szösszenet]
 date: 2021-10-16 00:01
 excerpt: >
-    Egy vicces séta a parkban, ahol egy teljesen hétköznapi interperszonális "súrlódásra" végre tudatos gondolatokkal válaszoltunk az értelmetlen felfortyanás helyett...
+    A heti szösszenet egy vicces séta története a parkban, ahol egy teljesen hétköznapi interperszonális "súrlódásra" végre tudatos gondolatokkal válaszoltunk az értelmetlen felfortyanás helyett -- na jó, bevallom, a felfortyanás **után**.
+    De már ez is fejlődés!
 ---
 
 Pont két hete, hogy a feleségemmel kiruccantunk a ligetbe egy kellemes délutáni sétára.
