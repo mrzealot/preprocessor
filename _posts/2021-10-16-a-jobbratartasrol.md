@@ -19,8 +19,8 @@ A kb. 15 fokban felfelé fordított és enyhe felsőbbrendűséget sugárzó arc
 Miféle jobbratartás?
 
 Nem nagyon volt vonzóbb alternatíva, félre kellett lépnünk, amíg elhaladnak.
-Ebből a kemény 20 másodperces interakcióból aztán egy közel egy órás beszélgetés kerekedett, hogy ez tulajdonképpen minket miért is zavart minket ennyire.
-Mert az oké, hogy mi nem vagyunk agresszívak (velük ellentétben), de attól az asszertivitásunkhoz nem ragaszkodunk egy kicsit túlzottan?
+Ebből a kemény 10 másodperces interakcióból aztán egy közel egy órás beszélgetés kerekedett, hogy ez tulajdonképpen miért is zavart minket ennyire.
+Mert az oké, hogy mi nem voltunk agresszívak (velük ellentétben), de attól az asszertivitásunkhoz nem ragaszkodunk egy kicsit túlzottan?
 Persze, hogy úgy lenne fair, ha befeleznénk a járdát -- de vajon miért hagyjuk, hogy ha ők erre nem hajlandóak, akkor az minket így kizökkentsen?
 Azt próbáljuk elérni, hogy a személyes terünkbe ne másszanak bele, de a fejünkbe mégis beengedjük őket?
 
