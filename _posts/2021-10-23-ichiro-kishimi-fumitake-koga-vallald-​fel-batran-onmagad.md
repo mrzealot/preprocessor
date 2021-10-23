@@ -25,7 +25,8 @@ A könyv tulajdonképpen egy dialógusként megformázott bevezetés az [Adleri�
 A dühös és csalódott "fiatalember", illetve a bölcs remete "filozófus" párbeszédét olvasva fokozatosan kerülnek elő az élet (vélt) nehézségei, és az azokra adható Adler-i hozzáállásbeli válaszok.
 
 A fiatalember szerint a gyermeki ártatlanság idejében még talán lehet "egyszerű és gondtalanul boldog" az élet, de felnőttként ez már nem így működik.
-A filozófus szerint viszont a világ szubjektív (mint ahogy a kútvíz hőmérséklete), ezért ha mi magunk megváltozunk, akkor a szubjektív világunk is velünk változik.
+A filozófus szerint viszont a világ szubjektív -- mint ahogy a kútvíz hőmérséklete, ami objektíven nem változik ugyan, de nyáron mégis hűvös, télen viszont langyos.
+Ha mi magunk megváltozunk, akkor a szubjektív világunk is velünk változik.
 Vagyis ha bonyolult a világ**unk**, akkor az azért van, mert mi annak látjuk.
 
 Ezt a bevezető gondolatot követi "öt éjszakányi" beszélgetés a következő témakörökben:
@@ -58,9 +59,9 @@ Talán nekünk is menni fog...
 Kishimi (ahogy az őt mintázó filozófus karakter) az Adleriánus pszichológiával párhuzamosan az ókori görög filozófiát is tanulmányozza.
 Rögtön az elején meg is jegyzi, milyen jó összhangban áll a két terület -- aminek a blog Sztoikus gyökereit tekintve én csak örülni tudok.
 
-Akivel viszont kb. "szemben" állunk, az Freud és Jung pszichológiája.
-Hiszen míg ott minden az etiológiára (vagyis az ok-okozati összefüggések vizsgálatára) épül, Adler a teleológiára (vagyis egy adott jelenség céljának, nem pedig az okának a vizsgálatára) koncentrál.
-Szerinte ha valaki szorongás miatt nem mer kimenni a szobából, az nem a múltbéli trauma miatt van, hanem mert **most** az az igazi célja, hogy ne kelljen kimennie -- és ezért olyan valóságot teremt magának, ahol nem is képes.
+Amivel viszont kb. "szemben" állunk, az Freud pszichológiája.
+Hiszen míg ott minden az *etiológiára* (vagyis az ok-okozati összefüggések vizsgálatára) épül, Adler a *teleológiára* (vagyis egy adott jelenség céljának, nem pedig az okának a vizsgálatára) koncentrál.
+Szerinte ha valaki például szorongás miatt nem mer kimenni a szobából, az nem egy múltbéli trauma miatt van, hanem mert **most** az az igazi célja, hogy ne kelljen kimennie -- és ezért olyan valóságot teremt magának, ahol nem is képes.
 Egészen odáig elmegyünk, hogy a "trauma" fogalma nem létezik!
 
 > Nem az élményeink határoznak meg bennünket, hanem a jelentés, amellyel felruházzuk őket.
@@ -128,14 +129,14 @@ De ha helyette lebénít és egy helyben toporgunk, az már baj - ez a "komplexu
 Az érme másik oldala a felsőbbrendűségi komplexus -- ami igazából szintén a kisebbrendűséget igyekszik ellensúlyozni.
 Vagy ami még furább: a kisebbrendűség fegyverként is használható, ha pont azzal dicsekszünk, hogy nekünk milyen rossz, és azzal akarunk kitűnni.
 
-Az az egészséges, ha a kisebbségi komplexusunk az ideális énünkkel való összehasonlításból ered.
+Az az egészséges, ha a kisebbségi érzésünk az ideális énünkkel való összehasonlításból ered.
 Előre haladunk, de nem más rovására.
 És nem mással összehasonlítva, sem irányban, sem sebességben.
 
 A verseny hozzáállás már önmagában akadályozni fog minket, mert elhiteti, hogy vannak győztesek és vesztesek.
 Még ha épp nyerésben vagyunk is, akkor is folyamatosan mindenki más **ellen** leszünk.
 És ami még rosszabb: úgy véljük majd, hogy mindenki más is **ellenünk** van.
-Ilyen világban élni nem lesz túl jó érzés.
+Ilyen világban élni nem lesz túl kellemes.
 
 Ne menjünk hát bele a hatalmi harcokba, mert:
 
@@ -171,16 +172,16 @@ Az egyén önállóságán felül próbáljunk a társadalommal is együttműkö
 
 Mások elismerése jó érzés lehet, de abszolút nem szükséges.
 Amikor valamit az elismerésért teszünk, amit amúgy nem tennénk, az baj.
-Amikor pedig valamit csak a büntetéstől való félelem miatt nem teszünk, az még nagyobb baj
+Amikor pedig valamit csak a büntetéstől való félelem miatt nem teszünk, az még nagyobb baj!
 Ha túl sokat fókuszálunk mások elvárásaira, azzal azt kockáztatjuk, hogy nem a saját életünket éljük.
 És ha mi nem éljük, akkor helyettünk ki fogja?
 
 Mindenkinek megvan a maga feladata.
-A legkönnyebben úgy állapíthatjuk meg, hogy mi kinek a dolga, ha megnézzük, ki viseli a következményeket.
+A legkönnyebben úgy állapíthatjuk meg, hogy kinek mi a dolga, ha megnézzük, ki viseli majd a következményeket.
 Ennek fényében pedig azt állítjuk, hogy az interperszonális konfliktusok nagyja abból fakad, hogy beleavatkozunk egymás dolgába.
     
 Ne tegyünk terhet másra, de ne is vállaljuk át mások terheit.
-Meg kell húznunk a határokat - családban főleg, mert ott a közelség miatt még könnyebben keverednek a dolgok
+Meg kell húznunk a határokat - családban főleg, mert ott a közelség miatt még könnyebben keverednek a dolgok.
 Már pedig az, hogy ki mit gondol rólunk (akár elismer, akár lenéz), az bizony csak az ő dolga.
 Nekünk semmi közünk hozzá, ezért ne is üssük bele az orrunkat -- és ne is érdekeljen!
 
@@ -191,7 +192,7 @@ Ha tisztán akarunk látni, ahhoz kell egy pont megfelelő távolság.
 
 Megemlítjük azért, hogy a szabadság nem egyenlő a hedonizmussal -- mert akkor csak a saját ingereink és vágyaink rabszolgái lennénk másokéi helyett.
 Az a szabadság, ha tudatosan képesek vagyunk abban az irányba terelgetni magunkat, amerre haladni szeretnénk.
-A szabadság nem egyenlő továbbá az anarchizmus -- nem azt mondjuk, hogy semmi külső fennhatóságot ne ismerjünk el; csak azt, hogy ahol viszont dönthetünk, ott döntsünk is mi, ne engedjük át másnak.
+A szabadság nem egyenlő továbbá az anarchizmussal sem -- nem azt mondjuk, hogy semmi külső fennhatóságot ne ismerjünk el; csak azt, hogy ahol viszont dönthetünk, ott döntsünk is mi, ne engedjük át másnak.
 
 A szabadság az, ha **van**, aki nem kedvel.
 Ez mutatja, hogy aktívan gyakoroljuk a szabadságunkat, és nem megfelelni próbálunk.
@@ -232,7 +233,7 @@ Gondoljunk egy földgömbre a sík térkép helyett -- mindig az a középpont, 
 És valamilyen szinten az is egocentrikus, aki mások elismerésétől függ.
 Hiába kergeti az ő megbecsülésüket, akkor is csak maga van a középpontban.
 Nem adni akar, csak elismerést **kapni**!
-Csak akkor érezhetjük a közösségben, hogy "jó helyen vagyunk", ha elköteleződünk a közösség felé, nem csak úgy ott vagyunk.
+Csak akkor érezhetjük a közösségben, hogy "jó helyen vagyunk", ha elköteleződünk a közösség felé, nem csak úgy ott lebzselünk.
 
 A trükk, hogy tekintsünk egy kicsit távolabbra az orrunk hegyénél.
 A közösség végtelen -- nem csak a munkahelyi, a családi, vagy a nemzeti kapcsolataink tartoznak ide!
@@ -258,7 +259,7 @@ A másik dolga (mint ahogy talán a nevéből is kiderül) az **ő** dolga.
 Az ágyhoz kötött nagypapa vagy az autóbalesetből felépülőben lévő gyerek már azzal is javítják a szeretteik életét, hogy vannak.
 
 Mások valószínűleg nem így állnak majd a dolgokhoz, de valakinek el kell kezdeni.
-És különben is, a feladatok szétválasztásából tudjuk, hogy az ő hozzáállásuk az ő dolguk -- mi viszont akár azonnal is elkezdhetünk a közösségi szemléletet gyakorolni.
+És különben is, a feladatok szétválasztásából tudjuk, hogy az ő hozzáállásuk az ő dolguk -- mi viszont akár azonnal elkezdhetünk egy közösségibb szemléletet gyakorolni.
 
 <br>
 
@@ -313,7 +314,7 @@ Ha igazán elfogadnánk önmagunkat, úgy ahogy vagyunk, akkor eleve nem lenne s
 Ez persze nem jelenti, hogy nem törekedhetünk valami több vagy jobb felé -- de nem szabad, hogy függővé tegyük az önértékelésünket attól, hogy azt a többet/jobbat végül el is érjük-e!
 
 Itt következhetne menetrendszerűen a már unalomig ismételt "út a cél előtt" mottó...
-De a könyv talán legszebb és legemlékezetesebb hasonlata rögtön rámcáfol, még ha a mondanivalóban egyet is értünk: az élet nem egy út, hanem egy tánc.
+De a könyv talán legszebb és legemlékezetesebb hasonlata rögtön rám cáfol, még ha a mondanivalóban egyet is értünk: az élet nem egy út, hanem egy tánc.
 Az a fontos, hogy az itt és most-ot értékelni tudjuk -- az másodlagos, hogy az általunk értékelt itt és most-ok sorozatán keresztül idővel hova jutunk (az meg pláne, hogy honnan jutottunk idáig).
 
 > Ön célokat tűz ki a távoli jövőre nézve, és felkészülési időszaknak tekinti a jelent. Azt gondolja, valamit el akar érni, és azt megteszi, amikor eljön az ideje. Ezzel az életmóddal elhalasztja az életet.
@@ -346,7 +347,7 @@ Ehelyett:
 ## Összefoglalás
 
 A könyv egy mondatba sűrített lényege talán annyi, hogy az ember képes a változásra, hogy a világ lehet egyszerű, és hogy igenis *mindenki* lehet boldog.
-Az erre rávezető, öt metaforikus éjszakán át tartó beszélgetés során megtanulunk:
+Az erre rávezető, öt metaforikus éjszakán át tartó beszélgetés során megtanuljuk, hogy érdemes:
 
 1. A múltbéli "traumák" ok-okozati viszonya helyett a jelenlegi céljainkra és felelősségünkre koncentrálni;
 
@@ -359,9 +360,11 @@ Az erre rávezető, öt metaforikus éjszakán át tartó beszélgetés során m
 1. Teljes szívvel megélni a jelent.
 
 Az 1-es pont engem személy szerint nagyon [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %}) logoterápiájára emlékeztet; a 2-3-4-es pontokra maguk a szerzők is a [Covey]({% post_url 2021-04-10-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa %})/[Carnegie]({% post_url 2020-05-01-dale-carnegie-hogyan-szerezzunk-baratokat %}) páros irányába terelgetnek; az 5-ös ponthoz pedig [Thich Nhat Hanh]({% post_url 2020-11-14-thich-nhat-hanh-a-tudatossag-csodaja %})-t tudnám további olvasmányként ajánlani.
+A 3-as pont minden esetre szépen gatyába rázta a fejem azon részét, aminek egyre sürgősebben olvasnia kellett a "nemszeretve levés bátorságáról".
+<small>(Egyszer még meglátjátok, műfordító leszek...)</small>
 
 A mondanivaló tálalásával kapcsolatban megértem a Szókratészi vitamódszer hasznosságát, (miszerint a párbeszédben lépésenként vezet oda, ahova egyszerre nem lett volna képes) de a végrehajtás azért messze nem tökéletes.
-A filozófus karakternek elég gyakran vannak nem-válasz jellegű válaszai, ahol hajlamos elvinni a búzába.
+A filozófus karakternek elég gyakran vannak nem-válasz jellegű válaszai, ahol hajlamos bevinni a búzába.
 És aztán a fiatalember a legközelebbi alkalomra valahogy csak úgy mágikusan elfogadja az érvelését -- annak ellenére, hogy a legutóbb még ő tiltakozott a leghangosabban.
 Ezzel természetesen nem azt akarom mondani, hogy nem hasznos, **amit** a filozófus mond, csak talán az egy kicsit megkérdőjelezhető, **ahogy** mondja.
 
