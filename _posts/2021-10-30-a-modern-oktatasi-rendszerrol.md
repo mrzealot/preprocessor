@@ -42,8 +42,8 @@ A nagy (és kései!) megvilágosodós pillanataim mind olyasmik körül forogtak
 - "Jé, mennyit számít, ha értelmes jegyzeteket vezetek a dolgaimról";
 - "Jé, a pénzzel lehetne okosabban is bánni";
 - "Jé, attól hogy valami alapból nem megy, attól még fejlődhetek benne";
-- "Jé, a kezdeti illeszkedés helyett inkább a tudatos munka segít együtt maradni egy kapcsolatban"; vagy épp
-- "Jé, az életemnek nem muszáj úgy zajlania, mint ahogy azt mások elvárják tőlem".
+- "Jé, a kezdeti illeszkedés helyett sokkal inkább a tudatos munka és a kommunikáció segít együtt maradni egy kapcsolatban"; vagy épp
+- "Jé, az életemnek nem muszáj úgy zajlania, ahogy azt mások elvárják tőlem".
 
 Bánja a fene, hogy a kerékcserének a YouTube-on kellett utánanéznem, de ezekről eddig miért nem volt szó?
 Vagy ha volt is, miért nem hangsúlyosabban -- hogy a fiatalabb, éretlenebb fejben is leessen, hogy ezek mennyivel többet számítanak, mint amiket akkoriban fontosnak hiszünk?
@@ -63,7 +63,7 @@ Valami akkor azért csak bűzlik Dániában...
 Mint ahogy az idézett, éleslátó reddit poszt is mondá vala, a hiányzó információkat a szüleinktől, a szociális kapcsolatainktól, vagy az önálló tanulási folyamatunk részeként is megszerezhetnénk!
 Ha pedig ezek a kimaradó területek tényleg ennyire fontosak (és azok!), akkor miért is nem próbálunk minél több oldalról megbizonyosodni róla, hogy nem maradnak ki?
 
-Mondjuk ha sem a szülők, sem az iskola nem verik a fejünkbe sem a nagy élettanulságokat...
+Mondjuk ha sem a szülők, sem az iskola nem verik a fejünkbe a nagy élettanulságokat...
 Sem azt a hozzáállást, hogy aztán mi magunk menjünk utánuk...
 Akkor miért nincsenek divatban mondjuk olyan szociális kapcsolatrendszerek, amik egy extra védőhálót nyújthatnának?
 Vagy miért nincsenek jobban előtérben olyan kezdeményezések, amik ezeket pótolnák?
@@ -73,7 +73,7 @@ Miért nem alapvetőbb pillérei ezek a modern társadalmaknak?
 Vagyis amit mondani szeretnék: a fentiek fényében ünnepélyesen elismerem, hogy nem **kizárólag** az oktatási rendszerrel van gond.
 Ez persze még véletlen sem jelenti, hogy az oktatási rendszerrel nincs gond.
 *Nagy* gond.
-Arra viszont felhívja a figyelmet, hogy (szerencsére) a hiányosságokat nem csak maga az oktatási folyamat reformjával, hanem akár független, társadalmi kezdeményezésekkel is lehet pótolni.
+Arra viszont felhívja a figyelmet, hogy (szerencsére) a hiányosságokat nem csak maga az oktatási folyamat reformjával, hanem akár független, társadalmi kezdeményezésekkel is lehetne pótolni.
 És így végre valami olyanra koncentrálhatunk, ami a saját befolyásunk alá esik!
 
 Jobb tantervet, vagy épp tanítási és pontozási módszereket nem tudunk varázsütésre a tanulók orra alá tolni.
