@@ -323,7 +323,7 @@ Ha viszont valami csoda folytán az a dolog vagy kötelezettség nélkül is meg
 
 Ezen a ponton már nincs más dolgunk, mint az "igen" oldalon annyira megolajozni a folyamatokat, hogy azok szinte maguktól menjenek...
 
-#### Legyen vésztartalékunk a váratlak bökkenők kisimítására
+#### Legyen vésztartalékunk a váratlan bökkenők kisimítására
 
 Legyen az egy általános jelenség az életünkben, ami például a közlekedésben a követési távolság, vagy ami a pénzügyi dolgokban a megtakarítás.
 Túl sokan táncolnak az szakadék szélén, és aztán a sorsra mérgesek, ha valami váratlan nehézség miatt bele is esnek.
