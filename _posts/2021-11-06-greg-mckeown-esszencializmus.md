@@ -53,7 +53,7 @@ Ehhez javasol a könyv egy jól átgondolt folyamatot:
 
 ## <a name="1"></a>Szemléletváltás
 
-Ahhoz, hogy végre tudjuk hajtani az életünk "tavaszi nagytakarítását", először is el kell fogadnunk pár olyan alapvetést, amit talán nehézkesen vesz majd be a gyomrunk:
+Ahhoz, hogy végre tudjuk hajtani az életünk "tavaszi nagytakarítását", először is el kell fogadnunk pár alapvetést -- amit talán nehézkesen vesz majd be a gyomrunk, de jobb minél hamarabb túlesni ezen:
 
 
 #### "Muszáj" helyett "Ezt választom"
@@ -80,7 +80,7 @@ Amire pedig igen-t mondunk, annál fontos felismernünk, hogy az igent **válasz
 #### "Minden fontos" helyett "Csak pár dolog számít igazán"
 
 Ez a pont a Pareto elvről szól, amit szoktak 80/20, vagy extrémebb formáiban akár 90/10, vagy 99/1 szabálynak is hívni.
-A lényeg, hogy a dolgok/tettek/problémák/célok/vágyak túlnyomó többsége szart se számít, míg az a pár százaléknyi maradék viszont aránytalanul sokat.
+A lényeg, hogy a dolgok, tettek, problémák, célok és vágyak túlnyomó többsége szart se számít, míg az a pár százaléknyi maradék viszont aránytalanul sokat.
 Szóval ha már képesek vagyunk választani, akkor a második feladatunk, hogy meg tudjuk különböztetni a fontosat a lényegtelentől.
 
 Szimpatikus lehet úgy gondolkodnunk, hogy több erőfeszítés több sikerhez is vezet majd, de ez sajnos nem áll fenn tetszőleges körülmények között.
@@ -101,15 +101,15 @@ Az esszencialista ezért többet válogat, és kevesebbet csinál, de azt jól -
 
 #### "Minden beleférhet" helyett "Bármi beleférhet, de minden nem"
 
-A kompromisszumokat sajnos továbbra nem szabad figyelmen kívül hagyni, hiszen minden választás járni fog bizonyos negatívumokkal.
+A kompromisszumokat sajnos továbbra sem szabad figyelmen kívül hagyni, hiszen minden választás járni fog bizonyos negatívumokkal.
 Ha viszont párhuzamosan több szálon is akarunk haladni -- mondhatni: baszni is akarunk, meg szűznek is maradni -- azzal csak az egész stratégiánkat ássuk alá.
 
-Vagyis: negatívumok mindig lesznek.
-A kérdés csak az, hogy ezek egy jól megtervezett és végiggondolt stratégia várható következményei lesznek (amiket előre vállalunk), vagy az ide-oda kapkodás meglepetésszerű, de elkerülhetetlen eredményei (amiket tudatosan lehet, hogy soha nem vállalnánk)?
-Főleg ha ezeket a negatívumokat egyik szál sem tud majd kompenzálni, mert egyik sem halad majd annyira jól.
+Negatívumok tehát mindig lesznek.
+A kérdés csak az, hogy ezek egy jól megtervezett és végiggondolt stratégia várható következményei (amiket előre vállalunk), vagy az ide-oda kapkodás meglepetésszerű, de elkerülhetetlen eredményei (amiket tudatosan lehet, hogy soha nem vállalnánk)?
+Főleg ha ezeket a negatívumokat egyik párhuzamos szál sem tudja majd kompenzálni, mert egyik sem halad annyira jól.
 
-A "valamit valamiért" előbb utóbb úgyis mindenkit utolér.
-Az esszencialista viszont ezt igyekszik nem megvárni (és nem váratlan gödrökbe lépni menet közben), és inkább előre választ.
+A "valamit valamiért" előbb-utóbb úgyis mindenkit utolér.
+Az esszencialista viszont ezt igyekszik nem megvárni (és nem váratlan gödrökbe lépni menet közben), ezért inkább előre választ.
 Nem arra pazarolja a gondolatait, hogy "hogyan férhetne bele mindkettő" egy A/B döntés esetén, hanem rámondja inkább, hogy "B" -- és ezzel vállalja azt is, hogy **"nem A"**.
 
 Ilyen gondolkodás mellett pedig a kompromisszumok sem kell, hogy negatívumnak tűnjenek.
@@ -143,11 +143,11 @@ A szerző szavaival:
 #### Tér és idő
 
 Ha nem tudunk elvonulni mások zaklatása elől, hogy tisztán gondolkodhassunk a prioritásainkról, akkor már eleve túl elfoglaltak vagyunk.
-Ilyen elvonulás a mai világban viszont soha nem fog az ölünkbe hullani -- csak ha tudatosan ki nem erőszakoljuk magunknak.
+Ilyen elvonulás a mai világban viszont soha nem fog az ölünkbe hullani -- hacsak tudatosan ki nem erőszakoljuk magunknak.
 A fókuszált szót jelzőként használjuk, de ne felejtsük el, hogy a fókuszálás igéből képezzük.
 Vagyis teret kell adnunk magunknak a fókuszáláshoz, hogy aztán fókuszáltak lehessünk.
 
-Kicsit igazságtalan paradoxon, de minél több irányból ostromol az élet, annál nagyobb szükségünk lesz arra zavartalan gondolkodási térre és időre, ami pont emiatt lesz egyre inkább szűkében.
+Kicsit igazságtalan paradoxon, de minél több irányból ostromol az élet, annál nagyobb szükségünk lesz arra a zavartalan gondolkodási térre és időre, ami pont ilyenkor lesz egyre inkább szűkében.
 Tegyünk ellene!
 
 <br>
@@ -158,7 +158,7 @@ McKeown a saját újságírói tanulmányaira hagyatkozva tanácsolja nekünk is
 Szűrjük a zajt, és lássuk meg a mögötte kirajzolódó képet.
 Gondolkozzunk összefüggésekben, hogy ezáltal más nézőpontból is meg tudjuk vizsgálni ugyanazokat az adatokat/eseményeket.
 Ilyen nézőpontokból pedig jó esetben gyorsan ki fog tűnni a hétköznapok szürkeségéből, hogy merre is haladunk -- és hogy arra is akarunk-e haladni.
-Segíóségként vezessünk naplót (amit rendszeresen átnézünk, hogy jobban szembetűnjenek a lassú változások is).
+Segítségként vezessünk naplót (amit rendszeresen átnézünk, hogy jobban szembetűnjenek a lassú változások is).
 
 <br>
 
@@ -173,7 +173,7 @@ Pedig a játék nagyon is fontos lenne az agyi funkcióink, a kreativitásunk, �
 Az állatokon végzett vizsgálatok is egyenes összefüggést mutattak a játék mennyisége és a túlélési/adaptálódási képesség között.
 
 Több lehetőséget látunk meg általa, könnyebben/lazábban próbálkozunk miatta, oldja a stresszt, és a "komolyabb" produktivitáshoz való funkcióinkat is javítja.
-Szóval a játék nem csak segít megtalálni az igazán fontos dolgokat az életünkben, hanem önmagában is igazán fontos.
+Szóval a játék nem csak segít megtalálni az igazán fontos dolgokat az életünkben, hanem önmagában is egy igazán fontos dolog.
 
 <br>
 
@@ -188,7 +188,7 @@ De amit abból a tanulmányból gyakran elfelejtünk kihangsúlyozni, az az, hog
 És a tetejébe még kb. 2 órányi extra délutáni szunyókálást is hozzácsaptak hetente.
 Ne hagyjuk hát figyelmen kívül, hogy nagy részben valószínűleg a regenerálódásuk mennyisége tette lehetővé, hogy a munkából is beleférjen ennyi.
 
-Az alvás fontosságáról most nem is prédikálnék sokat, arra ott volt [Matther Walker könyve]({% post_url 2020-10-24-matthew-walker-miert-alszunk %}).
+Az alvás fontosságáról most nem is prédikálnék sokat, arra ott volt [Matthew Walker könyve]({% post_url 2020-10-24-matthew-walker-miert-alszunk %}).
 Így ismétlés gyanánt szerintem elég annyit sulykolni, hogy az alvás **nem** lustaság.
 Legyen az a menő, ha rendszeresen megalszunk legalább 8 órát, ne pedig az, ha mondjuk még 6-ot sem!
 McKeown frankó hasonlata: legyen prioritás, hogy megőrizzük a prioritás megállapító képességünket.
@@ -240,7 +240,7 @@ Több irányba evezzük majd a csónakot, ami így semerre nem nagyon fog haladn
 
 Ha viszont minden könnyfakasztóan világos, akkor egyrészt tudni fogjuk, hogy mikor vagyunk kész; másrészt pedig gyorsabban is jutunk odáig.
 Szóval fejezzük ki az alapvető szándékunkat inspiráló, de **konkrét** módon.
-Így egyetlen döntéssel ezernyi további döntést szinte automatikusan meghozunk
+Így egyetlen döntéssel ezernyi további döntést szinte automatikusan meghozunk.
 
 <br>
 
@@ -264,12 +264,12 @@ Konkrét tippek:
 - Válasszuk szét a kérést attól, hogy ki kéri;
 - Koncentráljunk arra, hogy ez a nem által mire mondhatunk majd igen-t;
 - Lássuk meg, hogy a rövidtávú népszerűségvesztés árán leggyakrabban hosszútávú tiszteletet vásárolunk;
-- Ne siessük el a választ, tartsunk egy kis szünetet átgondolni -- mondjuk "Hadd nézzem meg a naptáram, és visszajelzek";
+- Ne siessük el a választ, tartsunk egy kis szünetet átgondolni -- például "Hadd nézzem meg a naptáram, és visszajelzek";
 - Használjuk a "nem, de" kompromisszum formát;
-- Használjuk e-mail autoválaszt (és nem feltétlen csak vakáció alatt);
+- Indokolt esetekben használjunk automatikus e-mail válaszokat (és nem feltétlen csak vakáció alatt);
 - Kérdezzünk rá a kompromisszumra -- "Oké; de minek a helyére jöjjön ez be?". Főleg munkahelyi környezetben, csak hogy tudatosítsuk a kérőben is, hogy ez nem csak úgy pluszban fér bele, hanem valami helyett;
 - Ha olyan a kapcsolat, vigyünk egy kis humort az elutasításba;
-- És "igen" esetén is mindenképpen húzzuk meg a határokat -- mondjuk "X-re hajlandó vagyok, de az Y részt már rád bíznám"...
+- És "igen" esetén is mindenképpen húzzuk meg a határokat -- például "X-re hajlandó vagyok, de az Y részt már rád bíznám"...
 
 > A "Nem." egy teljes mondat.
 >
@@ -330,11 +330,7 @@ Túl sokan táncolnak az szakadék szélén, és aztán a sorsra mérgesek, ha v
 Az, hogy konkrétan **mi** a váratlan esemény, azt persze soha nem lehet tudni -- de arra nyugodtan lehet készülni, hogy valami váratlan rendszeresen történni fog.
 
 Nem az lesz sikeres a nehéz időkben, aki jobban meg tudta jósolni a jövőt, hanem aki belátta, hogy nem tudja megjósolni a jövőt -- és ezért bőven ráhagyott a váratlan zökkenőkre.
-
-Konkrét tippek:
-
-- Mindig szánjunk elegendő időt/energiát a felkészülésre;
-- Számoljunk rá kb. plusz 50%-ot a becsléseinkre.
+Konkrét tippek tekintetében A) mindig szánjunk elegendő időt/energiát a felkészülésre; és B) számoljunk rá kb. plusz 50%-ot a becsléseinkre.
 
 <br>
 
@@ -353,7 +349,7 @@ Egy nem hatékony folyamatot sokkal nehezebb olyan sebességgel pörgetni, hogy 
 #### Apró lépések, de fokozatos haladás!
 
 Ne próbáljunk nagyot nyerni, mert azt csak lassan lehet, és odáig nem tart ki a motiváció.
-Próbáljunk inkább gyakran kicsiket nyerni, és az szinte természetessé fogja tenni azt a tevékenységet -- ami hosszú távon a nagy nyeréshez vezet.
+Próbáljunk inkább gyakran kicsiket nyerni, és az szinte természetessé fogja tenni azt a tevékenységet, ami hosszú távon a nagy nyeréshez vezet.
 Kell valami apró visszacsatolás, ami jól méri a napról-napra, óráról-órára szintű haladást.
 Találjuk hát meg azt a legkisebb lépést, amit mérhetünk és vizualizálhatunk -- hadd hajtson (és adódjon össze idővel).
 
@@ -362,14 +358,14 @@ Találjuk hát meg azt a legkisebb lépést, amit mérhetünk és vizualizálhat
 #### Tartsuk magunkat egy rutinhoz
 
 Állítsuk be olyanra a folyamatainkat, hogy inkább a nem teljesítés legyen a nehéz.
-A siker ilyenkor inkább lesz egy természetes következmény, amit nem kellett kierőltetetni.
+A siker ilyenkor inkább lesz egy természetes következmény, amit nem kellett kierőltetni.
 
 Megjegyezném, hogy jelen pillanatban itt ismertem magamra a legerősebben: már nagyjából megvannak a szükséges dolgaim, és végre is hajtom őket, de egyelőre még inkább erőből mint egy súrlódásmentes folyamat természetes mellékhatásaként.
 Magánál az aktivitásnál (mint például az edzés, az olvasás, az írás, stb.) nyilván az ismétlésszám is sokat segít, hogy egyre könnyebb legyen.
-De a döntés, hogy nekiálljunk az aktivitásnak, az továbbra is emészti az energiát, ha még nem autopilótán megy a napirend.
+De a döntés, hogy nekiálljunk az aktivitásnak, az továbbra is emészti az energiát, ha még nem autópilótán megy a napirend.
 
 A "rutin" a köznyelvben valóban az "unalmas" és az "egyhangú" szinonimája, de hát ez egy jó tevékenység esetében nem szuper?
-Ilyenkor lesz, hogy még úgy is meg tudjuk tenni, hogy közben másra figyelhetünk (lásd [mentális automatizálás]({% post_url 2021-09-18-a-mentalis-automatizalasrol %})).
+Ilyenkor ugyanis azt jelenti, hogy még úgy is meg tudjuk tenni, hogy közben másra figyelhetünk (lásd [mentális automatizálás]({% post_url 2021-09-18-a-mentalis-automatizalasrol %})).
 
 A szokások kialakításának technikai szemszögéből pedig hadd ajánljam [James Clear]({% post_url 2021-01-09-james-clear-atomi-szokasok %}) munkáját...
 
@@ -382,8 +378,8 @@ Persze, hogy lehet tanulni a múltból -- de csak úgy, ha a jelenben azt tessz�
 És persze, hogy lehet befolyásolni a jövőt -- de csak a jelenben tehetünk érte bármit is.
 Ha túlzottan hagyjuk, hogy a múlt és a jövő eltereljék a figyelmünket, akkor azzal pont a jelen megélését (és ezzel a múltból tanulást vagy a jövő befolyásolását) adjuk fel.
 
-Szemléletes edzői hasonlat: veszteni nem ugyanaz, mint amikor elvernek.
-Ha elvernek, akkor egyszerűen tényleg ők voltak a jobban/gyorsabban/ügyesebben, és ebben nincs is semmi szégyen.
+Egy edzői hasonlattal élve: veszteni nem ugyanaz, mint amikor elvernek.
+Ha elvernek, akkor egyszerűen tényleg ők voltak a jobbak/gyorsabbak/ügyesebbek, és ebben nincs is semmi szégyen.
 Ha viszont veszítünk, az azt jelenti, hogy (kb. szó szerint) elvesztettük a fókuszt.
 Ilyenkor a saját hibánk a vereség, mert többre is képesek lettünk volna.
 Tegyünk róla, hogy az utóbbi ne következzen be: ne hagyjuk, hogy szétszivárogjon az energiánk minden irányba.
@@ -419,9 +415,9 @@ Amíg az aktuális prioritás nincs meg, addig pedig annak a keresése a priorit
 ## Összefoglalás
 
 Összegzésként nincs könnyű dolgom, mert az esszencializmus esszenciáját kéne kiemelni.
-Egy szép összetett mondatban talán így menne:
+De egy szép összetett mondatban talán így fogalmaznék:
 
-*Nem férhet bele minden az életünkbe, ezért tanuljuk meg szétválasztani, hogy mi a lényeges és mi nem; aztán a lényegtelenre mondjunk nem-et; a lényegest pedig csiszoljuk addig, amíg már szinte magától megy.*
+*Nem férhet bele minden az életünkbe, ezért tanuljuk meg szétválasztani, hogy mi a lényeges és mi nem; aztán a lényegtelenekre mondjunk szigorú nem-et; a lényegeseket pedig csiszoljuk addig, amíg már szinte maguktól mennek.*
 
 Nyilván mindenkiben megvan az esszencialista és a non-esszencialista hajlam egyaránt.
 A kérdés csak az, hogy melyik van túlsúlyban -- és melyik van mélyebben, a személyiségünk központjában.
