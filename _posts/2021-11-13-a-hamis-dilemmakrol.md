@@ -22,18 +22,18 @@ Egy olyan barbár rendszerhez képest azért még mindig csak jobb a jelenlegi h
 A másik példa egy reddit-en megosztott [cikk](https://www.reddit.com/r/ABoringDystopia/comments/q77t1k/the_capitalist_industry_playbook_of_blaming_the/){:target="_blank"}, amiben Michael E. Mann klimatológus arra mutat rá, hogy az egyéni felelősségvállalás hangsúlyozása rendszerint csak egy kapitalista terelési stratégia -- például a szelektív hulladékgyűjtés, vagy akár a karbonlábnyom területén is.
 Azért hívják fel annyira a figyelmünket a saját szennyezésünkre, hogy addig se az övékkel foglalkozzunk.
 
-A harmadik pedig egy régebbi, de újra felszínre került [tumblr poszt](https://heavyweightheart.tumblr.com/post/175800780155/my-friend-said-that-whenever-she-has-a-bad-feeling){:target="_blank"}, amit a körülírás helyett inkább teljes egészében lefordítanék ((tekintve, hogy egyetlen mondat):
+A harmadik pedig egy régebbi, de újra felszínre került [tumblr poszt](https://heavyweightheart.tumblr.com/post/175800780155/my-friend-said-that-whenever-she-has-a-bad-feeling){:target="_blank"}, amit a körülírás helyett inkább teljes egészében lefordítanék (tekintve, hogy egyetlen mondat):
 
-> Egy barátom azt mondta, hogy akárhányszor csak negatív érzései támadnak a testével/kinézetével kapcsolatban, megkérdezi magától, hogy "Ki profitál ebből az érzelemből?", és egyszerűen imádom, hogy ez milyen egyszerű és találó!
+> Egy barátom azt mondta, hogy akárhányszor csak negatív érzései támadnak a testével/kinézetével kapcsolatban, megkérdezi magától, hogy "Ki profitál ebből az érzelemből?", és imádom, hogy ez milyen egyszerű és találó!
 
 <br>
 
-És hogy mindezeknek mi közük a [Hamis Dilemmákhoz](https://hu.wikipedia.org/wiki/Hamis_dilemma){:target="_blank"}?
+És hogy mindezeknek mi közük a [hamis dilemmákhoz](https://hu.wikipedia.org/wiki/Hamis_dilemma){:target="_blank"}?
 Kezdjük a wiki-s definícióval:
 
 > A hamis dilemma (vagy áldilemma) egy olyan érvelési hiba, amely úgy állítja be a vitát, mintha csak két alternatíva létezne, mikor valójában több, nem mérlegelt választási lehetőség is van. Ez a két alternatíva legtöbbször a lehetőségek skálájának két szélsősége.
 
-Vagyis: ilyenkor akár tudat alatt, akár (rosszabb esetben) tudatosan megpróbáljuk úgy megfogalmazni az adott helyzetet, mintha az **A)** egy, ami véleményünket tükröző, és **B)** egy látványosan elfogadhatatlan opció közt dőlne el.
+Vagyis: ilyenkor akár tudat alatt, akár (rosszabb esetben) tudatosan megpróbáljuk úgy megfogalmazni az adott helyzetet, mintha az **A)** egy, a mi véleményünket tükröző, és **B)** egy látványosan elfogadhatatlan opció közt dőlne el.
 "Ha nem tanulsz, utcaseprő lesz belőled".
 "Aki nincs velünk, az ellenünk van".
 
@@ -42,7 +42,7 @@ Gondoljunk csak bele, milyen lenne, ha a piacon azzal fogadnának: "Aki nem szer
 Nem akarsz náci lenni?
 Vegyél gyorsan egy kiló cseresznyét!
 Az ilyesminek természetesen nem dől be az ember.
-De sajnos van, a homályosabb a szituáció, és ezt a manipulátorok nem fogják szégyellni a saját javukra használni.
+De sajnos van, hogy homályosabb a szituáció, és ezt a manipulátorok nem fogják szégyellni a saját javukra használni.
 
 <br>
 
@@ -54,7 +54,7 @@ Miért nem a centralizált (és pofátlanul korrupt) intézményekre haragszunk?
 
 A második példában a Coca-Cola vagy a BP jellegű cégek azt próbálják sugallni, hogy a választás **A)** a környezetszennyezés, illetve **B)** a mi saját, egyéni, fogyasztói szintű újrahasznosításunk és karbonlábnyom-tudatosságunk között található.
 Ha most tényleg épp egy ökológiai katasztrófa van folyamatban, az nyilván csak azért lehet, mert nem a megfelelő gyűjtőbe dobtuk a mosószeres flakont -- ha viszont jó helyre dobnánk, akkor egyből nem is lenne semmi baj.
-Sajnos ez egy nagy rakás lószar, ahogy azt egy kitűnően velős [tweet](https://twitter.com/adamjohnsonnyc/status/1049519866154242048) is összefoglalja:
+Sajnos ez egy nagy rakás lószar, ahogy azt egy kitűnően velős [tweet](https://twitter.com/adamjohnsonnyc/status/1049519866154242048){:target="_blank"} is összefoglalja:
 
 > Csak egy emlékeztető, hogy mindössze 100 cég felelős a globális üvegházhatású gázkibocsátás 71%-áért, és aki ezt nem említi, miközben az egyének morális kudarcának állítja be a klímaválságot, az újságírói műhibát követ el.
 
