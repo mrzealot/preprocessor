@@ -53,7 +53,7 @@ De hogyan is jutottunk idáig?
 
 ## <a name="tech"></a>Technológiai elavulás
 
-Ide tartozik majdnem minden iparág korai fázisa (közlekedésben maga az autó feltalálása, számítástechnológiában a kézi számológép, stb.) ami egy tényleges paradigmaváltáshoz vezet.
+Ide tartozik majdnem minden iparág korai fázisa (közlekedésben maga az autó feltalálása, számítástechnikában a kézi számológép, stb.) ami egy tényleges paradigmaváltáshoz vezet.
 Lyukkártya olvasót is ugyanazért nem gyártunk már, mint amiért pattintott kő eszközöket: egyszerűen túlnőttünk azon a szinten.
 Mondjuk úgy, hogy ez a "jóféle" elavulás -- bár itt sem árt tudni, hogy a régi változattal mi legyen utána!
 A baj ott kezdődik, amikor a technológia eljut arra a szintre, ahol a termékek **eldobhatóságával** viszi végbe az áttörést. 
@@ -73,7 +73,7 @@ Vagyis itt a technológiai újdonság leginkább a csomagoltság (és a vele já
 A csomagolás viszont kuka...
 
 Egy másik stratégia a higiéniai (és ennél fogva szinte kötelezően eldobható) termékekre való rászoktatás.
-A férfiaknak ott voltak a borotvapengék, vagy (a gumigyártás előrehaladásával) az óvszerek.
+A férfiaknak ott voltak a borotvapengék, vagy a gumigyártás előrehaladásával az óvszerek.
 A női célközönségnek (akiket kb. akkoriban kezdtek emberszámba nézni) pedig betétek, tamponok és zsebkendők, amik által már végre nem kellett minden rongyot tartalékolniuk.
 Senki nem tagadja, hogy ezek szintlépések, de cserébe a szemetet is igencsak gyártják.
 
@@ -111,24 +111,24 @@ Egy ilyen mentalitás pedig szépen előkészítette, hogy idővel már a techno
 
 ## <a name="psych"></a>Pszichológiai elavulás
 
-A fogyasztói divat kialakulása főleg a kocsikon keresztül megfigyelhető, mondjuk a Ford kontra General Motors (GM) csatában.
-A Ford a régi értékeket képviselte, abszolút a tartósság mellett tette le a voksát (akár a profit kárára is).
-És habár ez mérnöki, etikai (és környezetvédelmi) szempontból dicséretes, gazdaságilag sajnos mégis a bukásához vezetett.
+A fogyasztói divat kialakulása főleg a kocsikon keresztül figyelhető meg, mondjuk a Ford kontra General Motors (GM) csatában.
+A Ford a régi értékeket képviselte, abszolút a tartósság mellett tette le a voksát, akár a profit kárára is.
+És habár ez mérnöki, etikai és környezetvédelmi szempontból dicséretes, gazdaságilag sajnos mégis a bukásához vezetett.
 Annyira ki akartak tartani a változatlan, eredeti Model T mellett, hogy a GM társadalmi Darwinizmusa és a folyamatos megújulása mellett egyre régimódibbnak (értsd, "cikinek") tűntek.
 
-És itt kiemelnénk, hogy nem csak a technológiai újításokkal tették "idejemúlttá" a Fordokat, hanem sokkal inkább stílusban/kényelemben.
+És itt kiemelnénk, hogy a GM-nél nem csak a technológiai újításokban tették "idejemúlttá" a Fordokat, hanem sokkal inkább stílusban/kényelemben.
 Ez pedig még hatékonyabbnak bizonyult, mert nem olyan nehéz, mint tényleges újítást létrehozni -- viszont az emberek fantáziáját jobban megragadja.
 Sőt, ezt a GM később már nem is csak arra használta, hogy Fordékat régimódiként tüntesse fel, hanem a színek bevezetésével évente a saját modelljeiket is ósdi-sították.
 
 Fordéknak sokáig tartott beadni a derekukat, de az üzleti életben maradás miatt muszáj volt, és így a tervezett, pszichológiai alapú (és mesterségesen gyorsított) elavulás lett az új mérce.
-Az emberek szégyenérzetére alapoztak, ha "lemaradnánk" -- és büszkeségükre, ha képesek tartani a lépést.
+Az emberek szégyenérzetére alapoztak, ha "lemaradnának" -- és büszkeségükre, ha képesek tartani a lépést.
 Ez vezetett szépen ahhoz a termékfüggőséghez, amit manapság minden akkori elképzelést felülmúlva nyögünk.
 Aki erősen érzi a modern párhuzamot az Apple évenkénti, menetrend szerinti iPhone "forradalmaival" (ami során a kamera arrébb kerül pár centit) az nincs egyedül...
 
 És ez aztán az autókról sajnos minden egyéb termék design-ját is megfertőzte.
 A működő és tartós de csúnya gépek/tárgyak már nem voltak elégségesek -- működő **és** szép gépek kellettek, még ha nem is voltak annyira tartósak.
 Mert hát mire elromlanának, addigra úgyis változik a divat, és jöhet az új, nem?
-Innentől a reklámügynökségek is ez a (mesterségesen pozitívabb csengésűnek beállított) "progresszív elavulás" stratégiája köré szerveződtek.
+Innentől a reklámügynökségek is a (mesterségesen pozitívabb csengésűnek beállított) "progresszív elavulás" stratégiája köré szerveződtek.
 
 > Ha ma valahogy elavulttá tehetnénk azt, ami tegnap megtöltötte a vásárlói piacot, akkor az a piac holnaptól újra elérhetővé válna.
 >
@@ -147,7 +147,7 @@ Igazából egy kimondottan erre irányuló új szakma is létrejött a fogyaszt�
 Bizonyos pontokon konkrétan felvetődik, hogy a gazdasági virágzás érdekében legyen törvény a tervezett elavulás.
 Minden terméknek legyen meg az előre meghatározott élettartama, ami után be kell szolgáltatni (valamekkora arányú visszatérítésért cserébe) egy kormányzati szervhez, és aztán lehet menni venni egy újat, hadd pörögjön az ipar.
 És ez mondjuk nem lett volna olyan negatív, mint amilyennek elsőre hangzik.
-Mert oké, kötelező elavulás, de legalább a kormány kezében, aki (feltehetően a nép érdekében) nem szabta volna annyira rövidre az határidőket -- és a tetejébe központilag meg is birkózott volna a keletkező hulladékkal.
+Mert oké, kötelező elavulás, de legalább a kormány kezében, aki (feltehetően a nép érdekében) nem szabta volna annyira rövidre a határidőket -- és a tetejébe központilag meg is birkózott volna a keletkező hulladékkal.
 
 De ami (sajnos) ehelyett inkább elharapózott, az a termékek minőségének szándékos lerontása...
 
@@ -167,13 +167,13 @@ De ami (sajnos) ehelyett inkább elharapózott, az a termékek minőségének sz
 ## <a name="quality"></a>Minőségi elavulás
 
 A kezdetek itt sem feltétlen rosszindulatúak, csak egyszerűen technológiai áttörések, amik nyilván felborítják az addigi rendet.
-A vákuumcsövekből tranzisztorok lettek, a kézi vezetékezésből előbb nyomtatott majd integrált áramkörök, az AM rádióból FM, a szekrény méretű mainframe-ekből asztali számítógépek, a konzolokból pedig grafikus felhasználói felületek lettek.
+A vákuumcsövekből tranzisztorok lettek, a kézi vezetékezésből előbb nyomtatott majd integrált áramkörök, az AM rádióból FM, a szekrény méretű mainframe-ekből asztali számítógépek, a konzolokból pedig grafikus felhasználói felületek.
 Az, hogy ilyen léptékű fejlődés mellett elavul a [logarléc](https://hu.wikipedia.org/wiki/Logarl%C3%A9c){:target="_blank"} vagy a mechanikus írógép, az érthető.
-Ami baj (kicsit tükrözve az első szekció borotvapengéit és tamponjait), hogy ezáltal már az elvileg "tartós" termékek is a gyakorlatban eldobhatóvá váltak.
+Ami baj (kicsit tükrözve az első szekció borotvapengéit és tamponjait), hogy ezáltal már az elvileg "tartós" termékek is eldobhatóvá váltak a gyakorlatban.
 
 Egyrészt az egyre jelentősebb miniatürizálás és integrálás miatt már nem lehet szinte semmit házilag javítani.
 A hobbi rádiózás aranykorában például még teljesen elfogadott volt, hogy a felhasználók maguk javítják a rádióikat -- mert ehhez nem kellett különösebben nagy szaktudás, és volt is hozzá elérhető alkatrész.
-Ezzel szemben a modern eszközök élettartamát az eredeti alkatrészek élettartama határozta meg, mert semmit nem igazán lehetett cserélgetni.
+Ezzel szemben a modern eszközök élettartamát az eredeti alkatrészek élettartama határozza meg, mert semmit nem igazán lehet cserélgetni.
 Innentől él a "death dating" kifejezés is a tervezett elavulásra.
 
 Másrészt ahol meglenne a technológia a javításra és/vagy újrahasznosításra, azoknak viszont egyáltalán nem érdekük ezzel foglalkozni (és politikailag pedig nincsenek is rákötelezve).
@@ -184,8 +184,9 @@ Harmadrészt pedig ott a szándékos inkrementalitás, amikor minden áttörést
 Moore törvénye amúgy is kimondja a technológiai fejlődés exponenciális sebességét (amit már vagy 100 éve ténylegesen tartunk), de ez lehetne vagy még gyorsabb, vagy legalábbis kevesebb közbenső lépéssel és nagyobb egyszeri ugrásokkal, hogy ne termeljünk annyi szemetet.
 
 Aztán ha eltekintünk az integrált áramkörök világától, akkor ott vannak még persze a teljesen védhetetlen stratégiák, mint a már emlegetett GE az égőik élettartamának szándékos csökkentésével, vagy a DuPont a nylon harisnyáik elvékonyításával (mert az elsők annyira jól sikerültek, hogy egyszerűen nem volt elég nagy igény az újravásárlásra).
-Az már csak hab a tortán, hogy a hidegháború alatt Amerika komoly kutatási összegeket fordított a termékeik észrevehetetlen szabotálására, hogy az azokat másoló orosz kémek direkt selejtes terveket építsenek meg.
-Így jutunk egy olyan korba, ahol nem csak kívánatos a termékek időszerű elavulása, de pluszban megvan a technológia, hogy ezt a minőség szándékos korlátozásán, és a javíthatóság minimalizálásán keresztül ki is kényszerítsék.
+
+Az meg már csak hab a tortán, hogy a hidegháború alatt Amerika komoly kutatási összegeket fordított a termékeik észrevehetetlen szabotálására, hogy az azokat ellopó orosz kémek direkt selejtes tervek alapján másoljanak.
+Így jutunk egy olyan korba, ahol nem csak kívánatos a termékek időszerű elavulása, de pluszban megvan a technológia, hogy ezt a gyártási minőség szándékos korlátozásán, és a javíthatóság minimalizálásán keresztül ki is kényszerítsék.
 
 <br>
 
@@ -209,19 +210,17 @@ Az már csak hab a tortán, hogy a hidegháború alatt Amerika komoly kutatási 
 
 Kb. ott, hogy az "eldobhatónak" titulált termékek zöme tele van PBT-kkel (permanens biológiai toxinokkal), amik a szeméttelepre kerülés és/vagy égetés során előbb-utóbb a levegőbe vagy a talajvízbe kerülnek.
 És ez a folyamat a Moore-törvényben kimondott exponenciális növekedés miatt egyre csak gyorsul.
-Fontos a gyártókat okolni, amiért az ő oldalukon nem tesznek meg mindent, amit tehetnének -- de a hatékonyabb változás és az egyéni felelősségvállalás jegyében sajnos nem tehetjük meg, hogy **csak** őket okoljuk.
+Fontos persze a gyártókat okolni, amiért az ő oldalukon nem tesznek meg mindent, amit tehetnének -- de a hatékonyabb változás és az egyéni felelősségvállalás jegyében sajnos nem tehetjük meg, hogy **csak** őket okoljuk.
 A végfelhasználóknak is tisztában kell lenniük a saját használati mintáikkal (és szavazniuk a pénztárcájukkal).
 
-Vannak ugyan belső kezdeményezések a "zöldebb" design irányába: újrahasznosítható komponensek, javíthatóság, visszavétel, garanciák, szétszerelés, stb.
-
-Legfőképp nem ártana némi nagyobb tájékozottság a modern vívmányok valódi *árával* kapcsolatban.
-Mondjuk hogy a szinte minden elektronikus cuccban megtalálható kondenzátorokhoz szükséges tantál bányászata mekkora ökológiai és geopolitikai katyvaszhoz vezethet.
+Legfőképp nem ártana némi tájékozottság a modern vívmányok valódi *árával* kapcsolatban.
+Mondjuk hogy a szinte minden elektronikus cuccban megtalálható kondenzátorokhoz szükséges tantál bányászata mekkora ökológiai és geopolitikai katyvaszhoz vezet Közép-Afrikában.
 Vagy hogy az "újrahasznosítás" gyűjtőszava alá mennyi olyan valójában környezetszennyező és bármiféle kormányzati felügyeletet nélkülöző módszer tartozik.
 
 És hát ugye ott van még az unalomig ismételt minimalizmus, miszerint eleve nem csak a potenciális érték, hanem az ár/érték arány szerint ítéljük meg, hogy valamire szükségünk van-e.
 Illetve ha szükséges is, akkor is inkább a drágább de tartósabb/zöldebb opciót választjuk.
 Vagy áldozunk a korábbi termék javítására.
-Ezekkel kényszeríthetjük csak ki az olyan (már létező, de még közel sem eléggé elterjedt) gyakorlatokat, mint a tervezett szétszerelés, a hulladékkezelés, a tényleges (és ellenőrzött) újrahasznosítás, az ártalmatlanítás, az életciklus tervezés, stb.
+Ezekkel kényszeríthetjük csak ki az olyan (már létező, de még közel sem eléggé elterjedt) gyakorlatokat, mint például a javíthatóság, a visszavételi garanciák, a tervezett szétszerelés, a hulladékkezelés, a tényleges (és ellenőrzött) újrahasznosítás, az ártalmatlanítás, az életciklus tervezés, stb.
 
 Elvégre ezek az ún. "zöld tervezési minták" is mind beletartozhatnának a tervezett elavulásba, nem?
 Előbb-utóbb úgyis minden termék elavul, vagyis habár ezt nem kell/muszáj/etikus sürgetni, de attól készülni még kellene rá!
