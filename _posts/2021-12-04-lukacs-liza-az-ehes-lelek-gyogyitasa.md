@@ -6,7 +6,7 @@ tags: [táplálkozás, szemléletmód]
 pages: 254
 date: 2021-12-04 00:01
 excerpt: >
-    Heti témánk Lukács Liza -- Az éhes lélek gyógyítása című könyve, aminek alapvető tézise, hogy nagyon is jelentős a mentális hozzáállás szerepe a fogyásban.
+    Heti témánk Lukács Liza -- Az éhes lélek gyógyítása című könyve, aminek alapvető tézise, hogy nagyon is jelentős a pszichológia szerepe a fogyásban.
     Csak hát sajnos ezt máshol vagy egyáltalán nem tárgyalják, vagy ha igen, akkor is csak a "legyél keményebb, nincs kifogás, megcsinálod" formában teszik.
     Na mi most *rendesen* tárgyalni fogjuk, és ez remélhetőleg nem csak az evészavarban szenvedőknek, de a segítő szándékú környezetük számára is hasznos lesz.
 ---
@@ -17,7 +17,7 @@ Amikor úgy próbál diétázni, hogy az elején igazából még nem is volt tú
 Amikor hivatalosan nem "beteg", de a fürdőszobai mérleg kijelzőjénél azért jóval mélyebben gyökerezik az önértékelési problémája.
 
 Heti témánk Lukács Liza -- [Az éhes lélek gyógyítása](https://moly.hu/konyvek/lukacs-liza-az-ehes-lelek-gyogyitasa){:target="_blank"} című könyve, amiben ezt a hiányosságot igyekszünk pótolni egy kicsit.
-A szerző alapvető tézise, hogy nagyon is jelentős a mentális hozzáállás szerepe a fogyásban -- amit máshol vagy egyáltalán nem tárgyalnak, vagy ha igen, akkor is csak a "legyél keményebb, nincs kifogás, megcsinálod" formában teszik.
+A szerző alapvető tézise, hogy nagyon is jelentős a pszichológia szerepe a fogyásban -- amit máshol vagy egyáltalán nem tárgyalnak, vagy ha igen, akkor is csak a "legyél keményebb, nincs kifogás, megcsinálod" formában teszik.
 Ez a tézis pedig remélhetőleg nem csak az evészavarban szenvedőknek, de a segítő szándékú környezetük számára is hasznos lesz.
 
 Egy másik kimondott pozitívum, hogy egyáltalán nem akar kész válaszokat adni ezüst tálcán, hanem inkább gondolkodásra szeretne késztetni.
@@ -52,7 +52,7 @@ A tartalom a következőképp alakul:
 Mielőtt a gyógyulás útjára lépnénk, nézzük meg (tényleg csak pár szóban), hogy mi is jellemzi a leggyakoribb evési zavarokat:
 
 - **Anorexia**: kórosan alacsony testsúly, ami viszont testképzavarral is jár -- vagyis érti ő, hogy sovány, de nem *érzi*!
-Ez egy tipikusan *pszichoszomatikus*, ahol testi tünetek hátterében egy lelki eredetű probléma áll.
+Ez egy tipikusan *pszichoszomatikus* állapot, ahol testi tünetek hátterében egy lelki eredetű probléma áll.
 Emiatt torzul az észlelés, a figyelem, az emlékezet, a képzelet, a döntéshozatal, és úgy általában a gondolkodás.
 És persze mindben aránytalan túlsúlyt kapnak majd az evéssel/alakkal/diétával kapcsolatos dolgok.
 
@@ -60,7 +60,7 @@ Emiatt torzul az észlelés, a figyelem, az emlékezet, a képzelet, a döntésh
     De mindezek ellenére nincs betegségtudat.
     Jellemző a kontroll igény és a rugalmasság elvesztése.
     Nem igazán tudnak mit kezdeni a legkisebb súlyingadozással sem, pedig az nagyon is normális.
-    Az alulpátláltsággal rengeted (akár halálos) mellékhatás járhat...
+    Az alulpátláltsággal rengeteg (akár halálos) mellékhatás járhat...
 
 - **Bulimia**: a könyv parodikus hasonlatával élve kb. anorexiás lélek, csak még a tetejébe kövér is.
 Jellemző a helytelen impulzus-kontroll (ami súlyosabb esetben az élet más területeire is kihathat), főként a falásrohamok -- és utána persze valami módon meg kell akadályozni, hogy az lerakódjon.
@@ -74,11 +74,11 @@ Erre egy lehetőség az önhánytatás, de lehet időszakos koplalás, intenzív
 - **Túlevéses zavar**:
 Legtöbbször a tűrés, a másoknak megfelelés, vagy a kiszolgáltatottság oldása kaja által.
 Kb. szó szerint a "vágyaink lenyelése", ami jól mutatja, hogy az evés egy érzelmi válasz.
-A bulimiával szemben itt hosszabbak a falási rohamok (napok) és kevesebb bűntudat.
-A sima túlsúllyal szemben pedig itt a rohamokon kívül is több kalória, mint kellene; sok édesség/nassolás; nagyobb mentális hangsúly az testalkaton/súlyon.
-Mondhatjuk, hogy a a sima túlsúlynál inkább a technikai ismeretek hiánya, vagy a (meg sem kérdőjelezett) családi közeg az ok, a túlevésesnél viszont a túlsúly csak egy tünet.
+A bulimiával szemben itt hosszabbak a falási rohamok (napok) és kevesebb a bűntudat.
+A sima túlsúllyal szemben pedig itt a rohamokon kívül is több kalória repül be, mint kellene; sok édesség/nassolás; nagyobb mentális hangsúly az testalkaton/súlyon.
+Mondhatjuk, hogy a sima túlsúlynál inkább a technikai ismeretek hiánya, vagy a (meg sem kérdőjelezett) családi közeg az ok, a túlevésesnél viszont a túlsúly csak egy tünet.
 
-    Jellemző az élményhiány pótlása ízekkel; az evés a nap fénypontja, amit lehet tervezgetni, várni, lehet miatta szorongani, ha nem lesz/lehet, stb.
+    Jellemző az élményhiány pótlása ízekkel; az evés a nap fénypontja, amit lehet tervezgetni, várni, lehet miatta szorongani, ha nem lesz, stb.
     A fő baj, hogy az alany többet/mást eszik, mint amik a biológiai igényei lennének, mert tudat alatt valami más (kielégítetlen) igényét is a kajával szeretné kielégíteni.
     Lelki okai lehetnek:
 
@@ -89,7 +89,7 @@ Mondhatjuk, hogy a a sima túlsúlynál inkább a technikai ismeretek hiánya, v
 - **Orthorexia**:
 Avagy a mániásan "egészséges" étkezés, ami ugyan csak említés szintjén, de előkerül.
 Én azért emelném ki, hogy példázza: a másik oldalára is nagyon át lehet esni a lónak.
-A cél nem *csak* a túlsúly (vagy épp az alultápláltság) eltüntetése, hanem az, hogy az étkezés egy megfelelően súlyozott, rugalmas, laza, nem agyonstresszelt helyre kerüljön az életünkben.
+A cél nem *csak* a túlsúly (vagy épp az alultápláltság) eltüntetése, hanem az, hogy az étkezés egy arányosan hangsúlyos, rugalmas, laza, nem agyonstresszelt helyre kerüljön az életünkben.
 
 <br>
 
@@ -165,11 +165,11 @@ A leggyakoribb "igazi" válaszok mind pszichológiai jellegűek: önbizalom, sze
 - A gyengébb zavar is zavar -- attól, hogy nem ütünk meg vele egy (önkényes?) klinikai definíciót, attól még jelzik, hogy valami gond van a háttérben, és nincs rá valós megbirkózási stratégiánk.
 A súlyosság hiánya miatt pedig akár évtizedekig húzódhat az állapot, aminek testileg lehet hogy nem lesz annyira komoly "szövődménye", de lelkileg igen.
 És ez ki fog hatni a munkahelyi, családi, gyereknevelési dolgokra egyaránt.
-Ha például egy túlsúllyal küzdő személy csak a súlycsökkentésre figyel, miközben az önkontroll, az evésen kívüli feszültséglevezetési módszerek, az érzelemkifejezés vonalain semmit nem halad, akkor szinte óhatatlanul vissza fog hízni.
+Ha például egy túlsúllyal küzdő személy csak a súlycsökkentésre figyel, miközben az önkontroll, az evésen kívüli feszültséglevezetési módszerek vagy az érzelemkifejezés vonalain semmit nem halad, akkor szinte óhatatlanul vissza fog hízni.
     
     > A szubklinikai zavarok [...] hasonló területeken fennálló pszichés és szociális hiányokat, elakadásokat sejtetnek a személyiségben.
 
-- Azért kell a pszichológia, hogy általa az evés az megfelelő helyére kerüljön az életben, ne más élményeket próbáljunk pótolni vele.
+- Azért kell a pszichológia, hogy általa az evés a megfelelő helyére kerüljön az életben, ne más élményeket próbáljunk pótolni vele.
 Meg kell értenünk, hogy mi az étkezési zavarunk üzenete, és az alatta meghúzódó okokat megoldani egy pusztán tüneti kezelés helyett.
 Kórházban gyógyulni a legtöbb ilyen esetben felesleges (ágyúval verébre), de egyedül viszont sokkal nehezebb és lassabb lehet, mint valami külső segítséggel.
 Mindemellett: érdemes a pszichológushoz is csak saját felelősségünk tudatában menni:
@@ -228,7 +228,7 @@ Fel kell ismernünk, hogy ez a viselkedés hiányt pótol, és akkor is el kéne
 Viszont vigyázzunk: lassú és fokozatos változtatások kellenek ahhoz, hogy ne sóvárgással éljük meg az elhagyásokat (még ha teljes értékű is marad az étrendünk).
 
 Tiszteljük a gyökereinket, mert nagyban befolyásolhatják, hogy merre/meddig mehetünk el hiányérzet nélkül!
-Például ha a mákos guba mindig is az ünnepek része volt, akkor hosszú távon érdemesebb lehet olyankorra beiktatni, mint a túl szigorú sanyargatás miatt pár hónap múlva sokkal durvábban visszaesni.
+Például ha a mákos guba mindig az ünnepek része volt, akkor hosszú távon érdemesebb lehet olyankorra beiktatni a maga cukortartalmával együtt is, mint a túl szigorú sanyargatás miatt pár hónap múlva sokkal durvábban visszaesni.
 Az egyéb jellegű ingereket (különös hangsúllyal a párkapcsolati ingerekre) pedig semmiképp ne vonjuk meg magunktól, mondván hogy "majd ha lefogytunk", mert azzal olyan környezetet teremtünk, amiben eleve szinte lehetetlen lesz lefogyni.
 
 <br>
@@ -256,10 +256,10 @@ Vagy ahogy a szerző írja, nagyon találóan:
 
 #### 3. Az elismeréséhség
 
-Ilyenkor a "figyelek rád" és/vagy a "fontos vagy nekem" lekommunikálása hiányzik, főleg szóban kifejezve.
+Ilyenkor a "figyelek rád" és/vagy a "fontos vagy nekem" lekommunikálása hiányzik, első sorban szóban kifejezve.
 Női szemszögből főleg: mivel egyre több szerepnek kell **egyszerre** megfelelni (nő/feleség/anya), ezért mindegyik területről kell is az elismerés.
 De általánosabban is: mindenféle szerepkörben várjuk a pozitív visszacsatolást, és ha valahol nincs, az csak még jobban feltűnik azok mellett, ahol van.
-Ha pedig (akár csak egy területen is) nincs, azt könnyen evésbe lehet ám fojtani, kvázi jutalomfalatokkal.
+Ha pedig (akár csak egy területen) nincs, azt könnyen evésbe lehet ám fojtani, kvázi jutalomfalatokkal.
 Ami, a túlsúlyon keresztül, általában csak csökkenti az elismerést, és növeli az esetleges kritikák gyakoriságát, amivel még több jutalomfalat kell majd...
 Megint egy de szép ördögi kör.
 
@@ -277,13 +277,13 @@ Illetve kérdés még, hogy saját magunkat képesek vagyunk-e dicsérni/szeretn
 
 A testi vágyak megélése miatt a szex és az evés elég közel vannak egymáshoz, ezért az egyik (szex) hiányát könnyen helyettesítheti a másik (zabálás).
 És itt szex hiány címszó alatt ne csak a "fáj a fejem"-re gondoljunk, hanem akár gyerekkori szexuális bántalmazásból eredő elzárkózáshoz -- aminek a hiányzó ingereit kajával pótolhatjuk.
-Vagy ami még rosszabb: ha értéktelennek tekintünk a testünkre, és ezért az sem baj, ha szenny kajával (vagy épp koplalással, vagy hányással) tönkretesszük.
+Vagy ami még rosszabb: ha értéktelennek tekintjük a testünket, és ezért az sem baj, ha szenny kajával (vagy épp koplalással, vagy hányással) tönkretesszük.
 Mindkettőben próbálhatjuk elnyomni, vagy akár (magunk előtt is) letagadni a vágyainkat, de ez legtöbbször csak a (meg)csaláshoz vezet.
 A testi ismeretek hiánya és a torz testkép miatt nem fogjuk jól érezni magunkat a bőrünkben, ami a szexet csökkenti, a komfort evést meg növeli.
 
 A szex fizikai akadályozáshoz 30+ kiló túlsúly is kellhet, de pszichológiailag már 1-2 rosszul megélt plusz kiló is keresztbe tehet!
-Konkrétan a nagy közös kajálások ki is válthatják a szexet.
-Viszont minden, ami a testi tudatosságot fejleszti (milyen vágyai, előnyei, örömei, igényei, működései, funkciói, mozgásai, hajlásai, stb. lehetnek), az mindkét oldalt jó irányba tolhatja.
+Konkrétan nem ritka, amikor a nagy közös kajálások ki is váltják a szexet.
+Viszont minden, ami a testi tudatosságot fejleszti (milyen vágyai, előnyei, örömei, igényei, működései, funkciói, mozgásai, hajlásai, stb. lehetnek), az mindkét oldalt jó irányba billentheti a mérleg nyelvét.
 És ezért nem jó a "majd szexelünk, ha lefogytunk" hozzáállás sem, mert azzal az egyik oldalt egyből lenulláztuk, ami segíthette volna a másik oldalt is!
 
 <br>
@@ -293,7 +293,7 @@ Viszont minden, ami a testi tudatosságot fejleszti (milyen vágyai, előnyei, �
 
 A név onnan ered, hogy nem kielégítő a napjaink szerkezete.
 Nem megfelelő a rövid távú tervezés, sok a halogatás, folyamatos az elcsúszás, stb.
-Komolyabb esetben döntési nehézségek, hosszabb távú tervek és a felelősségvállalás hiánya is felmerülhetnek.
+Komolyabb esetben döntési nehézségek, vagy a hosszabb távú tervek és a felelősségvállalás hiánya is felmerülhetnek.
 
 Értelmezésem szerint ennek ellensúlyozására használjuk a langyos pocsolyánkat, ahol még kényelmes a kaja.
 Majd ha már ez-és-ez rendben lesznek, akkor következhet az életmódváltás a ranglistán.
@@ -302,7 +302,7 @@ Csak hát ugye nem haladunk sehova, és magától meg érdekes módon nem jön e
 
 Ide tartozik, hogy a külső kontra belső kontrollt hogy éljük meg úgy általánosságban.
 Ha az életünkben is csak úgy sodródunk, akkor az étkezési szokásainknál is a külső ingerek (íz, illat, társasági nyomás, ár, alkalom, stb.) határozzák majd meg, hogy eszünk-e.
-De a ló másik oldalán, ha épp egy nagyon merev diétát követnek, az is külső kontroll, mert kívülről próbálnak szabályozni, amit mi hagyunk.
+De a ló másik oldalán, ha épp egy nagyon merev diétát követünk, az is külső kontroll, mert kívülről próbálnak szabályozni, amit mi hagyunk.
 Ha viszont a napirendünket is kézben tartjuk, akkor nagy eséllyel az evésnél is képesek leszünk befelé fordulni -- hogy tényleg éhesek vagyunk-e, hogy jól illeszkedik-e a céljainkhoz ez az étel, ilyesmi.
 
 <br>
@@ -310,18 +310,18 @@ Ha viszont a napirendünket is kézben tartjuk, akkor nagy eséllyel az evésné
 
 #### 6. Cselekvési éhség
 
-Egy szóval: unatkozás
+Egy szóval: unatkozás.
 Ami ugye nem feltétlen annyi, hogy nincs mit csinálni, csak nincs *olyan* tennivaló, ami érdekes, fejlesztő jellegű, kihívást jelentő vagy örömet okozó lenne.
 Persze minden életvitelben lesznek rutin feladatok -- de ha már más sincs, csak rutin feladatok, akkor jönni fog az unalom, és vele együtt sokszor a túlevés is.
 
 Ide tartozik továbbá a kiégés, ami habár még jól indul (túllelkesedés, túlazonosulás), de aztán egyre laposabb és végül negatívabb lesz (stagnálás, frusztráció, apátia).
-Például a párkapcsolatban: először a rózsaszín szemüveg, csak a pozitív tulajdonságok észrevétele, de tartson az hónapokig vagy akár évekig, előbb-utóbb elérjük a stagnálást, ahonnan ha nem dolgozunk tudatosan a folyamat visszafordításán, akkor a frusztrációs fázisba már épp a negatív vonásokat fogjuk felerősíteni.
-Az apátiánál meg már csak azok maradnak (mert a pozitívakat észre sem vesszük többé).
+Például a párkapcsolatban: először a rózsaszín szemüveg, csak a pozitív tulajdonságok észrevétele, de tartson az hónapokig vagy akár évekig, előbb-utóbb elérjük a stagnálást, ahonnan ha nem dolgozunk tudatosan a folyamat visszafordításán, akkor a frusztrációs fázisban már épp a negatív vonásokat fogjuk lelki szemeink előtt aránytalanul felerősíteni.
+Az apátiánál meg szinte csak azok maradnak (mert a pozitívakat észre sem vesszük többé).
 
 Vagy egy másik példa a diétázásban: hirtelen és mindent érintő életmódváltás, görcsös ragaszkodás a tervhez, minden egyéb program alárendelése, de aztán idővel az eredmények már nem jönnek olyan könnyen (a lelkesedés meg elfogy), és a program fenntartása egyre nehezebb, amikor is feszültségoldásként eszik az ember, amitől még rosszabb lesz a helyzet.
-Az apátiánál pedig érkezik a végső "úgysem tudok lefogyni" jellegű a beletörődés.
+Az apátiánál pedig érkezik a végső, "úgysem tudok lefogyni" jellegű beletörődés.
 
-Természetesen a kiégés nem az egyetlen; lehet más (vélt) cselekvést gátló tényező is, mint például az önbizalomhiány, a döntésképtelenség, a félelem a felelősségvállalástól, a kudarckerülés, vagy az önismeret hiánya.
+Természetesen nem a kiégés az egyetlen gyanúsított; lehet más (vélt) cselekvést gátló tényező is, mint például az önbizalomhiány, a döntésképtelenség, a felelősségvállalástól való félelem, a kudarckerülés, vagy az önismeret hiánya.
 Csak ilyenkor nem lesz sikerélmény sem, emiatt fejlődés sem, és emiatt valamivel majd megint kompenzálni kell.
 
 <br>
@@ -331,10 +331,12 @@ Csak ilyenkor nem lesz sikerélmény sem, emiatt fejlődés sem, és emiatt vala
 
 Alkotási és/vagy gondoskodási igény, ami (ha kiéletlenül marad) éhséget hagy maga után.
 A gondoskodásnál fontos az egyensúly:
-- Ha csak másokról gondoskodunk magunk rovására, az összefüggésben lehet az anorexiával/bulimiával;
-- Ha pedig csak magunkra figyelünk mások rovására, az a túlevéssel vagy az orthorexiával.
 
-Produktivitásnál pedig az az elsődleges tipp a saját definíciónk flexibilitása.
+- Ha csak másokról gondoskodunk magunk rovására, az összefüggésben lehet az anorexiával vagy a bulimiával;
+
+- Ha pedig csak magunkra figyelünk mások rovására, az összefüggésben lehet a túlevéssel vagy az orthorexiával.
+
+Produktivitásnál pedig a saját definícióink flexibilitása az elsődleges tipp.
 Előfordulhat mondjuk, hogy az öregedéssel vagy szerepeink elvesztésével már nem érezzük magunkat hasznosnak, amit szintén könnyű túlevésbe fojtani -- de ezen könnyen változtathatunk, ha más szerepeket keresünk magunknak, vagy máshogy kezdjük definiálni a saját hasznosságunkat!
 
 <br>
@@ -344,14 +346,15 @@ Előfordulhat mondjuk, hogy az öregedéssel vagy szerepeink elvesztésével má
 
 Végül pedig a szeretet, ahol ugye nem győzzük hangsúlyozni: az a fontos, hogy a másik fél érzi-e, nem az, hogy mi "sugározzuk-e" (lásd [szeretetnyelvek]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %})).
 Az **érezhető** szeretet két alapvető komponense a tisztelet és a figyelem.
-A tisztelet alanyi jogon kell, hogy járjon, nem kell(ene) kiérdemelni -- ha nincs meg, azután az "áldozat" sokszor magát sem fogja tisztelni.
+A tisztelet alanyi jogon kell, hogy járjon, nem kell(ene) kiérdemelni.
+Ha nincs meg, azután az "áldozat" sokszor magát sem fogja tisztelni.
 A figyelemnél pedig a megismerés, az energia befektetés számít, nem csak a fizikai egy térben levés (lásd "minőségi idő").
 
 Ezek hiányában gyereki szinten ragad az illető érzelmi szinten, mások véleménye túl sokat fog nyomni a latba, és ha ezek a vélemények közül valamelyik negatív (vagy akár csak annak éli meg), akkor máris jöhet a hűtőszekrény terapeutikus látogatása.
 Egyszerre kéne a biztonság és a szabadság érzése, amihez a szerető félnek mindig csak abban kéne segítenie, ami a másiknak nem megy.
 Viszont ezt ugye honnan is tudná, ha nem figyel -- és miért is tartaná tiszteletben a válaszvonalakat, ha nem tiszteli a másikat.
 
-Jótanács, hogy csináljunk az étkezésekből is minőségi időt, amivel kezelni (és főleg megelőzni is) lehet az evészavarokat.
+Jótanács, hogy csináljunk az étkezésekből is minőségi időt, amivel kezelni (és főleg megelőzni) lehet az evészavarokat.
 
 <br>
 
@@ -391,7 +394,7 @@ A biológiai hátteret lehet jobban általánosítani (bár mint korábbi poszto
 
 Az evészavaros családokban megfigyelhető, hogy érték a gondolatolvasás, illetve hogy nincs tiszta, egyértelmű kommunikáció.
 Gyakori az összemosottság (belelógnak egymás dolgába), a hiperprotektivitás (túlságosan védik egymást a külső behatásoktól), a merevség, a konfliktuskezelési képesség hiánya, a felelősségvállalás hiánya, a kényszerített gyermeki szerep (akár a szülők részéről is, akiknek a saját szüleikkel sem tisztázott a viszonya), stb.
-Ezekkel pedig akkor nyilvánul meg a legfőbb baj, ha az ember nem hogy kitörne belőle, hanem még párnak is ilyen vagy hasonló mintázatokkal rendelkező személyt választ -- amiket így aztán szépen továbbra is fenntarthatnak (sőt, még a saját gyerekeiknek is továbbadhatnak).
+Ezekkel pedig akkor nyilvánul meg a legfőbb baj, ha az ember nem hogy kitörne belőlük, hanem még párnak is ilyen vagy hasonló mintázatokkal rendelkező személyt választ -- amiket így aztán szépen továbbra is fenntarthatnak (sőt, még a saját gyerekeiknek is továbbadhatnak).
 
 Párkapcsolati vonalon lesz, aki azt hiszi, hogy ha lenne kapcsolata, akkor az evészavara is rendbe jönne -- de ez általában épp fordítva van.
 Valószínűleg az evészavara is olyasmi miatt alakult ki, ami miatt kapcsolatot sem tud kialakítani, és erre pótléknak hiába jönne akár varázsütésre egy kapcsolat, akkor is megmaradna mögötte a probléma.
@@ -401,10 +404,11 @@ Lesz továbbá, aki az egész magabiztosságát a fogyás sikeréhez köti -- am
 
 Összességében: a szerző átfogó tapasztalata, hogy nehezebb párkapcsolatban gyógyulni, mert a változással sok egyéb szálat is megkuszálhatunk, amik új konfliktusok forrásai lesznek -- amik persze nem igazán "újak", csak most kerülnek elő a szőnyeg alól.
 Lehet támogató a másik, de ne feledjük, hogy a felelősség akkor is egyéni.
-De ha már támogatás, akkor azt is igyekezzünk jól csinálni:
+Támogatói oldaláról nézve pedig tudatosítsuk, hogy azt sem mindegy, hogyan csinálja az ember:
 
-- Rossz "támogatás": felelősség átvállalás, felügyelet, infantilizálás, ápoló/gyógyító/megmentő szerepkör magunkra öltése;
-- Jó támogatás: a puszta léte miatti örömünk kifejezése, új kihívásokra való bátorítás, bizalom, magánszféra tiszteletben tartása -- és úgy általában, nem csak a tünetekre koncentrálás.
+- Rossz "támogatás": felelősség átvállalása, felügyelet, infantilizálás, ápoló/gyógyító/megmentő szerepkör magunkra öltése;
+
+- Jó támogatás: a másik puszta léte miatti örömünk kifejezése, új kihívásokra való bátorítás, bizalom, magánszféra tiszteletben tartása -- és úgy általában az, hogy nem csak a tünetekre koncentrálunk.
 
 <br>
 
@@ -434,13 +438,13 @@ Hiába csak csöpög a csap, elég idő alatt az is eláztatja a fürdőszobát.
 És ilyenkor sem az eltökéltebb felmosás a megoldás, hanem először elzárni azt a kurva csapot, nem?
 
 Szerintem mind kaptuk bőben gondolkodni valót a saját étkezési szokásainkkal (és azok eredetével) kapcsolatban.
-És ugye kimondottan ez is volt a cél -- nem prédikálni **_A_** helyes módszerről, hanem elgondolkodtatni, hogy aztán magunktól találjunk rá a számunkra helyes útra.
+És ugye kimondottan ez is volt a cél -- nem prédikálni **_<u>A</u>_** helyes módszerről, hanem elgondolkodtatni, hogy aztán magunktól találjunk rá a számunkra helyes útra.
 Én azért külön kiemelném még egyszer azokat a pontokat, amik nekem nagyon betaláltak:
 
 - A *tünetváltás* nem egyenlő a gyógyulással!
-Ha a túlevésből a túlzott egészségfókuszba megyek át, attól még a "túl" rész megmaradt...
+Ha mondjuk a túlevésből a túlzott egészségfókuszba megyünk át, attól még a "túl" rész megmaradt...
 
-- Nem csak önismeret, hanem a kapcsolati minták is nagy szerepet játszhatnak.
+- Nem csak az önismeret, hanem a kapcsolati minták is nagy szerepet játszhatnak.
 Lehet, hogy öntudatlanul választottunk magunknak olyan társat, aki a régi negatív mintákat fenntartja, de aztán amikor kitörni szeretnénk ezekből, akkor ne hagyjuk figyelmen kívül a párunk potenciális visszahúzó hatását!
 
 - Illetve egy elejtett félmondat, miszerint az alkohol/drog és hasonló függőségekkel szemben a kaját nem hagyhatjuk el teljesen.
