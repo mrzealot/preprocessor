@@ -85,7 +85,7 @@ A fontos az, hogy tisztában legyünk a végletekkel, és hogy utána tudatosan 
 A tünetekben, és a látszólagos megoldásokban semmi új nincs.
 Sok közmondásból eddig is tudhattuk, hogy "soha ne adjuk fel", hogy a "kitartó munka meghozza gyümölcsét", vagy hogy "Róma sem egy nap alatt épült".
 Itt egyedül annyi az új, hogy magára a kudarcra adott reakciónkat is erre az alapvető hozzáállásbeli különbségre vezetjük vissza.
-Mondhatni, hogy itt talán végre a tünet helyett a kiváltó kezelhetnénk.
+Mondhatni, hogy itt talán végre a tünet helyett a kiváltó okot kezelhetnénk.
 Mert hát az alapvető szemléletmódunk megváltoztatása nélkül hiába mondják majd, hogy "csak ne add fel".
 Ha viszont megváltoztatjuk, akkor senkinek nem is kell majd mondania.
 

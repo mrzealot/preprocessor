@@ -414,7 +414,7 @@ Biztos vagyok benne, hogy mindannyian tisztában vagyunk a vonatkozó stratégi�
 - Az akció csak Y napig érvényes!
 - Soha vissza nem térő alkalom; Gyorsan, amíg még lehet...
 
-Ha valami korlátozza az eddig szabadságunkat (például hogy eddig *választhattuk volna* azt a fazekat, ha akartuk volna, de most már csak egy utolsó darab van, és arra is sorban állnak), akkor azt jobban fogjuk akarni.
+Ha valami korlátozza az eddigi szabadságunkat (például hogy eddig *választhattuk volna* azt a fazekat, ha akartuk volna, de most már csak egy utolsó darab van, és arra is sorban állnak), akkor azt jobban fogjuk akarni.
 Szinte függetlenül attól, hogy addig akartuk-e egyáltalán!
 Sőt, nem csak jobban akarjuk majd, de *jobbnak* is fogjuk tekinteni (bármiről is legyen szó).
 Mert hiába indította a ritkaság a folyamatot, utána tudat alatt azért magunknak valahogy csak meg kell tudni magyarázni, hogy miért is akarjuk ennyire.
