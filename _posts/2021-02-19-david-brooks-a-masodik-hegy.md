@@ -395,6 +395,7 @@ A hétköznapibb tippekért hadd ajánljam az [5 szeretetnyelv]({% post_url 2020
 Bónusz két gyakori krízis, amire jó előre készülni:
 
 - Az első gyerek születése után nagy lehet a kísértés az egyre csak bonyolódó kapcsolatunkat a gyerek felé érzett tiszta, egyszerű szeretetre cserélni;
+
 - Az életközépi válságoknál és/vagy megkeseredéseknél hajlamosak vagyunk az önvizsgálat előtt (vagy rosszabb esetben az önvizsgálat *helyett*) a másikat hibáztatni a boldogtalanságunkért.
 
 Ha az ilyen vagy ezekhez hasonló krízisek már annyira eluralkodtak, hogy parázs sem maradt, akkor néha elkerülhetetlen lehet a válás...
@@ -440,7 +441,7 @@ Csak hát aztán jött a már jól ismert túl-specializáció, és az ilyen át
 Sőt, a nyitott, absztrakt kérdések ma már szinte komolytalan fényben tűnnek fel.
 Elvégre kinek van ideje ezoterikus baromságokkal foglalkozni, amikor a kvantum-algoritmusok vagy a nano-csövek konkrét tulajdonságait is vizsgálhatjuk?!
 Nincs már iskola, ami az *egész* emberi lényt tekintené.
-Ezért kell a "Nagy Könyvek" alapján okulnunk -- és ha ezt senki nem biztosítja, akkor magunknak biztosítani!
+Ezért kell a "Nagy Könyvek" alapján okulnunk -- és ha ezt senki nem biztosítja, akkor magunknak kell biztosítani!
 
 > Az egyetemek, csakúgy mint a társadalom többi része, információban gazdagok de jelentésben szegények.
 > > The universities, like the rest of society, are information rich and meaning poor.

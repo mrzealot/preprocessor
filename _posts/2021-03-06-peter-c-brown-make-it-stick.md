@@ -165,7 +165,7 @@ Illetve a visszajelzésnél is jó, ha késik egy kicsit, nehogy megszokottá v�
 A változatos gyakorlás még azzal szemben is növelni tudja a teljesítményünket, mintha csak azt gyakoroltuk volna, ami a vizsgaanyag lesz.
 Két szemléletes példa:
 
-1. Tesiórán két csoport, ahol az egyik csak 2 méterre dobott célba, míg a másik 1 **és** 3 méterre gyakorolt (de 2-re pont nem). Amikor ezután tesztelték őket egy 2 méteres célba dobással, az 1-és-3 csoport nyert -- valószínűleg meg jobban megtanulták kalibrálni a dobásaik nagyságát.
+1. Tesiórán két csoport, ahol az egyik csak 2 méterre dobott célba, míg a másik 1 **és** 3 méterre gyakorolt (de 2-re pont nem). Amikor ezután tesztelték őket egy 2 méteres célba dobással, az 1-és-3 csoport nyert -- valószínűleg mert jobban megtanulták kalibrálni a dobásaik nagyságát.
 
 2. Baseball gyakorlásnál két csoport, ahol az egyik tömbösítve kapott 10 *ilyen*, 10 *olyan*, és 10 *amolyan* dobást (a pontos szaknevektől tekintsünk el), a másik pedig véletlenszerűen 30-at. Gyakorlás során látszólag a tömbösített csoport teljesített jobban, de a meccseken a véletlenszerűek -- valószínűleg mert az ütés mellett a dobások felismerését is megtanulták.
 
@@ -224,7 +224,7 @@ Hasonló okból a saját szavainkkal megfogalmazás és leírás is sokkal mély
 Amióta ezt a blogot írom, szinte minden fontosra emlékszem, amiről írtam (szemben az egyetemi tanulmányaimmal, ahol azért igencsak jelentkeznek a magolás miatti gyors kiesés tünetei).
 
 Azért persze ne essünk át a ló másik oldalára sem: a nehézségek addig kívánatosak, amíg azért (fogcsikorgatva ugyan, de) meg tudunk birkózni velük.
-Próbáljuk midig azt nézni, hogy a tudás valós életbeli alkalmazása során milyen nehézségek adódhatnak.
+Próbáljuk mindig azt nézni, hogy a tudás valós életbeli alkalmazása során milyen nehézségek adódhatnak.
 Ha azokat megtanuljuk kezelni (vagy akár erőt meríteni belőlük, ahogy [Josh Waitzkin]({% post_url 2021-02-06-josh-waitzkin-a-tanulas-muveszete %}) írta), az jó!
 De az egyéb nehézségeket továbbra is kerüljük inkább, nehogy csak üresjáratban szívassuk magunkat.
 
