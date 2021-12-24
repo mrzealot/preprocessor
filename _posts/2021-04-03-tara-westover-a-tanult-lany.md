@@ -51,7 +51,7 @@ Mondtam, hogy **Spoiler warning**, ugye? Akkor jó.
 
 ## <a name="gyerekkor"></a>Egy abnormális gyerekkor
 
-Az iskolabusz megállás nélkül hajt el a farmjuk mellett a főúton -- az első mentális kép, ami tökéletesen megalapozza az alaphangulatot.
+Az iskolabusz megállás nélkül hajt el a farmjuk mellett a főúton -- az első mentális kép, ami tökéletesen megalapozza a hangulatot.
 A kis Tara ugyanis nem jár iskolába, ahogy a testvérei sem.
 És ez még talán nem is lenne akkora baj egy *rendes* otthoni oktatás mellett...
 De sajnos ahol egyszerre vakbuzgó mormonok, összeesküvés-elméleteket szajkózó kormányellenesek, és a világvégére készülő "prepperek" a szülők, ott lesz nagyobb baj is.

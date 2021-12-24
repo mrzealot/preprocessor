@@ -315,8 +315,8 @@ Alap biológia: a stressz mindig adaptációhoz vezet, ha nem túlterhelő, és 
 Néhány edzésterv komplex *periodizálást* alkalmaz, ahol váltakoznak a mennyiségre koncentráló napok, az alacsony intenzitású hetek, a maximum erőfeszítést igénylő szettek, stb.
 De ezeknek legfeljebb profibb szinteken van értelme; a kezdőknek bőven elég, ha váltott napokon, és egyre nagyobb súlyokkal végzik az alap gyakorlatokat.
 
-Mindig A és B edzések váltják egymást, vagyis két egymás utáni hét A/B/A illetve B/A/B módon alakulna.
 Hetente három alkalom az ideális, nem egymás utáni napokon.
+Mindig A és B edzések váltják egymást, vagyis két egymás utáni hét A/B/A illetve B/A/B módon alakulna.
 A leggyakoribb javaslat a hétfő/szerda/péntek, de értelemszerűen a kedd/csütörtök/szombat sem ördögtől való.
 A gyakorlatokat egy edzésen belül is mindig a megadott sorrendben érdemes végezni.
 
@@ -388,6 +388,6 @@ Kellően magas szintről ez minden, amit a testünk teljes átmozgatásához és
 A [Fegyencedzés]({% post_url 2020-04-03-paul-wade-fegyencedzes %}) korábban már megtanított minket mindenféle eszköz nélkül edzeni, viszont ott a nehézségi szintet valóban bonyolultabb volt állítgatni.
 Itt pedig láthattuk, hogyan mozgassuk meg kb. ugyanazokat a porcikákat egyszerűen nehezíthető módon -- viszont most már egy súlyozott rúd segítségével.
 
-De hát fő az flexibilitás, nem?
+De hát fő a flexibilitás, nem?
 Minél több utat ismerünk ugyanahhoz a célhoz, annál biztosabb, hogy végül odaérünk.
 Kívánom mindenkinek, hogy innentől (Rippetoe hasonlatával élve) úgy tudjon intellektuális/spirituális életet élni, hogy közben azért a guggolásán sincs mit szégyellni!
