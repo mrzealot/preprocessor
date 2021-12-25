@@ -77,7 +77,7 @@ Nem módosítom a tudatom, hanem szélesítem, és így józanul is több öröm
 #### **04**&nbsp;&nbsp;&nbsp; A Mítosz Szabály
 
 Szimbolikusan gondolkozom, és mindenben a leckét keresem -- mert ilyen szemmel meg is fogom találni.
-Nem szégyellek jelentést es jelentőséget adni a jelentős dolgoknak.
+Nem szégyellek jelentést és jelentőséget adni a jelentős dolgoknak.
 
 *A név [Joseph Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %}) munkásságára utal, és hogy szerinte a tudatosan mitologikus gondolkozás által mennyivel kerekebb és kielégítőbb életet élhetünk.*
 

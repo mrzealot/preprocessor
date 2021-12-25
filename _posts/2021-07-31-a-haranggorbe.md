@@ -39,7 +39,7 @@ Csak arra koncentrálunk, ami amúgy is megy, amivel egy kicsit kitűnhetünk (l
 És jó esetben legalább azt azért fejlesztgetjük -- rosszabb esetben pedig csak élvezkedünk a természetes tehetségünk babérjain, miközben kerülünk minden olyan szituációt, ahol kiderülhetnének a korlátaink.
     
 Ehelyett most nézzünk rá a fenti ábrára, és ismerjük fel, hogy mekkora a tolongás a közepén, és hogy milyen kihalt a két vége.
-És aztán ezt szorozzuk fel fejben az élet számtalan, változatos területével -- mert persze lehet, hogy francia nyelvtudásban, munkahelyi produktivitásban, vagy origami elefánt hajtogatásban magasan az átlag felett vagyunk, de attól marad még a az autóvezetési ügyességünk, a tenisz technikánk, vagy a párkapcsolati kommunikációnk kifinomultsága; és még úgy megközelítőleg 9000 dolog.
+És aztán ezt szorozzuk fel fejben az élet számtalan, változatos területével -- mert persze lehet, hogy francia nyelvtudásban, munkahelyi produktivitásban, vagy origami elefánt hajtogatásban magasan az átlag felett vagyunk, de attól marad még az autóvezetési ügyességünk, a tenisz technikánk, vagy a párkapcsolati kommunikációnk kifinomultsága; és még úgy megközelítőleg 9000 dolog.
 
 Ha ebből a szemszögből egy kicsit átfogalmazzuk a fenti szórásos ismereteket, akkor sem jönnek ki túl biztató számok.
 Ha például zseniálisan kitűnők akarunk lenni valamiben, akkor ahhoz az emberek 99,85%-ánál jobb teljesítményt kell mutatnunk (99.7%, plusz a maradék 0,3% idióta oldalra maradó fele).
