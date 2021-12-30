@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ichiro Kishimi & Fumitake Koga - Vállald ​fel bátran önmagad
+title: Ichiro Kishimi & Fumitake Koga - Vállald fel bátran önmagad
 cover: disliked
 tags: [szemléletmód, kapcsolatok]
 pages: 276
