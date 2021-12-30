@@ -22,7 +22,7 @@ Előbb jöjjön a két sztori.
 
 Mondhatni közszájon forog a neten egy kísérlet, amiben 5 majom és egy létra tetején elhelyezett banán szerepel.
 Amikor azonban valamelyik majom nekiállna felmászni a banánért, hideg zuhanyt kap.
-Ezt pár próbálkozás olyan alaposan megtanulják mind az öten, hogy idővel már semelyikük nem próbálkozik.
+Ezt pár kör alatt olyan alaposan megtanulják mind az öten, hogy idővel már egyikük sem próbálkozik.
 Pedig a kutatók az X-edik elriasztás után kikapcsolják a locsolót, de addigra késő.
 
 És erre jön csak a csavar: elkezdik egyesével lecserélni a majmokat a szobában olyanokra, akiknek még nincs tapasztalatuk a hideg zuhannyal.
@@ -64,7 +64,7 @@ A majmos sztorinál nem emlékeztem, honnan is hallottam, viszont szerettem voln
 Ez vezetett (több közbenső állomáson keresztül) egy olyan [blog bejegyzéshez](https://www.throwcase.com/2014/12/21/that-five-monkeys-and-a-banana-story-is-rubbish/){:target="_blank"}, amiben a szerző szép részletesen szétcincálja a kísérlet származását és eredetiségét.
 Létezik ugyan egy cikk, ami nagy jóindulattal fogalmazva talán "hasonlónak" is mondható, de részleteiben kb. mindenben más, és végül nem is ezt a következtetést vonja le.
 
-Ez viszont elindított egy hasonló ellenőrző körútra a maláriás történettel kapcsolatban is -- mert habár ott emlékeztem, hogy Kék Zónás könyvben olvastam róla, de az ott megjelölt forrásra már nem.
+Ez viszont elindított egy hasonló ellenőrző körútra a maláriás történettel kapcsolatban is -- mert habár ott emlékeztem, hogy a Kék Zónás könyvben olvastam róla, de az ott megjelölt forrásra már nem.
 És lássunk csodát, ott sincs forrás.
 Vagyis ezzel az erővel ugyanolyan szinten van, mint egy anekdota, amit Pista bá' mesél a kocsmában.
 A tetejébe némi extra kereséssel egy hivatalos [WHO tanulmányba](https://apps.who.int/iris/bitstream/handle/10665/69854/WHO_HSE_IHE_08.01_eng.pdf){:target="_blank"} is belebotlottam, ami a végső ajánlásai közt kimondja, hogy:

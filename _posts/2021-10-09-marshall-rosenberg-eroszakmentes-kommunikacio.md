@@ -401,7 +401,7 @@ Számtalan stratégia létezhet ugyanannak a szükségletnek a kielégítésére
 És a köznyelvi értelmezésben vett "kompromisszum" is csak azért jár áldozatokkal, mert egy-egy konkrét stratégiából kell engednünk.
 Ha ehelyett tudnánk tisztán a szükségleteinket nézni, akkor azokhoz szinte garantált, hogy létezne olyan stratégia, ami maradéktalanul kielégítené mindenkiét.
 
-    > Minél több tapasztalatot gyűjtök a konfliktuskezelésben az évek során, és minél többször látom, hogy mik vezetnek a családi viszályokhoz és a nemzetek háborúihoz, annál biztosabb leszek benne, hogy ezeket a konfliktusokat egy kisiksolás is meg tudná oldani.
+    > Minél több tapasztalatot gyűjtök a konfliktuskezelésben az évek során, és minél többször látom, hogy mik vezetnek a családi viszályokhoz és a nemzetek háborúihoz, annál biztosabb leszek benne, hogy ezeket a konfliktusokat egy kisiskolás is meg tudná oldani.
     > > The more experience I have gained in mediating conflicts over the years and the more I’ve seen what leads families to argue and nations to go to war, the more convinced I am that most schoolchildren could solve these conflicts.
     
     Vagyis: ha egyszer tisztán kikristályosodnak a szükségletek mindkét oldalon, amit mindkét fél meg is ért, (mert mondjuk nem érzi kritizálva magát, nincs ítélkezés, stb.) akkor onnantól a konkrét technikai megoldás már általában gyerekjáték.

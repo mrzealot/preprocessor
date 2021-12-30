@@ -15,7 +15,7 @@ Az elmúlt időszakban három dologba is beleakadtam a véletlenszerű netes bar
 <br>
 
 Az első belefutás egy volt kollégám [blogbejegyzése](https://link.medium.com/lmpNaOrkMjb){:target="_blank"} kapcsán történt, amiben többek között arról esik szó, hogy a társadalom előrehaladtával a különböző, szentként tisztelt "totemek" (mind például a vallás vagy különböző ideológiák) hogyan avulnak el -- és hogy a pénz, mint az utolsó nagy totem alatt is mennyire rezeg már a léc.
-Ennek kapcsán beszélgetni kezdtünk, és megállapítottuk, hogy a status quo-ba kapaszkodók leggyakrabban a primitív cserekereskedelem árnyékával fenyegetik a anyagiasság kritikusait.
+Ennek kapcsán beszélgetni kezdtünk, és megállapítottuk, hogy a status quo-ba kapaszkodók leggyakrabban a primitív cserekereskedelem árnyékával fenyegetik az anyagiasság kritikusait.
 Mert ugye persze, persze, vannak bajok a pénz világával, de gondoljunk csak bele az alternatívába: egy pénz *nélküli* világba!
 Egy olyan barbár rendszerhez képest azért még mindig csak jobb a jelenlegi helyzet, nem?
 
