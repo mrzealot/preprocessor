@@ -23,14 +23,15 @@ Sőt: mivel ezek általános "uralkodási szabályok", ezért az üzleti, csalá
 A tartalom a következőképp alakul:
 
 - [A politika szabályai](#szabalyok)
-- [Hatalomra kerülés](#hatalomra_kerules)
-- [Hatalmon maradás](#hatalmon_maradas)
-- [Bevételek](#bevetelek)
-- [Kiadások](#kiadasok)
-- [Privát javak](#privat_javak)
-- [Külső segély](#segely)
-- [Lázadás](#lazadas)
-- [Háború](#haboru)
+- A szabályok megnyilvánulása:
+    - [Hatalomra kerülés](#hatalomra_kerules)
+    - [Hatalmon maradás](#hatalmon_maradas)
+    - [Bevételek](#bevetelek)
+    - [Kiadások](#kiadasok)
+    - [Privát javak](#privat_javak)
+    - [Külső segély](#segely)
+    - [Lázadás](#lazadas)
+    - [Háború](#haboru)
 - [És akkor mit lehet tenni?](#valtozas)
 
 <br>
@@ -186,32 +187,30 @@ Szóval a staféta átadás szép nyugiban zajlik, nem hullanak fejek -- de a h�
 
 ## <a name="hatalmon_maradas"></a>Hatalmon maradás
 
-- a legfontosabb a lojális koalíció
-    - de nem feltétlen azok, akik segítettek hatalomra jutni - mert oda jutni és ott maradni két nagyon különböző dolog
-    - "After toppling the previous leader, it’s only a matter of time until they realize that they can do the same again."
-- sokkal jobb az olyan esszenciális, aki inkompetens de lojális, mint aki kompetens (és ezért cserébe potenciális rivális lehet)
-- ha pedig kompetens segédek kellenek, akkor mindenképp biztosítsuk be, hogy nem vehetik át a helyünket
-    - vérvonalas jellegű körökben eunuch-ok
-    - vallási diktatúrákban más vallású tanácsadók
-    - vagy ugye erre van a széles esszenciális-utánpótlás is (és a látszat-választások, ahol a vezető nyilván nem változik ugyan, de az esszenciálisait így látszólag legálisan lecserélgetheti, így azok jobban viselkednek majd)
-- répa + bot
-- persze a demokráciában sem angyalok élnek
-    - a csalásnál mit sem számít, hogy morálisan "rossz"
-    - szavazók körének korlátozása, a másik párt oldalára hajló szavazó körletek kompromittálása, gerrymandering, gyülekezési tilalom, stb.
-    - gondoljunk vissza Greene-re : aki nem hajlandó csalni a győzelemért, az gyakran kikap az olyanokkal szemben, akiknek nincsenek ilyen fenntartásaik
+A legfontosabb a lojális koalíció.
+De ám nem feltétlen azok, akik segítettek hatalomra jutni -- mert oda jutni és ott maradni két nagyon különböző dolog.
+Elvégrei az esszenciálisok szemszögéből:
 
-- sok ország példáján keresztül végigmegyünk, hogy a rendszer "kijátszásával" legális úton is milyen undorító helyzeteket lehet kialakítani
-    - pl. ahogy Tanzániában az (államilag támogatott) sokpártrendszer miatt akár a szavazatok 10 százalékával is nyerhet a jelenlegi vezető jelöltje egy-egy körzetben, és hogy extra kisebbségi jelölések miatt a körzetekből is kevesebb mint a felénél elég a győzelem a parlamenti többséghez
-        - vagyis az össznépi szavazatnak akár az 5, azaz **öt** százalékával nyerhetnek
-        - és ez legális
-        - és az emberek nem háborodnak fel rajta eléggé, hogy tegyenek ellene akármit is
-        - nehezen haladok a könyvvel, mert közben nem tudok nem a Fidesz-re gondolni -- részben elismerően, de inkább undorral.
+> Miután az előző vezetőt megbuktatták, onnantól csak idő kérdése, mire ráeszmélnek, hogy ezt újra megtehetik.
+> > After toppling the previous leader, it’s only a matter of time until they realize that they can do the same again.
 
-- blokkosított szavazás
-    - ezzel "beszűkítve" a teljes szavazótábort és csökkentve a befolyásosak számát
-    - és aztán persze a jutalmak is a blokk vezetőkön keresztül folynak
+Sokkal jobb az olyan esszenciális, aki inkompetens de lojális, mint aki kompetens, de ezért cserébe potenciális rivális lehet.
+Ha pedig mindenképp kompetens segédek kellenek, akkor biztosítsuk be, hogy nem vehetik át a helyünket.
+Vérvonalas jellegű körökben erre voltak az eunuch-ok.
+Vagy vallási diktatúrákban a más vallású tanácsadók.
+Vagy ugye ilyenek a széles esszenciális-utánpótlásra épülő látszat-választások is, ahol a vezető nyilván nem változik ugyan, de az esszenciálisait így elméletileg legálisan lecserélgetheti, így azok jobban viselkednek majd.
 
-- még az is szeret először demokratának tűnni, aki utána erősen autokratába hajlana, mert így könnyebb lehet "túlélni" az átmeneti időszakot
+Persze a demokráciában sem angyalok élnek.
+A csalásnál mit sem számít, hogy morálisan "rossz", ha egyszer az szükséges a hatalmon maradáshoz.
+Gondoljunk itt a szavazók körének korlátozására, a másik párt oldalára hajló szavazó körletek kompromittálására, a szavazási körzetek alakjának mesterséges átformálására, a gyülekezési tilalomra, a nem is annyira szabad médiára, stb.
+Emlékezzünk [Greene]({% post_url 2020-01-28-robert-greene-the-48-laws-of-power %})-re : aki nem hajlandó csalni a győzelemért, az gyakran kikap az olyanokkal szemben, akiknek nincsenek ilyen fenntartásaik.
+
+Sok ország példáján keresztül végigmegyünk, hogy a rendszer "kijátszásával" legális úton is milyen undorító helyzeteket lehet kialakítani.
+Szerintem a legszemléletesebb Tanzánia, ahol az (államilag támogatott) sokpártrendszer miatt akár a szavazatok kb. 10 százalékával is nyerhet a jelenlegi vezető jelöltje egy-egy körzetben.
+És mivel extra kisebbségi jelölések miatt a körzetekből is kevesebb mint a felénél elég a győzelem a parlamenti többséghez, így az össznépi szavazatnak akár az 5, azaz **öt** százalékával is nyerhetnek.
+És ez legális.
+És az emberek nem háborodnak fel rajta eléggé, hogy tegyenek ellene akármit is.
+Ezen a ponton igencsak nehezen haladok a könyvvel, mert közben nem tudok nem a Fidesz-re gondolni -- részben elismerően, de azért mégis inkább undorral.
 
 <br>
 
@@ -235,31 +234,31 @@ Szóval a staféta átadás szép nyugiban zajlik, nem hullanak fejek -- de a h�
 
 ## <a name="bevetelek"></a>Bevételek
 
-- inverz Robin Hood
-    - mert miután lefizettük az esszenciálisokat, valahonnan vissza is kellene tudni tölteni az államkasszát
-    - itt jön képbe az adóztatás, mert hát az mindenkitől jön, de általában csak az esszenciálisok zsebében köt ki
-- ha túl sok, akkor azért lesz nulla a bevétel, mert senki nem akar majd azért dolgozni, hogy a kormánynak fizethesse be a bevételét
-- ha túl kevés, akkor meg azért lesz nulla a bevétel (hiába dolgozik mindenki gőzerővel, mert meg is tarthatja)
-- valahol a kettő között van az arany középút
-    - de ezt az autokráciák hajlamosak túlnyomni (még a gazdasági veszteség ellenére is), mert politikailag annál stabilabb és lojálisabb bázist nyújt
-    - demokráciákban is ugyanezt csinálnák, de mivel nagyobb az esszenciálisok/befolyásosak tábora, ezért jobban korlátozott, hogy meddig mehetnek el
+A bevételek kezelése egy inverz Robin Hood -- ahol épp a szegényektől veszünk el.
+Mert hát miután lefizettük az esszenciálisokat, valahonnan vissza kellene tudni tölteni az államkasszát.
+Itt jön képbe az adóztatás, ami ugye mindenkitől jön, de általában aránytalanul az esszenciálisok zsebében köt ki.
 
-- nagy különbség mégis az autokráciák és a demokráciák között a progresszív adóztatás
-    - pl. jobb esetben aki egy bizonyos küszöb alatt keres, annak nincs (vagy kevesebb az) adó.
-    - autokráciákban mindenkit "fejnek"
+Ha túl sok az adó, akkor azért lesz nulla a bevétel, mert senki nem akar majd azért dolgozni, hogy a kormánynak fizethesse be a bevételét.
+Ha viszont túl kevés, akkor meg azért lesz nulla a bevétel -- hiába dolgozik mindenki gőzerővel, mert meg is tarthatja.
+Valahol a kettő között van az arany középút.
+Bár ezt az autokráciák hajlamosak túlnyomni (még a gazdasági veszteség ellenére is), mert politikailag annál stabilabb és lojálisabb bázist nyújt.
 
-- kibúvó lehet, ha erőforrásokban gazdag az ország, mert az erőforrás akkor is értékes, ha túl van adóztatva
-    - sőt, ha külső cégek bányásszák ki (és fizetnek érte busásan), akkor még az emberek produktivitása is mindegy, el lehet nyomni őket ezerrel
-    - ezért kéne az ilyen "emberileg fejletlenebb" országok segítése érdekében inkább magasabb adókat és vámokat kivetni az érintett erőforrásokra -- hogy ne legyen rájuk akkora kereslet, ezért a forrás-kormányoknak jobban kelljen adóbevételre támaszkodnia, ami miatt már nem bánhatnának *annyira* lábtörlőként a néppel
+De félreértés ne essék: a demokráciákban is ugyanezt csinálnák, ha csinálhatnák.
+Csak mivel ott nagyobb az esszenciálisok/befolyásosak tábora, ezért jobban korlátozott, hogy meddig mehetnek el.
+Nagy különbség mégis az autokráciák és a demokráciák között a progresszív adóztatás.
+Például jobb esetben aki egy bizonyos küszöb alatt keres, annak nincs (vagy jelentősen kevesebb az) adó; autokráciákban mindenkit "fejnek".
 
-- minél kisebb az esszenciálisok aránya, annál szívesebben vesz fel kölcsönöket is az állam
-    - mert ilyenkor az esszenciálisok aránytalanul nagyot szakíthatnak az azonnali extra pénzből
-    - a többiek meg viselhetik a kamat terheket
-- és különben is: aki nem vesz fel hitelt, annak kisebb lesz a kerete, hogy lefizesse az esszenciálisokat
-    - és így veszélybe kerül az olyan trónbitorlókkal szemben, akik nem szégyellnének hitelt felvenni, és ezáltal jobb potenciális jussot nyújtani a támogatóiknak
+Kibúvó lehet, ha erőforrásokban gazdag az ország, mert az erőforrás akkor is értékes, ha túl van adóztatva.
+Sőt, ha külső cégek bányásszák ki (és fizetnek érte busásan), akkor még az emberek produktivitása is mindegy, el lehet nyomni őket ezerrel.
+Ezért kéne az ilyen "emberileg fejletlenebb" országok segítése érdekében inkább magasabb adókat és vámokat kivetni az érintett erőforrásokra -- hogy ne legyen rájuk akkora kereslet, ezért a forrás-kormányoknak jobban kelljen adóbevételre támaszkodnia, ami miatt már nem bánhatnának *annyira* lábtörlőként a néppel.
 
-- vagyis a kölcsönök elengedése is csak oda vezet, hogy a vezető (az újonnan felszabadult kapacitásnak köszönhetően) még több kölcsönt vehet fel az esszenciálisok lefizetésére
-    - ha azt akarjuk, hogy a vezetőnek is érdeke legyen a demokratizáció, akkor a pénzügyi krízis egy jó módszer -- ami ugye a hitel elengedés ellentéte :)
+Minél kisebb az esszenciálisok aránya, annál szívesebben vesz fel kölcsönöket az állam.
+Ilyenkor az esszenciálisok aránytalanul nagyot szakíthatnak az azonnali extra pénzből, a többiek meg viselhetik a kamat terheket.
+És különben is: aki nem vesz fel hitelt, annak kisebb lesz a kerete, hogy lefizesse az esszenciálisokat.
+Így pedig veszélybe kerül az olyan trónbitorlókkal szemben, akik nem szégyellnének hitelt felvenni, és ezáltal jobb potenciális jussot nyújtani a támogatóiknak.
+
+Vagyis: a kölcsönök elengedése is csak oda vezet, hogy a vezető (az újonnan felszabadult kapacitásnak köszönhetően) még több kölcsönt vehet fel az esszenciálisok lefizetésére.
+Ha azt akarjuk, hogy a vezetőnek is érdeke legyen a demokratizáció, akkor a pénzügyi krízis egy jó módszer -- csak hát ez a hitel elengedés ellentéte.
 
 <br>
 
@@ -283,20 +282,31 @@ Szóval a staféta átadás szép nyugiban zajlik, nem hullanak fejek -- de a h�
 
 ## <a name="kiadasok"></a>Kiadások
 
-- "during an economic crisis autocrats shop around for bailout money from others to save themselves in the name of relieving their country’s financial woes." :D
-    - a demokraták viszont nem szeretik az ilyesmit, mert tisztán jelzi a választóiknak, hogy rosszul teszik a dolgukat, ezért leváltásra érettek
+Sokan vélik, hogy előbb legyenek gazdagok az államok, és majd akkor szabadok/demokratikusak is lehetnek.
+De ez sajnos a gyakorlatban nem függ össze ennyire erősen.
+Vannak szegényen is demokratizálódó országok -- akik utána általában a gazdagodás felé is gyorsabban haladnak.
+És vannak amúgy relatíve gazdag országok is, ahol ez inkább csak akadályozta a felszabadulást.
 
-- sokan vélik, hogy előbb legyenek gazdagok az államok, és majd akkor szabadok/demokratikusak is lehetnek
-    - de ez sajnos a gyakorlatban nem függ össze ennyire
-    - vannak szegényen is demokratizálódó országok (akik utána általában a gazdagodás felé is gyorsabban haladnak)
-    - és vannak amúgy relatíve gazdag országok is, ahol ez inkább csak akadályozta a felszabadulást
+A publikus javakból (mint például az infrastruktúra, az oktatás vagy az egészségügy) mindig csak annyi van, amennyi muszáj, hogy ne lázadjon a nép.
+Épp csak annyi, hogy tudják végezni a dolgukat, hogy legyen adó bevétel.
+Ezért autokráciákban általában jóval kevesebb minden -- egyszerűen mert ott megtehetik.
 
-- a publikus javak (infrastruktúra, oktatás, egészségügy) is csak annyi van, amennyi muszáj, hogy ne lázadjon a nép, és tudja végezni a dolgát (hogy legyen adó bevétel)
-    - ezért autokráciákban általában kevesebb (lásd top egyetemek aránya)
-    - nagyon tetszett a fővárostól a reptérig táv úton kontra légvonalban aránya, mint metrika
-    - és hogy ez pl. a földrengésvédelemre is milyen szépen általánosítható
+Alapvető oktatás ott is akad, mert az kell a hatékony munkához, de felsőoktatás már ritkán.
+Elvégre ki akarná, hogy az emberek önállóan gondolkozni kezdjenek?
+Alapvető egészségügy ott is akad, hogy megőrizze a felnőttek munkaképességét, de mondjuk a gyerekek halandósága le van szarva.
+Elvégre ők nem termelnek, ugye?
 
-- "Democracies are not lucky. They do not attract civic-minded leaders by chance. Rather, they attract survival-oriented leaders who understand that, given their dependence on many essentials, they can only come to and stay in power if they figure out the right basket of public goods to provide. Small-coalition leaders figure out their solution to the exact same survival problem. It is just that when the coalition on which they rely is small then the mix of public goods is slimmer and trimmer. It is designed for survival purposes in both cases."
+Két további kedvenc példám az autokrata költekezés logikai alátámasztására:
+
+- A szerzők megvizsgálták minden országban a fővárostól a reptérig tartó táv arányát közúton kontra légvonalban, és ez az arány látványosan alacsonyabb volt a diktatúrákban.
+Vagyis arra volt pénz, hogy egy esetleges felkelés esetén a vezérkar gyorsan menekülhessen.
+
+- Vizsgálták továbbá a földrengések miatti halálos áldozatok számát, ami viszont sokkal magasabb a diktatúrákban.
+És hát persze, a mellőzhetők nyomora náluk nem okoz leváltási félelmet, mint egy demokráciában, így nyilván ők tehetik meg, hogy nem foglalkoznak túl sokat az építkezési biztonsági előírásokkal.
+
+A diktatúrákkal szemben a demokraták nem szeretik a segélyeket, mert azok tisztán jelzik a választóiknak, hogy rosszul teszik a dolgukat, és ezért leváltásra érettek.
+Illetve (szintén a diktatúrákkal szemben) a demokraták sokkal jobban törődnek a "közjóval".
+De ettől függetlenül ugyanazt a politikai túlélési játszmát játsszák, mint a diktátorok -- csak nekik a relatíve nagy esszenciális bázis miatt így éri meg játszani.
 
 <br>
 
@@ -320,29 +330,25 @@ Szóval a staféta átadás szép nyugiban zajlik, nem hullanak fejek -- de a h�
 
 ## <a name="privat_javak"></a>Privát javak
 
-- látszólag a demokráciák ugye nem olyan korruptak, és a bevételek kisebb százaléka megy az elit lefizetésére (mert a nagyja a népet *kell* hogy szolgálja)
-    - viszont a nagyobb produktivitás miatt nagyobb az összbevétel, és így egy nagyobb torta kisebb szelete is lehet nagyobb abszolút értékben, mint a diktatúrák kizsákmányolása
+Az autokrata privát jutalmakról gondolom mindenkinek van egy alap elképzelése
+Kocsik, házak, hajók, repülők -- zsé.
+Ami talán egy kicsit furább, hogy a diktátorok sokszor szándékosan nem is direktben fizetnek egy-egy rétegnek, hanem inkább hagyják, hogy szabadon korrupt-kodhassanak (lásd például orosz rendőrségi botrányok).
+Így a réteg tagjai maguknak szedhetik a saját adóikat, ami miatt lojálisak lesznek a rendszerhez, ami ezt hagyja.
+És ha mégsem, akkor "korrupció" vádjával gyorsan eltehetők láb alól.
 
-- demokrata privát jutalom: leggyakrabban torzított rendeletek, amik habár látszólag a teljes népet szolgálják, az esszenciálisokat aránytalanul jobban
+Ugyanez a módi bármiféle üzleti vagy épp sport szervezetben is, ahol egy aránytalanul kis társaság kezében van egy sokkal nagyobb tömeg sorsa (lásd Nemzetközi Olimpiai Bizottság vagy épp FIFA).
+Itt is szépen látszik, hogy nem vizsgálni/tiltani/korlátozni kéne a kenőpénzeket, hanem egyszerűen megnövelni a tényleges szavazattal bírók számát -- mondjuk a tizen-párról egy tizen-ezres létszámra...
+Onnantól már nem menne a lefizetéses stratégia (egyszerűen nem lenne rá pénz), így maradna a tényleges érdem alapján való elbírálás.
 
-- autokrata privát jutalom: sokszor nem is direkt, hanem inkább hagyják, hogy egy réteg szabadon korrupt-kodhasson (lásd rendőrség pl.)
-    - így maguknak szedhetik a saját adóikat, ami miatt lojálisak lesznek lesznek a rendszerhez, ami ezt hagyja
-    - és ha mégsem, akkor "korrupció" vádjával gyorsan eltehetők láb alól
+Látszólag a demokráciák ugye nem ennyire korruptak, de hiba lenne azt gondolni, hogy itt nincsenek privát javak a háttérben.
+Lehet ugyan, hogy a bevételek kisebb százaléka megy az elit lefizetésére, mert a nagyja a népet *kell* hogy szolgálja.
+De a nagyobb produktivitás miatt itt nagyobb az összbevétel, és így egy nagyobb torta kisebb szelete is lehet nagyobb abszolút értékben, mint a diktatúrák kizsákmányolása.
+És különben sem a nyers pénz a lényeg -- a demokraták privát jutalmai leggyakrabban torzított rendeletek, amik habár látszólag a teljes népet szolgálják, az esszenciálisokat aránytalanul jobban.
 
-- IOC + FIFA korrupció
-    - itt is szépen látszik, hogy a kis esszenciális méret miatt éri meg ez a stratégia
-    - nem vizsgálni/tiltani/korlátozni kéne a kenőpénzeket, hanem egyszerűen megnövelni a tényleges szavazattal bírók számát -- mondjuk a tizen-párról egy tizen-ezres létszámra... onnantól már nem menne a lefizetés (egyszerűen nem lenne rá pénz), így maradna a tényleges érdem alapján való elbírálás (vagy legalábbis nőne a súlya)
-
-
-És ami marad
-    - amit megítélése szerint költhet -- ami a belátására van bízva
-    - na EBBŐL lehet igazán kapzsi, vagy nagylelkű a néppel
-    - mert ha a privát javakból próbálja lenyúlni, akkor hamar az utcán (vagy akár a hullaházban) találhatja magát
-
-
-szóval ott tartunk, hogy kb. minden szemszögből látjuk, miért lenne jobb, ha a vezetők egy nagyobb koalíciónak tartoznának elszámolással
-csak hát ők ezt nyilván nem szeretnék...
-hogy vegyük akkor rá őket?
+Na és ami *ezután* marad, az az a pénz, ami a szeretett vezető belátására van bízva.
+Ebből lehet igazán kapzsi, vagy ebből lehet nagylelkű a néppel.
+Vannak diktatúrák, ahol az istencsászár jóindulatából a nép is részesül -- de ez ott is csak a maradékból lehetséges.
+Ha az esszenciálisai privát javaiból próbálja lenyúlni, akkor hamar az utcán (vagy akár a hullaházban) találhatja magát.
 
 <br>
 
@@ -367,38 +373,36 @@ hogy vegyük akkor rá őket?
 
 ## <a name="segely"></a>Külső segély
 
-- itt fordulnak a demokraták is igazán "ördögibe"
-- "[Things are] much easier to explain by looking at aid as a payment for favors rather than a tool for alleviating poverty."
+Kezdjük azt hinni, hogy a demokráciák milyen pozitív fényben tűnnek fel még az esetlegesen sanda hátsó szándékok ellenére is.
+Hát akkor most kapaszkodjunk, mert a segély az a témakör, ahol kedvenc altruistáink is igazán "ördögibe" fordulnak.
+Kezdjük ott, hogy ha hátrahagyjuk a naiv moralitás talaját, akkor egyáltalán miért létezik segély?
+Erre pedig ugyanaz a válasz, mint eddig mindenre: hogy a hatalmasok megtarthassák a hatalmukat.
 
-- ki ad kinek segélyt?
-    - általában demokráciák (mert náluk számít a népszerű politika, mert sok az esszenciális)
-    - általában autokráciáknak (mert ott olcsó megvásárolni valami olyat, ami nekik akár rossz, mert ott kevés az esszenciális, és őket könnyű kompenzálni valami olyanért, ami a népüknek szar)
-- mennyit?
-    - az alsó határ az, amennyivel a fogadó fél kompenzálni tudja az esszenciálisait
-        - ha fejenként 100 forint kárt okoz az új rendelet, de én több mint 100-at kapok azért, hogy elfogadjam, akkor mehet
-    - a felső határ pedig az, amennyit a donor esszenciálisai még szívesebben erre költenének a készpénz helyett
-        - ha fejenként 100 forintért béke lehet a Közel-Keleten, akkor mehet, de ha csak fejenként 10.000.000 forintért, akkor inkább zsebbe kérném
-- miért?
-    - erre ugyanaz a válasz, mint eddig mindenre: hogy a hatalmasok megtarthassák a hatalmukat
-    - lásd ki ad kinek
-    - az USA-ra vonatkozólag például statisztikailag kimutatható, hogy a segélyezett országok lakosai általában annál inkább utálják a donort, minél többet kapnak
-    - ez is szépen illusztrálja, hogy a segély nem a szegénység enyhítéséről, hanem politikai szívességekről szól
-- mik ennek a következményei?
+> Sokkal jobban magyaráz mindent, ha úgy tekintünk a segélyekre, mint szívességekért fizetett díjra, és nem mint a szegénység enyhítésének eszközére.
+> > [Things are] much easier to explain by looking at aid as a payment for favors rather than a tool for alleviating poverty.
 
-    A/B nemzetek matekpéldája nagyon szemléletes
-        - a segéllyel mindkét ország jól járhat (a donor és a segélyezett is.. ezért létezik egyáltalán), de úgy, hogy közben a segélyezett nép épp hogy jól megszívja
+Jól alátámasztja ezt, hogy a statisztikák szerint ki ad kinek segélyt?
+Általában demokráciák adnak, mert náluk számít a népszerű politika a sok esszenciális miatt.
+És általában autokráciáknak, mert ott olcsó megvásárolni valami olyat, ami az autokrácia lakóinak rossz -- ugye ott kevés az esszenciális, és őket relatíve könnyű kompenzálni valami olyanért, ami a népüknek szar.
 
-    - "It is perhaps ironic that while aid affords the resources to alleviate poverty and promote economic growth, it creates the political incentives to do just the opposite."
+Na és mennyi a segélyek összege?
+Az alsó határ az, amennyivel a fogadó fél kompenzálni tudja az esszenciálisait a cserébe elvárt szívesség esetleges kellemetlen következményeitől.
+Mondjuk ha fejenként 100 forint kárt okoz az országban az új rendelet, de én *több* mint 100-at kapok azért, hogy elfogadjam, akkor felőlem mehet, nem?
 
-    - még ha tényleg a szegénység enyhítésére is megy a pénz, akkor is általában oda, ahova a kormánynak amúgy is költenie kellett volna, legalább egy minimális szint fenntartására
-        - így viszont, hogy mások kiveszik a kezükből a felelősséget, az erre fordítandó pénzt annál nyugodtabban tömhetik a koalíciójuk (vagy a saját nadrágjuk) zsebébe
+A felső határ pedig az, amennyit a donor esszenciálisai még szívesebben költenének erre a szívességre a készpénz helyett.
+Mondjuk ha fejenként 100 forintért béke lehet a Közel-Keleten, akkor mehet; de ha csak fejenként 100.000.000 forintért, akkor valljuk be, a legtöbben inkább zsebbe kérnénk.
 
-    - sokkal jobb lenne, ha a segélyt nem előre, hanem utólag adnánk, amikor konkrétan felmutatható a változás
-        - ez katasztrófák esetén nyilván trükkösebb
-        - de a jelenlegi rendszerben a segélyek sajnos csak pont azt érik el, hogy a vezetők annál könnyebben söpörhessék a szőnyeg alá a problémáikat
+Ha ez a két határ közé sikerül bealkudozni az összeget, akkor a segéllyel mindkét ország jól járhat -- ezért létezik egyáltalán.
+Az már sajnos mellékes, hogy közben a segélyezett nép gyakran épp hogy jól megszívja.
+Sőt, még ha tényleg a szegénység enyhítésére is megy a pénz, akkor is általában oda, ahova a kormánynak amúgy is költenie kellett volna, legalább egy minimális szint fenntartására.
+Így viszont, hogy mások kiveszik a kezükből a felelősséget, az erre fordítandó pénzt annál nyugodtabban tömhetik a koalíciójuk (vagy a saját nadrágjuk) zsebébe.
 
-- mit tanulhatunk ebből a nemzetépítésről?
-    - demokráciáknak nem érdeke "demokratizálni" más államokat, mert utána nehezebb megvenni őket (ha valami olyat akarnak, ami a donornak nem jó)
+Sokkal jobb lenne, ha a segélyt nem előre, hanem utólag adnánk, amikor konkrétan felmutatható a változás.
+Ez természeti katasztrófák esetén nyilván trükkösebb, de a jelenlegi rendszerben a segélyek sajnos csak pont azt érik el, hogy a vezetők annál könnyebben söpörhessék a szőnyeg alá a problémáikat.
+
+És hogy mit tanulhatunk ebből a nemzetépítésről?
+Leginkább azt, hogy a demokráciáknak nem érdeke "demokratizálni" más államokat, mert utána nehezebb lesz megvenni őket, ha valami olyat akarnának, ami a donornak nincs ínyére.
+Lehangoló, nem?
 
 <br>
 
@@ -422,29 +426,28 @@ hogy vegyük akkor rá őket?
 
 ## <a name="lazadas"></a>Lázadás
 
-- eddig leginkább arról volt szó, hogy az esszenciálisok támogatása hiányában hogy dől meg a kormány
-    - de ritkább esetekben a nép felkelése is elég lehet (akár úgy is, ha amúgy az esszenciálisok nem akarnák engedni)
+Eddig leginkább arról volt szó, hogy az esszenciálisok támogatása hiányában hogy dől meg a kormány.
+De ritkább esetekben a nép felkelése is elég lehet (akár úgy is, ha amúgy az esszenciálisok nem akarnák engedni).
 
-- ha nagyon durva az elnyomás, akkor valószínűleg vagy fizikailag nem is képesek, vagy egyszerűen nem lesznek hajlandók (mert szépen előre van vetítve nekik, hogy milyen brutális büntetés/halál vár rájuk, és akár a családjukra is)
-    - ezért a sikeres tömeges fellázadás inkább az ilyen arany középút helyzetekben gyakoribb
-    - ahol elég szar a helyzet, hogy megérje a javításáért kockáztatni
-    - de nem elég szar, hogy az ember ne is merjen kockáztatni
+Ha nagyon durva az elnyomás, akkor valószínűleg vagy fizikailag nem is képesek, vagy egyszerűen nem lesznek hajlandók -- mondjuk mert szépen előre van vetítve nekik, hogy milyen brutális büntetés/halál vár rájuk, és akár a családjukra is, ha megpróbálják.
+Ha meg nincs elnyomás, akkor ugye miért is ficeregne az ember?
+Ezért a sikeres tömeges fellázadás inkább az ilyen arany középút helyzetekben gyakoribb.
+Ahol elég szar a helyzet, hogy megérje a javításáért kockáztatni, de nem elég szar, hogy az ember ne is merjen kockáztatni.
 
-- ebből következik, hogy egy vezető két módon fojthatja el már csírájában a felkelést
-    - vagy annyira el-demokratizálódik, hogy a lázadásnak már nincs értelme
-    - vagy annyira el-diktátorosodik, hogy a lázadás kb. lehetetlenné válik
-    - ez a döntés persze nagyban függ attól is, hogy mennyire bízhat a vezér a seregben, hogy az majd elfojtja a népet, ha az mégis megindulna
+Ebből következik, hogy egy vezető két módon fojthatja el már csírájában a felkelést.
+Vagy annyira el-demokratizálódik, hogy a lázadásnak már nincs értelme, vagy annyira el-diktátorosodik, hogy a lázadás kb. lehetetlenné válik.
+Ez a döntés persze nagyban függ attól is, hogy mennyire bízhat a vezér a seregben, hogy az majd elfojtja a népet, ha az mégis megindulna.
 
-- kell egy kiváltó "sokk"
-    - ami lehet egy pofátlanul elcsalt választás, egy természeti katasztrófa, egy gazdasági gödör (ami miatt a vezér már nem tudja fizetni az esszenciálisait), stb.
+Persze akkor is kell egy kiváltó "szikra", ami lehet egy pofátlanul elcsalt választás, egy természeti katasztrófa, egy gazdasági gödör (ami miatt a vezér már nem tudja fizetni az esszenciálisait), stb.
+De sajnos ilyenkor is gyakori, hogy csak egy diktátor-csere történik.
 
-- de ilyenkor is gyakori, hogy csak egy diktátor-csere történik
-    - hogy lehet akkor úgy lázadni, hogy demokratizálódás legyen az eredménye?
-        - ha nincsenek természeti erőforrások :/
-        - ha csak eleve egy nagy koalíció hátán sikerül leváltani a rendszert
+Felmerülhet a kérdés, hogy akkor ugyan hogy lehet úgy lázadni, hogy demokratizálódás legyen az eredménye?
+Hát, az nem könnyű.
+Például ha vannak természeti erőforrások az országban, akkor szinte eleve kudarcra van ítélve az egész.
+Biztató viszont, ha eleve csak egy nagyobb koalíció hátán sikerül leváltani a rendszert.
 
-- kívülről úgy lehetne rávenni őket, ha a már demokratikus országok feltételekhez kötnék a segélyt
-    - de ez, mint láttuk, senkinek nem érdeke - és ezért (még) nincs is rá megoldás :/
+Kívülről pedig úgy lehetne rávenni egy országot a demokratizálódásra, ha a már demokratikus országok feltételekhez kötnék a segélyüket és a kereskedelmüket.
+De ez, mint láttuk, senkinek nem érdeke -- és ezért (még) nincs is rá megoldás.
 
 <br>
 
@@ -468,16 +471,18 @@ hogy vegyük akkor rá őket?
 
 ## <a name="haboru"></a>Háború
 
-- ez a leegyszerűsített nézet még a háborúkra is szépen kivetíthető
-    - Sun Tzu az autokratáknak jó, de a modern demokráciák nem véletlen nem követik a tanácsát
-    - Sun Tzu: gyorsan, rövid konfliktusra készülve, inkább feladni, ha nem megy, és privát javakkal motiválni a harcosokat
-    - demokrácia: megfontoltan, viszont ha belemegyünk, akkor onnantól (szinte) bármi áron, és a nép érdekében
-- egyszerűen a demokráciákban megtehetik, hogy eleget költenek a háborúra
-    - és hogy aztán vigyáznak is a katonáikra - mert még győzelem esetén is jöhet a leválasztás, ha túl nagyok a veszteségek
-    - az autokráciákban inkább az esszenciálisok lefizetésére kell a pénz, és pont azzal billentenék ki magukat, ha előlük vennék el a pénzt a háború javára - a katonák meg ott dögöljenek meg
-- támadói esetben
-    - demokratáknak ez is szívesség "vásárlás" (mint a segélyek), csak itt kikényszerítve - de aztán be is tartatva
-    - autokratáknak plusz terület/erőforrás/stb. szerzési lehetőség, ezért egy bizonyos ponton túl nem éri meg
+A szerzők leegyszerűsített politikai nézete még a háborúkra is szépen kivetíthető -- sok-sok példán keresztül, de én most csak a lényeget szűrném ki.
+[Szun-ce](https://hu.wikipedia.org/wiki/Szun-ce){:target="_blank"} az autokratáknak jó lehet, de a modern demokráciák nem véletlen nem követik a tanácsát.
+Ott ugyanis *az a mondás*, hogy gyorsan, rövid konfliktusra készülve kell lecsapni; inkább feladni, ha nem megy; és privát javakkal motiválni a harcosokat.
+Ezzel szemben a demokráciák elve az, hogy megfontoltan; viszont ha belemegyünk, akkor onnantól (szinte) bármi áron; és a nép érdekében.
+
+Egyszerűen a demokráciákban megtehetik a politikusok, hogy eleget költenek a háborúra.
+És hogy aztán vigyáznak is a katonáikra -- mert még győzelem esetén is jöhet a leválasztásuk, ha túl nagyok a veszteségek.
+Az autokráciákban inkább az esszenciálisok lefizetésére kell a pénz, és pont azzal billentenék ki magukat, ha előlük vennék el a pénzt a háború javára.
+A katonák meg ott dögöljenek meg.
+
+Tekinthetjük úgy, hogy a demokratáknak a háború is mindössze egy újabb szívesség "vásárlás", mint a segélyek -- csak itt kikényszerítve és erővel betartatva.
+Az autokratáknak ehelyett a háború nem több, mint plusz terület/erőforrás/stb. szerzési lehetőség, ezért egy bizonyos ponton túl nem éri meg.
 
 <br>
 
@@ -501,51 +506,30 @@ hogy vegyük akkor rá őket?
 
 ## <a name="valtozas"></a>És akkor mit lehet tenni?
 
-- "Backsliding is, and should be, the way leaders deal with problems. It is the existing rules that have allowed them to seize and control resources to date. A headlong plunge into new ways of conducting politics might only heighten a leader’s risk of being overthrown."
+Eddig, a tisztánlátás végett, azzal foglalkoztunk, hogy mi van; nem pedig azzal, hogy mi *kéne hogy legyen*!
+Arra most, az eddigiek fényében térünk rá egy kicsit.
+De most is csak tágra nyitott szemmel, naiv és utópikus álmodozás nélkül.
+Olyan ugyanis nem lesz soha, hogy mindenkinek jó.
+És olyat sem mondunk, ami, habár sokaknak jó lenne, de nem áll mindenkinek érdekében, akinek a támogatása szükséges a változáshoz.
+Na jó, és akkor így mi marad?
 
-- eddig, a tisztánlátás végett, azzal foglalkoztunk, hogy mi van; nem pedig azzal, hogy mi *kéne hogy legyen*!
-    - arra most, az eddigiek fényében térünk rá egy kicsit
-    - de most is csak nyitott szemmel, naiv és utópikus álmodozás nélkül
-    - olyan nem lesz soha, hogy mindenkinek jó
-    - és olyat sem mondunk, ami, habár sokaknak jó lenne, de nem áll mindenkinek érdekében, akinek a támogatása szükséges a változáshoz
-    - és akkor így mi marad?
+A vezér és az esszenciálisok is kevés esszenciálist akarnak, amíg kevés az esszenciális.
+De van egy "átbillenési pont", ahonnan kezdve a vezér és az esszenciálisok érdekei szétválnak.
+A vezér (jó politikusként) továbbra is kitart az egyes számú aranyszabály mellett, miszerint legyen kicsi az esszenciálisok száma.
+Az esszenciálisoknak viszont ezen a ponton túl már annál több jut, minél jobb a népnek -- mert már eleve annyira sokfelé oszlana a privát zsebpénzük, hogy egyre jobban kezd számítani az általános jólét az ő szempontjukból is.
 
----
-- J. P. Morgan had it right: There is always some principled way to defend any 
-position, especially one’s own interests. "A man always has two reasons for doing anything: a good reason and the real reason."
----
+Ezt az "éket" kell egyre inkább beverni a vezér és az esszenciálisok közé egészen addig, amíg egy demokrácia nem stabilizálódik ki a történetből.
+Sőt, ezzel odáig is eljuthatunk, ahol már a gazdasági növekedés és produktivitás miatt akkor sem érné meg visszacsökkenteni az esszenciálisok számát, ha az csak konkrétan egyetlen ember lenne -- innen már nem lesz visszacsúszás.
 
-- a vezér és az esszenciálisok is kevés esszenciálist akarnak, amíg kevés az esszenciális
-    - de van egy "átbillenési pont", ahonnan kezdve a vezér és az esszenciálisok érdekei szétválnak
-    - a vezér (jó politikusként) továbbra is kitart az egyes számú aranyszabály mellett, miszerint legyen kicsi az esszenciálisok száma
-    - az esszenciálisoknak viszont ezen a ponton túl már annál több jut, minél jobb a népnek -- mert már eleve annyira sokfelé oszlik a privát zsebpénzük, hogy egyre jobban kezd számítani az általános jólét az ő szempontjukból is
-    - ezt az "éket" kell egyre inkább beékelni a vezér és az esszenciálisok közé egészen addig, amíg egy demokrácia nem stabilizálódik ki a történetből
-        - van olyan pont is, ahol már a gazdasági növekedés és produktivitás miatt akkor sem érné meg visszacsökkenteni az esszenciálisok számát, ha az csak konkrétan egyetlen ember lenne -- innen már nem lesz visszacsúszás
+Az egyes számú taktika tehát, hogy próbáljuk kihasználni az olyan helyzeteket, amikor az esszenciálisoknak is érdekükben áll bővülni.
+Ez a könyv szavaival olyankor valószínű, ha "új a főnök, haldoklik a régi főnök, vagy csőd van".
+Ilyenkor vannak az esszenciálisok a legnagyobb veszélyben, és ezért ilyenkor a legnyitottabbak arra, hogy inkább a bővítés felé billenjenek (amiben nagyobb valószínűséggel benne maradhatnak ők is az átállási turbulencia után).
+Így csökkenhet ugyan a privát jutalmuk aránya, de a valamennyi jobb, mint a semennyi.
 
-- "a new boss, a dying boss, or a bankrupt boss" --> ilyenkor vannak az esszenciálisok a legnagyobb veszélyben, és ezért ilyenkor a legnyitottabbak arra, hogy inkább a bővítés felé billenjenek (amiben nagyobb valószínűséggel benne maradhatnak ők is)
-    - így lehet, hogy csökken a privát jutalmuk aránya, de a valamennyi jobb, mint a semennyi
-    - és különben is, a fordulópont után akár még jobb is lehet
-
-- gerrymandering
-- electoral college
-- imigrációs politika
-    - ezek mind a szelektorátus (és ezáltal legalább valamennyire az esszenciálisok) növelése érdekében fontos témakörök
-
-- a gazdasági nyomás miatt láttuk, hogy rossz a feltétel nélküli segély
-    - viszont a technológiai segély jó lehet mindenkinek
-    - a fogadó nép telefonok és internet segítségével kommunikálhatnak, ami gazdaságilag és a szervezőképesség miatt később politikailag is jó lesz nekik
-    - a fogadó vezetés rövid távon örülni fog a megnövekedett gazdasági bevételnek, hosszú távon viszont (ha előrelátóak) lehet pont ők maguk fognak a demokratizálódás felé lépni (mielőtt a nép *lépteti* őket)
-    - a donor népnek jót tesz, hogy a tech export miatt pörög a gazdaság
-    - a donor vezetésnek pedig az a jó, hogy a donor népnek jó, és így annál valószínűbb, hogy újraválasztják őket
-    - win-win-win-win :)
-
-- és ha ilyen kötött segítség nem kell, akkor azzal legalább szépen lekommunikálták, hogy nem is érdemesek a segítségre
-
-- amnesztia, vagy valami procedúra, hogy békés átállás lehessen a diktatúrák esetén
-    - ezzel adnánk nekik egy kiskaput, hogy amikor szorul a hurok, ők maguk is inkább véget akarjanak vetni a diktatúrájuknak, mint sem köröm szakadtáig harcolni
-
-- egy választás nem csak attól lesz fair és szabad, hogy a szavazóknak tényleg volt esélyük szavazni, és a számlálásnál nem csaltak
-    - csalhattak már korábban is, amikor a szabad média vagy a kampányfinanszírozás irányításával etikátlan előnyt adnak maguknak a választás előtt - KHHMMMM!!! FIDESZ! KHHHMMMM!!!!!
+Ugyanígy az esszenciálisok aránya miatt figyeljünk oda nagyon minden olyan törvényi változtatásra, ami a választási körzetek alakját, vagy a választási szabályokat bármilyen formában érinti.
+Illetve tudatosítsuk magunkban, hogy egy választás nem csak attól lesz ám fair és szabad, hogy a szavazóknak tényleg volt esélyük szavazni, és a számlálásnál nem csaltak.
+Csalhattak már korábban is, amikor a szabad média vagy a kampányfinanszírozás irányításával etikátlan előnyt adnak maguknak a választás előtt.
+Khmm... Magyarország! Khmmm!
 
 <br>
 
@@ -568,3 +552,15 @@ position, especially one’s own interests. "A man always has two reasons for do
 
 ## Összefoglalás
 
+Gyerekkorom tipikus, akkoriban sokszor Torgyánt parodizáló vicceire Nagypapám mindig könyökből vágta rá, hogy "Ne politizálj!"
+Ami nyilván arra vonatkozott, hogy amíg nem értem, mi folyik a háttérben, addig ne is szóljak bele.
+A gond csak az, hogy én szerintem ebből (mint elég sok korai tapasztalatomból) a rossz leckét vontam le -- ahelyett, hogy elkezdtem volna kiérdemelni a beleszólás jogát, inkább teljesen el is fordultam az egész témától.
+
+Az volt tehát a célom a Mesquita-Smith páros könyvével, hogy hosszú évek "fejet a homokba" stratégiája után végre egy kis politikai alapozáson is túlessek.
+És hát mit mondjak, túlestem.
+Fájt.
+Eleve nem indultam túl rózsás képpel az emberi természetet illetően, de itt időnként még az én cinizmus-kvótámnál is sikerült kibaszni a biztosítékot.
+
+De hát ez a valóság -- és ami azt sikerül jobban megérteni, hátsó mozgatórugókkal együtt, az csak jó lehet.
+Ha a fentiekből csak egy lecke marad meg, az legyen a következő: minél több embertől függ a vezér uralma, annál jobb lesz mindenkinek.
+Szavazzunk és reformáljunk ennek fényében!
