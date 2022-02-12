@@ -49,7 +49,7 @@ Minden szipi-szupi, nem?
 
 Ebben a kontextusban találkozunk központi szereplőinkkel:
 
-- **Bernard Marx** egy *hipnopaediás* kondicionálás szakértő az ember-keltetőben, elvileg a társadalom legfelső rétegéből, de valami genetikai mérnöki hiba miatt kevésbé tökéletes fizikummal -- és ezzel együtt kevésbé rózsás és társadalmilag elfogadható gondolatokkal.
+- **Bernard Marx** egy *hipnopaediás* kondicionálás szakértő az ember-keltetőben, elvileg a társadalom legfelső rétegéből, de valami genetikai mérnöki hiba miatt kevésbé tökéletes fizikummal -- és ezzel együtt kevésbé vidám és társadalmilag elfogadható gondolatokkal.
 Nem vallja a "mindenki mindenkié" elvet; nem keres folyton társaságot; majdhogynem kisajátítani lenne kedve egy kiszemelt lányt.
 Akár a hősünk is lehetne az elnyomó rendszerrel szemben.
 De nem lesz az.
@@ -69,7 +69,7 @@ Ennyi alapozás után indulhat meg a cselekmény, amiben a sorsával elégedetle
 Ezek azok a sivatagos, vagy épp dzsungeles területek, amiket kellően vonzó természeti erőforrások hiányában egyszerűen nem érte meg bevonni a modern világ szárnyai alá, így az ottaniakat hagyják, nos, "vadak" módján élni.
 
 Nem általános azonban ilyen helyekre látogatni, így Bernard a Keltető igazgatójához fordul engedélyért.
-Ezt megkapja ugyan, de csak egy tanmesével karöltve, miszerint az igazgató is járt már ott, és el is vesztette egy balesetben az aktuális párját.
+Ezt megkapja ugyan, de csak egy óvatosságra intő tanmesével karöltve, miszerint az igazgató is járt már ott, és el is vesztette egy balesetben az aktuális párját.
 Sőt, a figyelmeztetés mellé egy szó szerinti fenyegetés is jár: ha Bernard továbbra is ilyen antiszociálisan viselkedik, akkor a végén száműzetés lesz a sorsa.
 
 Bernard Leninát is meghívja erre a nagy kalandra, amihez szerencsétlennek nem sok kedve van (mint ahogy magához Bernard-hoz sem), de a "mindenki mindenkié" elve alapján hogy is mondhatna nemet?
@@ -87,13 +87,28 @@ Ez a fordulat sokak életét forgatja fel fenekestül.
 A Keltető igazgatója például pont akkor szégyenül meg, amikor száműzetésbe akarná küldeni Bernard-ot, és így inkább neki kell eltűnnie a színről.
 Bernard ezzel szemben egy csapásra *celeb* lesz, mint a legújabb látványosságnak számító Vadember "kísérője" -- és ezzel az új népszerűséggel együtt hirtelen a társadalommal kapcsolatos fenntartásai is varázslatos módon enyhülnek.
 Linda számára ez mindössze annyit jelent, hogy végre újra lesz hozzáférése a népi szuperdroghoz, a soma-hoz, és így végre piálás nélkül ütheti ki magát 0-24-ben.
-John viszont egy egészen másféle civilizáltságra számít a Shakespeare-i behatás után, így neki egy fokozatos, de annál erősebb kiábrándulás következik.
 
-- szerelem
-- helmholtz kapcsolat
-- linda halál
+John viszont egy egészen másféle civilizáltságra számított a Shakespeare alapú "oktatása" után, így neki egy fokozatos, de annál erősebb kiábrándulás következik.
+Az emberek nemhogy a fennkölt, de többnyire még az *önálló* gondolatokra is képtelennek bizonyulnak, ami a technológiai fejlettség ellenére egy különös visszamaradottságot sugall.
+És miután John nem hajlandó többé ilyen légkörben partik díszvendégeként smúzolni, Bernard csillaga is leáldozóba fordul.
+John leginkább talán Helholtz-szal ért szót, akinek egy-két vicces részlettől eltekintve láthatóan jót tesz az eddig ismeretlen Shakespeare behatás.
+Végre valaki, aki láthatólag ki tudta fejezni, amire Helmholtz képtelen.
+
+John új életének egyetlen mentőöve a Lenina iránt érzett szerelme lenne, ám sajnos ott sem alakulnak fényesen a dolgok, hiszen a lány -- khmm, mondjuk úgy, "könnyűvérűsége" nem igazán összeegyeztethető Shakespeare ideáljaival.
+Sokáig megy a tánc, ahol mindketten titokban epekednek a másik után, csak míg John ezt szemérmes megszeppenéssel teszi, addig Lenina számos egyéb párhuzamos partner mellől.
+Ez a patt helyzet akkor gyorsul nulláról százra, amikor Lenina (beleunva az állandó várakozásba) laza alkalmi szexet ajánl John-nak, aki ettől teljesen kiborul, szó szerint lekurvázza, és épp csak nem bántalmazza.
+
+Erre a rózsás hangulatra tesz rá még egy lapáttal a hír, miszerint az anyja haldoklik.
+Az orvosok előre megmondták ugyan, hogy a folyamatos soma fogyasztás miatt egy-két hónapon belül ez várható -- mégsem tesz senki semmit.
+Sőt, mikor meglátogatja a kórházban, senki nem érti, miért van úgy felzaklatva.
+Elvégre a halál egy természetes jelenség.
+Maga az intézmény is leginkább csak azért létezik, hogy a gyerekeket szoktathassák a halál természetességéhez.
+Ez láthatólag működik, mert a kis taknyosok mindenféle tisztelettudás nélkül 
+
 - soma incidens
+
 - Mustapha Mond, számüzetés, de John-nak csak elvonulás
+
 - remeteség + orgia + öngyilkosság
 
 <br>
@@ -264,3 +279,34 @@ Szóval a bölcsész-ebb elemzést meghagyom a bölcsészeknek, és a továbbiak
         - és ahogy a technológia előrehalad, úgy lesz majd lehetőség egyre pontosabban és mélyrehatóbban kielégíteni mindenkit - ha hajlandóak vagyunk feladni a szabadságunkat érte
     - azt még meglátjuk, hogy mennyire tudunk, vagy egyáltalán akarunk, ellenállni a élvezetek általi figyelemelterelésnek, de az azért semmiképp nem ártana, ha legalább tisztában lennénk ezzel a döntéssel, és nem csak vakon sodródnánk a társadalmi alapértelmezésbe
     - "None are more hopelessly enslaved than those who falsely believe they are free" -- Goethe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Összefoglalás
+
+Záró tanulságként nem tudok nem a Flow-ban megismert alapvető nézetre gondolni, miszerint:
+
+> A tudatunk irányítása határozza meg az életünk minőségét.
+>
+> -- Csíkszentmihályi Mihály
+> > Control of consciousness determines the quality of life.
+
+Ilyen szemüveggel tekintve pedig egyértelmű, hogy az érzéki élvezetek (kapjuk azok bármilyen sűrűn vagy sokáig) nem pótolhatják a szabad választást, a fejlődésre kényszerítő kudarcokat, vagy a küszködve kiharcolt győzelmeket.
+Mindegy tehát, hogy az arcunkon taposó csizmával vagy eufória-drogokkal és kondicionálással próbál ránk telepedni a rendszer -- továbbra is az a cél, hogy inkább ne telepedjen már ránk ennyire.
+Ehhez pedig foggal-körömmel kell kapaszkodnunk az önálló gondolkodásra való képességünkbe.
+Manapság talán jobban, mint valaha.
