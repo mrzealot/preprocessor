@@ -19,9 +19,9 @@ A fikció kategóriához hűen, itt is **Spoiler warning!** van érvényben az e
 Aki még nem olvasta, annak csak annyi a (szokásos) spoiler-mentes értékelésem, hogy olvassa el!
 Utána itt találkozunk.
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br><br><br><br><br><br><br><br><br><br>
 Mondtam, hogy **Spoiler warning**? Ja igen? Akkor jó.
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -52,14 +52,13 @@ Ebben a kontextusban találkozunk központi szereplőinkkel:
 - **Bernard Marx** egy *hipnopaediás* kondicionálás szakértő az ember-keltetőben, elvileg a társadalom legfelső rétegéből, de valami genetikai mérnöki hiba miatt kevésbé tökéletes fizikummal -- és ezzel együtt kevésbé vidám és társadalmilag elfogadható gondolatokkal.
 Nem vallja a "mindenki mindenkié" elvet; nem keres folyton társaságot; majdhogynem kisajátítani lenne kedve egy kiszemelt lányt.
 Akár a hősünk is lehetne az elnyomó rendszerrel szemben.
-De nem lesz az.
-Erre még visszatérünk.
+Nem lesz; de lehetne.
 
 - **Lenina Crowne** Bernard kiszemelt pár-jelöltje, egy (mondjuk úgy) felső-középosztálybeli nő, aki szintén az ember-keltetőben dolgozik.
 Az ő szerepe (szerintem) leginkább az, hogy az új világ egy mintalakójának szemszögéből is láthassuk az eseményeket.
 Ő tükrözi a közvéleményt, a közízlést.
 Kicsit talán monogám-hajlamúbb, mint a nagy átlag, de ez sem kimondottabban jelent partner-hiányt.
-Emellett nem csak Bernard felé képvisel majd fontos szerelmi szálat -- de erre is visszatérünk.
+Emellett nem csak Bernard felé képvisel majd fontos szerelmi szálat...
 
 - **Helmholtz Watson** pedig Bernard egy szem barátja (fogjuk rá), aki íróként és oktatóként az érzelmi manipulációval foglalkozik.
 Ő sokkal mintapolgár-abb, mint a nyíltan kilógó cimborája, de azért benne is motoszkál valami, hogy az írás művészetének lebutításával valahogy folyton benne marad valami, amit nem tud kifejezni.
@@ -83,6 +82,8 @@ Itt találkozunk John-nal, a "Vademberrel", aki gyanúsan fehér bőrű, gyanús
 Innen már Bernard-nak sem nehéz összetennie, hogy 2+2=4 -- mert hát nem lehet esetleg, hogy egy szülőséget tabuszámba néző civilizáció látogatóiként pont a Londoni Keltető igazgatójának vadonban ragad zabigyerekébe futottak bele?!
 Egy-két háttér engedélyeztetés, és máris viszik őket vissza a "szép új világba".
 
+<br>
+
 Ez a fordulat sokak életét forgatja fel fenekestül.
 A Keltető igazgatója például pont akkor szégyenül meg, amikor száműzetésbe akarná küldeni Bernard-ot, és így inkább neki kell eltűnnie a színről.
 Bernard ezzel szemben egy csapásra *celeb* lesz, mint a legújabb látványosságnak számító Vadember "kísérője" -- és ezzel az új népszerűséggel együtt hirtelen a társadalommal kapcsolatos fenntartásai is varázslatos módon enyhülnek.
@@ -103,13 +104,38 @@ Az orvosok előre megmondták ugyan, hogy a folyamatos soma fogyasztás miatt eg
 Sőt, mikor meglátogatja a kórházban, senki nem érti, miért van úgy felzaklatva.
 Elvégre a halál egy természetes jelenség.
 Maga az intézmény is leginkább csak azért létezik, hogy a gyerekeket szoktathassák a halál természetességéhez.
-Ez láthatólag működik, mert a kis taknyosok mindenféle tisztelettudás nélkül 
+Ez láthatólag működik, mert a kis taknyosok mindenféle tisztelettudás nélkül randalíroznak miközben Linda átcsúszik a túloldalra.
 
-- soma incidens
+A kórházból kifelé menet John belefut az ott dolgozó, alacsonyabb társadalmi osztályba tartozó, **84-es** ikrekbe, akik a műszak végén vennék fel a napi soma-adagjukat.
+Ez nála az utolsó csepp a pohárban és egy egyszemélyes minitüntetést tart a nép lebutítása ellen.
+Elkezdi kidobálni az ablakon a drogot, amire az anyja halálán felül most már az egész társadalom romlottságát rávetíti.
 
-- Mustapha Mond, számüzetés, de John-nak csak elvonulás
+Kezelés gyanánt először Bernard és Helmholtz, mint felelős gondviselők érnek a helyszínre, és itt érkezik el az igazság pillanata.
+Bernard, az ideiglenes celeb státuszából kijózanodva látja ugyan John tettének helyességét, de túlzottan fél a következményektől, hogy bele merjen keveredni.
+Helmholtz ezzel szemben végre magára talál, és felszabadultan veti bele magát a soma-kihajításba és az általános verekedésbe John oldalán.
 
-- remeteség + orgia + öngyilkosság
+Persze egy ilyen szintű elnyomást fenntartani képes rendszerben az ilyen lázadozás pusztán szimbolikus és az egész nem is tart túl sokáig.
+A kivonuló rendőrök soma-gázzal szépen lenyugtatnak mindenkit a picsába, és az elkövetők pedig mehetnek a nagyfőnök, Mustapha Mond színe elé büntetésért.
+
+Mond a történtek ellenére egyáltalán nem dühös -- sőt, szinte megértő.
+Elmondása szerint fiatalon ő sem igazán illett a rendszerbe, csak ő a lázadás helyett inkább azt választotta, hogy a rendszeren *belül* szerez hatalmat.
+Három különcünk itt végre egy olyan emberrel beszélheti ki a civilizációval kapcsolatos kételyeiket, aki mindkét oldal érveivel és értékeivel tisztában van (erre lentebb még visszatérünk).
+De attól, hogy harag nincs, a büntetés a status quo fenntartása érdekében természetesen nem maradhat el.
+Bernard és Helmholtz száműzetésbe kényszerül, amit az előbbi csapásként, míg az utóbbi áldásként él meg.
+John-nak viszont maradnia kell, mint "kísérleti alanynak" -- gondolom hogy hogyan boldogul egy Vadember a civilizációban.
+
+<br>
+
+Az epilógus számomra egy "ezt nézni is rossz" jellegű eseménysor, amiben John először is elvonul a folyton boldog társadalomból a remeteség és az önellátás magányába.
+Csak hát ezt már tudná élvezni!
+És mivel a fejében az élvezetet a civilizált világ túlkapásai miatt morális rosszként azonosította, így szó szerint korbácsolni kezdi magát, nehogy már élvezze az életét.
+
+További bonyodalom, hogy riportered észreveszik ezt az unorthodox életmódot, interjúkat akarnak, és rejtett felvételeket készítenek.
+Így lesz a legújabb (kissé mazochista) szenzáció egy olyan érző-film, ahol a közönség átélheti John ön-korbácsolását.
+A kéretlen figyelem turistákat vonz, köztük Leninát, aki még itt is szeretné rendbe hozni a kapcsolatukat.
+John viszont teljesen elveszti a fejét, korbácsolni kezdi Leninát és magát is, amibe a tömeg is beszáll, és a túlfokozott érzelmekből egy olyan orgia keletkezik, ami John-t is magával sodorja.
+
+Másnap is érkezik egy adag zarándok a remete kunyhóhoz az ismétlés reményében, de ők már csak egy gerendáról lógó Vadembert találnak, aki szégyenében és végső elkeseredésében nyilván csak ezt az egyetlen kiutat találta a szép új világ fogságából.
 
 <br>
 
@@ -151,117 +177,95 @@ Elöljáróban tisztázzuk: a mű a már a címétől kezdve dugig van Shakespea
 A baj csak az, hogy Shakespeare műveivel én (egyelőre) még felületesen sem vagyok ismeretségben -- az gondolom nem számít, hogy egyszer régen láttam Leonardo DiCaprio-t Romeo szerepében; vagy ha épp a popkultúrából sikerült átszivárognia, hogy a "Lenni vagy nem lenni" itt a kérdés.
 Szóval a bölcsész-ebb elemzést meghagyom a bölcsészeknek, és a továbbiakban csak azokról a tanulságokról írok egy kicsit, amik egy kocka informatikusnak is utat találtak a koponyájába.
 
+Kezdjük talán ott, hogy Ford az új "Isten", ami mondjuk egy elég szájbarágós motívum, de attól még szépen illeszkedik.
+A tömeggyártás, az automatizálás, a gépként kezelés.
+És ebből akkor már jön tovább a tárgyiasság és a maximalizmus; az új jobb, mint a régi; a fogyasztói társadalom fullra feltekerve.
 
-- Ford mint minta - tömeggyártás, automatizálás, gépként kezelés
-    - és ebből akkor már jön tovább a tárgyiasság/maximalizmus, a fogyasztói társadalom
-    - az új jobb, mint a régi, stb.
+Ami látványosan hiányzik, az napjaink környezettudatos felhangjai, mert a szép új világban úgy is tudják padlógázzal pörgetni a gazdaságot, hogy közben azért beépítették az újrahasznosítást is a körforgásba és képesek tartani egy bizonyos egyensúlyt.
+Én személy szerint kimondottan örülök ennek a hiánynak, mert így egy sokkal egyénibb és személyesebb nézőpontból izolálhatjuk a fogyasztás, mint örömforrás morális következményeit.
+Amikor épp kinyírjuk a bolygót, akkor könnyű negatívumként gondolni a kacatokra -- de csak a külső következmények miatt.
+Mi belül azért továbbra is akarnánk őket, és ezért továbbra is vesszük őket.
+Talán ezért tart ott a bolygó, ahol tart.
+Ha viszont belegondolunk Huxley világába, és önmagunk érdekében veszünk vissza a külső örömöktől való függésünkből, az utána még a környezetnek is jót tehet.
 
-        Imagine the folly of allowing people to play elaborate games which do nothing whatever to increase consumption.
+<br>
 
+Egy másik témakör a társadalmi stabilitás, mint abszolút végcél, és hogy hova juthatunk, ha az arany középút helyett ennyire elcsúszunk a skála egyik vége felé.
+Ahogy Mustapha Mond is elmondja a záró monológjában: a művészet, a vallás, és a "szabad tudomány" is az instabilitásra épül.
 
+A művészet rész még talán nyilvánvaló -- ha nincs semmi baj/kétség/küszködés, akkor hogy értenénk meg, vagy látnánk bele akármit is.
+A vallásnál hasonlóan: ha nincs miért imádkozni, akkor mit számít, van-e kihez?
+A tudomány mondjuk elsőre kicsit furcsábbnak hangozhat, de a végén az is világossá válik: nem minden irányba kutakodhat az ember, ha nem akar újabb nyugtalanságot.
+Elvégre hiába automatizálhatnának mindent, ha az több időt adna az embereknek a gondolkodásra.
+Amit jó, igen, soma-val el lehet nyomni -- de miért kockáztatnák az elégedetlenséget, ha a figyelemelterelés működik.
 
-- a művészet, a tudomány, és a vallás is a társadalmi instabilitásra épül
-    - a művészet még talán nyilvánvaló - ha nincs semmi baj/kétség/küszködés, akkor hogy értenénk meg, vagy látnánk bele akármit is
-    - vallásnál szintén: ha nincs miért imádkozni, akkor mit számít, van-e kihez?
-    - a tudomány elsőre kicsit furcsábbnak hangozhat, de a végén az is világossá válik: nem minden irányba kutakodhat az ember, ha nem akar újabb nyugtalanságot
-        - hiába automatizálhatnának mindent, az több időt adna az embereknek a gondolkodásra
-        - amit igen, soma-val el lehet nyomni, de miért kockáztatnák az elégedetlenséget, ha a figyelemelterelés működik
-    - ha abszolút stabilitást akarunk, akkor ezeket fel kell áldozni
+Kb. mondhatjuk, hogy az ember azért keresi az igazságot vagy a szépséget vagy Istent, mert a testi/világi örömök az idősödésével már nem töltik ki az űrt -- vagy csak egyre kevésbé.
+Erre ők azt a megoldást adták, hogy ne legyen se öregség, se vége soha a testi örömöknek.
+Ezzel tulajdonképpen a szőnyeg alá söpörték az élet értelmét, és így mindjárt nem is olyan nehéz egy stabil társadalmat építeni.
+De megéri?
 
+<br>
 
-        Sem a muveszet sem a tudomany, sem isten nem kompatibilis a stabilitassal es a folyanatos boldogsaggal
+A következő erősen megkérdőjelezhető praktika a hipnotikus kondicionálás.
+Mert hát értem én, milyen jó lenne, ha mindenki eleve azt akarná csinálni, amit a társadalom amúgy is várna tőle.
+Lehet, hogy ezért a teljes szabadságát kell feladnia, de ha ennek nem is lesz tudtában, akkor az baj?
+A pozitív megerősítés amúgy is jobban működik hosszú távon, mint a negatív "bünti" a félrelépések esetén.
+Szépen összefoglalja ezt a következő részlet:
 
-        Kb az ember azert keresi az igazsagot vagy a szepseget vagy istent, mert a testi vilagi oromok az idosodesevel mar nem toltik ki az urt, vagyis egyre kevesbe
-        Erre ok azt a megoldast adtak, hogy ne legyen oregseg, se vege soha a testi oromoknek
-        Kb a szonyeg ala soportek az elet ertelmet, es igy mondjart nem is olyan nehez egy stabil tarsadalmat gyartani... De megeri?
+> Ez a boldogság és az erkölcs titka -- hogy szereted azt, amit tenned kell. Minden kondicionálás ezt célozza meg: rávenni az embereket, hogy szeressék az elkerülhetetlen társadalmi sorsukat.
+> > That is the secret of happiness and virtue -- liking what you've got to do. All conditioning aims at that: making people like their un-escapable social destiny.
 
+Az idézet első fele még nem is lenne annyira borzalmas -- elvégre a sztoikusok is ilyesmit mondanak a sors elfogadásával (sőt, szeretetével) kapcsolatban.
+Csak hát az idézet második fele szépen elárulja, hogy itt a természetességhez semmi közünk, emberként játszunk Istent.
 
+És ennek a tetejére jön a "mindenki mindenkié" elv, nehogy idő legyen elgondolkodni, hogy akkor ennek az egésznek mi értelme is van.
+Non-stop figyelemelterelés, értelmetlen munka, sportok, orgiák...
+[Algernon]({% post_url 2021-08-29-daniel-keyes-viragot-algernonnak %}) után ismerős a szituáció: mentálisan felnőttek, de érzelmileg gyerekek.
+Itt persze nem egy fogyatékosság miatt, hanem mert minden vágyukat azonnal kielégítik; semmire nem kell várniuk, és ezért semmit nem is akarnak igazán.
+Ideális birkák a totális irányításhoz.
 
+Ha pedig mégis bekúszna bármi boldogtalanság-morzsa, arra ott a napi soma-fejadag, amivel erőfeszítés nélküli eufória jár.
+Mustapha Mond szerint a soma "Kereszténység a könnyek nélkül".
+Ettől azért ő maga is belátta, hogy az élet célja "nagy valószínűséggel" mégsem a puszta hedonista boldogság, hanem valami több, tudat fejlesztősebb, tudás növelősebb -- csak hát ezt a jelen körülmények között nem szabad beismerni.
+Karl Marx hasonlata (miszerint "A vallás a nép ópiuma") itt szépen fordítva szerepel: az ópium(-pótlék) lett a nép vallása.
 
-- kondícionálás
-    - milyen jó is lenne, ha mindenki eleve azt akarná csinálni, amit a társadalom amúgy is várna tőle
-    - lehet, hogy ezért a teljes szabadságát kell feladnia, de ha ennek nem is lesz tudtában, akkor az baj?
-        - a pozitív megerősítés amúgy is jobban működik hosszú távon, mint a negatív "bünti" a félrelépések esetén
-    - "mindenki mindenkié", nehogy idő legyen elgondolkodni, hogy akkor ennek az egésznek mi értelme is van
-        - non-stop figyelemelterelés, értelmetlen munka, sportok, orgiák...
+<br>
 
+A könyv extrém kontextusa újra rávilágított, hogy minden szubjektív és relatív.
+Amit helyesnek hiszünk, azt legtöbbször csak azért hisszük annak, mert az aktuális korban/kultúrában az van helyesnek kikiáltva.
 
-        - az első fejezet gyakorlatilag egy emberi gyártósor részletes bemutatója
-            - ahol a társadalom igényei szerint előre "programoznak" mindenkit a megfelelő szerepére
+Itt például pont a monogámia, a család vagy a terhesség gondolata az abszurd.
+Először Helmholtz is jót nevet Júlia szenvedésen a Rómeó és Júliából, mert egyszerűen annyira felfoghatatlan szamara az egész szitu.
+Lenina meg pont azért kap fejmosást, mert szemtelenül már négy hónapja ugyanazzal a férfival jár.
+Ugyanígy a halál negativitása, és hogy Lindát hogy kezelték a kórházban.
 
-        "For particulars, as every one knows, make for virtue and happiness; generalities are intellectually necessary evils." - ouch!
+Es tényleg: ha belegondolunk, bármely "hétköznapi" szociális helyzetünkhöz adható egy olyan norma, amiben pont az a szemöldök-emelgető.
+És ez talán nem is art, mert ezek fényében talán a saját szokásaink sem lesznek többé annyira maguktól értetődőek.
 
-        "that is the secret of happiness and virtue—liking what you’ve got to do. All conditioning aims at that: making people like their un-escapable social destiny."
-        - a mondat első fele még nem is lenne annyira borzalmas -- elvégre a sztoikusok is ilyesmit mondanak a sors elfogadásával (sőt, szeretetével) kapcsolatban
-            - csak hát a mondat második fele szépen elárulja, hogy itt a természetességhez semmi közünk, emberként játszunk Istent
-            What man has joined, nature is powerless to put asunder.
+> Amikor az egész világ egy szakadék felé rohan, az tűnik őrültnek, aki a másik irányba szalad.
+>
+> -- C. S. Lewis
+> > When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.
 
-        Algernon utan ismeros szentiment: mentalisan felnottek, de erzelmileg gyerekek, mert minden vagyukat azonnal kielegitik, semmire bem kell varniuk, es ezert nem is akarnak semmit igazan
+<br>
 
+Érdemes még kitérnünk egy kicsit a főbb karakterek sorsára.
+Bernard-dal kapcsolatban az egyik legfontosabb idézet szerintem a következő:
 
+> A siker pezsegve szállt Bernard fejébe, és menet közben teljesen megbékítette (mint ahogy azt bármelyik jó kábítószer tenné) a világgal, amit addig nagyon is nem kielégítőnek tartott. Amíg a társadalom elismeri az érdemeit, részéről minden rendben.
+> > Success went fizzily to Bernard's head, and in the process completely reconciled him (as any good intoxicant should do) to a world which, up till then, he had found very unsatisfactory. In so far as it recognized him as important, the order of things was good.
 
-- soma
-    - ha pedig mégis bekúszna bármi boldogtalanság-morzsa, arra ott a soma
-    - napi fejadag, amivel erőfeszítés nélküli eufória jár
-    - Mond szerint a soma "Kereszténység a könnyek nélkül"
-    - Karl Marx szerint "A vallás a nép ópiuma". Itt szépen fordítva az ópium(-pótlék) lett a nép vallása.
+Ez jól mutatja, hogy habár Bernard elégedetlenkedett a leglátványosabban a dolgok állásával kapcsolatban, mégsem gondolta ő ezt annyira komolyan.
+Na persze, elvi alapon továbbra is látta ő a korábbi negatívumokat, de ezek felett sokkal nyugodtabban tudott szemet hunyni amint a genetikai hátrányait hírnévvel és nő-hegyekkel kompenzálhatta.
+Helmholtz ezzel szemben egy halk, visszafogott kételkedést testesített meg -- egészen addig, amíg az új ismeretei és az adódó lehetőség fényében nyilvánosan és büszkén nem állhatott a szabadság oldalára.
 
-        "that second dose of soma had raised a quite impenetrable wall between the actual universe and their minds."
+John-nak annyiban talán könnyebb dolga volt, hogy az alapvető kondicionálás hiányában eleve tisztábban láthatta a szociális problémákat.
+De ettől még becsületére válik, hogy az érzéki kényeztetés ellenére is képes volt kitartani az elvei mellett.
+Ahol ő elrontotta (szerintem), az a végletesség.
+Nem tudok nem [Salinger]({% post_url 2020-11-28-j-d-salinger-zabhegyezo %}) Holden-jére gondolni.
+Ha csak egy kicsit flexibilisebben tudta volna viselni a civilizált birkák zaklatását a remetesége első időszakában; ha csak egy kicsit engedélyezte volna magának a büntetlen boldogságot; akkor [Thoreau]({% post_url 2020-03-06-henry-david-thoreau-walden %}) is lehetett volna belőle, hulla helyett.
 
-    Az elet celja talan megsem a hedonista boldogsag, hanem valami tobb, tudat fejlesztobb, tudas novelosebb...
-    Which was, the Controller reflected, quite possibly true. But not, in the present circumstance, admissible.
-
-        
-
-
-- minden szubjektív és relatív
-    - itt a monogámia, a család vagy a terhesség gondolata az abszurd
-
-        Helmholtz jot nevet Julia szenvedesen, mert egyszeruen annyira felfoghatatlan szamara a szitu
-        Eleve anya es apa, akik beleszolnak az egyen eletebe
-        Aztan ott van egy diu, akit akar, erre nem mondja, amikkr akarata ellenere egy masikkal akarjak osszehozni
-        Az orokre eljotelezodes
-        Es hogy egy ilyen miatt inkabb meghalna?! Nevetseges gondolatok
-
-
-    - “When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.” ― C. S. Lewis
-
-        Lenina kozben meg pont azert kap fejmosast, mert szemtelenul mar negy honapja ugyanazzal a ferfival jar... Es tenyleg, barmely szocialis normankhoz adhato egy olyan szitu, ahol pont az a szemoldokemelgeto. Es ez nem is art, mert igy talan a sajat szokasaink utana mar nem lesznek annyira axionatikusak...
-
-    - ugyanígy a halál negativitása
-        Not that there were many visitors anyhow: or any reason why there should be many visitors. a haldoklast kb ki nem szarja le
-
-
-
-        “Well, I’d rather be unhappy than have the sort of false, lying happiness you were having here.”
-
-
-
-
-
-
-
-- aki ebbe nem tud beilleszkedni, az mehet egy kirekesztett rezervátumba
-
-    a savage reservation is a place which, owing to unfavourable climatic or geological conditions, or poverty of natural resources, has not been worth the expense of civilizing.”
-
-    - ez Bernard-nak elég savanyú - Helmholtz-nak viszont épp amit keresett
-        Success went fizzily to Bernard’s head, and in the process completely reconciled him (as any good intoxicant should do) to a world which, up till then, he had found very unsatisfactory. In so far as it recognized him as important, the order of things was good.
-
-
-    - John-nak viszont maradnia kell, amit sajnos nem tud kezelni
-        - engem személy szerint emlékeztet Salinger Holden-jére a végletességével
-
-    - vagy világ-kontroller lesz, mint a regény "főgonosza", Mustapha Mond
-
-    
-
-    
-
-
-
-
-
+<br>
     
 - végső kérdés: utópia vagy disztópia
     - teljes elnyomás és kormányzati irányítás, szigorú kasztrendszer
@@ -280,7 +284,7 @@ Szóval a bölcsész-ebb elemzést meghagyom a bölcsészeknek, és a továbbiak
     - azt még meglátjuk, hogy mennyire tudunk, vagy egyáltalán akarunk, ellenállni a élvezetek általi figyelemelterelésnek, de az azért semmiképp nem ártana, ha legalább tisztában lennénk ezzel a döntéssel, és nem csak vakon sodródnánk a társadalmi alapértelmezésbe
     - "None are more hopelessly enslaved than those who falsely believe they are free" -- Goethe
 
-
+<br>
 
 
 
