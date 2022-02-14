@@ -267,22 +267,25 @@ Ha csak egy kicsit flexibilisebben tudta volna viselni a civilizált birkák zak
 
 <br>
     
-- végső kérdés: utópia vagy disztópia
-    - teljes elnyomás és kormányzati irányítás, szigorú kasztrendszer
-    - de mégis általános a jólét, és mindenki boldog, szétnyugtatózott, szexuálisan kielégített
-    - akkor ez most utópia? valami csak nem stimmel, nem? viszont ha nem stimmel, akkor ezzel nem azt rágja épp a szánkba, hogy az érzéki boldogság nem elég? és akkor nem kéne megfogalmaznunk, hogy mi kéne helyette?
+A Szép új világ végső kérdése talán az, hogy ez az egész akkor tulajdonképpen disztópia vagy utópia?
+A teljes elnyomás, a kormányzati irányítás és a szigorú kasztrendszer az előbbire utalna.
+De mégis mindenki boldog, szétnyugtatózott és szexuálisan kielégített -- bizonyos szemszögből általános a jólét.
+Kárpótolja ez vajon a szabadság hiányát?
 
+Illetve én biztatnék mindenkit, hogy gondoljunk bele: melyik illik jobban a mai világra, az 1984 vagy ez?
+A mai világra, ahol a gondolatrendőrség titkos kínzókamráinál sokkal gyakoribbak a lebutított, propaganda híradókkal tarkított valóságshow-k, a gyorskaják, a fájdalomcsillapítók, a pornó- és médiafüggőség...
+Nem azt mondom, hogy a hatalmasok erővel nem tudnának ketrecben tartani -- de miért is strapálnák magukat feleslegesen?
+Ehelyett készítenek számunkra egy olyan ketrecet, ahol nem csak hogy jól érezzük magunkat, de legtöbbször még csak nem is tudatosul bennünk, hogy ketrecben vagyunk.
+Ezért is volt olyan ijesztő, amikor a könyv diákjai "nem szimplán igaznak, hanem axiomatikusnak, önmagától értetődőnek, teljesen vitathatatlannak" fogadták el a kormány irányelveit.
 
+Ahogy élünk, az kb. már most egy low-tech Matrix, és ahogy a technológia előrehalad, úgy lesz majd lehetőség egyre pontosabban és mélyrehatóbban kielégíteni mindenkit -- ha hajlandóak vagyunk feladni a szabadságunkat érte.
+Azt még meglátjuk, hogy mennyire tudunk, vagy egyáltalán akarunk, ellenállni a élvezetek általi figyelemelterelésnek; mindenkinek szíve joga meghozni a saját választását.
+De az azért semmiképp nem ártana, ha legalább tisztában lennénk ezzel a döntéssel, és nem csak vakon sodródnánk a társadalmi alapértelmezésbe.
 
-- illteve: melyik illik jobban a mai világra? az 1984 vagy ez?
-    - a lebutított, propaganda híradókkal tarkított valóságshow-k, a gyorskaják, a fájdalomcsillapítók, a pornó- és médiafüggőség
-    - nem azt mondom, hogy a hatalmasok erővel nem tudnának ketrecben tartani - de miért is strapálnák magukat feleslegesen?
-    - ehelyett készítenek számunkra egy olyan ketrecet, ahol nem csak hogy jól érezzük magunkat, de legtöbbször még csak nem is tudatosul bennünk, hogy ketrecben vagyunk
-        "not merely as true, but as axiomatic, self-evident, utterly indisputable."
-    - ez kb. már most egy low-tech Matrix
-        - és ahogy a technológia előrehalad, úgy lesz majd lehetőség egyre pontosabban és mélyrehatóbban kielégíteni mindenkit - ha hajlandóak vagyunk feladni a szabadságunkat érte
-    - azt még meglátjuk, hogy mennyire tudunk, vagy egyáltalán akarunk, ellenállni a élvezetek általi figyelemelterelésnek, de az azért semmiképp nem ártana, ha legalább tisztában lennénk ezzel a döntéssel, és nem csak vakon sodródnánk a társadalmi alapértelmezésbe
-    - "None are more hopelessly enslaved than those who falsely believe they are free" -- Goethe
+> Nincs menthetetlenebb rabszolga annál, mint aki hamisan hiszi, hogy szabad.
+>
+> -- Johann Wolfgang von Goethe
+> > None are more hopelessly enslaved than those who falsely believe they are free.
 
 <br>
 
@@ -303,7 +306,7 @@ Ha csak egy kicsit flexibilisebben tudta volna viselni a civilizált birkák zak
 
 ## Összefoglalás
 
-Záró tanulságként nem tudok nem a Flow-ban megismert alapvető nézetre gondolni, miszerint:
+Záró tanulságként nem tudok nem a Flow-ban megismert alapvetésre gondolni, miszerint:
 
 > A tudatunk irányítása határozza meg az életünk minőségét.
 >
