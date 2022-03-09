@@ -9,25 +9,20 @@ excerpt: >
     TODO
 ---
 
-# Jegyzetek
+
+
 
 [](https://moly.hu/konyvek/robert-m-pirsig-a-zen-meg-a-motorkerekpar-apolas-muveszete){:target="_blank"}
 
 
-Chautauqua felnőttoktatási és társadalmi mozgalom volt az Egyesült Államokban, amely a 19. század végén és a 20. század elején nagyon népszerű volt.
 
--> ő is egy ilyen utazó előadó, aki megosztja magasztos üzenetét
-    - mindezt egy (kicsit talán Thoreau-san) úti mesébe csomagolva
 
-- a zen és a motorjavítás összekapcsolásának mintájára én meg lehetnék a forrasztó filozófus :D
 
-- ügyes, ahogy a mély, száraz, krétaporosan tantermi filozófiai dolgokat (amik magukban talán elriasztanák az olvasót) vegyíti az motoros útiregénnyel, hogy menet közben fenntartsa a kapcsolatot az "utca emberével" :)
 
-- felmerülő belső inkonzisztencia
-    - nem tartom fontosnak a pontos definíciókon cívódást a filozófiában
-    - de mégis felismerem (ahogy már másban is felismertem), hogy egy-egy konkrét megfogalmazás mennyire félreviheti az ember világképét
-    - szóval a megfogalmazás mégis csak nagyon fontos, nem?
-        - csak talán az nem volt eddig rendesen megfogalmazva, hogy a megfogalmazás miért fontos :)
+
+
+
+
 
 
 
@@ -37,6 +32,15 @@ Chautauqua felnőttoktatási és társadalmi mozgalom volt az Egyesült Államok
 
 
 ## A körítés
+
+A ["Chautauqua"](https://en.wikipedia.org/wiki/Chautauqua){:target="_blank"} egy népszerű felnőttoktatási és társadalmi mozgalom volt az Egyesült Államokban a 19. század végén és a 20. század elején.
+Az én értelmezésemben kb. a mai TED talk-okra kell gondolni, csak utazó előadók és helyben megtartott előadások formájában.
+Pirsig tudatosan ilyenre veszi a könyv hangulatát és (többek között) a saját élettörténetén keresztül mond nekünk egy tanmesét.
+
+A jelenbeli szál
+
+- ügyes, ahogy a mély, száraz, krétaporosan tantermi filozófiai dolgokat (amik magukban talán elriasztanák az olvasót) vegyíti az motoros útiregénnyel, hogy menet közben fenntartsa a kapcsolatot az "utca emberével" :)
+
 
 
 ## A probléma
@@ -48,6 +52,18 @@ Chautauqua felnőttoktatási és társadalmi mozgalom volt az Egyesült Államok
 
 
 
+
+
+
+## Bónusz: a jelen megélése
+
+We want to make good time, but for us now this is measured with emphasis on “good” rather than “time” and when you make that shift in emphasis the whole approach changes.
+
+The truth knocks on the door and you say, “Go away, I'm looking for the truth,” and so it goes away.
+
+- "Once when I was about ten we stopped like 
+this by the road and I used half a roll of film taking pictures. And when the pictures came back I cried. There wasn't anything there."
+    - ezért kell meg**élni** a pillanatot, nem pedig megpróbálni megörökíteni - mert az utóbbi úgysem fog sikerülni
 
 
 
@@ -63,9 +79,7 @@ Chautauqua felnőttoktatási és társadalmi mozgalom volt az Egyesült Államok
 
 ## 1
 
-We want to make good time, but for us now this is measured with emphasis on “good” rather than “time” and when you make that shift in emphasis the whole approach changes.
 
-The truth knocks on the door and you say, “Go away, I'm looking for the truth,” and so it goes away.
 
 The Buddha, the Godhead, resides quite as comfortably in the circuits of a digital computer or the gears of a cycle transmission as he does at the top of a mountain or in the petals of a flower.
 
@@ -99,20 +113,16 @@ mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és 
 - a fizika és a matek szabályai is emberi találmányok, mint a szellemek
     - az is emberi találmány, hogy ezek közül vannak dolgok, amik *nem* emberi találmányok :D
 
-"That's the first normal thing I've said in weeks. The rest of the time I'm feigning twentiethcentury lunacy just like you are. So as not to draw attention to myself."
 
 
 ## 4 
 
-- fontos dolgok listája, amik legyenek nálunk egy hosszú motortúra alkalmával
 - a karbantartással kapcsolatban: "The new ones start out as good-looking strangers and, depending on how they are treated, degenerate rapidly into bad-acting grouches or even cripples, or else turn into healthy, good-natured, long-lasting friends."
 
 - a technológia utálata - úgy, hogy közben azért mégis függünk tőle - az leginkább csak hálátlanság
     - csak hát azzal nem oldunk meg senkit, ha hálátlannak nevezzük egyenesen az arcába
 
-- "Once when I was about ten we stopped like 
-this by the road and I used half a roll of film taking pictures. And when the pictures came back I cried. There wasn't anything there."
-    - ezért kell meg**élni** a pillanatot, nem pedig megpróbálni megörökíteni - mert az utóbbi úgysem fog sikerülni
+
 
 ## 5
 
@@ -252,9 +262,7 @@ this by the road and I used half a roll of film taking pictures. And when the pi
     - és ahogy egyre tovább használjuk őket a garanciális idejükön túl, annál kevésbé magyarázzák a valóságunkat (ami közben hatalmas léptékkel változik)
 
 
-- ”The trouble is that essays always have to sound like God talking for eternity, and that isn't the way it ever is. People should see that it's never anything other than just one person talking from one place in time and space and circumstance. It's never been anything else, ever, but you can't get that across in an essay.” ---> eez kurva jó
 
-Az a baj, hogy az esszékben mindig úgy kell hangozni, mintha maga Isten beszélne az örökkévalósághoz, pedig ez soha nem így van. Az embereknek látniuk kellene, hogy egy érvelés soha nem más, mint egyetlen ember beszéde, egy helyen, egy időpontban, egy kontextusban. Soha nem is volt más - de egy esszében ezt nehéz érzékeltetni.
 
 ## 15
 
@@ -457,85 +465,31 @@ an equilibrium between restlessness and exhaustion. Then, when you're no longer 
 
 
 
-## 27
-## 28
-
-- annak a története, hogy hogyan szívatták Chicago-ban
-- mythos over logos - a korai, primitív hitrendszer semmiben nem más, mint a logikus tudás, ami kinő belőle, csak méretben/komplexitásban
-    - de az identitása ugyanaz
-    - ez kb. egy még erősebb változata annak, amit én társadalmi alapértelmezésnek hívok
-    - és ha ezt az ember kellő mélységben visszautasítja (mert mondjuk rájön, hogy ez egyáltalán visszautasítható; nem egy univerzális igazság, hanem csak egy társadalmi alapértelmezés), akkor onnantól "őrült"
-- ezért haragudott Phaedrus annyira az ókori görögökre - mert ők alapozták meg annyira ezt a mythos-t, ami azóta is hat az emberek gondolkodására
-    - az egyetemen azt akarják beleverni a diákokba, hogy az ókori görög gondolatoknak napjainkban is van értelme, és a diákoknak ezt nem igazán veszi be a gyomra
-    - Phaedrus-t viszont pont az idegesíti, hogy mennyire hatnak azok a régi gondolatok még ma is, és hogy ennek mekkora negatív hatása is van, amiről senki nem beszél
-    - az alany/tárgy dualitás is miattuk van
 
 
-## 29
-
-- a fizikai távolságnak nem sok köze van a magányhoz - amit inkább a mentális távolság okoz
-    - ezért lehet valaki a nagyvárosban magányos, míg egy kicsi, "mindenki mindenkit ismer" faluban nem
-- de a nagyvárosokban sem azért van extra magány, mert a technológia gonosz
-    - hanem mert a technológia egyre erősebben a hamis objektivitás/szubjektivitás dualitásába ringatja az embereket
-    - és ebből nem kell úgy menekülni, hogy a technológiát is hátrahagyja az ember - egy megfelelő Minőség tudattal motorjavítás közben is valószínűbb, hogy több lesz a barátunk, és hogy ők sem tárgyként tekintenek majd ránk
-- a minőség és a racionalitás egyre inkább szembe kerülnek egymással, és ebből a racionalitás jön ki látványosan jobban
-    - ezért megyünk vissza a görögökhöz - hogy meglássuk, miért is fordultak ezek valaha szembe egymással
-    - hogy lehet az, hogy valami olyan a logikus, ami nem "jó"?!
-- pre-Socratikus filozófia áttekintés, hogy hogyan lett az egy Állandó Alapelvből a vízen/levegőn/tűzön keresztül valami megfoghatatlan (az elme)
-    - itt vált szét az Igaz és a Jó - a kozmologikusok szerint a az Állandó Alapelv nem törődik azzal, hogy mások mit gondolnak róla
-        - a későbbi Szofisták szerint viszont minden relatív
-    - ezt támadja Plato, mert védeni szeretné az objektív igazságot, ami kb. ekkor került elő először az emberi történelemben
-    - viszont Phaedrus mégis úgy érzi, hogy a Minőség pont a Szofisták nézeteire hajaz jobban
-- régi "areté" fogalom, ami nem kéne hogy bármi morális felhanggal járjon
-    - csak annyit jelentett, hogy kiválóság, nem pedig erényesség
-- ez vezet vissza a Minőséghez, az Egy-séghez, a Dharma-hoz
-    - a kiválóság felé törekedés az alap, (és ennek lehetnek klasszikus és romantikus megnyilvánulásai?)
-
-" Phćdrus remembered a line from Thoreau: “You never gain something but that you lose something.” And now he began to see for the first time the unbelievable magnitude of what man, when he gained power to understand and rule the world in terms of dialectic truths, had lost. He had built empires of scientific capability to manipulate the phenomena of nature into enormous manifestations of his own dreams of power and wealth…but for this he had exchanged an empire of 
-understanding of equal magnitude: an understanding of what it is to be a part of the world, and not an enemy of it. "
-
-- Plato a Szofistáktól vette át a Jó-t, de alárendelte az Igaz-nak, és ezzel megkötötte, állandóvá tette
-    - és ilyen megkötés mellett Arisztotelésznek már könnyű volt még jobban ledegradálni azzá, amihez logikus érvelések által elérhetünk
-    - és így lett az etika egy relatíve kicsi, elhanyagolható területe a filozófiának, míg a logika/fizika/tudomány azóta is töretlenül menetel
-        - és még azon kicsi etikán belül is inkább definíciókkal és logikusan levezethető dolgokkal próbálunk foglalkozni
-        - és aztán meg vagyunk lepődve, hogy nem nagyon megy - vagy hogy különböző emberek véleményében különböző irányokba megy - és mivel ez a logika és racionalitás-uralta világban nem menő, így inkább legyintsünk rá
-            - nehogy már tágítani kelljen egy kicsit a tudatunkat, hogy beleférjen valami, ami láthatóan fontos lenne, mégsem illeszkedik a jelenlegi világrendhez
 
 
-## 30
 
-- végre eljutunk a neve eredetéig is
-    - Phaedrus az egyik Plátói dialógusban Socrates ellenfele aki a Minőséget és a retorikát akarja védeni, de a dialektikus érveléssel lelövik őt is
-    - csakhogy a lelövés módjába nagyon is bele lehet kötni
-    - Plato-nak azért volt könnyű dolga, mert egy szellemmel vitatkozott, akinek olyan szavakat adhatott a szájába, amilyeneket csak akart
-    - de amikor Phaedrus köt bele a Plato-i érveket előadó professzorba, akkor nem nagyon tudnak vele mit kezdeni
-        - ettől persze ő sem tud velük mit kezdeni, mert abszolút nem nyitottak az ő álláspontjára
-- ezzel kibukik a PhD programból, mert nem hajlandó tovább birka lenni a tekintély-elvű oktatási rendszerben
-    - és a tanári állásából is kibukik, mert ugyanígy pásztor sem képes lenni, ha egyszer farkas :)
-- itt borul el az elméje is
-    - "If it was all bricks and concrete, pure forms of substance, clearly and openly, he might survive. It is the little, pathetic attempts at Quality that kill."
-    - a Minőség látszatát kelteni még fájdalmasabb, mintha nyíltan felvállalnánk, hogy szarunk rá
-    - rájön, hogy kb. hiába volt minden, mert miközben a racionálisokat akarta meggyőzni a Minőségről, ő maga is racionális állításokat mondott, amivel mégis definiálni kezdte a szándékosan definiálatlanul hagyandó Minőséget
 
-## 31
 
-- hazaküldi Chris-t, szembesíti vele, hogy ő is beteg (valamilyen szinten)
-- visszarémlik, hogy az üvegajtós álma megtörtént a kórházban, amikor utoljára láthatta Phaedrus-ként a családját
 
-## 32
 
-- az én értelmezésemben
-    - rájön, hogy Chris miatt jött ki a kórházból is, és azért vállalta, hogy más lesz, hogy az apja lehessen
-    - de ez neki is szar volt, mert így kb. szürke és értelmetlen volt az élete
-    - és Chris-nek is, mert ez látszott rajta
-    - talán az utazás tapasztalataival és a régi emlékek felidézésével újra össze tudja rakni az elméje két felét
 
-## Végszó
 
-- ókori görög időszemlélet: háttal állunk a jövőnek, ami hátulról lep meg minket, miközben a múlt a szemünk előtt távolodik egyre messzebbre
-    - és ez mennyivel pontosabb metafora, mint amire általában gondolunk, nem?
-- "kultúra-hordozó" könyv - jókor a jó helyen, mert pont kifejezett egy olyan értékítéletet, amire a nép fel volt készülve
-    - hippi vs. konzervatív
-    - a "szabadság" önmagában negatív, mert sokszor valamiTŐL akarunk szabadok lenni
-    - ez a könyv ehelyett adott valamit, ami FELÉ törekedhetünk pusztán a jó állás és az anyagi gazdagság helyett
-- Chris halála - és hogy ilyenkor hova lesz az ember
+
+## Összefoglalás
+
+Ha elég kis darabokra lebontjuk, akkor Pirsig végülis nem mond sok újat.
+Viszont itt megint inkább az számít, *ahogy* mondja -- és hogy azáltal hátha pont most jut be a fejünkbe a "régi" mondanivaló.
+Számomra:
+
+- Nagyon szépen, mégis praktikusan festi meg az alany/tárgy dualitás hátrányait;
+- Ad mellé egy kezelési hozzáállást, ami a mélyebb metafizikai részletek nélkül is elmegy egy általánosan alkalmazható, "józan paraszti ész" jellegű tanácsnak;
+- A metafizikai részekkel pedig eljutunk "Az Egy"-hez, ami nézőponttól függően akár spirituális/vallásos élményt is nyújthat;
+- A találékonyság rész egy-az-egyben Dweck növekedési szemléletmódjára hajaz;
+- Végül a jelen megélésének fontossága (és bármilyen más viselkedésforma hihetetlen ostobasága) csak úgy süt a sorok között.
+
+A körítésként szolgáló úti mese nem annyira az én asztalom.
+Az meg főleg nem, hogy egy viszonylag még megérthető intellektuális krízist egészen a mentális összeomlásig visz a szerző.
+Az apai bánásmódjáról ne is beszéljük.
+De ha mindennek mögé nézünk, bőven akad itt gondolkodnivaló.
