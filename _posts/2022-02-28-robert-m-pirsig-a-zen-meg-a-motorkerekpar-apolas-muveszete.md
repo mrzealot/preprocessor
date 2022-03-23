@@ -37,51 +37,50 @@ A ["Chautauqua"](https://en.wikipedia.org/wiki/Chautauqua){:target="_blank"} egy
 Az én értelmezésemben kb. a mai TED talk-okra kell gondolni, csak utazó előadók és helyben megtartott előadások formájában.
 Pirsig tudatosan ilyenre veszi a könyv hangulatát és (többek között) a saját élettörténetén keresztül mond nekünk egy tanmesét.
 
-A jelenbeli szál
+A jelenbeli szál több állomáson keresztül vezet minket végig Amerika középső tájékain.
+Először Minneapolis-tól motorozunk a hegyekig négyesben -- Pirsig a fiát, Chris-t szállítja, John és Sylvia pedig barátokként csatlakoznak erre a szakaszra.
+A Sziklás hegységtől kezdve már csak az apa-fia duó marad, először némi túrázásra, végül pedig egy plusz adag motorozásra a kontinens túlpartjáig.
 
-- ügyes, ahogy a mély, száraz, krétaporosan tantermi filozófiai dolgokat (amik magukban talán elriasztanák az olvasót) vegyíti az motoros útiregénnyel, hogy menet közben fenntartsa a kapcsolatot az "utca emberével" :)
+Ebből a szempontból az önállóság, a találékonyság, és az igazi "kemping minimalizmus" tetszett nagyon.
+A nedves hálózsákok, a köveken szárítandó ruhák és a szigorú beosztásra szoruló élelmiszer készletek (többek között) szépen felidézik a Walden mondanivalóját, miszerint valójában milyen kevésre is van az embernek igazán szüksége.
+Sőt, nem is csak szellemében idézzük Thoreau-t, hanem konkrétan a könyvén keresztül, ami még egy ilyen minimalista túrafelszerelésnek is része volt Pirsig hátizsákjában.
+Az ilyen körülmények után pedig annál jobban tudja majd értékelni az ember, ha egyszer-egyszer egy útszéli motelben ágyat is láthat.
+
+Megvan tehát a "váz", aminek keretei között kibontakozhat a múltbéli szál: Pirsig fiatalsága, matekos/fizikás tanulmányai, a tisztán objektív tudományból való kiábrándulása, az egyre erősebb filozofikus érdeklődése, és hát a felismeréseiből következő szó szerinti megőrülése.
+Elmeséli, hogy elektromos sokkterápiában részesült, hogy azóta mennyire más személy lett, és hogy mennyivel szürkébb életet él (technikai író, feleség, gyerekek).
+Ez a túra is leginkább arra irányul, hogy felelevenítse a régi emlékeit, illetve megpróbálja összeegyeztetni a mostani tudatát a régi énjével (akire csak harmadik személyben, Phaedrus-ként utal).
+Az már csak ráadás, hogy ezáltal az apaság területén érzékelhető hiányosságait is orvosolhatná.
+
+Formailag szerintem ügyes, ahogy a mély, száraz, krétaporosan tantermi filozófiai dolgokat (amik magukban talán elriasztanák az olvasót) vegyíti a motoros útiregénnyel, hogy menet közben fenntartsa a kapcsolatot az "utca emberével".
+De ezekre a körítő dolgokra én most ennyivel ráhagynám -- jöjjön a filozofikusabb veleje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## A probléma
 
 
-## A Minőség (nagy M-mel)
-
-
-
-
-
-
-
-
-## Bónusz: a jelen megélése
-
-We want to make good time, but for us now this is measured with emphasis on “good” rather than “time” and when you make that shift in emphasis the whole approach changes.
-
-The truth knocks on the door and you say, “Go away, I'm looking for the truth,” and so it goes away.
-
-- "Once when I was about ten we stopped like 
-this by the road and I used half a roll of film taking pictures. And when the pictures came back I cried. There wasn't anything there."
-    - ezért kell meg**élni** a pillanatot, nem pedig megpróbálni megörökíteni - mert az utóbbi úgysem fog sikerülni
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 1
 
 
-
-The Buddha, the Godhead, resides quite as comfortably in the circuits of a digital computer or the gears of a cycle transmission as he does at the top of a mountain or in the petals of a flower.
 
 Motorjavitashoz valo hozzaallason keresztul mutatja be, hohy o es a veje (?) mennyire mashogy allnak a technologiahoz, es a modern, termeszetellenes, embertelen elethez
 De a szerzo szerint ebben is ugynaugy megtalalhatjuk az emberseget, mint mindenben, ha megfeleloen allunk hozza
@@ -91,8 +90,6 @@ De a szerzo szerint ebben is ugynaugy megtalalhatjuk az emberseget, mint mindenb
 
 ## 2
 
-
-"I argued that physical discomfort is important only when the mood is wrong. Then you fasten on to whatever thing is uncomfortable and call that the cause."
 
 
 mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és kókányolhatnak
@@ -105,19 +102,12 @@ mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és 
 
 ## 3
 
-- a szellemekről feljönnek a személyes hitek
-    - hogy Isaac Newton előtt igazából a gravitáció törvénye sem létezett
-    - mert persze nem lebegtek az emberek azelőtt sem - de magában a gravitációban csak azóta hiszünk, mióta ő előállt ezzel a magyarázattal
-- és amilyen arrogánsan képesek vagyunk mások szellemein taposni (például ha valaki szó szerint hisz a szellemekben), kb. ugyanolyan babonás csőlátással hisszük, hogy a mi szellemeink azok valósak
 
-- a fizika és a matek szabályai is emberi találmányok, mint a szellemek
-    - az is emberi találmány, hogy ezek közül vannak dolgok, amik *nem* emberi találmányok :D
 
 
 
 ## 4 
 
-- a karbantartással kapcsolatban: "The new ones start out as good-looking strangers and, depending on how they are treated, degenerate rapidly into bad-acting grouches or even cripples, or else turn into healthy, good-natured, long-lasting friends."
 
 - a technológia utálata - úgy, hogy közben azért mégis függünk tőle - az leginkább csak hálátlanság
     - csak hát azzal nem oldunk meg senkit, ha hálátlannak nevezzük egyenesen az arcába
@@ -171,11 +161,6 @@ mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és 
 - a romantikusok talán legnagyobb kritikája, hogy az analitikus gondolkodással a megfigyelt tárgy/jelenség elveszti a "varázsát", az is szürkévé válik a mély megértés által
     - de ne hagyjuk figyelmen kívül, hogy ezzel a veszteséggel együtt nyereség is társul a megértés képében
 
-- itt vallja be, hogy ő maga Phaedrus - a régi élete
-    - beutalták elmegyógyba, sokkterápiát kapott
-    - a mostani személyisége már nem a régi, de vannak emlékei
-    - vagyis azt a munkát folytatja, csak más szemmel :)
-
 
 
 
@@ -214,39 +199,19 @@ mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és 
 
 ## 11
 
-- Phaedrus emlékek
-    - csak úgy sodródás - nem volt kitaposott út, mert pont a kitaposott utakkal volt kapcsolatos a krízise
-    - Koreai háborús dolgok, keleti filozófiai kapcsolat
-- innen jön rá, hogy a kérdéseire eddig azért nem volt válasz, mert azok nem tudományos kérdések voltak, hanem filozofikusak (egy magasabb szinten)
-    - ezért elkezd filozófiát tanulni
-    - erre szép mentális kép a hegyi útjuk - mert a filozófia is az emberi tudás teteje, ahol a legabsztraktabb dolgokkal foglalkoznak
-        - csak megjegyzem, hogy ez ugye szemben áll a sztoikus praktikussággal
-- Kant, Hume
-    - nagyon pongyolán: Hume szerint ha az érzékelésből jön minden infónk, akkor arról nem is tudHATunk semmit, ami ezeket az ingereket kibocsátja
-        - ezért minden, amit az ingerek hátterébe képzelünk, az csak a képzeletünk
-        - vagyis nincs a háttérben semmi rendszer, nincsenek a természetnek törvényei, csak képzeljük
-    - Kant ezt nem hagyhatta - viszont Hume logikus levezetése miatt nem volt könnyű visszautasítani a következtetéseit
-        - szerinte vannak háttér dolgok (a priori), amik fényében értelmezzük az ingereket - pl. idő és tér...
-        - ezeket nem az ingerek teremtik, és nem is mi, de ezek adják a keretet az ingerek értelmezéséhez
-- ez egy Kopernikusz-i fordulat, mert kívül semmi nem változik, de belül minden
-    - a Föld addig is a Nap körül keringett és gömb alakú volt, amíg azt hittük, hogy lapos és mozdulatlan
-    - és az érzékszerveink által kapott jelzések mindkettőt alátámasztották
-    - de az utóbbi hirtelen megnyit egy csomó új, hasznos lehetőséget
-    - ugyanez Kant kritikájával
-- és ilyesmit csinált Phaedrus is, a klasszikus és a romantikus nézetek összeegyeztetésével?
+
+
+
+
+
+
+
+
 
 ## 12
 
-- a filozófiában is csak a racionalitás csúnyaságát látja, viszont az orient benyomása megmarad, ezért Indiába utazik
-    - hátha ott válaszokat talál - de nem
-    - szó szerint feladja a racionalitás szelleme utáni keresését
-    - szerez egy praktikus állást (újságíró), házasodik, gyerekei lesznek - elpunnyad
 
 ## 13
-
-- "Church of Reason" beszéde, amivel fanatikusan védte pont azt a racionalitást, amit közben megvetett
-    - itt még nem nagyon értem, miért, vagy hogy ennek mi jelentősége, de meglátjuk...
-    - talán pont kétségbeesésében, mert ekkora egzisztenciális válsághoz vezetett nála a hite megingása
 
 ## 14 
 
@@ -257,6 +222,9 @@ mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és 
 - ez racionalitással nem megoldható, mert a túlzott racionalitás épp a probléma része
     - és egyetemes megoldás látszólag nem létezik - csak ilyen egyéni elviselések, amikor az ember szándékosan kognitív disszonanciában él, és elfogadja, hogy a racionalitás az élete bizonyos részeire nem érhet el
     - de ez csak szőnyeg alá söprés - ami helyett inkább "kitágítani" kéne a racionalitást, hogy be tudja fogadni a lelki/művészi/stb. dolgokat
+
+
+
 - azért zavaros a jelenkor, mert a gondolkodásmódunk nem elég fejlett, hogy megbirkózzon a modern élményekkel és szituációkkal
     - a régi gondolatok már nem elegek - legalábbis a régi formájukban nem
     - és ahogy egyre tovább használjuk őket a garanciális idejükön túl, annál kevésbé magyarázzák a valóságunkat (ami közben hatalmas léptékkel változik)
@@ -265,6 +233,14 @@ mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és 
 
 
 ## 15
+
+
+
+- keleti filozófiai kapcsolat -- innen jön rá, hogy a kérdéseire eddig azért nem volt válasz, mert azok nem tudományos kérdések voltak, hanem filozofikusak (egy magasabb szinten)
+    - ezért elkezd filozófiát tanulni
+    - erre szép mentális kép a hegyi útjuk - mert a filozófia is az emberi tudás teteje, ahol a legabsztraktabb dolgokkal foglalkoznak
+        - csak megjegyzem, hogy ez ugye szemben áll a sztoikus praktikussággal
+
 
 - itt merül fel először a Minőség
     - hogy végül is mi is az?!
@@ -306,10 +282,7 @@ mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és 
 
 
 
-
-
-
-
+## A Minőség (nagy M-mel)
 
 
 ## 16
@@ -330,12 +303,7 @@ mekkora mítosz, hogy profik kezébe adod, amikor ők is ugyanúgy emberek, és 
 
 ## 17
 
-> > Mountains should be climbed with as little effort as possible and without desire. The reality of your own nature should determine the speed. If you become restless, speed up. If you become winded, slow down. You climb the mountain in 
-an equilibrium between restlessness and exhaustion. Then, when you're no longer thinking ahead, each footstep isn't just a means to an end but a unique event in itself. This leaf has jagged edges. This rock looks loose. From this place the snow is less visible, even though closer. These are things you should notice anyway. To live only for some future goal is shallow. It's the sides of the mountain which sustain life, not the top.
 
-    - ez kb. egy az egyben mehet, mint önálló poszt, hogy miért hagyok fel a rigid poszt-menetrenddel
-
-> Hegyet mászni a lehető legkisebb erőfeszítéssel és vágyakozás nélkül érdemes. Határozza meg a saját természeted a sebességedet. Ha nyughatatlan vagy, gyorsíts. Ha kifulladtál, lassíts. Így a nyugtalanság és a kifulladás közti egyensúlyban mászod a hegyet. És amikor végre már nem előre gondolkozol, minden lépés magában is egy páratlan esemény lesz, nem csak eszköz egy cél érdekében. Ennek a levélnek fűrészes a széle. Ez a kő instabilnak tűnik. Innen nehezebben látni a havat, pedig közelebb van. Az ilyesmit amúgy is észre kéne venned. Sekélyes, ha kizárólag egy jövőbeli cél érdekében élsz. A hegyoldalon található az élet, nem a csúcson.
 
 
 - annak ellenére, hogy nem tudta definiálni a Minőséget, felismeri azért képes
@@ -346,7 +314,7 @@ an equilibrium between restlessness and exhaustion. Then, when you're no longer 
 - és ez már nagyon szépen működött
     - csak azt nem értette, hogy miért
 
-> > The ego-climber [...] is here but he's not here. He rejects the here, is unhappy with it, wants to be farther up the trail but when he gets there will be just as unhappy because then it will be “here.”
+
 
 ## 18
 
@@ -392,16 +360,39 @@ an equilibrium between restlessness and exhaustion. Then, when you're no longer 
 
 ## 22
 
-- a tudomány abszolútságának megingása --> nemeuklideszi geometriák
-- és erre Poincaré: kb. az axiómák sem többek, mint kiemelt definíciók
-    - nincsenek alapigazságok, amikre onnantól építkezhetünk
-    - csak mi választunk egy pár alapigazságot abból a szemszögből, hogy mire lenne könnyű/érdemes építkezni
-- vagyis amire az univerzum épül, azok megfigyelések, tények
-    - de ezekből végtelen sok lehet - ahogy Phaedrus is belefutott a hipotézisek kapcsán
-    - a lényeg, hogy a lehetséges tények közül azt válassza az ember, ami utána a legtöbb megfigyelést magyarázza (és a legtöbb egyéb tényt feleslegessé teszi)
-    - ez egyféle matematikai, tiszta logikai "szépség" - Minőség?
-- ezzel önmagában az volt a baj, hogy erre csak úgy rámondható, hogy teljesen szubjektív, mert mindenki olyan tényeket választ magának, amilyet akar
-    - Poincaré és Phaedrus elméletei összeérnek - mintha egy puzzle két felét külön-külön rakták volna ki, és most azok is összeillenének egy egésszé
+
+
+
+
+    - a tudomány abszolútságának megingása --> nemeuklideszi geometriák
+    - és erre Poincaré: kb. az axiómák sem többek, mint kiemelt definíciók
+        - nincsenek alapigazságok, amikre onnantól építkezhetünk
+        - csak mi választunk egy pár alapigazságot abból a szemszögből, hogy mire lenne könnyű/érdemes építkezni
+    - vagyis amire az univerzum épül, azok megfigyelések, tények
+        - de ezekből végtelen sok lehet - ahogy Phaedrus is belefutott a hipotézisek kapcsán
+        - a lényeg, hogy a lehetséges tények közül azt válassza az ember, ami utána a legtöbb megfigyelést magyarázza (és a legtöbb egyéb tényt feleslegessé teszi)
+        - ez egyféle matematikai, tiszta logikai "szépség" - Minőség?
+    - ezzel önmagában az volt a baj, hogy erre csak úgy rámondható, hogy teljesen szubjektív, mert mindenki olyan tényeket választ magának, amilyet akar
+        - Poincaré és Phaedrus elméletei összeérnek - mintha egy puzzle két felét külön-külön rakták volna ki, és most azok is összeillenének egy egésszé
+
+
+    - Kant, Hume
+        - nagyon pongyolán: Hume szerint ha az érzékelésből jön minden infónk, akkor arról nem is tudHATunk semmit, ami ezeket az ingereket kibocsátja
+            - ezért minden, amit az ingerek hátterébe képzelünk, az csak a képzeletünk
+            - vagyis nincs a háttérben semmi rendszer, nincsenek a természetnek törvényei, csak képzeljük
+        - Kant ezt nem hagyhatta - viszont Hume logikus levezetése miatt nem volt könnyű visszautasítani a következtetéseit
+            - szerinte vannak háttér dolgok (a priori), amik fényében értelmezzük az ingereket - pl. idő és tér...
+            - ezeket nem az ingerek teremtik, és nem is mi, de ezek adják a keretet az ingerek értelmezéséhez
+    - ez egy Kopernikusz-i fordulat, mert kívül semmi nem változik, de belül minden
+        - a Föld addig is a Nap körül keringett és gömb alakú volt, amíg azt hittük, hogy lapos és mozdulatlan
+        - és az érzékszerveink által kapott jelzések mindkettőt alátámasztották
+        - de az utóbbi hirtelen megnyit egy csomó új, hasznos lehetőséget
+        - ugyanez Kant kritikájával
+    - és ilyesmit csinált Phaedrus is, a klasszikus és a romantikus nézetek összeegyeztetésével?    
+
+
+
+
 
 ## 23
 
@@ -443,20 +434,60 @@ an equilibrium between restlessness and exhaustion. Then, when you're no longer 
 
 ## 26
 
-- sütnivaló, találékonyság, képzelőerő...
-    - "The gumption-filling process occurs when one is quiet long enough to see and hear and feel the real universe, not just one's own stale opinions about it."
-    - aki "semmit nem csinál", az nem feltétlen vesztegeti az időt -- csak az igen korlátolt társadalmi nézeteink miatt tűnhet így
-        - "He hasn't been wasting time. It's only our limited cultural viewpoint that makes it seem so."
-- ha ez nincs, akkor semmi nem fog menni
-    - viszont ha ez van, akkor semminek nem lesz más választása, mint hogy (előbb-utóbb) menjen!
-    - ezért ez a legfontosabb, amit bármilyen tevékenységünk közben monitoroznunk kell
-    - és nem engedni bizonyos mentális torzításoknak (haragnak, elkeseredésnek) vagy külső zavaró tényezőknek (közös néven: sütnivaló-csapdáknak), hogy ezt elszivárogtassák
-- gyakori külső tényezők: rossz összeszerelési sorrend, csak időnként előforduló hibák, alkatrész hibák
-- gyakori belső tényezők: rossz értékítélet (mi egyáltalán a fontos, mire kéne figyelni, lásd majom-csapdák), rossz következtetések (erőltetett igen-nem dualitás, amikor a "Mu", avagy "rossz a kérdés" is lehet válasz), rossz végrehajtás (leginkább rossz szerszámok!, vagy nem megfelelő környezet/fény)
-- ezekkel egy olyan általános hibakeresési és megoldási összefoglalót kapunk, amivel a programozás területén is teljesen azonosulni tudtam
-    - "You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally."
 
-- "The real cycle you're working on is a cycle called yourself. The machine that appears to be “out there” and the person that appears to be “in here” are not two separate things. They grow toward Quality or fall away from Quality together."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Bónusz: a jelen megélése
+
+We want to make good time, but for us now this is measured with emphasis on “good” rather than “time” and when you make that shift in emphasis the whole approach changes.
+
+The truth knocks on the door and you say, “Go away, I'm looking for the truth,” and so it goes away.
+
+- "Once when I was about ten we stopped like 
+this by the road and I used half a roll of film taking pictures. And when the pictures came back I cried. There wasn't anything there."
+    - ezért kell meg**élni** a pillanatot, nem pedig megpróbálni megörökíteni - mert az utóbbi úgysem fog sikerülni
+
+
+> > Mountains should be climbed with as little effort as possible and without desire. The reality of your own nature should determine the speed. If you become restless, speed up. If you become winded, slow down. You climb the mountain in 
+an equilibrium between restlessness and exhaustion. Then, when you're no longer thinking ahead, each footstep isn't just a means to an end but a unique event in itself. This leaf has jagged edges. This rock looks loose. From this place the snow is less visible, even though closer. These are things you should notice anyway. To live only for some future goal is shallow. It's the sides of the mountain which sustain life, not the top.
+
+    - ez kb. egy az egyben mehet, mint önálló poszt, hogy miért hagyok fel a rigid poszt-menetrenddel
+
+> Hegyet mászni a lehető legkisebb erőfeszítéssel és vágyakozás nélkül érdemes. Határozza meg a saját természeted a sebességedet. Ha nyughatatlan vagy, gyorsíts. Ha kifulladtál, lassíts. Így a nyugtalanság és a kifulladás közti egyensúlyban mászod a hegyet. És amikor végre már nem előre gondolkozol, minden lépés magában is egy páratlan esemény lesz, nem csak eszköz egy cél érdekében. Ennek a levélnek fűrészes a széle. Ez a kő instabilnak tűnik. Innen nehezebben látni a havat, pedig közelebb van. Az ilyesmit amúgy is észre kéne venned. Sekélyes, ha kizárólag egy jövőbeli cél érdekében élsz. A hegyoldalon található az élet, nem a csúcson.
+
+> > The ego-climber [...] is here but he's not here. He rejects the here, is unhappy with it, wants to be farther up the trail but when he gets there will be just as unhappy because then it will be “here.”
+
+
+
+
 
 
 
@@ -486,7 +517,6 @@ Számomra:
 - Nagyon szépen, mégis praktikusan festi meg az alany/tárgy dualitás hátrányait;
 - Ad mellé egy kezelési hozzáállást, ami a mélyebb metafizikai részletek nélkül is elmegy egy általánosan alkalmazható, "józan paraszti ész" jellegű tanácsnak;
 - A metafizikai részekkel pedig eljutunk "Az Egy"-hez, ami nézőponttól függően akár spirituális/vallásos élményt is nyújthat;
-- A találékonyság rész egy-az-egyben Dweck növekedési szemléletmódjára hajaz;
 - Végül a jelen megélésének fontossága (és bármilyen más viselkedésforma hihetetlen ostobasága) csak úgy süt a sorok között.
 
 A körítésként szolgáló úti mese nem annyira az én asztalom.
