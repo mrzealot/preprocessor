@@ -59,7 +59,7 @@ Először Minneapolis-tól motorozunk a hegyekig négyesben -- Pirsig a fiát, C
 A Sziklás hegységtől kezdve már csak az apa-fia duó marad, először némi túrázásra, végül pedig egy plusz adag motorozásra a kontinens túlpartjáig.
 
 Ebből a szempontból az önállóság, a találékonyság, és az igazi "kemping minimalizmus" tetszett nagyon.
-A nedves hálózsákok, a köveken szárítandó ruhák és a szigorú beosztásra szoruló élelmiszer készletek szépen felidézik a Walden mondanivalóját, miszerint valójában milyen kevésre is van az embernek igazán szüksége.
+A nedves hálózsákok, a köveken szárítandó ruhák és a szigorú beosztásra szoruló élelmiszer készletek szépen felidézik a [Walden]({% post_url 2020-03-06-henry-david-thoreau-walden %}) mondanivalóját, miszerint valójában milyen kevésre is van az embernek igazán szüksége.
 Sőt, nem is csak szellemében idézzük Thoreau-t, hanem konkrétan a könyvén keresztül, ami még egy ilyen minimalista túrafelszerelésnek is része volt Pirsig hátizsákjában.
 Az ilyen körülmények után pedig annál jobban tudja majd értékelni az ember, ha egyszer-egyszer egy útszéli motelben ágyat is láthat.
 
@@ -110,18 +110,18 @@ A barát azt látta a sörös dobozban, aminek elsőre tűnik -- és az ő márk
 Pirsig viszont azt látta a sörös dobozban, amit *jelent*, és ami emiatt *lehetne* -- már pedig az alumínium anyaga miatt pont tökéletes lett volna a célra, mind a relatív puhasága, mind a rozsdaállósága szempontjából.
 
 Mint látjuk, különböző dimenziókból vizsgálták a technológiát.
-És valószínűleg John-nak sem lenne semmi baja a technológiával, ha az "csak úgy" együttműködne vele, úgymond súrlódásmentesen.
+És valószínűleg a barátjának sem lenne semmi baja a technológiával, ha az "csak úgy" együttműködne vele, úgymond súrlódásmentesen.
 Próbálna ő kiegyezni vele; nem véletlen van motorja egy off-grid, önellátó, csak kézi szerszámokat használó farm helyett.
 De amikor ez a kiegyezés elégszer nem sikerül, akkor csak úgy rámondja, hogy ez nem neki való.
 Ezzel szemben Pirsig alánéz a dolgoknak, amivel előbb/utóbb meg is találja az együttműködés módját.
 
-> Amivel itt szemben állunk, az valójában két különböző valóság, egy a közvetlen művészi kinézeteké és egy másik az alatt megbújó tudományos magyarázatoké; és ez a kettő nem hasonlít, nem illeszkedik, és gyakorlatilag semmi közük sincs egymáshoz.
+> Amivel itt szemben állunk, az valójában két különböző valóság, egy a közvetlen művészi kinézeteké és egy másik az az alatt megbújó tudományos magyarázatoké; és ez a kettő nem hasonlít, nem illeszkedik, és gyakorlatilag semmi közük sincs egymáshoz.
 > > What you've got here, really, are two realities, one of immediate artistic appearance and one of underlying scientific explanation, and they don't match and they don't fit and they don't really have much of anything to do with one another.
 
 Itt érünk el a fő kettősségig: a humán/reál, avagy a romantikus/klasszikus dichotómiáig.
 A fenti ellentét pedig azért jöhetett ki ilyen szépen, mert sajnos a motorozás és a motorkarbantartás nagyon is különböző oldalán vannak ennek a szakadéknak.
 
-Mindkettőnek meglehetnek a negatív véleményei egymásról.
+Természetesen mindkét oldal képviselőinek meglehetnek a negatív véleményei egymásról.
 A romantikus szemében a klasszikus unalmas, kötött, nehéz, elnyomó.
 Szerinte az analitikus gondolkodással a megfigyelt tárgy/jelenség elveszti a "varázsát", az is szürkévé válik a mély megértés által.
 A klasszikus szemében a romantikus megbízhatatlan, csapongó, sekélyes, komolytalan.
@@ -147,7 +147,7 @@ Csak azért, mert mi azt a pár szemet hívjuk a világ(unk)nak, attól még van
 Ezzel áll szemben a romantikus szemlélet, ami pedig egyben igyekszik tekinteni a homokszemeket.
 
 Ez a két oldal így direktben nyilván nem összeegyeztethető -- kéne viszont egy olyan világnézet, ami egyiket sem nyomja el.
-Egy olyan világnézet, ami mind a maréknyi kis homokunk szortírozását, mind a maréknyi kis homokunkban való gyönyörködést pártolja -- és emellett arra is megpróbálja felhívni a figyelmet, hogy ez a maréknyi kis homokunk mellett még ott ám az egész sivatag attól, hogy nem veszünk tudomást róla.
+Egy olyan világnézet, ami mind a maréknyi kis homokunk szortírozását, mind a maréknyi kis homokunkban való gyönyörködést pártolja -- és emellett arra is megpróbálja felhívni a figyelmet, hogy ez a maréknyi kis homokunkon túl még ott ám az egész sivatag attól, hogy nem veszünk tudomást róla.
 
 > A Buddha, az Istenség, ugyanolyan kényelmesen megfér egy digitális számítógép áramköreiben vagy egy motorkerékpár váltójának fogaskerekeiben, mint egy hegy tetején vagy egy virág szirmaiban.
 > > The Buddha, the Godhead, resides quite as comfortably in the circuits of a digital computer or the gears of a cycle transmission as he does at the top of a mountain or in the petals of a flower.
@@ -158,7 +158,7 @@ A "rendszer", amiben élünk, az igazából azok a hierarchiák összessége, am
 A probléma csak az, hogy ebből a rendszerből aránytalan mennyiségben próbálunk kizárni bármilyen szubjektív befolyást.
 Nincs egy főgonosz a háttérben, aki azt akarná, hogy értelmetlen, jelentés nélküli életet éljünk -- egyszerűen a jelenlegi rendszerünk szerkezete olyan, ami gyakorlatilag ezt követeli.
 
-Mint ahogy Newton megreformált minden addigi fizikai elméletet, később pedig Einstein állított minden addigi elméletet a feje tetejére.
+Mint ahogy Newton megreformált minden addigi fizikai elméletet, később Einstein állított minden addigi elméletet a feje tetejére.
 Ha tisztán racionálisan gondolkozunk, akkor ebből azt a tanulságot vonhatjuk le, hogy az igazság igazából az idő függvénye.
 Tetszőleges pillanatban létezik egy olyan elmélet, ami abszolút jobb, mint az összes többi.
 De az csak addig áll egy adott elméletre, amíg nem jön egy új, ami annál is abszolút jobb.
@@ -180,8 +180,7 @@ De ez csak szőnyeg alá söprés -- ami helyett inkább "kitágítani" kéne a 
 
 Azért zavaros a jelenkor, mert a gondolkodásmódunk nem elég fejlett, hogy megbirkózzon a modern élményekkel és szituációkkal.
 A régi gondolatok már nem elegek -- legalábbis a régi formájukban nem.
-És ahogy egyre tovább használjuk őket a garanciális idejükön túl, annál kevésbé magyarázzák a valóságunkat, ami közben hatalmas léptékkel változik.
-(Lásd [Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %}))
+És ahogy egyre tovább használjuk őket a garanciális idejükön túl, annál kevésbé magyarázzák a valóságunkat, ami közben hatalmas léptékkel változik (lásd [Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %})).
 
 Pirsig innen jön rá, hogy a kérdéseire eddig azért nem volt válasz, mert azok nem tudományos kérdések voltak, hanem filozofikusak, egy kvázi "magasabb" szinten.
 Nem konkrét problémákról kell gondolkozni (tudomány), hanem magáról a gondolkozásról, ezért elkezd filozófiát tanulni.
@@ -254,7 +253,7 @@ Elvileg az esztétika az a filozófián belül, ami ezt a Minőséges kérdést 
 Azzal, hogy ő definiálhatatlannak kiáltotta ki a Minőséget, gyakorlatilag eltörölte az egész esztétikát, mint tudományt.
 
 De attól, hogy nem definiálható, még egyértelműen létező dolog.
-Ennek bizonyításár a realista módszert használja: Lássuk be valaminek a létezését úgy, hogy elképzeljük, milyen lenne, ha nem lenne.
+Ennek bizonyítására a realista módszert használja: Lássuk be valaminek a létezését úgy, hogy elképzeljük, milyen lenne, ha nem lenne.
 
 - Minőség nélkül nincs művészet (minek a kép a falra, ha a fal is ugyanolyan jó);
 - Nincs sport (minek gyorsan futni, ha lassan is ugyanolyan jó);
@@ -280,11 +279,11 @@ Mondjuk mert az alany akkor kerül tudatába a tárgynak, a tárgy pedig akkor k
 
 Szóval a cél egy "kicsit" tágul: nem is csak a tudományos és a művészi nézeteket akarjuk egyesíteni, hanem most már a vallást is idevesszük.
 Hiszen ha tényleg a Minőség egyesíti az alanyt a tárggyal, akkor a Minőség ugyanaz az "Egy", mint Isten, a Tao, vagy Buddha (ha nem ugyanaz lenne, akkor ugye már nem Egy lenne, hanem Kettő, ami megint a dualitás, ahonnan jövünk).
-Ha a Minőség minden forrása, akkor az a vallást is bevonja a képbe, aminek a tudomány *kocka-szemlélete* és a művészet *vagány-szemlélete* csak kivetülései.
+Tehát ha a Minőség minden forrása, akkor az a vallást is bevonja a képbe, aminek a tudomány *kocka-szemlélete* és a művészet *vagány-szemlélete* csak kivetülései.
 
 <br>
 
-Na most itt húzzunk is gyorsan egy vonalat, mert ahogy maga Pirsig is mondja:
+És itt most húzzunk is gyorsan egy vonalat, mert ahogy maga Pirsig is mondja:
 
 > Szerintem a metafizika akkor jó, ha javítja a hétköznapi életet; különben felejtsd el.
 > > I think metaphysics is good if it improves everyday life; otherwise forget it.
@@ -299,7 +298,7 @@ Ez ezért van, mert különbözőnek tekintjük magunkat a problémától, amit 
 És persze, természetesnek tűnik egy motor javítása során, hogy én *én* vagyok, nem a motor -- de ez csak azért természetes, mert ez a modern világ nézőpontbeli alapértelmezése.
 Ettől nem feltétlen lesz igaz, és pláne nem lesz hasznos.
 
-Mert jó a motor csak pár fém meg műanyag alkatrész.
+Mert jó, oké, a motor csak pár fém meg műanyag alkatrész.
 De akkor én meg csak pár csont és izomrost vagyok?
 Miért ne lehetne, hogy a motor mentális modellje összeolvadjon az én tudatommal, és miközben a mélyebb megértés által magam tökéletes(ebb)é teszem, azáltal a motort is megjavítom.
 
@@ -377,13 +376,16 @@ Bónusz kör gyanánt ide gyűjtöttem a kedvenc "zen" idézeteimet a könyvből
 > Egyszer, mikor kb. tíz éves lehettem, mi is megálltunk így az út mellett és vagy fél tekercs filmet elhasználtam a fényképezőből. Amikor előhívattuk őket, sírtam. Semmi nem volt rajtuk.
 > > Once when I was about ten we stopped like this by the road and I used half a roll of film taking pictures. And when the pictures came back I cried. There wasn't anything there.
 
-<small>Na ezért kell meg<b>élni</b> a pillanatot, nem pedig megpróbálni megörökíteni -- az utóbbi úgysem fog sikerülni.</small>
+Mármint: semmi nem volt rajtuk abból az élményből, amit az a látvány akkor és ott nyújtott.
+Na ezért kell meg**élni** a pillanatot, nem pedig megpróbálni megörökíteni -- az utóbbi úgysem fog sikerülni.
 
 <br>
 
 > Hegyet mászni a lehető legkisebb erőfeszítéssel és vágyakozás nélkül érdemes. Határozza meg a saját természeted a sebességedet. Ha nyughatatlan vagy, gyorsíts. Ha kifulladtál, lassíts. Így a nyugtalanság és a kifulladás közti egyensúlyban mászod a hegyet. És amikor végre már nem előre gondolkozol, minden lépés magában is egy páratlan esemény lesz, nem csak eszköz egy cél érdekében. Ennek a levélnek fűrészes a széle. Ez a kő instabilnak tűnik. Innen nehezebben látni a havat, pedig közelebb van. Az ilyesmit amúgy is észre kéne venned. Sekélyes, ha kizárólag egy jövőbeli cél érdekében élsz. A hegyoldalon található az élet, nem a csúcson.
 > > Mountains should be climbed with as little effort as possible and without desire. The reality of your own nature should determine the speed. If you become restless, speed up. If you become winded, slow down. You climb the mountain in 
 an equilibrium between restlessness and exhaustion. Then, when you're no longer thinking ahead, each footstep isn't just a means to an end but a unique event in itself. This leaf has jagged edges. This rock looks loose. From this place the snow is less visible, even though closer. These are things you should notice anyway. To live only for some future goal is shallow. It's the sides of the mountain which sustain life, not the top.
+
+Ennél jobb magyarázatot keresve sem találhatnék a blog-ütemem [visszalassítására]({% post_url 2022-02-01-rendszervaltas-rendszertelenedes %})...
 
 <br>
 
@@ -426,7 +428,7 @@ Számomra:
 - Nagyon szépen, mégis praktikusan festi meg az alany/tárgy dualitás hátrányait;
 - Ad mellé egy kezelési hozzáállást, ami a mélyebb metafizikai részletek nélkül is elmegy egy általánosan alkalmazható, "józan paraszti ész" jellegű tanácsnak;
 - A metafizikai részekkel együtt pedig eljutunk akár "Az Egy"-hez, ami nézőponttól függően akár spirituális/vallásos élményt is nyújthat;
-- Végül a jelen megélésének fontossága (és bármilyen más viselkedésforma hihetetlen ostobasága) csak úgy süt a sorok között.
+- Végül a jelen megélésének fontossága (és bármilyen más viselkedésforma hihetetlen ostobasága) csak úgy süt a sorok közül.
 
 A körítésként szolgáló úti mese nem annyira az én asztalom.
 Az meg főleg nem, hogy egy viszonylag még megérthető intellektuális krízist egészen a mentális összeomlásig visz a szerző.
