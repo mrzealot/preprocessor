@@ -13,7 +13,7 @@ excerpt: >
 Az emberi agy is pont úgy képes a párhuzamosságra, mint a számítógépek -- sehogy.
 Jó, igen, manapság már közhely az olyan processzor, ami valóban több magos, de az igazából nem más, mint több, szorosan együttműködő számítógép egybe csomagolva.
 Egy gép csak egy dolgot csinál.
-És különben is, eddig sem a magok száma határozta meg, hogy hány dolog futhat egyszerre.
+Különben meg korábban sem a magok számától függött, hogy hány dolog futhat egyszerre.
 
 És hogy akkor hogyan lehet egy időben zenét hallgatni és reddit-et böngészni, miközben a háttérben még valami letöltés is megy?
 Erre valók az időosztásos rendszerek.
