@@ -9,6 +9,17 @@ excerpt: >
     TODO
 ---
 
+
+Még februárban, Valentin nap környékén támadt az a romantikus (és tagadhatatlanul piros pontot érő! Hallod Manó?) ötletem, miszerint értelmetlen kapitalista ajándék helyett olvashatnék inkább olyan könyveket a blog keretein belül, amik célzottan a gyakran felvetődő kapcsolati problémáinkat dolgozzák fel.
+Elvégre nem vagyunk mi annyira UFO-k, hogy más ne tudna szimpatizálni, és hasznos meglátásokat nyerni az ott hallottakból.
+Így mi is alakulunk, Ti is alakultok. Win-win.
+
+A kedves párom oldalán a legegyértelműbb választás a szorongás témaköre -- ami, bevallom őszintén, azért nekem sem fog ártani.
+Ez lesz majd legközelebb.
+De előbb kezdjünk velem, és hogy az én oldalamon mit neveztünk meg, mint "alacsonyan lógó" javítanivalót.
+Ez pedig (a poszt címe után talán nem meglepően) az a tulajdonságom, hogy képes vagyok szinte mindenhonnan elkésni.
+
+
 [Never Be Late Again](https://www.goodreads.com/book/show/305135.Never_Be_Late_Again){:target="_blank"}
 
 
