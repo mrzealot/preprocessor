@@ -15,7 +15,7 @@ excerpt: >
 Ebbe a könyvbe gyakorlatilag teljesen vakon fogtam bele.
 Annyit tudtam, hogy "kult klasszikus", és hogy ezért előbb vagy utóbb majd úgyis fel "kell" dolgoznom, de kb. ennyi.
 Aztán a megrágása bizony el is tartott egy darabig.
-Na ez nem róható mind Pirsig számlájára, -- a saját, nem erőltetett tempómra beállás amúgy is egy jelentősebb szünetet követelt -- de azért az olvasottak megemésztése is igencsak nyomott latba.
+Na ez nem róható mind Pirsig számlájára, -- a saját, nem erőltetett tempómra beállás amúgy is egy jelentősebb szünetet követelt -- de azért az olvasottak megemésztése is igencsak nyomott a latba.
 
 Egy másik lehetséges ok a tempómra, hogy [A zen meg a motorkerékpár-ápolás művészete](https://moly.hu/konyvek/robert-m-pirsig-a-zen-meg-a-motorkerekpar-apolas-muveszete){:target="_blank"} egy tömör, rengeteg okosságot és merengést tartalmazó, úti regénybe csomagolt filozófiai értekezés a modern társadalom változatos rákfenéiről, hogy hogyan jutottunk idáig, és hogy mit tehetünk ellenük.
 Én ezekből leginkább csak a fő szálat igyekeztem egy koherens egésszé összefogni a lentiekben, ahol a keleti és a nyugati kultúra egyik legnagyobb szemléletmód ellentétét igyekszünk kibékíteni.
