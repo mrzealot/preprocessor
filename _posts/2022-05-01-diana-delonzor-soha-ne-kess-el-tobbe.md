@@ -4,10 +4,10 @@ title: Diana DeLonzor - Soha ne késs el többé
 cover: neverbelateagain
 tags: [produktivitás]
 pages: 177
-date: 2022-04-23 00:01
+date: 2022-05-01 00:01
 excerpt: >
     Karakterfejlesztés címszó alatt megcéloztam magamon azt az "alacsonyan lógó" javítanivalót, miszerint képes vagyok szinte mindenhonnan elkésni.
-    Nem úsztam viszont a könyv opciókban -- és ahol szóba kerül, ott is eléggé egy kaptafára kezelnek mindenkit.
+    Nem úsztam viszont a könyv opciókban -- és ahol szóba került a téma, ott is eléggé egy kaptafára kezeltek mindenkit.
     Ezért is esett olyan jól, amikor végre beleakadtam Diana DeLonzor -- Never Be Late című könyvébe, amiben egész konkrétan hét típusra osztjuk az érintetteket...
 ---
 
@@ -22,7 +22,7 @@ De előbb kezdjünk velem, és hogy az én oldalamon mit neveztünk meg, mint "a
 Ez pedig (a poszt címe után talán nem meglepően) az a tulajdonságom, hogy képes vagyok szinte mindenhonnan elkésni.
 
 Nekiestem hát könyvet keresni a témában, és annak ellenére, hogy ez egy milyen gyakori jelenség, mégsem igazán úsztam az opciókban.
-Aki pedig egyáltalán szót ejt róla az önfejlesztés kontextusán belül, az általában mindjárt az időmenedzsment irányba viszi a témát -- írjunk fel dolgokat, használjunk naptárat, stb.
+Aki pedig egyáltalán említést tesz róla az önfejlesztés kontextusán belül, az általában mindjárt az időmenedzsment irányba tereli a szót -- írjunk fel dolgokat, használjunk naptárat, stb.
 Na most nem mondom, hogy néhány esetben nem pont ez a probléma (elvégre lentebb is fel fog bukkanni), de nálam nagyon nem.
 És különben is, a legnagyobb gond ezzel a hozzáállással az, hogy mindenkit egy kalap alá próbál venni, mintha a *késősségnek* nem lehetne számtalan gyökere.
 
@@ -57,7 +57,7 @@ Ugyanúgy, ahogy a fogyókúra alatt is azzal a szent elhatározással ébred az
 Csak sajnos ahogy a diétát is eltéríti egy ellenállhatatlan csokis süti, úgy sokszor a krónikus késő sem tudja megállni, hogy csak még egy tennivalót be ne próbáljon préselni mielőtt végre kilépne az ajtón.
 Épp ezért a tüneti kezelés helyett itt is inkább a hátterébe kéne nyúlkálni és rájönni, hogy miért "éri meg" nekünk késni.
 Mert valami pozitívumot akkor is kapunk belőle, ha azt csak tudat alatt választjuk -- különben nem alakulna ki a szokás.
-Viszont ha tudatosítjuk magunkban, hogy mi is az a pozitívum, akkor már félig ott vagyunk a megoldásnál, mert az a bizonyos pozitívum szinte biztos, hogy egészségesebben is pótolható lesz, mint hogy állandóan úgy kelljen beesnünk mindenhova.
+Viszont ha tudatosítjuk magunkban, hogy mi az a pozitívum, akkor már félig ott vagyunk a megoldásnál, mert az a bizonyos pozitívum szinte biztos, hogy egészségesebben is pótolható lesz, mint hogy állandóan úgy kelljen beesnünk mindenhova.
 
 Kérdőíves felmérésekkel statisztikai eltérések mutathatók ki a késős és a pontos alanyok pszichológiája között.
 A késősök például alacsonyabb pontszámokat érnek el önbizalom és önfegyelem téren, míg magasabbakat szorongásból és figyelem-elterelhetőségből.
@@ -66,7 +66,7 @@ Mert persze, mások életét is befolyásoljuk (és megkeserítjük) a késésse
 Hiába hibáztatjuk a forgalmat vagy az időjárást, mélyen belül úgyis tisztában vagyunk vele, hogy tehetnénk ellene.
 
 És ne nyugtassuk magunkat azzal sem, hogy "ha ez ennyire idegesítő lenne, akkor gyakrabban szólnának érte" -- sokan inkább lenyelik a frusztrációt, de attól még ott van az.
-Szintén önző érdekből gondolhatunk arra is, hogy a késés negatívan befolyásolja a megítélésünket.
+Szintén önző érdekből gondolhatunk arra, hogy a késés negatívan befolyásolja a megítélésünket.
 Interjúk során csak az nem tekintett rá lenézendő dologként, aki maga is késős.
 Ez a személyen kapcsolatokon felül a karrier aspirációinkat is vakvágányra terelheti.
 
@@ -101,7 +101,7 @@ Idézzük fel, kövessük, számszerűsítsük -- bárhogy is, de *objektivizál
 
 - **Nézzünk szembe a saját felelősségünkkel**.
 Keressük ki a késéseinkből, hogy mi az, ami a saját befolyásunk alá esik.
-Senki nem kéri például, hogy irányítsuk a forgalmat, de azt viszont igen, hogy ha ugyanaz a jellegű forgalom mellett is rendszeresen késünk, akkor essen le a tantusz, hogy ez ellen igenis tehetnénk.
+Senki nem kéri például, hogy irányítsuk a forgalmat -- de azt viszont igen, hogy ha ugyanaz a jellegű forgalom mellett is rendszeresen késünk, akkor essen le a tantusz, hogy ez ellen igenis tehetnénk.
 
 - **Kérjük ki mások véleményét**.
 Kérjük meg őket, hogy legyenek nyitottak a véleményükkel az esetleges jövőbeli késéseink alkalmával.
@@ -109,7 +109,7 @@ Mert attól, hogy maguktól esetleg nem mondják a képünkbe, attól még higgy
 És ha hallanánk, azzal talán jobban tudatosulna bennünk, hogy itt tényleg gond van.
 
 - **Változtassuk meg a hozzáállásunkat**.
-Legyen olyan súlyos, mint egy be nem tartott ígéret, vagy egy vissza nem fizetett kölcsön.
+Legyen a késés olyan súlyos, mint egy be nem tartott ígéret, vagy egy vissza nem fizetett kölcsön.
 Ez a gondolkodásmód automatikusan más tetteket fog magával rántani.
 Ha pedig mégis késünk (nyilván nem fog egyik napról a másikra megváltozni minden), akkor ne magyarázkodjunk, ne keressünk kifogásokat!
 És főleg ne legyünk mérgesek a másikra, amiért mérges ránk -- vállaljuk a felelősséget, és legközelebb igyekezzünk nem ilyen helyzetbe kerülni.
@@ -153,13 +153,13 @@ Tervezzünk úgy, hogy hamarabb érkezzünk, és ha ez tényleg sikerül, akkor 
 De majd látni fogjuk, hogy legtöbbször pont így érünk majd oda időre.
 Ha pedig mégis várnunk kell, akkor olvassunk, meditáljunk, agyaljunk szabadon, beszélgessünk idegenekkel, tervezzük a nyaralást, tanuljunk egy új nyelvet, hallgassunk egy podcast-ot, stb. stb.
 
-- **Hagyjuk hátra a mágikus gondolkozást**.
+- **Hagyjuk hátra a mágikus gondolkodást**.
 Egy pár hétig mérjük minden rendszeres tevékenységünknél, hogy mi meddig tart, és aztán ebből nézzük kb. a maximumot (amibe akkor nagy valószínűséggel az esetek 99%-ában bele fogunk férni).
 Ne átlagoljunk, mert habár a mágikus optimizmusnál valószínűleg már az is jobb lenne, de úgy az esetek felében még mindig alulbecsülnénk az adott feladat időigényét.
 
 - **Használjunk "ébresztőket"**.
 A telefonok és okosórák világában nem nagy kunszt tetszőleges figyelmeztetőket beállítani magunknak.
-És ezek nem csak ébresztésre, hanem indulás-figyelmeztetőként is hasznosnak lehetnek.
+És ezek nem csak ébresztésre, hanem késés elleni indulás-figyelmeztetőként is hasznosnak lehetnek.
 
 <br>
 
@@ -184,7 +184,7 @@ Illetve hogy milyen érzések hatására tettük, amit tettünk -- és ez segít
 
 - **Tanuljuk meg krízisek nélkül is motiválni magunkat**.
 Csináljunk belőle nyilvános ügyet, vagy versenyt (akár konkrét téttel, nyereményekkel és büntetésekkel).
-Tudatosan válasszunk dolgokat, amiket még nem kéne megcsinálni, és csak azért is csináljuk meg őket korán -- ezzel szoktatva magunkat a határidők szükségének gyengítésére, és a külső motivációról belsőre való átállásra.
+Illetve válasszunk tudatosan olyan dolgokat, amiket még nem kéne megcsinálni, és csak azért is csináljuk meg őket korán -- ezzel szoktatva magunkat a határidők szükségének gyengítésére, és a külső motivációról belsőre való átállásra.
 
 - **Tanuljunk meg konstruktívabb módon stimulációt szerezni**.
 Minél érdekesebb és ingergazdagabb az életünk, annál kevésbé lesz szükségünk a határidős rohanás adta adrenalinra.
@@ -201,7 +201,7 @@ Vagyis amint olyan szituációba kerülünk, ahol választani kell a most jó é
 És hogy ennek mi köze a késéshez: a késés oka ilyenkor visszavezethető pont egy ilyen választásra:
 
 - Még belefér-e 10 perc szundi, vagy keljek időben, hogy odaérjek?
-- Még meg tudom-e *ezt* csinálni (nyugodt legyek, hogy kész van), vagy hagyjam félbe, mert már másnak van itt az ideje?
+- Még meg tudom-e *ezt* csinálni (és ezáltal nyugodt legyek, hogy kész van), vagy hagyjam félbe, mert már másnak van itt az ideje?
 
 Ilyen szemszögből az időben érkezés egy áldozat, amit ritkán vagyunk hajlandóak meghozni.
 Van, akinél ez is az Esszencializmus-féle mentális torzításra vezethető vissza: hiszik, hogy minden beleférhet, és ezért nem szégyellik nem meghozni azt az áldozatot, ami miatt az egyenlet másik fele már bizony tényleg nem férne bele.
@@ -220,7 +220,7 @@ A kezdésekhez képzeljük, hogy csak 5 perc is elég belőle -- ez segít megin
 Az abbahagyáshoz pedig képzeljük, hogy csak 5 perc szünetet kell tartani -- ez segít megállni, ahonnan pedig sokszor már nem kezdünk majd újra bele.
 
 - **Váljunk tervezőkké és cél-kitűzőkké**.
-Mint ahogy a [GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %})-ben is emlegettük, a percről-percre, a napról-napra, az évről évre, és az egész életen átívelő távlatból hajlamos nagyon különböző kép kirajzolódni.
+Mint ahogy a [GTD]({% post_url 2020-02-24-david-allen-intezz-el-mindent %})-ben emlegettük, a percről-percre, a napról-napra, az évről évre, és az egész életen átívelő távlatból hajlamos nagyon különböző kép kirajzolódni.
 A mi dolgunk az, hogy legyenek rövidtávú **és** hosszútávú terveink -- **és** legyünk képesek fejben összekapcsolni a rövid távú tetteinket a hosszú távú célokkal!
 Jah, és persze hogy **írjuk le a dolgokat**.
 Ezt nem lehet elégszer ismételgetni, úgyhogy szerintem már itt helyben is megismétlem: írjuk le a dolgokat!
@@ -244,7 +244,7 @@ Egy spektrum, amivel talán egy kicsit túlzottan is tudok azonosulni.
 
 > Most vagy az ADHD-s embereknek kell kevésbé rokonszenvesnek lenniük, vagy nekem is orvoshoz kell mennem.
 >
-> -- fan-arter @ Tumblr(https://knowyourmeme.com/photos/2154101-attention-deficit-hyperactivity-disorder-adhd)
+> -- fan-arter @ [Tumblr](https://knowyourmeme.com/photos/2154101-attention-deficit-hyperactivity-disorder-adhd)
 > > Either people with ADHD need to stop being so relatable or I need to go to the doctor.
 
 Gyógymódok:
@@ -255,7 +255,7 @@ Tudatosítsuk a figyelemeltereléseket, amikor rájuk eszmélünk -- lehet, hogy
 Erre a legjobb gyakorlás a meditáció, ami a relaxálás mellett a figyelmet és a tudatosságot edzi.
 
 - **Erőltessünk struktúrát a napjainkra**.
-Itt a konkrétség és a részletesség a fontos, hogy tényleg elkaphasson a védőháló, ha elterelődne a figyelmünk.
+Itt a konkrétság és a részletesség a fontos, hogy tényleg elkaphasson a védőháló, ha elterelődne a figyelmünk.
 Ne azt tervezzük például, hogy "heti háromszor edzünk", hanem hogy hétfőn/szerdán/pénteken este 19:00-kor itt-és-itt fogunk edzeni.
 Alakítsunk ki egy rendszert, amiben mindennek megvan a maga helye, hogy soha ne kelljen keresgélni (de még így is legyenek tartalékok).
 Helyezzünk továbbá jól látható órákat minden helyiségbe, hogy minél nehezebb legyen valamibe úgy belefeledkezni, hogy elveszítjük az időérzékünket.
@@ -306,9 +306,9 @@ Ha erre eléggé ráfekszünk, akkor nem szorulunk majd rá, hogy a társadalmi 
 #### <a name="7"></a>7. Az elkerülő
 
 Ez is egy összetettebb kategória, mert az önbizalmunk nagyon sok mindenre kihat.
-Alacsonyabb elvárásokat támasztunk magunkkal szemben (mert eleve nem hisszük, hogy többre lennénk képesek), és ebbe már a "késős" is simán belefér.
-Vagy aggódunk a teljesítményünk miatt, és ezért halasztgatjuk a tennivalóinkat.
-Vagy túlzottan perfekcionisták vagyunk, és ez vezet a késéshez.
+Az egyik részhalmazában alacsonyabb elvárásokat támasztunk magunkkal szemben (mert eleve nem hisszük, hogy többre lennénk képesek), és ebbe az önképbe már a "késős" is simán belefér.
+Egy másikban aggódunk a teljesítményünk miatt, és ezért halasztgatjuk a tennivalóinkat.
+Egy harmadikban pedig túlzottan perfekcionisták vagyunk, és ez vezet a késéshez.
 A lényeg, hogy szó szerint szabotáljuk saját magunkat, hogy aztán legyen mire fogni a kudarcot (ami szerintünk amúgy is bekövetkezett volna).
 Ez a strucc politika tulajdonképpen hasonlít a [magyarázkodókhoz](#1), csak itt mi magunk gyártjuk a hivatalos magyarázatot.
 
@@ -364,7 +364,7 @@ A maradéknál viszont magamra ismertem, különböző arányokban:
 
 Megnyugvással konstatáltam azért, hogy a rám releváns javaslatok nagyját már más forrásból is az arcomba kaptam és eleve csinálom.
 Az esszencializmus-féle "nem férhet bele minden" alkalmazása, hogy nagyon igyekszem lecsupaszítani (és tömbösíteni) a tennivalóim listáját.
-Részben a határidő függést orvosolja, hogy megszabadultam a blogos határidőimtől.
+Részben a határidő függést orvosolja, hogy megszabadultam a blogos határidőimtől és belülről próbálom magam írásra sarkallni.
 A szórakozottságra pedig napi TODO listákat vezetek.
 A legnagyobb baj egyszerűen a beépített fegyelmezetlenséggel van.
 De akármilyen kellemetlen is ezt látni, mégis hasznos, ahogy egyre jobban összeáll a kép a fejemben a saját hajlamaim eredetéről, összefüggéseiről, és remélhetőleg a kiútról.
@@ -373,7 +373,7 @@ A leghasznosabb "új" tanácsok, amik innen hatással voltak rám, és azóta ak
 
 - Az átmenetek gyakorlása, mert ez a mentális "csak 5 perc" valóban sokkal könnyebbé teszi az átbukkanásokat egyik feladatból a másikba.
 
-- A jól látható óra -- amit akkor (végre) összefűztem az [Atomi szokásokból]({% post_url 2021-01-09-james-clear-atomi-szokasok %}) ismert környezet tervezéssel, és összedobtam egy saját ízlés szerint formázott, feladat típusokhoz színkódolt órát ([zealot.hu/clock](https://zealot.hu/clock)).
+- A jól látható óra -- amit akkor (végre) összefűztem az [Atomi szokásokból]({% post_url 2021-01-09-james-clear-atomi-szokasok %}) ismert környezet tervezéssel, és összedobtam egy saját ízlés szerint formázott, feladat típusokhoz színkódolt órát ([zealot.hu/clock](https://zealot.hu/clock){:target="_blank"}).
 
 - A "mágikus gondolkodás" hátrahagyása, hogy realisztikusabb becsléseket tudjak adni.
 
