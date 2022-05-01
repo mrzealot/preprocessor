@@ -8,7 +8,7 @@ date: 2022-05-01 00:01
 excerpt: >
     Karakterfejlesztés címszó alatt megcéloztam magamon azt az "alacsonyan lógó" javítanivalót, miszerint képes vagyok szinte mindenhonnan elkésni.
     Nem úsztam viszont a könyv opciókban -- és ahol szóba került a téma, ott is eléggé egy kaptafára kezeltek mindenkit.
-    Ezért is esett olyan jól, amikor végre beleakadtam Diana DeLonzor -- Never Be Late című könyvébe, amiben egész konkrétan hét típusra osztjuk az érintetteket...
+    Ezért is esett olyan jól, amikor végre beleakadtam Diana DeLonzor -- Never Be Late Again című könyvébe, amiben egész konkrétan hét típusra osztjuk az érintetteket...
 ---
 
 
@@ -206,7 +206,7 @@ Vagyis amint olyan szituációba kerülünk, ahol választani kell a most jó é
 Ilyen szemszögből az időben érkezés egy áldozat, amit ritkán vagyunk hajlandóak meghozni.
 Van, akinél ez is az Esszencializmus-féle mentális torzításra vezethető vissza: hiszik, hogy minden beleférhet, és ezért nem szégyellik nem meghozni azt az áldozatot, ami miatt az egyenlet másik fele már bizony tényleg nem férne bele.
 Egy másik lehetséges ok, hogy milyenek a korábbi tapasztalataink az erőfeszítésekkel és a kényelmetlenséggel kapcsolatban -- lásd például a híres [Stanfordi "Mályvacukor Kísérlet"](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment){:target="_blank"} esetét.
-De persze a generika + neveltetés páros sem elhanyagolható.
+De persze a genetika + neveltetés páros sem elhanyagolható.
 
 Gyógymódok:
 
