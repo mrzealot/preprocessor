@@ -28,7 +28,7 @@ Mindegy, hol fogjuk meg a fonal hálózatot, úgyis rántani fog magával számt
 Ebből következik, hogy a nők hajlamosak egyszerre mindennel *is* foglalkozni, és számukra a "helyére visszatevés" egy igencsak költséges, kapcsolatok kialakítását és karbantartását igénylő adminisztrációs feladat.
 
 Ez az alapvető paradigma különbség természetesen más-más stresszoldási stratégiákhoz vezet.
-A férfiak specialitása a "semmi doboz" -- igen, külön fenntartanak egy üres dobozt, hogy ha már mindig elöl kell lennie egy doboznak, akkor legalább legyen egy olyan is, amiben nincs semmi törődnivaló.
+A férfiak specialitása a "semmi doboz" -- igen, külön fenntartanak egy üres dobozt, hogy ha már mindig elöl kell lennie egy doboznak, akkor legalább legyen egy olyan is, amiben nincs semmi törődni való.
 Nem meglepő módon, ez a kedvenc doboz.
 Gyakorlatilag egy szándékos (és azért szerencsére visszafordítható) agyhalál lehetőségét biztosítja, ami a férfiak számára ugyanannyira élvezetes és relaxáló, mint amennyire a nők számára elképzelhetetlen.
 Elvégre a nőknek mindig kell *valami*, és -- készüljünk fel a mélyenszántó éleslátásra -- a semmi nem valami.
@@ -40,10 +40,10 @@ A férfiaknak ezt nehézkesen veszi be a gyomra, mert ők a minél tömörebb fo
 Az ilyen szétágazó, végtelennek tűnő sztorimesélések alkalmával szoktak régebben eszembe jutni Louis C. K. szavai, miszerint "Legyél már egy kicsit tekintettel a kibaszott hallgatóságodra is".
 
 És hogy ezt miért jó tudni?
-Mert ha ennyire más a stresszkezelési stratégia, akkor az külső (vagy akár belső) stressz esetén szükségtelen konfliktushoz vezethet.
-Szeretik egymást, ezért segíteni szeretnének egymásnak, csak (sajnos) a saját stratégiájukkal, ami a másiknál nem igazán fog működni.
+Mert ha ennyire más a stresszkezelési stratégia, akkor az külső (vagy akár belső) stressz esetén szükségtelen konfliktushoz vezethet egy férfi-nő kapcsolatban.
+A felek szeretik egymást, és pont hogy segíteni szeretnének egymásnak, csak sajnos a saját stratégiájukkal, ami a másiknál nem igazán fog működni.
 
-A férfi úgy segítene a nőnek, hogy felkínálja neki a semmi dobozát -- szarja le ő is a problémáját, ha teheti, vagy ha nem, akkor minél hamarabb oldjuk meg, hogy aztán vé(éé)gre elővehessük mindannyian a semmi dobozt.
+A férfi úgy segítene a nőnek, hogy felkínálja neki a semmi dobozát -- szarja le ő is a problémáját, ha teheti, vagy ha nem, akkor minél hamarabb oldják meg, hogy aztán vé(éé)gre elővehessék mindannyian a semmi dobozt.
 Ez baj, mert a nő nem megoldást vár, hanem beszélni szeretne a problémájáról a gombolyag miatt, és az ő szemszögéből a férfi ezt nem hagyja, vagyis ellenségesnek tűnik.
 <small>És mellesleg neki a semmi amúgy sem vonzó, mert az ugyebár nem valami...</small>
 
@@ -64,13 +64,13 @@ Ahogy arra a következő frappáns idézet is figyelmeztet:
 
 Mégis szerettem volna megosztani ezt a mentális modellt, mert nekem személy szerint rengeteget segített már.
 Amióta ezt tudatosan megbeszéltük, azóta a feleségem (habár gondolom továbbra sem teljes lelkesedéssel, de) sokkal bőkezűbben engedi, hogy agyhalott legyek.
-Na nekem sem ártott tudatosítani magamban, hogy a semmi számomra nem értéktelen attól, hogy semmi, ami miatt sokkal jobban élhetem meg.
-De a lényeg, hogy a feleségem is elfogadja, hogy nekem a semmi jó, és sokkal ritkábban (és sokkal óvatosabban, tette súlyának tudatában) csinál belőle *valamit*, amiért nagyon hálás vagyok!
+Na nekem sem ártott tudatosítani magamban, hogy a *semmi* számomra bizony nem értéktelen attól, hogy semmi.
+De a lényeg, hogy a feleségem is elfogadja, hogy nekem a semmi jó, és sokkal ritkábban (és olyankor is sokkal óvatosabban, tette súlyának tudatában) csinál belőle *valamit*, amiért nagyon hálás vagyok!
 
-Én pedig sokkal tudatosabb és empatikusabb hallgatósága tudok lenni, mert nem egy tömör összefoglalót (mondhatni, egy "executive summary"-t) várok többé, amikor beszámol valamiről.
+Én pedig sokkal figyelmesebb és empatikusabb hallgatósága tudok lenni, mert nem egy tömör összefoglalót (mondhatni, egy "executive summary"-t) várok többé, amikor beszámol valamiről.
 Hagyom, hogy a saját tempójában, illetve a saját logikai ugrásaival és összefüggéseivel mesélje el a dolgait.
 Nem siettetem a sztoriját, és nem vágok bele a megoldási javaslataimmal a problémáiba, ha nem kéri a véleményem.
-Elfogadom, hogy ő most nem épp összefoglalja az eseményeket, hanem aktívan gondolkozik róluk, és ez nagyon sokat segít türelmesnek és megértőnek maradnom.
+Elfogadom, hogy ő most épp nem szimplán összefoglalja az eseményeket, hanem aktívan gondolkozik róluk, és ez nagyon sokat segít türelmesnek és megértőnek maradnom.
 
 Egy szó mint száz, szeretném a fenti "komplex problémás" idézet pesszimizmusát egy kis optimizmussal ellensúlyozni:
 
