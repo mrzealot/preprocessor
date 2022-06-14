@@ -9,76 +9,26 @@ excerpt: >
     TODO
 ---
 
-https://moly.hu/konyvek/sarah-wilson-elet-szorongas-es-panik-nelkul
+Emlékeztek, hogy múltkor (még *anno Domini*, a Valentin nap kontójára írva) célzott és személyre szabott önfejlesztést emlegettem?
+Lehetőleg olyan témákban, amik nálam itthon aktívan bajok, de amikkel várhatóan másoknak is segíthetek.
+Na, hát ott letudtuk az én oldalamról a késősséget -- jöhet a kedves párom első számú mumusa, a szorongás.
+Ehhez pedig még csak könyvet sem kellett keresgélnem, mert neki bizony megvan a kedvence, amivel én most végre szintre hozhatom magam a területen.
 
+Kiszemelt áldozatunk Sarah Wilson újságíró, aki emellett egy produktív, magasan funkcionáló idegbeteg -- és ez utóbbit abszolút elismeréssel mondom.
+Első sorban az "I Quit Sugar" fantázianevű cukor-elhagyásos mozgalmáról lett híres, de az így kiérdemelt írói platformján keresztül most a szorongással vívott küzdelméről is beszámol.
+Az [Élet szorongás és pánik nélkül?](https://moly.hu/konyvek/sarah-wilson-elet-szorongas-es-panik-nelkul){:target="_blank"} című könyvében nem egy pszichológus szakvéleményét kapjuk -- sem egy terapeuta programját, sem egy önjelölt guru étrendjét és edzéstervét.
+Amit kapunk, az egy kutakodó, utánanéző, forrásokat kergető, mindent kipróbáló, és nem mellesleg gyerekkora óta szorongással küzdő nő több évtizedes saját tapasztalatai.
+Bőven volt mit kivázlatolni.
 
+A tartalom a következőképp alakul:
 
-## Egy új hozzáállás
+- [Egy új hozzáállás](#intro)
+- [Tünetek és "kegyetlen iróniák"](#tunetek)
+- [Pár gondolat a változás folyamatáról](#folyamat)
+- [Tegyük bele a munkát](#munka)
+- [Támogatóknak](#tamogatoknak)
 
-
-
-
-
-- már maga az nagy segítség lehet, ha annyit meglátunk ebből az egészből, hogy nem vagyunk egyedül a szenvelgéseinkben
-    - mindenki botladozik
-    - igen, még az is, akinek látszólag tökéletes az élete a Facebook profilja vagy a LinkedIn önéletrajza alapján
-
-
-
-"a salve to all us Westerners seeking a more meaningful path through the fuggy, constipated, heart-sinky angst of life?" :D
-
-- Dalai Láma találkozás
-    - "Hogy érhetném el, hogy az agyam végre befogja?!"
-    - első blikkre kiábrándító válasz, mert á, ugyan, az még neki sem megy (talán egy barlangban vagy egy hegytetőn egy évig), de akkor sincs garancia
-    - meg különben is, ki ér arra rá, stb.
-    - visszagondolva viszont sokkal többet hordoz ez a válasz: jól vagyunk úgy ahogy vagyunk, még ha közben folyamatosan pofázik is az agyunk
-        - ha a Dalai Lámának is indulatkezelési problémái vannak (a saját beismerése szerint), akkor mi tulajdonképpen mit is várunk magunktól?
-- az aggodalmaskodásból nem "kigyógyulni" kell, hanem megtanulni vele együtt élni
-    - sőt, akár még arra is felhasználni, hogy az legyen a segítségünk/motivációnk a jobb élet felé vezető úton
-
-- "When God was handing out The Guidebook to Life I was on the toilet."
-    - és ha más nem is, ez mindenképp egy pozitívuma az idősödésnek: egyre inkább ráeszmélünk, hogy másoknál sincs ott az útmutató
-    - ettől persze nagyon sokan, nagyon sokáig, és nagyon hangosan próbáljuk elhitetni a többiekkel, hogy mi márpedig megkaptuk
-    - emberek, a császáron nincsen ruha!
-
-- ha viszont nincs "egy igaz" módja az életnek, abból csak következik, hogy választhatunk magunknak olyat, amilyet szeretnénk, nem?
-
-- minden szarral IS diagnosztizálták, ilyen-olyan gyógyszer, amolyan-emilyen terápia, semmi nem működött
-    - végül csak az lehetett a megoldás, hogy ő maga választja ki a saját életstílusát, és aztán tartja magát hozzá
-    - choose - commit - do the work
-    - "Oh, yeah. Then you falter. And fuck up. And go back to the beginning."
-
-> This book doesn’t take a linear path to salvation. Nope, it meanders through a series of explorations. I take off my mask and share my not-knowing.
-
-- már a hivatalos statisztikák szerint is a szorongás a leggyakoribb elismert mentális betegség
-    - az emberek 15-20%-át érinti - és ez csak az a szám, akiknél az állapot egy bizonyos határvonal fölé csusszant
-    - fingunk nincs, hányan lehetnek, akik egy alapszintű szorongás mellett csak úgy szép csendben csinálgatják az életüket -- az én személyes tippem 99% környékére tehető
-- eredhet gyerekkorból (neveltetés inkább, mint genetika)
-    - de visszavezethető az agyunk biokémiájára is (kevés szerotonin/anandamid), autoimmun betegségekre, gyulladások vagy a bélflóra felborulásának hatására, genetikai mutációkra (mondjuk nehezebb szerotonin felvétel, stb.
-- a közismertségük relatíve újkeltű (talán mert lett hozzájuk hivatalos gyógyszer, aminek kellett a reklám)
-    - de ettől nem lesznek kevésbé valósak - csak talán nem feltétlen kéne szétgyógyszerezni magunkat miattuk
-- de hol is van a határ a megbocsátható, és a javítandó között?
-    - ha szedek rá valamit, akkor az természetellenes? nem leszek önmagam? viszont akkor a felelősség sem az enyém már?
-    - egyáltalán segít? és ha igen, miért? ha nem, miért nem?
-- a tudományos igényesség szintjén gyanúsan keveset tudunk erről az egész területről
-
-> ‘Perhaps the problem, sometimes, is the notion that there’s a problem.’ -- Oliver Burkeman, on questioning self-help culture
-
-- ez viszont egy lehetőség: mi lenne, ha legalább megpróbálnánk úgy tenni, mintha nem lenne probléma
-    - legalábbis nem egy megjavítandó, csak egy valami vele együtt élendő helyzet állna fenn
-
-
-- ‘The Chinese believe that before you can conquer a beast you first must make it beautiful.’
-    - már pusztán azzal, hogy megismerjük a szorongást, lehetővé tesszük, hogy uralkodhassunk rajta
-    - nem kell lecsillapítani az élet viharait (nem is tudnánk), hanem viselni kell tudni őket
-    - aki szorongós, az sem tud varázsütésre teljesen szorongtalanná válni - de ez nem is kéne, hogy cél legyen!
-    - tegyük széppé a saját szörnyünket, hogy aztán nagyobb békében együtt élhessünk vele
-
-
-
-- ettől persze lesz, amikor nem megy
-    - olyankor pedig tessék segítséget kérni! nem szégyen!
-    - mondtuk, hogy bukkanós lesz az út
+<br>
 
 
 
@@ -86,21 +36,67 @@ https://moly.hu/konyvek/sarah-wilson-elet-szorongas-es-panik-nelkul
 
 
 
+## <a name="intro"></a>Egy új hozzáállás
 
+Kezdő anekdotának vegyünk mindjárt azt, amikor a Dalai Lámával találkozott, és kerek perec megkérdezte tőle: "Hogy érhetném el, hogy az agyam végre befogja?!"
+Lássuk be, a kérdés jó -- tiszteletben tartja, hogy itt az alkalom, nincs idő köntörfalazni, egyből a lényegre.
+Első blikkre kiábrándító lesz a válasz, mert a Dalai Láma szerint á, ugyan, az még neki sem megy.
+Talán egy barlangban, vagy egy hegytetőn, egy évig meditálva...
+De akkor sincs garancia.
+Meg különben is, ki ér arra rá?
 
+Visszagondolva (és továbbgondolva) viszont sokkal többet hordoz magában ez a válasz: jól vagyunk úgy ahogy vagyunk, még ha közben folyamatosan pofázik is az agyunk.
+Ha a Dalai Lámának is indulatkezelési problémái vannak (a saját beismerése szerint), akkor mi tulajdonképpen mit is várunk magunktól?
+Nem árulunk zsákba macskát, már innen, az elejétől nyilvánvaló az egész könyv legfőbb üzenete: az aggodalmaskodásból nem "kigyógyulni" kell, hanem megtanulni vele együtt élni.
 
+Erre lehet zsigeri reakciónk, hogy ez a megbirkózás csak nekünk nem megy.
+Wilson szavaival:
 
+> Amikor Isten az Élet Kézikönyvét osztogatta, én biztos épp WC-n voltam.
+> > When God was handing out The Guidebook to Life I was on the toilet.
+    
+És ha más nem is, ez mindenképp egy pozitívuma az idősödésnek: egyre inkább ráeszmélünk, hogy másoknál sincs ott az útmutató.
+Ettől persze nagyon sokan, nagyon sokáig, és nagyon hangosan próbálják elhitetni a többiekkel, hogy ők márpedig megkapták.
+Na hát Wilson egy pillanatig sem tetteti ezt.
+Szóval már maga az nagy segítség, ha annyit meglátunk ebből az egészből, hogy nem vagyunk egyedül a szenvelgéseinkben.
+Mindenki botladozik -- igen, még az is, akinek látszólag tökéletes az élete a Facebook profilja vagy a LinkedIn önéletrajza alapján.
+Ha viszont nincs "egy igaz" módja az életnek, abból az következik, hogy választhatunk magunknak olyat, amilyet szeretnénk, nem?
 
+A hivatalos statisztikák szerint is a szorongás a leggyakoribb elismert mentális betegség.
+Az emberek 15-20%-át érinti -- és ez csak az a szám, akiknél az állapot egy bizonyos határvonal fölé csusszant.
+Fingunk nincs, hányan lehetnek, akik egy alapszintű szorongás mellett csak úgy szép csendben csinálgatják az életüket, de az én személyes tippem 99% környékére tehető.
 
+Eredhet gyerekkorból -- neveltetés inkább, mint genetika.
+De visszavezethető az agyunk biokémiájára is (kevés szerotonin/anandamid), autoimmun betegségekre, gyulladások vagy a bélflóra felborulásának hatására, genetikai mutációkra (mondjuk nehezebb szerotonin felvétel), stb.
+A közismertsége viszont relatíve újkeltű.
+Talán mert lett hozzá hivatalos gyógyszer, aminek kellett a reklám?
+Ettől persze nem lesznek kevésbé valósak, csak talán nem feltétlen kéne azonnal szétgyógyszerezni magunkat miatta.
 
+De vajon hol is van a határ a megbocsátható és a javítandó között?
+Ha szedek rá valamit, akkor az természetellenes?
+Onnantól már nem leszek önmagam?
+Viszont akkor a felelősség sem az enyém?
+Egyáltalán segít?
+És ha igen, miért?
+Vagy ha nem, miért nem? ...
+A tudományos igényesség szintjén gyanúsan keveset tudunk erről az egész területről.
 
+Ez viszont egy lehetőség: mi lenne, ha legalább *megpróbálnánk* úgy tenni, mintha nem lenne probléma?
+Legalábbis nem egy megjavítandó, csak egy valami vele "együtt élendő" helyzet állna fenn?
 
+> Talán néha épp az a feltételezés a probléma, hogy valami probléma van.
+>
+> -- Oliver Burkeman
+> > Perhaps the problem, sometimes, is the notion that there's a problem.
 
+Egy kínai közmondás szerint csak akkor győzhetünk le bármilyen szörnyet, ha előtte "megszépítjük".
+Ezzel arra utalnak, hogy először olyan mélyen meg kell értenünk az "ellenségünket", hogy akár már a szépséget is képesek legyünk látni benne.
+És már pusztán azzal, hogy megismerjük a szorongásunkat, lehetővé tesszük, hogy uralkodhassunk rajta.
+Nem kell lecsillapítani az élet viharait (nem is tudnánk), hanem viselni kell tudni őket.
+Aki szorongós, az nem tud varázsütésre teljesen *szorongtalanná* válni -- de ez nem is kéne, hogy cél legyen!
+Tegyük inkább széppé a saját szörnyünket, hogy aztán nagyobb békében együtt élhessünk vele.
 
-
-
-
-
+<br>
 
 
 
@@ -109,7 +105,27 @@ https://moly.hu/konyvek/sarah-wilson-elet-szorongas-es-panik-nelkul
 
 
 
-## Tünetek és "kegyetlen iróniák"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="tunetek"></a>Tünetek és "kegyetlen iróniák"
 
 
 
@@ -240,6 +256,7 @@ https://moly.hu/konyvek/sarah-wilson-elet-szorongas-es-panik-nelkul
 - don't worry be happy vs. élet értelmén merengés
     - és (talán meglepően) az utóbbi vezet inkább boldogsághoz
 
+<br>
 
 
 
@@ -262,8 +279,7 @@ https://moly.hu/konyvek/sarah-wilson-elet-szorongas-es-panik-nelkul
 
 
 
-
-## Tippek a folyamathoz
+## <a name="folyamat"></a>Pár gondolat a változás folyamatáról
 
 
 - "gyengéd és kedves" hozzáállás a változáshoz (amit a cukros életmódváltásból a szorongósdiba is áthozott)
@@ -310,6 +326,7 @@ szokásformáláshoz:
     - ha valami a "legtöbb napon" van, akkor minden nap meg fogjuk magunkban vitatni, hogy aznap épp legyen-e
         - ez pedig túltölti az akaraterő kvótánkat, beborul az egész, és legközelebb azt vesszük észre, hogy már 3 hónapja nem csináltuk
 
+<br>
 
 
 
@@ -337,8 +354,7 @@ szokásformáláshoz:
 
 
 
-
-## Tegyük bele a munkát
+## <a name="munka"></a>Tegyük bele a munkát
 
 
 
@@ -453,6 +469,7 @@ szokásformáláshoz:
 - de nem kell önzetlennek lenni -- szorongás mint vezérfonal
     - ha hallgatunk rá, akkor minket is a jó irányba terel
     - lassan, kényelmetlenül, de akkor is
+    - sőt, akár még arra is felhasználni, hogy az legyen a segítségünk/motivációnk a jobb élet felé vezető úton
 
 
 
@@ -543,6 +560,7 @@ All of humanity’s problems stem from man’s inability to sit quietly in a roo
 
 - ‘Most people shoot for happiness but feel formed through suffering,’ wrote David Brooks
 
+<br>
 
 
 
@@ -577,8 +595,7 @@ All of humanity’s problems stem from man’s inability to sit quietly in a roo
 
 
 
-
-## Támogatóknak
+## <a name="tamogatoknak"></a>Támogatóknak
 
 
 - na és akkor mások hogyan segíthetnek, ha ilyen emberrel élnek?
@@ -601,7 +618,7 @@ All of humanity’s problems stem from man’s inability to sit quietly in a roo
     - részletorientált tervezők, mindig lesz B-C-D terv
     - hozzá vannak szokva, hogy a saját belső nehézségeiket menedzseljék, szóval a váratlan külső nehézségek menedzselése szinte élből jönni fog nekik, így mi mentesülünk :)
 
-
+<br>
 
 
 
