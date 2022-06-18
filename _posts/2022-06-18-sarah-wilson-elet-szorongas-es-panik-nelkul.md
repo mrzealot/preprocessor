@@ -6,7 +6,9 @@ tags: [szemléletmód]
 pages: 332
 date: 2022-06-18 00:01
 excerpt: >
-    TODO
+    Témánk a szorongás, és kiszemelt vezetőnk Sarah Wilson újságíró, aki emellett egy produktív, magasan funkcionáló idegbeteg -- és ez utóbbit abszolút elismeréssel mondom.
+    Könyvében nem egy pszichológus szakvéleményét kapjuk, sem egy önjelölt guru étrendjét és edzéstervét.
+    Amit kapunk, az egy kutakodó, utánanéző, forrásokat kergető, mindent kipróbáló, és nem mellesleg gyerekkora óta szorongással küzdő nő több évtizedes saját tapasztalatai.
 ---
 
 Emlékeztek, hogy múltkor (még *anno Domini*, a Valentin nap kontójára írva) célzott és személyre szabott önfejlesztést emlegettem?
@@ -14,9 +16,9 @@ Lehetőleg olyan témákban, amik nálam itthon aktívan bajok, de amikkel várh
 Na, hát ott letudtuk az én oldalamról a késősséget -- jöhet a kedves párom első számú mumusa, a szorongás.
 Ehhez pedig még csak könyvet sem kellett keresgélnem, mert neki bizony megvan a kedvence, amivel én most végre szintre hozhatom magam a területen.
 
-Kiszemelt áldozatunk Sarah Wilson újságíró, aki emellett egy produktív, magasan funkcionáló idegbeteg -- és ez utóbbit abszolút elismeréssel mondom.
+Kiszemelt vezetőnk Sarah Wilson újságíró, aki emellett egy produktív, magasan funkcionáló idegbeteg -- és ez utóbbit abszolút elismeréssel mondom.
 Első sorban az "I Quit Sugar" fantázianevű cukor-elhagyásos mozgalmáról lett híres, de az így kiérdemelt írói platformján keresztül most a szorongással vívott küzdelméről is beszámol.
-Az [Élet szorongás és pánik nélkül?](https://moly.hu/konyvek/sarah-wilson-elet-szorongas-es-panik-nelkul){:target="_blank"} című könyvében nem egy pszichológus szakvéleményét kapjuk -- sem egy terapeuta programját, sem egy önjelölt guru étrendjét és edzéstervét.
+Az [Élet szorongás és pánik nélkül?](https://moly.hu/konyvek/sarah-wilson-elet-szorongas-es-panik-nelkul){:target="_blank"} című könyvében nem egy pszichológus szakvéleményét kapjuk, sem egy terapeuta programját, sem egy önjelölt guru étrendjét és edzéstervét.
 Amit kapunk, az egy kutakodó, utánanéző, forrásokat kergető, mindent kipróbáló, és nem mellesleg gyerekkora óta szorongással küzdő nő több évtizedes saját tapasztalatai.
 Bőven volt mit kivázlatolni.
 
@@ -26,6 +28,12 @@ A tartalom a következőképp alakul:
 - [Tünetek és "kegyetlen iróniák"](#tunetek)
 - [Pár gondolat a változás folyamatáról](#folyamat)
 - [Tegyük bele a munkát](#munka)
+    - [Meditáció](#meditacio)
+    - [Ön-együttérzés](#egyutterzes)
+    - [Mozgás](#mozgas)
+    - [Jelentés](#jelentes)
+    - [Határok](#hatarok)
+    - [Egyéb apró tippek](#egyeb)
 - [Támogatóknak](#tamogatoknak)
 
 <br>
@@ -127,134 +135,89 @@ Tegyük inkább széppé a saját szörnyünket, hogy aztán nagyobb békében e
 
 ## <a name="tunetek"></a>Tünetek és "kegyetlen iróniák"
 
+A szorongást kb. annyira díjazza a mai világ, mint amennyire a depressziót lenézi.
+Mert míg az előbbi produktivitáshoz vezet (egészen a kiégés pillanatáig), addig az utóbbi nem termel, ergo haszontalan.
+Ebből következik, hogy a szorongós határt is leginkább csak akkor vesszük észre, amikor már átléptük, és kiégéssé vagy depresszióvá nem alakítottuk (mert onnantól már a társadalom érdeke is, hogy visszarántson).
 
+Sokszor a szorongás nem is a gyökér probléma, csak a tünet -- a megoldási próbálkozásunk valami még mélyebbre.
+A gond az, hogy a szorongás által a külvilág szemében nagyon pozitív teljesítményt nyújthatunk, ami miatt csak még nehezebb lesz elengedni.
+Úgy érezzük majd, hogy csak ez miatt haladunk.
+És itt is az első adag kegyetlen irónia: sokszor minél jobban szorongunk (vagyis, minél nagyobb szükségünk lenne mások támogatására), kifelé annál pörgősebbnek tűnünk, ami miatt majd épp mások akarnak ránk támaszkodni.
 
-- a szorongás (amellett hogy nagyban szubjektív) kb. annyira díjazza a mai világ, mint amennyire a depressziót lenézi
-    - mert míg az előbbi produktivitáshoz vezet (egészen a kiégés pillanatáig), addig az utóbbi nem termel, ergo haszontalan.
-    - ebből következik, hogy a szorongós határt is leginkább csak akkor vesszük észre, amikor már átléptük, és kiégéssé vagy depresszióvá nem alakítottuk (mert onnantól már a társadalom érdeke is, hogy visszarántson)
-- sokszor a szorongás nem is a gyökér probléma, csak a tünet -- a megoldási próbálkozásunk valami még mélyebbre
-    - a gond, hogy a szorongás által a külvilág szemében nagyon pozitív teljesítményt nyújthatunk, ami miatt csak még nehezebb lesz elengedni
-    - úgy érezzük majd, hogy csak ez miatt haladunk
-- ebből viszont következik egy újabb adag kegyetlen irónia: sokszor minél jobban szorongunk (vagyis, minél nagyobb szükségünk lenne mások támogatására), kifelé annál pörgősebbnek tűnünk, ami miatt majd épp mások akarnak ránk támaszkodni.
+Hasznos lehet különbséget tenni a pánikroham és a szorongási spirál között.
+Mindkettő a szorongásunk manifesztációja, csak míg az elsőnél ennek nem nagyon vagyunk tudatában (ezért kényszerülünk rá, hogy testi tüneteket produkáljunk, amire már muszáj figyelni), addig az utóbbinál hiper-élesen tisztában vagy mindennel.
+És talán ez a legkegyetlenebb benne: hogy öntudatunknál vagyunk közben.
+Így a folyamat nagy részét nem is az teszi ki, ami miatt szorongunk, hanem az, hogy a szorongásunk miatt szorongunk.
+És aztán a szorongásunk miatti szorongásunkon is szorongunk...
+Megint egy jó kis végtelen ciklus.
 
+Szóval amikor épp magas fokozatba kapcsol az aggodalmaskodásunk, olyankor sokat segíthetünk magunkon, ha megpróbálunk csak azzal foglalkozni, ami miatt aggódunk, és nem rátszünk még egy rekurzív, N+1-edik lapáttal.
+Más szóval, fordítsuk az öntudatunkat a javunkra!
+Ha látjuk, hogy szorongunk, akkor engedjük magunkat szorongani, figyeljük meg a szorongásunkat, és aztán hagyjuk rá, ne lovaljuk bele magunkat még mélyebbre.
 
+<br>
 
+A szorongás gyakran társul álmatlansággal, ami egy újabb kegyetlen irónia.
+Mert hát minél kevesebbet alszik az ember, annál jobban fog szorongani, ami miatt még kevesebbet alszik, és így tovább...
+És ha alapból nem alszunk, akkor az sem segít, ha megpróbáljuk tudatosan kiirtani a negatív gondolkodást a fejünkből, mert akkor csak bejön a helyére egy "alszok-e már" folyamat, ami szintén nem hagy majd aludni.
+Sajnos a fokozott érzelmi állapot az alapértelmezés már kisbaba korunktól, amiből a szüleink folyamatos csitítgatása, nyugtatása, valamint egy tiszta pelenka és egy teli pocak tudnak csak meggyőzni arról, hogy elengedhetjük magunkat.
+Innen idővel a többség eljut odáig, hogy megtanul bízni a világban, és magából is képes lecsillapodni -- de van aki nem, vagy nem annyira.
+Ha így tekintünk rá, akkor talán egy látszólag teljesen független terület biztonságérzete is segíthet az alvásban.
 
+Egy másik nézőpont: Alain De Botton szerint az álmatlanság az, amikor a belsőnk gyakorlatilag rákényszerít a folyton halogatott önvizsgálatra.
+A tudatalattink fontosabbnak ítéli az agyalást az alvásnál, ezért agyalni fogunk.
+Viszont ha meg **így** tekintünk rá, akkor talán kihozhatunk belőle olyan fejlődés-generáló, élet-megváltó felismeréseket, amik miatt később annál jobban alhatunk majd.
 
-- sokszor társul álmatlansággal, ami egy újabb kegyetlen irónia
-    - mert hát minél kevesebbet alszik az ember, annál jobban fog szorongani, ami miatt még kevesebbet alszik, és így tovább...
-    - és ha alapból nem alszunk, akkor az sem segít, ha megpróbáljuk tudatosan kiirtani a negatív gondolkodást a fejünkből, mert akkor csak bejön a helyére egy "alszok-e már" folyamat, ami szintén nem hagy majd aludni
-- sajnos a fokozott érzelmi állapot az alapértelmezés már kisbaba korunktól, amiből a szüleink folyamatos csitítgatása, nyugtatása, valamint egy tiszta pelenka és egy teli pocak tudnak csak meggyőzni arról, hogy elengedhetjük magunkat
-    - innen idővel a többség eljut odáig, hogy megtanul bízni a világban, és magából is képes lecsillapodni, de van aki nem :/
-    - viszont ha így tekintünk rá, akkor talán egy látszólag teljesen független terület biztonságérzete is segíthet az alvásban
+Az alvás mellett persze az ébrenlétet is tönkreteheti a szorongás.
+Wilson sokat mesél a harmincas évei közepén történő autoimmun lerobbanásáról, aminek hátterében teljes mértékben az addigi életmódját sejti.
+Kb. ha elég sokáig akarjuk magunkat egy rossz életszerepbe beleerőltetni, akkor a testünk majd tesz róla, hogy "ájjá' le"!
+Ezért soha ne szégyelljük, ha valami nem nekünk való -- hiába mondja a társadalmi alapértelmezés, hogy annak jónak kéne lennie.
+Olyan életet állítsunk be magunknak, amiben tudjuk a hétköznapokban is jól érezni magunkat, különben szép fokozatosan (és gyakorlatilag szó szerint) el fogunk kopni!
 
-
-- egy másik nézőpont: Alain De Botton szerint az álmatlanság az, amikor a belsőnk gyakorlatilag rákényszerít a folyton halogatott önvizsgálatra
-    - a tudatalattink fontosabbnak ítéli az agyalást az alvásnál, ezért agyalni fogunk
-    - viszont ha meg ÍGY tekintünk rá, akkor talán kihozhatunk belőle olyan fejlődés-generáló, élet-megváltó felismeréseket, amik miatt később annál jobban alhatunk majd
-
-
-- mi vagyunk az egyetlen állatfaj, amelyik nincs eleve "kész", és ezért építenünk kell magunkat
-    - egy ősibb szempontból, hogy biztonságot találhassunk (nincs bundánk, karmunk, agyarunk, nem vagyunk gyorsak, erősek, stb.), viszont építhetünk helyettesítőket
-    - egy modernebb szempontból: meg kell találnunk (mindenkinek saját maga számára), hogy miért is van itt, hogy aztán nyugodtan lehessen itt
-        - amíg ez nincs meg, addig kb. beépített a nyugtalanság
-
-    - SZERINTEM: fontos a különbség azok között, akik nem tudják, miért vannak itt, de szőnyeg alá söprik a kérdést, mert alapból jobban meg tudnak birkózni a szorongással, és azok között, akiknek ez már nem szorongási forrás, mert szembe néztek vele
-
-- Brooks utalás(ok)
-- szoros összefüggés a szaglással, mert állítólag az evolúció során abból lett az agyunk
-- bipoláris múltja leírása...
-
-- Montaigne: az aggodalmunk arra késztet, hogy külső megoldást találjunk
-    - szorongunk ott, ahol most tartunk, ezért rohanunk az ismeretlen, amitől csak még jobban szorongunk, amitől még inkább rohanunk
-    - ennek ellenére a megoldás sajnos mindig az, hogy ennek a húzásnak ellenállunk, és belül próbálunk nyugalmat találni
-
-
-
- 
+Mi vagyunk az egyetlen állatfaj, amelyik nincs eleve "kész", és ezért építenünk kell magunkat.
+Egy ősibb szempontból, hogy biztonságot találhassunk (nincs bundánk, karmunk, agyarunk, nem vagyunk gyorsak, erősek, stb.), viszont építhetünk helyettesítőket.
+Egy modernebb szempontból pedig meg kell találnunk (mindenkinek saját maga számára), hogy miért is van itt, hogy aztán nyugodtan lehessen itt.
+Amíg ez nincs meg, addig kb. beépített a nyugtalanság.
 
 > Egy asztallal vagy egy fokhagymanyomóval vagy valami ilyennel ellentétben, aminek megnyugtatóan magától értetődő a célja, mi emberek nem tudjuk, miért létezünk.
-> > unlike a table or garlic crusher or whatever, which has a comfortingly obvious purpose, we don’t know why we exist.
+> > Unlike a table or garlic crusher or whatever, which has a comfortingly obvious purpose, we don’t know why we exist.
 
-- aki nem szorong, annak igazából csak jobban megy a saját figyelme elterelése
-    - jobban üzemel a zajszűrős fejhallgatója (és jobban tudja "zaj"-nak tekinteni az ilyen nagy, mardosó, egzisztenciális kérdéseket, mert neki bizony le kell adnia időre az adóvisszaigénylés formanyomtatványát két példányban)
-- szerintem, mint oly gyakran, az arany középút itt is valahol középen található.
-    - beszédes név, ugye.
+Aki nem szorong, annak a legtöbb esetben igazából csak jobban megy a saját figyelme elterelése.
+Mondhatni jobban üzemel a zajszűrős fejhallgatója -- és jobban tudja "zaj"-nak tekinteni az ilyen nagy, mardosó, egzisztenciális kérdéseket, mert neki bizony le kell adnia időre az adóvisszaigénylés formanyomtatványát két példányban.
+Wilson az ilyen embereket "született élet-tehetség"-nek nevezi.
+Fontos viszont kiemelni a különbséget azok között, akik nem tudják, miért vannak itt, de szőnyeg alá söprik a kérdést, mert alapból jobban meg tudnak birkózni a szorongással, és azok között, akiknek ez már nem szorongási forrás, mert szembe néztek vele.
+A "don't worry be happy" könnyű hozzáállásnak tűnhet, de (talán meglepő módon) mégis inkább az élet értelmén merengés vezet a tartós boldogsághoz.
 
-- van, akinek alapból könnyű kizárni a dolgokat -- Wilson az ilyen embereket "született élet-tehetség"-nek nevezi
+Mellesleg az a faj is csak mi vagyunk egyedül, akiknek van jövőképe.
+Az állat nem szorong, maximum fél, és azt is csak annyira, amennyire a jelenbeli szituáció veszélyessége indokolja.
+Mi viszont felfogjuk, hogy a jelenbeli veszély milyen jövőhöz vezethet, vagy akár jelenbeli veszély nélkül is mi minden elromolhat egy szempillantás alatt -- és a jövőn már bizony lehet szorongani.
+Wilson például ezért éli meg az átlagnál sokkal jobban (sőt, szinte pont hogy keresi) azokat a krízis helyzeteket, amikor a valódi félelem aktuális.
+Azokat sokkal könnyebb kezelni, mint a kreatív horrort, amit a fejében a jövőről szőni tudna.
 
+<br>
 
+Nem elég a kegyetlen irónia?
+Itt van még egy pár:
 
+- Minél triviálisabb az aktuális szorongásunk kiváltó oka, annál nagyobb lesz a lelkifurkánk, hogy mi ilyenen problémázunk, mikor Afrikában éheznek -- és ezzel csak még ráteszünk egy lapáttal mindenre.
+Ilyenkor emlékezzünk [Editkére]({% post_url 2021-01-23-edith-eva-eger-a-dontes %}): a szenvedésnek nincs hierarchiája!
 
+- A szorongások során egyszerre akarunk távol lenni mindenki mástól (hogy legalább az ő dolgaik ne kavarjanak bele a mieinkbe), és mellette kapcsolódni is szeretnénk (hogy valaki megértsen, hogy valakivel megoszthassuk az élményeinket, és hogy nehogy egyedül maradjunk a szorongásunkkal).
 
-- az szorongásban az az egyik legkegyetlenebb, hogy öntudatunknál vagyunk közben
-    - így nagy részét nem is az teszi ki, ami miatt szorongunk, hanem az, hogy a szorongásunk miatt szorongunk
-    - és aztán a szorongásunk miatti szorongásunkon is szorongunk... megint egy jó kis végtelen ciklus
-    - szóval amikor épp magas fokozatba kapcsol az aggodalmaskodásunk, olyankor sokat segíthetünk magunkon, ha megpróbálunk csak azzal foglalkozni, ami miatt aggódunk, nem rátenni még egy rekurzív N+1 lapáttal rátenni
-    - más szóval, fordítsuk az öntudatunkat a javunkra: ha látjuk, hogy szorongunk, akkor engedjük magunkat szorongani, figyeljük meg a szorongásunkat, és aztán hagyjuk rá, ne lovaljuk bele magunkat még mélyebbre
+- Szorongás közben jobban bírják az idegeneket, mint a szeretteinket, mert előttük könnyebb tartani a kötelezően megjátszandó udvariasságot, míg a szeretteink előtt "maguknak" kéne lenni, és pont az a baj.
+Emiatt akár extrovertáltnak is tűnhetünk, de nem...
 
+- Hiába vagyunk tisztában a saját szorongásukkal, tudunk beszélni róla, vagy akár viccelni is vele -- aztán **mégis** képesek leszünk apróságokon kiborulni.
 
-- harmincas évei közepén autoimmun lerobbanás
-    - kb. ha elég sokáig akarod magad egy rossz életszerepbe beleerőltetni, akkor a tested majd tesz róla, hogy "ájjá' le"!
-    - ezért soha ne szégyelljük, ha valami nem nekünk való (hiába mondja a társadalmi alapértelmezés, hogy annak jónak kéne lennie)
-    - olyan életet állítsunk be magunknak, amiben tudjuk a hétköznapokban is jól érezni magunkat, különben szép fokozatosan (és gyakorlatilag szó szerint) el fogunk kopni!
+- Makacsul ragaszkodunk, hogy minden pontosan úgy legyen, ahogy szeretnénk, miközben mi magunk sem tudjuk, hogy mit is szeretnénk.
+A kontrollmániás felszín mögött sokszor épp nekünk lenne szükségünk több segítségre.
 
+- A nagy túltöltöttség közben 9000 dolog húz 9000 irányba, és ennek az a végeredménye, hogy mozdulatlanul egy helyben maradunk.
+Ez a lefagyás kb. a harmadik opció az ütés vagy a futás mellett.
 
-- Wilson szerint ez az egész szorongásosdi arra vezethető vissza, hogy nem vagyunk kapcsolatban azzal a "Valami Más"-sal, amit a nagy 'I'-betűs én segítségével megpillanthatunk időnként
-    - minden szorongás azért van, mert nem érezzük úgy, hogy el tudnánk üldögélni magunkban egy padon, elégedetten
-
-- visszatérés ehhez a bizonyos Something Else-hez
-    - mi is az? kinek mi? olvasói levelek:
-    - leggyakoribb sentiment, hogy "egész legyek", hogy megtaláljam az "igazi önmagamat", hogy "legyen értelme a világnak", stb.
-    - ezekről konkrétan fogalmunk sincs - pont ez a baj
-    - de ez nem tart vissza attól, hogy sóvárogjunk utánuk
-
-
-
-- ha már állatfaj hasonlatok: azok is csak mi vagyunk egyedül, akiknek van jövőképe
-    - az állat nem szorong, maximum fél, és azt is csak annyira, amennyire a jelenbeli szituáció veszélyessége indokolja
-    - mi viszont felfogjuk, hogy a jelenbeli veszély milyen jövőhöz vezethet, vagy akár jelenbeli veszély nélkül is mi minden elromolhat egy szempillantás alatt - és a jövőn már lehet szorongani
-- ennek a múlt-párja a depresszió, ugye
-
-> -- Junia Bretas
-> > If you are depressed you are living in the past.
-> > If you are anxious you are living in the future.
-> > If you are at peace you are living in the present.
-
-
-- Wilson például az átlagnál sokkal jobban éli meg (sőt, pont hogy keresi) azokat a krízis helyzeteket, amikor a valódi félelem aktuális
-    - azokat sokkal könnyebb kezelni, mint a kreatív horrort, amit a fejében a jövőről szőni tudna
-
-- némi self-help fikázás, mert sokszor ott is valami külső felé küldenek
-    - megint BEfelé fordulás hangsúlyozás
-
-
-
-- pánikroham vs. szorongási spirál
-    - mindkettő a szorongásod manifesztációja, csak míg az elsőnél ennek nem nagyon vagy tudatában (ezért kényszerül rá, hogy testi tüneteket produkáljon, amire már muszáj figyelni), addig az utóbbinál hiper-élesen tisztában vagy mindennel
-
-- újabb kegyetlen irónia: minél triviálisabb az aktuális szorongásunk kiváltó oka, annál nagyobb lesz a lelkifurkánk, hogy mi ilyenen problémázunk, mikor Afrikában éheznek -- és ezzel csak még ráteszünk egy lapáttal mindenre.
-    - emlékezzünk Editkére: a szenvedésnek nincs hierarchiája!
-- és még egy: a szorongások során egyszerre akarunk távol lenni mindenki mástól (hogy legalább az ő dolgaik ne kavarjanak bele a mieinkbe), és mellette kapcsolódni is szeretnénk (hogy valaki megértsen, hogy valakivel megoszthassuk az élményeinket, és hogy nehogy egyedül maradjunk a szorongásunkkal)
-- és még egy: szorongás közben jobban bírják az idegeneket, mint a szeretteket, mert előttük könnyebb tartani a kötelezően megjátszandó udvariasságot, míg a szerettek előtt "maguknak" kéne lenni, és az a baj
-    - emiatt akár extrovertáltnak is tűnhetnek, de nem...
-- még egy: tisztában vannak a saját szorongásukkal, tudnak beszélni róla, akár viccelnek is vele, és MÉGIS képesek apróságokon kiborulni
-- még egy: makacsul ragaszkodnak, hogy minden pontosan úgy legyen, ahogy ők szeretnék, miközben ők maguk sem tudják, hogy mit is szeretnének
-    - a kontrollmániás felszín mögött épp nekik van szükségük több segítségre
-    - UHHH, Edi :)
-
-
-- nagy túltöltöttség közben 9000 dolog húz 9000 irányba, és ennek az a végeredménye, hogy mozdulatlanul egy helyben maradunk
-    - ez a lefagyás kb. a harmadik opció az ütés vagy a futás mellett
-
-- mivel pörget, ezért van, aki kimondottan legyezi a szorongása tüzét, motivációs céllal
-    - de ezt csak néha, és akkor is nagyon óvatosan!
-
-> > the brain is basically a problem-­solving machine – it looks for what is wrong, and then tries to think of ways to fix it. Unfortunately for anxious folk, the problems are not in the present moment – they’re projected in the future – so we can’t physi­cally solve them. Rumination, then, feels like we’re doing something, at least.
-
-
-- don't worry be happy vs. élet értelmén merengés
-    - és (talán meglepően) az utóbbi vezet inkább boldogsághoz
+Hát ugye milyen jó is annak, aki szorong?
+Szerintem se.
+Nézzünk hát pár gondolatot arról, hogy hogyan lehet szenvedő alanyból együttműködő féllé alakulni...
 
 <br>
 
@@ -281,50 +244,45 @@ Tegyük inkább széppé a saját szörnyünket, hogy aztán nagyobb békében e
 
 ## <a name="folyamat"></a>Pár gondolat a változás folyamatáról
 
+Mielőtt rátérnénk, hogy *mit* érdemes csinálni, beszéljünk kicsit arról, hogy *hogyan*!
+Wilson alapvető irányelve a "gyengéd és kedves" hozzáállás a változáshoz (amit a cukros életmódváltásból a szorongósdiba is áthozott).
+Nem korbácsoljuk magunkat a hibáinkért, és nem egyből egy tökéletes, "gyógyult" változatba akarunk váltani.
+Elfogadjuk, hogy jelenleg hol vagyunk, és bébi lépésekkel csoszogunk arra, amerre szeretnénk.
+Közben pedig nem elnyomjuk, hanem megéljük az (esetleg boldogságtól különböző!) érzéseinket.
+A boldogság ennek a folyamatnak a **mellékterméke** lesz, nem az (elérhetetlen) végeredménye.
 
-- "gyengéd és kedves" hozzáállás a változáshoz (amit a cukros életmódváltásból a szorongósdiba is áthozott)
-    - nem korbácsoljuk magunkat a hibáinkért, és nem egyből egy tökéletes, "gyógyult" változatba akarunk váltani
-    - hanem elfogadjuk, hogy jelenleg hol vagyunk, és bébi lépésekkel csoszogunk arra, amerre szeretnénk
-    - közben pedig nem elnyomjuk, hanem megéljük az (esetleg boldogságtól különböző!) érzéseinket
-    - a boldogság ennek a folyamatnak a **mellékterméke** lesz, nem az (elérhetetlen) végeredménye
+A választási paralízis gyakran elő fog kerülni.
+Ilyenkor próbáljuk meg észrevenni és értékelni azokat a szituációkat, amikor az élet látszólag kiveszi a kezünk közül az irányítást.
+Sőt, ha kell, mesterségesen adjuk fel bizonyos választási lehetőségeinket, hogy aztán a maradékkal nyugodtabban együtt élhessünk.
+Például hogy mit viselünk, mit eszünk, mikor mit csinálunk (ritualizáció), stb.
 
+> A boldog, sikeres emberek mindent ritualizálnak az életükben, kivéve a kreatív munkájukat.
+>
+> -- Jonathan Fields
+> > Happy, successful entrepreneurs ritualise everything in their lives but their crea­tive work.
 
-- választás, mint paralízis
-    - próbáljuk meg észrevenni és értékelni azokat a szituációkat, amikor az élet látszólag kiveszi a kezünk közül az irányítást
-    - ha kell, mesterségesen adjuk fel bizonyos választási lehetőségeinket, hogy aztán a maradékkal nyugodtabban együttélhessünk
-        - lásd: mit viselünk, mit eszünk, mikor mit csinálunk (ritualizáció), stb.
-        > > Happy, successful entrepreneurs ritualise everything in their lives but their crea­tive work
-        > -- Jonathan Fields
-    - akár bízzuk a véletlenre, ha amúgy tudatosan felérjük ésszel, hogy ez a választás nem ér annyi mentális energiát, mint amennyi a meghozásához kellene
-    - nincs tökéletes döntés - azzal tesszük tökéletessé, hogy meghozzuk, és utána kitartunk mellette, alkalmazkodunk hozzá, stb.
-    - hasonlat: az élet folyója úgyis arra fog folyni, amerre akar - a mi szánalmas kis fából tákolt gátépítési/szabályozási/terelési kísérleteink visszatarthatják ugyan egy darabig, de kellően nagy nyomás mellett úgyis beborul minden
-        - szóval ha már van kéznél fa, inkább építsünk belőle tutajt, amivel könnyebben engedhetjük, hogy vigyen a víz, amerre amúgy is vinne :)
-    - a szorongás onnan jön, hogy mi akarunk lenni a kapitány - ha beérjük az utas szereppel, akkor nem lesz min aggódni
-        - persze (gondolom) ez is egy spektrum, és nem mondja senki, hogy ne irányítsunk *semmit* - de azért ne is próbáljunk **mindent**.
+Akár bízzuk a véletlenre, ha amúgy tudatosan felérjük ésszel, hogy az a konkrét választás nem ér annyi mentális energiát, mint amennyi a meghozásához kellene.
+Nincs tökéletes döntés -- azzal tesszük tökéletessé, hogy meghozzuk, és utána kitartunk mellette és alkalmazkodunk hozzá.
+Wilson (szerintem igencsak sztoikus ihletésű) hasonlata: az élet folyója úgyis arra fog folyni, amerre akar.
+A mi szánalmas kis fából tákolt gátépítési/szabályozási/terelési kísérleteink visszatarthatják ugyan egy darabig, de kellően nagy nyomás mellett úgyis beborul minden.
+Szóval ha már van kéznél fa, inkább építsünk belőle tutajt, amivel könnyebben engedhetjük, hogy vigyen a víz, amerre amúgy is vinne.
+A szorongás onnan jön, hogy mi akarunk lenni a kapitány -- ha beérjük az utas szereppel, akkor nem lesz min aggódni.
+Persze (gondolom) ez is egy spektrum, és nem mondja senki, hogy ne irányítsunk *semmit*...
+De azért ne is próbáljunk **mindent**.
 
+Amikor (óhatatlanul) fellángol a szorongásunk, ismerjük fel, hogy ott gyors tüneti kezelésre van szükség.
+Egy igazi tűznél is a tűzoltók jönnek előbb, és majd csak aztán a kárszakértő.
+Viszont ha már elmúlt a krízis, akkor nehogy elfelejtsük beletenni a béke-időre való, mélyebb önismereti munkát!
 
-- amikor fellángolás van, akkor a gyors tüneti kezelés kell
-    - egy igazi tűznél is a tűzoltók jönnek előbb, és majd csak aztán a vizsgálódás
-    - viszont ha már elmúlt a krízis, akkor nehogy elfelejtsük beletenni a béke-időre való, mélyebb önismereti munkát!
-- "showing up is 90% of the battle"
-    - akár (a pontosságos posztra visszautalva) engedjük meg magunknak, hogy csak 5 perc legyen, de akkor is bele kell fogni
-    - ha már egyszer belefogunk, vinni fog a lendület
-- lassú lesz - pláne, ha másokhoz hasonlítgatjuk magunkat, ahol gyakran nem látjuk a háttér munkát, csak a (látszólag) egyik napról a másikra eredményeket
-    - de csak így lehet
-    - aki nem ezt ígéri, az valamit eladni próbál vagy hazudik (vagy hisz is benne, de akkor ő maga is alaposan át lett verve)
+Az önismereti munka pedig lassú lesz -- pláne, ha közben másokhoz hasonlítgatjuk magunkat, ahol gyakran nem látjuk a háttér munkát, csak a látszólag egyik napról a másikra eredményeket.
+De sajnos csak így lehet.
+Aki nem ezt ígéri, az valamit eladni próbál vagy hazudik (vagy hisz is benne, de akkor ő maga is alaposan át lett verve).
 
-
-szokásformáláshoz:
-
-- a régi szokásokat nem lehet kitörölni, csak max hagyni őket elgyengülni az ismétlés hiányában
-    - és ugyan a "helyükre" közvetlenül nem tehető semmi, melléjük tehetünk egy másik, egészségesebb, jobb, a fenyegetés helyett a komfort rendszerünket aktiváló szokást, amit elég ismétléssel felhizlalhatunk
-    - vagyis továbbra is lesz esély "visszaesni" a régi mintáinkba, de egyre kevesebb
-    - nem megváltoztatjuk magunkat, csak jobb (gyengédebb és kedvesebb) megbirkózási formákat építünk aköré, akik vagyunk
-
-- a szokás építéshez és a rendszer kialakításhoz: minden nap beágyazni
-    - és habár a beágyazás maga is segíthet (külső rend = belső béke), igazából nem az a fontos, hanem a tanács "minden nap" része
-    - ha valami a "legtöbb napon" van, akkor minden nap meg fogjuk magunkban vitatni, hogy aznap épp legyen-e
-        - ez pedig túltölti az akaraterő kvótánkat, beborul az egész, és legközelebb azt vesszük észre, hogy már 3 hónapja nem csináltuk
+A régi szokásokat nem lehet kitörölni, csak max hagyni őket elgyengülni az ismétlés hiányában.
+És ugyan a "helyükre" közvetlenül nem tehető semmi, melléjük tehetünk egy másik, egészségesebb, jobb, a fenyegetés helyett a komfort rendszerünket aktiváló szokást, amit elég ismétléssel felhizlalhatunk.
+Vagyis továbbra is lesz esély "visszaesni" a régi mintáinkba, de egyre kevesebb.
+Nem megváltoztatjuk magunkat, csak jobb (gyengédebb és kedvesebb) megbirkózási formákat építünk aköré, akik vagyunk.
+A szokás építéshez és a rendszer kialakítás részleteihez (mint mindig) most is az [Atomi szokásokat]({% post_url 2021-01-09-james-clear-atomi-szokasok %}) ajánlom.
 
 <br>
 
@@ -356,209 +314,211 @@ szokásformáláshoz:
 
 ## <a name="munka"></a>Tegyük bele a munkát
 
+<br>
 
+#### <a name="meditacio"></a>Meditáció
 
+Aggódós alkatoknak a meditáció nem képzi alku tárgyát.
+Csinálni kell, és kész.
+Azt kb. senki nem vitatja, hogy jót tesz -- itt még csak annyit teszünk hozzá, hogy már akkor is jót tesz, ha "rosszul" csinálja az ember.
+Igazából nincs mit rosszul csinálni.
+Ahogy a [The Mind Illuminated]({% post_url 2020-05-15-john-yates-the-mind-illuminated-kezdoknek %}) is mondta, csak az a rossz meditáció, amit nem csinálunk meg.
 
+Az mindegy is, hogy közben mire figyel az ember, legyen az légzés, mantra, egy konkrét tárgy tanulmányozása, valami spirituális harmadik szemes cucc, stb.
+A lényeg, hogy a figyelem (elkerülhetetlen) elkalandozását észrevesszük, és szépen visszaterelgetjük a célra.
+A szorongás csillapítása rengeteg tényező együttes munkája, de ha csak egyet kéne kiemelnie, Wilson (is) a meditációt javasolja.
 
+Wilson például általában reggelente, edzés után és reggeli előtt szokta csinálni -- de lehet nap közben is, bármi szándékosan zavaró közegben, mert akkor eleve nem lesz nagy elvárásunk magunkkal szemben.
+Könnyebben elfogadjuk, hogy nem tökéletes, és csak úgy működhet a folyamat.
+Mindent csak gyengéden, kedvesen, "ártatlanul", semmi erőszakolás.
+Képzeljük, hogy egy szivacs itatja fel a koponyánkon belül az ilyen kis bizsergő aggodalom buborékokat.
 
-- ön-együttérzés!
-    - nem tehetünk róla, hogy az evolúció néhányunkat egy érzékenyebb üss-vagy-fuss kapcsolóval szerelt, ami miatt jobban aggódunk kisebb dolgok miatt is
-- az aktív új-agyi túlműködés képes beindítani a régi-agy fenyegetésekre reagáló reakcióját akkor is, ha épp nincs kardfogú tigris a közelben
-    - de ennek van ám párja is: a nyugtató reakció, ami szintén nagyon fontos volt a túléléshez, tekintve hogy a faj társas kapcsolatokon keresztül kapott védelmet, nem tüskékkel vagy méregfogakkal
-    - ha az ön-együttérzés épp nem megy, próbáljunk együttérezni valaki mással, mert az ránk is visszahat
-    - sőt, elég, ha ezt csak elképzeljük -- mondjuk magunkat egy kisgyerekként, aki épp azon szorong, hogy nincs kész a leckéje, vagy hogy piszkálják az oviban
-        - ami együttérzést felé mutatnánk, mutassuk azt magunkkal szemben is
-- egy másik gyakorlat: írjunk a megszemélyesített szorongásunknak levelet, amiben megpróbálunk együttérezni vele
-    - Kedves szorongásom! Nem csoda, hogy megint kész vagy, elvére még mindig nem tudjuk, hogy mi az élet értelme, stb.
+Egy frankó meditációs hasonlat: képzeljük, hogy ülünk egy padon a kicsi, apróságokkal elfoglalt, földhöz ragadt énünk mellett (aki a kis é betűs "én"), és rájövünk, hogy az nem mi vagyunk!
+Az csak egy kis barátunk.
+Mi a nagybetűs É betűs "Én"-ek vagyunk, aki egy a világgal, mindent befogad, és jól elvan a szimpla létezés közben is.
 
+További segítség lehet a mély, tudatos légzés, akár meditációtól függetlenül, vagy arra rákészítés gyanánt.
+Más üzenetet küld az agyunknak a stressz állapotunkról, amihez aztán az agyunk alkalmazkodik.
+Dióhéjban: ha úgy lélegzünk, mintha nem stresszelnénk, akkor hiába stresszelünk, idővel nem is fogunk stresszelni.
 
+<br>
 
 
 
-- egyéb tippek
 
-    - csak mondjuk ki, hogy épp szorongunk - ezzel az agy tudatos részét aktiváljuk, ami annyival is több figyelmet vesz el a tudatalatti, érzelmi résztől, és ezáltal egy kicsit máris kevésbé fogunk szorongani
 
-    - core gyakorlatok - kb. mint amit Emőke is mondott
-        - de itt a törzs izmok főleg, mert egy kutatás szerint azok közvetlen kapcsolatban vannak az amygdalával, szóval ha terheljük őket, akkor csökken a szorongás
 
-- aggódós alkatoknak a meditáció nem képzi alku tárgyát - csinálni kell, és kész
-    - azt kb. senki nem vitatja, hogy jót tesz
-    - itt még csak annyit teszünk hozzá, hogy már akkor is jót tesz, ha "rosszul" csinálja az ember
-        - nincs mit rosszul csinálni - csak az a rossz, ha nem csinálja az ember --> Illuminated quote
-        - "You can be crap at meditation and it still works."
-    - az mindegy is, hogy közben mire figyel az ember (légzés, mantra, egy konkrét tárgy megfigyelése, valami spirituális harmadik szemes cucc, stb.) - a lényeg, hogy a figyelem (elkerülhetetlen) elkalandozását észrevesszük, és szépen visszaterelgetjük a célra
-    - a szorongás megszüntetése rengeteg tényező együttes munkája, de ha csak egyet kéne kiemelnie, Wilson (is) a meditációt javasolja
-    - nem tanít, csak megosztja a saját módszerét
-        - általában reggelente, edzés után és reggeli előtt - stimmt
-        - de nap közben is, bármi szándékosan zavaró közegben, mert akkor eleve nem lesz nagy elvárásunk magunkkal szemben, könnyebben elfogadjuk, hogy nem tökéletes, és csak úgy működhet a csillapítás
-        - mindent csak gyengéden, kedvesen, "ártatlanul", semmi erőszakolás
-        - képzeljük, hogy egy szivacs itatja fel a koponyánkon belül az ilyen kis bizsergő aggodalom buborékokat
+#### <a name="egyutterzes"></a>Ön-együttérzés
 
-    - meditációs hasonlat - ülsz egy padon a kicsi, apróságokkal elfoglalt, földhöz ragadt éned mellett (aki a kis i betűs 'i'), és rájössz, hogy az nem te vagy, az csak egy kis barátod
-        - te a nagybetűs 'I' vagy, aki egy a világgal, és mindent befogad, és jól elvan a szimpla létezés közben is
+Nem tehetünk róla, hogy az evolúció néhányunkat egy érzékenyebb üss-vagy-fuss kapcsolóval szerelt, ami miatt jobban aggódunk kisebb dolgok miatt is.
+Mert bizony az aktív új-agyi túlműködés képes beindítani a régi-agy fenyegetésekre reagáló reakcióját akkor is, ha épp nincs kardfogú tigris a közelben.
+De ennek van ám párja is: a nyugtató reakció, ami szintén nagyon fontos volt a túléléshez, tekintve hogy a faj társas kapcsolatokon keresztül kapott védelmet, nem tüskékkel vagy méregfogakkal.
 
+Ha az ön-együttérzés épp nem megy, próbáljunk együttérezni valaki mással, mert az ránk is visszahat.
+Sőt, elég, ha ezt csak elképzeljük -- mondjuk magunkat egy kisgyerekként, aki épp azon szorong, hogy nincs kész a leckéje, vagy hogy piszkálják az oviban.
+Ami együttérzést felé mutatnánk, mutassuk azt magunkkal szemben is.
 
+Egy gyakorlat: írjunk a megszemélyesített szorongásunknak levelet, amiben megpróbálunk együttérezni vele.
 
-- mély, tudatos légzés (akár meditációtól függetlenül, vagy arra rákészítés gyanánt)
-    - más üzenetet küld az agyunknak a stressz állapotunkról, amihez aztán az agyunk alkalmazkodik
-    - dióhéjban: ha úgy lélegzünk, mintha nem stresszelnénk, akkor hiába stresszelünk, idővel nem is fogunk stresszelni
+> Kedves szorongásom! Nem csoda, hogy megint kész vagy, elvére még mindig nem tudjuk, hogy mi az élet értelme...
 
-- hála rituálé
-    - minden este pár perc, 5 dolog, amiért aznap hálásak vagyunk
-    - Wilson szerint ez azért jó, mert ilyenkor úgy érezhetjük, hogy a világ egyszerűen jól működik - még csak nem is kell erőlködnünk, hogy jól működjön, ez csak így van és kész
-        - ennél nyugtatóbb hatást nem is kérhetnénk
-    - aztán jön a confirmation bias, de most hasznos: minél több mindenért vagyunk hálásak, annál több olyan dolgot fogunk észrevenni, amiért hálásak lehetünk
-        - és amíg épp hálásak vagyunk, nagyon nehéz szorongani, szóval minél többet vagyunk hálásak, annál nagyobb lesz a nyugi
+<br>
 
 
 
 
-- csak sétáljunk...
-    - kb. mozgó meditáció
-    - és megint azért jó, mert nem igazán kompatibilis a szorongással
-    - a régi agy testi ingerek alapján, valós időben tapasztalja a világot, míg az új agy tesz erre egy narratívát
-    - ha a régire koncentrálunk, akkor a narratíva lecsendesedik
-    - itt is feljön Nietzsche (+Darwin), hogy a séta kell az ötletek kiforrásához (és a szorongás kordában tartásához)
 
-- plusz mozogjunk, mert az üss-vagy-fuss hormonok "bennragadnak", ha se nem ütünk, se nem futunk - megint lásd Emőke
-    - az edzés nem ANNYIRA fontos, mint a meditáció, de majdnem. tessék lemozogni a stresszt.
-    - ahogy Lena Dunham, egy nyíltan szorongással küszködő színésznő poénosan megfogalmazta: "It ain’t about the ass, it’s about the brain."
-    - persze itt is gyengéd és kedves mozgás, nem P90X - főleg ha tényleg inkább az agyunk a célpont, és nem a seggünk
 
-- shinrin-­yoku, or ‘forest bathing’!
-    - bizonyos aromák lehetnek a háttérben, amiket a fák bocsátanak ki
-    - a természetben levés hat a kortizol szintünkre!
-    - a túrázás csökkenti az agyi vérbőséget azokon a területeken, amik a rossz hangulattal korrelálnak
+#### <a name="mozgas"></a>Mozgás
 
-- lassítás
-    - a testünkön, és annak földhöz ragadt, múltszázadi igényein keresztül könnyebben visszakapcsolódhatunk a most-ba és egy lassabb tempóba a modern rohanásból
-    - legyen hobbi és örömtelien hatékony**talan** aktivitás a főzés és evés, az utazás, az írás, a szex, ...
+Ezt már [Bagdy Emőkénél]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %}) is tárgyaltuk, de nem árt az ismétlés: mozogjunk, mert az üss-vagy-fuss hormonok "bennragadnak", ha se nem ütünk, se nem futunk!
+És habár az edzés nem **annyira** fontos, mint a meditáció, de majdnem.
+Tessék lemozogni a stresszt.
+Persze itt is gyengéd és kedves mozgás, nem feltétlen P90X -- főleg ha tényleg inkább az agyunk a célpont, és nem a seggünk.
+Érdemes a törzs izmokat megcélozni, mert egy kutatás szerint azok közvetlen kapcsolatban vannak az amigdalával, szóval ha terheljük őket, akkor csökken a szorongás.
 
+A formális edzéseken felül pedig sétáljunk, ami kb. mozgó meditáció.
+És megint azért jó, mert nem igazán kompatibilis a szorongással.
+A régi agy testi ingerek alapján, valós időben tapasztalja a világot, míg az új agy tesz erre egy narratívát.
+Ha az ingerekre koncentrálunk, akkor a narratíva lecsendesedik.
 
+Illetve, ha tehetjük, sétáljunk erdőben, mert egyre több tudományos eredmény is alátámasztja az ún. "erdőfürdőzés" előnyeit.
+Egyes elméletek szerint bizonyos aromák lehetnek a háttérben, amiket a fák bocsátanak ki.
+Mások szerint a túrázás csökkenti az agyi vérbőséget azokon a területeken, amik a rossz hangulattal korrelálnak.
+De szerintem józan paraszti ésszel is könnyen belátható, hogy jó, na.
 
+<br>
 
-- Eckhart Tolle tipp: kérdezzük meg magunktól, hogy mi a problémánk a mosttal?
-    - nem azzal, hogy pár év múlva, vagy épp öt perc múlva mi lesz (vagy lehet) a baj
-    - most ezzel az adott pillanattal mi is a bajunk?
 
-- ennek egy másik változata: mi a probléma IGAZÁBÓL
-    - mert lehet, hogy valami olyat látunk aggodalom-gerjesztőnek, ami ellen tényleg nem tehetünk semmit (vagy legalábbis nincsenek jó opcióink, rajtunk kívül áll, stb.)
-    - de ha lejjebb ásunk, lehet, hogy kiderül, nem is azzal van a baj, hanem valami alapvetőbbel, amit viszont befolyásolhatunk
 
 
-- tipp: bóklásszunk céltalanul (francia mentalitás) - ez is a jelen megélését segíti, ofc
-- check in with your Inside People - egy újabb nézőpont a meditálásra
 
 
+#### <a name="jelentes"></a>Jelentés
 
+Az is sokat segít, ha célt adunk a szorongásunknak.
+Ahogy Nietzsche mondta, "Ha az embernek megvan a miértje, minden hogyant elvisel".
+És vajon mi lehetne a jó a szorongásban?
+Hát, mint azt már [Susan Cain]({% post_url 2020-11-07-susan-cain-csend %})-nél is olvashattuk, evolúciós okból is megéri egy fajnak aggódós példányokat "tartani".
+A nyugtalan majom jelzi a többieknek is, ha veszély van.
 
-- az érintés segíthet, mert visszaránt a testünkbe a fejünkből
-    - cipőbolt, masszázs, make-up ecsettel arc cirógatás, tánc, széken billegés, ...
+Az aggódásra való hajlamnak biztos nem tesz jót a modern, felgyorsult életvitel, de nem az hozza létre.
+Kutatók mindenféle kontinensen/környezetben/fejlettségi szinten élő emberek között találnak olyanokat, akiknél kimutatható pl. az OCD, a bipoláris zavar és hasonszőrű társaik.
+És régen az ilyenek a kiközösítés helyett inkább hatalmi pozíciót kaptak, mert lehetett tudni, hogy szinte szó szerint képtelenek lennének nem elég alaposan törődni a kötelezettségükkel.
+A mániások meg például azzal segítették a többieket, hogy felfedezni mentek oda, ahova más nem mert volna.
+      
+Visszatérve a célra: ha úgy gondolunk rá, mintha az idegességünk célja az lenne, hogy a jelenkor toxicitásának bányarigói legyünk, akkor talán máris könnyebben viselhetővé válnak a tünetek (mert nem értelmetlenek többé).
+Szóval üljünk bele a saját szarunkba, forduljunk ki helyett befelé (lásd [Thoreau]({% post_url 2020-03-06-henry-david-thoreau-walden %}), [Emerson]({% post_url 2020-09-05-ralph-waldo-emerson-onbizalom %}), stb.), és találjuk meg önmagunkat.
+Ebből a szemszögből a szorongás egy útmutató, csak egyeseknél hangosabb.
+De nézzük a jó oldalát: legalább nem tudjuk figyelmen kívül hagyni, még ha akarnánk se.
 
-- az is sokat segít, ha célt adunk a szorongásnak
-    - As Nietzsche said, ‘He who has a why can endure any how.’
-    - és ahogy azt már Susan Cain-nél is olvashattuk: evolúciós okból is megéri egy fajnak aggódós példányokat "tartani"
-    - az aggódásra való hajlamnak biztos nem tesz jót a modern, felgyorsult életvitel, de nem az hozza létre
-        - kutatók mindenféle kontinensen/környezetben/fejlettségi szinten élő emberek között találnak olyanokat, akiknél kimutatható pl. az OCD, a bipoláris zavar, ... (antropológiai okok)
-        - és régen az ilyenek a kiközösítés helyett inkább hatalmi pozíciót kaptak, mert lehetett tudni, hogy szinte szó szerint képtelenek lennének nem elég alaposan törődni a kötelezettségükkel (OCD)
-        - a mániások meg azzal segítették a többieket, hogy felfedezni mentek, ahova más nem mert volna pl.
-        - a nyugtalan majom jelzi a többieknek is, ha veszély van
-    - visszatérve a célra: ha úgy gondolunk rá, mintha az idegességünk célja az lenne, hogy a jelenkor toxicitásának bányarigói legyünk, akkor talán máris könnyebben viselhetővé válnak a tünetek (mert nem értelmetlenek többé)
+> A legtöbb ember a boldogságot célozza meg, mégis a szenvedés által érez fejlődést.
+>
+> -- David Brooks
+> > Most people shoot for happiness but feel formed through suffering.
 
-- de nem kell önzetlennek lenni -- szorongás mint vezérfonal
-    - ha hallgatunk rá, akkor minket is a jó irányba terel
-    - lassan, kényelmetlenül, de akkor is
-    - sőt, akár még arra is felhasználni, hogy az legyen a segítségünk/motivációnk a jobb élet felé vezető úton
+<br>
 
 
 
 
 
-- anxiety reappraisal - átértékeljük, izgalomnak tekintjük, pont ahogy a késős könyvben is említettük
-    - vagy ahogy Emőke is a testi tüneteket vezeti le, mindegy, mi váltotta ki...
 
 
 
 
 
+#### <a name="hatarok"></a>Határok
 
+A középkori parasztnak megmondták, mikor dolgozzon, és az év fele gyakorlatilag szabadság volt, hogy ne lázadjanak.
+A korábbi, de már modernebb időszakban a 8 óra munka tényleg 8 óra volt -- nincs email, nincs telefon vagy gép otthon, nem röpködünk egyik helyről a másikra csak úgy, stb.
+A mai világban viszont megvan a lehetőség, hogy bárhol, bármikor, bármennyit produktívak legyünk.
+Na igen, de ezzel jár egy felelősség is, hogy meghúzzuk a saját határainkat, mert a világ többé nem fogja helyettünk.
+Konkrétumokért lásd [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %}).
 
-- vállaljuk fel a nyavajáinkat, és akkor nem nem hogy ellökik, de akár közelebb is hozhatják a szeretteinket
-- ismerjük fel, hogy a testi és a lelki tünetek összefüggése egy kétirányú utca
-    - kiemelten: a folyamatos szorongás felborítja a bélbaktériumok egyensúlyát, de fordítva is, a bélbaktériumok felborulása szorongáshoz vezethet
-    - együnk "rendesen" (lásd 1, 2, 3)
+Illetve ennek a másik oldala, amit szintén a javunkra fordíthatunk: időnként tegyük ki magunkat szándékosan zavaró tényezőknek.
+És olyankor ahelyett, hogy küzdenénk ellene, csak várjuk ki, mi történik -- ezzel eltompíthatjuk a tökéletesség iránti vágyunkat.
+Aludjunk zajban, melegben, legyenek kisebbek az elvárásaink, és onnantól egy csöpögő csap sem lesz annyira gyilkos.
+Legyen az a meta-misszió, hogy csak megpróbáljuk, és ha nem megy, akkor majd legközelebb / holnap / 20 perc múlva ráhagyhatjuk.
+Sőt, az elvárások ilyen szintű csökkentésével arra is megnyitjuk magunkat, hogy jobban észrevegyük az élet apró örömeit, így (közvetetten ugyan, de) a kellemetlenségek segítenek boldognak lenni.
 
-    - leginkább csak poénból hagyta el először a cukrot (amiről aztán híres lett)
-        - jött egy publikációs határidő, nem nagyon volt téma, többen javasolták már neki, hát kipróbálta
-        - nem is gondolta, hogy milyen nagy hatással lesz a szorongására
-            - pedig hát a cukor pörgetés eltűnésével gondolhatjuk, hogy egy kiegyensúlyozottabb hangulat vár ránk
+<br>
 
 
 
 
-- a mágikus work-life balance helyett is hagyjuk egy kicsit jobban sodródni magunkat
-    - ne akarjunk egy rendet, amiben majd kiteljesedhetünk
-    - teljesedjünk ki a káoszban, és úgy lesz "rend" belőle
-    - sőt: ha túl nagy a rend, káoszítsuk meg egy kicsit - vásároljunk éjfélkor, dolgozzunk egy szabadnapon, pihenjünk nyugodt lelkiismerettel egy "munkanapon", aludjunk az ágy másik oldalán, stb.
-        - see zen "fresh eyes" - parkos visszafelé séta
 
-- teremtsünk sok "helyet" az életünkben
-    - legyen minél lazább, minél több ráhagyás
-    - ami pont az ellenkezője lesz a belső késztetésünknek, miszerint töltsünk fel minden kis szegletet
-    - itt jön megint az esszencializmus: nem is férHET minden, szóval a szűrést úgyis meg kell tanulnunk
-        - akkor viszont szűrjünk kegyetlenül, hogy tényleg csak az maradjon, aminek nagyon muszáj
-        - és úgy talán elég laza is lesz a végeredmény ahhoz, hogy ne kelljen szétszoronganunk magunkat miatta
-    - nem több idő kell (ami csak még több feszültséghez és megtöltenivalóhoz vezetne), hanem több hely a hátralépéshez
 
-- ideiglenesen is modern rohanás-talaníthatjuk az életünket
-    - nincs (vagy kevesebb) kávé, nehezebb kaják a lassabb emésztéshez és a nagyobb meleghez, szociális média szünet (vagy csak takarodó X óra után és hétvégén), gyalog menni, ahova csak lehet - szándékos lassítás
 
-Az egész emberiség problémái onnan erednek, hogy senki nem képes egyedül, csendben ülni egy szobában.
-– Blaise Pascal
-All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
 
 
-- nekünk kell kiépíteni a saját határainkat
-    - a középkori parasztnak megmondták, mikor dolgozzon, és az év fele gyakorlatilag szabadság volt, hogy ne lázadjanak
-    - a korábbi, de már modernebb, időszakban a 8 óra munka tényleg 8 óra volt - nincs email, nincs telefon vagy gép otthon, nem röpködünk egyik helyről a másikra csak úgy, stb.
-    - a mai világban viszont megvan a lehetőség, hogy bárhol, bármikor, bármennyit produktívak legyünk - na igen, de ezzel jár egy felelősség is, hogy meghúzzuk a saját határainkat, mert a világ többé nem fogja helyettünk
-        - napi 1/2-szer nézni csak az email-t, megadott időpontokban
-        - minden napot a fontos dolgokkal kezdeni, és csak 10 (vagy dél, vagy X) után kezdeni válaszolni a külső ingerekre
-        - adjunk drágán a figyelmünket
-        - Gates-féle Think Week, vagy csak egy napnyi hotel egyedül
-        - akár éljünk egy lassabb helyen
 
-- tegyük ki magunkat szándékosan zavaró tényezőknek (distress tolerance)
-    - ahelyett, hogy küzdenénk ellene, csak várjuk ki, mi történik
-    - ezzel eltompíthatjuk a tökéletesség iránti vágyunkat
-    - aludjunk zajban, melegben, legyenek kisebbek az elvárásaink, és onnantól egy csöpögő csap sem lesz annyira gyilkos
-    - legyen az a meta-misszió, hogy csak megpróbáljuk, és ha nem megy, akkor majd legközelebb / holnap / 20 perc múlva ráhagyhatjuk
+#### <a name="egyeb"></a>Egyéb apró tippek
 
-> > What we resist persists. What we sit in eventually fades to a manageable and liveable volume.
 
-    - sőt: az elvárások ilyen szintű csökkentésével arra is megnyitjuk magunkat, hogy jobban észrevegyük az élet apró örömeit, így (közvetetten ugyan, de) a kellemetlenségek segítenek boldognak lenni
-    - wabi-sabi - beauty in imperfection
-- mint egy -1/x görbe, egyre tartunk a maximumhoz, de soha nem érjük el
-    - és így szinte minden a szintünk alatt lesz, ezért irritál
-    - ha viszont tudatosan engedjük magunkat visszacsúszni, akkor véletlenszerű dolgok is megugorhatják a küszöböt
+- **Teremtsünk sok "helyet" az életünkben**.
+Legyen minél lazább, minél több ráhagyás -- ami pont az ellenkezője lesz a belső késztetésünknek, miszerint töltsünk fel minden kis szegletet.
+Itt jön megint az [esszencializmus]({% post_url 2021-11-06-greg-mckeown-esszencializmus %}): nem is férHET minden, szóval a szűrést úgyis meg kell tanulnunk.
+Akkor viszont szűrjünk kegyetlenül, hogy tényleg csak az maradjon, aminek nagyon muszáj.
+És úgy talán elég laza is lesz a végeredmény ahhoz, hogy ne kelljen szétszoronganunk magunkat miatta.
 
-- grace - megint az "ott nyílnak ajtók, ahol eddig ajtók sem voltak"
-    - hagyjuk lesüllyedni magunkat, engedjük el a kontroll mániát, és lesz valahogy!
-    - pszichológiában: post-traumatic growth
-    - ha ugrunk az ismeretlenbe, az élet szárnyakat ad, hogy biztonságosan landolhassunk
-        - a baj csak az, hogy garanciát akarunk; előre szárnyakat vásárolni, és csak utána ugrani
-        - de ez sajnos nem így működik. szárnyat nem lehet vásárolni, csak kapni, és azt is csak az ugrás után
+    > Az egész emberiség problémái onnan erednek, hogy senki nem képes egyedül, csendben ülni egy szobában.
+    >
+    > -- Blaise Pascal
+    > > All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
 
-- szóval üljünk bele a saját szarunkba, forduljunk ki helyett befelé (Thoreau, Emerson, etc.), és találjuk meg önmagunkat
-    - a szorongás egy útmutató, csak egyeseknél hangosabb
-    - nézzük a jó oldalát: legalább nem tudjuk figyelmen kívül hagyni, még ha akarnánk se
+- **Ne várjuk a végét**.
+A mágikus work-life balance helyett hagyjuk egy kicsit jobban sodródni magunkat.
+Ne akarjunk egy rendet, amiben majd kiteljesedhetünk; teljesedjünk ki a káoszban, és úgy lesz "rend" belőle.
+Sőt: ha túl nagy a rend, káoszítsuk meg egy kicsit!
+Vásároljunk éjfélkor, dolgozzunk egy szabadnapon, pihenjünk nyugodt lelkiismerettel egy "munkanapon", aludjunk az ágy másik oldalán, stb.
 
-- éljük meg a szorongásunkat, ne eltüntetni akarjuk
-    - sokszor figyelmeztetni próbál valamire, és ilyenkor nem a vészcsengőt kell lenémítani, hanem az okát megszüntetni
-    - Frankl módra találjunk jelentést a szenvedésünkben
+- **Ismerjük fel a kétirányú utcát**.
+A testi és a lelki tünetek összefüggése oda-vissza működik.
+Kiemelten: a folyamatos szorongás felborítja a bélbaktériumok egyensúlyát, de fordítva is, a bélbaktériumok felborulása szorongáshoz vezethet.
+Vagyis együnk "rendesen" (lásd ["táplálkozás"]({{ 'cimke/taplalkozas' | relative_url }}) címke).
 
-- ‘Most people shoot for happiness but feel formed through suffering,’ wrote David Brooks
+- **Vezessünk be "hála rituálét"**.
+Minden este pár perc, és 5 dolog, amiért aznap hálásak vagyunk.
+Wilson szerint ez azért jó, mert ilyenkor úgy érezhetjük, hogy a világ egyszerűen jól működik -- még csak nem is kell erőlködnünk, hogy jól működjön, ez csak így van és kész.
+Ennél nyugtatóbb hatást pedig nem is kérhetnénk.
+Erre jön rá a *confirmation bias*, de most kivételesen hasznos: minél több mindenért vagyunk hálásak, annál több olyan dolgot fogunk észrevenni, amiért hálásak lehetünk.
+És amíg épp hálásak vagyunk, nagyon nehéz szorongani, szóval minél többet vagyunk hálásak, annál nagyobb lesz a nyugi.
+
+- **Lassítsunk**.
+A testünkön, és annak földhöz ragadt, múltszázadi/ezredi igényein keresztül könnyebben visszakapcsolódhatunk a most-ba és egy lassabb tempóba a modern rohanásból.
+Legyen hobbi és örömtelien hatékony**talan** aktivitás a főzés és evés, az utazás, az írás, a szex, stb.
+És itt nem kell a moder élet teljes hátrahagyására gondolni -- ideiglenesen is modern rohanás-talaníthatjuk az életünket.
+Nulla (vagy kevesebb) kávé, nehezebb kaják a lassabb emésztéshez és a nagyobb meleghez, szociális média szünet (vagy csak takarodó X óra után és hétvégén), gyalog menni, ahova csak lehet, ilyesmi.
+
+- **Csak mondjuk ki, hogy épp szorongunk**.
+Ezzel az agy tudatos részét aktiváljuk, ami annyival is több figyelmet vesz el a tudatalatti, érzelmi résztől, és ezáltal egy kicsit talán máris kevésbé fogunk szorongani (már ha nem zavarjuk bele magunkat a fent említett, tudatos rekurzióba).
+
+- **Mi a baj MOST?**
+Kérdezzük meg magunktól, hogy mi a problémánk a mosttal?
+Nem azzal, hogy pár év múlva, vagy épp pár *perc* múlva mi lesz (vagy lehet) a baj.
+Most ezzel az adott pillanattal mi is a bajunk?
+Akinek nem épp a fogát húzzák, az valószínűleg egyből melegebb fényben látja majd a világot egy ilyen egyszerű átkalibrálástól is.
+
+- **Mi a baj IGAZÁBÓL?**
+Mert lehet, hogy valami olyat látunk aggodalom-gerjesztőnek, ami ellen tényleg nem tehetünk semmit (vagy legalábbis nincsenek jó opcióink, rajtunk kívül áll, stb.)
+De ha lejjebb ásunk, lehet, hogy kiderül, nem is azzal van a probléma, hanem valami alapvetőbbel, amit viszont befolyásolhatunk.
+
+- **Figyeljük a fizikai ingereket**.
+Wilson tapasztalatában az érintés különösen sokat segíthet egy spirál/roham esetén, mert visszaránt a testünkbe a fejünkből.
+Javaslatai a vészhelyzeti cipőbolt látogatás (a láb-taperolás miatt), masszázs, make-up ecsettel arc cirógatás, tánc, széken billegés, ami csak eszünkbe jut.
+
+- **Vállaljuk fel a nyavajáinkat**.
+Ne akarjuk elrejteni a szorongásunkat a szeretteink elől!
+Ha megbízunk bennük, akkor a tüneteink nem hogy ellökik, de akár közelebb is hozhatják őket.
+
+- **Legyen egy kis hitünk**.
+Itt is szembejön a gondolat, miszerint "ott nyílnak majd ajtók, ahol eddig ajtók sem voltak".
+Hagyjuk lesüllyedni magunkat, engedjük el a kontroll mániát, és lesz valahogy!
+Ha ugrunk az ismeretlenbe, az élet szárnyakat ad, hogy biztonságosan landolhassunk.
+A baj csak az, hogy garanciát akarunk; előre szárnyakat vásárolni, és csak utána ugrani.
+Ez sajnos nem így működik.
+Szárnyat nem lehet vásárolni, csak kapni, és azt is csak az ugrás után.
 
 <br>
 
@@ -597,26 +557,27 @@ All of humanity’s problems stem from man’s inability to sit quietly in a roo
 
 ## <a name="tamogatoknak"></a>Támogatóknak
 
+És mi van akkor, ha nem mi vagyunk a szorongósok?
+Hogyan segíthetünk például, ha ilyen emberrel élünk?
+Először is: a fentiek tudatában remélhetőleg eleve nagyon más kép fog élni a fejünkben arról, hogy nekik mi él a fejükben.
+A legtöbb probléma szerintem onnan fakad, ha magunkból indulunk ki, és (szerencsénkre) fogalmunk sincs arról, hogy a másik min megy keresztül.
+Ez a hajó most elúszott.
 
-- na és akkor mások hogyan segíthetnek, ha ilyen emberrel élnek?
+Emellett a legjobb, amit tehetünk, hogy átvesszük az irányítást, ha spirált vagy pánikrohamot sejtünk a háttérben.
+Csak legyünk ott, de azt nagyon stabilan és minden kétely nélkül, még ha látszólag visszautasítást vagy lelegyintést is kapunk az arcukba válaszként.
+Maradjunk nyugodtak a szorongó nyugtalansága ellenére, amivel nem csak hogy nem eszkalálják majd a helyzetet, de belőlünk "táplálkozva" talán a másik is lejjebb csillapodhat.
 
-- vegyék át az irányítást, ha spirált vagy pánikrohamot sejtenek a háttérben
-- csak legyenek ott, de azt nagyon stabilan és minden kétely nélkül (még ha látszólag visszautasítást vagy lelegyintést is kapnak az arcukba)
-- maradjanak nyugodtak a szorongó nyugtalansága ellenére, amivel nem csak hogy nem eszkalálják majd a helyzetet, de belőle "táplálkozva" a másik is lejjebb csillapodhat
+Ez persze nem jelenti, hogy bárki más felelőssége lenne megoldni egy spirált -- de segíteni sokat segíthetünk.
+A szorongók a környezetüket próbálják irányítani (hogy nehogy valami elromoljon, ne a terv szerint alakuljon, stb.), nem a párjukat.
+Ez persze a pár szemszögéből nagyon nem így fog tűnni, de hátha így nézve nem lesz olyan bántó, és ezért nem mérgesedik el olyan könnyen.
 
-- ez persze nem jelenti, hogy bárki más felelőssége lenne megoldni egy spirált - de segíteni sokat segíthet
-- a szorongók a környezetüket próbálják irányítani (hogy nehogy valami elromoljon, ne a terv szerint alakuljon, stb.), nem a párjukat
-    - ez persze a pár szemszögéből nagyon nem így fog tűnni - vagy legalábbis nem lesz különbség
-    - de hátha így nézve nem lesz olyan bántó, és ezért nem mérgesedik el olyan könnyen
+És bármit is teszünk, ne mondjuk, hogy "csak nyugodjon meg"!
 
-- és hogyan ne?
-    - ne mondjuk, hogy nyugodjon meg :D
-    - "Never in the history of calming down has anyone calmed down from someone telling them to calm down."
-    - a szorongásból izgatottságba könnyű átmenni, mert érzelmi szomszédok -- de csak úgy lenyugodni, az szinte lehetetlen
+> A megnyugvás történetében még soha senki nem nyugodott meg attól, hogy valaki azt mondta neki, hogy nyugodjon meg.
+> > Never in the history of calming down has anyone calmed down from someone telling them to calm down.
 
-- miért éri meg megbirkózni velük
-    - részletorientált tervezők, mindig lesz B-C-D terv
-    - hozzá vannak szokva, hogy a saját belső nehézségeiket menedzseljék, szóval a váratlan külső nehézségek menedzselése szinte élből jönni fog nekik, így mi mentesülünk :)
+A szorongásból izgatottságba könnyű átmenni, mert érzelmi szomszédok, de csak úgy lenyugodni, az szinte lehetetlen.
+Szóval ha ilyesmire szorulunk, akkor inkább próbáljuk meg átterelni a figyelmét valami másra, amivel kapcsolatban izgatott lehet.
 
 <br>
 
@@ -638,4 +599,10 @@ All of humanity’s problems stem from man’s inability to sit quietly in a roo
 
 ## Összefoglalás
 
-- Emőke összevetés - compare and contrast, legalább a végső véleményhez
+Nah, hát ez már így is jó hosszúra nyúlt, úgyhogy tényleg csak pár szóban:
+a kegyetlen iróniák állapot-ismertetése mellett láthattuk, hogy A) **miért** érdemes a gyógyulás vágya helyett az együttműködést választanunk a szorongásunkkal, hogy B) **hogyan** érdemes nekivágni ennek az együttműködésre való átállásnak, és hogy C) **mit** tehetünk a haladásért.
+
+Bár mondhatnám, hogy ez csak a párom megértéséhez kellett -- de sajnos van itt saját szorongás is, aminek nekieshetek.
+Akinek a fentiek mindegyike szépen megy, az szóljon, hogy csinálja...
+Én addig is majd rendszeresen visszajárok erre az összefoglalóra és igyekszem karbantartani magam, amennyire tőlem telik.
+De hát (ahogy ugye az ön-együttérzés is mondotta volt), az is elég.
