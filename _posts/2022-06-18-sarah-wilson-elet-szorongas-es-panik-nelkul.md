@@ -366,7 +366,7 @@ Ami együttérzést felé mutatnánk, mutassuk azt magunkkal szemben is.
 
 Egy gyakorlat: írjunk a megszemélyesített szorongásunknak levelet, amiben megpróbálunk együttérezni vele.
 
-> Kedves szorongásom! Nem csoda, hogy megint kész vagy, elvére még mindig nem tudjuk, hogy mi az élet értelme...
+> Kedves szorongásom! Nem csoda, hogy megint kész vagy, elvégre még mindig nem tudjuk, hogy mi az élet értelme...
 
 <br>
 
