@@ -6,8 +6,9 @@ cover: 2022_integrity
 tags: [évértékelés]
 date: 2022-06-25 00:01
 excerpt: >
-    Már a tavalyi kezdetektől lehetett tudni, hogy a személyes alkotmány egy olyan ideál halmaz, amit esélyem sincs elérni.
-    Hát most nézzük, hogy ez az elmúlt évben *mennyire* nem sikerült...
+    Már a tavaly indított integritás riport rovat megalapozásánál lehetett tudni, hogy a benne megfogalmazott "személyes alkotmány" egy olyan ideál halmaz lesz, amit esélyem sincs elérni soha.
+    Arra viszont továbbra is érdemes kitérni, hogy *miben*, *miért* és *mennyire* vallottam kudarcot az azóta eltelt egy évben...
+    Hátha jövőre jobb lesz.
 ---
 
 [James Clear]({% post_url 2021-01-09-james-clear-atomi-szokasok %}#halado) haladó taktikái között szerepelt a minden év közepe tájára ajánlott "integritás riport", ami az év végén szokásos évértékeléssel szemben nem annyira a történtekre koncentrál, hanem inkább az értékrendünkre, és hogy mennyire sikerül úgy általánosságban aszerint élnünk.
