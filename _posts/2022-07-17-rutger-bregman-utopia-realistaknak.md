@@ -41,14 +41,14 @@ A (kissé átrendezett) tartalom a következőképp alakul:
 
 ## <a name="intro"></a>Bevezetés
 
-Ha nagy átlagban nézzük az emberiséget, az élet egészen a közelmúltig igencsak szar volt.
+Ha nagy átlagban nézzük az emberiséget, az életminőség egészen a közelmúltig a béka segge alatt tanyázott.
 Az uralkodó és kiváltságos rétegektől eltekintve a többiek szegények, koszosak, éhesek, betegek és buták voltak.
 De az "extrém szegénység" az elmúlt 200 évben 94% környékéről 10% alá esett.
 
 Az "átlag paraszt" élete nem sokat változott az 1800-as évekig, azóta viszont *nagyot* -- jóval többet, mint előtte összesen.
 A középkoriak vágyálma egy [Cockaigne](https://en.wikipedia.org/wiki/Cockaigne){:target="_blank"} nevű hely volt -- egy igazi tejjel mézzel folyó kánaán, ahol a fizikai kényelem és a bőség váltja le a paraszti lét nehézségeit.
+Ennek fényében nézzük most magunkra.
 
-Ennek fényében nézzük a jelent.
 Az állandóan elérhető gyors kaja vagy a légkondi csak a jéghegy csúcsa.
 Az éhezés és a betegségek relatíve eltűnőben, a várható élettartam és az általános oktatási szint rekordokat dönt...
 Plusz menet közben *szó szerint* olyan dolgaink vannak (agyműtét, implantátumok, protézisek, kihalt fajok DNS-alapú újjáélesztése), amik régen csoda számba mentek volna (a vak újra lát, a béna újra járni fog, és feltámadunk a halálból).
@@ -118,52 +118,68 @@ De ha innen tovább akarunk lépni, ahhoz megint politika és ideológia kell ma
 
 ## <a name="munka"></a>15 órás munkahét
 
-- John Maynard Keynes jóslat 1930-ból: 100 éven belül mind csak 15 órát fogunk dolgozni hetente
-    - és a jövő legnagyobb problémája, hogy mit is fogunk kezdeni azzal a rengeteg szabadidővel
-- De már 150 évvel előtte is Benjamin Franklin emlegetett napi 4 órát
-    - vagy John Stuart Mill a szabadidő kultúrájával - minél visszább kell tolni a munka kötelezettségeket, hogy helyette a művészetek és a tudományok haladhassanak
-        - mindenféle mentális, morális és szociális kultúra, és élet művészet :)
-- a napi 8 óráért is meg kellett küzdeni, mert a munkáltatók természetesen ellenálltak
-    - de csak kellett valaki, aki bevezeti, és utána a többiek is meglátták, hogy van ennek értelme
-    - a pihent, elégedett, szabadidővel rendelkező munkás a kevesebb időben is produktívabb
-    - és mellette van ideje/pénze költeni is a gazdaságba
-- igazából annyira előre elkönyveltnek tűnt, hogy mára már ilyen maximum tizen-órákat, vagy heti 1-2 napot, vagy a túl-automatizálás miatt egyáltalán nem is fogunk dolgozni, hogy mindenki a túlzott unatkozáson aggódott
-    - kell majd a pszichológia, hogy segítsen megbirkózni
-    - meg hogy a semmittevés majd immoralitáshoz és bűnhöz vezet
-- de a 80-as évek környékén mintha valahogy elfeledkeztünk volna erről a trendről
-    - a munkahetek csökkenése élesen megállt (vagy akár vissza is fordult)
-    - és a feminista mozgalom egyik igencsak megkérdőjelezhető "sikere", hogy ha az egyén helyett a családot nézzük, akkor pláne nőtt a kötelezettség
-        - az persze oké, hogy a nők is dolgozHASSANAK -- az már kevésbé, hogy ennek örömére egyből olyanná vedlett át a gazdaság, hogy gyakorlatilag dolgozniuk is KELLett
-        - vagy ha ők dolgoznak, akkor helyettük a férfiaknak ne kelljen? hát ez se jött be
+John Maynard Keynes azt jósolta 1930-ból, hogy 100 éven belül mind csak 15 órát fogunk dolgozni hetente.
+És hogy a jövő legnagyobb problémája az lesz, hogy mit is fogunk kezdeni azzal a rengeteg szabadidővel.
+De már 150 évvel Keyes előtte is ott volt Benjamin Franklin, aki napi 4 órát emlegetett.
+Vagy [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) a szabadidő kultúrájával -- miszerint minél visszább kell tolni a munka kötelezettségeket, hogy helyette a művészetek és a tudományok haladhassanak.
 
-        > > “My grandma didn’t have the vote, my mom didn’t have the pill, and I don’t have any time,” -- Mirjam Schöttelndreier, humorista
+A mostanában sztenderd napi 8 óráért is meg kellett küzdeni, mert a munkáltatók természetesen ellenálltak.
+De csak kellett valaki, aki bevezeti, és utána a többiek is meglátták, hogy van ennek értelme.
+A pihent, elégedett, szabadidővel rendelkező munkás a kevesebb időben is produktívabb.
+És mellette van ideje/pénze költeni is a gazdaságba.
+Ez pedig látszólag megalapozott egy haladásirányt.
 
-    - és ebbe a modern technológia miatti állandó elérhetőséget bele se számoltuk
-    - Asimovnak annyiban igaza lett, hogy a pszichológusoknak rengeteg munkájuk lesz a munka miatt - de nem azért, mert halálra unjuk magunkat, hanem mert halálra dolgozzuk magunkat
-- az idő pénz
-    - és habár először még nőhetett egyszerre a szabadidő és a fogyasztás, mostanában csak a fogyasztás nő
-    - és ez az egyik leggyakoribb érvelés is a munka csökkentése ellen: össze fog omlani az életszínvonalunk! jajj nekünk!
-    - de ahogy pár, egyelőre elszórt és majdhogynem véletlen kísérlet mutatja, még gazdaságilag sem rossz a 6 órás munkanap, vagy a 3 napos hét
-- mit oldana meg a kevesebb munka - mit NEM?!
-    - stressz: számtalan kutatás mutatja, hogy aki kevesebbet dolgozik, az elégedettebb az életével
-    - kevesebb káros anyag kibocsátás
-    - kevesebb baleset
-    - munkanélküliség (osztozással)
-    - valódi férfi/nő egyenlőség
-    - idősebb populáció (akik dolgozhatnának, ha akarnak, és ezzel levennének a fiatalok válláról, nem pedig a fiatalok fulladnának a munkába míg a dolgozni akaró időseket senki nem alkalmazza)
-    - vagyon újraelosztás, csak most időben
-- ezt akarjuk
-    - felmérések félreérthetetlenül mutatják, hogy igen, légyszi!
-    - még akkor is, ha az esetleg valamekkora életszínvonal visszaeséssel járna
-    - azt nem mondja senki, hogy NE legyen semennyi, mert pszichológiai szempontból valóban fontos, hogy legyen - és hogy idős korban is hasznosnak érezzük magunkat, a társadalmi gépezet részének, stb.
-    - de ne ENNYI! közel se ennyi!
-- először kultúra változás kell
-    - legyen vége annak, hogy villogunk a kiégéssel (grindset, "struggle porn")
-    - legyen közös cél és vízió, hogy tovább csökkenjen a munka
-        - de ehhez először el kell hinni, hogy lehetséges; nem lustaságnak tekinteni; és felvállalni, hogy tényleg ezt szeretnénk!
-        - szétválasztani a potestáns moralitástól, hogy majd akkor semmirekellők leszünk, csak TV-zünk, lopjuk a napot, stb.
-    - aztán majd jöhet a politikai támogatás
-    - és persze újra előkerül az oktatás szerepe, hogy akkor majd egyre hangsúlyosabb lesz, hogy a munkaerőpiac mellett az életre készítsen
+Hihetetlennek hangozhat, de tényleg volt egy időszak, amikor annyira előre elkönyveltnek tűnt, hogy mára már ilyen maximum tizen-órákat, vagy heti 1-2 napot, vagy a túl-automatizálás miatt egyáltalán nem is fogunk dolgozni, hogy mindenki a túlzott unatkozáson aggódott.
+Kell majd a pszichológia, hogy segítsen megbirkózni.
+Meg hogy a semmittevés majd immoralitáshoz és bűnhöz vezet.
+De a 80-as évek környékén mintha valahogy elfeledkeztünk volna erről a trendről.
+
+A munkahetek csökkenése élesen megállt (vagy akár vissza is fordult).
+És a feminista mozgalom egyik igencsak megkérdőjelezhető "sikere", hogy ha az egyén helyett a családot nézzük, akkor pláne nőtt a kötelezettség.
+Mert az persze oké, hogy a nők is dolgoz**HASSANAK** -- de az már kevésbé oké, hogy ennek örömére egyből olyanná vedlett át a gazdaság, hogy gyakorlatilag dolgozniuk is **KELL**ett.
+Vagy mondjuk ha ők dolgoznak, akkor helyettük a férfiaknak ne kelljen?
+Hát az se jött be.
+
+> Nagyanyámnak nem volt szavazati joga, anyámnak nem volt fogamzásgátlási lehetősége, nekem meg időm nincs.
+>
+> -- Mirjam Schöttelndreier, humorista
+> > My grandma didn’t have the vote, my mom didn’t have the pill, and I don’t have any time.
+
+További gond, hogy a "sztenderdnek" nevezett 8 órába a modern technológia miatti állandó elérhetőséget bele se számoltuk.
+Asimovnak annyiban igaza lett, hogy a pszichológusoknak rengeteg munkájuk lesz a munka miatt -- de nem azért, mert halálra unjuk magunkat, hanem mert halálra dolgozzuk magunkat.
+
+Az idő pénz -- és habár először még nőhetett egyszerre a szabadidő és a fogyasztás, mostanában csak a fogyasztás nő.
+Ez az egyik leggyakoribb érvelés is a munka csökkentése ellen: össze fog omlani az életszínvonalunk!
+Jajj nekünk!
+De ahogy pár, egyelőre elszórt és majdhogynem véletlen kísérlet mutatja, még gazdaságilag sem rossz a 6 órás munkanap, vagy a 3 napos hét.
+
+Nem is az a kérdés, hogy mit oldana meg a kevesebb munka, hanem az, hogy mit nem?!
+
+- Kevesebb stressz (számtalan kutatás mutatja, hogy aki kevesebbet dolgozik, az elégedettebb az életével);
+- Kevesebb káros anyag kibocsátás (a kevesebb felesleges termelés miatt);
+- Kevesebb baleset (a kevesebb hosszú műszak, kiégés és túldolgoztatás miatt);
+- Kisebb munkanélküliség (ha mondjuk egy állás részidőben több embert is kiszolgálna);
+- Valódi férfi/nő egyenlőség (ha így jobban jutna idő/energia a háztartási munkák osztására is);
+- Aktívabb idős populáció (akik így dolgozhatnának, **ha akarnak**, és ezzel levennének a fiatalok válláról, nem pedig a fiatalok fulladnának a munkába míg a dolgozni akaró időseket senki nem alkalmazza).
+
+Gyakorlatilag ez is egyfajta vagyon újraelosztás, csak most időben.
+És a felmérések félreérthetetlenül mutatják is, hogy mélyen belül igen, légyszi, ezt akarjuk!
+Még akkor is, ha az esetleg valamekkora életszínvonal visszaeséssel járna.
+Azt nem mondja senki, hogy ne legyen *semennyi* munka, mert pszichológiai szempontból valóban fontos, hogy legyen -- és hogy idős korban is hasznosnak érezzük magunkat, a társadalmi kollektíva részének, stb.
+De ne **ennyi**!
+Közel se ennyi!
+
+Ehhez pedig először kultúra változás kell.
+Legyen vége annak, hogy villogunk a kiégéssel.
+Nem tudom, ki ismerős a "grindset" vagy a "struggle porn" kifejezésekkel, de sajnos mostanában inkább az a divat, ha valaki annyira tekeri a kis hörcsögkerekét, hogy közben majd' elkopik. 
+
+Legyen ehelyett közös cél és vízió, hogy tovább csökkenjen a munka.
+Ez feladja majd a leckét, mert A) el kell hinni, hogy lehetséges; B) meg kell tanulni nem lustaságként tekinteni rá; és C) nyilvánosan fel kell vállalni, hogy igazából tényleg ezt szeretnénk!
+Ideje leválasztani magunkat a potestáns moralitástól, hogy majd akkor semmirekellők leszünk, csak TV-zünk, lopjuk a napot, stb.
+
+Ha majd a mentalitás és a közvélemény nagyobb egyetértésbe kerül, onnantól jöhet a politikai támogatás.
+Meg persze újra előkerülhet az oktatás szerepe, hiszen akkor majd egyre hangsúlyosabb lesz, hogy a munkaerőpiac mellett az életre készítsen.
+De ezek már csak a vonzatok -- először hinnünk kell, hogy ez egy lehetséges, emberséges jövő.
 
 <br>
 
@@ -175,61 +191,88 @@ De ha innen tovább akarunk lépni, ahhoz megint politika és ideológia kell ma
 
 ## <a name="penz"></a>Ingyen pénzt mindenkinek!
 
-- 2009-es brit hajléktalan kísérlet
-    - 13-an kb. évi 400k fontba kerültek az államnak rendőri/jogi/szociális költségekben
-    - ehelyett mind kaptak 3000 fontot, bármiféle kötöttség nélkül
-    - még magunknak a kísérletben részt vevő szociális munkásoknak sem voltak nagy elvárásaik -- mert biztos majd elverik, drogok, pia, miegymás
-    - ehelyett átlagban csak 800-at költöttek egy év alatt a 3000-ből, és ennek ellenére is 9-nek fedél került a feje fölé
-        - és mind úton voltak valami jövő és cél felé, legyen az kertészkedés, főzési kurzus. elkezdték rendbe tenni az életüket
-    - és ez az egész, a munkások bérével együtt is csak kb. 50k volt a 400 helyett.
+2009-ben a britek egy "radikális" kísérletre szánták el magukat.
+Feltűnt ugyanis nekik, hogy mindössze 13 Londoni hajléktalanjuk kb. évi 400k fontba kerültek az államnak rendőri/jogi/szociális költségekben.
+Ehelyett úgy döntöttek, mi lenne, ha mindegyikük kapna 3000 fontot, bármiféle kötöttség nélkül?
+Csökkentené-e ez vajon az összkiadást?
 
-    > > most efficient way to spend money on the homeless might be to give it to them -- The Economist
+Még magunknak a kísérletben részt vevő szociális munkásoknak sem voltak nagy elvárásaik -- mert biztos majd elverik drogokra, piára, és ilyesmikre.
+Ezután volt csak igazán meglepő, hogy átlagban kb. 800 fontot költöttek egy év alatt a 3000-ből, és ennek ellenére is 9-nek fedél került a feje fölé.
+Ha pedig eltekintünk a "fedéltől", mind úton voltak valami jövő és cél felé, legyen az kertészkedés, főzési kurzus, stb.
+Elkezdték rendbe tenni az életüket, na.
+És ez az egész, a munkások bérével együtt is csak kb. 50 ezerbe fájt az államnak a rendszeres 400 ezer helyett.
+Az adatok fényében még a híres The Economist magazinnak is be kellett ismernie:
 
-- valamiért úgy vagyunk vele, hogy a szegények nem tudnak jól bánni a pénzzel
-    - elvégre ha nem így lenne, akkor nem lennének szegények, nem?
-    - és oké, segítünk rajtuk, de csak indirekten, rengeteg papírmunkával, feltétellel, ellenőrzéssel, és munkába visszakergetéssel
-    - az "aki nem dolgozik, ne is egyék" közmondást még nem sikerült hátrahagyni, mert hát az ingyen pénz lustává tesz
-        - (Vonnegut is lamentálta, hogy sajnos még sok ezer év után is a "szemet szemért" ősi elve szerint élünk)
-- kivéve hogy a tapasztalat NEM ezt mutatja
-    - GiveDirectly
-    - Ugandai kormány
-    - az feltétel nélküli, ingyen pénz korrelációi: reductions in crime, child mortality, malnutrition, teenage pregnancy, and truancy, and with improved school performance, economic growth, and gender equality
-- se nem halat adunk, se nem horgászni tanítunk - pénzt adunk, és onnan majd mindenki magának megoldja
-    - mert a szegények szükségleteivel kapcsolatban maguk a szegények a legnagyobb szakértők
-    - > > The great thing about money is that people can use it to buy things they need instead of things that self-appointed experts think they need.
-    - mellesleg: a kísérletek 82%-ában az alkohol vagy dohány fogyasztás nem hogy növekedne, de csökken - mert mondjuk nem kell annyi azonnali élvezet által ható figyelemelterelés, ha az élet már nem annyira szar?
-        - sőt, amikor kimondottan alkoholistáknak, drogosoknak és bűnözőknek adtak ingyen pénzt, azok is nagyrészt élelemre, ruhára és gyógyszerre költötték
+> A leghatékonyabban talán úgy költhetünk pénzt a hajléktalanokra, ha odaadjuk nekik.
+> > The most efficient way to spend money on the homeless might be to give it to them.
 
-- utópia szemlélet: mindenkinek! minden feltétel nélkül!
-    - nincs ilyen, hogy megérdemli-e, vagy hogy mire költi. alapvető élhetési jog.
+Valamiért úgy vagyunk vele, hogy a szegények nem tudnak jól bánni a pénzzel.
+Elvégre ha nem így lenne, akkor nem lennének szegények, nem?
+És oké, segítünk mi rajtuk, de csak indirekten, rengeteg papírmunkával, feltétellel, ellenőrzéssel, és munkába visszakergetéssel.
+Az "aki nem dolgozik, ne is egyék" közmondást még nem sikerült hátrahagyni, mert hát az ingyen pénz lustává tesz.
 
-- Mincome, Canada
-    - itt még valamennyire feltételes, hogy a szegénységi határ alá ne essen senki
-    - de így is ez a legnagyobb basic income kísérlet (eddig)
-    - de aztán a politika beleszólt, és hirtelen nem hogy a folytatásra, de az addigi eredmények kielemzésére sem volt már keret
-        - elkönyvelték, hogy nyilván nem volt sikeres, mert bármi ilyesmi hogy is lehetne
-        - szóval minek még költeni az elemzésre, ami majd úgyis ezt fogja mutatni
-    - míg valaki 30 évvel később elő nem kereste az adatokat poros dobozokból, és saját szakállára neki nem esett az elemzésnek
-        - és lássunk csodát, sikeres volt
-        - attól féltek, hogy az emberek majd nem dolgoznak, és nagy családokat vállalnak
-        - ennek pont az ellenkezője történt: későbbi házasság, kevesebb gyerek, tovább iskolában maradás, és összességében alig pár százalékkal kevesebb munka
-        - plusz kimutathatóan egészségesebbek lettek (kevesebb kórházi látogatás, kevesebb mentális probléma)
-- hasonlók az USA-ban
-    - hasonló eredményekkel
-    - de, hasonlóan, a politika elbaltázta (részben inkompetencia, részben telhetetlenség, részben egy statisztikai hiba, ami szerint a válások 50%-kal nőttek -- amiről később kiderült hogy hibás, de addigra már mindegy volt)
-- azóta pedig a közvélemény is sokkal inkább ellene fordult
-    - minden utópia ugyanazt a három ellenérvet kapja -- egészen addig, amíg be nem következik, mert onnantól egyből tökre magától értetődőnek tűnik
-    - lehetetlen: nope, közgazdászok számításai szerint gyakorlatilag minden fejlett országnak beleférne a költségvetésébe, ha akarná
-        - a kusza segélyformák és az azokat fenntartó infrastruktúra költségén szinte elfutna az egész, a maradékot meg a hadászat, vagy a luxus vagyonok megadóztatósa simán kitenné
-    - veszélyes: nope, mint láttuk, sehol nem ez volt a reakció
-        - talán a művészek (akiket Bertrand Russel szerint "életükben lenézünk, haláluk után pedig magasztalunk") elfordulnának a fizető munkától, de az is munka lenne a társadalom érdekében
-        - a többiek pedig dolgoznának, csak végre olyasmit (és annyit, és akkor), amit/amennyit/amikor szeretnének
-    - perverz (vagyis, disztópiába fog torkollani): nope, épp hogy egy sokkal egyszerűbb, nyíltabb, és igazságosabb rendszer lenne, mint amik manapság vannak
-        - kell annál perverzebb, mint ami napjainkban egy ösztöndíj megpályázásához, vagy épp egy pályázat elbírálásához kell?
+Kivéve hogy a tapasztalat NEM ezt mutatja.
+A britek mellett ott a [GiveDirectly](https://www.givedirectly.org/){:target="_blank"} vagy az Ugandai kormány is, akik ilyennel próbálkoznak -- és megy.
+Az adatok léteznek, és a feltétel nélküli, ingyen pénz korrelációi: visszaesés a bűnözésben, a gyermek halandóságban, az alultápláltságban, a tinikori terhességekben és az iskolakerülésben; míg jelentős haladás az akadémiai teljesítményben, a gazdasági növekedésben és a nemek közti egyenlőségben. 
 
-- legyen az UBI a "haladás osztaléka", amire a kapitalizmusnak amúgy is törekednie kellett volna
+Se nem halat adunk, se nem horgászni tanítunk -- inkább pénzt adunk, és onnan majd mindenki magának megoldja.
+Mert ha hisszük, ha nem, a szegények szükségleteivel kapcsolatban maguk a szegények a legnagyobb szakértők.
 
-> > The goal of the future is full unemployment, so we can play. -- ARTHUR C. CLARKE
+> Az a nagyszerű a pénzzel kapcsolatban, hogy az emberek azt vehetnek belőle, amire szükségük van -- olyasmik helyett, amikre önjelölt szakértők szerint van szükségük.
+> > The great thing about money is that people can use it to buy things they need instead of things that self-appointed experts think they need.
+
+Mellesleg: a kísérletek 82%-ában az alkohol vagy dohány fogyasztás nem hogy növekedne, de csökken -- mert mondjuk nem kell annyi azonnali élvezet által ható figyelemelterelés, ha az élet már nem annyira szar?
+Sőt, amikor kimondottan alkoholistáknak, drogosoknak és bűnözőknek adtak ingyen pénzt, azok is nagyrészt élelemre, ruhára és gyógyszerre költötték.
+Innen jön tehát Bregman utópia szemléletének második fele: nem csak ingyen pénzt, de mindenkinek!
+Minden feltétel nélkül!
+Ne legyen ilyen, hogy megérdemli-e, vagy hogy mire költi.
+Ez egy alapvető élhetési jog(gá kéne hogy váljon).
+
+<br>
+
+Hajléktalanság és 3. világ, mondhatnánk.
+De hogyan viselkedik az UBI egy modern környezetben?
+Nyugalom, erre is van már példa.
+
+Egy Mincome nevű kísérlet során egy kiválasztott Canada-i kis községben bevezették, hogy senki nem eshet a szegénységi határ alá.
+És igen, ez még valamennyire feltételes, mert a határ feletti háztartások nem kaptak, de még így is ez az eddigi legnagyobb basic income kísérlet.
+Csak aztán a politika beleszólt, és hirtelen nem hogy a folytatására, de az addigi eredmények kielemzésére sem volt hirtelen keret.
+
+És mit csinál ilyenkor a vezetői réteg?
+Nem kis mértékű előítélettel elkönyvelték, hogy nyilván nem volt sikeres, mert bármi ilyesmi hogy is lehetne.
+Szóval minek még költeni az elemzésre, ami majd úgyis ezt fogja mutatni.
+
+Így porosodtak a kísérletből származó akták -- egészen amíg egy kutató 30 évvel később elő nem kereste őket, és a saját szakállára neki nem esett az elemzésnek.
+És lássunk csodát, a Mincome sikeres volt.
+Attól féltek, hogy az emberek majd nem dolgoznak, és nagy családokat vállalnak.
+Ennek pont az ellenkezője történt: későbbi házasság, kevesebb gyerek, tovább iskolában maradás, és összességében alig pár százalékkal kevesebb munka.
+Plusz kimutathatóan egészségesebbek lettek a kevesebb kórházi látogatás és a kevesebb mentális probléma alapján.
+
+Mi több, hasonló kezdeményezések az USA-ban is feltűntek, hasonló eredményekkel.
+De, hasonlóan, a politika ott is elbaltázta.
+Részben inkompetencia, részben telhetetlenség, részben egy statisztikai hiba, ami szerint a válások 50%-kal nőttek -- amiről később kiderült hogy hibás, de addigra az ötlet jó hírének már mindegy volt.
+
+Azóta pedig a közvélemény is sokkal inkább ellene fordult.
+Mint minden utópia, az UBI is ugyanazt a három ellenérvet kapja:
+
+- **Lehetetlen**: Nope, közgazdászok számításai szerint gyakorlatilag minden fejlett országnak beleférne a költségvetésébe, ha akarná.
+A kusza segélyformák és az azokat fenntartó infrastruktúra költségén szinte elfutna az egész, a maradékot meg a hadászat, vagy a luxus vagyonok megadóztatósa simán kitenné.
+
+- **Veszélyes**: Nope, mint láttuk, sehol nem ez volt a reakció.
+Talán a művészek (akiket Bertrand Russel szerint "életükben lenézünk, haláluk után pedig magasztalunk") elfordulnának a fizető munkától, de az is munka lenne a társadalom érdekében.
+A többiek pedig dolgoznának, csak végre olyasmit (és annyit, és akkor), amit/amennyit/amikor szeretnének.
+
+- **Perverz** (vagyis, disztópiába fog torkollani): Nope, épp hogy egy sokkal egyszerűbb, nyíltabb, és igazságosabb rendszer lenne, mint amik most vannak.
+Kell annál perverzebb, mint ami napjainkban egy ösztöndíj megpályázásához, vagy épp egy segélykérelem elbírálásához kell?
+
+Minden utópia ugyanezeket a bírálatokat kapja -- egészen addig, amíg be nem következik, mert onnantól egyből tökre magától értetődőnek tűnik.
+Legyen hát az UBI a "haladás osztaléka", amire a kapitalizmusnak amúgy is törekednie kellett volna.
+Lehet, hogy most még science fiction-nek hangzik, de hát az összes optimista ötlet fantáziaként kezdi a pályafutását...
+
+> A jövő célja a teljes munkanélküliség, hogy játszhassunk.
+>
+> -- Arthur C. Clarke, sci-fi író
+> > The goal of the future is full unemployment, so we can play.
 
 <br>
 
@@ -244,30 +287,32 @@ De ha innen tovább akarunk lépni, ahhoz megint politika és ideológia kell ma
 
 ## <a name="ado"></a>Érték-követő adók
 
-- a szrájk megéri - ha olyan munkát végez az ember, amire a társadalomnak tényleg szüksége van
-    - viszont egyre többen végeznek olyan látszat "munkát", aminél fel sem tűnne a sztájk... ez például nem is egy rossz kritérium arra, hogy mennyire vagyunk fontosak :D
-    - értéket teremtünk, vagy csak átrendezzük a már létező értéket egyik zsebből a másikba?
-    - és vajon miért az érték teremtőknek a legszarabb a fizetése, míg az átrendezőknek a legmagasabb?
-    - ez vele jár a fejlődéssel: ahogy az alapvető dolgok egyre hatékonyabbak lesznek, úgy lesznek egyre olcsóbbak, és egyre kevesebb embert igényelnek, így kerülnek a többiek a szolgáltatási szektorba
-- példák: New York-i kukások 1968 vs. ír bankárok 1970
-    - az előbbinél már 6 nap után vészhelyzetet hirdettek, míg az utóbbinál 6 hónap alatt sem nagyon lett semmi
-    - persze valamiféle "pénzügyi szektorra" szükség van, de ezt az emberek bizalmi alapon, saját pénzt "gyártva", a cserekereskedelemnél épp csak fél fokkal kifinomultabban, de mégis megoldották maguk
-        - szóval habár pénzügyi szektor kell, bankok annyira nem -- a velük járó hatalmas bónuszok és költségek meg még kevésbé
-- tele vagyunk bullshit munkákkal
-    - és ahogy az igazi munkák egyre automatizáltabbak lesznek, a bullshit aránya egyre csak nőni fog
-    - HACSAK: el nem fogadjuk, hogy a munka nem kéne, hogy az élet középpontja legyen!
-- ne keverjük azokat a területeket, ahol **koncentrálódik** a pénz, azokkal a területekkel, ahol **keletkezik** a valós érték
-    - pont a tanárok, a rendőrök, a tűzoltók, az orvosok, az ápolók, stb. szenvedik el a megszorításokat csak azért, hogy a bullshit vonalon még jobban menjen a szekér
-    - vagy hogy több legyen a segélyrendszerre, amit ugye már láttunk, hogy miért értelmetlen...
-- ötlet: jobban meg kéne adóztatni azokat a szektorokat, ahol valódi érték nem terem
-    - hogy ezzel az igazán tehetséges és motivált embereknek meg is érje olyan helyre tenni az energiáját, ahol a többieknek is megéri
-    - nem csak nagyobb szelet jutna mindenkinek a tortából, de még konkrétan a torta is nagyobb lenne
-- ne csak kövessük a trendeket
-    - ha elkerülhetetlennek hisszük a jelenlegi status quo-t, akkor a jövőre is csak úgy tudunk tekinteni, hogy hogyan lehetne még jobban kijátszani a rendszert
-    - és ha pillanatnyilag épp a lélektelen lobbistáknak vagy az egoista bankároknak áll jól a szénája, akkor akarjunk mi is azok lenni?
-    - vagy esetlen elgondolkozhatnánk, hogy miből szeretnénk megélni, és aztán hogy hogyan lehetne azt is realisztikus megélhetési móddá tenni
+A szrájk megéri -- ha olyan munkát végez az ember, amire a társadalomnak tényleg szüksége van.
+Lásd a New York-i kukások 1968-as tüntetését, ami 6 nap alatt térdre kényszerítette a várost, vészhelyzetet hirdettek, és pár nappal későbbre érdekes módon asztalhoz ült velük a vezetés.
 
-> > If we want this century to be one in which all of us get richer, then we’ll need to free ourselves of the dogma that all work is meaningful. And, while we’re at it, let’s also get rid of the fallacy that a higher salary is automatically a reflection of societal value.
+Viszont egyre többen végeznek olyan látszat "munkát", aminél fel sem tűnne a sztájk.
+Ez szerintem nem is egy rossz kritérium arra, hogy mennyire vagyunk fontosak valójában.
+Példának lásd az ír bankárok 1970-es tüntetését, ami gyakorlatilag 6 **hónap** után sem ért el semmit.
+Persze valamiféle "pénzügyi szektorra" szükség volt, de ezt az emberek bizalmi alapon, saját pénzt "gyártva", a cserekereskedelemnél épp csak fél fokkal kifinomultabban, de mégis megoldották maguk.
+Szóval a tanulság, hogy habár pénzügyi szektor kell, bankok annyira nem -- a velük járó hatalmas bónuszok és költségek meg még kevésbé!
+
+Nagyon nem mindegy, hogy értéket *teremtünk*, vagy csak *átrendezzük* a már létező értéket egyik zsebből a másikba.
+És ezután jogosan merülhet fel a kérdés, hogy vajon miért az érték teremtőknek a legszarabb a fizetése, míg az átrendezőknek a legmagasabb?
+Ez valamilyen szinten vele jár a fejlődéssel: ahogy az alapvető dolgok egyre hatékonyabbak lesznek, úgy lesznek egyre olcsóbbak, és egyre kevesebb embert igényelnek, így kerülnek a többiek a szolgáltatási szektorba.
+Ennek az áramlásnak alaposan a végén járunk, de azt továbbra sem merjük elfogadni, hogy a munka nem feltétlen az élet közepe, és így a bullshit aránya egyre csak nőni fog.
+
+Ne keverjük azokat a területeket, ahol **koncentrálódik** a pénz, azokkal a területekkel, ahol **keletkezik** a valós érték.
+Pont a tanárok, a rendőrök, a tűzoltók, az orvosok, az ápolók, stb. szenvedik el a megszorításokat csak azért, hogy a bullshit vonalon még jobban menjen a szekér.
+Vagy hogy több legyen a segélyrendszerre, amit ugye már láttunk, hogy miért értelmetlen.
+
+Ehelyett ötlet: jobban meg kéne adóztatni azokat a szektorokat, ahol valódi érték nem terem.
+Hogy ezzel az igazán tehetséges és motivált embereknek meg is érje olyan helyre tenni az energiáját, ahol a többieknek is megéri.
+Nem csak nagyobb szelet jutna mindenkinek a tortából, de még konkrétan a torta is nagyobb lenne.
+
+Ne csak kövessük a trendeket, teremtsük őket.
+Ha elkerülhetetlennek hisszük a jelenlegi status quo-t, akkor a jövőre is csak úgy tudunk majd tekinteni, hogy hogyan lehetne még jobban kijátszani a rendszert.
+És ha pillanatnyilag épp a lélektelen lobbistáknak vagy az egoista bankároknak áll jól a szénája, akkor akarjunk mi is azok lenni?
+Vagy esetleg elgondolkozhatnánk, hogy miből szeretnénk megélni, és aztán hogy hogyan lehetne azt is realisztikus megélhetési móddá tenni.
 
 <br>
 
@@ -285,30 +330,39 @@ De ha innen tovább akarunk lépni, ahhoz megint politika és ideológia kell ma
 
 ## <a name="hatarok"></a>Nyílt határok
 
-- hogy merünk mi ilyenekről ábrándozni, amikor még mindig van, aki éhezik és hajléktalan?
-    - hát, emellett persze őket is igyekszünk felhúzni
-    - hogy ez segélyekkel miért nem annyira megy, arra Diktátorok kézikönyve...
-- és ha még el is jut az emberekig, akkor is ki tudja, hogy tényleg azok az igyenes könyvek vagy élelem szállítmányok vagy miegymás segített... randomizált kutatást mindenhez is!
-    - ne csak tippelgessünk, hogy mi lesz a jó - próbáljuk ki, és aztán csináljuk azt, ami demonstrálhatóan működik
-    - persze ez nem mindig könnyű (infrastruktúra, kormány együttműködés, mérhetőség, stb.), de ez kéne hogy legyen az alap, nem csak a karosszékből filozofálni
-- nyílt határok
-    - ha minden szabadon áramolhatna (a termékektől kezdve az emberekig.. főleg az munkaerő!), az (7 különböző tanulmány szerint is) mindenkinek jót tenne
-        - nem csak a szegényeknek, de nekünk is a fejlettebb vidékeken
-    - az országokon belüli egyenlőtlenség (ami attól persze durva) eltörpül a globális egyenlőtlenséghez képest, mert a lakhelyünk nagyban meghatározza a kereseti képességünket
-- ezt persze mindig visszadobja a fejlett világ, mert
-    - jajj, elveszik az állásunkat - nope, kimutatható, hogy mindenkinek jobb lesz
-    - jajj, alánk vágnak, és kevesebb lesz a mi bérünk is - nope, megint csak: kimutatható, hogy mindenkinek jobb lesz
-    - ingyenélők, nem járulnak hozzá - nope, átlagosan több adójövedelmet produkálnak, mint a belföldi lakosok. meg persze az is vicces, hogy egyszerre félünk attól, hogy túl lusták, és hogy elveszik az állásunkat
-    - rajtunk ragadnak - nope, a határok erőszakos betartatása pont ahhoz vezet, hogy kevésbé mennek vissza
+Hogy merünk mi ilyenekről ábrándozni, amikor még mindig van, aki éhezik és hajléktalan?
+Hát, emellett persze őket is igyekszünk felhúzni.
+Hogy az segélyekkel miért nem annyira megy, arra ajánlom a [Diktátorok kézikönyvét]({% post_url 2022-01-15-bruce-bueno-de-mesquita-alastair-smith-diktatorok-kezikonyve %}).
+De ha még el is jut az emberekig a segély, akkor is ki tudja, hogy tényleg azok az ingyenes könyvek vagy élelem szállítmányok vagy miegymás segítettek.
 
-- itt persze egyszerűsítünk
-    - nincs figyelembe véve az integráció, a vallási háttér, stb.
-    - DE
+Ehelyett: randomizált kutatást mindenhez!
+Legyen egy teszt csoport, egy placebo csoport, és lássuk, az adatok mit mutatnak.
+Ne csak tippelgessünk, hogy mi lesz a jó -- próbáljuk ki, és aztán csináljuk azt, ami demonstrálhatóan működik.
+Persze ez nem mindig könnyű (infrastruktúra, kormány együttműködés, mérhetőség, stb.), de ez kéne hogy legyen az alap, nem csak a karosszékből filozofálni.
 
-Joseph Carens, one of the leading advocates of open borders, wrote in 1987, “Free migration may not be immediately achievable, but it is a goal toward which we should strive.”
+És ha már adat-alapú döntések: lehet, hogy az ingyenes könyvek hatását nem tudjuk, de a nyílt határokét annál inkább.
+Ha minden szabadon áramolhatna, a termékektől kezdve az emberekig, az 7 különböző tanulmány szerint is mindenkinek jót tenne.
+Nem csak a szegényeknek, de nekünk is a fejlettebb vidékeken.
+Az országokon belüli egyenlőtlenség (amit eddig sirattunk, és persze durva) eltörpül a globális egyenlőtlenséghez képest, mert a lakhelyünk nagyban meghatározza a kereseti képességünket.
+
+Ezt mindig visszadobja a fejlett világ, mert:
+
+- Jajj, elveszik az állásunkat -- nope, kimutatható, hogy mindenkinek jobb lesz;
+- Jajj, alánk vágnak, és kevesebb lesz a mi bérünk is -- nope, megint csak: kimutatható, hogy mindenkinek jobb lesz;
+- Rajtunk ragadnak -- nope, a határok erőszakos betartatása pont ahhoz vezet, hogy kevésbé mennek vissza;
+- Ingyenélők, nem járulnak hozzá -- nope, átlagosan több adójövedelmet produkálnak, mint a belföldi lakosok.
+Meg persze az is vicces, hogy egyszerre félünk attól, hogy túl lusták, és hogy elveszik az állásunkat.
+
+Itt persze egyszerűsítünk valamennyire.
+Nincs figyelembe véve az integrációs hajlandóság, a kulturális különbségek, a vallási háttér, stb.
+De azt nem is mondta senki, hogy nehézségek nélkül menne az átállás.
+Azt viszont mondjuk, hogy hosszú távon mindenkinek megérné.
+Ahogy Joseph Carens, a nyílt határok egy vezető szószólója már 1987-ben megfogalmazta:
+
+> A szabad migráció talán nem azonnal elérhető, de egy olyan cél, ami felé törekednünk kellene.
+> > Free migration may not be immediately achievable, but it is a goal toward which we should strive.
 
 <br>
-p
 
 
 
@@ -546,19 +600,28 @@ RICHARD BUCKMINSTER (1895–1983)
 
 ## <a name="gondolkodas"></a>Utópikus gondolkodás
 
-- kognitív disszonancia
-    - példa: az 1954-es Chicago-i világvége, ami csak még erősebbé tette a szekta hitét, miután NEM történt meg
-    - ha a világ ütközik a mélyen dédelgetett nézeteinkkel, akkor hajlamosak vagyunk inkább a valóságot újrakalibrálni, mint a nézeteinket felülvizsgálni
-- és vigyázzunk az ítélkezéssel: ehhez nem kell ám hülyének lenne!
-    - sőt, az intelligensebb embereknek több mentális eszközük van védeni a nézeteiket, legyenek azok bármekkora faszságok
-- a haladás pedig nyilván ott lesz a legnehézkesebb, ahol a legberögzültebb nézeteket kell kibillenteni
-    - szóval akkor hogyan is lehet ezt megtenni?
-    - sokszor sokkszerűen, vagy amikor már akkora a nyomás az előző rendszer hibái miatt, hogy egyszerűen rákényszerülünk az újragondolásra
-        - de ilyenkor még jobban beleragadhatunk a régi hiteinkbe is, kb. azokba kapaszkodva a krízis közepette (lásd 2008-as banki összeomlás, amióta minden ugyanúgy megy)
-- ezért is fontos, hogy milyen alternatív gondolatok hevernek a közelben
-    - mert ha nincsenek, akkor egyre inkább a technikai, hétköznapi, elkerülhetetlennek hitt problémák megoldásán fogunk agyalni ahelyett, hogy egyáltalán megkérdezzük magunktól, hogy ezt kéne-e csinálni
-    - hogy nem abszurd-e, ami most van
-    - viszont az ilyen alternatív ötletek elültetéséhez és felhasználható fázisba nevelgetéséhez nyitott elméjű, kitartó, és kimondottan "utópikus" gondolkodású emberekre van szükség!
+A kognitív disszonancia egy nagyon veszélyes jelenség.
+Bregman példának az 1954-es Chicago-i világvégét hozza fel, ami csak még erősebbé tette a szekta hitét, miután **nem** történt meg.
+Mert hát ha a világ ütközik a mélyen dédelgetett nézeteinkkel, akkor hajlamosak vagyunk inkább a valóságot újrakalibrálni, mint a nézeteinket felülvizsgálni.
+
+És mielőtt legyintenénk, hogy ez csak az idióták mentsvára, vigyázzunk az ítélkezéssel: ehhez nem kell ám hülyének lenni!
+Sőt, az intelligensebb embereknek több mentális eszközük van védeni a nézeteiket, legyenek azok bármekkora faszságok.
+Vagyis az emberi haladás nyilván ott lesz a legnehézkesebb, ahol a legberögzültebb nézeteket kell kibillenteni.
+
+Szóval akkor hogyan is lehet ezt megtenni?
+A történelmi példák fényében az ilyesmi legtöbbször sokkszerűen következik be.
+Amikor már akkora a nyomás az előző rendszer hibái miatt, hogy egyszerűen rákényszerülünk az újragondolásra.
+Csak hogy egy ilyen túlterhelődés eléggé kiszámíthatatlan és tervezhetetlen.
+Plusz, ilyenkor akár még jobban beleragadhatunk a régi hiteinkbe is, kb. azokba kapaszkodva a krízis közepette (lásd 2008-as banki összeomlás, amióta minden ugyanúgy megy).
+
+Ezért fontos, hogy milyen alternatív gondolatok -- öö, mondjuk úgy, "hevernek" a közelben.
+Mert ha nincsenek, akkor egyre inkább a technikai, hétköznapi, elkerülhetetlennek hitt problémák megoldásán fogunk agyalni ahelyett, hogy egyáltalán megkérdezzük magunktól, hogy ezt kéne-e csinálni.
+Hogy nem abszurd-e, ami most van?
+
+Viszont az ilyen alternatív ötletek elültetéséhez és felhasználható fázisba nevelgetéséhez jelentős mennyiségű idő kell ám.
+Idő, meg persze egy valagnyi nyitott elméjű, kitartó, és kimondottan "utópikus" gondolkodású ember.
+Ettől lesz olyan fontos a szebb jövő képét már jó előre megfesteni, táplálni, és terjeszteni.
+Hogy amikor beüt a krízis, legyen alternatíva!
 
 <br>
 
