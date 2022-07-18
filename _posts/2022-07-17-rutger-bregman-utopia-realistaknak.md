@@ -15,7 +15,7 @@ Egy nemrégiben futó EU-s aláírásgyűjtő kezdeményezés juttatta eszembe, 
 Nem titkolt vesszőparipám, hogy a jelen technológiai fejlettsége mellett groteszknek tartom a munka szükségességét, és mindig örömmel veszem, ha valaki hajlandó kiállni ezért a jövőképért -- vagy legalább hajlandó nem egyből nevetséges vágyálomnak bélyegezni.
 De attól, hogy én személy szerint hiszek benne, a szükséges szociális és/vagy közgazdasági háttérrel eddig nem rendelkeztem, hogy a Universal Basic Income (UBI) védelmére kelhessek.
 
-Ezt a hiányosságot pótoljuk most Rutger Bregman segítségével, aki az [Utópia realistáknak](https://moly.hu/konyvek/rutger-bregman-utopia-realistaknak){:target="_blank"} című könyvében (néhány másik optimista kezdeményezéssel együtt) az UBI-nak is előkészíti a mentális terepet.
+Ezt a hiányosságot pótoljuk most Rutger Bregman segítségével, aki az [Utópia realistáknak](https://moly.hu/konyvek/rutger-bregman-utopia-realistaknak){:target="_blank"} című könyvében néhány másik optimista kezdeményezéssel együtt az UBI-nak is előkészíti a mentális terepet.
 A (kissé átrendezett) tartalom a következőképp alakul:
 
 - [Bevezetés](#intro)
@@ -301,6 +301,11 @@ Nagyon nem mindegy, hogy értéket *teremtünk*, vagy csak *átrendezzük* a má
 Ez valamilyen szinten vele jár a fejlődéssel: ahogy az alapvető dolgok egyre hatékonyabbak lesznek, úgy lesznek egyre olcsóbbak, és egyre kevesebb embert igényelnek, így kerülnek a többiek a szolgáltatási szektorba.
 Ennek az áramlásnak alaposan a végén járunk, de azt továbbra sem merjük elfogadni, hogy a munka nem feltétlen az élet közepe, és így a bullshit aránya egyre csak nőni fog.
 
+> Így lesznek az ellenőröknek is ellenőrei, és olyanok, akik az ellenőrök ellenőreinek készítenek műszereket. Az emberek igazi feladata az lenne, hogy visszamennek az iskolába és folytatják, amin addig gondolkoztak, mielőtt jött valaki és azt mondta nekik, hogy dolgozniuk kell a megélhetésért.
+>
+> -- Buckminster Fuller
+> > So we have inspectors of inspectors and people making instruments for inspectors to inspect inspectors. The true business of people should be to go back to school and think about whatever it was they were thinking about before somebody came along and told them they had to earn a living.
+
 Ne keverjük azokat a területeket, ahol **koncentrálódik** a pénz, azokkal a területekkel, ahol **keletkezik** a valós érték.
 Pont a tanárok, a rendőrök, a tűzoltók, az orvosok, az ápolók, stb. szenvedik el a megszorításokat csak azért, hogy a bullshit vonalon még jobban menjen a szekér.
 Vagy hogy több legyen a segélyrendszerre, amit ugye már láttunk, hogy miért értelmetlen.
@@ -399,52 +404,40 @@ Ahogy Joseph Carens, a nyílt határok egy vezető szószólója már 1987-ben m
 
 ## <a name="automatizalas"></a>Az automatizálásról
 
-- ahogy az igásló elvesztette az állását, úgy fogjuk mi is
-    - a technológiai fejlődés kb. elkerülhetetlen, hiába félünk tőle, vagy hibáztatjuk a munkánk automatizálásáért
-        - és ez idővel a diplomásokra is ugyanúgy érvényes lesz/lehet, mint a látszólag egyszerűbben gépiesíthető szakmákra!
-    - szóval hiábavaló azon siránkozni, hogy bár ne lenne
-    - az igazi alternatíváink az UBI, vagy a széleskörű munkanélküliség és a még élesebb egyenlőtlenség
-    - tekintsük inkább ezt is egy nyomós érvnek az UBI mellett
-- chip + box
-    - Gordon Moore törvénye, ami 1965 óta tart
-        - és ez exponenciális ám! fél évszázadnyi exponenciális növekedés!
-    - shipping container + standardizáció hasonlat
-        - ahogy Ahrens is használta a slipbox-ra
-    - ezek tették lehetővé a durva globalizációt és technológiai fejlődést
-- viszont megvan a negatív hatásuk is
-    - előttük a közgazdaságtan azt hitte, hogy a munkabérek és a tőkejövedelmek aránya konstans (66% bér, 33% kamat)
-    - de a fejlődésnek "hála" a tőkések egyre könnyebben megtehetik, hogy több maradjon a zsebükben -- és meg is teszik
-    - viszont "tőkésekből" is egyre kevesebb, mert a globális import-export miatt már mindenki vetélytárs
-        - "winner-take-all society"
-    - a vagyon-egyenlőtlenség napjainkban nagyobb, mint a rabszolgákra építő ókori Rómában!
+Ahogy az igásló elvesztette az állását, úgy fogjuk mi is.
+A technológiai fejlődés kb. elkerülhetetlen, hiába félünk tőle, vagy hibáztatjuk a munkánk automatizálásáért.
+És ez idővel a diplomásokra is ugyanúgy érvényes lesz/lehet, mint a látszólag egyszerűbben gépiesíthető szakmákra!
+Szóval hiábavaló azon siránkozni, hogy bár ne lenne.
+Az igazi alternatíváink az UBI, vagy a széles körű munkanélküliség és a még élesebb egyenlőtlenség.
+Egyenlőtlenség, ami csak úgy megjegyezném, hogy napjainkban nagyobb, mint a rabszolgákra építő ókori Rómában!
+Tekintsük inkább ezt is egy nyomós érvnek az UBI mellett.
 
-- > > The factory of the future will have only two employees, a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.
+> A jövő gyárában két alkalmazott lesz: egy ember és egy kutya. Az ember azért lesz ott, hogy etesse a kutyát. A kutya pedig azért, hogy ne engedje az embert a gépekhez nyúlni.
+>
+> -- Warren Bennis
+> > The factory of the future will have only two employees, a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.
 
-- az automatizálástól való félelem persze nem újdonság
-    - és mindig meg is nyugtatták a munkaerőpiacot azzal, hogy az új munkaterületek gyorsabban bukkannak fel, mint ahogy a régiek eltűnnének
-    - elvégre ma is olyan állásokkal vagyunk tele, amik nem hogy pár évtizede, de akár pár ÉVE sem léteztek
-    - de sajnos ez a trend visszafordulóban van - kb. az ezredforduló óta a produktivitás úgy nő rekord sebességgel, hogy közben az állások száma csökkenni kezdett
-- ez gyanúsan egy második gépi forradalom
-    - csak nehogy mi legyünk a második ludditák (https://hu.wikipedia.org/wiki/Luddizmus), akik géprongálással és szabotálással akarják megoldani a munkájuk eltűnését
-- eddig ott voltak az új munkák, amik segítettek újra elosztani a fejlődés profitját a népesség között
-    - egyre egyenetlenebbül, de valahogy azért mégis
-    - viszont ha nem lesznek munkák, mert mindent kiváltanak a gépek, akkor VALAHOGY azért csak el kellene osztani a javakat, nem?
+Az automatizálástól való félelem persze nem újdonság.
+És mindig meg is nyugtatták a munkaerőpiacot azzal, hogy az új munkaterületek gyorsabban bukkannak fel, mint ahogy a régiek eltűnnének.
+Elvégre ma is olyan állásokkal vagyunk tele, amik nem hogy pár évtizede, de akár pár **éve** sem léteztek, nem?
 
-- szóval, mit tehetünk?
-    - rövid távon a magasan képzett munkaerő van a legkisebb veszélyben -- részben talán ezért is hirdeti mindenki az oktatás fontosságát
-    - de míg az első gépi forradalomnál elég volt az írástudatlan parasztokat olvasni tanítani, addig a mai fejlettségi szinthez (és a gyors változásokhoz) jelentősen több erőfeszítés kell
-        - mondhatjuk, hogy az alacsonyan lógó gyümölcsök már le vannak szedve
-- a kulcsszó az újraelosztás
-    - az időé (rövidebb munkahét), a pénzé (UBI), az adóké (munka helyett tőke alapon)...
+Ez a trend azonban (sajnos?) visszafordulóban van: kb. az ezredforduló óta a produktivitás úgy nő rekord sebességgel, hogy közben az állások száma csökkenni kezdett.
+Ez gyanúsan egy második gépi forradalom.
+Csak nehogy mi legyünk a második [ludditák](https://hu.wikipedia.org/wiki/Luddizmus){:target="_blank"}, akik géprongálással és szabotálással akarják megoldani a munkájuk eltűnését.
 
-> > the inability to imagine a world in which things are different is only evidence of a poor imagination, not of the impossibility of change.
-    > Ha nem vagyunk képesek elképzelni egy olyan világot, amiben máshogy mennek a dolgok, az csak a képzelőerőnk hiányára bizonyíték, nem a változás lehetetlenségére.
+Eddig ott voltak az új munkák, amik segítettek újra elosztani a fejlődés profitját a népesség között.
+Egyre egyenetlenebbül, tegyük hozzá -- de valahogy azért mégis.
+Viszont ha nem lesznek munkák, mert mindent kiváltanak a gépek, akkor *valahogy* azért csak el kellene osztani a javakat.
 
+Szóval, mit tehetünk?
+Rövid távon a magasan képzett munkaerő van a legkisebb veszélyben -- részben talán ezért is hirdeti mindenki az oktatás fontosságát.
+De míg az első gépi forradalomnál elég volt az írástudatlan parasztokat olvasni tanítani, addig a mai fejlettségi szinthez (és a gyors változásokhoz) jelentősen több erőfeszítés kell.
+Mondhatjuk, hogy az alacsonyan lógó gyümölcsök már le vannak szedve.
+A jövő kulcsszava az újraelosztás lesz.
+Az időé (rövidebb munkahét), a pénzé (UBI), az adóké (munka helyett tőke alapon) és a lehetőségeké (nyílt határok)!
 
-
-So we have inspectors of inspectors and people making instruments for inspectors to inspect inspectors. The true business of people should be to go back to school and think about whatever it was they were thinking about before somebody came along and told them they had to earn a living.
-
-RICHARD BUCKMINSTER (1895–1983)
+> Ha nem vagyunk képesek elképzelni egy olyan világot, amiben máshogy mennek a dolgok, az csak a képzelőerőnk hiányára bizonyíték, nem a változás lehetetlenségére.
+> > The inability to imagine a world in which things are different is only evidence of a poor imagination, not of the impossibility of change.
 
 <br>
 
@@ -453,45 +446,65 @@ RICHARD BUCKMINSTER (1895–1983)
 
 
 
+
+
 ## <a name="szegenyseg"></a>A szegénységről
 
-- régóta ismert az erős korreláció a szegénység és a mentális betegségek között
-    - de azt csak sejteni lehetett, hogy valóban van-e ok-okozati viszony -- és ha igen, melyik az ok, és melyik az okozat
-    - ha valaki a mentális problémái miatt szegény, akkor a pénz nem segít, viszont ha a szegénysége miatt vannak mentális gondjai, akkor igen
-- erre válasz az indián kaszinósdi, ami gyakorlatilag egy modern, folyamatban lévő UBI előfutam
-    - ezt tanulmányozva pedig szépen kijött, hogy (lássunk csodát) a pénz segített a mentális gondokon
-    - a kísérletben résztvevő diákok körében kevesebb lett a viselkedési probléma, csökkent az alkohol/drogfogyasztás, és javult az akadémiai teljesítmény (olyan szintre, ahol a "nem szegény" társaik átlaga szerint elvárható lenne)
-    - a géneken (vagyis, a mentális problémákra való hajlamon) nem lehet segíteni, de a szegénységen igen
+Régóta ismert az erős korreláció a szegénység és a mentális betegségek között.
+De azt csak sejteni lehetett, hogy valóban van-e ok-okozati viszony -- és ha igen, melyik az ok, és melyik az okozat.
+Ez pedig ugye nagyon nem mindegy, mert ha valaki a mentális problémái miatt szegény, akkor a pénz nem segít.
+Ha viszont a szegénysége miatt vannak mentális gondjai, akkor igen.
 
-- a mentális problémákon, a szegények általánosságban is szarabb döntéseket hoznak
-    - >> The poor borrow more, save less, smoke more, exercise less, drink more, and eat less healthfully.
-    - de a fentiek fényében talán már sejtjük, hogy ez nem egy beégett személyiségjegy. nem egy jellemhiba. és nem azért szegények, mert így viselkednek, hanem azért viselkednek így, mert szegények!
+Erre a kérdésre ad választ az amerikai indiánok kaszinós bevételének szétosztása, ami gyakorlatilag egy modern, folyamatban lévő UBI előfutam.
+Ezt tanulmányozva pedig szépen kijött, hogy (lássunk csodát) a pénz segített a mentális gondokon.
+A kísérletben résztvevő diákok körében kevesebb lett a viselkedési probléma, csökkent az alkohol/drogfogyasztás, és javult az akadémiai teljesítmény (olyan szintre, ahol a "nem szegény" társaik átlaga szerint elvárható lenne).
+A géneken (vagyis, a mentális problémákra való hajlamon) nem lehet segíteni, de a szegénységen igen.
 
-- a hiány pszichológiája, hiány mentalitás
-    - a szegények hihetetlenül találékonyak tudnak lenni a rövid távú problémáik megoldásában
-    - ha egyszerűen SZÜKSÉGÜK van egy autóra, hogy be tudjanak járni vele a munkahelyre, akkor hitelt vesznek fel -- hiába fizetnek rá rengeteget a kamatokon
-        - és ha egyszerűen SZÜKSÉGÜK van élelemre, akkor akár lopni is képesek érte -- hiába kockáztatják ezzel a jövőjüket
-    - a hiány mentalitás extra opciókat fed fel az azonnali problémák megoldására, amik viszont cserébe a hosszú távot teszik tönkre
-    - csak hát ha hiány mentalitás van, akkor a fejben szinte csak a rövid táv létezik, a hosszú táv meg ott bassza meg.
-- kb. olyan ez, mintha a gazdagok olyan számítógépek lennének, amiknek csak 1-2 programot kell egyszerre futtatniuk, míg a szegényeknek huszon-harmincat, mert folyton ott lebeg a fejük felett, hogy mi lesz vacsorára, vagy hogy lesz-e egyáltalán vacsorára valami.
-    - vagyis a szegény ember nem azért hoz rosszabb döntéseket, mert hülye, hanem mert a szegénység kontextusában mások is olyan döntéseket hoznának (vagy legalábbis sokkal többen)
-- egy nagyobb váratlan kiadás melletti IQ teszt kb. 13 pontos különbséget mutatott a gazdagok és a szegények között
-    - ami megfelel egy teljes éjszakányi kialvatlanságnak vagy tartós alkoholizmusnak
-    - ugyanez Indiai cukornád farmerekkel, akik az év egyik részében gazdagok, a másikban pedig szegények (a tömbösített bevételük miatt)
-    - ha a mentális sávszélességünk kompromittált, akkor hülyébbek leszünk, és a szegénység jelentősen kompromittálja a mentális sávszélességünket
-- erre csak még rátesz, hogy a segélyért vagy ösztöndíjakért folyamodás milyen bonyolult
-    - lehet, hogy ezzel azokat akarják elriasztani, akiknek nincs igazán szükségük a támogatásra, de helyette sajnos pont azokat riasztják el, akiknek a legjobban lenne (csak nincs mentális kapacitásuk ezzel is megbirkózni a minden egyéb bajuk mellett)
+Mondhatjuk, hogy jó, oké, ezek a mentális problémák.
+De a szegények általánosságban is szarabb döntéseket hoznak, nem?
+Statisztikailag kimutatható, hogy több kölcsönt vesznek fel, kevesebbet fektetnek be, többet dohányoznak, kevesebbet edzenek, több alkoholt fogyasztanak, kevésbé egészségesen esznek, stb.
+És ez igaz is.
+De a fentiek fényében talán már sejtjük, hogy ez nem egy beégett személyiségjegy.
+Nem egy jellemhiba.
+Vagyis nem azért szegények, mert így viselkednek, hanem azért viselkednek így, mert szegények!
 
-- az indián UBI elemzésből az látszott, hogy gyakorlatilag pénzt **spórolt** a közösségnek, ha beleszámolták a csökkent bűnözést, kórházi látogatást és iskolai évismétlésekből felszabaduló költségeket
-    - hasonlóan az Utah-i és a Holland "ingyen lakást a hajléktalanoknak" programok, amik olcsóbbra jöttek ki, mint amit addig az érintett hajléktalanokra költöttek rendőri/jogi/szociális költségekben (megint mint a brit kísérlet, ugye)
-    - igazából a befektetett mennyiség duplája térült meg, és ez csak a kormány szemszöge, az egyén vagy a közösség gazdasága csak ráadás
+A valódi tettes nem az intelligencia, hanem a hiány mentalitás.
+A szegények hihetetlenül találékonyak tudnak lenni a rövid távú problémáik megoldásában.
+Ha egyszerűen **szükségük** van egy autóra, hogy be tudjanak járni vele a munkahelyre, akkor hitelt vesznek fel -- hiába fizetnek rá rengeteget a kamatokon.
+És ha egyszerűen **szükségük** van élelemre, akkor akár lopni is képesek érte -- hiába kockáztatják ezzel a jövőjüket.
+A hiány mentalitás extra opciókat fed fel az azonnali problémák megoldására, amik viszont cserébe a hosszú távot teszik tönkre.
+Csak hát ahogy beáll a hiány mentalitás, onnantól a fejben szinte csak a rövid táv létezik, a hosszú táv meg ott bassza meg.
 
-- mellesleg megjegyezzük: a "szegénység" relatív, és ez is az egyenlőtlenségre vezethető vissza
-    - az átlagos bevétel például egyáltalán nem korrelál a társadalmi problémákkal -- egy relatíve szegény országban is lehet minden rendben, amíg az a szegénység egy bizonyos minimumon felül van. van mit enni, van hol lakni, van mit felvenni.
-    - viszont ha a társadalmi egyenlőtlenséget vetjük össze a szociális problémákkal, akkor egyből ott a szép lineáris korreláció :/
-    - valamekkora egyenlőtlenség nyilván szükséges és elvárható, de a modern világban túlságosan a ló másik oldalán vagyunk ahhoz, hogy ez számítson
+Kb. olyan ez, mintha a gazdagok olyan számítógépek lennének, amiknek csak 1-2 programot kell egyszerre futtatniuk, míg a szegényeknek huszon-harmincat, mert folyton ott lebeg a fejük felett, hogy mi lesz vacsorára, vagy hogy lesz-e egyáltalán vacsorára valami.
+Vagyis a szegény ember nem azért hoz rosszabb döntéseket, mert hülye, hanem mert a szegénység kontextusában mások is olyan döntéseket hoznának (vagy legalábbis sokkal többen).
 
-> > poverty is not a lack of character. It’s a lack of cash.
+Hogy van-e erre kísérlet, kérdezhetnénk?
+Hát naná, hogy van.
+Véletlenszerűen válogatott embereket helyeztek egy váratlan kiadást szimuláló szituációba, miközben IQ teszteket töltettek velük.
+Egy kisebb kiadás esetén a gazdagok és a szegények kb. egyformán teljesítettek (mert az még mindkét csoportnak relatíve szívroham nélkül belefért volna), viszont egy nagyobb kiadás mellett a szegények 13 ponttal kevesebbet teljesítettek.
+Ez megfelel egy teljes éjszakányi kialvatlanságnak vagy egy tartós alkoholizmusnak!
+Csak azzal, hogy **elképzeltettek** velük egy olyan kiadást, ami nem fér bele a költségvetésükbe.
+
+Jó, és nem lehet, hogy csak pont véletlen "butább szegényeket" válogattak össze a nagyobb kiadást szimuláló tesztre?
+Öö, elvileg de.
+Tiszta szerencse, hogy egy nagyon hasonló kísérletet Indiai cukornád farmerekkel is elvégeztek, akik az év egyik részében gazdagok, a másikban pedig szegények (a tömbösített bevételük miatt).
+És (gondolom kitaláltátok) a szegény időszakukban ugyanazok az emberek is szarabbul teljesítenek a gazdag önmaguknál.
+
+Erre csak még rátesz, hogy a segélyért vagy ösztöndíjakért folyamodás milyen bonyolult.
+Lehet, hogy ezzel azokat akarják elriasztani, akiknek nincs igazán szükségük a támogatásra, de helyette sajnos pont azokat riasztják el, akiknek a legjobban lenne -- csak nincs mentális kapacitásuk ezzel is megbirkózni a minden egyéb bajuk mellett.
+
+Az indián UBI elemzésből az látszott, hogy gyakorlatilag pénzt **spórolt** a közösségnek, ha beleszámolták a csökkent bűnözést, kórházi látogatást és iskolai évismétlésekből felszabaduló költségeket.
+Hasonlóan az Utah-i és a Holland "ingyen lakást a hajléktalanoknak" programok, amik olcsóbbra jöttek ki, mint amit addig az érintett hajléktalanokra költöttek rendőri/jogi/szociális költségekben (megint mint a brit kísérlet, ugye).
+Igazából a befektetett mennyiség duplája térült meg, és ez csak a kormány szemszöge, az egyén vagy a közösség gazdasága csak ráadás.
+
+Mellesleg megjegyezzük: a "szegénység" relatív, és ez is az egyenlőtlenségre vezethető vissza.
+Az átlagos bevétel például egyáltalán nem korrelál a társadalmi problémákkal -- egy relatíve szegény országban is lehet minden rendben, amíg az a szegénység egy bizonyos minimumon felül van.
+Mondjuk van mit enni, van hol lakni, van mit felvenni, ilyesmi.
+Viszont ha a társadalmi egyenlőtlenséget vetjük össze a szociális problémákkal, akkor egyből ott a szép lineáris korreláció!
+Valamekkora egyenlőtlenség nyilván szükséges és elvárható, de a modern világban túlságosan a ló másik oldalán vagyunk ahhoz, hogy ez számítson.
+
+> A szegénység nem a jellem hiánya, csak a pénzé.
+> > Poverty is not a lack of character. It's a lack of cash.
 
 <br>
 
