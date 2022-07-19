@@ -27,7 +27,7 @@ A (kissé átrendezett) tartalom a következőképp alakul:
 - Kapcsolódó tévhitek oszlatása
     - [Az automatizálásról](#automatizalas)
     - [A szegénységről](#szegenyseg)
-    - [A precedensekről](#precedensek)
+    - [Az elkerülhetetlenségről](#elkerulhetetlenseg)
     - [A mérőszámokról](#meroszamok)
 - [Utópikus gondolkodás](#gondolkodas)
 
@@ -171,7 +171,12 @@ Közel se ennyi!
 
 Ehhez pedig először kultúra változás kell.
 Legyen vége annak, hogy villogunk a kiégéssel.
-Nem tudom, ki ismerős a "grindset" vagy a "struggle porn" kifejezésekkel, de sajnos mostanában inkább az a divat, ha valaki annyira tekeri a kis hörcsögkerekét, hogy közben majd' elkopik. 
+Nem tudom, ki ismerős a "grindset" vagy a "struggle porn" kifejezésekkel, de sajnos mostanában inkább az a divat, ha valaki annyira tekeri a kis hörcsögkerekét, hogy közben majd' elkopik.
+
+> A munka az olyanok mentsvára, akiknek nincs jobb dolguk.
+>
+> -- Oscar Wilde
+> > Work is the refuge of people who have nothing better to do.
 
 Legyen ehelyett közös cél és vízió, hogy tovább csökkenjen a munka.
 Ez feladja majd a leckét, mert A) el kell hinni, hogy lehetséges; B) meg kell tanulni nem lustaságként tekinteni rá; és C) nyilvánosan fel kell vállalni, hogy igazából tényleg ezt szeretnénk!
@@ -515,30 +520,30 @@ Valamekkora egyenlőtlenség nyilván szükséges és elvárható, de a modern v
 
 
 
-## <a name="precedensek"></a>A precedensekről
+## <a name="elkerulhetetlenseg"></a>Az elkerülhetetlenségről
 
-- >> The past teaches us a simple but crucial lesson: Things could be different. The way our world is organized is not the result of some axiomatic evolution.
+A 70-es évek USA-jában Nixon-ék látták a korábbi pozitív UBI precedenseket, és vészesen közel is kerültek egy változat megvalósításához.
+Erre jött a Speenhamland-i negatív precedens, ami megkérdőjelezett mindent, és visszaerősítette a "lusta szegények" sztereotípiát.
+Végül csak úgy sikerült (volna?) áthúzni a javaslatot, ha munkához kötött.
+Ez a narratíva-fordulat viszont idővel a teljes rendszer megvetéséhez vezetett, mert az emberek fejében az rakódott le, hogy csak az szorul segélyre, aki nem dolgozik rendesen, és ez milyen gáz már.
 
-- Nixon-ék látták a pozitív precedenseket
-    - erre jött a Speenhamland-i negatív precedens, ami megkérdőjelezett mindent, és visszaerősítette a "lusta szegények" sztereotípiát
-    - végül csak úgy sikerült (volna?) áthúzni a javaslatot, ha munkához kötött
-        - ami viszont idővel a teljes rendszer megvetéséhez vezetett, mert az emberek fejében az rakódott le, hogy csak az szorul segélyre, aki nem dolgozik rendesen, és ez milyen gáz már
-- Speenhamland riport
-    - egyértelműen elítéli az UBI kísérletet
-    - és amint megszűnt, az embereknek egyből helyrejött a morális és gazdasági érzéke, eltűnt a lustasága, és újra hasznos tagjai lettek a közösségnek
-    - a baj csak az, hogy a riport nagyját bármilyen visszajelzés gyűjtése vagy adatok elemzése előtt már megírták, az elit véleménye szerint
-        - modern szemmel nézve teljesen elfogadhatatlan a benne lévő ok-okozati viszonyok tudományossága, a következtetések általánosíthatósága/validitása, stb.
-    - de a Mincome-os adatokkal ellentétben (amik helyesen lettek feldolgozva, mégsincs semmi hatásuk), itt a szemfényvesztésnek is erős hatása lett, még 150 évvel később is, amikor kisiklatta Nixon kezdeményezését
+A Speenhamland riport egyértelműen elítéli az 150 évvel korábbi, angliai UBI kísérletet.
+És amint megszűnt, a riport állítása szerint az embereknek egyből helyrejött a morális és gazdasági érzéke, eltűnt a lustasága, és újra hasznos tagjai lettek a közösségnek.
+A baj csak az, hogy modern történészek szerint a riport nagyját már bármilyen visszajelzés gyűjtése vagy adatok elemzése **előtt** megírták, az elit véleménye szerint.
+Mai szemmel nézve teljesen elfogadhatatlan a benne lévő ok-okozati viszonyok tudományossága, a következtetések általánosíthatósága/validitása, stb.
+De a Mincome-os adatokkal ellentétben (amik helyesen lettek feldolgozva, még sincs szinte semmi hatásuk), itt a szemfényvesztésnek is erős hatása lett másfél évszázaddal később, amikor kisiklatta Nixon UBI kezdeményezését.
 
+Nixon visszafordult, Carter már bele sem fogott, Clinton pedig visszaállította a segélyezést olyan szintre, ahol újra szívességként kezelték, nem jogként.
+Megint az egyén morális fejlesztése lett a cél, mint ahogy a Speenhamland-i elit is fröcsögte, és ez most is tart.
+És nem csak Amerikában...
 
-- ezek miatt Nixon visszafordult, Carter már bele sem fogott, Clinton pedig visszaállította a segélyezést olyan szintre, ahol újra szívességként kezelték, nem jogként
-    - megint az egyén morális fejlesztése lett a cél, mint ahogy a Speenhamland-i elit is fröcsögte
-    - >> Anywhere you find poor people, you also find non-poor people theorizing their cultural inferiority and dysfunction. -- Matt Bruenig
+> Ahol találni szegényeket, ott mindig lesznek olyan nem-szegények is, akik a szegények kulturális alsórendűségén és életképtelenségén elmélkednek.
+>
+> -- Matt Bruenig
+>> Anywhere you find poor people, you also find non-poor people theorizing their cultural inferiority and dysfunction.
 
-- de pontosan ilyenkor kell emlékezni, hogy ennek nem feltétlen kellett ám így történnie!
-    - ugyanilyen lehetetlennek tűnt a női egyenjogúság, vagy a rabszolgaság eltörlése
-
-> > Work is the refuge of people who have nothing better to do. -- OSCAR WILDE
+De pontosan ilyenkor kell emlékezni, hogy ennek nem feltétlen kellett ám így történnie!
+Ugyanilyen lehetetlennek tűnt a női egyenjogúság, vagy a rabszolgaság eltörlése is, amíg be nem következtek.
 
 <br>
 
@@ -552,33 +557,44 @@ Valamekkora egyenlőtlenség nyilván szükséges és elvárható, de a modern v
 
 ## <a name="meroszamok"></a>A mérőszámokról
 
-- a GDP (gross domestic product, vagyis az éves termékek és szolgáltatások összértéke) egy csomó mindent nem számol
-    - hol számít, hogy tiszta-e a levegő? önkéntes/jótékonysági munka? gyereknevelés? takarítás? bármi fekete munka, ami után nincs papírnyom?
-    - hol számít, hogy haladunk? mert a technológiai fejlődés nem csak jobbá, hanem olcsóbbá is teszi a készülékeket... ha ugyanannyit vennénk, mint tavaly, akkor is haladtunk volna, a GDP nem hogy nullán lesz, hanem vissza is esik
-    - nagyon vigyázni kell, hogy milyen metrikára optimalizálunk, mert onnantól kezdve, hogy csak egy számra fókuszálunk, hatalmas faszságokra is hajlandóak leszünk, ha az épp növeli a számot egy kicsit
-        - a dugók, a drogok, és a félredugás mind nagyszerű dolgok, mert csak úgy hajtják a vizet az olajvállalatok, a gyógyszercégek és az ügyvédek malmára
-        - a mentális betegségeket egyből jobb lesz kezelni, mint megelőzni, mert az növeli a GDP-t -- ugyanez az elhízásra, a környezetszennyezésre, a bűnözésre, stb.
-        - kis túlzással: egyik nap azért ássuk a gödröket, hogy másnap legyen mit betemetni
-- nem volt ez mindig szar
-    - és még most is kb. jól korrelál az általános jóléttel azokon a helyeken, ahol továbbra is az ételhiány miatt vannak éhezők és a házhiány miatt vannak hajléktalanok
-    - és azt is jól mutatta, hogy ki mennyire háborúzhat - mert olyankor bizony tényleg nem árt kölcsönöket felvenni, extra robotban dolgozni, és akár egy kis környezetszennyezést is beáldozni a győzelemért
-    - viszont napjainkban, ahol béke van, és a gazdagság megüt egy bizonyos szintet (nevezzük ezt a "fejlett világnak"), ott a GDP egy borzasztóan perverz és káros metrika
-        - csak nyomja és nyomja a fogyasztói társadalmat, a boldogságot/biztonságot/egészséget/jólétet viszont annál kevésbé
-- minden kornak kell egy saját metrika
-    - a 18. századnak ott volt a termés mérete
-    - a 19. századnak ott volt a vasúthálózat mérete vagy a szénkitermelés mértéke
-    - a 20. századnak ott volt a GDP
-    - de most már a 21. század van, és illene a de facto fejlődési metrikánkat is ehhez igazítani!
-- alternatívák
-    - boldogság index - de hát az se jó (és nem is realisztikus), hogy mindig boldogok legyünk
-        - az "egyszer lent" részek is részei az életnek
-        - és elégedetlenség hiányában semmi nem hajtana előre, a következő utópia felé
-    - Genuine Progress Indicator (GPI) and the Index of Sustainable Economic Welfare (ISEW)
-    - Human Development Index
-    - de a szerző ezekkel szemben is szkeptikus, mert nem nagyon lehet egy számra visszavezetni a jólétet
-        - ami jobb lenne, az egy csokornyi metrika, amiket együtt nézünk
-    - és maga a számokra koncentrálás már önmagában gond -- annak a jele, hogy elvesztettük a víziónkat
-        - nem tudjuk, merre akarunk haladni, ezért tapogatózunk, és mérjük, hogy jobb lett-e, amerre léptünk
+A társadalmi jólét de facto szabványa napjainkban a GDP, vagyis a **G**ross **D**omestic **P**roduct, az éves termékek és szolgáltatások összértéke.
+Ám ez egy csomó mindent nem számol!
+Hol számít például, hogy tiszta-e a levegő?
+Hogy mennyi az önkéntes/jótékonysági munka?
+Hogyan megy a gyereknevelés?
+Közösség építés?
+Akár bármiféle "fekete" munka, ami után nincs papírnyom?
+
+Illetve: hol számít, hogy haladunk?
+Mert a technológiai fejlődés nem csak jobbá, hanem olcsóbbá is teszi a készülékeket.
+Ha ugyanannyit vennénk, mint tavaly, akkor is haladtunk volna, de a GDP nem hogy nullán lesz, hanem vissza is esik.
+
+Nagyon vigyázni kell tehát, hogy milyen metrikára optimalizálunk, mert onnantól kezdve, hogy csak egy számra fókuszálunk, hatalmas faszságokra is hajlandóak leszünk, ha az épp növeli a számot egy kicsit.
+Hirtelen a dugók, a drogok, és a félrekefélés mind nagyszerű dolgokká válnak, mert csak úgy hajtják a vizet az olajvállalatok, a gyógyszercégek és a válóperes ügyvédek malmára.
+A mentális betegségeket egyből jobb lesz kezelni, mint megelőzni, mert az növeli a GDP-t -- ugyanez az elhízásra, a környezetszennyezésre, a bűnözésre, stb.
+Kis túlzással mondhatni, hogy az egyik nap azért ássuk a gödröket, hogy másnap legyen mit betemetni.
+
+Azt azért nem mondjuk, hogy a GDP halva született ötlet.
+Még most is kb. jól korrelál az általános jóléttel azokon a helyeken, ahol továbbra is az ételhiány miatt vannak éhezők és a házhiány miatt vannak hajléktalanok.
+És azt is jól mutatta, hogy ki mennyire háborúzhat -- mert olyankor bizony tényleg nem árt kölcsönöket felvenni, extra robotban dolgozni, és akár egy kis környezetszennyezést is beáldozni a győzelemért.
+Viszont napjainkban, ahol béke van, és a gazdagság megüt egy bizonyos szintet (nevezzük ezt a "fejlett világnak"), ott a GDP egy borzasztóan perverz és káros metrika!
+Csak nyomja és nyomja a fogyasztói társadalmat, a boldogságot/biztonságot/egészséget/jólétet viszont annál kevésbé.
+
+Minden kornak kell egy saját metrika.
+A 18. századnak ott volt a betakarított termés mennyisége.
+A 19. századnak ott volt a vasúthálózat hossza vagy a szénkitermelés mértéke.
+A 20. századnak ott volt a GDP.
+De most már a 21. század van, és illene a fejlődési metrikánkat is ehhez igazítani!
+
+Milyen alternatívák léteznek?
+Egynek ott van például a boldogság index -- de hát az se igazán realisztikus, hogy mindig boldogok legyünk, bárhogy is mérjük.
+Az "egyszer lent" részek is részei az életnek.
+És különben is, elégedetlenség hiányában semmi nem hajtana előre, a következő utópia felé.
+Lehetőségek még a [Genuine Progress Indicator](https://en.wikipedia.org/wiki/Genuine_progress_indicator){:target="_blank"}, az [Index of Sustainable Economic Welfare](https://en.wikipedia.org/wiki/Index_of_Sustainable_Economic_Welfare){:target="_blank"}, vagy a [Human Development Index](https://en.wikipedia.org/wiki/Human_Development_Index){:target="_blank"}, de a szerző ezekkel szemben is szkeptikus egy kicsit, mert nem nagyon lehet egy számra visszavezetni a jólétet.
+Ami jobb lenne, az egy csokornyi metrika, amiket együtt nézünk.
+Illetve maga a számokra koncentrálás önmagában is lehet gond -- annak a jele, hogy elvesztettük a víziónkat.
+Nem tudjuk, merre akarunk haladni, ezért tapogatózunk, és mérjük, hogy jobb lett-e, amerre léptünk.
+Vagyis a legjobb (bár eléggé megfoghatatlan) metrika talán az lenne, hogy milyen közel járunk a legközelebbi utópiához...
 
 <br>
 
@@ -657,14 +673,15 @@ Hogy amikor beüt a krízis, legyen alternatíva!
 
 ## Összefoglalás
 
-A háttérben meghúzódó piaci és szociális összefüggésekbe egyáltalán nem mélyedünk bele -- ami nem is baj, mert azokat a részeket valószínűleg úgy sem érteném.
-Szóval a közgáz diplomám továbbra sem indokolt.
+Hú, ez megint jó húsos lett.
+És a háttérben meghúzódó piaci és szociális összefüggésekbe még így sem mélyedünk bele igazán -- ami nem is baj, mert azokat a részeket valószínűleg úgy sem érteném.
 A konkrét törvényalkotáshoz szükséges szintű letisztultságról szintén szó nincs.
 De szerintem ez nem is volt cél.
 
-Cél volt viszont, hogy példákat lássunk ezekre a látszólag nevetségesen optimista, naivan utópisztikus gondolatokra.
-Kevesebb munka, ingyen pénz, érték- és egyenlőség-központúbb adóztatás...
+Cél volt viszont, hogy példákat lássunk egy pár látszólag nevetségesen optimista, naivan utópisztikus gondolatra.
+Kevesebb munka, ingyen pénz, érték- és egyenlőség-központúbb adóztatás, nyílt határok...
 És habár korlátozott hatáskörben, illetve korlátozott számban, de bizony mindnél láthattuk, hogy akár a gyakorlatban is működhetnek.
+A körülöttük keringő tévhitek pedig gyakran tök indokolatlanok.
 
 Ezzel pedig eljutunk a könyv legfőbb céljához: hogy egyáltalán merjünk már álmodni!
 Akinek ez kézzelfogható adatok vagy próbakísérletek nélkül nem ment, az most kapott némi muníciót.
