@@ -4,7 +4,7 @@ title: Rutger Bregman - Utópia realistáknak
 cover: utopiaforrealists
 tags: [pénzügyek, produktivitás, szemléletmód]
 pages: 308
-date: 2022-07-17 00:01
+date: 2022-07-22 00:01
 excerpt: >
     Nem titkolt vesszőparipám, hogy a jelen technológiai fejlettsége mellett groteszknek tartom a munka szükségességét, és mindig örömmel veszem, ha valaki hajlandó kiállni a garantált alapjövedelem jövőképéért.
     De attól, hogy én személy szerint hiszek benne, a szükséges szociális és/vagy közgazdasági háttérrel eddig nem rendelkeztem, hogy a Universal Basic Income (UBI) védelmére kelhessek.
@@ -80,7 +80,7 @@ Vagyis egy másik bizonyos szemszögből itt vagyunk a disztópiában -- sajnos 
 És mielőtt elkényeztetett panaszkodással vádolnának: senki nem mondja, hogy most nem "jó".
 Pláne a múlthoz képest.
 Csak azt mondjuk, hogy egyes aspektusok **túl** jók, míg mások hanyagolásra kerültek, és ez kezd visszaütni.
-A kapitalizmus és a hihetetlen technológiai ugrások miatt sokáig megtehettük, hogy egy kb. politika és ideológia-mentes, semleges technokrácia hátán fejlődtünk fel a tejjel mézzel folyásig.
+A kapitalizmus és a hihetetlen technológiai ugrások miatt sokáig megtehettük, hogy egy kb. politika és ideológia-mentes, semleges *technokrácia* hátán fejlődtünk fel a tejjel mézzel folyásig.
 De ha innen tovább akarunk lépni, ahhoz megint politika és ideológia kell majd.
 Álmodni egy jobb világról.
 
@@ -120,7 +120,7 @@ De ha innen tovább akarunk lépni, ahhoz megint politika és ideológia kell ma
 
 John Maynard Keynes azt jósolta 1930-ból, hogy 100 éven belül mind csak 15 órát fogunk dolgozni hetente.
 És hogy a jövő legnagyobb problémája az lesz, hogy mit is fogunk kezdeni azzal a rengeteg szabadidővel.
-De már 150 évvel Keyes előtte is ott volt Benjamin Franklin, aki napi 4 órát emlegetett.
+De már 150 évvel Keynes előtte is ott volt Benjamin Franklin, aki napi 4 órát emlegetett.
 Vagy [John Stuart Mill]({% post_url 2020-06-19-john-stuart-mill-a-szabadsagrol %}) a szabadidő kultúrájával -- miszerint minél visszább kell tolni a munka kötelezettségeket, hogy helyette a művészetek és a tudományok haladhassanak.
 
 A mostanában sztenderd napi 8 óráért is meg kellett küzdeni, mert a munkáltatók természetesen ellenálltak.
@@ -197,7 +197,7 @@ De ezek már csak a vonzatok -- először hinnünk kell, hogy ez egy lehetséges
 ## <a name="penz"></a>Ingyen pénzt mindenkinek!
 
 2009-ben a britek egy "radikális" kísérletre szánták el magukat.
-Feltűnt ugyanis nekik, hogy mindössze 13 Londoni hajléktalanjuk kb. évi 400k fontba kerültek az államnak rendőri/jogi/szociális költségekben.
+Feltűnt ugyanis nekik, hogy mindössze 13 Londoni hajléktalanjuk kb. évi 400,000 fontba kerültek az államnak rendőri/jogi/szociális költségekben.
 Ehelyett úgy döntöttek, mi lenne, ha mindegyikük kapna 3000 fontot, bármiféle kötöttség nélkül?
 Csökkentené-e ez vajon az összkiadást?
 
@@ -241,7 +241,7 @@ Nyugalom, erre is van már példa.
 
 Egy Mincome nevű kísérlet során egy kiválasztott Canada-i kis községben bevezették, hogy senki nem eshet a szegénységi határ alá.
 És igen, ez még valamennyire feltételes, mert a határ feletti háztartások nem kaptak, de még így is ez az eddigi legnagyobb basic income kísérlet.
-Csak aztán a politika beleszólt, és hirtelen nem hogy a folytatására, de az addigi eredmények kielemzésére sem volt hirtelen keret.
+Csak aztán a politika beleszólt, és hirtelen nem hogy a folytatására, de az addigi eredmények kielemzésére sem maradt keret.
 
 És mit csinál ilyenkor a vezetői réteg?
 Nem kis mértékű előítélettel elkönyvelték, hogy nyilván nem volt sikeres, mert bármi ilyesmi hogy is lehetne.
@@ -260,10 +260,10 @@ Részben inkompetencia, részben telhetetlenség, részben egy statisztikai hiba
 Azóta pedig a közvélemény is sokkal inkább ellene fordult.
 Mint minden utópia, az UBI is ugyanazt a három ellenérvet kapja:
 
-- **Lehetetlen**: Nope, közgazdászok számításai szerint gyakorlatilag minden fejlett országnak beleférne a költségvetésébe, ha akarná.
+- **Lehetetlen** (vagyis, nincs rá keret): Nope, közgazdászok számításai szerint gyakorlatilag minden fejlett országnak beleférne a költségvetésébe, ha akarná.
 A kusza segélyformák és az azokat fenntartó infrastruktúra költségén szinte elfutna az egész, a maradékot meg a hadászat, vagy a luxus vagyonok megadóztatósa simán kitenné.
 
-- **Veszélyes**: Nope, mint láttuk, sehol nem ez volt a reakció.
+- **Veszélyes** (vagyis, nem maradna munkaerő): Nope, mint láttuk, sehol nem ez volt a reakció.
 Talán a művészek (akiket Bertrand Russel szerint "életükben lenézünk, haláluk után pedig magasztalunk") elfordulnának a fizető munkától, de az is munka lenne a társadalom érdekében.
 A többiek pedig dolgoznának, csak végre olyasmit (és annyit, és akkor), amit/amennyit/amikor szeretnének.
 
@@ -292,10 +292,10 @@ Lehet, hogy most még science fiction-nek hangzik, de hát az összes optimista 
 
 ## <a name="ado"></a>Érték-követő adók
 
-A szrájk megéri -- ha olyan munkát végez az ember, amire a társadalomnak tényleg szüksége van.
+A sztrájk megéri -- ha olyan munkát végez az ember, amire a társadalomnak tényleg szüksége van.
 Lásd a New York-i kukások 1968-as tüntetését, ami 6 nap alatt térdre kényszerítette a várost, vészhelyzetet hirdettek, és pár nappal későbbre érdekes módon asztalhoz ült velük a vezetés.
 
-Viszont egyre többen végeznek olyan látszat "munkát", aminél fel sem tűnne a sztájk.
+Viszont egyre többen végeznek olyan látszat "munkát", aminél fel sem tűnne a sztrájk.
 Ez szerintem nem is egy rossz kritérium arra, hogy mennyire vagyunk fontosak valójában.
 Példának lásd az ír bankárok 1970-es tüntetését, ami gyakorlatilag 6 **hónap** után sem ért el semmit.
 Persze valamiféle "pénzügyi szektorra" szükség volt, de ezt az emberek bizalmi alapon, saját pénzt "gyártva", a cserekereskedelemnél épp csak fél fokkal kifinomultabban, de mégis megoldották maguk.
@@ -304,7 +304,7 @@ Szóval a tanulság, hogy habár pénzügyi szektor kell, bankok annyira nem -- 
 Nagyon nem mindegy, hogy értéket *teremtünk*, vagy csak *átrendezzük* a már létező értéket egyik zsebből a másikba.
 És ezután jogosan merülhet fel a kérdés, hogy vajon miért az érték teremtőknek a legszarabb a fizetése, míg az átrendezőknek a legmagasabb?
 Ez valamilyen szinten vele jár a fejlődéssel: ahogy az alapvető dolgok egyre hatékonyabbak lesznek, úgy lesznek egyre olcsóbbak, és egyre kevesebb embert igényelnek, így kerülnek a többiek a szolgáltatási szektorba.
-Ennek az áramlásnak alaposan a végén járunk, de azt továbbra sem merjük elfogadni, hogy a munka nem feltétlen az élet közepe, és így a bullshit aránya egyre csak nőni fog.
+Ennek az áramlásnak alaposan a végén járunk, de azt továbbra sem merjük elfogadni, hogy a munka nem feltétlen az élet közepe, és így a bullshit állások aránya egyre csak nőni fog.
 
 > Így lesznek az ellenőröknek is ellenőrei, és olyanok, akik az ellenőrök ellenőreinek készítenek műszereket. Az emberek igazi feladata az lenne, hogy visszamennek az iskolába és folytatják, amin addig gondolkoztak, mielőtt jött valaki és azt mondta nekik, hogy dolgozniuk kell a megélhetésért.
 >
@@ -340,7 +340,7 @@ Vagy esetleg elgondolkozhatnánk, hogy miből szeretnénk megélni, és aztán h
 
 ## <a name="hatarok"></a>Nyílt határok
 
-Hogy merünk mi ilyenekről ábrándozni, amikor még mindig van, aki éhezik és hajléktalan?
+Hogy merünk mi rövid munkahétről meg ingyen pénzről ábrándozni, amikor még mindig van, aki éhezik és hajléktalan?
 Hát, emellett persze őket is igyekszünk felhúzni.
 Hogy az segélyekkel miért nem annyira megy, arra ajánlom a [Diktátorok kézikönyvét]({% post_url 2022-01-15-bruce-bueno-de-mesquita-alastair-smith-diktatorok-kezikonyve %}).
 De ha még el is jut az emberekig a segély, akkor is ki tudja, hogy tényleg azok az ingyenes könyvek vagy élelem szállítmányok vagy miegymás segítettek.
@@ -478,7 +478,7 @@ A szegények hihetetlenül találékonyak tudnak lenni a rövid távú problém�
 Ha egyszerűen **szükségük** van egy autóra, hogy be tudjanak járni vele a munkahelyre, akkor hitelt vesznek fel -- hiába fizetnek rá rengeteget a kamatokon.
 És ha egyszerűen **szükségük** van élelemre, akkor akár lopni is képesek érte -- hiába kockáztatják ezzel a jövőjüket.
 A hiány mentalitás extra opciókat fed fel az azonnali problémák megoldására, amik viszont cserébe a hosszú távot teszik tönkre.
-Csak hát ahogy beáll a hiány mentalitás, onnantól a fejben szinte csak a rövid táv létezik, a hosszú táv meg ott bassza meg.
+Ám amint beáll a hiány mentalitás, onnantól a fejben szinte csak a rövid táv létezik, a hosszú táv meg ott bassza meg.
 
 Kb. olyan ez, mintha a gazdagok olyan számítógépek lennének, amiknek csak 1-2 programot kell egyszerre futtatniuk, míg a szegényeknek huszon-harmincat, mert folyton ott lebeg a fejük felett, hogy mi lesz vacsorára, vagy hogy lesz-e egyáltalán vacsorára valami.
 Vagyis a szegény ember nem azért hoz rosszabb döntéseket, mert hülye, hanem mert a szegénység kontextusában mások is olyan döntéseket hoznának (vagy legalábbis sokkal többen).
@@ -486,7 +486,8 @@ Vagyis a szegény ember nem azért hoz rosszabb döntéseket, mert hülye, hanem
 Hogy van-e erre kísérlet, kérdezhetnénk?
 Hát naná, hogy van.
 Véletlenszerűen válogatott embereket helyeztek egy váratlan kiadást szimuláló szituációba, miközben IQ teszteket töltettek velük.
-Egy kisebb kiadás esetén a gazdagok és a szegények kb. egyformán teljesítettek (mert az még mindkét csoportnak relatíve szívroham nélkül belefért volna), viszont egy nagyobb kiadás mellett a szegények 13 ponttal kevesebbet teljesítettek.
+Egy kisebb kiadás esetén a gazdagok és a szegények kb. egyformán teljesítettek (mert az még mindkét csoportnak relatíve szívroham nélkül belefért volna a büdzsébe), viszont egy nagyobb kiadás mellett a szegények 13 ponttal kevesebbet teljesítettek.
+Tizenhárom!
 Ez megfelel egy teljes éjszakányi kialvatlanságnak vagy egy tartós alkoholizmusnak!
 Csak azzal, hogy **elképzeltettek** velük egy olyan kiadást, ami nem fér bele a költségvetésükbe.
 
@@ -588,7 +589,7 @@ De most már a 21. század van, és illene a fejlődési metrikánkat is ehhez i
 
 Milyen alternatívák léteznek?
 Egynek ott van például a boldogság index -- de hát az se igazán realisztikus, hogy mindig boldogok legyünk, bárhogy is mérjük.
-Az "egyszer lent" részek is részei az életnek.
+Az "egyszer lent" fázisok is részei az életnek.
 És különben is, elégedetlenség hiányában semmi nem hajtana előre, a következő utópia felé.
 Lehetőségek még a [Genuine Progress Indicator](https://en.wikipedia.org/wiki/Genuine_progress_indicator){:target="_blank"}, az [Index of Sustainable Economic Welfare](https://en.wikipedia.org/wiki/Index_of_Sustainable_Economic_Welfare){:target="_blank"}, vagy a [Human Development Index](https://en.wikipedia.org/wiki/Human_Development_Index){:target="_blank"}, de a szerző ezekkel szemben is szkeptikus egy kicsit, mert nem nagyon lehet egy számra visszavezetni a jólétet.
 Ami jobb lenne, az egy csokornyi metrika, amiket együtt nézünk.
