@@ -180,7 +180,7 @@ Nem tudom, ki ismerős a "grindset" vagy a "struggle porn" kifejezésekkel, de s
 
 Legyen ehelyett közös cél és vízió, hogy tovább csökkenjen a munka.
 Ez feladja majd a leckét, mert A) el kell hinni, hogy lehetséges; B) meg kell tanulni nem lustaságként tekinteni rá; és C) nyilvánosan fel kell vállalni, hogy igazából tényleg ezt szeretnénk!
-Ideje leválasztani magunkat a potestáns moralitástól, hogy majd akkor semmirekellők leszünk, csak TV-zünk, lopjuk a napot, stb.
+Ideje leválasztani magunkat a protestáns moralitástól, hogy majd akkor semmirekellők leszünk, csak TV-zünk, lopjuk a napot, stb.
 
 Ha majd a mentalitás és a közvélemény nagyobb egyetértésbe kerül, onnantól jöhet a politikai támogatás.
 Meg persze újra előkerülhet az oktatás szerepe, hiszen akkor majd egyre hangsúlyosabb lesz, hogy a munkaerőpiac mellett az életre készítsen.
