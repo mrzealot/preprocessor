@@ -3,9 +3,9 @@ layout: post
 title: A megszállottság hátrányairól
 cover: fanatismbad
 tags: [szösszenet]
-date: 2022-07-29 00:01
+date: 2022-07-30 00:01
 excerpt: >
-    TODO
+    Egy korábbi séta alkalmával érdekes párhuzamba botlottam A zen meg a motorkerékpár-ápolás művészetét író Robert Pirsig, az Út a vadonba című könyvből híres Chris McCandles, és a Zabhegyezőből ismert Holden Caulfield között...
 ---
 
 Egy korábbi séta alkalmával érdekes párhuzamba botlottam.
@@ -25,13 +25,15 @@ Szép és jó, ha az ember nem csak úgy sodródik az élet hullámain, de azér
 Stoppolt, túrázott, evezett, kempingezett, "csavargott".
 Amit elvi alapon meg is értek, és amivel praktikus szempontból még nem is lenne semmi baj, ha tudná a határt.
 De nem, neki egyedül, relatíve tapasztalatlanul, megfelelő felszerelés és élelem *nélkül* kell az Alaszkai vadonba mennie, télen.
-Ott is maradt szegény.
+Ott is maradt szegény -- hiába találta meg a "Varázsbuszt" egy átmeneti menedéknek.
 Szóval habár hatásos reklám az egyszerű, jelenbeli életnek, nehéz nem kesernyés szájízzel távozni a kasszától.
 
 [Holden Caulfield]({% post_url 2020-11-28-j-d-salinger-zabhegyezo %}) egy sokkal visszafogottabb, mégis hasonló példa.
-
-
-
+Annyira vigasztalhatatlanul ragaszkodott az emberi kapcsolatok nyers hamis-talanságához, hogy cserébe pont az a flexibilitást adta fel, ami lehetővé tette volna az emberi kapcsolódást.
+Valamilyen szinten ez is az előző két delikvens modern *bullshit* elleni lázadása, és valamilyen szinten ezt is meg tudom érteni.
+Manapság valószínűleg tényleg messzebb sodródtunk a képmutatás és a manipuláció irányába, mint amennyire az evolúciós szempontból feltétlen szükséges.
+De ez azért nem jelenti, hogy a gyermeki ártatlanság a végtelenségig kihúzható, vagy hogy a kompromisszumkészség kikerülhető.
+Mondjuk Holden legalább "csak" az elmegyógyban kötött ki, nem a temetőben...
 
 Közös tanulságnak levonhatjuk tehát -- és ha mást nem, már csak önvédelemből érdemes is levonni ezt a tanulságot: a nemes cél és a jó háttér motiváció nem védenek meg attól, hogy túlzásba vigyük.
 Ha nem ellensúlyozza őket az ember némi mértékletességgel és józan paraszti ésszel, akkor bele fog őrülni (vagy halni).
@@ -42,6 +44,5 @@ Ha például egy filozófia megtestesítése a cél, akkor legyünk inkább [Sen
 Legtöbbször pont az ellen prédikálok, hogy ne engedjünk a társadalmi alapértelmezésnek; hogy ne engedjük letörni a lelkesedésünket és a különcségünket; hogy merjünk kiállni az értékeinkért.
 De hát többek között ezért is olyan jó dolog az olvasás.
 Mert így más kárára átpillanthatunk a ló másik oldalára, és láthatjuk, hogy bizony ott sem olyan zöld a fű, mint a prospektuson.
-
 Nem tán megint az [arany középút]({% post_url 2020-06-26-bertrand-russel-a-nyugati-filozofia-tortenete-1 %}#arisztotelész-etikája) lesz a megoldás?
 Bakker, ez az Arisztotelész tudott valamit...
