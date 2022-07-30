@@ -17,7 +17,7 @@ Az, hogy mind ráfaragtak a fanatizmusukra.
 
 [Robert Pirsig]({% post_url 2022-03-30-robert-m-pirsig-a-zen-meg-a-motorkerekpar-apolas-muveszete %}) filozófiai munkásságát ugye tárgyaltuk.
 De itt most nem is az a lényeg, amit csinált, hanem **ahogy** csinálta.
-Annyira mélyen beleásta magát a világ metafizikai értelmezésébe, illetve az alanyi és a tárgyi dualiás összeegyeztetésébe, hogy a végén gyakorlatilag szó szerint beleőrült.
+Annyira mélyen beleásta magát a világ metafizikai értelmezésébe, illetve az alanyi és a tárgyi dualitás összeegyeztetésébe, hogy a végén gyakorlatilag szó szerint beleőrült.
 Szép és jó, ha az ember nem csak úgy sodródik az élet hullámain, de azért talán az üres szobában és néma csendben gubbasztó, magunk alá hugyozó vegetálásig sem kéne elvinni az egzisztenciális krízisünket.
 
 [Chris McCandles](https://en.wikipedia.org/wiki/Chris_McCandless){:target="_blank"} a katatónia helyett inkább a menekülést választotta.
@@ -29,7 +29,7 @@ Ott is maradt szegény -- hiába találta meg a "Varázsbuszt" egy átmeneti men
 Szóval habár hatásos reklám az egyszerű, jelenbeli életnek, nehéz nem kesernyés szájízzel távozni a kasszától.
 
 [Holden Caulfield]({% post_url 2020-11-28-j-d-salinger-zabhegyezo %}) egy sokkal visszafogottabb, mégis hasonló példa.
-Annyira vigasztalhatatlanul ragaszkodott az emberi kapcsolatok nyers hamis-talanságához, hogy cserébe pont az a flexibilitást adta fel, ami lehetővé tette volna az emberi kapcsolódást.
+Annyira vigasztalhatatlanul ragaszkodott az emberi kapcsolatok nyers hamis-talanságához, hogy cserébe pont azt a flexibilitást adta fel, ami lehetővé tette volna az emberi kapcsolódást.
 Valamilyen szinten ez is az előző két delikvens modern *bullshit* elleni lázadása, és valamilyen szinten ezt is meg tudom érteni.
 Manapság valószínűleg tényleg messzebb sodródtunk a képmutatás és a manipuláció irányába, mint amennyire az evolúciós szempontból feltétlen szükséges.
 De ez azért nem jelenti, hogy a gyermeki ártatlanság a végtelenségig kihúzható, vagy hogy a kompromisszumkészség kikerülhető.
