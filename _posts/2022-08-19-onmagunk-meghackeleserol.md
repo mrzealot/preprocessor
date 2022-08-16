@@ -29,7 +29,7 @@ Milyen jó is lenne már, ha a való életben is csak így át tudnánk állíta
 
 Szerencsére azért lerakódni látszik ez-az az olvasmányaim során, mert ahogy a fenti nyavalygás felötlött bennem, szinte azonnal jött rá a felismerés: de hát a való életben is így van!
 Gyakorlatilag **pont** így -- épp csak lassabban.
-Semmi nem gátol benne, hogy a belepiszkáljunk a változóinkba, de itt a sebesség növeléséhez mondjuk rendszeresen futni kell, nem egy számot átállítani.
+Semmi nem gátol benne, hogy belepiszkáljunk a változóinkba, de itt a sebesség növeléséhez mondjuk rendszeresen futni kell, nem egy számot átállítani.
 A helikopter pilótaprogramjához meg egy tanfolyam kell, nem pár másodpercnyi gyors szemmozgás, amíg az operátor betölti az agyunkba.
 De ezzel mindössze nehezítettük egy kicsit a folyamatot, nem pedig ellehetetlenítettük!
 
