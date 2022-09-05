@@ -10,60 +10,12 @@ excerpt: >
 ---
 
 
+Nagoski tapasztalatai szerint a legtöbb, nagyon specifikus (és esetenként grafikus) szexuális kérdés hátterében általában az a kérdés bújik meg: Normális vagyok?
+És az esetek túlnyomó többségében a válasz: Igen.
 
-https://moly.hu/konyvek/emily-nagoski-ugy-ahogy-vagy
-
-
-
-
-## Olvasás előtti TED TED-es tanulságok:
-
-A pozitív vs. negatív ingerek mind kontextusfüggőek
-    
-
-
-
-Hosszú távú kapcsolatokban akkor lesz szex, ha
-    1. stabil a kapcsolat alapjául szolgáló barátság, és
-    2. prioritást csinálunk belőle
-    - vagyis: ha bírjuk a másik felet, megbízunk benne, és aztán vesszük is a fáradságot, hogy a minden más elfoglaltsági opció helyett tudatosan helyet szorítsunk a szexnek a napirendünkben
-
-    - NEM attól függ, hogy mennyire gyakran csináljuk/tuk, mennyire kalandosan/vadul/különlegesen csináljuk, mennyire vagyunk szex mániások, hogy milyen gyakran jut eszünkbe, mennyire fókuszálunk a testi örömökre, stb.
-
-Spontán vágy vs. Reagáló(?) vágy
-    - nem jelenti azt, hogy nem tudnád élvezni a "partit" attól, hogy nem neked jutott eszedbe, vagy hogy röviddel előtte épp nem is érzed úgy, hogy kedved lenne menni
-    - a spontán majd bedobja, hogy *legyen* - a reagálónak meg menet közben jön meg a kedve hozzá - de ahhoz előbb bele kellett mennie, hogy felöltözik hozzá, odamegy és ad neki egy esélyt
-
-A vágy egyszerre függ egy gázpedáltól és egy féktől
-    - dual control model
-    - és legtöbbször nem az a gond a vágy látszólagos hiánya esetén, hogy nem nyomjuk a gázt, hanem hogy mellé a féket is tapossuk
-
-
-
-## Jegyzetek
-
-- tl;dr minden fejezet végén, ami marha jó
-    - beépített vázlat, hogy az olvasó koncentrálhasson az olvasásra!
-
-
-## Tartalom
-
-#### Igen, normális vagy!
-
-- A legtöbb, nagyon specifikus (és esetenként grafikus) szexuális kérdés hátterében általában az a kérdés bújik meg: Normális vagyok?
-    - Az esetek túlnyomó többségében a válasz: Igen.
 - A nőkön lesz a hangsúly, mert habár a "szexuális felvilágosodás" már tart egy ideje, eddig leginkább a férfiakkal, az ő testi működésükkel, és az ő vágyaikkal foglalkoztunk
     - A női szexualitás a férfi szexualitás "light" változata volt
     - A férfiak adták a kiindulási alapot, a "normális" baseline-t, és ahol a nők ezt nem ütötték meg, ott hibára gyanakodtunk, nem különbségre (és igen, ez így visszatekintve elég égő)
-- Egy példa: vaginális orgazmus - 25% vs. a maradék 75% - és ők is "normálisak" ám!
-    - Nekik lehet manuális izgatás kell, vagy orális, vagy (a könyv vicces, és mégis szerintem nagyon fontos és sokatmondó példájával élve) lábujj szopkodás
-    - Nekem ez személy szerint fura - de miért is ne lehetne, hogy valakinek pont az kell - és ugye mindenkinek személyre szabva kéne felfedeznie, hogy neki mi is kell, hogy aztán felvállalhassa (és szerethesse) hogy neki mi kell
-    - There's no accounting for taste!
-- Egy másik a fizikai és a mentális állapot kompatibilitása
-    - Csak mert a... khmm... "fizikailag merev" férfinak általában a hangulata is szexre kész, attól még a nőknél lehet olyan, hogy a nedvesség nem akkor és csak akkor lép fel
-    - "arousal nonconcordance" --> erre kell a "rendes" magyar név
-- Harmadik példa: vágy típusok, spontán vs. reagáló
-    - És mivel a férfi gyakran spontán, ezért a nőtől is ez az elvárt?
 - Persze férfiakból is előfordulhatnak olyanok, akik nem felelnek meg a de facto férfi szexualitás standard-nek
     - És még akik meg is felelnek, azoknak sem árt a fejtágítás, hogy kicsit jobban megérthessék a partnerüket (és magukat, és az opciókat...)
 
@@ -76,138 +28,70 @@ A vágy egyszerre függ egy gázpedáltól és egy féktől
 
 
 
-### Alapok
 
-#### A test, vagy Anatómia
+[Úgy, ahogy vagy](https://moly.hu/konyvek/emily-nagoski-ugy-ahogy-vagy){:target="_blank"}
 
-- minden nemiszerv ugyanazokból a részekből áll, csak különböző konfigurációkban :)
-- minden kultúra megpróbál egy nagy J-betűs Jelentést tulajdonítani a nemek biológiai különbségeinek, aminek általában sokkal több köze van az aktuális kultúrához mint a biológiához
-- ugyanúgy, ahogy (alapesetben) minden embernek két keze, két lába, két szeme, stb. van, és mégsem teljesen egyformák
-    - sőt, mindegyikünk egyedi - kombinatorikus robbanás, ami csak konfigurálható, azt a változatosság konfigurálja is
-- a férfi/nő határ sem más, mint ugyanazoknak a komponenseknek egy kicsit más megjelenése/elrendeződése - homológok
-    - pénisz = csikló
-    - here = petefészek
-    - herezacskó = nagyajkak
-    - clitoral hood = foreskin
-    - >> Two different ways of functioning, one shared biological origin.
-    - ez az egész az interszex (hermafrodita) dolgot is szépen magyarázza
-- a csikló nagy része láthatatlan
-    - és ugyanazokból a vérbőség hatására merevedő, üreges részekből állnak, mint a pénisz
-    - a pénisszel szemben itt nincs más cél, csak a stimuláció (sem a behatolásért, sem a vizelésért, sem a megtermékenyítésért nem felel), úgyhogy ha a stimuláció a cél, akkor nem árt tudni, hogy hol van!
-- kis/nagyajkaknál sokféle méret, szín, szőr mennyiség - amíg nincs fájdalom, addig minden egészséges és normális!
-- szűzhártya - evolúciós maradvány melléktermék
-    - van, akinek egyáltalán nincs; van, akinek még menopausa után is van
-    - nem mindig szakad; van, hogy begyógyul; van, akinek eleve lyukas...
-    - egy funkcióval bíró férfi rész homológja, de ugyanúgy értelmetlen női esetben, mint ahogy a mellbimbó értelmetlen a férfiakon
-    - mégis a kultúra rengeteg mítoszt sző köré, aminek valós következményei lehetnek (szüzesség, erőszak tagadás, stb.)
-- az megint kulturális, hogy a férfiaknál a merevedést állítjuk a középpontba, míg a nőknél a nedvesedést
-    - pedig a férfiak is nedvesednek (előejakulátum), és a nők is merevednek
-- a női ejakuláció is olyan melléktermék, mint a szűzhártya vagy férfi mellbimbó
-    - csak mivel ritka, ezért a pornó-piac rákapott
-- nincs értelme szigorúan csoportosítani, mert sokszor nagyobb lesz a variancia a csoportokon belül, mint a csoportok között
-    - példa a magasság, ahol a férfiak és a nők között kevesebb, mint akár a férfiak, akár a nők csoportjában, maguk között
+A tartalom a következőképp alakul:
 
-- látásmód váltás:
-    1. nézzük magunkat a tükörben (vagy selfie kamerával), minden nap, és írjuk le, hogy mi tetszik (és CSAK azt, hogy mi tetszik)
-    2. kérjünk meg valakit, hogy nézzen meg minket, és mondja meg, hogy neki mi tetszik
-    - ha a pozitívumokra fókuszálunk, idővel egyre több lesz (és egyre kevésbé fognak számítani a fejünkben létező negatívumok)
+- [A test](#test)
+- [Az agy](#agy)
+- [Kontextus](#kontextus)
+- [Érzelmek](#erzelmek)
+- [Kultúra](#kultura)
+- ["Egyet nem értés"](#egyetnemertes)
+- [Vágy típusok](#vagy)
+- [Orgazmus](#orgazmus)
+- [Hozzáállás](#hozzaallas)
 
-- fő üzenet: ugyanazok az alkotóelemek, máshogy összerakva!
-    - és ez a fizikai mellett a vágy mentális vetületeire is vonatkozik, mint majd látni fogjuk
-
-- a jelenleg domináns kulturális metaforák (és az azokkal járó morális ítéletek) helyett: kert metafora
-    - a szexualitásunk egy kert, amihez egy egyedi kis telket kapunk (hardware)
-    - ide a családunk és a kultúránk elültet dolgokat és tanítgat minket a gondozására, amíg majd át nem vehetjük
-    - de amint átvesszük, miénk a felelősség a gondozásáért!
-        - ha nem jó a művelési módszertan, amit tanítottak velünk, akkor találjunk másikat
-        - ha nem jó magokat vetettek el (ami a mi földünkben nem érzi jól magát), akkor gyomláljunk, és/vagy vessünk helyette mást
+<br>
 
 
-#### Az agy
-
-- Kettős kontroll modell...
-
-- az túl test-hangsúlyos, ha úgy tekintünk az emberi szexualitásra, mint izgatás/orgazmus/lenyugvás
-    - mert oké, akinek tényleg valami testi baja akad, azokon hatékonyabban segíthetünk azóta, amióta ezeket vizsgáljuk
-    - de ebből a modellből hol a vágy?
-    - akik bementek a laborba ilyen kísérleteket végezni, náluk nyilván csak a testi tüneteket vizsgálták
-    - de hogy jutnánk a testi tünetekig, ha mondjuk nem akarunk bemenni a laborba?
-- egy jobb modell, ha a vágy az első, aztán az izgalom/orgazmus/lenyugvás
-    - és ez szépen elő is hozta, hogy az emberek túlnyomó többségének a vágy résszel van gondja
-    - úgyhogy erre még mélyebben rászálltak, de itt már inkább az agykutatók/pszichológusok
-- így lett a duál kontroll modell
-    - amiről visszatekintve remélhetőleg ugyanúgy nem értjük majd, hogy hogy maradhatott ki, mint a tisztán testi modellből a vágy
-
-> > Daniel Kahneman wrote of his own Nobel Prize–winning research in economics, “You know you have made a theoretical advance when you can no longer reconstruct why you failed for so long to see the obvious.”
-
-- mivel a test idegrendszere és hormonháztartása kb. mindent serkentő és gátló hatásokkal tart egyensúlyban, így talán nem meglepő, hogy a szexuális vágynál is pont ez a helyzet
-    - ennek nyilván van egy nagyon biokémiás, nagyon latin szavas magyarázata, de igazából már ez az egyszerű, magas szintű gondolat önmagában is megváltoztathatja az egész hozzáállásunkat
-    - a vágy nem "vagy van, vagy nincs" - a vágy a "mennyire legyen" és a "mennyire NE legyen" jelek relatív erősségének fényében áll elő
-    - magyarán: a vágyhoz nem csak egy gáz pedál létezik, hanem egy fék is. a vágy érzetünk pedig a gáz és a fék pedálunk taposási erősségének *különbsége*!
-- praktikus szempontból ez azért fontos, mert végre felismerhetjük: a vágy hiánya nem csak akkor áll elő, ha nincs gáz, hanem akkor is, ha túl sok a fék (hiába nyomjuk esetleg a gázt is mellette)
-    - a problémák diagnosztizálásához tehát először is érdemes tudni, hogy a gáz a túl kevés, vagy a fék a túl sok
-
-- nagy gáz, kis fék: gyorsan reagálunk a szexuális ingerekre, és nem nagyon van "kontroll" mellette
-    - sok partner, sok egy éjszakás kaland, nem aggódnak annyira a fogamzásgátláson, több szexuális kockázatot vállalnak, kísérleteznek, stresszoldásra is használják a szexet (míg másoknál a stressz hatására általában ugye lelohad a vágy)
-    - kb. 2-6%
-- kis gáz, nagy fék: azt nagyon élesen érzik, hogy miért NE induljanak be, és a tudatos beindulás is lassú
-    - mindennek stimmelnie kell, hogy egyáltalán esély legyen a vágyra; mi lesz, ha terhesség lesz?!; mi lesz, ha elkap valamit; jajj, túl sokáig tart.
-    - ebben nem is a gázt nyomni nehéz (hiába "kicsi" a gáz) -- sokkal több munka a fékeket elég ideig kioldva tartani, hogy a gáznak hatása lehessen
-    - kb. 1-4%
-
-- szóval lehet aránytalan hangsúly a gáz irányába is, de a probléma szinte mindig a túlérzékeny fékekkel van
-- a férfiaknál *általában* erősebb a gázpedál érzékenysége, míg a nőknél a féké
-    - de ez kb. ugyanaz, mint a magasságnál: nagyobb lesz a variancia a csoportokon belül, mint a csoportok között
-    - a lényeg, hogy magunkat megismerjük, és így célzottan tudjuk megteremteni magunknak a legjobb környezetet a szexualitásunk kiéléséhez
-
-- és a környezet bizony számít
-    - patkányos kísérlet a cirtom illatról (tanult gáz) és a hámról (tanult fék), de még a készséges partner felismeréséről is
-- hogy ez miért számít? mert a gáz/fék érzékenységünk nem igazán állítható -- viszont az, hogy mire reagálnak, az igen!
-    - mint látjuk, semmi nem veleszületett, sem a jó, sem a rossz oldalon
-    - a vadon élő patkányok keresztbe leszarják, hogy a nőstény citrom illatú-e, de ha a laborban ezt tanulták meg a szexiséggel asszociálni, akkor egyből gáz-taposó tényező lesz belőle
-    - minket sem állít meg semmi, hogy átértékeljük az életünk (külső és belső) ingereit
 
 
-#### Kontextus
 
-- kontextus = a pillanatnyi körülmények (kivel vagyunk, hol vagyunk, biztonságos vagy rizikós-e a helyzet, megszokott-e vagy ismeretlen) + pillanatnyi mentális állapot (relaxáltság, bizalom szint, stb.)
-    - ez határozza meg, hogy mire hogy reagálunk
-    - és ez az, amit értenünk kell (és amit megváltoztathatunk) ahhoz, hogy a beépített gáz/fék mellett is jobb lehessen a végeredmény
 
-- példa: csiklandozás flörtölés közben vs. veszekedés közben
-    - ugyanaz az inger, de a különböző kontextus miatt *nagyon* más a rá adott reakciónk, nem?
 
-- szóval tovább megyünk, mint a citromos patkány: nem csak egy látszólag nem odatartozó inger billenhet semlegesből szexuálisba, de látszólag odatartozó ingerek is visszabillenhetnek semlegesbe (nagy mellek egy segg-mániás férfi szemében)
-    - vagy akár fékező hatásúba (nagy mellek egy meleg férfi szemében)
-    - és amúgy fékező hatású dolgok is lehetnek szexuálisak (nagyon nem mindegy, mikor/hol/hogy húzzák meg a hajunkat)
-    - minden azon múlik, hogy milyen kontextusban éljük meg azt a bizonyos ingert
-    - vagyis az elégedettségünk leginkább úgy növelhető, ha képesek vagyunk felismerni magunkban, hogy milyen kontextusok hatására látjuk a világot egy "szexibb helynek", és hogy aztán képesek vagyunk-e egyre gyakoribbá tenni az ilyen kontextusokat az életünkben
 
-- másik patkányos kísérlet, az agyi stimulációval
-    - Nucleus Accumbens felső/alsó részének ingerlése, ami felé vagy el fordulást vált ki
-- egy normál környezetben van inger, ami jó (ami kíváncsiságot, FELÉ fordulás vált ki), és van ami rossz (ami undort, ELfordulást)
-    - DE: egy nyugodt, stresszmentes, csendes, sötét, majdhogynem magzati helyzetben akár a negatív inger is FELÉ fordulást okoz (ami máskor undort okozna)
-    - ILLETVE: egy idegesítő, taszító, hangos, fényes, stresszes helyzetben még a pozitív inger is EL fordulást okoz (ami máskor érdeklődést okozna)
+## <a name="test"></a>A test
 
-- vagyis a kontextus nem **csak** azt jelenti, hogy csináljunk hangulatot gyertyákkal vagy szexi fehérneművel
-    - azt is jelenti, hogy ha nem megfelelőek vagy a külső körülmények, vagy a belső mentális állapot, akkor mindegy lesz, milyen szexi az a fehérnemű
-    - de azt is, hogy ha viszont megfelelőek, akkor szinte bármiből lehet "szexuális" inger
-        - úú, de szexin mosogatsz!
+Minden nemi szerv ugyanazokból a részekből áll, csak különböző konfigurációkban.
+Ugyanúgy, ahogy (alapesetben) minden embernek két keze, két lába, két szeme, stb. van, és mégsem teljesen egyformák.
+Sőt, mindegyikünk egyedi a kombinatorikus robbanásnak köszönhetően, mert ami csak konfigurálható a testünkön, azt a változatosság és a genetika konfigurálja is.
+A baj csak az, hogy minden kultúra megpróbál egy nagy J-betűs Jelentést tulajdonítani a nemek biológiai különbségeinek -- és ennek általában sokkal több köze van az aktuális kultúrához mint a biológiához.
 
-- tanulás -> tetszés -> akarás
-    - ezeket együtt kezeli az agyunk a gáz/fék megállapításához, általában a következő sorrendben
-        - egy ingerhez a korábbi tapasztalatokat alapul vevő *tanulás* adja meg a címkét, hogy az szexuális jellegű-e
-        - ha ez mellé jó (vagyis, az aktuális kontextusunkban jó), akkor tetszeni is fog
-        - és ha eléggé tetszik, akkor még akarunk majd belőle
-    - viszont függetlenek egymástól
-        - például a tanulás akkor is megadhatja a szexuális címkét (és ezzel elindíthatja a szervi reakciókat), ha közben a kontextus alapján nem igazán tetszik a helyzet
-        - és csak attól, hogy tetszik, nem feltétlen akarunk többet belőle
-        - illetve akkor is lehet *akarás*, ha nincs *tetszés*
-            - csak ilyenkor vagy annyira nem tetszik, hogy pont a menekülést akarjuk
-            - vagy csak a kielégülést akarjuk, de közben annyira nekünk sem tetszik, hogy ezt akarjuk
+A férfi/nő határ valójában nem más, mint ugyanazoknak a komponenseknek egy kicsit más megjelenése és elrendeződése.
+Pénisz = csikló. Here = petefészek. Herezacskó = nagyajkak.
+Két működési mód, de egy közös biológiai eredet.
+Ami mellesleg az egész az interszex (hermafrodita) dolgot is szépen magyarázza.
 
-- leggyakrabban az alacsony stressz-szintű, szeretetteljes, kifejezetten erotikus kontextus működik
-    - de mindenki gondolja át a sajátját (jó és rossz múltbéli tapasztalatok alapján, például), mert nem az a feladat, hogy úgy csináljuk, mint mások, hanem ahogy nekünk jó
+A csikló nagy része láthatatlan, de ettől ugyanazokból a vérbőség hatására merevedő, üreges részekből áll, mint a pénisz.
+A pénisszel szemben itt nincs más cél, csak a stimuláció (sem a behatolásért, sem a vizelésért, sem a megtermékenyítésért nem felel), úgyhogy ha a stimuláció a cél, akkor nem árt tudni, hogy hol van!
+Ugyanilyen változatosság a kis/nagyajkaknál -- sokféle méret, szín, szőr mennyiség.
+De amíg nincs fájdalom, addig nagy valószínűséggel minden egészséges és normális!
+
+Megjegyezzük, hogy a "hasznos" részekkel ellentétben a szűzhártya csak egy evolúciós maradvány melléktermék.
+Van, akinek egyáltalán nincs; van, akinek még menopausa után is van.
+Nem mindig szakad; van, hogy begyógyul; van, akinek eleve lyukas.
+Egy funkcióval bíró férfi rész homológja, de ugyanúgy értelmetlen női esetben, mint ahogy a mellbimbó értelmetlen a férfiakon.
+Mégis a kultúra rengeteg mítoszt sző köré, aminek valós következményei lehetnek -- szüzesség mánia miatti büntetés, ha nincs; nemi erőszak tagadhatósága, ha van; stb.
+
+Az megint kulturális, hogy a férfiaknál a merevedést állítjuk a középpontba, míg a nőknél a nedvesedést.
+Pedig a férfiak is nedvesednek (előejakulátum), és a nők is merevednek (csikló).
+A női ejakuláció is olyan melléktermék, mint a szűzhártya vagy férfi mellbimbó, csak mivel ritka, ezért a pornó-piac rákapott -- és a pornó-piac miatt pedig a lányok önértékelését tompíthatja, ha úgy élik meg, hogy ők valahogy kevesebbek, mert nekik nem megy.
+
+A fő üzenet tehát még egyszer: ugyanazokból az alkotóelemekből állunk, csak mindenkinél máshogy összerakva!
+És ez a fizikai mellett a vágy mentális vetületeire is vonatkozik, mint majd látni fogjuk.
+Nincs értelme semmit szigorúan csoportosítani, mert sokszor nagyobb lesz a variancia a csoportokon belül, mint a csoportok között.
+Példa a magasság, ahol a férfiak és a nők között kevesebb, mint akár a férfiak, akár a nők csoportjában, maguk között.
+
+A jelenleg domináns kulturális metaforák (és az azokkal járó morális ítéletek) helyett használjunk inkább egy kert alapú metaforát.
+Mindannyiunk szexualitása egy kert, amihez egy egyedi kis telket kapunk (hardware).
+Ide a családunk és a kultúránk elültet dolgokat és tanítgat minket a gondozására, amíg majd át nem vehetjük.
+De amint átvesszük, onnantól miénk a felelősség a gondozásáért!
+Ha nem jó a művelési módszertan, amit tanítottak velünk, akkor találjunk másikat.
+Ha nem jó magokat vetettek el (ami a mi földünkben nem érzi jól magát), akkor gyomláljunk, és/vagy vessünk helyette mást.
+
+<br>
 
 
 
@@ -220,9 +104,129 @@ A vágy egyszerre függ egy gázpedáltól és egy féktől
 
 
 
-### Szex, kontextusban
 
-#### Érzelmek
+
+
+
+
+
+
+
+
+
+## <a name="agy"></a>Az agy
+
+Az túl test-hangsúlyos, ha úgy tekintünk az emberi szexualitásra, mint izgatás/orgazmus/lenyugvás.
+Mert oké, akinek tényleg valami testi baja akad, azokon hatékonyabban segíthetünk azóta, amióta ezeket vizsgáljuk.
+De ebből a modellből hol a vágy?
+Akik bementek a laborba ilyen kísérleteket végezni, náluk nyilván csak a testi tüneteket vizsgálták.
+De hogy jutnánk a testi tünetekig, ha mondjuk nem akarunk bemenni a laborba?
+
+Egy jobb szexualitási modell, ha a vágy az első, és csak aztán az izgalom/orgazmus/lenyugvás.
+És ez a szemléletváltás szépen elő is hozta, hogy az emberek túlnyomó többségének a vágy résszel van gondja.
+Úgyhogy erre még mélyebben rászálltak, de itt már inkább az agykutatók és a pszichológusok.
+Így jutottunk el a kettős kontroll modellhez -- amiről visszatekintve remélhetőleg ugyanúgy nem értjük majd, hogy hogy maradhatott ki, mint a tisztán testi modellből a vágy.
+
+> Onnan tudhatod, hogy áttörést értél el, amikor már nem is tudsz visszagondolni, hogy eddig hogy nem láttad a nyilvánvalót.
+>
+> -- Daniel Kahneman
+> >  You know you have made a theoretical advance when you can no longer reconstruct why you failed for so long to see the obvious.
+
+Mivel a test idegrendszere és hormonháztartása kb. mindent serkentő és gátló hatásokkal tart egyensúlyban, így talán nem meglepő, hogy a szexuális vágynál is pont ez a helyzet.
+Ennek nyilván van egy nagyon biokémiás, nagyon latin szavas magyarázata, de igazából már ez az egyszerű, magas szintű gondolat önmagában is megváltoztathatja az egész hozzáállásunkat.
+A vágy ugyanis nem szimplán "vagy van, vagy nincs" -- a vágy a "Mennyire legyen?" és a "Mennyire **NE** legyen?" jelek relatív erősségének fényében áll elő.
+
+Magyarán: a vágyhoz nem csak egy gáz pedál létezik, hanem egy fék is.
+A vágy érzetünk pedig a gáz és a fék pedálunk taposási erősségének *különbsége*!
+Praktikus szempontból ez azért fontos, mert végre felismerhetjük, hogy a vágy hiánya nem csak akkor áll elő, ha nincs gáz, hanem akkor is, ha túl sok a fék (hiába nyomjuk esetleg a gázt is mellette).
+A problémák diagnosztizálásához tehát először is érdemes tudni, hogy a gáz a túl kevés, vagy a fék a túl sok.
+
+Nagy gáz és kis fék érzékenység mellett például gyorsan reagálunk a szexuális ingerekre, és nem nagyon van "kontroll" mellette.
+Ilyenkor jellemzően sok a partner, sok az egy éjszakás kaland, nem fontos annyira a fogamzásgátlás, több a szexuális kockázat és a kísérletezés, a szex stresszoldásra is használható, stb.
+Ezzel szemben a kis gáz, nagy fék érzékenyek nagyon élesen érzik, hogy miért NE induljanak be, és a tudatos beindulás is lassú.
+Mindennek stimmelnie kell, hogy egyáltalán esély legyen a vágyra; mi lesz, ha terhesség lesz?!; mi lesz, ha elkap valamit; jajj, már így is túl sokáig tart, de még most is ezen agyalok!
+Ebben nem is a gázt nyomni nehéz (hiába "kicsi" a gáz) -- sokkal több munka a fékeket elég ideig kioldva tartani, hogy a gáznak hatása lehessen.
+
+Szóval lehet aránytalan hangsúly a gáz irányába is, de a probléma szinte mindig a túlérzékeny fékekkel van.
+A férfiaknál *általában* erősebb a gázpedál érzékenysége, míg a nőknél a féké, de ez kb. ugyanaz, mint a magasságnál: nagyobb lesz a variancia a csoportokon belül, mint a csoportok között.
+A lényeg, hogy magunkat megismerjük, és így célzottan tudjuk megteremteni magunknak a legjobb környezetet a szexualitásunk kiéléséhez.
+
+Könnyítő tényező, hogy az ingereink Pavlov-i módon tanulhatóak és testre szabhatóak.
+Kiváló példa erre egy patkányos kísérlet, ahol megtanították őket a citrom illatról szexre asszociálni (tanult gáz), míg a hámról valami büntire (tanult fék).
+Nálunk sincs ez másként: a gáz/fék érzékenységünk nem igazán állítható, viszont az, hogy mire reagálnak, az igen!
+Semmi nem veleszületett, sem a jó, sem a rossz oldalon.
+A vadon élő patkányok keresztbe leszarják, hogy a nőstény citrom illatú-e, de ha a laborban ezt tanulták meg a szexiséggel asszociálni, akkor egyből gáz-taposó tényező lesz belőle.
+Minket sem állít meg semmi, hogy átértékeljük az életünk (külső és belső) ingereit.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="kontextus"></a>Kontextus
+
+A kontextus ebben a jelentésében a pillanatnyi körülmények (kivel vagyunk, hol vagyunk, biztonságos vagy rizikós-e a helyzet, megszokott-e vagy ismeretlen) + pillanatnyi mentális állapot (relaxáltság, bizalom szint, stb.).
+Ez határozza meg, hogy mire hogy reagálunk.
+És ez az, amit értenünk kell (és amit megváltoztathatunk) ahhoz, hogy a beépített gáz/fék érzékenységünk mellett is jobb lehessen a végeredmény.
+
+Példaként gondoljunk csak a csiklandozás flörtölés közben kontra veszekedés közben.
+Ugyanaz az inger, de a különböző kontextus miatt *nagyon* más a rá adott reakciónk, nem?
+Szóval tovább megyünk, mint a citromos patkány.
+Nem csak egy látszólag nem odatartozó inger billenhet semlegesből szexuálisba, hanem:
+
+- Látszólag odatartozó ingerek is visszabillenhetnek semlegesbe (nagy mellek egy segg-mániás férfi szemében);
+
+- Látszólag odatartozó ingerek is átmehetnek fékező hatásúba (nagy mellek egy meleg férfi szemében);
+
+- Amúgy fékező hatású dolgok is lehetnek szexuálisak (nagyon nem mindegy, mikor/hol/hogy húzzák meg a hajunkat).
+
+Alátámasztásnak nézzünk egy másik patkányos kísérletet, csak itt konkrétan agyi stimulációval.
+Célunk a Nucleus Accumbens felső/alsó részének ingerlése, ami *felé* vagy *el* fordulást vált ki.
+Egy normál, semleges környezetben voltak ingerek, amiket a patkányok jónak ítéltek (amik kíváncsiságot, FELÉ fordulás váltottak ki), és voltak, amiket rossznak (amik undort és ELfordulást eredményeztek).
+De: egy nyugodt, stresszmentes, csendes, sötét, majdhogynem magzati helyzetben akár a negatív inger is FELÉ fordulást okoz (ami máskor undort okozna).
+Illetve egy idegesítő, taszító, hangos, fényes, stresszes helyzetben még a pozitív inger is EL fordulást okozott (ami máskor érdeklődést okozna).
+
+Vagyis a kontextus nem **csak** azt jelenti, hogy csináljunk hangulatot gyertyákkal vagy szexi fehérneművel.
+Azt is jelenti, hogy ha nem megfelelőek vagy a külső körülmények, vagy a belső mentális állapot, akkor mindegy lesz, milyen szexi az a fehérnemű.
+Ám jelenti azt is, hogy ha viszont megfelelőek, akkor szinte bármiből lehet "szexuális" inger.
+Mondjuk "Úú, de szexin mosogatsz!"...
+
+Minden azon múlik tehát, hogy milyen kontextusban éljük meg azt a bizonyos ingert.
+Vagyis az elégedettségünk leginkább úgy növelhető, ha képesek vagyunk felismerni magunkban, hogy milyen kontextusok hatására látjuk a világot egy "szexibb helynek", és hogy aztán képesek vagyunk-e egyre gyakoribbá tenni az ilyen kontextusokat az életünkben.
+Leggyakrabban az alacsony stressz-szintű, szeretetteljes, kifejezetten erotikus kontextus működik.
+De mindenki gondolja át a sajátját (jó és rossz múltbéli tapasztalatok alapján, például), mert nem az a feladat, hogy úgy csináljuk, mint mások, hanem ahogy nekünk jó.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+## <a name="erzelmek"></a>Érzelmek
 
 - a stresszmentes szexuális kontextus alapja a bizalom
     - de ez nem csak a partnerünkre, hanem saját magunkra is vonatkozik!
@@ -288,7 +292,7 @@ A vágy egyszerre függ egy gázpedáltól és egy féktől
 
 
 
-#### Kultúra
+## <a name="kultura"></a>Kultúra
 
 - megint kert metafora
     - nem csak a család vet ugye, hanem a kultúra is
@@ -360,9 +364,21 @@ A vágy egyszerre függ egy gázpedáltól és egy féktől
         - akkor mi lenne mondjuk, ha nem fogyasztanánk?
 
 
-### Szex, folyamatában
+## <a name="egyetnemertes"></a>"Egyet nem értés"
 
-#### Nonconcordance
+
+- tanulás -> tetszés -> akarás
+    - ezeket együtt kezeli az agyunk a gáz/fék megállapításához, általában a következő sorrendben
+        - egy ingerhez a korábbi tapasztalatokat alapul vevő *tanulás* adja meg a címkét, hogy az szexuális jellegű-e
+        - ha ez mellé jó (vagyis, az aktuális kontextusunkban jó), akkor tetszeni is fog
+        - és ha eléggé tetszik, akkor még akarunk majd belőle
+    - viszont függetlenek egymástól
+        - például a tanulás akkor is megadhatja a szexuális címkét (és ezzel elindíthatja a szervi reakciókat), ha közben a kontextus alapján nem igazán tetszik a helyzet
+        - és csak attól, hogy tetszik, nem feltétlen akarunk többet belőle
+        - illetve akkor is lehet *akarás*, ha nincs *tetszés*
+            - csak ilyenkor vagy annyira nem tetszik, hogy pont a menekülést akarjuk
+            - vagy csak a kielégülést akarjuk, de közben annyira nekünk sem tetszik, hogy ezt akarjuk
+
 
 - a lényeg: a testi reakció és a mentális reakció nem feltétlen jár kéz a kézben
     - lehetünk úgy is nedvesek/merevek, hogy közben az események nem igazán jönnek be, és vice versa
@@ -399,7 +415,7 @@ A vágy egyszerre függ egy gázpedáltól és egy féktől
     - ha pedig csak annyi a baj, hogy szeretés/akarás mellett sincs megfelelő síkosítás a testi reakció hiányában, akkor használjunk síkosítót, és csá. nem atomfizika.
 
 
-#### Vágy típusok
+## <a name="vagy"></a>Vágy típusok
 
 - spontán vs. reaktív
     - a élvezet reményében vs. az élvezet hatására
@@ -447,9 +463,7 @@ A vágy egyszerre függ egy gázpedáltól és egy féktől
     - a vágy. nem kell ráéhezni ahhoz, hogy jó legyen
 
 
-### Extázist mindenkinek!
-
-#### Orgazmusok
+## <a name="orgazmus"></a>Orgazmus
 
 - mindenkinél másmilyen konkrét "tünetekkel" jár
     - nincs feltétlenül izom összehúzódás/pulzálás, és nem is feltétlen "élvezetes" (mert az ugye kontextus függő)
@@ -488,7 +502,7 @@ A vágy egyszerre függ egy gázpedáltól és egy féktől
         - nem egy oszthatatlan egység vagyunk, hanem egy motiváció "falka"
 - átfogó tanulság: kapcsoljuk ki a fékező tényezőket, a gázpedállal pedig próbáljuk fokozatosan gyorsítani, hogy minden madarunknak legyen ideje irányba fordulni
 
-#### Hozzáállás
+## <a name="hozzaallas"></a>Hozzáállás
 
 - A jó szex titka a magabiztosság és az öröm
     - hogy **ismerjük** magunkat: a testünket, az elménket, a szexualitásunkat és az életünket; és **szeressük** is ezeket
@@ -540,6 +554,16 @@ A vágy egyszerre függ egy gázpedáltól és egy féktől
             - de ha ezen átesünk, akkor ott lesz a hely és energia az új (és helyesebb) célnak
 
     >> If everyone involved is glad to be there and free to leave whenever they choose, then anything they do is normal.
+
+
+
+
+
+
+
+
+
+## Összefoglalás
 
 
 - záró gondolat: ha kétségbe ütközünk, forduljunk befelé
