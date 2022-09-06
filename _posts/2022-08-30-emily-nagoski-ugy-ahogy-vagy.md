@@ -226,67 +226,69 @@ De mindenki gondolja át a sajátját (jó és rossz múltbéli tapasztalatok al
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## <a name="erzelmek"></a>Érzelmek
 
-- a stresszmentes szexuális kontextus alapja a bizalom
-    - de ez nem csak a partnerünkre, hanem saját magunkra is vonatkozik!
-- stressz és szeretet
-    - az egyik segít megbirkózni a fenyegetésekkel, a másik pedig a "törzshöz tartozást" segíti
+Ebben a szekcióban főként a stresszre és a szeretetre térünk ki -- az egyik segít megbirkózni a fenyegetésekkel, a másik pedig a "törzshöz tartozást" segíti.
 
-- stressz
-    - erre adjuk az ütés/futás/lefagyás reakciókat, vagyis ez az alapja a szorongásnak/félelemnek (futás), a haragnak/ingerültségnek (ütés), és még a depressziónak is (lefagyás)
-        - az a baj, hogy ezek egyike sem kimondottan járul hozzá a szexi hangulathoz
+**Stressz** esetén adjuk ugye a klasszikus ütés/futás/lefagyás reakciókat, vagyis ez az alapja a szorongásnak/félelemnek (futás), a haragnak/ingerültségnek (ütés), és még a depressziónak/kétségbeesésnek is (lefagyás).
+A baj az, hogy ezek egyike sem kimondottan járul hozzá a szexi hangulathoz.
 
-    > > To sum up:
-    > > Worry, anxiety, fear, and terror are stress—“There’s a lion! Run!”
-    > > Irritation, annoyance, frustration, anger, and rage are stress—“There’s a lion! Kill it!”
-    > > Emotional numbness, shutdown, depression, and despair are stress—“There’s a lion! Play dead!”
+Mint [Sarah Wilson]({% post_url 2022-06-18-sarah-wilson-elet-szorongas-es-panik-nelkul %})-nál is láttuk, az nem megoldás, hogy "csak nyugodjunk meg".
+Ehelyett hagyni kell, hogy a stressz reakciónk végigfuthasson, egészen a "veszélyben vagyok" érzéstől a "biztonságban vagyok" érzésig.
+
+Sokszor elnyomni próbáljuk inkább alkohollal, drogokkal, figyelemelterelésekkel, evéssel, vagy érzelemmentes szexszel.
+Ezek helyett fejezzük be a stressz reakciót.
+Meneküljünk el a ragadozó elől, vagy "öljük" meg, vagy olvasszuk ki magunkat a lefagyásból, és örüljünk, hogy túléltük.
+
+Nehezítés, hogy a természetben található "akut" stresszek (mint mondjuk egy oroszlán) helyett a modern világban inkább krónikus, lassabb de hosszabb ideig elhúzódó stressz forrásokkal találkozhatunk.
+Ezeknek nincs egyértelmű "végük", ezért soha nem engedünk el őket, és belülről felőrölnek.
+Szóval ha kell, csináljunk nekik mesterséges véget, vagy legalább szimuláljuk valahogy.
+Aludjunk, meditáljunk, gondoskodjunk magunkról, vagy akár csak sírjuk ki magunkból (ami nem jelenti, hogy fetrengjünk az önsajnálatban, hanem épp hogy tegyünk vele pontot az épp aktuális "bántás" végére).
+Lásd [Bagdy Emőke]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %}) edzéses, mozgásos, vagy csak szimplán izomfeszítős és elernyesztős modellje, ami után könnyebben megnyugodhatunk.
+
+<br>
+
+A másik a **szeretet**, ami ebből a szemszögből lehet pozitív (szenvedély, románc, öröm), de negatív is (irigység, szívfájdalom, gyász).
+A lényeg, hogy mindig a *törött* állapotból az *egész* állapotba terelget minket, mert kiskorunkban azt tanultuk a gondviselőkkel kapcsolatban, hogy függünk tőlük, és szó szerint az "egész-ségünkhöz" szükségünk van a másik felünkre.
+Ez felnőttként persze már nem feltétlen igaz a kapcsolatainkra, de ettől mi még úgy érezzük.
+Általános a közelség és a biztos kikötő keresése, a szétválás nehézsége, stb.
+
+Mindez azért fontos, mert a szex és a ragaszkodás szorosan kapcsolódik -- az a szex lesz "jobb", ami előremozdítja a cselekményt.
+És ez (sajnos) magyarázza azt is, hogy miért izgalmasabb egy viszony, vagy egy olyan társ kergetése, aki nem akar leragadni mellettünk, vagy nem bánik jól velünk.
+Mert ott még aktívan folyik a cselekmény, amit a szex előre lendíthet.
+Ezzel szemben egy leülepedett, stabil, gyakran házassággal "végződő" kapcsolatban azért nehezebb fenntartani az izgalmat, mert első ránézésre már nincs sztori.
+De azt nem mondja senki, hogy ezt mesterségesen nem pótolhatjuk, ha már egyszer felismerjük, hogy ez lehet a háttérben...
+
+A kert metaforához kapcsolódva: a stressz a nap, a szeretet pedig az eső.
+És mind minden másnál, itt is egyedi, hogy kinek melyikből mennyire van szüksége.
+
+<br>
 
 
-    - nem megoldás, hogy "csak nyugodjunk meg", mint Sarah Wilson-nál is láttuk
-    - ehelyett hagyni kell, hogy a stressz reakciónk végigfuthasson
-    - egészen a "veszélyben vagyok" érzéstől a "biztonságban vagyok" érzésig
 
-    - sokszor elnyomni próbáljuk inkább
-        - alkohol, drogok, figyelemelterelések, evés, (*szeretés* nélküli) szex
-    - ezek helyett fejezzük be a stressz reakciót
-        - meneküljünk el a ragadozó elől, vagy "öljük" meg, vagy olvasszuk ki magunkat a lefagyásból, és örüljünk, hogy túléltük
-    - a baj, hogy a természetben található "akut" stresszek (mint egy oroszlán) helyett a modern világban inkább krónikus, lassabb de hosszabb ideig elhúzódó stressz forrásokkal találkozhatunk
-        - nincs egyértelmű "vége", ezért soha nem engedünk el, és belülről felőröl
-    - csináljunk neki mesterséges véget, vagy szimuláljuk valahogy
-        - > > You have to walk all the way through the darkness to get to the light at the end.
-        - Emőke - edzés/mozgás, ami után megnyugodhatunk
-        - aludjunk, meditáljunk, gondoskodjunk magunkról, vagy akár csak sírjuk ki magunkból (ami nem jelenti, hogy fetrengjünk az önsajnálatban, hanem tegyünk vele pontot az épp aktuális "bántás" végére)
 
-- szeretet
-    - lehet pozitív (szenvedély, románc, öröm), de negatív is (irigység, szívfájdalom, gyász)
-    - a lényeg, hogy mindig a "törött" állapotból az "egész" állapotba terelget minket, mert kiskorunkban azt tanultuk a gondviselőkkel kapcsolatban, hogy függünk tőlük, és (szó szerint) az "egész-ségünkhöz" szükségünk van a 
-    másik felünkre
-        - ez felnőttként már nem feltétlen igaz a kapcsolatainkra, de ettől mi még úgy érezzük
-    - közelség keresése, a szétválás nehéz, biztos kikötő...
-    - a szex és a ragaszkodás kapcsolata: az a szex lesz "jobb", ami előremozdítja a cselekményt
-        - és ez (sajnos) magyarázza, hogy miért izgalmasabb egy viszony, vagy egy olyan társ kergetése, aki nem akar leragadni mellettünk, vagy nem bánik jól velünk, stb.
-        - mert ott még aktívan folyik a cselekmény, amit a szex előre lendíthet
-            - ez nem feltétlen *szeretés*, mert inkább félelmet oldunk fel vele, de *akarás*
-        - egy leülepedett, stabil, gyakran házassággal "végződő" kapcsolatban azért nehezebb, mert első ránézésre már nincs sztori
-            - *szeretés* lehet, de az *akarás* lejjebb hagy
-        - de nem mondja senki, hogy a megérkezés után ne lehetne még sztori
-    - kapcsolódási stílusok:
-        - stabil
-        - instabil (és ezen belül két alkategória: szorongó vagy elkerülő)
 
-- szex körüli kommunikáció: álmos süni modell
-    - tudjuk meg, mi a neve (nevezzük meg az érzést)
-    - üljünk le vele, ne kezeljük nemkívánatos vendégként (engedjük meg magunknak, hogy érezzük azt az érzést)
-    - hallgassuk meg a szükségleteit (vagyis fogalmazzuk meg, hogy mire van szükségünk vele kapcsolatban)
-    - kommunikáljuk le a másik felé az érzést és a szükségletet is
-- ez kb. egy az egyben erőszakmentes kommunikáció, csak aranyosabban :)
-- nem dobhatjuk hat úgy a másik ölébe, hogy nesze, álmos süni, bajlódj te vele
-    - és minél óvatosabban bánunk vele, annál kisebb lesz az esélye, hogy bárkit is megszúr
 
-- el vagyok veszve --> otthon vagyok
-- kert metaforához kapcsolódva: a stressz a nap, a szeretet pedig az eső
-    - és mind minden másnál, itt is egyedi, hogy kinek melyikből mennyire van szüksége
+
+
+
+
+
+
+
+
+
 
 
 
@@ -294,74 +296,97 @@ De mindenki gondolja át a sajátját (jó és rossz múltbéli tapasztalatok al
 
 ## <a name="kultura"></a>Kultúra
 
-- megint kert metafora
-    - nem csak a család vet ugye, hanem a kultúra is
-    - és ez sajnos inkább olyan, mint az alattomos kúszónövények, amik a kerítés alatt vagy felett is bepofátlankodnak a kertünkbe
-    - nem fair, hogy velük is meg kell birkózni -- senki nem kérdezi meg, hogy elültetheti-e bennünk a test önkritikát vagy a szexuális szégyenérzetet -- de ez van
+Tovább folytatva a kert metaforát: a kis telkünkre nem csak a család vet ugye, hanem a kultúra is.
+És ez sajnos inkább olyan, mint az alattomos kúszónövények, amik a kerítés alatt vagy felett is bepofátlankodnak a kertünkbe.
+Nem fair, hogy velük is meg kell birkózni -- senki nem kérdezi meg, hogy elültetheti-e bennünk a test önkritikát vagy a szexuális szégyenérzetet -- de ez van.
 
-- Moral Message (you are evil), the Medical Message (you are diseased), and the Media Message (you are inadequate), test önkritika, undor
-    - ezeket fogjuk tárgyalni
-    - nem feltétlen eloszlatni! aki akarja, továbbra is megtarthatja ezeket a hiteket, csak innentől már szándékosan, nem csak társadalmi alapértelmezésként!
+A tetejébe ezek a kúszó hitek nem kimondottabban új keletűek.
+Szeretjük azt hinni, hogy haladunk, de a szexben mégis a 100 éves kézikönyvek szintjén vagyunk.
+Térjünk hát ki ezekre az alapértelmezésekre egy kicsit.
 
-- szeretjük azt hinni, hogy haladunk, de a szexben mégis a 100 éves kézikönyvek szintjén vagyunk
+- **Az ősrégi morális üzenet**: a szüzesség érték, és aki elherdálja, az egy ribanc.
+A szexet a nőnek nem szabad szeretni, csak hagyni a férfinak (különben egy ribanc).
+Viszont ha nem hagyja, akkor már nem szerethető.
 
-- morális
-    - a szüzesség érték, aki elherdálja, az egy ribanc
-    - a szexet a nőnek nem szabad szeretni, csak hagyni a férfinak (különben egy ribanc)
-    - viszont ha nem hagyja, akkor már nem szerethető
+- **A közepesen régi orvosi üzenet**: a szexnek megvan az egy helyes módja.
+A helyes menetrend vágy, aztán izgatottság, aztán pedig behatolás közbeni orgazmus, lehetőleg egyszerre a partnerrel.
+Ha ebből bármi nem stimmel, akkor azt gyógyszerrel vagy műtéttel orvosolni kell.
+Ha a mentális vagy a testi reakció bármiben eltér a férfiakétól (vagy legalábbis a férfi átlagtól), az abnormális -- kivéve a terhesség, ami az egész szexesdi célja.
 
-- orvosi
-    - a szexnek megvan az egy helyes módja
-    - vágy, izgatottság, aztán behatolás közbeni orgazmus, lehetőleg egyszerre a partnerrel
-    - ha ebből bármi nem stimmel, akkor azt gyógyszerrel vagy műtéttel orvosolni kell
-    - ha a mentális vagy a testi reakció bármiben eltér a férfiakétól, az abnormális - kivéve a terhesség, ami az egész szexesdi célja
+- **Az modernebb média üzenet**: a változatos pozíciók, a szerepjátékok, az édes hármas, a pornó és a vibrátor használat mind nagyon alap, különben prűd vagy.
+Amúgy meg túl kövér ÉS sovány vagy; túl kicsi ÉS nagy a melled; ha nem teszel ellene, akkor lusta vagy; ha elfogadod a tested, akkor megalkuszol; ha még netán szereted is a tested, akkor meg egyenesen beképzelt.
+A lényeg, hogy rosszul csinálod, csináld máshogy -- nem-nem, úgy is rossz!
+Csináld még máshogyabban!
+Örökre...
 
-- média
-    - pozíciók, szerepjátékok, édes hármas, pornó, vibrátor - ez mind alap, különben prűd vagy
-    - különben meg túl kövér ÉS sovány vagy; túl kicsi ÉS nagy a melled; ha nem teszel ellene, akkor lusta vagy; a elfogadod a tested, akkor megalkuszol; ha még netán szereted is a tested, akkor beképzelt vagy
-    - rosszul csinálod, csináld máshogy -- nem úgy is rossz! csináld még máshogyabban! örökre...
+Ha ezeket csak egy kicsit is felülvizsgáljuk, rájöhetünk, hogy:
 
-- ön-kritika
-    - társadalmi engedélyünk van kritizálni magunkat, de dicsérni nem szabad, mert az beképzelt
-    - a baj csak az, hogy ezzel következetesen rontjuk a szexuális élményünket
-    - a negatívabb testkép kevesebb, és akkor is kevésbé élvezetesebb szexhez vezet, több fájdalommal, több kockázattal, és nemkívánatos következménnyel
-    - gyakorlatilag mi leszünk a saját oroszlánunk a saját szemünkben
-    - ehelyett --> ön-kedvesség
+- Az ön-kritika nem feltétlen egészséges!
+Társadalmi engedélyünk van kritizálni magunkat, de dicsérni nem szabad, mert az visszataszító.
+A baj csak az, hogy ezzel következetesen rontjuk a szexuális élményünket.
+A negatívabb testkép kimutathatóan kevesebb, és akkor is kevésbé élvezetesebb szexhez vezet, több fájdalommal, több kockázattal, és több nemkívánatos következménnyel.
+Gyakorlatilag mi leszünk a saját oroszlánunk a saját szemünkben.
 
-- súlyfelesleg != egészségtelen
-    - legalábbis nem feltétlen
-    - na azért ennek is van egy túloldala, szóval teljesen (vagy legalábbis, korlátok nélkül) nem értek egyet a szerzővel, de az jogos, hogy önelfogadás és önkedvesség mellett is rendbe lehet tenni magunkat az egészséges szintig, ha nem ott vagyunk
-    - és abban viszont teljesen egyet értek, hogy egészséges szint != címlapfotó
+- A súlyfelesleg nem feltétlen egészségtelen!
+Na azért ennek is van egy túloldala, szóval teljesen (vagy legalábbis, korlátok nélkül) nem értek egyet a szerzővel, amikor azt mondja, hogy szarni le.
+De az jogos, hogy önelfogadás és önkedvesség mellett is rendbe lehet tenni magunkat az egészséges szintig, ha nem ott vagyunk.
+És abban is teljesen egyet értek, hogy az egészséges szint nem ugyanaz, mint címlapfotó szintű "beach body"!
 
-- undor
-    - az egyéni ízlésre nincs magyarázat, és nem is szorul rá
-    - a baj, hogy mások ízlésének nyilvános kimutatása is befolyásolhatja a sajátunkat
-    - > “Don’t yuck anybody’s yum.”
-    - magunkban pedig szintén a tudatosítás
-        - fel kell ismernünk, hogy a testünk, vagy a partnerünk teste, és az általuk generált folyadékok és illatok nem feltétlen kell ám, hogy undort keltsenek
-        - ez után pedig mindenki döntse el magában, hogy neki megéri-e undorodnia ezektől -- segíti-e az az undor vajon a szexuális életét, vagy hátráltatja?
+- Az undor nem kötelező!
+Az egyéni ízlésre nincs magyarázat, és nem is szorul rá.
+A baj, hogy mások ízlésének nyilvános kimutatása is befolyásolhatja a sajátunkat.
+Ahogy Nagoski mondja: Ne fujj-ozzuk le senki nyamm-ját. 
+<!-- Don’t yuck anybody’s yum. -->
 
-- gyógymód lehetőségek
+    Lehet, hogy azt a programozást kaptuk, hogy valami "undi".
+    De fel kell ismernünk, hogy a testünk, vagy a partnerünk teste, és az általuk generált folyadékok és illatok nem feltétlen kell ám, hogy undort keltsenek.
+    Ez után pedig mindenki döntse el magában, hogy neki megéri-e undorodnia ezektől -- segíti-e az az undor vajon a szexuális életét, vagy hátráltatja?
 
-- ön-együttérzés/kedvesség/whatever
-    - ha engedjük, hogy mi legyünk a saját oroszlánunk, annak nem lesz jó vége
-        - elfutni szó szerint lehetetlen, legyőzni magunkat destruktív, magunk miatt lefagyni pedig enyhén szólva is nem produktív
-    - ha eddig az volt a motivációnk, hogy korbáccsal hajtottuk magunkat, akkor az már önmagában baj
-        - és mellesleg, ha abbahagyjuk az ön-verést, azzal indul meg a gyógyulás, amivel pedig szinte óhatatlanul is fejlődés jár majd
-    - ennek semmi köze az önteltséghez - ez feltétel nélküli
-        - akkor is szeressük már magunkat, amikor épp küszködünk vagy hibáztunk (talán még jobban is, mint máskor, nem?)
-    - DeLonzor-nál is mondtuk, hogy "Vegyük észre, amikor épp úgy szapuljuk magunkat, amit mástól nem fogadnánk el."
-        - itt most megfordítjuk: Soha ne beszéljünk úgy magunkhoz, ahogy a legjobb barátunkhoz vagy a saját kislányunkhoz nem beszélnénk!
+Gyógymód lehetőségek:
 
-- meztelen tükrös gyakorlat, ahol csak a jó dolgokat vesszük észre magunkon
-    - ezzel gyengítjük a negatív kondicionálást, és erősítjük a pozitívumokat
-    - először nagyon furcsa lesz - kognitív disszonancia, mert egy valamit mondunk, és közben valami mást gondolunk
-    - de idővel változni fog, és sokat segíthet
+- **Ön-kedvesség**: mert hát ha engedjük, hogy mi legyünk a saját oroszlánunk, annak nem lesz jó vége.
+Elfutni szó szerint lehetetlen, legyőzni magunkat destruktív, magunk miatt lefagyni pedig enyhén szólva is nem produktív.
+Ha eddig az volt a motivációnk, hogy korbáccsal hajtottuk magunkat, akkor az már önmagában baj.
+És mellesleg, ha abbahagyjuk az ön-verést, pont azzal indul meg a gyógyulás, amivel pedig szinte óhatatlanul is fejlődés jár majd.
+    
+    Ennek semmi köze az önteltséghez -- ez feltétel nélküli.
+    Akkor is szeressük már magunkat, amikor épp küszködünk vagy hibáztunk (talán még jobban is, mint máskor).
+    [DeLonzor]({% post_url 2022-05-01-diana-delonzor-soha-ne-kess-el-tobbe %})-nál is mondtuk, hogy "Vegyük észre, amikor épp úgy szapuljuk magunkat, amit mástól nem fogadnánk el."
+    Itt most megfordítjuk: Soha ne beszéljünk úgy magunkhoz, ahogy a legjobb barátunkhoz vagy a saját kislányunkhoz nem beszélnénk!
 
-- média diéta
-    - ha egy kajától rendszeresen és következetesen rosszul lennénk, akkor előbb-utóbb csak leszoknánk róla, nem?
-    - na most, a mai média testábrázolása, a magazinok kapcsolati mintái, a pornó által normálisnak lefestett szexuális dolgok, stb. - ezek mind mérgezik az agyunkat, ami miatt kimutathatóan rosszabbul érezzük magunkat
-        - akkor mi lenne mondjuk, ha nem fogyasztanánk?
+- **Meztelen tükrös gyakorlat**, ahol csak a jó dolgokat vesszük észre magunkon.
+Ezzel gyengítjük a negatív kondicionálást, és erősítjük a pozitívumokat.
+Először nagyon furcsa lesz -- egy valag kognitív disszonanciával, mert egy valamit mondunk, és közben valami mást gondolunk.
+De ez idővel változni fog, és sokat segíthet, ha megtanuljuk a jót látni magunkon, magunkban.
+
+- **Média diéta**: mert ha egy kajától rendszeresen és következetesen rosszul lennénk, akkor előbb-utóbb csak leszoknánk róla, nem?
+Na most, a mai média testábrázolása, a magazinok kapcsolati mintái, a pornó által normálisnak lefestett szexuális dolgok, stb. -- ezek mind mérgezik az agyunkat, ami miatt kimutathatóan rosszabbul érezzük magunkat.
+Akkor mi lenne mondjuk, ha nem fogyasztanánk?
+Vagy minimum nem annyit.
+Lásd még: [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %}), [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %}).
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="egyetnemertes"></a>"Egyet nem értés"
