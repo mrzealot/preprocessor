@@ -211,6 +211,10 @@ Azt is jelenti, hogy ha nem megfelelőek vagy a külső körülmények, vagy a b
 Mondjuk "Úú, de szexin mosogatsz!"...
 
 Minden azon múlik tehát, hogy milyen kontextusban éljük meg azt a bizonyos ingert.
+Egy kísérlet például kimutatta, hogy a zokniviselés segít orgazmust elérni -- ami fura eredménynek hangozhat, amíg bele nem gondolunk, hogy a hideg laborban, hideg lábfejjel nehéz volt az élvezetre koncentrálni.
+És így a zokni naná, hogy segített!
+Minden a kontextuson múlik.
+
 Vagyis az elégedettségünk leginkább úgy növelhető, ha képesek vagyunk felismerni magunkban, hogy milyen kontextusok hatására látjuk a világot egy "szexibb helynek", és hogy aztán képesek vagyunk-e egyre gyakoribbá tenni az ilyen kontextusokat az életünkben.
 Leggyakrabban az alacsony stressz-szintű, szeretetteljes, kifejezetten erotikus kontextus működik.
 De mindenki gondolja át a sajátját (jó és rossz múltbéli tapasztalatok alapján, például), mert nem az a feladat, hogy úgy csináljuk, mint mások, hanem ahogy nekünk jó.
@@ -391,141 +395,210 @@ Lásd még: [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %}), [Digit
 
 ## <a name="egyetnemertes"></a>"Egyet nem értés"
 
+A testünk szexuális reakciója általában a tanulás &#8658; tetszés &#8658; akarás menetrendet követi.
+Ezeket együtt kezeli az agyunk a gáz/fék megállapításához, általában a következő sorrendben:
 
-- tanulás -> tetszés -> akarás
-    - ezeket együtt kezeli az agyunk a gáz/fék megállapításához, általában a következő sorrendben
-        - egy ingerhez a korábbi tapasztalatokat alapul vevő *tanulás* adja meg a címkét, hogy az szexuális jellegű-e
-        - ha ez mellé jó (vagyis, az aktuális kontextusunkban jó), akkor tetszeni is fog
-        - és ha eléggé tetszik, akkor még akarunk majd belőle
-    - viszont függetlenek egymástól
-        - például a tanulás akkor is megadhatja a szexuális címkét (és ezzel elindíthatja a szervi reakciókat), ha közben a kontextus alapján nem igazán tetszik a helyzet
-        - és csak attól, hogy tetszik, nem feltétlen akarunk többet belőle
-        - illetve akkor is lehet *akarás*, ha nincs *tetszés*
-            - csak ilyenkor vagy annyira nem tetszik, hogy pont a menekülést akarjuk
-            - vagy csak a kielégülést akarjuk, de közben annyira nekünk sem tetszik, hogy ezt akarjuk
+- Egy ingerhez a korábbi tapasztalatokat alapul vevő *tanulás* adja meg a címkét, hogy az szexuális jellegű-e;
+
+- Ha ez mellé jó (vagyis, az aktuális kontextusunkban jónak ítéljük), akkor tetszeni is fog; és
+
+- Ha eléggé tetszik, akkor még akarunk majd belőle.
+    
+Viszont fontos megjegyezni, hogy ez csak **általában** megy így, és a lépések igazából függetlenek egymástól.
+Például a *tanulás* akkor is megadhatja a szexuális címkét (és ezzel elindíthatja a szervi reakciókat), ha közben a kontextus alapján nem igazán *tetszik* a helyzet.
+És csak attól, hogy *tetszik*, nem feltétlen *akarunk* többet belőle.
+Illetve akkor is lehet *akarás*, ha nincs *tetszés* -- csak ilyenkor vagy annyira nem tetszik, hogy pont a menekülést akarjuk, vagy csak a kielégülést akarjuk, de közben annyira nekünk sem tetszik, hogy ezt akarjuk.
+
+A lényeg: a testi reakció és a mentális reakció nem feltétlen jár kéz a kézben.
+Lehetünk úgy is nedvesek/merevek, hogy közben az események nem igazán jönnek be, és vice versa.
+És ez sokkal gyakoribb, mint azt gondolnánk -- amit az is alátámaszt, hogy én is most hallok erről először.
+
+Laboratóriumi, egyszerre szenzoros és szubjektív kísérletek alapján még a férfiaknál is csak 50% körüli az átfedés aközött, hogy a fejük és a farkuk mit talál izgatónak (változatos pornó nézés közben).
+De ez a nőknél mindössze 10, azaz **tíz** százalék!
+Ezzel a lendülettel pedig intsünk búcsút annak a tévhitnek, hogy a nedvesedés vagy a merevedés megegyezik a "beindulással".
+
+Ez persze nem jelenti, hogy csak úgy derült égből villámcsapásként nedvesedünk és/vagy merevedünk.
+Az szépen látszik a hétköznapi, nem szexuális jellegű felvételekre adott reakciókkal összevetve, hogy a nemi szervi reakciót a szexuális ingerek váltják ki.
+Naná.
+Viszont ez egyáltalán nem biztos, hogy egybeesik azzal, hogy az a bizonyos szexuális inger nekünk *tetszik*-e, vagy hogy *akarunk*-e még belőle többet.
+A szervi reakció *tanulás* eredménye, és csak azt a címkét mutatja, hogy szexuálisnak ítéltük-e meg az ingert.
+A *tetszés* és az *akarás* részeket hagyjuk meg a nemi szervek tulajdonosának!
+
+Ezzel a tudással felvértezve három veszélyes félreértést is eloszlathatunk:
+
+1. **Nem a férfi működés az alapértelmezés.**
+Illetve ugye láttuk, hogy a férfiaknál is **csak** 50% az átfedés a *tanulás* és a *tetszés* között -- használjuk ezt az ige terjesztésére.
+Elvégre nincs olyan, hogy fejben nagyon is benne lennénk, de a testi reakció hiányzik?
+A Viagra eladások alapján ez azért nem precedens nélküli eset!
+És olyanoknál is ám, akiknek másnap reggel simán van erekciója valami REM álom miatt, szóval nem testileg képtelen.
+
+2. **A nemi szervi válasz nem egyenlő az élvezettel.**
+Ha tudjuk, hogy a nőknél mennyire nem esik egybe a vágy és a testi reakció, abból (helytelenül) azt a következtetést is levonhatjuk, hogy a testi rész mondja az igazat, amit a nők tudatosan csak elfedni akarnak, mert szégyellik a valós vágyaikat.
+Ugyanez a tévedés egy feministább megfogalmazásban: látjátok, igenis szexuális lények vagyunk mi, nézzétek mi minden beindít minket, csak eddig el kellett nyomnunk magunkban a kulturális morális üzenet miatt (hogy ne legyünk ribancok).
+    
+    Ez azért veszélyes, mert használható a nemi erőszak kimagyarázására. Például "a szád nemet mondott, de a tested igent".
+    **NOPE!**
+    A testem legfeljebb azt mondta, hogy ami történik, az szexuális.
+    Attól még könnyen lehet, hogy nem volt jó és/vagy nem akartam!
+
+    Szóval itt a "beindítás" értelmezése a baj -- ez ugyanis továbbra sem a *szeretés* (és főleg nem az *akarás*), mindössze a *tanulás*.
+    Mint ahogy Pavlov kutyáinak is beindult a nyáltermelése a csengő hallatán, a testi reakció továbbra is csak annyit jelent, hogy a fejünk "szexhez kapcsolódónak" címkézte az ingert.
+    Ennyi.
+
+3. **Ez az "egyet-nem-értés" nem feltétlen probléma.**
+A jelenség korrelál ugyan a szexuális működészavarral, de mint tudjuk (vagyis, mint tudnunk kéne): a korreláció **nem** feltétlen jelent ok-okozati viszonyt (lásd ezeket a [vicces példákat](https://www.tylervigen.com/spurious-correlations){:target="_blank"}).
+Ha pedig csak annyi a baj, hogy szeretés/akarás mellett sincs megfelelő síkosítás a testi reakció hiányában, akkor használjunk síkosítót, és csá.
+Nem atomfizika.
+
+<br>
 
 
-- a lényeg: a testi reakció és a mentális reakció nem feltétlen jár kéz a kézben
-    - lehetünk úgy is nedvesek/merevek, hogy közben az események nem igazán jönnek be, és vice versa
-- és ez sokkal gyakoribb, mint azt gondolnánk
-    - pláne abból, hogy én is most hallok erről először
-    - laboratóriumi, egyszerre szenzoros és szubjektív kísérletek alapján még a férfiaknál is CSAK 50% körüli az átfedés aközött, hogy a fejük és a farkuk mit talál izgatónak (változatos pornó nézés közben)
-        - de ez a nőknél mindössze 10, azaz TÍZ százalék
-    - ezzel a lendülettel pedig intsünk búcsút annak a tévhitnek, hogy nedvesedés/merevedés == beindulás
-- ez persze nem jelenti, hogy csak úgy derült égből villámcsapás nedvesedünk/merevedünk
-    - az szépen látszik (hétköznapi, nem szexuális jellegű felvételekre adott reakciókkal összevetve), hogy a nemi szervi reakciót a szexuális ingerek váltják ki - DUUH.
-    - viszont ez egyáltalán nem biztos, hogy egybeesik azzal, hogy az a bizonyos szexuális inger nekünk tetszik-e, vagy hogy akarunk-e még belőle többet
-        - emlékszünk a tanulás/tetszés/akarás trióra -- na, a szervi reakció tanulás eredménye, és csak azt a címkét mutatja, hogy szexuálisnak ítéltük-e meg az ingert
-        - a tetszés és az akarás részeket hagyjuk meg a nemi szervek tulajdonosának
 
-- három (veszélyes) félreértés
 
-1. maga ez, hogy tudjunk erről a jelenségről... skip
-    - annyi plusz, hogy valszeg azért annyira nem elterjedt, mert a férfi az alap, abból indulunk ki
-    - de akkor ezt használjuk a javunkra: a férfiaknál is **csak** 50% az átfedés
-    - elvégre nincs olyan, hogy fejben nagyon is benne lennénk, de a testi reakció hiányzik?
-        - a Viagra eladások alapján ez azért nem precedens nélküli eset!
-        - és olyanoknál is ám, akiknek másnap reggel simán van erekciója valami REM álom miatt, szóval nem testileg képtelen
-2. nemi szervi válasz != élvezet
-    - ha tudjuk, hogy a nőknél mennyire nem esik egybe a vágy és a testi reakció, abból (helytelenül) azt a következtetést is levonhatjuk, hogy a testi rész mondja az igazat, amit a nők tudatosan csak elfedni akarnak, mert szégyellik a valós vágyaikat
-    - ugyanez a tévedés egy feministább megfogalmazásban: látjátok, igenis szexuális lények vagyunk mi, nézzétek mi minden beindít minket, csak eddig el kellett nyomnunk magunkban a kulturális morális üzenet miatt (hogy ne legyünk ribancok)
-    - de sajnos itt a "beindítás" értelmezése a baj - ez ugyanis továbbra sem a *szeretés* (és nem is az *akarás*), mindössze a tanulás
-    - mint ahogy Pavlov kutyáinak is beindult a nyáltermelése a csengő hallatán, a testi reakció továbbra is csak annyit jelent, hogy a fejünk "szexhez kapcsolódónak" címkézte az ingert. ennyi.
-    - veszély: erőszak kimagyarázás
-        - a szád nemet mondott, de a tested igent --> NOPE: a testem azt mondta, hogy ami történik, az szexuális. de attól még könnyen lehet, hogy nem volt jó és/vagy nem akartam!
-3. nonconcordance == probléma
-    - a nonconcordance korrelál a szexuális működészavarral
-    - de mint tudjuk (vagyis, mint tudnunk kéne): a korreláció NEM feltétlen jelent ok-okozati viszonyt
-        - https://www.tylervigen.com/spurious-correlations
-    - ha pedig csak annyi a baj, hogy szeretés/akarás mellett sincs megfelelő síkosítás a testi reakció hiányában, akkor használjunk síkosítót, és csá. nem atomfizika.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="vagy"></a>Vágy típusok
 
-- spontán vs. reaktív
-    - a élvezet reményében vs. az élvezet hatására
-    - hasonlat: kaktusz vs. paradicsom
-- sőt, igazából mindkettő ugyanaz, csak az élvezet küszöbünkön múlik
-    - akinek az alacsony (vagyis, érzékeny a gázpedálja), annak már akár a látvány vagy egy fantázia elég lehet ahhoz, hogy elég élvezetet nyújtson a vágy kialakulásához
-    - akinek magas, annak szép lassan kell felépíteni a pozitív ingereket egészen addig, amíg már majd ő is akarni kezdi a szexet
-    - de mindkét esetben az élvezet van előbb, és csak aztán a vágy -- a még több élvezet iránt
-    - szóval ettől csak még nagyobb marhaság lesz a spontán vágy típust elvárni mindenkitől, amikor valójában mindenki reaktív, csak különböző érzékenységgel megáldva
+A legnagyobb aha-pillanatot talán az nyújtotta számomra a könyvben, amikor rájöttünk, hogy a vágynak két típusa is lehet: *spontán* és *reaktív*.
+Az egyik az élvezet reményében késztet szexre, míg a másik a már eleve jelenlévő élvezet hatására.
+És ha csak ezt az egy, látszólag apró nézőpontváltást zsebre tesszük a könyvből, az már önmagában is hatalmas változást hozhat.
+A legtöbb szexhez kapcsolódó konfliktus ugyanis onnan ered, amikor egy spontán és egy reaktív ember összekerül.
+És hibáztatni vagy abnormálisnak gondolni a másikat az kb. annyit segít, mintha paradicsomot szeretnénk nevelni a kaktuszoknak való környezetben -- vagy fordítva.
 
-- késztetés vs. ösztönzés (sex **drive** vs. **incentive**)
-    - az éhség, a szomjúság, a testhőmérséklet megtartása, vagy az alvás, azok igazi szükségletek
-        - és amikor ezekből hiányt szenvedünk, akkor bizony lesz "spontán motivációnk", hogy pótoljuk őket
-        - ilyenkor valami negatív, valaminek a hiánya hajt minket
-    - de a szex nem ilyen
-        - a szexnél csak egy plusz jutalom van meglengetve az orrunk előtt, ami ösztönöz, hogy FELÉ mozduljunk
-        - de nincs semmi, ha nem mozdulunk
-- viszont ha **drive**-nak hisszük a szexuális vágyat, akkor mindjárt betegnek tekintjük majd azt, akinek ez hosszú kimaradás után sincs
-    - ami csak extra tévképzeteket és stresszt hoz be, ami pedig ugye nem kimondottabban segíti elő a vágyat
+És erre már jött is a következő aha-pillanat: igazából mindkettő típus ugyanaz, csak az élvezet küszöbünkön múlik.
+Akinek az alacsony (vagyis, érzékeny a gázpedálja), annak már akár a látvány vagy egy fantázia elég lehet ahhoz, hogy elég élvezetet nyújtson a vágy kialakulásához.
+Akinek magas, annak szép lassan kell felépíteni a pozitív ingereket egészen addig, amíg már majd ő is akarni kezdi a szexet.
+De mindkét esetben az élvezet van előbb, és csak aztán a vágy a még több élvezet iránt.
+Szóval ettől csak még nagyobb marhaság lesz a spontán vágy típust elvárni mindenkitől, amikor valójában mindenki reaktív, csak különböző érzékenységgel megáldva.
 
-- gyakori gyanúsítottak az alacsony vágyra
-    - hormonok -- nope, nincs szignifikáns összefüggés. a hormonok csak egy kis részét adják annak az átfogó kontextusnak, ami alapján megítéljük a szexualitásunkat, és ezért a hormonok piszkálása legtöbb esetben csak kis hatással lesz a vágyra
-    - monogámia -- nope, az is (mint szinte minden) kontextus függő. nem az a kérdés, hogy a monogámia vagy a poliamória-e a morálisan "helyes"; az teszi őket helyessé számunkra, hogy **hogyan** csináljuk őket
-        - hosszú távú kapcsolatokban is ugyanúgy lehet vágy, de ez nem lesz automatikus
-        - tudatosan irányítanunk kell a kontextust, ami mindenkinek személyre szabott
-- valódi gyanúsítottak az alacsony vágyra
-    - kulturális fékezés -- pont attól lesz probléma, hogy azt mondják, probléma van 
-    - az "üldözési dinamika" -- nem A vágya túl alacsony, vagy B vágya túl magas, a baj a különbséggel van, és hogy ezt hogy kezelik.
-        - kérés-visszautasítás, kérés-visszautasítás, és ahogy a kérő egyre megbántottabbnak és nemkívánatosnak érzi magát, úgy a visszautasító egyre kényszerítettebbnek és megítéltebbnek, ami csak tovább rontja a helyzetet.
-        - erre nem is viselkedési, hanem hozzáállási a megoldás: elfogadni, hogy egyikükkel sincs baj, és találni egy (nagyon szubjektív) kompromisszumot, ami mindkettőjüknek működhet (egy esetleges, hosszabb, tiszta lapot generáló szünet után)
+Az éhség, a szomjúság, a testhőmérséklet megtartása, vagy az alvás, azok igazi szükségletek.
+És amikor ezekből hiányt szenvedünk, akkor ne aggódjunk, ott bizony lesz "spontán motivációnk", hogy pótoljuk őket.
+Ilyenkor ugyanis valami negatív, valaminek a hiánya hajt minket.
+De a szex nem ilyen.
+A szexnél csak egy plusz jutalom van meglengetve az orrunk előtt, ami ösztönöz ugyan, hogy felé mozduljunk -- de akkor sincs semmi, ha nem mozdulunk.
+Ezért nem célszerű "szükségletnek" hívni a szexuális vágyat, hiszen akkor mindjárt betegnek tekintjük majd azt, akinek ez hosszú kimaradás után sincs.
+Ami csak extra tévképzeteket és stresszt hoz be, ami pedig ugye nem kimondottabban segíti elő a vágyat.
 
-- és ha már vágy: az egyáltalán nem egészségtelen (vagy meglepő), hogy az ember nem vágyik olyan szexre, amit nem is szeret (szeretés vs. akarás, ugye)
-    - a fentiek mind feltételezik, hogy maga a szex jó, csak az iránta érzett vágy a "kóros"
-    - de ha nem is jó, akkor ott nyilván az a jelentősebb probléma
-- és mi kell a jó szexhez (dióhéjban)
-    - jelenlét
-    - kapcsolódás
-    - intimitás (tisztelet, elfogadás, bizalom)
-    - kommunikáció
-    - önazonosság
-    - átszellemülés
-    - felfedezés (kísérletezés, kreativitás, móka)
-    - sebezhetőség
-- és hogy mi hiányzik erről a listáról, elég látványosan?
-    - a vágy. nem kell ráéhezni ahhoz, hogy jó legyen
+Gyakori gyanúsítottak az alacsony vágyra:
+    
+- **Hormonok** -- nope, nincs szignifikáns összefüggés.
+A hormonok csak egy kis részét adják annak az átfogó kontextusnak, ami alapján megítéljük a szexualitásunkat, és ezért a hormonok piszkálása legtöbb esetben csak kis hatással lesz a vágyra.
+
+- **Monogámia** -- nope, az is (mint szinte minden) kontextus függő.
+Nem az a kérdés, hogy a monogámia vagy a poliamória-e a morálisan "helyes"; az teszi őket helyessé számunkra, hogy **hogyan** csináljuk őket.
+Hosszú távú kapcsolatokban is ugyanúgy lehet vágy, de ez nem lesz automatikus.
+Tudatosan irányítanunk kell a kontextust, ami mindenkinek személyre szabott.
+
+Ezek helyett valódi gyanúsítottak az alacsony vágyra:
+
+- **Kulturális fékezés** -- ahol pont attól lesz probléma, hogy azt mondják, probléma van.
+
+- **"Üldözési dinamika"** -- ahol nem X vágya túl alacsony, vagy Y vágya túl magas, a baj a különbséggel van, és hogy ezt hogy kezelik.
+Kérés-visszautasítás, kérés-visszautasítás, és ahogy a kérő egyre megbántottabbnak és nemkívánatosnak érzi magát, úgy a visszautasító egyre kényszerítettebbnek és megítéltebbnek, ami csak tovább rontja a helyzetet.
+Erre nem is viselkedési, hanem hozzáállási a megoldás: elfogadni, hogy egyikükkel sincs baj, és találni egy (nagyon szubjektív) kompromisszumot, ami mindkettőjüknek működhet.
+Mindezt egy esetleges, hosszabb, tiszta lapot generáló szünet után.
+
+Ja, és ha már vágy: az egyáltalán nem egészségtelen (vagy meglepő), hogy az ember nem vágyik olyan szexre, amit nem is szeret.
+A fentiek mind feltételezik, hogy maga a szex jó, csak az iránta érzett vágy a "kóros".
+De ha nem is jó, akkor ott nyilván az a jelentősebb probléma.
+
+Hogy mi kell a jó szexhez?
+Nagoski szerint (dióhéjban): jelenlét, kapcsolódás, intimitás, tisztelet, elfogadás, bizalom, kommunikáció, önazonosság, átszellemülés, felfedezés, kísérletezés, kreativitás, móka, sebezhetőség, stb.
+És hogy mi hiányzik erről a listáról, elég látványosan?
+A vágy.
+Mert **nem** kell ráéhezni ahhoz, hogy jó legyen.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="orgazmus"></a>Orgazmus
 
-- mindenkinél másmilyen konkrét "tünetekkel" jár
-    - nincs feltétlenül izom összehúzódás/pulzálás, és nem is feltétlen "élvezetes" (mert az ugye kontextus függő)
-    - ezek mellett az orgazmus nem is hierarchikus, vagyis nincs jobb vagy rosszabb fajta - sőt, igazából különböző fajták sincsenek
-        - a csikló-orgazmus és a vaginális orgazmus nem két külön dolog.
-        - az orgazmus az orgazmus, de sokféle út vezet odáig, és kinek melyik működik
-        - ettől persze lehetnek különböző érzések, de az megint a kontextus függvénye
-        - a nők kb. 70%-ánál ritka a vaginális orgazmus, a csikló sokkal gyakoribb, és ez normális!
-- de ami általában közös, az egy "kész-ség érzés"
-    - hogy átbillentünk egy határon, és ott hirtelen, önkéntelenül, leenged minden addig gyűlőben lévő szexuális feszültség
-    - mint látjuk, ebben (szándékosan) nincs semmiféle szó nemi szervekről vagy konkrét izgatási formákról
-        - magyarán: az orgazmus az agyban történik, nem a nemi szervek környékén!
-    - mindenkinek lehet fantasztikus, de nem biztos, hogy úgy, vagy hogy olyan, mint amilyenre számít
-    - első lépés tehát itt is elengedni az elvárásokat
-- effort-to-progress ratio - a kis monitor az agyunk érzelmi központjában
-    - látja, mennyi energiát teszünk bele, és hogy ezáltal mennyire haladunk, milyen közel járunk már a célhoz
-    - ha úgy, vagy jobban, haladunk, mint szeretné, akkor minden szuper
-    - ha lassabban, akkor mérges lesz
-    - és ha elég ideig húzzuk a mérgét, akkor "elérhetetlennek" bélyegzi a célt, és kétségbeesésbe lök minket, hogy adjuk fel
-- ha ezt ki akarjuk játszani (az élet bármely területén, igazából):
-    - vagy változtassunk a célon (mert nem biztos, hogy azt kéne akarnunk, mint amit akarunk)
-    - vagy vizsgáljuk felül, milyen minőségű/mennyiségű erőfeszítést teszünk-e bele a haladásba
-    - vagy gondoljuk újra az elvárásainkat, hogy ez a cél milyen "könnyű" is valójában
-- és most konkrétan az orgazmussal kapcsolatban:
-    - ha vaginális orgazmust akarunk 10 percen belül, az lehet hogy nem fog menni, és jogosan
-    - ha bármilyen orgazmust egy óra alatt, annak sokkal jobbak az esélyei
-    - ha viszont magát az élvezetet vesszük célnak (és az orgazmus csak kb. egy melléktermék), akkor szinte az első lépéstől célban vagyunk, és az erőfeszítés-per-haladás monitorunk nem rinyálhat
-- a zokniviselés segít orgazmust elérni
-    - mutatta ki a kísérlet, ahol a hideg laborban, hideg lábfejjel nehéz volt az élvezetre koncentrálni, és így a zokni segített :D KONTEXTUS!!
-- sereglés - flocking
-    - egyszerre sokféle motiváció húz minket sok irányba - ezek a madaraink
-    - úgy is lehet orgazmusunk, hogy a madaraink többsége ér célba, de ha mind beérnének, az még sokkal jobb lenne
-    - ezért érdemes úgy intézni, hogy a lábmelegség felé lekanyarodókat visszacsalogassuk egy zoknival, és ilyesmi
-    - illetve: ez magyarázhatja azt is, hogy miért vannak önmagunkkal is ellentmondásos vágyaink
-        - és nem csak szexuális téren!
-        - nem egy oszthatatlan egység vagyunk, hanem egy motiváció "falka"
-- átfogó tanulság: kapcsoljuk ki a fékező tényezőket, a gázpedállal pedig próbáljuk fokozatosan gyorsítani, hogy minden madarunknak legyen ideje irányba fordulni
+Egy orgazmus mindenkinél másmilyen konkrét "tünetekkel" jár.
+Nincs feltétlenül izom összehúzódás/pulzálás, és nem is feltétlen "élvezetes" -- mert az ugye kontextus függő.
+Ezek mellett az orgazmus nem is hierarchikus, vagyis nincs jobb vagy rosszabb fajta.
+Sőt, igazából különböző fajták sincsenek.
+A csikló-orgazmus és a vaginális orgazmus például nem két külön dolog.
+Az orgazmus az orgazmus, de sokféle út vezet odáig, és kinek melyik működik.
+
+Ami általában közös, az egy "kész-ség érzés".
+Hogy átbillentünk egy határon, és ott hirtelen, önkéntelenül, leenged minden addig gyűlőben lévő szexuális feszültség.
+Mint látjuk, ebben (szándékosan) nincs semmiféle szó nemi szervekről vagy konkrét izgatási formákról.
+Magyarán mondva, az orgazmus az agyban történik, nem a nemi szervek környékén.
+
+Mindenkinek lehet fantasztikus, de nem biztos, hogy úgy, vagy hogy olyan, mint amilyenre számít.
+Itt fontos konkrétumként megemlíteni, hogy a nők kb. 70%-ánál ritka vagy akár egyáltalán nem létező a vaginális orgazmus!
+A csikló orgazmus sokkal gyakoribb, és ez normális.
+Nem megijedni, hogy sérült termékek vagyunk!
+
+Ami keresztbe tehet az orgazmusnak, az az erőfeszítés-per-haladás arányt figyelő kis monitor az agyunk érzelmi központjában.
+Ez látja, mennyi energiát teszünk bele az aktuális tevékenységbe, illetve hogy ezáltal mennyire haladunk és milyen közel járunk már a célhoz.
+Ha úgy haladunk (vagy jobban), mint szeretné, akkor minden szuper.
+Ha viszont lassabban, akkor mérges lesz.
+És ha elég ideig húzzuk a mérgét, akkor "elérhetetlennek" bélyegzi a célt, és kétségbeesésbe lök minket, hogy adjuk fel.
+
+Ha ezt ki akarjuk játszani (az élet bármely területén, igazából), akkor:
+
+- Vagy változtassunk a célon (mert nem biztos, hogy azt kéne akarnunk, mint amit akarunk);
+
+- Vagy vizsgáljuk felül, milyen minőségű/mennyiségű erőfeszítést teszünk-e bele a haladásba;
+
+- Vagy gondoljuk újra az elvárásainkat, hogy ez a cél milyen "könnyű" is valójában.
+
+És most konkrétan az orgazmussal kapcsolatban: ha vaginális orgazmust akarunk 10 percen belül, az lehet hogy nem fog menni, és jogosan.
+Ha *bármilyen* orgazmust akarunk egy óra alatt, annak sokkal jobbak az esélyei.
+Ha viszont magát az élvezetet vesszük célnak (és az orgazmust csak kb. egy mellékterméknek), akkor szinte az első lépéstől célban vagyunk, és az erőfeszítés-per-haladás monitorunk nem rinyálhat.
+
+Plusz segítség lehet Nagoski "sereglés" hasonlata, miszerint egyszerre sokféle motiváció húz minket sok irányba -- ezek a sereglő madaraink.
+Na most úgy is lehet orgazmusunk, hogy a madaraink többsége ér célba, de ha mind beérnének, az még sokkal jobb lenne.
+Ezért érdemes mondjuk úgy intézni, hogy a lábmelegséggel törődés felé lekanyarodókat visszacsalogassuk egy zoknival, és ilyesmi.
+
+Illetve: ez szépen magyarázhatja azt is, hogy miért vannak önmagunkkal is ellentmondásos vágyaink, és nem csak szexuális téren!
+Mert nem egy oszthatatlan egység vagyunk, hanem egy motiváció "falka".
+Az átfogó tanulság tehát, hogy kapcsoljuk ki a fékező tényezőket, a gázpedállal pedig próbáljuk fokozatosan gyorsítani, hogy minden madarunknak legyen ideje irányba fordulni.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## <a name="hozzaallas"></a>Hozzáállás
 
