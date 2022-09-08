@@ -9,27 +9,28 @@ excerpt: >
     TODO
 ---
 
+Vizsgáltuk már a párkapcsolatokat a [szeretetnyelvek]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}), az [erőszakmentes kommunikáció]({% post_url 2021-10-09-marshall-rosenberg-eroszakmentes-kommunikacio %}), vagy épp a [jó házasság alapelveinek]({% post_url 2020-10-31-john-gottman-a-jol-mukodo-hazassag-7-alapelve %}) szemszögéből.
+Ám ezek mind kissé plátói módon álltak a szexualitás témaköréhez.
+Na ma ezt a rést fogjuk betömni.
+Höhö!
+
+Na!
+Éretlenül vigyorgó kamasz énünket tessék félretenni, ez most komoly.
+Alanyunk Emily Nagoski -- [Úgy, ahogy vagy](https://moly.hu/konyvek/emily-nagoski-ugy-ahogy-vagy){:target="_blank"} című könyve, aminek számos szemfelnyitó pillanata számomra jól mutatta, mennyire nem oké, hogy szélesebb társadalmi körben nem beszélünk nyíltan az ilyesmiről.
 
 Nagoski tapasztalatai szerint a legtöbb, nagyon specifikus (és esetenként grafikus) szexuális kérdés hátterében általában az a kérdés bújik meg: Normális vagyok?
 És az esetek túlnyomó többségében a válasz: Igen.
+Könyvében a nőkön van a hangsúly, mert habár a "szexuális felvilágosodás" már tart egy ideje, eddig leginkább a férfiakkal, az ő testi működésükkel, és az ő vágyaikkal foglalkoztunk.
 
-- A nőkön lesz a hangsúly, mert habár a "szexuális felvilágosodás" már tart egy ideje, eddig leginkább a férfiakkal, az ő testi működésükkel, és az ő vágyaikkal foglalkoztunk
-    - A női szexualitás a férfi szexualitás "light" változata volt
-    - A férfiak adták a kiindulási alapot, a "normális" baseline-t, és ahol a nők ezt nem ütötték meg, ott hibára gyanakodtunk, nem különbségre (és igen, ez így visszatekintve elég égő)
-- Persze férfiakból is előfordulhatnak olyanok, akik nem felelnek meg a de facto férfi szexualitás standard-nek
-    - És még akik meg is felelnek, azoknak sem árt a fejtágítás, hogy kicsit jobban megérthessék a partnerüket (és magukat, és az opciókat...)
+Kb. mondhatni, hogy a női szexualitás a férfi szexualitás "light" változata volt.
+A férfiak adták a kiindulási alapot, a "normális" baseline-t, és ahol a nők ezt nem ütötték meg, ott hibára gyanakodtunk, nem különbségre.
+Igen, ez így visszatekintve elég égő.
+Persze férfiakból is előfordulhatnak olyanok, akik nem felelnek meg a de facto férfi szexualitás standard-nek.
+És még akik meg is felelnek, azoknak sem árt a fejtágítás, hogy kicsit jobban megérthessék a partnerüket; és magukat; és az opciókat.
 
-- A szexualitás nem csak egy viselkedés (mit csinálunk, kivel, milyen gyakran), hanem tartozik hozzá egy csomó biológia, pszichológia, és szociológia, ezért igyekszünk egy teljesebb képet festeni róla
-    - a fordulópont, hogy végre nem csak az a téma, hogy mi történik, hanem az is, hogy miért, és hogy hogyan
-- Általános model: dual control
-    - és habár a vágy és az orgazmus kb. mindenkinél hasonló, az nagyon különböző, hogy kinél mi nyomja a gázt agy a féket, és mennyire
-- A szexuális válasz reakcióink helyesen működnek - csak egy helytelen világban
-    - De ha egyszer megértjük, hogy a reakcióink hogyan (és miért) működnek úgy, ahogy, akkor utána remélhetőleg a kontextusunkat és a hozzáállásunkat is könnyebb lesz hozzá igazítani
-
-
-
-
-[Úgy, ahogy vagy](https://moly.hu/konyvek/emily-nagoski-ugy-ahogy-vagy){:target="_blank"}
+Végre tartunk egy olyan szinten, ahol a szexualitás már nem csak egy viselkedés (mit csinálunk, kivel, milyen gyakran), hanem tartozik hozzá egy csomó biológia, pszichológia, és szociológia, amivel megpróbálhatunk egy teljesebb képet festeni a témáról.
+Végre nem csak az a téma, hogy mi történik, hanem az is, hogy miért, és hogy hogyan.
+És ha egyszer megértjük, hogy a reakcióink miért és hogyan működnek úgy, ahogy, akkor utána remélhetőleg a kontextusunkat és a hozzáállásunkat is könnyebb lesz hozzá igazítani.
 
 A tartalom a következőképp alakul:
 
@@ -602,56 +603,52 @@ Az átfogó tanulság tehát, hogy kapcsoljuk ki a fékező tényezőket, a gáz
 
 ## <a name="hozzaallas"></a>Hozzáállás
 
-- A jó szex titka a magabiztosság és az öröm
-    - hogy **ismerjük** magunkat: a testünket, az elménket, a szexualitásunkat és az életünket; és **szeressük** is ezeket
-    - szexuális téren kicsit specifikusabban: tudjuk is, hogy mitől indulunk be, és szeressük is azt, amitől beindulunk (a társadalmi kondicionálás, szégyenérzet, stb. ellenére!)
-- ebből a magabiztosság a könnyű rész, amiben eddigiek sokat segíthetnek
-    - az öröm a nehéz rész, ahhoz jön most egy technika
+A jó szex titka a magabiztosság és az öröm.
+Hogy **ismerjük** magunkat: a testünket, az elménket, a szexualitásunkat és az életünket; és **szeressük** is ezeket.
+Szexuális téren kicsit specifikusabban: tudjuk is, hogy mitől indulunk be, és szeressük is azt, amitől beindulunk -- a társadalmi kondicionálás, szégyenérzet, stb. ellenére!
 
-- az önbizalom magában nem elég
-    - tudhatjuk valamiről magunkkal kapcsolatban, hogy igaz, és mégis gondolhatjuk, hogy az egy defekt
-    - el is fogadhatjuk valamiről magunkkal kapcsolatban, hogy az igaz ÉS nem defekt, de attól a világ visszajelzései ezt mégis elkoptathatják (ha elégszer halljuk, hogy az defekt, akkor egy idő után nekünk is elkezd majd megingani a bizalmunk)
-    - és még ha kívülről békén is hagynak, mi magunk is lehetünk a saját ellenségünk a fejünkön belülről -- mert attól, hogy tudjuk és elfogadjuk magunkat, attól a társadalmi programozás mások nélkül is ott fog csengeni
+Ebből a magabiztosság a könnyű rész, amiben az eddigiek remélhetőleg sokat segíthetnek.
+De az önbizalom magában nem elég.
+Elvégre tudhatjuk valamiről magunkkal kapcsolatban, hogy igaz, és mégis gondolhatjuk, hogy az egy defekt.
+Vagy el is fogadhatjuk valamiről magunkkal kapcsolatban, hogy az igaz **és** nem defekt, de attól a világ visszajelzései ezt mégis elkoptathatják.
+Mondjuk ha elégszer halljuk, hogy az defekt, és egy idő után nekünk is elkezd megingani a bizalmunk.
 
-- reality-checking
-    - a fenti monitoros példa három változtatási lehetőségét hívja így
-    - ha a térkép és a terep nem egyezik, akkor nem a terep a hibás, hanem a térkép!
-        - de az agyunk mégis hajlamos a térképnek igazat adni, ha nem vesszük a fáradságot, és nézünk körül
+Sőt, még ha kívülről békén is hagynak, mi magunk is lehetünk a saját ellenségünk a fejünkön belülről -- mert attól, hogy tudjuk és elfogadjuk magunkat, attól a társadalmi programozás mások nélkül is ott fog csengeni.
+Pedig ha a térkép és a terep nem egyezik, akkor nem a terep a hibás, hanem a térkép!
+Az agyunk mégis hajlamos a térképnek igazat adni, ha nem vesszük a fáradságot, és nézünk körül.
 
-- nonjudging
-    - sajnos még a tudatos ön-megfigyelés sem elég
-    - az kell, hogy úgy tudjuk megfigyelni magunkat, hogy közben nem ítélkezünk
-    - éés itt megint csak Sztoicizmus: a belső világunk és az érzéseink megfigyelése is ugyanolyan inger, mint a külvilágból érkező látványok és illatok
-        - és ezek ugyanolyan semlegesek is lehetnek, ha nem kapcsolunk hozzájuk pozitív/negatív címkéket
+Ilyenkor kell az **ítéletmentesség**.
+Sajnos még a tudatos ön-megfigyelés sem elég.
+Az kell, hogy úgy tudjuk megfigyelni magunkat, hogy közben nem ítélkezünk.
+Látjuk, hogy még egy szexes könyvben is a Sztoicizmus köszön vissza?
+A belső világunk és az érzéseink megfigyelése is ugyanolyan inger, mint a külvilágból érkező látványok és illatok -- és ezek ugyanolyan semlegesek is lehetnek, ha nem kapcsolunk hozzájuk pozitív vagy negatív címkéket.
     
-    - > > It’s not how you feel—it’s not even being aware of how you feel. It’s how you feel about how you feel.
+> Nem az a lényeg, hogy mit érzel -- és még csak nem is az, hogy tudatában vagy-e, hogy mit érzel. A lényeg, hogy mit érzel azzal kapcsolatban, amit érzel.
+> > It’s not how you feel—it’s not even being aware of how you feel. It’s how you feel about how you feel.
 
-    - no good reason - ha nem érezzük "ki" az érzéseinket, csak mert nincs értelmük, akkor majd megpróbálnak olyan szituációkat találni, amiken keresztül kiélhetik magukat
-        - ezért vagyunk mérgesek arra az ételtárolóra, amit a hűtő hátuljából kell előtúrni, amikor közben igyekszünk nem mérgesek lenni valami állítólag indokolatlan, mégis valós dolog miatt
-        - de nem kötelező negatív címkével ellátnunk a haragunkat ahhoz, hogy kiéljük; hagyjuk, hogy beteljesítse a körforgását, és befejeződhessen
-    - traumából gyógyulás
-        - el kell fogadni, hogy közben szar; és soha nem is lesz olyan jó, mint előtte volt, vagy majd utána lehet
-        - de ha elfojtjuk, azzal nem csak ideiglenes menedéket kapunk a szenvedéstől, hanem a gyógyulást is szüneteltetjük
-        - legyünk rendben azzal, hogy nem vagyunk rendben, és akkor, idővel, rendben leszünk
-    - fájdalom
-        - az egyedüli, ami tényleg nem "normális", az a váratlan, nem szándékos fájdalom
-        - sok nő az ilyet eltűri, mert valahonnan (kultúr üzenet?) a fejébe vette, hogy némi fájdalomra számítani kell
-        - hát nem. és itt a nem-ítélkezés pont a másik oldalról fordíthat vissza
-            - nem valami természetesre mondtuk, hogy az úgy nem jó
-            - hanem valami rendellenesre mondtuk, hogy jó - de ha nem ítélkeznénk előre, hogy az úgy jó, akkor a saját testünk jelzései alapján érezhetnénk mi azt, hogy nem.
-    - élvezet
-        - persze ide is vonatkozik, mert sokszor nem hagyjuk magunknak azt szeretni, amit szeretünk, mert azt hisszük, hogy nem azt kéne szeretnünk, vagy mert a párunk nem azt szeretné
+Ha nem érezzük "ki" az érzéseinket, csak mert nincs értelmük, akkor majd megpróbálnak olyan szituációkat találni, amiken keresztül kiélhetik (kiélTEThetik?) magukat.
+Ezért vagyunk mérgesek arra az ételtárolóra, amit a hűtő hátuljából kell előtúrni, amikor közben igyekszünk nem mérgesek lenni valami állítólag indokolatlan, mégis valós dolog miatt.
+De nem kötelező negatív címkével ellátnunk a haragunkat ahhoz, hogy kiéljük; hagyjuk, hogy beteljesítse a körforgását, és befejeződhessen.
 
-        > > When you turn toward suffering with nonjudgment, the suffering diminishes as wounds heal. When you turn toward pleasure with nonjudgment, it expands to fill the space judgment once filled. I don’t know why this is true, but it’s an essential fact about nonjudgment.
+Mindezt a szexre vonatkoztatva: legyünk tudatában a vágyainknak, és engedjük ki a velük kapcsolatos érzéseinket, hogy aztán nyugodtan szerethessük őket.
+Hagyjuk magunknak azt szeretni, amit szeretünk.
+Ne álljunk a saját utunkba csak azért, mert azt hisszük, hogy nem azt kéne szeretnünk -- vagy mert a párunk nem azt szeretné.
 
-    - a "kellene" érzések meggyászolása
-        - attól, hogy észrevesszük a saját ítélkezésünket, még nem biztos, hogy könnyű lesz elengedni
-        - mert olyankor úgy kell átállítanunk a monitorunkat, hogy valami mást célzunk meg
-            - ahhoz viszont el kell engedni az eddigi célt
-            - amit a monitor úgy él meg, hogy kudarcot vallottunk
-            - de ha ezen átesünk, akkor ott lesz a hely és energia az új (és helyesebb) célnak
+Az egyedüli, ami tényleg nem "normális", az a váratlan, nem szándékos fájdalom.
+Sok nő az ilyet eltűri, mert valahonnan a fejébe vette, hogy némi fájdalomra számítani kell.
+Hát nem.
+És itt a nem-ítélkezés pont fordítottja, mert nem valami természetesre mondjuk, hogy az úgy nem jó, hanem valami rendellenesre próbálnánk ráerőltetni, hogy jó.
+De ha nem ítélkeznénk előre, hogy az úgy jó, akkor a saját testünk jelzései alapján érezhetnénk mi azt, hogy nem.
 
-    >> If everyone involved is glad to be there and free to leave whenever they choose, then anything they do is normal.
+Ezen felül azonban kb. szabad a pálya.
+Vagy ahogy Nagoski mondja:
+
+> Ha minden résztvevő örül, hogy ott lehet, és bármikor távozhat, akkor akármit csinálnak is, az normális.
+>> If everyone involved is glad to be there and free to leave whenever they choose, then anything they do is normal.
+
+<br>
+
+
 
 
 
