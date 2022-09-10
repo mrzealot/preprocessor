@@ -4,7 +4,7 @@ title: Emily Nagoski - Úgy, ahogy vagy
 cover: comeasyouare
 tags: [kapcsolatok, szemléletmód]
 pages: 472
-date: 2022-08-30 00:01
+date: 2022-09-10 00:01
 excerpt: >
     Vizsgáltuk már a párkapcsolatokat a szeretetnyelvek, az erőszakmentes kommunikáció, vagy épp a jó házasság alapelveinek szemszögéből.
     Ám ezek mind kissé plátói módon álltak a szexualitás témaköréhez.
@@ -30,7 +30,7 @@ Igen, ez így visszatekintve elég égő.
 Persze férfiakból is előfordulhatnak olyanok, akik nem felelnek meg a de facto férfi szexualitás standard-nek.
 És még akik meg is felelnek, azoknak sem árt a fejtágítás, hogy kicsit jobban megérthessék a partnerüket; és magukat; és az opciókat.
 
-Végre tartunk egy olyan szinten, ahol a szexualitás már nem csak egy viselkedés (mit csinálunk, kivel, milyen gyakran), hanem tartozik hozzá egy csomó biológia, pszichológia, és szociológia, amivel megpróbálhatunk egy teljesebb képet festeni a témáról.
+Végre tartunk egy olyan szinten, ahol a szexualitás már nem csak egy viselkedés (mit csinálunk, kivel, milyen gyakran), hanem tartozik hozzá egy csomó biológia, pszichológia, és szociológia, amivel megpróbálhatunk egy teljesebb képet festeni.
 Végre nem csak az a téma, hogy mi történik, hanem az is, hogy miért, és hogy hogyan.
 És ha egyszer megértjük, hogy a reakcióink miért és hogyan működnek úgy, ahogy, akkor utána remélhetőleg a kontextusunkat és a hozzáállásunkat is könnyebb lesz hozzá igazítani.
 
@@ -73,7 +73,7 @@ Ugyanilyen változatosság a kis/nagyajkaknál -- sokféle méret, szín, szőr 
 De amíg nincs fájdalom, addig nagy valószínűséggel minden egészséges és normális!
 
 Megjegyezzük, hogy a "hasznos" részekkel ellentétben a szűzhártya csak egy evolúciós maradvány melléktermék.
-Van, akinek egyáltalán nincs; van, akinek még menopausa után is van.
+Van, akinek egyáltalán nincs; van, akinek még menopauza után is van.
 Nem mindig szakad; van, hogy begyógyul; van, akinek eleve lyukas.
 Egy funkcióval bíró férfi rész homológja, de ugyanúgy értelmetlen női esetben, mint ahogy a mellbimbó értelmetlen a férfiakon.
 Mégis a kultúra rengeteg mítoszt sző köré, aminek valós következményei lehetnek -- szüzesség mánia miatti büntetés, ha nincs; nemi erőszak tagadhatósága, ha van; stb.
@@ -85,14 +85,14 @@ A női ejakuláció is olyan melléktermék, mint a szűzhártya vagy férfi mel
 A fő üzenet tehát még egyszer: ugyanazokból az alkotóelemekből állunk, csak mindenkinél máshogy összerakva!
 És ez a fizikai mellett a vágy mentális vetületeire is vonatkozik, mint majd látni fogjuk.
 Nincs értelme semmit szigorúan csoportosítani, mert sokszor nagyobb lesz a variancia a csoportokon belül, mint a csoportok között.
-Példa a magasság, ahol a férfiak és a nők között kevesebb, mint akár a férfiak, akár a nők csoportjában, maguk között.
+Példa a magasság, ahol a férfiak és a nők között kevesebb a különbség, mint akár a férfiak, akár a nők csoportjában, maguk között.
 
-A jelenleg domináns kulturális metaforák (és az azokkal járó morális ítéletek) helyett használjunk inkább egy kert alapú metaforát.
-Mindannyiunk szexualitása egy kert, amihez egy egyedi kis telket kapunk (hardware).
+A jelenleg domináns kulturális modellek (és az azokkal járó morális ítéletek) helyett használjunk inkább egy kert alapú metaforát.
+Mindannyiunk szexualitása egy kert, amihez egy egyedi kis telket kapunk.
 Ide a családunk és a kultúránk elültet dolgokat és tanítgat minket a gondozására, amíg majd át nem vehetjük.
 De amint átvesszük, onnantól miénk a felelősség a gondozásáért!
 Ha nem jó a művelési módszertan, amit tanítottak velünk, akkor találjunk másikat.
-Ha nem jó magokat vetettek el (ami a mi földünkben nem érzi jól magát), akkor gyomláljunk, és/vagy vessünk helyette mást.
+Ha nem jó magokat vetettek el -- mondjuk amik a mi földünkben nem érzik jól magukat -- akkor gyomláljunk, és/vagy vessünk helyette mást.
 
 <br>
 
@@ -142,7 +142,7 @@ A vágy ugyanis nem szimplán "vagy van, vagy nincs" -- a vágy a "Mennyire legy
 Magyarán: a vágyhoz nem csak egy gáz pedál létezik, hanem egy fék is.
 A vágy érzetünk pedig a gáz és a fék pedálunk taposási erősségének *különbsége*!
 Praktikus szempontból ez azért fontos, mert végre felismerhetjük, hogy a vágy hiánya nem csak akkor áll elő, ha nincs gáz, hanem akkor is, ha túl sok a fék (hiába nyomjuk esetleg a gázt is mellette).
-A problémák diagnosztizálásához tehát először is érdemes tudni, hogy a gáz a túl kevés, vagy a fék a túl sok.
+A problémák diagnosztizálásához tehát először is érdemes tudni, hogy a gáz-e a túl kevés, vagy a fék a túl sok.
 
 Nagy gáz és kis fék érzékenység mellett például gyorsan reagálunk a szexuális ingerekre, és nem nagyon van "kontroll" mellette.
 Ilyenkor jellemzően sok a partner, sok az egy éjszakás kaland, nem fontos annyira a fogamzásgátlás, több a szexuális kockázat és a kísérletezés, a szex stresszoldásra is használható, stb.
@@ -150,7 +150,7 @@ Ezzel szemben a kis gáz, nagy fék érzékenyek nagyon élesen érzik, hogy mi�
 Mindennek stimmelnie kell, hogy egyáltalán esély legyen a vágyra; mi lesz, ha terhesség lesz?!; mi lesz, ha elkap valamit; jajj, már így is túl sokáig tart, de még most is ezen agyalok!
 Ebben nem is a gázt nyomni nehéz (hiába "kicsi" a gáz) -- sokkal több munka a fékeket elég ideig kioldva tartani, hogy a gáznak hatása lehessen.
 
-Szóval lehet aránytalan hangsúly a gáz irányába is, de a probléma szinte mindig a túlérzékeny fékekkel van.
+Szóval lehet aránytalan hangsúly a gáz irányába is, de a tapasztalatok szerint a probléma szinte mindig inkább a túlérzékeny fékekkel van.
 A férfiaknál *általában* erősebb a gázpedál érzékenysége, míg a nőknél a féké, de ez kb. ugyanaz, mint a magasságnál: nagyobb lesz a variancia a csoportokon belül, mint a csoportok között.
 A lényeg, hogy magunkat megismerjük, és így célzottan tudjuk megteremteni magunknak a legjobb környezetet a szexualitásunk kiéléséhez.
 
@@ -191,22 +191,21 @@ A kontextus ebben a jelentésében a pillanatnyi körülmények (kivel vagyunk, 
 Ez határozza meg, hogy mire hogy reagálunk.
 És ez az, amit értenünk kell (és amit megváltoztathatunk) ahhoz, hogy a beépített gáz/fék érzékenységünk mellett is jobb lehessen a végeredmény.
 
-Példaként gondoljunk csak a csiklandozás flörtölés közben kontra veszekedés közben.
+Példaként gondoljunk csak a csiklandozásra flörtölés közben kontra veszekedés közben.
 Ugyanaz az inger, de a különböző kontextus miatt *nagyon* más a rá adott reakciónk, nem?
 Szóval tovább megyünk, mint a citromos patkány.
 Nem csak egy látszólag nem odatartozó inger billenhet semlegesből szexuálisba, hanem:
 
-- Látszólag odatartozó ingerek is visszabillenhetnek semlegesbe (nagy mellek egy segg-mániás férfi szemében);
+- Látszólag odatartozó ingerek is visszabillenhetnek semlegesbe (pl. nagy mellek egy segg-mániás férfi szemében);
 
-- Látszólag odatartozó ingerek is átmehetnek fékező hatásúba (nagy mellek egy meleg férfi szemében);
+- Látszólag odatartozó ingerek is átmehetnek fékező hatásúba (pl. nagy mellek egy meleg férfi szemében);
 
-- Amúgy fékező hatású dolgok is lehetnek szexuálisak (nagyon nem mindegy, mikor/hol/hogy húzzák meg a hajunkat).
+- Amúgy fékező hatású dolgok is lehetnek szexuálisak (pl. nagyon nem mindegy, mikor/hol/hogy húzzák meg a hajunkat).
 
 Alátámasztásnak nézzünk egy másik patkányos kísérletet, csak itt konkrétan agyi stimulációval.
-Célunk a Nucleus Accumbens felső/alsó részének ingerlése, ami *felé* vagy *el* fordulást vált ki.
-Egy normál, semleges környezetben voltak ingerek, amiket a patkányok jónak ítéltek (amik kíváncsiságot, FELÉ fordulás váltottak ki), és voltak, amiket rossznak (amik undort és ELfordulást eredményeztek).
-De: egy nyugodt, stresszmentes, csendes, sötét, majdhogynem magzati helyzetben akár a negatív inger is FELÉ fordulást okoz (ami máskor undort okozna).
-Illetve egy idegesítő, taszító, hangos, fényes, stresszes helyzetben még a pozitív inger is EL fordulást okozott (ami máskor érdeklődést okozna).
+Célunk a Nucleus Accumbens felső/alsó részének ingerlése, ami egy normális, semleges környezetben mesterséges **felé** vagy **el** fordulást vált ki.
+De: egy nyugodt, stresszmentes, csendes, sötét, majdhogynem magzati helyzetben akár a negatív inger is felé fordulást okoz (ami máskor undort okozna).
+Illetve egy idegesítő, taszító, hangos, fényes, stresszes helyzetben még a pozitív inger is elfordulást okozott (ami máskor érdeklődést okozna).
 
 Vagyis a kontextus nem **csak** azt jelenti, hogy csináljunk hangulatot gyertyákkal vagy szexi fehérneművel.
 Azt is jelenti, hogy ha nem megfelelőek vagy a külső körülmények, vagy a belső mentális állapot, akkor mindegy lesz, milyen szexi az a fehérnemű.
@@ -218,7 +217,7 @@ Egy kísérlet például kimutatta, hogy a zokniviselés segít orgazmust elérn
 És így a zokni naná, hogy segített!
 Minden a kontextuson múlik.
 
-Vagyis az elégedettségünk leginkább úgy növelhető, ha képesek vagyunk felismerni magunkban, hogy milyen kontextusok hatására látjuk a világot egy "szexibb helynek", és hogy aztán képesek vagyunk-e egyre gyakoribbá tenni az ilyen kontextusokat az életünkben.
+Az elégedettségünk leginkább úgy növelhető, ha képesek vagyunk felismerni magunkban, hogy milyen kontextusok hatására látjuk a világot egy "szexibb helynek", és hogy aztán képesek vagyunk-e egyre gyakoribbá tenni az ilyen kontextusokat az életünkben.
 Leggyakrabban az alacsony stressz-szintű, szeretetteljes, kifejezetten erotikus kontextus működik.
 De mindenki gondolja át a sajátját (jó és rossz múltbéli tapasztalatok alapján, például), mert nem az a feladat, hogy úgy csináljuk, mint mások, hanem ahogy nekünk jó.
 
@@ -259,15 +258,15 @@ Ezek helyett fejezzük be a stressz reakciót.
 Meneküljünk el a ragadozó elől, vagy "öljük" meg, vagy olvasszuk ki magunkat a lefagyásból, és örüljünk, hogy túléltük.
 
 Nehezítés, hogy a természetben található "akut" stresszek (mint mondjuk egy oroszlán) helyett a modern világban inkább krónikus, lassabb de hosszabb ideig elhúzódó stressz forrásokkal találkozhatunk.
-Ezeknek nincs egyértelmű "végük", ezért soha nem engedünk el őket, és belülről felőrölnek.
+Ezeknek nincs egyértelmű "végük", ezért soha nem engedjük el őket, és belülről felőrölnek.
 Szóval ha kell, csináljunk nekik mesterséges véget, vagy legalább szimuláljuk valahogy.
-Aludjunk, meditáljunk, gondoskodjunk magunkról, vagy akár csak sírjuk ki magunkból (ami nem jelenti, hogy fetrengjünk az önsajnálatban, hanem épp hogy tegyünk vele pontot az épp aktuális "bántás" végére).
+Aludjunk, meditáljunk, gondoskodjunk magunkról, vagy akár csak sírjuk ki magunkból -- ami nem jelenti, hogy fetrengjünk az önsajnálatban, hanem épp hogy tegyünk vele pontot az épp aktuális "bántás" végére.
 Lásd [Bagdy Emőke]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %}) edzéses, mozgásos, vagy csak szimplán izomfeszítős és elernyesztős modellje, ami után könnyebben megnyugodhatunk.
 
 <br>
 
 A másik a **szeretet**, ami ebből a szemszögből lehet pozitív (szenvedély, románc, öröm), de negatív is (irigység, szívfájdalom, gyász).
-A lényeg, hogy mindig a *törött* állapotból az *egész* állapotba terelget minket, mert kiskorunkban azt tanultuk a gondviselőkkel kapcsolatban, hogy függünk tőlük, és szó szerint az "egész-ségünkhöz" szükségünk van a másik felünkre.
+A lényeg, hogy mindig a *törött* állapotból az *egész* állapotba terelget minket, mert kiskorunkban azt tanultuk a gondviselőkkel kapcsolatban, hogy függünk tőlük, és a szó szerinti "egész-ségünkhöz" szükségünk van a másik felünkre.
 Ez felnőttként persze már nem feltétlen igaz a kapcsolatainkra, de ettől mi még úgy érezzük.
 Általános a közelség és a biztos kikötő keresése, a szétválás nehézsége, stb.
 
@@ -308,7 +307,7 @@ Tovább folytatva a kert metaforát: a kis telkünkre nem csak a család vet ugy
 Nem fair, hogy velük is meg kell birkózni -- senki nem kérdezi meg, hogy elültetheti-e bennünk a test önkritikát vagy a szexuális szégyenérzetet -- de ez van.
 
 A tetejébe ezek a kúszó hitek nem kimondottabban új keletűek.
-Szeretjük azt hinni, hogy haladunk, de a szexben mégis a 100 éves kézikönyvek szintjén vagyunk.
+Szeretjük azt hinni, hogy haladunk, de a szexben mégis sokszor a 100 éves kézikönyvek szintjén ragadtunk.
 Térjünk hát ki ezekre az alapértelmezésekre egy kicsit.
 
 - **Az ősrégi morális üzenet**: a szüzesség érték, és aki elherdálja, az egy ribanc.
@@ -337,7 +336,7 @@ Gyakorlatilag mi leszünk a saját oroszlánunk a saját szemünkben.
 - A súlyfelesleg nem feltétlen egészségtelen!
 Na azért ennek is van egy túloldala, szóval teljesen (vagy legalábbis, korlátok nélkül) nem értek egyet a szerzővel, amikor azt mondja, hogy szarni le.
 De az jogos, hogy önelfogadás és önkedvesség mellett is rendbe lehet tenni magunkat az egészséges szintig, ha nem ott vagyunk.
-És abban is teljesen egyet értek, hogy az egészséges szint nem ugyanaz, mint címlapfotó szintű "beach body"!
+És abban is teljesen egyet értek, hogy az egészséges szint nem ugyanaz, mint a címlapfotó szintű "beach body"!
 
 - Az undor nem kötelező!
 Az egyéni ízlésre nincs magyarázat, és nem is szorul rá.
@@ -420,9 +419,9 @@ Laboratóriumi, egyszerre szenzoros és szubjektív kísérletek alapján még a
 De ez a nőknél mindössze 10, azaz **tíz** százalék!
 Ezzel a lendülettel pedig intsünk búcsút annak a tévhitnek, hogy a nedvesedés vagy a merevedés megegyezik a "beindulással".
 
-Ez persze nem jelenti, hogy csak úgy derült égből villámcsapásként nedvesedünk és/vagy merevedünk.
+Ez persze nem jelenti, hogy csak úgy kiszámíthatatlanul nedvesedünk és/vagy merevedünk.
 Az szépen látszik a hétköznapi, nem szexuális jellegű felvételekre adott reakciókkal összevetve, hogy a nemi szervi reakciót a szexuális ingerek váltják ki.
-Naná.
+Naná -- egyéb híreinkben: az ég kék.
 Viszont ez egyáltalán nem biztos, hogy egybeesik azzal, hogy az a bizonyos szexuális inger nekünk *tetszik*-e, vagy hogy *akarunk*-e még belőle többet.
 A szervi reakció *tanulás* eredménye, és csak azt a címkét mutatja, hogy szexuálisnak ítéltük-e meg az ingert.
 A *tetszés* és az *akarás* részeket hagyjuk meg a nemi szervek tulajdonosának!
@@ -500,7 +499,7 @@ Gyakori gyanúsítottak az alacsony vágyra:
 A hormonok csak egy kis részét adják annak az átfogó kontextusnak, ami alapján megítéljük a szexualitásunkat, és ezért a hormonok piszkálása legtöbb esetben csak kis hatással lesz a vágyra.
 
 - **Monogámia** -- nope, az is (mint szinte minden) kontextus függő.
-Nem az a kérdés, hogy a monogámia vagy a poliamória-e a morálisan "helyes"; az teszi őket helyessé számunkra, hogy **hogyan** csináljuk őket.
+Nem az a kérdés, hogy a monogámia vagy a poliamoria-e a morálisan "helyes"; az teszi őket helyessé számunkra, hogy **hogyan** csináljuk őket.
 Hosszú távú kapcsolatokban is ugyanúgy lehet vágy, de ez nem lesz automatikus.
 Tudatosan irányítanunk kell a kontextust, ami mindenkinek személyre szabott.
 
@@ -517,7 +516,7 @@ Ja, és ha már vágy: az egyáltalán nem egészségtelen (vagy meglepő), hogy
 A fentiek mind feltételezik, hogy maga a szex jó, csak az iránta érzett vágy a "kóros".
 De ha nem is jó, akkor ott nyilván az a jelentősebb probléma.
 
-Hogy mi kell a jó szexhez?
+És hogy mi kell a jó szexhez?
 Nagoski szerint (dióhéjban): jelenlét, kapcsolódás, intimitás, tisztelet, elfogadás, bizalom, kommunikáció, önazonosság, átszellemülés, felfedezés, kísérletezés, kreativitás, móka, sebezhetőség, stb.
 És hogy mi hiányzik erről a listáról, elég látványosan?
 A vágy.
@@ -569,7 +568,7 @@ Ha ezt ki akarjuk játszani (az élet bármely területén, igazából), akkor:
 
 - Vagy változtassunk a célon (mert nem biztos, hogy azt kéne akarnunk, mint amit akarunk);
 
-- Vagy vizsgáljuk felül, milyen minőségű/mennyiségű erőfeszítést teszünk-e bele a haladásba;
+- Vagy vizsgáljuk felül, milyen minőségű/mennyiségű erőfeszítést teszünk bele a haladásba;
 
 - Vagy gondoljuk újra az elvárásainkat, hogy ez a cél milyen "könnyű" is valójában.
 
@@ -578,7 +577,7 @@ Ha *bármilyen* orgazmust akarunk egy óra alatt, annak sokkal jobbak az esélye
 Ha viszont magát az élvezetet vesszük célnak (és az orgazmust csak kb. egy mellékterméknek), akkor szinte az első lépéstől célban vagyunk, és az erőfeszítés-per-haladás monitorunk nem rinyálhat.
 
 Plusz segítség lehet Nagoski "sereglés" hasonlata, miszerint egyszerre sokféle motiváció húz minket sok irányba -- ezek a sereglő madaraink.
-Na most úgy is lehet orgazmusunk, hogy a madaraink többsége ér célba, de ha mind beérnének, az még sokkal jobb lenne.
+Na most úgy is lehet orgazmusunk, hogy a madarainknak csak a többsége ér célba, de ha *mind* beérnének, az még sokkal jobb lenne.
 Ezért érdemes mondjuk úgy intézni, hogy a lábmelegséggel törődés felé lekanyarodókat visszacsalogassuk egy zoknival, és ilyesmi.
 
 Illetve: ez szépen magyarázhatja azt is, hogy miért vannak önmagunkkal is ellentmondásos vágyaink, és nem csak szexuális téren!
@@ -616,7 +615,7 @@ Vagy el is fogadhatjuk valamiről magunkkal kapcsolatban, hogy az igaz **és** n
 Mondjuk ha elégszer halljuk, hogy az defekt, és egy idő után nekünk is elkezd megingani a bizalmunk.
 
 Sőt, még ha kívülről békén is hagynak, mi magunk is lehetünk a saját ellenségünk a fejünkön belülről -- mert attól, hogy tudjuk és elfogadjuk magunkat, attól a társadalmi programozás mások nélkül is ott fog csengeni.
-Pedig ha a térkép és a terep nem egyezik, akkor nem a terep a hibás, hanem a térkép!
+Pedig ha a térkép és a terep nem egyezik, akkor bizony nem a terep a hibás, hanem a térkép!
 Az agyunk mégis hajlamos a térképnek igazat adni, ha nem vesszük a fáradságot, és nézünk körül.
 
 Ilyenkor kell az **ítéletmentesség**.
@@ -628,7 +627,7 @@ A belső világunk és az érzéseink megfigyelése is ugyanolyan inger, mint a 
 > Nem az a lényeg, hogy mit érzel -- és még csak nem is az, hogy tudatában vagy-e, hogy mit érzel. A lényeg, hogy mit érzel azzal kapcsolatban, amit érzel.
 > > It’s not how you feel—it’s not even being aware of how you feel. It’s how you feel about how you feel.
 
-Ha nem érezzük "ki" az érzéseinket, csak mert nincs értelmük, akkor majd megpróbálnak olyan szituációkat találni, amiken keresztül kiélhetik (kiélTEThetik?) magukat.
+Ha nem érezzük "ki" az érzéseinket, csak mert nincs értelmük, akkor majd megpróbálnak olyan szituációkat találni, amiken keresztül kiélhetik (kiél**TET**hetik?) magukat.
 Ezért vagyunk mérgesek arra az ételtárolóra, amit a hűtő hátuljából kell előtúrni, amikor közben igyekszünk nem mérgesek lenni valami állítólag indokolatlan, mégis valós dolog miatt.
 De nem kötelező negatív címkével ellátnunk a haragunkat ahhoz, hogy kiéljük; hagyjuk, hogy beteljesítse a körforgását, és befejeződhessen.
 
@@ -639,7 +638,7 @@ Ne álljunk a saját utunkba csak azért, mert azt hisszük, hogy nem azt kéne 
 Az egyedüli, ami tényleg nem "normális", az a váratlan, nem szándékos fájdalom.
 Sok nő az ilyet eltűri, mert valahonnan a fejébe vette, hogy némi fájdalomra számítani kell.
 Hát nem.
-És itt a nem-ítélkezés pont fordítottja, mert nem valami természetesre mondjuk, hogy az úgy nem jó, hanem valami rendellenesre próbálnánk ráerőltetni, hogy jó.
+És itt a nem-ítélkezés fordítottja, mert nem valami természetesre mondjuk, hogy az úgy nem jó, hanem valami rendellenesre próbálnánk ráerőltetni, hogy jó.
 De ha nem ítélkeznénk előre, hogy az úgy jó, akkor a saját testünk jelzései alapján érezhetnénk mi azt, hogy nem.
 
 Ezen felül azonban kb. szabad a pálya.
@@ -662,11 +661,11 @@ Vagy ahogy Nagoski mondja:
 
 ## Összefoglalás
 
-A testi homológok, a gázos/fékes duális agyi kontroll modell, a kontextus (vártnál is nagyobb) fontossága, a vágy típusok, a szervi "egyet-nem-értés"...
-Ezek az ötletek mindegyike akár önmagában is elég nagy világkép-fordulást tud eredményezni, ami kizökkenthet minket egy esetleges gödörből -- vagy épp egy sokkal magasabb szintre terelgethet, ha épp nem is voltunk gödörben.
+A testi homológok, a kert metafora, a gázos/fékes duális agyi kontroll modell, a kontextus (vártnál is nagyobb) fontossága, a kultúr-üzenetek destruktív hatása, a vágy típusok megkülönböztetése, a szervi "egyet-nem-értés" jelensége...
+Ezek az ötletek mindegyike akár önmagában is elég nagy világkép-fordulást tud eredményezni, hogy kizökkentsen minket egy esetleges gödörből -- vagy hogy épp egy sokkal magasabb szintre terelgessen, ha épp nem is voltunk gödörben.
 Képzeljük akkor el, hogy együtt mire lesznek képesek.
-Szóval maradjunk annyiban, hogy itt aztán lesz mit megemészteni.
+Szóval maradjunk annyiban, hogy itt aztán van mit megszívlelni.
 
-Záró gondolatként már csak annyit tennék hozzá, amit Nagoski is hangsúlyoz a könyv vége felé: ha bármikor kétségbe ütközünk, forduljunk befelé.
+Záró gondolatként már csak annyit tennék hozzá, amit Nagoski is hangsúlyoz a könyv vége felé: ha bármikor kétségbe ütközünk, a külvilág helyett forduljunk befelé.
 Mármint nyilván használjuk fel fenti, válogatott, tudományosan alátámasztott szeleteket a külső információkból, de aztán engedjük meg magunknak a döntést, hogy mit és hogy hogyan veszünk át belőlük.
-Lásd a Kung Fu Panda című animációs filmet, ahol (spoiler alert!) a Sárkánytekercs és az apja levese is egyszerre kiabálta a képünkbe, hogy mi vagyunk a titkos összetevő.
+Lásd a Kung Fu Panda című zseniális animációs filmet, ahol (spoiler alert!) a Sárkánytekercs és az apja levese is egyszerre kiabálta a képünkbe, hogy mi magunk vagyunk a titkos összetevő.
