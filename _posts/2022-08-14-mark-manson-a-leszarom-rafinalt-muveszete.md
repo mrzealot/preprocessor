@@ -13,7 +13,7 @@ excerpt: >
 
 Mark Manson könyve régóta pihent már az olvasólistámon.
 Egy mocskos szájú, saját hibáin élcelődő, filozofikus gondolkodásmódot terjeszteni igyekvő fiatal srác osztja az észt -- mondjuk úgy, hogy nem volt nehéz azonosulnom vele.
-A cím ([A leszarom rafinált művészete](https://moly.hu/konyvek/mark-manson-a-lesz-rom-rafinalt-muveszete)) pedig már csak ráadás, mert az önmagamban való csalódásra és az elégedetlenségre való hajlamom miatt éreztem, hogy rám fér a leszarom forte tabletta.
+A cím ([A leszarom rafinált művészete](https://moly.hu/konyvek/mark-manson-a-lesz-rom-rafinalt-muveszete){:target="_blank"}) pedig már csak ráadás, mert az önmagamban való csalódásra és az elégedetlenségre való hajlamom miatt éreztem, hogy rám fér a leszarom forte tabletta.
 
 Aztán a központi üzenet persze nem csak annyi, hogy tegyünk magasról mindenre -- bár nyilván érdemes jobban megválogatni, hogy mire *nem* teszünk, és ez ügyben maga Manson is érvel.
 Kapunk viszont mellé egy csokornyi egyéb okosságot is, amik megkönnyítik a folyamatot: hogy tudjunk választani a fontos és a lényegtelen között; hogy ne is várjunk problémamentes életet; hogy el tudjuk fogadni a hiányosságainkat; stb.
