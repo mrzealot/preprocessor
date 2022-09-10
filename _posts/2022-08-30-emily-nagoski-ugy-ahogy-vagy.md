@@ -6,12 +6,14 @@ tags: [kapcsolatok, szemléletmód]
 pages: 472
 date: 2022-08-30 00:01
 excerpt: >
-    TODO
+    Vizsgáltuk már a párkapcsolatokat a szeretetnyelvek, az erőszakmentes kommunikáció, vagy épp a jó házasság alapelveinek szemszögéből.
+    Ám ezek mind kissé plátói módon álltak a szexualitás témaköréhez.
+    Na ma ezt a rést fogjuk betömni -- már ha értitek, mire gondolok...
 ---
 
 Vizsgáltuk már a párkapcsolatokat a [szeretetnyelvek]({% post_url 2020-04-24-gary-chapman-az-5-szeretetnyelv %}), az [erőszakmentes kommunikáció]({% post_url 2021-10-09-marshall-rosenberg-eroszakmentes-kommunikacio %}), vagy épp a [jó házasság alapelveinek]({% post_url 2020-10-31-john-gottman-a-jol-mukodo-hazassag-7-alapelve %}) szemszögéből.
 Ám ezek mind kissé plátói módon álltak a szexualitás témaköréhez.
-Na ma ezt a rést fogjuk betömni.
+Na ma ezt a rést fogjuk betömni -- már ha értitek, mire gondolok...
 Höhö!
 
 Na!
@@ -660,8 +662,11 @@ Vagy ahogy Nagoski mondja:
 
 ## Összefoglalás
 
+A testi homológok, a gázos/fékes duális agyi kontroll modell, a kontextus (vártnál is nagyobb) fontossága, a vágy típusok, a szervi "egyet-nem-értés"...
+Ezek az ötletek mindegyike akár önmagában is elég nagy világkép-fordulást tud eredményezni, ami kizökkenthet minket egy esetleges gödörből -- vagy épp egy sokkal magasabb szintre terelgethet, ha épp nem is voltunk gödörben.
+Képzeljük akkor el, hogy együtt mire lesznek képesek.
+Szóval maradjunk annyiban, hogy itt aztán lesz mit megemészteni.
 
-- záró gondolat: ha kétségbe ütközünk, forduljunk befelé
-    - használjuk fel ezt a válogatott, tudományosan alátámasztott szeletet a külső információkból, de aztán engedjük meg magunknak a döntést, hogy mit és hogy hogyan veszünk át belőle
-    - lásd, Kung Fu Panda, és a Sárkánytekercs (vagy az apja levese)
-    - mi vagyunk a titkos összetevő
+Záró gondolatként már csak annyit tennék hozzá, amit Nagoski is hangsúlyoz a könyv vége felé: ha bármikor kétségbe ütközünk, forduljunk befelé.
+Mármint nyilván használjuk fel fenti, válogatott, tudományosan alátámasztott szeleteket a külső információkból, de aztán engedjük meg magunknak a döntést, hogy mit és hogy hogyan veszünk át belőlük.
+Lásd a Kung Fu Panda című animációs filmet, ahol (spoiler alert!) a Sárkánytekercs és az apja levese is egyszerre kiabálta a képünkbe, hogy mi vagyunk a titkos összetevő.
