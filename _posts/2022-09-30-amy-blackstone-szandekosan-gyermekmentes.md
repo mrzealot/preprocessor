@@ -9,25 +9,21 @@ excerpt: >
     TODO
 ---
 
+A felnőtt nőkre úgy tekint a világ, mintha vagy már anyák lennének, vagy anyák akarnának lenni.
+Más opció nincs.
+Ilyen alap hozzáállás mellett pedig nem csoda, hogy a legtöbb közéletben szereplő nő egyszerűen előnyére használhatja az anyaságát, mondván hogy ez bizonyítéka a gondoskodó jellemüknek, empátiájuknak, és hogy ezáltal milyen személyes számukra a jövő -- mert hát a gyermekek, jajj, a gyermekeink!
+És persze, *természetesen* lehet valaki egyszerre anya, és törődő/gondoskodó/empatikus, akinek számít a jövő generáció sorsa.
+A baj az állítás ki nem mondott, de erősen sugallt fonákjával van, miszerint a gyermektelen nők nem gondoskodók, önzőek, és szarnak a jövőre.
+Ez így, enyhén szólva, nem túl jó.
 
-[Szándékosan gyermekmentes](https://www.goodreads.com/book/show/42058458-childfree-by-choice){:target="_blank"} (eredeti címén Childfree by Choice)
+És habár a nőkön csattan jobban az ostor, a téma általános.
+Elvégre a termékenységgel kapcsolatos döntés (és annak társadalmi és politikai következményei) mindenkit érintenek.
+Az öregedés és a gondviselés szükségessége univerzális kérdések.
+A munka/élet egyensúly megtalálása mindenkinél felmerül.
+Arról nem is beszélve, hogy férfiként sem tudom számon tartani, hányszor és hányan zaklattak már a gyerek témakörrel.
 
-
-
-- a felnőtt nőkre úgy tekint a világ, mintha vagy már anyák lennének, vagy anyák akarnának lenni
-- a politikai pozícióban lévő nők előnyükre próbálják használni az anyaságukat, mondván hogy ez bizonyítéka a törődő/gondoskodó jellemüknek, empatikusak, és hogy ezáltal milyen személyes számukra a jövő (mert hát a gyermekek, jajj, a gyermekeink!)
-    - önmagában egyik tényező sem gáz -- *természetesen* lehet valaki anya, és törődő/gondoskodó/empatikus, akinek számít a jövő generáció sorsa
-    - a baj az állítás ki nem mondott, de erősen sugallt fonákjával van, miszerint a gyermektelen nők nem gondoskodók, önzőek, és szarnak a jövőre
-
-- ez a könyv mindenkinek szól
-    - elvégre a termékenységgel kapcsolatos döntés (és annak társadalmi és politikai következményei) mindenkit érintenek
-    - az öregedés és a gondviselés szükségessége univerzális kérdések
-    - a munka/élet egyensúly megtalálása mindenkinél felmerül
-
-- ezekről lesz szó, csak a gyermektelenek szemszögéből
-    - mert habár a fogamzásgátlás mára már sokkal megbízhatóbb, mint a múlt században, a gyerekvállalás természetességét még nem sikerült hátrahagyni, és így leginkább a gyerektelenek lóg ki a lóláb
-
-
+Beszéljünk hát egy kicsit a gyerekvállalásról, és annak sokszor el nem ismert opcionalitásáról, Amy Blackstone - [Szándékosan gyermekmentes](https://www.goodreads.com/book/show/42058458-childfree-by-choice){:target="_blank"} (eredeti címén Childfree by Choice) könyve segítségével.
+Mert habár a fogamzásgátlás mára már sokkal megbízhatóbb, mint a múlt században, a gyerekvállalás természetességét még nem sikerült hátrahagyni.
 A tartalom a következőképp alakul:
 
 - [A mozgalom megszületése](#mozgalom)
@@ -52,48 +48,47 @@ A tartalom a következőképp alakul:
 
 ## <a name="mozgalom"></a>A mozgalom megszületése
  
-- 1970-es évek, amikor kb. ez volt az identitás politika és a környezeti aktivizmus csúcsa
-    - itt kezdték nyilvánosan megkérdőjelezni azt az általánosan elfogadott véleményt, miszerint a gyerektelen emberek élete értelmetlen
-    - és ahogy terjedt az egyre jobb és elérhetőbb fogamzásgátlás, úgy terjedt a mozgalom is, miszerint a szülőség inkább választás, és nem egy előre elrendelt sors
-    - sokan ezt akkoriban sem fogadták szívesen, és habár azóta javult némileg a helyzet, az előítélet továbbra is köszöni, jól van
-- a vallás szerepe
-    - de hát akiknél a házasság explicit **célja** a gyerek, és a nem gyarapodási céllal megejtett szexuális együttlét bűnös élvezet, akkor ott mire is számítunk...
-    - USA kontextus ugye, de az "úgy helyes" felkiáltásoknak gondolom nálunk is gyakran akad vallásos alapja
-- ha megnézzük, kinek az érdeke
-    - a templomnak nyilván, hogy a hithű követőkből mindig legyen utánpótlás
-    - és nem sokkal ezelőttig a családnak is, mert a gyerek tulajdonképpen egy befektetés volt a jövőbe
-        - relatíve kis függőségi idő után már dolgoztathatták őket a földeken, és rendelkezhettek a keresetükkel
-    - manapság ez már nagyon nem így megy -- olyannyira, hogy átbillentünk a másik irányba, és megy a "helikopter szülőség"
-        - és akinek nem ez áll az univerzuma középpontjában, az önző és éretlen
-- eugenics - yikes
-    - pozitív és negatív irányból egyaránt
-    - vagyis: aki nem kívánatos, az ne szaporodjon; aki viszont igen, annak tessék már!
-        - és ez sok
-- >> No man, no woman, can shirk the primary duties of life, whether for love of ease and pleasure, or for any other cause, and retain his or her self-respect. -- Theodore Roosevelt, 1903
-    - hát kösz, bazdmeg
-    - "Better Babies" és "Fitter Families" versenyek, facepalm
-    - a rasszhatárok mentén buzdítjuk honfitársainkat, hogy tessék szaporodni, mert akkor a "mieink" lennének egyre nagyobb arányban
-        - és közben azt teljesen figyelmen kívül hagyjuk, hogy a világ már így is mennyire túlterhelt
-            - már 2011-ben 7 milliárdnál tartottunk, ami azóta is **napi** 200.000-rel nő!
-        - mindenki a mieink! és mindenkinek, egységesen inkább a kevesebb felé kéne hajlania, mindenki érdekében
-- azért az elmúlt fél évszázadban sok minden fejlődött
-    - a fogamzásgátlás elérhetősége, az abortusz legális lehetősége, vagy az eleve nem feltétlen heteroszexuális kapcsolatok elfogadása egyre inkább teret nyernek a világon
-    - a nagyobb egyenlőség és a több lehetőség miatt egyre több nő találja meg az "élete értelmét" a gyerekvállaláson kívül (vagy, legalábbis, mellett)
-- de sajnos még most is ott tartunk, hogy
-    - orvosi diagnózisok kimondatlan (és sokszor akár maga az orvos által is tudatalatti elfogultságot tartalmazó) része az a feltételezés, hogy egy nő gyereket akar
-        - van, ahol az önkéntes sterilizáció négy év adminisztrációs küzdelemmel járt egy fiatal nőnek, míg ugyanezt egy hasonló korú férfi 40 perc alatt megoldhatta
-    - az abortusz önkéntes "válsághelyzet" kihirdetéséhez és kötelező tanácsadásokon való részvételhez van kötve, és akkor is csak a 12. hétig
-    - arról már nem is beszélve, hogy szociális szempontból sokkal gyakoribbak a "mikor lesz baba" vagy a "hány gyerek van", mint az, hogy "van-e gyerek", vagy hogy "terveztek-e gyereket"
-- szóval azért bőőőven van itt még hova fejlődni
-    - vagy VISSZA-fejlődni, lásd USA Roe vs. Wade...
+A ficergés valahogy az 1970-es években kezdődött, amikor kb. ez volt az identitás politika és a környezeti aktivizmus csúcsa.
+Itt kezdtük nyilvánosan megkérdőjelezni azt az általánosan elfogadott véleményt, miszerint a gyerektelen emberek élete értelmetlen.
+És ahogy terjedt az egyre jobb és elérhetőbb fogamzásgátlás, úgy terjedt a mozgalom is, miszerint a szülőség inkább választás, és nem egy előre elrendelt sors.
+    
+Sokan persze ezt akkoriban sem fogadták szívesen, és habár azóta javult némileg a helyzet, az előítélet továbbra is köszöni, jól van.
+Vallásos kontextusban például (akiknél a házasság explicit **célja** a gyerek, és a nem gyarapodási céllal megejtett szexuális együttlét gyakran bűnös élvezet), akkor ott mire is számítunk.
 
-- tökéletes analógia: a szándékosan gyerektelenek ugyanannyira "szalasztják el az esélyüket" és "maradnak ki", mint bárki más, aki nem csinál valami olyat, ami nem érdekli.
-    - gondoljatok bele, milyen abszurd lenne, ha én (aki hobbiból egyedi billentyűzeteket tervezek és építek) leszólnék másokat, mert boltit vesznek. "Itt volt az esélyed egy teljesen testre szabott, saját építésű billentyűzetre, de **elherdáltad**!"
-    Nem, nem elherdálta, csak nem érdekli -- vagy mert jó neki az elterjedt kiosztás, vagy mert mondjuk nem is használ számítógépet, vagy akármilyen 100 másik okból.
-    - és ebbe a hasonlatba még bele sincs számítva, hogy egy egyedi billentyűzet árának megfizetése mennyire komikusan eltörpül a gyerekvállalással járó kötelezettségek mellett...
+Ez mondjuk tök logikus, ha megnézzük, kinek mi az érdeke.
+A egyháznak nyilván az, hogy a hithű követőkből mindig legyen utánpótlás.
+És nem sokkal ezelőttig a családnak is, mert a gyerek tulajdonképpen egy befektetés volt a jövőbe; relatíve kis függőségi idő után már dolgoztathatták őket a földeken, és rendelkezhettek a keresetükkel.
+Csak hát manapság ez már nagyon nem így megy -- olyannyira, hogy átbillentünk a másik irányba, és elterjedt a "helikopter szülőség".
+Akinek pedig nem ez áll az univerzuma középpontjában, az önző és éretlen.
+
+Még egy fokkal rosszabb, amikor "náci light" üzemmódban, a rasszhatárok mentén buzdítjuk honfitársainkat, hogy tessék szaporodni, mert akkor a "mieink" lennének egyre nagyobb arányban.
+És közben azt teljesen figyelmen kívül hagyjuk, hogy a világ így is mennyire túlterhelt.
+Már 2011-ben 7 milliárdnál tartottunk, ami azóta is **napi** 200.000-rel nő!
+Nem elírás -- napi.
+Fel kéne ismerni, hogy mindenki a mieink!
+És mindenkinek, egységesen inkább a kevesebb felé kéne hajlania, mindenki érdekében.
+
+Azért tegyük hozzá, hogy az elmúlt fél évszázadban sok minden fejlődött.
+A fogamzásgátlás elérhetősége, az abortusz legális lehetősége, vagy az eleve nem feltétlen heteroszexuális kapcsolatok elfogadása egyre inkább teret nyernek a világon.
+Illetve a nagyobb egyenlőség és a több lehetőség miatt egyre több nő találja meg az "élete értelmét" a gyerekvállaláson kívül (vagy, legalábbis, mellett).
+
+De sajnos még most is ott tartunk, hogy orvosi diagnózisok kimondatlan (és sokszor akár maga az orvos által is tudatalatti elfogultságot tartalmazó) része az a feltételezés, hogy egy nő gyereket akar.
+Volt például, ahol az önkéntes sterilizáció négy év adminisztrációs küzdelemmel járt egy fiatal nőnek, míg ugyanezt egy hasonló korú férfi 40 perc alatt megoldhatta.
+Az abortusz önkéntes "válsághelyzet" kihirdetéséhez és kötelező tanácsadásokon való részvételhez van kötve, és akkor is csak a 12. hétig.
+Arról már nem is beszélve, hogy szociális szempontból sokkal gyakoribbak a "mikor lesz baba" vagy a "hány gyerek van", mint az, hogy "van-e gyerek", vagy hogy "terveztek-e gyereket".
+Szóval azért bőőőven van itt még hova fejlődni -- vagy sajnos **vissza**fejlődni, lásd USA Roe v. Wade.
+
+<br>
 
 
->> I know that I’m not going to wake up tomorrow and want to be a mother the same way I know I’m not going to wake up tomorrow and want to be an astronaut. To me they are both jobs. Jobs that I am ill-suited for, jobs that would make me unhappy. -- Rachel, https://werenothavingababy.com/
+
+
+
+
+
+
+
+
 
 
 
@@ -102,57 +97,69 @@ A tartalom a következőképp alakul:
 
 ## <a name="onzo"></a>Az önző választás
 
-- 2015-ös pápai kinyilatkoztatás: "The choice to not have children is selfish"
-    - nominálisan a gyerek az emberi sors, a faj fenntartása, a közjó, Isteni akarat - vagy épp majd a mi gyerekünk gyógyítaná meg a rákot
-        - persze nominálisan a gyerektelenek is sorolhatják a túlnépesedést, vagy a jelenlegi világpolitikai helyzetet (amibe ép ésszel ki hoz gyereket, kérdem én?)
-    - de ha elég közelről nézzük, bármilyen döntés tűnhet önzőnek
-        - a gyerekteleneknél ezt nyilván nem kell részletezni - az ilyen vádakkal napi szinten szembesülnek
-        - autonómia, spontaneitás, párkapcsolati fókusz
-    - de kérdezzük csak meg a gyerekeseket, hogy miért van gyerekük, és ha őszinték, akkor nem elhanyagolható százalékban jönnek majd a válaszok, hogy CSOK, vagy öregkori gondoskodásba való befektetés, vagy saját életkép
-        - mert **ők** így képzelik az életüket, amibe a gyereknek nem sok beleszólása van
-        - **nekik** nyújt majd kiteljesedést és szeretetet és tennivalót (nem ritkán a karrierből való kiábrándulás után), **belőlük** lesz még egy kicsi változat, és **ők** húzhatnak akár gazdasági hasznot is belőle.
-        - de ez persze nem gátolja meg a többségüket, hogy azért kényelmesen, a morális magas ló hátáról fikázzák a gyerekteleneket -- akik semmivel nem önzőbbek, csak mást akarnak, és ezért szembe merészelnek úszni az árral
+Egy egészen friss, 2015-ös pápai kinyilatkoztatás szerint "Aki úgy dönt, hogy nem vállal gyermeket, az önző".
+Mert hát nominálisan a gyerek az emberi sors, a faj fenntartása, a közjó, az Isteni akarat -- vagy épp majd a mi gyerekünk gyógyítaná meg a rákot.
+De vigyázzunk, mert "nominálisan" a gyerektelenek is sorolhatják a túlnépesedést, vagy a jelenlegi világpolitikai helyzetet (amibe ép ésszel ki hoz gyereket, kérdem én?).
+    
+Ha elég közelről nézzük, bármilyen döntés tűnhet önzőnek.
+A gyerekteleneknél ezt nyilván nem kell részletezni -- az ilyen vádakkal napi szinten szembesülnek.
+Aki autonómiát, spontaneitást, vagy épp párkapcsolati fókuszt szeretne a gyerek helyett, az nyilván csak magára gondol.
+De kérdezzük csak meg a gyerekeseket, hogy miért van gyerekük, és ha őszinték, akkor nem elhanyagolható százalékban jönnek majd a válaszok, hogy CSOK, vagy az öregkori gondoskodásba való befektetés, vagy saját életképük megvalósítása.
 
-- szóval az önzőzéssel kapcsolatban: vagy mindkét csoport az, vagy egyik sem -- de az marhára nem fair, hogy az egyik igen, a másik nem.
+Mert **ők** így képzelik az életüket, amibe a gyereknek nem sok beleszólása van.
+Mert **nekik** nyújt majd kiteljesedést és szeretetet és tennivalót (nem ritkán a karrierből való kiábrándulás után), és **belőlük** lesz még egy kicsi változat, és **ők** húzhatnak akár gazdasági hasznot is belőle.
+De ez persze nem gátolja meg a többségüket, hogy azért kényelmesen, a morális magas ló hátáról fikázzák a gyerekteleneket -- akik semmivel nem önzőbbek, csak mást akarnak, és ezért szembe merészelnek úszni az árral.
+Szóval az önzőzéssel kapcsolatban: vagy mindkét csoport az, vagy egyik sem.
+Az marhára nem fair, hogy az egyik igen, a másik nem.
 
-- szülők és nem-szülők összehasonlítására tanulmányok
-    - kb. egyforma arányban vallják saját magukat önzőnek vagy sem
-    - kb. egyforma arányban önkénteskednek vagy vesznek részt a közösségi életben
-    - a gyerektelen nők 80%-ának életében is fontos szerepet töltenek be a gyerekek -- csak nem a sajátjuk
-        - PANK (Professional Aunt No Kids) -- és ezt mi is mindig mondogattuk már évek óta... hivatásos nagynéni/nagybácsi üzemmód
+Egy másik durva egyenlőtlenség a munka-élet egyensúly megtalálásában lelhető fel.
+Gyakori tévképzet ugyanis, hogy a gyerektelenek ideje "szabad", ezért őket jobban lehet terhelni.
+A gyerek gyakorlatilag egy megkérdőjelezhetetlen adu ász, amit szinte bármire rá lehet vágni.
+Szülőknél érdekes módon nem gáz, ha pont időben lelépnek a melóból, mert hát a kis Bendegúznak furulya fellépése van, de a gyerektelen nyugodtan maradhat tovább.
 
-- na azért a szülők is megkapják néha a mutogatást
-    - ha nem vállalják látványosan, hogy a gyerek áll az univerzumuk középpontjában
-    - vagy ha "csak" egy van (ami majdnem olyan rossz, mintha nem is lenne)
-    - vagy ha túl sok van...
+Amit itt nem veszünk figyelembe, az az, hogy a munka-élet egyensúlynál az "élet" rész nem egyenlő azzal, hogy "gyerek".
+Ha én gyerek helyett azt választom, hogy kompetitív vonatkerékpumpáló leszek, és nekem minden nap pontosan edzésre kell járnom, az tulajdonképpen miben is más, minthogy a gyerekért kell mennem az oviba?
+Mármint a munka szempontjából?
+Választottam valamit a munkán kívüli életstílusommal kapcsolatban, és ezt illene tiszteletben tartani a választás részleteitől függetlenül.
 
-- durva egyenlőtlenség a munka-élet egyensúly megtalálásában is
-    - a gyerektelenek ideje "szabad", ezért őket jobban lehet terhelni
-    - a gyerek gyakorlatilag egy megkérdőjelezhetetlen adu ász, amit szinte bármire rá lehet vágni
-        - szülőknél érdekes módon nem gáz, ha pont időben lelépnek, mert hát menni kell a gyerekért
-        - de a gyerektelen nyugodtan maradhat tovább
-    - amit itt nem veszünk figyelembe: a munka-élet egyensúlynál az "élet" rész nem egyenlő azzal, hogy "gyerek"
-        - ha én gyerek helyett azt választom, hogy kompetitív vonatkerékpumpáló leszek, és nekem minden nap pontosan edzésre kell járnom, az tulajdonképpen miben is más, minthogy a gyerekért kell mennem az oviba?
-            - mármint a munka szempontjából?
-            - választottam valamit a munkán kívüli életstílusommal kapcsolatban...
-    - és erre amúgy a szülőknek is érdemes lenne emlékeznie! "élet" != "gyerek"
-        - az egyéb önkéntes vállalások, barátok, hobbik, vagy ön-gondoskodás is része (vagy legalábbis kéne hogy legyen) az életnek, és ezek is mind ütközhetnek a munkával
-- és még mielőtt bárki félreértené: nem mondjuk, hogy a gyerekeseknek ne járjon flexibilitás - csak azt mondjuk, hogy **mindenkinek** járjon flexibilitás :)
-    - lássuk meg, hogy nem vagyunk annyira különbözőek, és inkább együttműködni próbáljunk
+Arra amúgy a szülőknek is érdemes lenne emlékeznie, hogy a munka/élet egyensúlyból az "élet" nem egyenlő "gyerek".
+Az egyéb önkéntes vállalások, barátok, hobbik, vagy ön-gondoskodás is része (vagy legalábbis része kéne hogy legyen) az életnek, és ezek is mind ütközhetnek a munkával.
+És még mielőtt bárki félreértené: véletlen sem mondjuk, hogy a gyerekeseknek ne járjon flexibilitás.
+Csak azt mondjuk, hogy **mindenkinek** járjon flexibilitás.
 
-- hagyaték: jótékonyságon, vagy mások bármilyen jellegű, pozitív befolyásolásán keresztül
-    - az egész nemzetet fogom tani-tani? :)
-    - "You have to have some way of hitching on to the future . . . and it seems to me that it doesn’t have to be biological children."
+Lássuk meg, hogy nem vagyunk annyira különbözőek, és inkább próbáljunk együttműködni, ne?
+Szülők és nem-szülők összehasonlításakor tanulmányok mutatják, hogy:
 
-- önzőség, mint pozitív jelző
-    - elvégre az önzőségnek előfeltétele, hogy kellően ismerjük magunkat (hogy tudjuk, mit akarunk), és hogy kellően asszertívek legyünk (hogy meg is tudjuk szerezni)
-    - főleg érvényes ez, ha a tetejébe a társadalmi nyomás *ellenére* kell mindezt megtenni
-        - ez így elsőre eléggé úgy hangzik, mint amit Abraham Maslow önmegvalósításnak nevezett, nem?
-    - "Molly Peacock asks viewers, “What is selfish about a conscious, considered choice?”
+- Kb. egyforma arányban vallják saját magukat önzőnek vagy sem;
+- Kb. egyforma arányban önkénteskednek vagy vesznek részt a közösségi életben; és
+- A gyerektelen nők 80%-ának életében is fontos szerepet töltenek be a gyerekek -- csak nem a sajátjuk.
+        
+A nyilvános ítélkezés szemszögéből sem vagyunk komplett ellentétek.
+Néha a szülők is megkapják a mutogatást, ha például nem vállalják látványosan, hogy a gyerek áll az univerzumuk középpontjában.
+Vagy ha "csak" egy gyerekük van (ami majdnem olyan rossz, mintha nem is lenne).
+Vagy ha túl sok van, mert akkor meg már az az önző és felelőtlen.
 
-- a "mikroagresszióknak" (sajnos) ebben is kontextusban is van értelme
-    - childLESS vs. childFREE (és még így is van vita)
-    - megint előjön, hogy a szavak számítanak!
+Mellesleg megjegyezzük, hogy megfelelő megvilágításban az önzőség sem feltétlen kell, hogy negatív jelző legyen.
+Elvégre az önzőségnek előfeltétele, hogy kellően ismerjük magunkat (hogy tudjuk, mit akarunk), és hogy kellően asszertívek legyünk (hogy meg is tudjuk szerezni).
+Főleg érvényes ez akkor, ha a tetejébe a társadalmi nyomás *ellenére* kell mindezt megtennünk.
+Ez így elsőre eléggé úgy hangzik, mint amit Abraham Maslow önmegvalósításnak nevezett, nem?
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -272,6 +279,8 @@ A tartalom a következőképp alakul:
     - és az ilyen kapcsolatok a gyerkőcöknek is jók:
     - >> having caring adults who are not their parents involved in their lives improves kids’ confidence, grades, and social skills.
 
+- PANK (Professional Aunt No Kids) -- és ezt mi is mindig mondogattuk már évek óta... hivatásos nagynéni/nagybácsi üzemmód
+
 >> childfree adults are in a unique position to have special and important relationships with children *because* they are childfree.
 
 - ez a (volt) gyerekek visszajelzéseiből is tükröződik, akik saját bevallásuk szerint is nagyon más jellegű kapcsolatot ápoltak a nagynéni/nagybácsi figurájukkal, mint a szüleikkel
@@ -332,6 +341,16 @@ A tartalom a következőképp alakul:
 
 
 ## Összefoglalás
+
+- tökéletes analógia: a szándékosan gyerektelenek ugyanannyira "szalasztják el az esélyüket" és "maradnak ki", mint bárki más, aki nem csinál valami olyat, ami nem érdekli.
+    - gondoljatok bele, milyen abszurd lenne, ha én (aki hobbiból egyedi billentyűzeteket tervezek és építek) leszólnék másokat, mert boltit vesznek. "Itt volt az esélyed egy teljesen testre szabott, saját építésű billentyűzetre, de **elherdáltad**!"
+    Nem, nem elherdálta, csak nem érdekli -- vagy mert jó neki az elterjedt kiosztás, vagy mert mondjuk nem is használ számítógépet, vagy akármilyen 100 másik okból.
+    - és ebbe a hasonlatba még bele sincs számítva, hogy egy egyedi billentyűzet árának megfizetése mennyire komikusan eltörpül a gyerekvállalással járó kötelezettségek mellett...
+
+
+>> I know that I’m not going to wake up tomorrow and want to be a mother the same way I know I’m not going to wake up tomorrow and want to be an astronaut. To me they are both jobs. Jobs that I am ill-suited for, jobs that would make me unhappy. -- Rachel, https://werenothavingababy.com/
+
+
 
 - vaszektómia vs. női "elköttetés"
 - szexoktatás!
