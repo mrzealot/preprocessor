@@ -18,7 +18,7 @@ Ilyen alap hozzáállás mellett pedig nem csoda, hogy a legtöbb közéletben s
 A baj az állítás ki nem mondott, de erősen sugallt fonákjával van, miszerint a gyermektelen nők nem gondoskodók, önzőek, és szarnak a jövőre.
 Ez így, enyhén szólva, nem túl jó.
 
-És habár a nőkön csattan jobban az ostor, a téma általános.
+Habár a nőkön csattan jobban az ostor, a téma általános.
 Elvégre a termékenységgel kapcsolatos döntés (és annak társadalmi és politikai következményei) mindenkit érintenek.
 Az öregedés és a gondviselés szükségessége univerzális kérdések.
 A munka/élet egyensúly megtalálása mindenkinél felmerül.
@@ -55,7 +55,7 @@ Itt kezdtük nyilvánosan megkérdőjelezni azt az általánosan elfogadott vél
 És ahogy terjedt az egyre jobb és elérhetőbb fogamzásgátlás, úgy terjedt a mozgalom is, miszerint a szülőség inkább választás, és nem egy előre elrendelt sors.
     
 Sokan persze ezt akkoriban sem fogadták szívesen, és habár azóta javult némileg a helyzet, az előítélet továbbra is köszöni, jól van.
-Vallásos kontextusban például (akiknél a házasság explicit **célja** a gyerek, és a nem gyarapodási céllal megejtett szexuális együttlét gyakran bűnös élvezet), akkor ott mire is számítunk.
+Vallásos kontextusban például mire is számítunk, ha a házasság explicit **célja** a gyerek, és a nem gyarapodási céllal megejtett szexuális együttlét gyakran bűnös élvezet.
 
 Ez mondjuk tök logikus, ha megnézzük, kinek mi az érdeke.
 A egyháznak nyilván az, hogy a hithű követőkből mindig legyen utánpótlás.
@@ -106,7 +106,7 @@ De vigyázzunk, mert "nominálisan" a gyerektelenek is sorolhatják a túlnépes
 Ha elég közelről nézzük, bármilyen döntés tűnhet önzőnek.
 A gyerekteleneknél ezt nyilván nem kell részletezni -- az ilyen vádakkal napi szinten szembesülnek.
 Aki autonómiát, spontaneitást, vagy épp párkapcsolati fókuszt szeretne a gyerek helyett, az nyilván csak magára gondol.
-De kérdezzük csak meg a gyerekeseket, hogy miért van gyerekük, és ha őszinték, akkor nem elhanyagolható százalékban jönnek majd a válaszok, hogy CSOK, vagy az öregkori gondoskodásba való befektetés, vagy saját életképük megvalósítása.
+De kérdezzük csak meg a gyerekeseket, hogy miért van gyerekük, és ha őszinték, akkor nem elhanyagolható százalékban jönnek majd a válaszok, hogy CSOK, vagy az öregkori gondoskodásba való befektetés, vagy a saját életképük megvalósítása.
 
 Mert **ők** így képzelik az életüket, amibe a gyereknek nem sok beleszólása van.
 Mert **nekik** nyújt majd kiteljesedést és szeretetet és tennivalót (nem ritkán a karrierből való kiábrándulás után), és **belőlük** lesz még egy kicsi változat, és **ők** húzhatnak akár gazdasági hasznot is belőle.
@@ -114,7 +114,7 @@ De ez persze nem gátolja meg a többségüket, hogy azért kényelmesen, a mor�
 Szóval az önzőzéssel kapcsolatban: vagy mindkét csoport az, vagy egyik sem.
 Az marhára nem fair, hogy az egyik igen, a másik nem.
 
-Egy másik durva egyenlőtlenség a munka-élet egyensúly megtalálásában lelhető fel.
+Egy újabb durva egyenlőtlenség a munka-élet egyensúly megtalálásában lelhető fel.
 Gyakori tévképzet ugyanis, hogy a gyerektelenek ideje "szabad", ezért őket jobban lehet terhelni.
 A gyerek gyakorlatilag egy megkérdőjelezhetetlen adu ász, amit szinte bármire rá lehet vágni.
 Szülőknél érdekes módon nem gáz, ha pont időben lelépnek a melóból, mert hát a kis Bendegúznak furulya fellépése van, de a gyerektelen nyugodtan maradhat tovább.
@@ -173,13 +173,13 @@ Sajnos eléggé elfogadott nézet, hogy nőség = anyaság.
 De még aki viccelődik is azzal, hogy neki nincsenek anyai ösztönei, az is csak magáról mer beszélni -- mert azt már túl nagy eretnekség lenne megkérdőjelezni, hogy az "anyai ösztön" egyáltalán létezik-e.
 
 Már pedig egy tudományágakon átívelő (mondhatnám, *interdiszciplináris*) kutatás konklúziója szerint "nincs semmiféle tudományos bizonyítéka, hogy létezne egy anyai ösztön, ami automatikusan arra késztetné a nőket, hogy gyereket vállaljanak, vagy hogy érzelmesebbek legyenek a férfiaknál, vagy ami a férfiaknál nagyobb gondoskodási és gyereknevelési képességet ruházna rájuk".
-És érdekes módon az 1300 oldalas "Anyaság Enciklopédiájában" sem szerepel róla bejegyzés.
+És érdekes módon az 1300 oldalas *Anyaság Enciklopédiájában* sem szerepel róla bejegyzés.
 Mondhatjuk, hogy az anyai ösztön egy a közös, kulturális tudatunk képzelgései közül.
 
 Az ellenkezőjét viszont elég könnyű belátni.
-Ha tényleg emberi konstans lenne anyai ösztön, akkor:
+Ha tényleg emberi konstans lenne az anyai ösztön, akkor:
         
-- Nem változnának a szülési szokások, átlag gyerekszámok, stb. ilyen intenzíven a különböző kultúrák között (de változnak!)
+- Nem változnának a szülési szokások és az átlag gyerekszámok ilyen intenzíven a különböző kultúrák között (de változnak!)
 
 - Nem lenne ennyire kultúra függő az sem, hogy milyen a jó anyai viselkedés (de az!)
 
@@ -193,7 +193,7 @@ Azokat a fiúkat azonban erősen diszkrimináljuk, akik erre húznának, mert ez
 Most mi van, most buzi vagy vagy mi vagy?
 
 Ám annak ellenére, hogy mítosz, az anyai ösztön nőkre gyakorolt hatását nem söpörhetjük a szőnyeg alá, mert az sajnos nagyon is valódi.
-Kb. mint egy ártatlan vádlott elítéltnél -- lehet, hogy nem követett el semmit, de ha a bíróság azt hiszi, hogy igen, akkor bizony börtönbe megy.
+Kb. mint egy ártatlan vádlott elítélésénél -- lehet, hogy nem követett el semmit, de ha a bíróság azt hiszi, hogy igen, akkor bizony börtönbe megy.
 A férfiak még csak megússzák, mert a kapcsolatokban is sokszor inkább úgy van beállítva, hogy a nő rángatta bele őket a gyerek témába.
 Sőt, van akinél pont hogy irigyelt pozíció a gyerektelenség, mert "megúszta".
 De a nőknek ez igen nagy nyomást helyez a társadalmi megítélésére.
@@ -234,7 +234,7 @@ Sok szerencsét!
 
 A család kompozíciója szintén elég kötött séma mentén mozog az emberek fejében.
 Abba most bele sem megyünk, hogy az egész heteronormatív dolog (vagyis egy nem azonos neművel való kapcsolat) mennyire alap elvárás, pedig nem kéne annak lennie.
-De ezen felül is marad még elvárás -- mert hát attól, hogy egy tradicionális férfi vesz el egy tradicionális nőt, ez még nem tekinthető családalapításnak, csak majd ha jön a gyerek.
+De ezen felül is marad még kritérium -- mert hát attól, hogy egy tradicionális férfi vesz el egy tradicionális nőt, ez még nem tekinthető családalapításnak, csak majd ha jön a gyerek.
 
 Már az progresszív nézetnek minősül, miszerint a barátaink is lehetnek a választott családunk.
 Arról már nem is beszélve, hogy ebbe a körbe akár a háziállatok is beletartozhatnak.
@@ -245,8 +245,8 @@ Szóval ha valaki annak tekinti őket, akkor talán érdemesebb lenne neki felü
 > A szobanövények az új háziállatok. A háziállatok az új gyerekek. A gyerekek az új egzotikus állatok.
 >> Plants are the new pets. Pets are the new kids. Kids are the new exotic animals.
 
-A társadalom aktuálisabb és általánosabb vizsgálatánál a reprodukcióhoz is érdemes egy szélesebb megfogalmazás.
-Ami létezik is, mert a szociológusok szemében a reprodukció lehet biológiai (amiben a gyerektelenek nyilván nem vesznek részt), de lehet szociális is.
+A társadalom aktuálisabb és általánosabb vizsgálatánál a reprodukcióhoz érdemes egy szélesebb megfogalmazás.
+Ez létezik is, mert a szociológusok szemében a reprodukció lehet biológiai (amiben a gyerektelenek nyilván nem vesznek részt), vagy lehet *szociális*.
 Az utóbbihoz tartozik bármiféle szerepkör, tett, vagy felelősségvállalás, amivel embertársaink társadalmi beilleszkedését elősegítjük.
 Lásd tanárok, mentorok, lelkipásztorok, önkéntesek, nagynéni/nagybácsi/keresztszülő szerepkör, stb.
 Sőt, ez nem is kell, hogy feltétlen csak a gyerekekre vonatkozzon -- az idősek vagy fogyatékkal élők gondozása, ha nem is szó szerint társadalmi reprodukció, de mégis közel áll a szülő jellegű viselkedéshez.
@@ -288,28 +288,28 @@ Pláne hogy az ilyen mentegetőzés csak tovább erősíti a sztereotípiát, mi
 Szóval nem mentegetőzünk; csak mellékesen megjegyezzük, hogy ez a sztereotípia objektíven hamis.
 Egy felmérésben például olyanokat kérdeztek a résztvevő nőktől, hogy mennyire tekintik tehernek a gyerekgondozást, mennyire tekintik nehézségnek a karrier melletti gyereknevelést, vagy hogy mennyire tekintik a "gyermekáldást" az élet egyik legnagyobb örömének.
 És a válaszok alapján egyik kérdés sem jelzett statisztikailag jelentős különbséget a szülők és a gyerektelenek között.
-Ezt más kutatások is alátámasztják, ahol mindkét csoport hasonlóan vélekedett a gyereknevelés költségeiről, kellemetlenségeiről, kötöttségeiről, stb.
+Ezt más kutatások is alátámasztják, ahol mindkét csoport hasonlóan vélekedett a gyereknevelés költségeiről, kellemetlenségeiről és kötöttségeiről.
 Ha valahol, akkor inkább a nemek között volt különbség -- a férfiak az anyagi teher miatt aggódtak jobban, míg a nők a párkapcsolatukra jutó fókusz miatt.
 De a szülők és a gyerektelenek sokkal hasonlóbban gondolkoznak, mint hinnénk.
 
 Gondoljunk csak arra a sok, potenciálisan gyerektelen karrierre, ahol erős a gyerek kapcsolat.
-Tanár, óvónő, terapeuta, szociális munkás, védőnő, gyerekorvos, stb.
+Tanár, óvónő, terapeuta, szociális munkás, védőnő, gyerekorvos; hosszú a lista.
 Közülük sokan nyilatkozták, hogy pont a gyerektelenségük miatt tudnak annyira jelen lenni és 100%-ot adni magukból a gyerekekkel végzett munka során -- mert utána van idejük a töltődésre, és nem folyamatosan egy gyerek-centrikus kontextusban forog az életük.
 
 De ugyanez a nagynéni/nagybácsi szerepkörre, függetlenül az olyan biológiai apróságoktól, mint hogy tényleg a nagynénijük vagy nagybácsijuk vagyunk-e.
 Sőt, a gyerektelen nagynénik/nagybácsik átlagosan többet költenek a unokaöcsikékre és hugicákra, illetve több időt és energiát is szánnak rájuk, mint a gyerekesek.
-És az ilyen kapcsolatok a gyerkőcöknek is jók:
+Az ilyen kapcsolatok a gyerkőcöknek is jók:
 
 > Ha vannak olyan törődő felnőttek is az életükben, akik nem a szüleik, az javítja a gyerekek önbizalmát, iskolai teljesítményét és szociális képességeit.
 >> Having caring adults who are not their parents involved in their lives improves kids’ confidence, grades, and social skills.
 
 A gyermekmentes felnőttek egyedi pozícióban vannak ahhoz, hogy egy különleges és fontos kapcsolatot alakítsanak ki mások gyerekeivel *pont azért*, mert gyermekmentesek.
-Ész a (volt) gyerekek visszajelzéseiből is tükröződik, akik saját bevallásuk szerint nagyon más jellegű kapcsolatot ápoltak a nagynéni/nagybácsi figurájukkal, mint a szüleikkel.
+És ez a (volt) gyerekek visszajelzéseiből is tükröződik, akik saját bevallásuk szerint nagyon más jellegű kapcsolatot ápoltak a nagynéni/nagybácsi figurájukkal, mint a szüleikkel.
 Látszólag egyenrangúbb társakként kezelhettek egy másik felnőttet, ami az alapértelmezett szülő-gyerek modell mellett egy értékes perspektíva a fejlődésük során.
 
 Vagyis igazából mindenki jól jár, ha hagyjuk, hogy olyanok is gyerektelenek maradjanak, akik amúgy nagyszerű szülők lennének.
-Akik pedig tényleg nem ennyire gyerek-pozitívak (mert természetesen olyanok is vannak), azokra meg miért is akarunk gyereket tukmálni?
-Mellesleg köztük is sokkal gyakoribb, aki egyszerűen kényelmetlenül érzi magát velük
+Akik pedig tényleg nem ennyire gyerek-pozitívak (mert természetesen olyanok is vannak), azokra meg miért akarnánk gyereket tukmálni?
+Mellesleg köztük is sokkal gyakoribb, aki egyszerűen kényelmetlenül érzi magát velük.
 Vagy átfogóan, minden embert kerülő módon introvertált, és nem csak a gyerekekre pikkel.
 Vagy bírja a gyerekeket, de csak kis dózisban, aminek kell, hogy vége lehessen az én-idejük megőrzéséhez.
 A lényeg, hogy ezeket a hozzáállásokat értelmetlen azzal azonosítani, hogy nem szeretik (vagy egyenesen utálják) a gyerekeket csak azért, mert nincs sajátjuk.
@@ -336,7 +336,7 @@ A lényeg, hogy ezeket a hozzáállásokat értelmetlen azzal azonosítani, hogy
 
 ## <a name="idoskor"></a>Idős kor egy nem idősekre tervezett világban
 
-"Egyedül fogsz meghalni!"
+"Egyedül fogsz meghalni"!
 Elég intim téma, de a gyermekmentes emberek számára ez sajnos nem csak legjobb barátokkal és közeli családtagokkal folytatott mély lélekbúvárkodások során merül ám fel.
 Sokszor szó szerinti idegenek sem szégyellik megosztani ezt a nagy büdös semmi alapján formált véleményüket.
 
@@ -345,7 +345,7 @@ Egy amerikai statisztika szerint például a családok 20%-át érinti az "elide
 Szóval aki szimbolikus befektetésként tekint a gyerekeire, annak a tőzsde sem lenne sokkal nagyobb kockázat.
 Benne van továbbá az a feltételezés is, hogy a gyerekteleneknek pedig nem lesznek egyéb kapcsolataik -- mert hát hogy is lennének, ha olyan önzőek és ridegek, hogy nincs gyerekük.
 
-A közhiedelemmel ellentétben a felmérések azt mutatják, hogy az idősebb szándékosan gyerektelenek körében megbánás helyett általában épp hogy egyre megerősödik a meggyőződés, hogy számukra ez volt a helyes döntés.
+A közhiedelemmel ellentétben a felmérések azt mutatják, hogy az idősebb, szándékosan gyerektelenek emberek körében a megbánás helyett általában épp hogy egyre megerősödik a meggyőződés, hogy számukra ez volt a helyes döntés.
 Vagyis úgy tűnik, hogy inkább a gyerekesek nyilatkoznak a potenciális megbánásról a gyerektelenek nevében.
 Arról nem is beszélve, hogy a gyerekesek esetében is milyen könnyen előfordulhat a megbánás, hogy szülők lettek -- csak erről nem divatos beszélni.
 
@@ -386,14 +386,14 @@ Ebben természetesen nagy szerepet játszhatnak a felnőtt gyerekek, ha vannak, 
 Habár sokkal jobban az anekdoták és a személyes vélemények felé billen a mérleg a könyvben, mint gondoltam, ez mégsem megy (teljesen) a tudományosság rovására.
 Ha képesek vagyunk az elfogultságunkat és a társadalmi alapértelmezésbe vetett vak hitünket félretenni egy pillanatra, a változatos kutatások és felmérések elég egyértelmű képet festenek.
 
-És mellesleg a szerző szubjektív megjegyzéseiből és blogos kommentjeiből is számos értékes meglátást ki lehetett kotorni.
+És mellesleg a szerző szubjektív megjegyzéseiből és blogos kommentjeiből is számos értékes meglátást lehetett kikotorni.
 A kedvenc analógiám: a szándékosan gyerektelenek ugyanannyira "szalasztják el az esélyüket" és "maradnak ki", mint bárki más, aki nem csinál valami olyat, ami nem érdekli.
 
 > Ugyanazért nem fogok holnap reggel arra ébredni, hogy hirtelen anya akarok lenni, mint amiért arra sem fogok ébredni, hogy hirtelen űrhajós akarok lenni. Számomra mindkettő munka volna. Munka, amire alkalmatlan vagyok; munka, ami boldogtalanná tenne.
 >
-> -- Rachel, komment a https://werenothavingababy.com/ blogon
+> -- Rachel, komment a https://werenothavingababy.com blogon
 > > I know that I’m not going to wake up tomorrow and want to be a mother the same way I know I’m not going to wake up tomorrow and want to be an astronaut. To me they are both jobs. Jobs that I am ill-suited for, jobs that would make me unhappy.
 
 A lényeg tehát, még egyszer, mellébeszélés nélkül: a gyerekvállalás opcionális.
-Ez jelenti egyrészt, hogy tessék kellő tiszteletben tartani azt is, aki a nemet választja.
-Másrészt, nem kevésbé hangsúlyosan, jelenti azt is, hogy aki az igent választja, annak tessék **választani** az igent, nem csak úgy belesodródni, mert az a természetes.
+Ez jelenti egyrészt, hogy tessék kellő tiszteletben tartani azt, aki a nemet választja.
+Másrészt, nem kevésbé hangsúlyosan, jelenti azt is, hogy aki viszont az igent választja, annak tessék **választani** az igent, nem csak úgy belesodródni, mert az a természetes.
