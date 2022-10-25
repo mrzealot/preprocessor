@@ -42,7 +42,7 @@ minima:
 
 show_excerpts: true
 permalink: /:categories/:title
-lang: hu
+lang: hu-hu
 paginate: 10
 paginate_path: "/:num/"
 future: false

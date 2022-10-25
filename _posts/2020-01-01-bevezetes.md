@@ -2,6 +2,7 @@
 layout: post
 title:  "Mi ez?"
 date:   2020-01-01 15:00
+hreflang: intro
 excerpt: >
     Ez itt, kedves Érdeklődő, a Preprocessor Blog.
     Ja hogy <em><u>az</u></em> mi?

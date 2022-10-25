@@ -10,4 +10,9 @@
   {%- endif -%}
 
   <link rel="shortcut icon" type="image/png" href="/favicon.png">
+
+  {%- if page.hreflang -%}
+  <link rel="alternate" href="https://preprocessor.hu{{ page.url }}" hreflang="{{ site.lang }}" />
+  <link rel="alternate" href="https://preprocessor.blog/{{ page.hreflang }}" hreflang="en-us" />
+  {%- endif -%}
 </head>

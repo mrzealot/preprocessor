@@ -4,6 +4,7 @@ title: Simon Blackburn - Think
 tags: [szemléletmód]
 pages: 296
 date: 2020-01-07 15:00
+hreflang: simon-blackburn-think
 excerpt: >
     A sztoikus filozófián felbuzdulva kérdeztem egy filozófia csoportban, mit ajánlanának egy jó összefoglalónak.
     Így kötöttem ki Simon Blackburn "Think" című könyvénél, ami az alcíme alapján egy "lenyűgöző bevezetés a filozófiába".
