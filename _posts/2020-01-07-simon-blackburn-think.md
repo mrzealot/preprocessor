@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Simon Blackburn - Think
+cover: think
 tags: [szemléletmód]
 pages: 296
 date: 2020-01-07 15:00

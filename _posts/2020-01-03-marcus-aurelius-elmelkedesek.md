@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Marcus Aurelius - Elmélkedések
+cover: marcus
 tags: [szemléletmód]
 pages: 254
 date: 2020-01-03 18:00

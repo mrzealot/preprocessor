@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Mi ez?"
-date:   2020-01-01 15:00
+title: Mi ez?
+cover: intro
+date: 2020-01-01 15:00
 hreflang: intro
 excerpt: >
     Ez itt, kedves Érdeklődő, a Preprocessor Blog.
