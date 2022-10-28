@@ -55,56 +55,62 @@ Kleon a következő 10 tippet ajánlja a kreatív termelékenységünk felpörge
 
 ## <a name="1"></a>1 -- Nem kell géniusznak lennünk
 
-- Genius - Scene-ius
-    - az alkotás soha nem egy magányos folyamat
-    - mindig egy elme kapcsolódik más elmékhez (legyenek azok élők vagy halottak)
-    - óriások vállán, vagy mi a szösz
-- ez helyet hagy nekünk többieknek is a alkotói térben, akik határozottan nem vagyunk géniuszok
-    - de más géniuszok ötleteit összeköthetjük érdekes, új módokon
-    - vagy tehetünk fel új kérdéseket, kezdhetünk új beszélgetéseket
-    - megfogalmazhatjuk a már ismert dolgokat olyan módon, ami talán jobban beüt a jelenkori hallgatóságnak, ahogy Campbell is mondta
-    - ez az egész blog ez, tulajdonképpen
-- nem kell egyedül alkotnunk, csak hozzájárulnunk valahogy a scene-ius-hoz
-    - és a maga módján mindenki hozzá tud járulni
-    - az internet korában ez soha nem volt egyszerűbb
+Az alkotás soha nem egy magányos folyamat.
+Mindig egy elme kapcsolódik más elmékhez, legyenek azok élők vagy halottak.
+Óriások vállán, vagy mi a szösz.
+Ezért a könyv javaslata, hogy cseréljük le a fejünkben a magányos zseni képét egy kollektív erőfeszítésre (ami angol szóviccben kiválóan Genius &rarr; Scene-ius).
+
+Ez helyet hagy nekünk többieknek is a alkotói térben, akik határozottan nem vagyunk géniuszok.
+De más géniuszok ötleteit összeköthetjük érdekes, új módokon.
+Vagy tehetünk fel új kérdéseket, kezdhetünk új beszélgetéseket.
+Megfogalmazhatjuk a már ismert dolgokat olyan módon, ami talán jobban beüt a jelenkori hallgatóságnak, ahogy például [Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %}) is mondta.
+Ez az egész blog ez, tulajdonképpen.
+
+Szóval nyugalom, nem kell egyedül alkotnunk, csak hozzájárulnunk valahogy a "scene-ius"-hoz.
+És a maga módján mindenki hozzá tud járulni -- az internet korában ez soha nem volt egyszerűbb.
+
+> Mindannyian amatőrök vagyunk. Nem élünk elég ideig, hogy mások lehessünk.
+>
+> -- Charlie Chaplin
+>> That’s all any of us are: amateurs. We don’t live long enough to be anything else.
+
+Merjünk kezdők lenni -- mert hát bizonyos vélemények szerint, a mester szint léc-magasságától függően, mások nem is lehetünk.
+Aki mer amatőrnek lenni (és látszani), az felismeri, hogy a nagy különbség nem a középszerű és a jó között van, hanem a semmi és a valami között.
+Így ő legalább próbálkozik.
+
+Ne becsüljük le továbbá azt sem, hogy mekkora hatása lehet valamit egy diáktárstól megtanulni egy "mester" helyett.
+Szóval a tanítást sem kell túllihegni.
+Tanuljunk valamit, érdeklődjünk valami iránt, figyeljük meg, hogy mások mit osztanak meg abban a közegben -- és hogy mit nem.
+Aztán kezdjük el betömögetni a réseket.
+Egyelőre ne aggódjunk rajta, hogy ebből hogy lesz karrier.
+
+> Találd meg a hangod, kiabálj vele a tetőkről, és ne hagyd abba, amíg meg nem találnak azok, akik téged keresnek.
+>
+> -- Dan Harmon
+>> Find your voice, shout it from the rooftops, and keep doing it until the people that are looking for you find you.
+
+Márpedig csak akkor találhatjuk meg a hangunkat, ha használjuk, nem?
+
+Aki szégyellős, annak ajánljuk figyelmébe Sturgeon törvényét, miszerint "Minden 90%-a szar".
+Vagyis nem kell aggódni, hogy a munkánk nagyja szar lesz -- mert úgyis az lesz.
+Ezt fogadjuk el, és csak csináljuk, hogy esélyünk legyen egyszer-egyszer beletenyerelni abba a 10%-ba.
+
+Illetve újra előkerül a halál, mint motivációs eszköz -- igen, megint.
+De hát mit csináljak, ha egyszer tényleg ez az egyik leghatásosabb perspektíva helyrebillentő eszköz.
+Egyből nevetségesnek fognak tűnni a "de mi van, ha nem sikerül" és a "mi lesz, ha kinevetnek" jellegű félelmeink, ha belegondolunk, mennyire korlátozott az időnk, hogy egyáltalán megpróbáljuk.
+Az nagyobb megbánás lesz, ha meg sem próbáljuk, mint ha nem sikerül.
+
+A halálközeli élmények után egyből szép az élet, és csak annak van értelme, hogy kövessük a szívünket.
+Csak aztán ez kikopik, és még az ilyen nagy leckén átesők is hajlamosak visszasüppedni a pocsolyába.
+A trükk emlékeztetni magunkat a halálra -- úgy élni minden napot, mintha tegnap engedtek volna ki a sürgősségiről, csodálkozva, hogy egyáltalán túléltük.
+A "gyávák" relatíve biztonságos halál-emlékeztető módszere: olvassunk gyászjelentéseket.
+
+<br>
 
 
-“That’s all any of us are: amateurs. We don’t live long enough to be anything else.”
-				—Charlie Chaplin
 
 
-- merjünk kezdők lenni
-    - ^^ bizonyos vélemények szerint mások nem is lehetünk :)
-    - lásd War of Art
-    - aki mer amatőrnek lenni (és látszani), az felismeri, hogy a nagy különbség nem a középszerű és a jó között van, hanem a semmi és a valami között
-        - ő legalább próbálkozik
 
-- ne becsüljük le, mekkora hatása van valamit egy diáktárstól megtanulni egy "mester" helyett
-
-- tanuljunk valamit, érdeklődjünk valami iránt
-    - figyeljük meg, hogy mások mit osztanak meg abban a közegben - és hogy mit nem
-    - aztán kezdjük el betömögetni a réseket
-    - egyelőre ne aggódjunk rajta, hogy ebből hogy lesz karrier
-
-
-“Find your voice, shout it from the rooftops, and keep doing it until the people that are looking for you find you.”
-				— Dan Harmon
-
-    - also Harmon: prove that you suck!
-    - és csak akkor találhatjuk meg a hangunkat, ha használjuk
-
-
-- halál, mint motivációs eszköz, megint
-    - egyből nevetségesnek fognak tűnni a "de mi van, ha nem sikerül" és a "mi lesz, ha kinevetnek" jellegű félelmeink, ha belegondolunk, mennyire korlátozott az időnk, hogy egyáltalán megpróbáljuk
-    - és az nagyobb megbánás lesz, ha meg sem próbáljuk, mint ha nem sikerül
-
-- halálközeli élmények után egyből szép az élet, és csak annak van értelme, hogy kövessük a szívünket
-    - csak aztán ez kikopik, és még az ilyen nagy leckén átesők is hajlamosak visszasüppedni a pocsolyába
-    - a trükk emlékeztetni magunkat a halálra - úgy élni minden napot, mintha tegnap engedtek volna ki a sürgősségiről, csodálkozva, hogy egyáltalán túléltük
-
-- a gyávák relatíve biztonságos halál-emlékeztető módszere: olvassunk gyászjelentéseket
-    - az előző poszt után érdekesen és sajnálatosan aktuális ez a módszer
-    - "Obituaries are like near-death experiences for cowards."
 
 
 
@@ -112,209 +118,290 @@ Kleon a következő 10 tippet ajánlja a kreatív termelékenységünk felpörge
 
 ## <a name="2"></a>2 -- Gondolkodjunk folyamatokban, ne eredményekben
 
-- artwork vs. art work
-- és főleg, gondoljunk a folyamatainkra is megoszthatóként - sőt, megosztandóként
-    - az emberek alapvetően kíváncsiak más emberek dolgaira
-    - ha leengedjük a tökéletesség látszatát, közvetlenebb kapcsolatot alakíthatunk ki a közönségünkkel
+Mint az atomi szokásoknál már láthattuk, nem a céljaink szintjére emelkedünk, hanem a rendszereink szintjére süllyedünk.
+Megint egy kiváló angol szójáték, miszerint az "artwork" (műalkotás) helyett inkább "art work" (művészeti munka) legyen a középpontban.
+Lásd [Művészet háborúja]({% post_url 2020-02-04-steven-pressfield-a-muveszet-haboruja %}).
 
-“In order for connection to happen, we have to allow ourselves to be seen—really seen.”
-				—Brené Brown
+És főleg, gondoljunk a folyamatainkra is megoszthatóként -- sőt, megosztandóként!
+Az emberek alapvetően kíváncsiak más emberek dolgaira.
+Ha leengedjük a tökéletesség látszatát, közvetlenebb kapcsolatot alakíthatunk ki a közönségünkkel.
 
-- legyünk a saját munkánk dokumentálói
-    - mindegy, mit csinálunk, vagy mivel foglalkozunk
-    - az is mindegy, ha a folyamatunknak nem nagyon van kézzel fogható, prezentálható eredménye (még)
-    - akkor is söprögessük össze a folyamat darabkáit és gyúrjuk egy fogyasztható alakra
-    - vagy csak dokumentáljuk magát a folyamatot egy fogyasztható formában
-        - írjunk közben jegyzeteket, készítsünk folyamat fényképeket vagy videót
+Legyünk a saját munkánk dokumentumfilm készítői.
+Mindegy, mit csinálunk, vagy mivel foglalkozunk.
+Az is mindegy, ha a folyamatunknak nem nagyon van kézzel fogható, prezentálható eredménye (még).
+Akkor is söprögessük össze a folyamat darabkáit és gyúrjuk egy fogyasztható alakra.
+Vagy csak dokumentáljuk magát a folyamatot egy fogyasztható formában.
+Írjunk közben jegyzeteket, készítsünk folyamat fényképeket vagy videót, akármi.
+
+<br>
+
+
+
+
+
+
+
+
 
 
 ## <a name="3"></a>3 -- Osszunk meg valamit minden nap
 
-- "egyik napról a másikra" híresnek lenni az általában sok-sok évnyi észrevétlen munka
-- és a legjobb, ha ezt a munkát nap mint nap dokumentáljuk
-    - ha valaminek nagyon az elején vagyunk, akkor az inspirációkat vagy célokat
-    - ha a közepén, akkor a vázlatokat, a módszerünket, vagy a napi haladásunkat
-    - ha a végén, akkor a kész terméket, vagy a kivágott részleteket, vagy hogy mit tanultunk a folyamatból
-- a hossza és a formája mindegy
-    - text, video, audio
-    - találjuk meg a megfelelő platformot, kísérletezzünk bátran
+Az "egyik napról a másikra" híressé válás általában sok-sok évnyi észrevétlen munkát takar.
+A legjobb, ha ezt a munkát nap mint nap dokumentáljuk.
+Ha valaminek nagyon az elején vagyunk, akkor az inspirációkat vagy célokat.
+Ha a közepén, akkor a vázlatokat, a módszerünket, vagy a napi haladásunkat.
+Ha a végén, akkor a kész terméket (nyilván), de a kivágott részleteket is, vagy hogy mit tanultunk a folyamatból.
 
-Sturgeon's Law: Ninety Percent of Everything Is Crap
+A hossza és a formája mindegy.
+Legyen szösszenet vagy kisregény; legyen szöveg, audio, video.
+Találjuk meg a megfelelő platformot, kísérletezzünk bátran.
 
-- meg kell neki találni az időt
-    - persze nem élvezhet előnyt magával a munkával szemben
-    - de legyen a munkafolyamat része a megosztás is
+Meg kell találni az időt a rendszeres megosztásra.
+Persze nem élvezhet előnyt magával a munkával szemben, de legyen a munkafolyamat része.
 
-- persze ettől ez nem egy napló
-    -  As publicist Lauren Cerand says, “Post as though everyone who can read it has the power to fire you.”
-    - legyen olyan, ami valakinek, valahol, valahogy hasznos lehet
-    -  “Is this helpful? Is it entertaining? Is it something I’d be comfortable with my boss or my mother seeing?”
+Fontos azonban, hogy ez nem egy napló.
+Úgy posztoljunk, mintha azt közvetlenül minden olyan ember orra alá tolnánk, akinek hatalmában áll kirúgni minket.
+Legyen olyan minden megnyilvánulásunk, ami valakinek, valahol, valahogy hasznos lehet -- és az édes jó anyánknak sem kéne szégyenkeznie miatta.
 
-- ez az egész megosztásosdi ad egy flow-t
-    - ami, habár hasznos, leginkább arra van, hogy emlékeztesse a világot rá, hogy létezel, és dolgozol, és aktív vagy
-    - a "stock" pedig az, amik a kész termékek
-    - a siker titka, hogy fenntartsuk a flow-t, miközben stock-ot generálunk a háttérben
-        - és ehhez egy trükk: szülessen a stock a flow-ból
-        - ahogy megosztunk, bizonyos ötletek/témák/területek elkezdenek majd ismétlődni
-        - ezeknek az összegyűjtéséből, kategorizálásából, összehasonlításából, stb. lesz majd a nagyobb horderejű "termék" is
+Ha azt szeretnénk, hogy felfigyeljenek ránk, ahhoz egyrészt termelnünk kell, másrészt pedig termelékenynek is kell látszanunk -- és ez nem egy triviális egyensúly.
+Ez az egész megosztásosdi ad egy hírfolyamot, ami, habár önmagában is hasznos lehet, leginkább arra van, hogy emlékeztesse rá a világot, hogy létezünk, és dolgozunk, és aktívak vagyunk.
+A portfóliónk pedig a kész termékeink, amiket eredményként felmutathatunk.
+A siker titka, hogy fenntartsuk a hírfolyamunkat, miközben portfóliót generálunk a háttérben.
 
-- legyen egy saját kis szigeted a neten
-    - ne egy twitter fiók vagy egy youtube csatorna, hanem egy saját hely, saját domain alatt, ami csak a tiéd, és senki nem veheti el
-    - építsük ki a saját jó nevünket --> personal brand
+És ehhez ajánlja Kleon a fenntartható megoldást: szülessen a portfóliónk a hírfolyamunkból.
+Ahogy megosztunk, bizonyos ötletek/témák/területek elkezdenek majd ismétlődni
+Ezeknek az összegyűjtéséből, kategorizálásából, összehasonlításából, stb. lesz majd a nagyobb horderejű "termék" is idővel.
+
+Plusz tip: legyen egy saját kis szigetünk a neten.
+Ne (csak) egy twitter fiók vagy egy youtube csatorna, amit bármikor kiránthatnak a lábunk alól, vagy ahol tetszőleges módokon korlátozhatnak minket.
+Egy saját hely, saját domain név alatt, ami csak a miénk, és senki nem veheti el.
+Ez által építsük ki a saját jó nevünket -- mondhatni, a személyes brand-ünket.
+
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## <a name="4"></a>4 -- Ne rejtegessük az ízlésünket
 
-- 16/17. századi divat a kuriózumok tárháza, ami kb. a modern múzeumok előfutára
-    - de attól, hogy ez nekünk ilyen formában, fizikailag nem létezik, attól a fejünkben ott az a sok érdekesség és tapasztalat, ami befolyásolja a mindennapi munkánkat
-    - azáltal is kifejezhetjük az ízlésünket, hogy miket válogatunk ki mások munkáiból
-    - mi inspirál? mit olvasunk? mit hallgatunk? mit nézünk? milyen oldalakat nézegetünk a neten? stb.
+16-17. századi divat volt a kuriózumok tárháza, ami kb. a modern múzeumok előfutára.
+De attól, hogy ez nekünk ilyen formában, fizikailag nem létezik, attól a fejünkben ott van az a sok érdekesség és tapasztalat, ami befolyásolja a mindennapi munkánkat.
+Azáltal is kifejezhetjük az ízlésünket, hogy miket válogatunk ki mások munkáiból.
+Mi inspirál?
+Mit olvasunk?
+Mit hallgatunk?
+Mit nézünk?
+Milyen oldalakat látogatunk rendszeresen a neten?
 
-- abban is jól megmutatkozhatunk, hogy hogyan tekintünk hétköznapi, mások számára értéktelen dolgokra
-    - hogy mit látunk meg bennük
-    - dumpster diving
-    - az ad vissza minket, ahogy keverjük és ötvözzük a kultúra magasztos gondolatait ÉS látszólagos szemetét
+Abban is jól megmutatkozhatunk, hogy hogyan tekintünk hétköznapi, mások számára értéktelen dolgokra.
+Hogy mit látunk meg mások szemetében.
+Az ad vissza minket, ahogy keverjük és ötvözzük a kultúra magasztos gondolatait **és** látszólagos szemetét.
 
-- a forrásmegjelölés fontos!
-    - és nem is csak a tisztesség és moralitás miatt
-    - hanem funkcionális okokból is - hogy a közönség vissza tudja keresni az inspiráció forrását és mélyebbre áshasson, ha érdekli
+Természetesen mondani sem kell, hogy a forrásmegjelölés fontos!
+És nem is csak a tisztesség és moralitás miatt, hanem funkcionális okokból is.
+Hogy a közönség vissza tudja keresni az inspirációnk forrását és mélyebbre áshasson, ha érdekli.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## <a name="5"></a>5 -- Meséljünk jó történeteket
 
-- Significant Objects, Joshua Glenn and Rob Walker - egy tárgy háttérsztorija egyértelműen megváltoztatja az értékét
-    - ha adott egy antik szivarvágó, az önmagában legyen mondjuk pár ezer forint
-    - de ha Churchill szivarvágójáról lenne szó, amit a híres parlamenti beszédeire felkészítő szivarozási rituáléja részeként használt, akkor mindjárt nem ennyi lenne az árcédulán
-- vagyis: nettó hülyeség, hogy a munkánk magáért beszél
-    - mindenki azt lát bele, amit akar
-    - de ha mi adunk hozzá egy változatot, azzal nagyban befolyásolhatjuk a munka megítélését anélkül, hogy magán a munkánkon bármit is változtatnánk
-    - a munkánk nem egy vákuumban létezik, és mindenképp egy történetet mesélünk el vele
-        - csak ha ezzel tisztában vagyunk, akkor annyival érdekesebbre formálhatjuk a történetünket
-- Campbell féle monomítosz
-    - Dan Harmon story circle
-    - Vonnegut Good/Bad Fortune alapú gráfok
-- a közepén még nem tudjuk, hogy hol tartunk, de akkor is mesélhetünk nyitott végű sztorikat
-- gyakoroljuk, hogy milyen meséket mondunk másoknak magunkról
-    - és magunknak az életünkről
+Egy tárgy háttérsztorija egyértelműen megváltoztatja az értékét.
+Ha adott egy antik szivarvágó, az önmagában legyen mondjuk pár ezer forint.
+De ha maga Churchill szivarvágójáról lenne szó, amit a híres parlamenti beszédeire felkészítő szivarozási rituáléja részeként használt, akkor higgyük el, mindjárt nem annyi lenne az árcédulán!
 
-				“Whatever we say, we’re always talking about ourselves.”
-				—Alison Bechdel
+Vagyis: nettó hülyeség, hogy a munkánk magáért beszél.
+Mindenki azt lát bele, amit akar.
+De ha mi adunk hozzá egy alapértelmezett kommentár változatot, azzal nagyban befolyásolhatjuk a munka megítélését -- anélkül, hogy magán a munkánkon bármit is változtatnánk.
 
+A munkánk soha nem egy vákuumban létezik, és mindenképp egy történetet mesélünk el vele.
+Csak ha ezzel tisztában vagyunk, akkor tudatosan annyival érdekesebbre formálhatjuk a történetünket.
+Lásd Campbell-féle monomítosz, Dan Harmon sztori-köre, Vonnegut jószerencse/balsors alapú gráfjai, stb.
 
+A közepén ugyan még nem tudjuk, hogy hol tartunk, de akkor is mesélhetünk nyitott végű sztorikat.
+Gyakoroljuk, hogy milyen meséket mondunk másoknak magunkról, és magunknak az életünkről.
 
-## <a name="6"></a>6 -- Tanítsd, amit tudsz
+> Bármit is mondunk, mindig magunkról beszélünk.
+>
+> -- Alison Bechdel
+> > Whatever we say, we’re always talking about ourselves.
 
-“The impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes.”
-					—Annie Dillard
-
-
-- osszuk meg a titkainkat
-    - az információ "kiszivárogtatással" nem hogy ártunk magunknak, de épp hogy építjük a brand-ünket
-    - segítünk másoknak, növeljük a kredibilitásunkat, megmutatjuk a világnak a szenvedélyünket, stb.
-    -  In their book,  Rework,  Jason Fried and David Heinemeier Hansson encourage businesses to emulate chefs by out-teaching their competition.
-        - körözzük le a vetélytársakat tanításban, ne (csak) eredményekben
-
-- "Teaching people doesn’t subtract value from what you do, it actually adds to it. When you teach someone how to do your work, you are, in effect, generating more interest in your work."
-
-- arról nem is beszélve, hogy a tanítás során jönnek majd szembe az olyan emberek és vélemények, amik minket is tovább tanítanak
-    - amikor majd a szemünkre hányják, hogy valakit nem hivatkozunk, vagy hogy valamire nem gondoltunk
-    - a tanulás és a tanítás egy önerősítő kör, amiből mindenki jobban jön ki a végén
+<br>
 
 
 
 
-## <a name="7"></a>7 -- Ne legyél "spam"
-
-- hoarder < contributor > spammer
-    - csak mások munkája érdekel < input/output balansz > csak magamra figyelek
-- az alkotás a befolyó és a kiadott hatások/ötletek egyensúlyából fakad
-    - aki előre gondolkozik, az mindig nyitott mások munkájára, folyamatosan tanul és fejlődik
-    - ÉS közben megosztja a saját munkáját és tippjeit, hogy mások is tanulhassanak tőle és fejlődhessenek általa
-
-- hogy legyenek követőink, ahhoz tartoznunk kell egy közösséghez
-    - ahhoz viszont adnunk is kell a közösségnek, hogy kaphassunk tőlük
-    - ha mi nem mutatunk feléjük érdeklődést, akkor őket mi miért érdekelnénk
-    - "If you want to be interesting, you have to be interested."
-
-"Make stuff you love and talk about stuff you love and you’ll attract people who love that kind of stuff. It’s that simple."
-
-- vámpír teszt - emberekre, és úgy általánosságban mindenre az életünkben
-    - és főleg: magunkra!
-
-- találjuk meg a törzsünket
-- vegyük a fáradságot az IRL találkozókra is!
 
 
 
-## <a name="8"></a>8 -- Bírd, ha szidnak
 
-- azt nem irányíthatjuk, hogy kapunk-e kritikát
-    - és nyugi, fogunk - pláne ha csinálunk is valamit
-    - azt viszont irányíthatjuk, hogy hogyan reagálunk rá
-- lélegezzünk és relaxáljunk - a kritikába még senki nem halt bele, szóval nem olyan súlyos, mint elsőre tűnik
-- csak gyártsunk és gyártsunk - úgy lehet a legjobban hozzászokni a kritikához, ha sokat kapunk belőle, amihez sok alkotás kell
-- hajoljunk bele - ha valamit utálnak, próbáljunk meg még hangsúlyosabban abba az irányba menni, csak hogy lássuk, mi lesz belőle
-- ha kimondottan érzékeny terület, akkor várjunk a megosztással - de nagyon jó okunk legyen rá, hogy miért érzékeny!
-    - és legyünk tisztában vele, hogy az érzékenység a mi dolgunk, semmi köze a külsőségekhez
-    - ha valaki "betalál", az azért lehet, mert az agyunk egy rejtett zugában mi is egyetértünk vele
-    - ezt tegyük rendbe, és a többi utána annyival könnyebben lepereg
-- tudjunk különbséget tenni az identitásunk és a munkánk között!
-- csak olyan helyről fogadjunk el kritikát, aki tényleg javítani szeretné vele a munkánkat, nem fikázni
-    - töröljünk és blokkoljunk bátran
-    - ha valaki odaszarna a nappali közepére, azt sem hagynánk csak úgy ott bűzölögni, nem?
+## <a name="6"></a>6 -- Tanítsuk, amit tudunk
+
+Osszuk meg a kulisszatitkainkat fenntartások nélkül.
+Az információ "kiszivárogtatással" ugyanis nem csak **nem** ártunk magunknak, de épp hogy építjük a brand-ünket.
+Segítünk másoknak, növeljük a hitelességünket, mutassuk meg a világnak a szenvedélyünket, stb.
+Körözzük le a vetélytársakat tanításban, ne (csak) eredményekben.
+
+> A késztetés, hogy megtartsd magadnak, amit tanultál, nem csak szégyenletes, de pusztító. Bármi, amit nem adsz szabadon és bőséggel, az számodra is elveszik. Kinyitod a széfed és csak hamvakat találsz.
+>
+> -- Annie Dillard
+>> The impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes.
+
+A tanítással igazából még több érdeklődést generálunk a területünk iránt, ami nekünk is jót fog tenni.
+Arról nem is beszélve, hogy a tanítás során jönnek majd szembe az olyan emberek és vélemények, amik minket is tovább tanítanak.
+Amikor majd a szemünkre hányják, hogy valakit nem hivatkozunk, vagy hogy valamire nem gondoltunk.
+A tanulás és a tanítás egy önerősítő kör, amiből mindenki jobban jön ki a végén.
+
+<br>
 
 
-## <a name="9"></a>9 -- Nem szégyen, ha keresel vele
 
-- “An amateur is an artist who supports himself with outside jobs which enable him to paint,” said artist Ben Shahn. “A professional is someone whose wife works to enable him to paint.”
 
-    - "Az amatőr olyan művész, aki külső munkákkal tartja el magát, hogy festhessen -- a profi pedig olyan művész, akinek a felesége dolgozik, hogy ő festhessen." -- Ben Shahn
 
-- ideje túllépni az "éhező művész" sztereotípián
-    - és pláne nem kell mesterségesen magasztos fényben feltüntetni, mintha ez morálisan tisztább lenne, mert a pénz csak korruptálja a kreativitást
-    - a faszt, valamiből enni is kell!
 
-- ha már van közönségünk, az adományok elfogadása kb. ugyanaz, mint az utcai zenész földre dobott sapkája
-    - attól nem lesz kevésbé értékes a művészete, ha egy pár petákot is szeretne érte
 
-- e-mail lista!
 
-- a sikerben jelentős komponens a szerencse
-    - szóval egyrészt ne legyen túl nagy az arcunk
-    - másrészt segítsünk azoknak, akiknél meglenne a munka és a tehetség, csak a szerencse hiányzik
-    - plusz fizessük vissza az adósságainkat mindazoknak, akik segítettek idáig jutni
-        - see: no self made man! - Arnold
+
+## <a name="7"></a>7 -- Ne spam-eljünk
+
+Ez a tanács tulajdonképpen annyi, hogy azért ne essünk át a ló másik oldalára.
+A zsugori gyűjtögetőnél jobb a megosztó, de a "spammer"-nél is jobb a (csak mértékkel) megosztó.
+A zsugorit csak mások munkája érdekli, míg a spammer csak magára figyel.
+Ezek helyett (között) kell az input/output balansz.
+
+Az alkotás a befolyó és a kiadott hatások/ötletek egyensúlyából fakad.
+Aki előre gondolkozik, az mindig nyitott mások munkájára, folyamatosan tanul és fejlődik.
+És közben megosztja a saját munkáját és tippjeit, hogy mások is tanulhassanak tőle és fejlődhessenek általa.
+
+Hogy legyenek követőink, ahhoz tartoznunk kell egy közösséghez.
+Ahhoz viszont adnunk is kell a közösségnek, hogy kaphassunk tőlük.
+Ha mi nem mutatunk feléjük érdeklődést, akkor őket mi miért érdekelnénk?
+    
+Alkalmazzuk előszeretettel a "vámpír tesztet" -- ahol megvizsgáljuk, hogy valami/valaki inkább leszív, vagy feltölt.
+Használjuk tevékenységekre, emberekre, és úgy általánosságban mindenre az életünkben.
+És főleg: magunkra, nehogy mi legyünk a vámpírok!
+Így találhatjuk meg a törzsünket.
+
+<br>
+
+
+
+
+
+## <a name="8"></a>8 -- Bírjuk, ha szidnak
+
+Azt nem irányíthatjuk, hogy kapunk-e kritikát.
+És nyugi, fogunk -- pláne ha csinálunk is valamit.
+Azt viszont irányíthatjuk, hogy hogyan reagálunk rá.
+
+Először is, lélegezzünk és relaxáljunk.
+A kritikába még senki nem halt bele, szóval nem olyan súlyos, mint elsőre tűnik.
+Csak gyártsunk és gyártsunk -- elvégre úgy lehet a legjobban hozzászokni a kritikához, ha sokat kapunk belőle, amihez sok alkotás kell.
+
+Ha kapjuk, hajoljunk bele -- ha valamit utálnak, próbáljunk meg még hangsúlyosabban abba az irányba menni, csak hogy lássuk, mi lesz belőle.
+
+Ha kimondottan érzékeny területet érint, akkor talán várjunk egy kicsit a megosztással -- de nagyon jó okunk legyen rá, hogy miért érzékeny!
+És legyünk tisztában vele, hogy az érzékenységet a mi dolgunk feloldani, semmi köze a külsőségekhez.
+Ha valaki "betalál", az azért lehet, mert az agyunk egy rejtett zugában mi is egyetértünk vele.
+Ezt tegyük rendbe, és a többi utána annyival könnyebben lepereg.
+
+Fontos, hogy tudjunk különbséget tenni az identitásunk és a munkánk között!
+És csak olyan helyről fogadjunk el kritikát, aki tényleg javítani szeretné vele a munkánkat, nem fikázni.
+Ignoráljunk, töröljünk és blokkoljunk bátran.
+Ha valaki odaszarna a nappali közepére, azt sem hagynánk csak úgy ott bűzölögni, nem?
+Pláne nem gondolkoznánk el rajta, hogy szarosan vajon nem jobb-e a nappali.
+
+<br>
+
+
+
+
+
+
+
+
+## <a name="9"></a>9 -- Ne szégyelljük, ha keresünk vele
+
+Bár sokak fejében továbbra is nagy divat, mégis ideje lenne túllépni az "éhező művész" sztereotípián.
+És főleg nem kéne mesterségesen magasztos fényben feltüntetni, mintha ez morálisan tisztább lenne, mert a pénz csak korruptálja a kreativitást.
+A faszt!
+Valamiből enni sem ártana!
+
+> Az amatőr olyan művész, aki külső munkákkal tartja el magát, hogy festhessen -- a profi pedig olyan művész, akinek a felesége dolgozik, hogy ő festhessen.
+>
+> -- Ben Shahn
+>> An amateur is an artist who supports himself with outside jobs which enable him to paint. A professional is someone whose wife works to enable him to paint.
+
+Ha már van közönségünk, az adományok elfogadása kb. ugyanaz, mint az utcai zenész földre dobott sapkája.
+Attól nem lesz kevésbé értékes a művészetünk, ha egy pár petákot szeretnénk is érte.
+Hosszú távban gondolkodva pedig mindenképpen gyűjtsünk e-mail listát a követőinktől, hogy aztán közvetlenül szólíthassuk meg őket, ha bármi említésre méltó merülne fel.
+(Lásd a feliratkozás mezőt az oldal alján, kedves érdeklődőm... &lt;*kacsintás*&gt; &lt;*könyökkel meglökés*&gt;)
+
+Illetve ne feledjük, hogy a sikerben igen jelentős komponens a szerencse.
+Szóval egyrészt ne legyen túl nagy az arcunk, ha nekünk valami bejön.
+Másrészt pedig segítsünk azoknak, akiknél meglenne a munka és a tehetség, csak a szerencse hiányzik.
+Plusz fizessük vissza az adósságainkat mindazoknak, akik nekünk segítettek idáig jutni.
+Lásd Arnold [kiváló beszéde](https://www.youtube.com/watch?v=DOldEbWxgdQ){:target="_blank"} arról, hogy nincs önállóan sikeres ember.
+
+<br>
 
 
 
 
 ## <a name="10"></a>10 -- Csináljuk elég ideig
 
-- a legtöbbször azoknak jön össze, amit szeretnének, akik hajlandóak elég ideig kitartani mellette
-    - The people who get what they’re after are very often the ones who just stick around long enough.
+A legtöbbször azoknak jön össze, amit szeretnének, akik egyszerűen hajlandóak elég ideig kitartani mellette.
+Úgyhogy (ismét a [Művészet háborúja]({% post_url 2020-02-04-steven-pressfield-a-muveszet-haboruja %}) jelleggel) függetlenedjünk a motivációtól és múzsánktól, és csak csináljuk a projektjeinket, egyiket a másik után.
+Aztán ami az előzőben nem ment, azt próbáljuk a következőben javítani.
+Nincs inspiráció, csak a munka van.
 
-- War of Art jellegű motiváció és múzsa-függetlenedés
-    - csak csináljuk, egyiket a másik után
-    - ami az előzőben nem ment, azt próbáljuk a következőben javítani
-    - nincs inspiráció, csak a munka van
+A kiégés ellen állítsunk be egy fenntartható (de konzisztens!) tempót, illetve esetleg gondolkozzunk el az itthon még nem annyira divatos "szombatév" (sabbatical) lehetőségén.
+Mert hát ha 25 év tanulás + 40 év munka + 15 év nyugdíj a normál élet "beosztás", akkor miért nem veszünk ki 5 évet a nyugdíjból és szórjuk szét a 40 év munka közé?
+Rengeteg töltődést és ötletet fog adni, amit a következő 7 évben kihasználhatunk.
+ 
+Persze ezt nem muszáj éves nagyságrendben -- lehet havi, heti, vagy akár napi.
+Munkába járás, edzés, vagy természetbeli séta; a lényeg, hogy tudjunk kikapcsolni, hogy aztán visszakapcsolhassunk.
 
-- kiégés -> sabbatical (szombatév)
-    - ha 25 tanulás, 40 munka és 15 nyugdíj a "beosztás", akkor miért nem veszünk ki 5 évet a nyugdíjból és szórjuk szét a 40 év munka közé
-    - rengeteg töltődést és ötletet fog adni, amit a következő 7 évben kihasználhatunk
-    - de persze ezt nem muszáj éves nagyságrendben
-        - lehet havi, heti, vagy akár napi
-        - munkába járás, edzés, természetbeli séta, stb.
+És ha már a hosszú távval szemezünk, legyen célunk a folyamatos fejlődés.
+Soha ne állapodjunk meg és nyugodjunk bele akár egy mesterfokozatba se (már ha valamiben el is jutnánk odáig).
+Legyünk újra diákok, tanuljunk valami mást.
 
-- folyamatos fejlődés
-    - soha ne állapodjunk meg és nyugodjunk bele a mesterfokozatunkba (már ha valamiben el is jutnánk odáig)
-    - legyünk újra diákok, tanuljunk valami mást
-    - “Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough,” writes author Alain de Botton.
+> Aki nem szégyelli, hogy tavaly ki volt, az valószínűleg nem tanul eleget.
+>
+> -- Alain de Botton
+>> Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough.
 
-- nincs olyan, hogy "elölről kezdés", mert a korábbi tapasztalataink úgyis velünk jönnek
-    - legfeljebb újrakezdés, egy másik területen
-    - és ha már új dolgot tanulunk, osszuk is meg a munkánkat!
+Vigasztaljon az a tudat, hogy valójában nincs olyan, hogy "elölről kezdés", mert a korábbi tapasztalataink úgyis velünk jönnek.
+Legfeljebb újrakezdés, egy másik területen, de nem elölről.
+És ugye nem felejtjük el, hogy ha már új dolgot tanulunk, akkor osszuk is meg a munkánkat menet közben!
+
+<br>
+
+
+
 
 
 
@@ -323,6 +410,7 @@ Sturgeon's Law: Ninety Percent of Everything Is Crap
 
 A Mutasd meg magad! egy gyors, gyönyörűen illusztrált, és méretéhez képest meglepően velős kis olvasmány.
 Van benne kreatív folyamat demisztifikálás, anti-originalitás, halál-alapú motiváció, szokásformálás, következetesség, önmagunk felvállalása, és még némi szociális "vastag bőr növesztés" is a képünkre.
+
 Nyilván megjegyezhetnénk, hogy ezek az ötletek nem kimondottabban mennek újdonság számba -- önmagukban legalábbis semmiképp.
 De egyrészt pont ez az egyik mondanivaló (lásd anti-originalitás).
 Másrészt pedig a kombinációjuk, és az alkotói munkára való alkalmazásuk mégis egy frissnek érződő, megosztás alapú megközelítéshez vezet, ami által önfényezés-mentesen építhetjük ki a követői táborunkat.
