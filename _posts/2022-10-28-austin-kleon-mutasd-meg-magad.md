@@ -17,7 +17,7 @@ Nem baj, ha az ön-marketing-től elkap minket a hányinger.
 Legtöbbször mást is.
 De valamilyen formában sajnos muszáj, mert alkotóként nem jellemző, hogy mi találnánk meg a közönségünket.
 Inkább ők találnak ránk -- a cél ezt megkönnyíteni nekik.
-Na meg persze közben elég jóvá válni, hogy meg is érje nekik minket megtalálni.
+Na meg persze közben elég jóvá válni, hogy meg is érje nekik megtalálni minket.
 
 Ehhez adhat segítséget [Austin Kleon - Mutasd meg magad!](https://moly.hu/konyvek/austin-kleon-mutasd-meg-magad){:target="_blank"} (eredetileg "Show your work!") című könyve, ami tulajdonképpen egy alternatívát kínál az ön-marketing mellé.
 Egy módszert, ami a munkánk folyamatos megosztásán alapul.
@@ -58,7 +58,7 @@ Kleon a következő 10 tippet ajánlja a kreatív termelékenységünk felpörge
 Az alkotás soha nem egy magányos folyamat.
 Mindig egy elme kapcsolódik más elmékhez, legyenek azok élők vagy halottak.
 Óriások vállán, vagy mi a szösz.
-Ezért a könyv javaslata, hogy cseréljük le a fejünkben a magányos zseni képét egy kollektív erőfeszítésre (ami angol szóviccben kiválóan Genius &rarr; Scene-ius).
+Ezért a könyv javaslata, hogy cseréljük le a fejünkben a magányos zseni képét egy kollektív erőfeszítésre (ami angol szóviccben kiválóan Genius &#8658; Scene-ius, mert a "scene" ebben a kontextusban egy bizonyos témával foglalkozó közösséget jelent).
 
 Ez helyet hagy nekünk többieknek is a alkotói térben, akik határozottan nem vagyunk géniuszok.
 De más géniuszok ötleteit összeköthetjük érdekes, új módokon.
@@ -75,8 +75,7 @@ Szóval nyugalom, nem kell egyedül alkotnunk, csak hozzájárulnunk valahogy a 
 >> That’s all any of us are: amateurs. We don’t live long enough to be anything else.
 
 Merjünk kezdők lenni -- mert hát bizonyos vélemények szerint, a mester szint léc-magasságától függően, mások nem is lehetünk.
-Aki mer amatőrnek lenni (és látszani), az felismeri, hogy a nagy különbség nem a középszerű és a jó között van, hanem a semmi és a valami között.
-Így ő legalább próbálkozik.
+Aki viszont mer amatőrnek lenni (és látszani), az fel fogja ismeri, hogy a nagy különbség nem a középszerű és a jó között van, hanem a semmi és a valami között.
 
 Ne becsüljük le továbbá azt sem, hogy mekkora hatása lehet valamit egy diáktárstól megtanulni egy "mester" helyett.
 Szóval a tanítást sem kell túllihegni.
@@ -91,14 +90,14 @@ Egyelőre ne aggódjunk rajta, hogy ebből hogy lesz karrier.
 
 Márpedig csak akkor találhatjuk meg a hangunkat, ha használjuk, nem?
 
-Aki szégyellős, annak ajánljuk figyelmébe Sturgeon törvényét, miszerint "Minden 90%-a szar".
+Aki szégyellős, annak ajánljuk figyelmébe [Sturgeon törvényét](https://en.wikipedia.org/wiki/Sturgeon%27s_law){:target="_blank"}, miszerint "Mindennek a 90%-a szar".
 Vagyis nem kell aggódni, hogy a munkánk nagyja szar lesz -- mert úgyis az lesz.
 Ezt fogadjuk el, és csak csináljuk, hogy esélyünk legyen egyszer-egyszer beletenyerelni abba a 10%-ba.
 
 Illetve újra előkerül a halál, mint motivációs eszköz -- igen, megint.
 De hát mit csináljak, ha egyszer tényleg ez az egyik leghatásosabb perspektíva helyrebillentő eszköz.
 Egyből nevetségesnek fognak tűnni a "de mi van, ha nem sikerül" és a "mi lesz, ha kinevetnek" jellegű félelmeink, ha belegondolunk, mennyire korlátozott az időnk, hogy egyáltalán megpróbáljuk.
-Az nagyobb megbánás lesz, ha meg sem próbáljuk, mint ha nem sikerül.
+Higgyük el, hogy az nagyobb megbánás lesz, ha meg sem próbáljuk, mint ha nem sikerül.
 
 A halálközeli élmények után egyből szép az élet, és csak annak van értelme, hogy kövessük a szívünket.
 Csak aztán ez kikopik, és még az ilyen nagy leckén átesők is hajlamosak visszasüppedni a pocsolyába.
@@ -119,7 +118,7 @@ A "gyávák" relatíve biztonságos halál-emlékeztető módszere: olvassunk gy
 ## <a name="2"></a>2 -- Gondolkodjunk folyamatokban, ne eredményekben
 
 Mint az atomi szokásoknál már láthattuk, nem a céljaink szintjére emelkedünk, hanem a rendszereink szintjére süllyedünk.
-Megint egy kiváló angol szójáték, miszerint az "artwork" (műalkotás) helyett inkább "art work" (művészeti munka) legyen a középpontban.
+Megint egy kiváló angol szójáték, miszerint az "artwork" (műalkotás) helyett inkább az "art work" (művészeti munka) hozzáállás legyen a középpontban.
 Lásd [Művészet háborúja]({% post_url 2020-02-04-steven-pressfield-a-muveszet-haboruja %}).
 
 És főleg, gondoljunk a folyamatainkra is megoszthatóként -- sőt, megosztandóként!
@@ -148,14 +147,13 @@ Vagy csak dokumentáljuk magát a folyamatot egy fogyasztható formában.
 
 Az "egyik napról a másikra" híressé válás általában sok-sok évnyi észrevétlen munkát takar.
 A legjobb, ha ezt a munkát nap mint nap dokumentáljuk.
-Ha valaminek nagyon az elején vagyunk, akkor az inspirációkat vagy célokat.
+Ha valaminek nagyon az elején vagyunk, akkor az inspirációkat vagy a célokat.
 Ha a közepén, akkor a vázlatokat, a módszerünket, vagy a napi haladásunkat.
 Ha a végén, akkor a kész terméket (nyilván), de a kivágott részleteket is, vagy hogy mit tanultunk a folyamatból.
 
 A hossza és a formája mindegy.
 Legyen szösszenet vagy kisregény; legyen szöveg, audio, video.
 Találjuk meg a megfelelő platformot, kísérletezzünk bátran.
-
 Meg kell találni az időt a rendszeres megosztásra.
 Persze nem élvezhet előnyt magával a munkával szemben, de legyen a munkafolyamat része.
 
@@ -169,7 +167,7 @@ A portfóliónk pedig a kész termékeink, amiket eredményként felmutathatunk.
 A siker titka, hogy fenntartsuk a hírfolyamunkat, miközben portfóliót generálunk a háttérben.
 
 És ehhez ajánlja Kleon a fenntartható megoldást: szülessen a portfóliónk a hírfolyamunkból.
-Ahogy megosztunk, bizonyos ötletek/témák/területek elkezdenek majd ismétlődni
+Ahogy megosztunk, bizonyos ötletek/témák/területek elkezdenek majd ismétlődni.
 Ezeknek az összegyűjtéséből, kategorizálásából, összehasonlításából, stb. lesz majd a nagyobb horderejű "termék" is idővel.
 
 Plusz tip: legyen egy saját kis szigetünk a neten.
@@ -194,7 +192,7 @@ Ez által építsük ki a saját jó nevünket -- mondhatni, a személyes brand-
 ## <a name="4"></a>4 -- Ne rejtegessük az ízlésünket
 
 16-17. századi divat volt a kuriózumok tárháza, ami kb. a modern múzeumok előfutára.
-De attól, hogy ez nekünk ilyen formában, fizikailag nem létezik, attól a fejünkben ott van az a sok érdekesség és tapasztalat, ami befolyásolja a mindennapi munkánkat.
+De attól, hogy ez nekünk ilyen formában, fizikailag már nem létezik, attól a fejünkben ott van az a sok érdekesség és tapasztalat, ami befolyásolja a mindennapi munkánkat.
 Azáltal is kifejezhetjük az ízlésünket, hogy miket válogatunk ki mások munkáiból.
 Mi inspirál?
 Mit olvasunk?
@@ -262,7 +260,7 @@ Gyakoroljuk, hogy milyen meséket mondunk másoknak magunkról, és magunknak az
 
 Osszuk meg a kulisszatitkainkat fenntartások nélkül.
 Az információ "kiszivárogtatással" ugyanis nem csak **nem** ártunk magunknak, de épp hogy építjük a brand-ünket.
-Segítünk másoknak, növeljük a hitelességünket, mutassuk meg a világnak a szenvedélyünket, stb.
+Segítünk másoknak, növeljük a hitelességünket, megmutatjuk a világnak a szenvedélyünket, stb.
 Körözzük le a vetélytársakat tanításban, ne (csak) eredményekben.
 
 > A késztetés, hogy megtartsd magadnak, amit tanultál, nem csak szégyenletes, de pusztító. Bármi, amit nem adsz szabadon és bőséggel, az számodra is elveszik. Kinyitod a széfed és csak hamvakat találsz.
@@ -292,7 +290,7 @@ A zsugori gyűjtögetőnél jobb a megosztó, de a "spammer"-nél is jobb a (csa
 A zsugorit csak mások munkája érdekli, míg a spammer csak magára figyel.
 Ezek helyett (között) kell az input/output balansz.
 
-Az alkotás a befolyó és a kiadott hatások/ötletek egyensúlyából fakad.
+Az alkotás a befolyó és a kiadott ötletek egyensúlyából fakad.
 Aki előre gondolkozik, az mindig nyitott mások munkájára, folyamatosan tanul és fejlődik.
 És közben megosztja a saját munkáját és tippjeit, hogy mások is tanulhassanak tőle és fejlődhessenek általa.
 
@@ -328,8 +326,9 @@ Ha kimondottan érzékeny területet érint, akkor talán várjunk egy kicsit a 
 Ha valaki "betalál", az azért lehet, mert az agyunk egy rejtett zugában mi is egyetértünk vele.
 Ezt tegyük rendbe, és a többi utána annyival könnyebben lepereg.
 
-Fontos, hogy tudjunk különbséget tenni az identitásunk és a munkánk között!
-És csak olyan helyről fogadjunk el kritikát, aki tényleg javítani szeretné vele a munkánkat, nem fikázni.
+Fontos továbbá, hogy tudjunk különbséget tenni az identitásunk és a munkánk között!
+Ha egy erőfeszítésünk nem sikerült "elég jóra", az nem jelenti, hogy mi magunk nem vagyunk elég jók!
+És csak olyan helyről fogadjunk el kritikát, ahol tényleg javítani szeretnék vele a munkánkat, nem fikázni.
 Ignoráljunk, töröljünk és blokkoljunk bátran.
 Ha valaki odaszarna a nappali közepére, azt sem hagynánk csak úgy ott bűzölögni, nem?
 Pláne nem gondolkoznánk el rajta, hogy szarosan vajon nem jobb-e a nappali.
@@ -350,7 +349,7 @@ Bár sokak fejében továbbra is nagy divat, mégis ideje lenne túllépni az "�
 A faszt!
 Valamiből enni sem ártana!
 
-> Az amatőr olyan művész, aki külső munkákkal tartja el magát, hogy festhessen -- a profi pedig olyan művész, akinek a felesége dolgozik, hogy ő festhessen.
+> Az amatőr olyan művész, aki külső munkákkal tartja el magát, hogy festhessen -- a profi pedig olyan művész, akit a felesége tart el, hogy ő festhessen.
 >
 > -- Ben Shahn
 >> An amateur is an artist who supports himself with outside jobs which enable him to paint. A professional is someone whose wife works to enable him to paint.
@@ -380,7 +379,7 @@ Nincs inspiráció, csak a munka van.
 
 A kiégés ellen állítsunk be egy fenntartható (de konzisztens!) tempót, illetve esetleg gondolkozzunk el az itthon még nem annyira divatos "szombatév" (sabbatical) lehetőségén.
 Mert hát ha 25 év tanulás + 40 év munka + 15 év nyugdíj a normál élet "beosztás", akkor miért nem veszünk ki 5 évet a nyugdíjból és szórjuk szét a 40 év munka közé?
-Rengeteg töltődést és ötletet fog adni, amit a következő 7 évben kihasználhatunk.
+Rengeteg töltődést és ötletet fog adni, amit az utána következő 7 éves munkablokkban kihasználhatunk.
  
 Persze ezt nem muszáj éves nagyságrendben -- lehet havi, heti, vagy akár napi.
 Munkába járás, edzés, vagy természetbeli séta; a lényeg, hogy tudjunk kikapcsolni, hogy aztán visszakapcsolhassunk.
@@ -395,7 +394,7 @@ Legyünk újra diákok, tanuljunk valami mást.
 >> Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough.
 
 Vigasztaljon az a tudat, hogy valójában nincs olyan, hogy "elölről kezdés", mert a korábbi tapasztalataink úgyis velünk jönnek.
-Legfeljebb újrakezdés, egy másik területen, de nem elölről.
+Legfeljebb **újra**kezdés létezik, egy másik területen, de nem elölről.
 És ugye nem felejtjük el, hogy ha már új dolgot tanulunk, akkor osszuk is meg a munkánkat menet közben!
 
 <br>
