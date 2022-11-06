@@ -16,7 +16,7 @@ A MÁV-val szemben (ahol annak örülhetünk, ha tényleg aznap van a járat, am
 Ennek fényében valószínűleg nem meglepő, hogy a japán mérnökök igen alaposan tervezték meg a hálózat szerkezetét, így az egyszerre lehet hatékony (hogy egyáltalán elbírja a napi [40 millió](https://en.wikipedia.org/wiki/Transport_in_Greater_Tokyo){:target="_blank"} utast) és megbízható (hogy egy-egy kiesett állomás se bénítsa meg a teljes rendszert).
 
 Ami viszont igencsak meglepő, hogy egy agyatlan, egysejtű élőlény milyen pontossággal volt képes leutánozni a mérnökök munkáját.
-A Physarum polycephalum (avagy "sokfejű nyálka") évmilliókra visszatekintő evolúciója során ugyanis igencsak tökélyre fejlesztette a tápanyag fogyasztási stratégiáját, agy ide vagy oda.
+A Physarum polycephalum (avagy "sokfejű nyálka") évmilliókra visszatekintő evolúciója során ugyanis tökélyre fejlesztette a tápanyag fogyasztási stratégiáját, agy ide vagy oda.
 Először csak úgy vakon terjed minden irányba, viszont amint kajára bukkan, elkezdi újraszervezni magát.
 A haszontalan szálak idővel elsorvadnak, míg a hasznos útvonalak megvastagodnak, hogy könnyebben utazhasson rajtuk a tápanyag.
 És lássunk csodát, ez a faék egyszerűségű folyamat szép lassan egy előre nem tervezett, mégis közel optimális struktúrát eredményez.
