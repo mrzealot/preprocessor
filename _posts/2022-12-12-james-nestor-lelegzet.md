@@ -24,7 +24,7 @@ Persze ettől még járhat jó nyomon -- és hiszem is, hogy jár.
 
 Hősünket egy tüdőgyulladás utáni, orvosa által javasolt légzés óra térítette meg, ahol teljesen leizzadt (a relatív hideg ellenére), és utána még napokig sokkal jobban és nyugodtabban érezte magát.
 Elkezdte hát kutatni a légzést, ami napjaink szabadtüdős búvárjai és az ősi Tao, Hindu vagy Buddhista iratok nagyon fontosnak tartanak, a modern tudomány viszont nem igazán foglalkozik vele.
-És amit ebből a kutakodásből leszűrt, az röviden ennyi: tényleg a lélegzet tudatos irányítása a "hiányzó láncszem" az egészségünk karbantartásából.
+És amit ebből a kutakodásból leszűrt, az röviden ennyi: tényleg a lélegzet tudatos irányítása a "hiányzó láncszem" az egészségünk karbantartásából.
 
 A légzés nem egy bináris dolog, amit vagy csinálunk, vagy nem.
 A továbbiakban meg fogjuk látni, hogy lehet jobban és rosszabban csinálni.
@@ -97,12 +97,12 @@ Mindezt egyébként normális életmód, étkezés és mozgás mellett.
 Illetve előtte, közben (napi háromszor), és utána mindenféle teszt, hogy ennek milyen hatásai lesznek a szervezetükre.
 
 És hatás bizony volt szatyorral.
-Már egyetlen éjszaka alatt 1300%-os növekedést észleltek a horkolásban és az alvási apnoe tünetekben (ahol a végoxigén 85% alá esett).
+Már egyetlen éjszaka alatt 1300%-os növekedést észleltek a horkolásban és az alvási apnoé tünetekben (ahol a véroxigén 85% alá esett).
 Sőt, a 10. nap végére már 4800% a romlás, és 25 apnoé incidens volt az átlag.
 Ráadásként vérnyomás fel, pulzus fel, testhőmérséklet le, mentális kapacitás le.
-Na meg ott van még a szájszárazság, és a kevesebb mély alvás miatti kevesebb vasopressin hormon, ami a szomjúságot és a vizelési ingert szabályozza (és így könnyebben ébredünk fel ivós wc-s körökre).
+Na meg ott volt még a szájszárazság, és a kevesebb mély alvás miatti kevesebb vazopresszin hormon, ami a szomjúságot és a vizelési ingert szabályozza (és így könnyebben ébredtek fel ivós wc-s körökre).
 
-A szájlégzés miatt kisebb a légnyomás, ami miatt az orrüreg és torokszövetek ellazulnak és befelé hajlanak, így kisebb lesz a hely és nehezebb az orron át légzés, így egyre jobban szájon át légzősök leszünk.
+A szájlégzés miatt kisebb a légnyomás, ezért az orrüreg és torokszövetek ellazulnak és befelé hajlanak, így kisebb lesz a hely és nehezebb az orron át légzés, így egyre jobban szájon át légzősök leszünk.
 Ezzel szemben az orrlégzés pont fordítva működik: nagyobb nyomás, feszesebb szövetek, több hely, egyre könnyebb orrlégzés, és így egyre inkább orrlégzősök leszünk.
 Vagyis mindkettő önerősítő kör, csak nagyon nem mindegy, hogy melyik irányba haladunk velük.
 
@@ -131,7 +131,7 @@ Amint vége lett a Stanfordi kísérlet első fázisának, kezdődhetett a regen
 Nestoréknál már a második napon látványosan javultak a vérnyomás, CO<sub>2</sub> és HRV értékek -- utóbbi azt mutatja, hogy mennyire képes a szív követni a szervezet keringési szükségleteit.
 
 A legtöbben tudjuk, hogy az orr szűri, melegíti, és nedvesíti a beszívott levegőt, hogy ezáltal könnyítse az oxigén felszívódást.
-Amit viszont nem nagyon tudunk, hogy az orrunk mennyire intim kapcsolatban van az intim részeinkkel (mert ugyanolyan merevedésre képes szövet borítja belülről).
+Azt viszont nem nagyon tudjuk, hogy az orrunk mennyire intim kapcsolatban van az intim részeinkkel (mert ugyanolyan merevedésre képes szövet borítja belülről).
 Vagy hogy milyen természetes és normális ciklusokon megy keresztül, ahol egyszer az egyik orrlyukunk a tágabb, máskor a másik.
 Vagy hogy az orrjáratok nem egyformák -- a jobb a gáz (szimpatikus), a bal a fék (paraszimpatikus) idegrendszerhez kapcsolódik erősebben, és a tudatos egyik vagy másik orrlyukon légzéssel akár a saját ideg- és mentális állapotunkat is befolyásolhatjuk.
 
@@ -142,11 +142,11 @@ Maradjunk annyiban, hogy az orr egy hangyányit komplexebb, mintha csak lenne eg
 
 <br>
 
-Az egyébkét nagyon eltérő hit, szokás és táplálkozásrendszerrel rendelkező natív amerikai törzsek között szinte univerzális volt, hogy már csecsemő koruktól orrlégzésre szoktatták a gyerekeket.
+Az egyébkét nagyon eltérő hit-, szokás- és táplálkozásrendszerrel rendelkező natív amerikai törzsek között szinte univerzális volt, hogy már csecsemő koruktól orrlégzésre szoktatták a gyerekeket.
 Száj becsukása etetés után; száj becsukása éjszaka, ha alvás közben kinyílt volna; hűvösebb öltözet, hogy ne kelljen "lihegni" a meleg miatt; gyakran még a mosolyhoz sem nyitották ki a szájukat, nehogy ne az orron keresztül jusson be a levegő.
 
-És ez nem csak az amerikai, hanem az Andokban, Argentínában, és Brazíliában honos törzseknél is így volt.
-Az őket kutató George Catlin szerint nem is véletlen, hogy ugyanolyan jó erőben voltak, szép fogsorral, és tágasabb, előre növő arc csontozattal rendelkeztek.
+És ez nem csak az amerikai, hanem az Andokban, Argentínában és Brazíliában honos törzseknél is így volt.
+Az őket kutató George Catlin szerint nem is véletlen, hogy ugyanolyan jó erőben voltak, illetve szép fogsorral és tágasabb, előre növő arc csontozattal rendelkeztek.
 
 > A tüdőnkbe jutó levegő annyira különbözik az orrunkba beáramló levegőtől, mint a desztillált víz egy átlagos víztározó vagy békás tó vizétől.
 >
@@ -160,7 +160,7 @@ Szóval az orr nem csak hogy szűri, de pluszban meg is spékeli az egyik fő ü
 Ébren persze könnyű rávenni magunkat az átszokásra, csak tudatosan figyelni kell.
 Éjszakára viszont nem árthat némi ragtapasz -- igen, szó szerint.
 Nestor egy fogorvostól kapta először a javaslatot, aki szerint a szájlégzés még a cukornál és a fogmosás hiányánál is jobban hozzájárul a fogszuvasodáshoz (az alvás minőségéről, és annak általános élettani hatásairól nem is beszélve ugye).
-De aztán más orvosok is megerősítették, és a saját mérései is hozták az eredményt: 4 óra horkolásból hirtelen 10 perc lett, az apnoé incidensek pedig nullára csökkentek.
+De aztán más orvosok is megerősítették, és a saját mérései is hozták az eredményt: 4 óra horkolásból hirtelen 10 perc lett, az apnoé incidensek pedig nullára csökkentek, pusztán mert beragasztotta a száját éjszakára.
 
 <br>
 
@@ -177,7 +177,7 @@ De aztán más orvosok is megerősítették, és a saját mérései is hozták a
 ## <a name="kilegzes"></a> Kilégzés
 
 Az orr mellé azért a tüdő kapacitás sem árt, hogy feldolgozni is fel tudjuk azt a jobb minőségű bejutó levegőt.
-Ezt mutatja a Framingham tanulmány is -- egy két évtizeden átívelő, 5200 alanyt érintő kísérlet, ami azt a tanulságot vonta le, hogy a tüdő kapacitás függ össze legerősebben a várható élettartammal.
+Ezt mutatja a Framingham tanulmány is -- egy két évtizeden átívelő, 5200 alanyt érintő kísérlet, ami azt a tanulságot vonta le, hogy sok változatos szempont közül a tüdő kapacitás függ össze legerősebben a várható élettartammal.
 Ennek a jelentősége akkor látszik igazán, ha felismerjük, hogy a tüdő kapacitásunk nem egy velünk született és módosíthatatlan konstans.
 Oké, hogy kapunk valami alapjáratot; és oké, hogy ez az alapjárat az idő múlásával egyre csökken.
 Emiatt egyre inkább jön majd a gyorsabb és felületesebb légzés, amiatt pedig a magasabb vérnyomás, immunrendszeri problémák, és szorongás.
@@ -221,8 +221,8 @@ De az magától nincs -- pont a szén-dioxid miatt tudja majd, hogy hol kell les
 Kb. addig örömhajókázik, amíg sejtekben termelt, hajóra felturakodó bunkó szén-dioxidok ki nem szorítják a helyéről -- innen tudja, hogy szükség van rá a sejtben.
 Plusz a szén-dioxid erős értágító hatással is rendelkezik, hogy több járat érkezzen, és legyen oxigén, akit kitúrhat.
 
-Na most ha nincs elég széndioxid, akkor hiába lesz rengeteg oxigén a vérben, és hiába érkezik sok vér, mert egyszerűen nem fognak leszállni.
-Ezt egy (elég kegyetlen) kutyás kísérlet is jól mutatja: ahogy egyre növelték a légzésük ütemét, úgy emelkedett a pulzusuk, és csökkent a széndioxid szintjük, ami miatt (ironikus módon) a szerveik nem kaptak elég oxigént, és akár bele is haltak.
+Na most ha nincs elég szén-dioxid, akkor hiába lesz rengeteg oxigén a vérben, és hiába érkezik sok vér, mert egyszerűen nem fognak leszállni.
+Ezt egy (elég kegyetlen) kutyás kísérlet is jól mutatja: ahogy egyre növelték a légzésük ütemét, úgy emelkedett a pulzusuk, és csökkent a szén-dioxid szintjük, ami miatt (ironikus módon) a szerveik nem kaptak elég oxigént, és akár bele is haltak.
 Ha egy tüzet "etetnénk" tiszta oxigénnel, akkor brutál módon égne, de ha a szervezetet etetjük így, annak jó esetben is semmi értelme -- rossz esetben pedig akár káros is lehet.
 Mert hát hiába lesz több oxigén a vérünkben, ha a sejtek nem tudják felvenni.
 Ezzel szemben a lassabb légzés több szén-dioxidhoz vezet, így nagyobb arányú lesz az oxigén felvétel a rendelkezésre álló levegőből, és mellé a pulzus és a vérnyomás is csökken.
@@ -230,10 +230,10 @@ Ezzel szemben a lassabb légzés több szén-dioxidhoz vezet, így nagyobb arán
 Érdekes meglátás továbbá az ima és a légzés kapcsolata, amire egy 2001-es Paviai kísérlet derített fényt.
 A legtöbb kultúra egymástól függetlenül is kb. ugyanarra a közös nevezőre jutott: kb. 6 másodperces belégzés + kb. 6 másodperces kilégzés az optimális.
 Ilyen a buddhista mantra, a keresztény rózsafüzér, de ugyanúgy ez a tapasztalat a taoistáknál, a hinduknál, vagy a natív amerikai törzseknél.
-Átlagban 5.5 légzési ciklus per perc.
+Átlagban 5,5 légzési ciklus per perc.
 És ilyenkor az agy több vért kap és a test minden rendszere jobban összhangba kerül.
-Sőt, ismétléses tanulmánynál is ez jött ki.
-5.5 másodperc belégzés, 5.5 másodperc kilégzés, és ez majdnem pontosan 5.5 darab lélegzet per perc tempót diktál.
+Sőt, egy ismétléses tanulmánynál is ez jött ki.
+5,5 másodperc belégzés, 5,5 másodperc kilégzés, és ez majdnem pontosan 5,5 darab lélegzet per perc tempót diktál.
 Hát nem szép ez a szimmetria?
 
 > Az ilyen *rezonáns* lélegzés a meditáció előnyeit nyújtja azoknak, akik nem akarnak meditálni. Vagy a yoga előnyeit azoknak, akik nem szeretnek felkelni a kanapéról. Az ima gyógyító érintését nyújtja azoknak, akik nem vallásosak.
@@ -256,7 +256,7 @@ Ahogy a túlkajálás is divat, úgy lettünk a modern korszakban "túl-légzők
 Pedig az egészségügyi osztalék onnan származik, hogy a szervezetünk igényeinek megfelelően légzünk, és nem felette.
 Akár csak plusz 10-20%-nyi is túldolgoztatja a rendszereinket, ami hosszú távon hamarabb éget ki, mint kellene.
 
-És nem, ez nem ugyanaz a tanulság, mint hogy legyen lassú, mert a tüdőnk kapacitását figyelembe véve még az 5.5 per perces tempóval is bőven több levegőt juttathatunk be, mint amennyi kell.
+És nem, ez nem ugyanaz a tanulság, mint hogy legyen lassú, mert a tüdőnk kapacitását figyelembe véve még az 5,5 per perces tempóval is bőven több levegőt juttathatunk be, mint amennyi kell.
 Vagyis nem is csak kevesebbszer, hanem kevesebbet.
 
 Egy lehetséges fejlesztési esély a dedikált VO<sub>2</sub> max edzés, ahol futás közben egyre hosszabb kilégzéseket végzünk, állandó belégzés ütem mellett.
@@ -274,8 +274,8 @@ Valószínűleg azért nem kimondottabban elterjedt, mert menet közben kurva ke
 Meg talán azért sem, mert Buteyko később nagyon átment misztikusba -- amikor már rákot is gyógyított a puszta légzéssel, meg amikor már az asztma is csak a test természetes kompenzáló reakciója volt, hogy lassabb légzésre késztessen.
 De ettől még teljesen valid források is megerősítik a lassú légzés pozitív hatásait.
 
-Szóval tessék, itt van még egy öt és fél: 5.5 litert lélegezni per perc.
-Vagyis nem csak 5.5 másodper be és 5.5 másodperc ki (ami 5.5 darab légzés lesz per perc), hanem ezalatt "csak" 5.5 litert beszívni (az ilyen nagy, mély, 10+ literek helyett).
+Szóval tessék, itt van még egy öt és fél: 5,5 litert lélegezni per perc.
+Vagyis nem csak 5,5 másodper be és 5,5 másodperc ki (ami ugye 5,5 darab légzés lesz per perc), hanem ezalatt "csak" 5,5 litert beszívni (az ilyen nagy, mély, 10+ literek helyett).
 
 <br>
 
@@ -294,23 +294,23 @@ A sztenderd légzést kivégezvén, megint visszatekintünk kicsit az ipari forr
 Itt kezdett egyre vírusszerűbben terjedni a zsugorodott arcüreg, a ferde fogazat és a rosszabb minőségű légzés.
 A jelenség szemléltetésére Nestor a Párizsi katakombákban kutatja a koponyákat, amik igencsak mást mutatnak az ősemberek légutaihoz képest.
 
-> Mivel régóta tudjuk, hogy a vademberek kiváló fogazattal rendelkeztek, a civilizált emberek pedig borzalmassal, számomra rendkívüli ostobaságnak tűnik, hogy minden figyelmünket a saját fogaink hiányosságaira szenteltük és közben soha nem vettük a fáradságot, hogy kiderítsük, a vademberek fogai miért olyan jók.
+> Mivel régóta tudjuk, hogy a vademberek kiváló fogazattal rendelkeztek, a civilizált emberek pedig borzalmassal, számomra rendkívüli ostobaságnak tűnik, hogy minden figyelmünket a saját fogaink hiányosságaira koncentráltuk és közben soha nem vettük a fáradságot, hogy kiderítsük, a vademberek fogai miért olyan jók.
 >
 > -- Earnest Hooton, Harvardi antropológus
 > > Since we have known for a long time that savages have excellent teeth and that civilized men have terrible teeth, it seems to me that we have been extraordinarily stupid in concentrating all of our attention upon the task of finding out why all our teeth are so poor, without ever bothering to learn why the savage’s teeth are good.
 
 A jelenség megértésében sokat segíthet Weston Price országokon átívelő, mindenféle kultúrát vizsgáló kutatása az étrend légutakra és fogazatra kifejtett hatásáról.
 Az átlag étrend természetesen nagyon változatos az alanyok között -- van ahol szinte csak hús; van, ahol vegetáriánus; van, ahol alap a házi sajt; van, ahol nincs semmi tejtermék; stb.
-Ami viszont közös, (mint kb. a natív törzseknél korábban) hogy a tradicionális étrendeken jobb a fogazat és szélesebbek a légutak, míg a modern, előfeldolgozott, puha, "kész picsa meleg málé" kajákon élőknél épp az ellenkezője tapasztalható.
+Ami viszont közös, (mint kb. a natív törzseknél korábban) hogy a tradicionális étrendek mellett jobb a fogazat és szélesebbek a légutak, míg a modern, előfeldolgozott, puha, "kész picsa meleg málé" kajákon élőknél épp az ellenkezője tapasztalható.
 Sőt, akár ugyanazon a családon belül is, ha például csak részük tért át a modern étrendre, szóval a hatás nem igazán írható a genetika számlájára.
 
 Egy lehetséges magyarázat, hogy már nincs annyi vitamin és ásványi anyag az ételeinkben.
 Mondjuk akik eleget fogyasztanak (vagy táplálék kiegészítőkkel pótolják), azoknál is ugyanúgy fennáll a modern "gyenge-arcúság".
 A kulcs tehát valószínűleg nem is feltétlen az, hogy *mit* eszünk, hanem hogy *hogyan*!
-A régiek félig nyers, feldolgozatlan, kemény, barátságtalan kajáit annyit kellett rágni, hogy szó szerint megedzettük az arcunkat.
+A régiek félig nyers, feldolgozatlan, kemény, barátságtalan kajáit annyit kellett rágni, hogy szó szerint megedzették az arcukat.
 A mai, többnyire puha és könnyen fogyasztható kajáknál erre nincs szükség, viszont így nem is dolgozunk meg érte, hogy erős/egyenes fogsorunk és tág légutaink legyenek.
 
-Ez orvosolható ugyan műtéti úton, csak akkor vigyázzunk, nehogy túl sok szövetet és orrkagylót távolítsanak el, és a végén "üres orr" szindrómánál kössünk ki, ami gyakorlatilag szó szerint a ló másik oldalára átesés.
+Ez orvosolható ugyan műtéti úton, csak akkor vigyázzunk, nehogy túl sok szövetet és orrkagylót távolítsanak el, és a végén "üres orr" szindrómánál kössünk ki, ami gyakorlatilag a ló másik oldalára átesés.
 Egy másik lehetőség a szájon keresztül próbálkozni.
 Persze itt is lehet mindjárt mandulát kivenni, helyesebb nyaki és fej tartással tüneteket enyhíteni, vagy túl nagy nyelvre és túl zsíros/izmos nyakra panaszkodni.
 De igazából legtöbb esetben nem a szájban lévő szövet a túl sok, hanem maga a száj túl kicsi hozzájuk képest.
@@ -336,12 +336,11 @@ Ami fontos, hogy (sok más szituációhoz hasonlóan) érdemes itt is a megelőz
 ## <a name="tobbet"></a> Néha többet
 
 Idáig tart a normál, önkarbantartó szakasz -- amit Nestor a végére még megfejel egy "Légzés+" adalékkal.
-Ezek a további tippek inkább arra vonatkoznak, hogy hogyan edzhetjük magunkat légzésen keresztül a még nagyobb ellenállóképesség felé.
+Ezek a további tippek inkább arra vonatkoznak, hogy hogyan edzhetjük magunkat légzésen keresztül a még nagyobb ellenálló képesség felé.
 
-Mint egy korábbi [yoga-s posztból]({% post_url 2021-05-15-william-broad-a-yoga-tudomanya %}) már tudhatjuk, a szimpatikus kontra paraszimpatikus idegrendszerünk kb. minden testi működésünk gáza és fékje.
-Ezek közül az általánosságban javallott lassú, mély légzés (és a hosszú kilégzés) a paraszimpatikust stimulálja, ezzel nyugtatva minket, lassítva a szívet, beindítva az emésztést, stb.
-Csodálatosan evokatív angol kifejezéssel élve ez a "feed and breed" reakció.
-A gyors és sekély légzéssel viszont pont a szimpatikus oldalt lehet stimulálni, lásd "fight or flight".
+Az általánosságban javallott lassú, mély légzés (és a hosszú kilégzés) a paraszimpatikus idegrendszerünket stimulálja, ezzel nyugtatva minket, lassítva a szívet, beindítva az emésztést, stb.
+Csodálatosan evokatív angol kifejezéssel élve ez a "feed and breed", avagy a kajálást és párzást serkentő reakció.
+A gyors és sekély légzéssel viszont pont a szimpatikus oldalt lehet stimulálni, lásd "fight or flight", avagy "üss vagy fuss".
 
 Katonáknál például a poszttraumás stressz (PTSD) tünetei az egyenetlen szívritmus, a gyors pulzus és a gyors légzés.
 És hogy miért is szimulálnánk mi ezt szándékosan?
@@ -353,9 +352,9 @@ A legtöbbünknek már nincsenek valós élet-halál helyzetei az életében -- 
 Viszont igazi, mély relaxáció sincs nagyon, és így az idegrendszerünk egy ilyen folyamatos átmeneti állapotban lebeg.
 Erre lehet jó mindkét oldalról felfedezni a határokat.
 A lassú, hosszú, kevés légzéssel relaxálunk; a gyors, rövid, sok légzéssel pedig mesterséges stresszt generálunk (aminek aztán tudatosan véget vethetünk).
-Az ilyen edzéssel lejjebb csökkenthetjük a stressz átlagunkat, illetve növelhetjük a véráramlást sok szervünkhöz (amik stressz inger esetén nem létszükségletek, és ezért hanyagolva vannak).
+Az ilyen edzéssel lejjebb csökkenthetjük a stressz átlagunkat, illetve növelhetjük a véráramlást sok szervünkhöz (amik stressz inger esetén nem létszükségletek, és ezért gyakran hanyagolva vannak).
 
-Magával az edzéssel pedig fűthetjük és immun-stimulálhatjuk magunkat
+Magával az edzéssel pedig fűthetjük és immun-stimulálhatjuk magunkat.
 Egy népszerű élő példa [Wim Hof](https://en.wikipedia.org/wiki/Wim_Hof){:target="_blank"}, aki félmeztelen, mezítlábas maratont futott a hóban, vagy épp víz nélküli maratont a sivatagban -- demonstrálva, hogy a légzéssel (és az általa biztosított tudatos idegrendszer kontrollal) igencsak kitolhatóak a határaink.
 
 <br>
@@ -371,32 +370,30 @@ Egy népszerű élő példa [Wim Hof](https://en.wikipedia.org/wiki/Wim_Hof){:ta
 
 ## <a name="semennyit"></a> Néha semennyit
 
-A spektrum másik extrém végén nem hogy sokat, de egyáltalán nem légzünk, ami már hallás után is ijesztő.
-Olyannyira, hogy még az amigdala szerepét is ki tudja váltani.
-
+A spektrum másik extrém végén nem hogy sokat, de egyáltalán nem légzünk -- ami nem csak a "normális", de még a félelemre amúgy képtelen élőlények számára is ijesztő.
 Sokáig úgy tudtuk, hogy az amigdala szinte kizárólagos intimitásban áll a félelemmel.
 Majmos kísérletek illetve emberi rendellenességek is ezt mutatták.
-És mivel mindenféle szorongásnak a félelem az alapja (tekintve hogy a szorongás kb. bizonyos félelmekre való túlérzékenység), így amigdala nélkül sem hogy félelem, de szorongás sem lenne.
+És mivel mindenféle szorongásnak a félelem az alapja (tekintve hogy a szorongás kb. bizonyos félelmekre való túlérzékenység), így működő amigdala nélkül nem hogy félelem, de szorongás sem lenne.
 
-Legalábbis ezt hitték, amíg rá nem jöttek, hogy akár amigdala nélküli alanyokat is képesek "megijeszteni", ha magasabb CO<sub>2</sub> tartalmú levegőt lélegeztettek velük.
-Az agytörzs mélyén megbúvó a centrális chemoreceptorok ilyenkor ugyanis gyorsan ellátták az amigdala szerepét és olyan intenzív "Jajj megfulladok!" pánikot okoztak, hogy senki nem vállalta kétszer.
+Legalábbis ezt hitték, amíg rá nem jöttek, hogy akár amigdala funkció nélküli alanyokat is képesek "megijeszteni", ha magasabb CO<sub>2</sub> tartalmú levegőt lélegeztetnek velük.
+Az agytörzs mélyén megbúvó *centrális kemoreceptorok* ilyenkor ugyanis gyorsan ellátták az amigdala szerepét és olyan intenzív "Jajj megfulladok!" pánikot okoztak, hogy önszántából senki nem vállalta kétszer.
 
 Ezeknek a receptoroknak a flexibilitása teszi lehetővé, hogy az emberi faj változatosan oxigéndús helyeken is normálisan működhessen.
 És akinél jobban flexibilisek, az (egyebek mellett) jobb atlétikai teljesítményre lesz képes.
 De ha ráeddzük magunkat, hogy bírjuk az extrém CO<sub>2</sub> fluktuációt, az nem csak fizikai, hanem mentális téren is segíthet.
-Elvégre ha ilyen erős az összefüggés a chemoreceptor-központú, CO<sub>2</sub>-alapú, "állati" pánik és az amigdala-központú, "intellektuális" félelmek között, akkor az előbbi fejlesztésével az utóbbi kezelésére is jótékonyan hathatunk.
+Elvégre ha ilyen erős az összefüggés a kemoreceptor-központú, CO<sub>2</sub>-alapú, "állati" pánik és az amigdala-központú, "intellektuális" félelmek között, akkor az előbbi fejlesztésével az utóbbi kezelésére is jótékonyan hathatunk.
 
 A lélegzet visszatartása helyett egy darabig próbálkoztak is a magasabb CO<sub>2</sub> belégzéssel.
 Mostanában nem divat, pedig senki nem mondta, hogy nem működik.
-35%-nál skizofréniát kezelnek vele, de durva pánikot okoz, ezért inkább 15%-nál tesztelik a jótékony hatásait, hogy azért visszajöjjenek az alanyok.
+35%-nál skizofréniát kezelnek vele, de mivel durva pánikot okoz, ezért újabban inkább 15%-nál tesztelik a jótékony hatásait, hogy azért visszajöjjenek az alanyok.
 Már 7%-nál olyasmit szimulál, mint amire a Buteyko atléták magukat is kiképezték, és egyesek megelőzési/önfejlesztési céllal kísérleteznek vele.
 
-De persze nem muszáj mindjárt otthonra is széndioxid tartállyt szerezni, a visszatartással szimulálható.
+De persze nem muszáj mindjárt szén-dioxid tartályt szerezni otthonra, a módszer természetesen lélegzet visszatartással is szimulálható.
 Pánikrohamnál például a "vegyél mély levegőket" helyett pont az hasznos, ha lassabban lélegzünk (és akár egy kicsit vissza is tartjuk), hogy növeljük a CO<sub>2</sub> szintünket.
 
 Felmerülhet, hogy most honnan ez a sok pozitívum, amikor az alvási apnoénál még annyira negatívan beszéltünk az elégtelen légzésről.
 A válasz újra a szándékosság, mert az apnoéval ellentétben itt ez tudatos edzés.
-Mert habár a lélegzet visszatartása hosszú távon káros (mint láttuk), de rövid távon, irányítva és odafigyelve, ugyanolyan a különbség, mint a nehéz fizikai munka rongáló hatása és a stratégikus edzésterv jótékony eredményei között.
+Habár a lélegzet visszatartása hosszú távon káros (mint láttuk), rövid távon, irányítva és odafigyelve ugyanolyan a különbség, mint a nehéz fizikai munka rongáló hatása és a stratégikus edzésterv jótékony hatása között.
 
 <br>
 
@@ -426,9 +423,9 @@ Leginkább csak azt szerette volna érzékeltetni, hogy mekkora ereje és jelent
 Gondoljunk rá így: a modern orvoslás nagyon profi szintre jutott abban, hogy a vészhelyzeteket kezelje.
 Kivágni, ami nem oda való; összevarrni, ami szétnyílt; szétnyitni, ami összeforrt.
 Viszont ha valami ilyen lassabb, alattomosabb, krónikusabb háttér állapot, arra nem igazán tud mit mondani -- csak legfeljebb a tüneteket enyhíteni, hogy könnyebb legyen a szőnyeg alá söpörni az igazi (és továbbra is diagnosztizálatlan) okot.
-Na **erre** való, hogy (a táplálkozásunkon, mozgásunkon, és alvásunkon felül) a légzésünket is rendbe tegyük.
+Na **erre** való, hogy a táplálkozásunkon, mozgásunkon és alvásunkon felül a légzésünket is rendbe tegyük.
 
-> Az élő rendszerek hatvan évnyi kutatása meggyőzött arról, hogy a testünk sokkal közelebb áll a tökéleteshez, mint azt a számtalan betegségünk sugallná. A hiányosságai kevésbé róhatóak fel veleszületett tökéletlenségeknek, és sokkal inkább helytelen használatnak.
+> Az élő rendszerek hatvan évnyi kutatása meggyőzött arról, hogy a testünk sokkal közelebb áll a tökéleteshez, mint azt a számtalan betegsége sugallná. A hiányosságai kevésbé róhatóak fel veleszületett tökéletlenségeknek, és sokkal inkább a helytelen használatnak.
 >
 > -- Szent-Györgyi Albert
 >> More than sixty years of research on living systems has convinced me that our body is much more nearly perfect than the endless list of ailments suggests. Its shortcomings are due less to its inborn imperfections than to our abusing it.
@@ -437,7 +434,7 @@ Na **erre** való, hogy (a táplálkozásunkon, mozgásunkon, és alvásunkon fe
 
 - Csukjuk be a szánkat;
 - Lélegezzünk az orrunkon át;
-- Lélegezzünk lassan;
+- Lélegezzünk lassan (5,5);
 - Lélegezzünk ki teljesen;
 - Rágjunk eleget;
 - És *néha*, a határaink kitolása érdekében, esetleg lélegezzünk többet, vagy akár tartsuk vissza.
