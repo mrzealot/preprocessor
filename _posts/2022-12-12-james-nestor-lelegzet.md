@@ -222,25 +222,22 @@ Kb. addig örömhajókázik, amíg sejtekben termelt, hajóra felturakodó bunk�
 Plusz a szén-dioxid erős értágító hatással is rendelkezik, hogy több járat érkezzen, és legyen oxigén, akit kitúrhat.
 
 Na most ha nincs elég széndioxid, akkor hiába lesz rengeteg oxigén a vérben, és hiába érkezik sok vér, mert egyszerűen nem fognak leszállni.
-Elég kegyetlen kutyás kísérlet: ahogy egyre növelte a légzésük ütemét, úgy emelkedett a pulzusuk, és csökkent a széndioxid szintjük, ami miatt (ironikus módon) a szerveik nem kaptak elég oxigént, és akár bele is haltak
+Ezt egy (elég kegyetlen) kutyás kísérlet is jól mutatja: ahogy egyre növelték a légzésük ütemét, úgy emelkedett a pulzusuk, és csökkent a széndioxid szintjük, ami miatt (ironikus módon) a szerveik nem kaptak elég oxigént, és akár bele is haltak.
+Ha egy tüzet "etetnénk" tiszta oxigénnel, akkor brutál módon égne, de ha a szervezetet etetjük így, annak jó esetben is semmi értelme -- rossz esetben pedig akár káros is lehet.
+Mert hát hiába lesz több oxigén a vérünkben, ha a sejtek nem tudják felvenni.
+Ezzel szemben a lassabb légzés több szén-dioxidhoz vezet, így nagyobb arányú lesz az oxigén felvétel a rendelkezésre álló levegőből, és mellé a pulzus és a vérnyomás is csökken.
 
-- nem annyira köztudott, mint kéne, de a tüdő a legfőbb súly szabályozó rendszer a testben
-    - az elvesztett / leadott súly kb. 85%-a kilélegzett szén-dioxidon keresztül távozik, és csak a maradék az izzadás/ürítés
+Érdekes meglátás továbbá az ima és a légzés kapcsolata, amire egy 2001-es Paviai kísérlet derített fényt.
+A legtöbb kultúra egymástól függetlenül is kb. ugyanarra a közös nevezőre jutott: kb. 6 másodperces belégzés + kb. 6 másodperces kilégzés az optimális.
+Ilyen a buddhista mantra, a keresztény rózsafüzér, de ugyanúgy ez a tapasztalat a taoistáknál, a hinduknál, vagy a natív amerikai törzseknél.
+Átlagban 5.5 légzési ciklus per perc.
+És ilyenkor az agy több vért kap és a test minden rendszere jobban összhangba kerül.
+Sőt, ismétléses tanulmánynál is ez jött ki.
+5.5 másodperc belégzés, 5.5 másodperc kilégzés, és ez majdnem pontosan 5.5 darab lélegzet per perc tempót diktál.
+Hát nem szép ez a szimmetria?
 
-- ha egy tüzet "etetnénk" tiszta oxigénnel, akkor brutál módon égne
-    - de ha a szervezetet etetjük így, annak jó esetben is semmi értelme (rossz esetben pedig akár káros is lehet)
-    - mert hiába lesz több oxigén a vérünkben, ha a sejtek nem tudják felvenni
-
-- lassabb légzés: több szén-dioxid, nagyobb arányú oxigén felvétel a rendelkezésre álló levegőből, és mellé pulzus + vérnyomás le
-
-- ima + légzés kapcsolat (2001, Pavia kísérlet)
-    - a legtöbb kultúra egymástól függetlenül is kb. ugyanarra a közös nevezőre jutott: kb. 6 másodperces belégzés + kb. 6 másodperces kilégzés
-    - buddhista mantra, rózsafüzér, taoista, hindu, natív amerikai törzsek
-    - átlagban 5.5 légzési ciklus per perc
-    - és ilyenkor az agy több vért kap és a test minden rendszere jobban összhangba kerül
-    - ismétléses tanulmánynál is ez jött ki: 5.5 be, 5.5 ki, és ez majdnem pont 5.5 lélegzet per perc tempót diktál
-
-- >> In many ways, this resonant breathing offered the same benefits as meditation for people who didn’t want to meditate. Or yoga for people who didn’t like to get off the couch. It offered the healing touch of prayer for people who weren’t religious.
+> Az ilyen *rezonáns* lélegzés a meditáció előnyeit nyújtja azoknak, akik nem akarnak meditálni. Vagy a yoga előnyeit azoknak, akik nem szeretnek felkelni a kanapéról. Az ima gyógyító érintését nyújtja azoknak, akik nem vallásosak.
+>> In many ways, this resonant breathing offered the same benefits as meditation for people who didn’t want to meditate. Or yoga for people who didn’t like to get off the couch. It offered the healing touch of prayer for people who weren’t religious.
 
 <br>
 
@@ -255,31 +252,30 @@ Elég kegyetlen kutyás kísérlet: ahogy egyre növelte a légzésük ütemét,
 
 ## <a name="kevesebbet"></a> Kevesebbet
 
-- ahogy a túlkajálás is divat, úgy lettünk a modern korszakban túl-légzők is
-    - pedig az egészségügyi osztalék onnan származik, hogy a szervezetünk igényeinek megfelelően légzünk, és nem felette
-    - akár csak plusz 10-20%-nyi is túldolgoztatja a rendszereinket, ami hosszú távon hamarabb éget ki, mint kellene
-- ez nem ugyanaz, mint hogy legyen lassú, mert a tüdőnk kapacitását figyelembe véve még az 5.5 per perces tempóval is bőven több levegőt juttathatunk be, mint amennyi kell
-    - vagyis nem is csak kevesebbszer, hanem kevesebbet
-- VO2max edzés
-    - futás közben egyre hosszabb kilégzések, állandó belégzés ütem mellett
-    - 3 be / 4 ki, aztán 3 be / 5 ki, és így tovább, akár 7-ig
-- Buteyko módszer
-    - a kevesebb légzés nem is csak egészségesebben tart, de konkrétan meg is gyógyíthat, ha már beteg vagy
-    - Voluntary Elimination of Deep Breathing
-    - végtagok keringésének javulása, alacsonyabban és stabilabb pulzus, alacsonyabb vérnyomás, kevesebb fejfájás
-    - asztma ellen is hatásos
-- és aki már eleve jól volt, az még jobban lett
-    - a sportolók kiemelkedő teljesítményről számoltak be
-    - más néven: hypoventilláció, hypoxiás edzés
-    - a lényeg, hogy a mesterségesen kevesebb levegő ugyanúgy képes megedzeni, mint egy magas hegyi edzés (ahol eleve nincs annyi oxigén)
-        - az izmok jobban fogják viselni a tejsav termelődést, és több lesz a vörös vérsejtünk
-- azért nem kimondottabban elterjedt, mert kurva kellemetlen
-- Buteyko később nagyon átment misztikusba
-    - amikor már rákot is gyógyított a puszta légzéssel
-    - meg az asztma is csak a test természetes, kompenzáló reakciója volt, hogy lassabb légzésre késztessen
-    - de ettől még teljesen valid források is megerősítik a lassú légzés pozitív hatásait
-- még egy 5.5: 5.5 litert lélegezni per perc
-    - vagyis nem csak 5.5 be és 5.5 ki (ami 5.5 légzés lesz per perc), hanem ezalatt "csak" 5.5 litert beszívni (az ilyen nagy, mély, 10+ literek helyett)
+Ahogy a túlkajálás is divat, úgy lettünk a modern korszakban "túl-légzők".
+Pedig az egészségügyi osztalék onnan származik, hogy a szervezetünk igényeinek megfelelően légzünk, és nem felette.
+Akár csak plusz 10-20%-nyi is túldolgoztatja a rendszereinket, ami hosszú távon hamarabb éget ki, mint kellene.
+
+És nem, ez nem ugyanaz a tanulság, mint hogy legyen lassú, mert a tüdőnk kapacitását figyelembe véve még az 5.5 per perces tempóval is bőven több levegőt juttathatunk be, mint amennyi kell.
+Vagyis nem is csak kevesebbszer, hanem kevesebbet.
+
+Egy lehetséges fejlesztési esély a dedikált VO<sub>2</sub> max edzés, ahol futás közben egyre hosszabb kilégzéseket végzünk, állandó belégzés ütem mellett.
+3 be / 4 ki, aztán 3 be / 5 ki, és így tovább, akár 7-ig.
+
+Egy másik lehetőség a Buteyko módszer, ami szerint a kevesebb légzés nem is csak egészségesebben tart, de konkrétan meg is gyógyíthat, ha már betegek vagyunk.
+Szépen hangzó hivatalos neve a mély légzés önkéntes elhagyása (Voluntary Elimination of Deep Breathing), aminek hatására javulhat a végtagok keringése, alacsonyabb és stabilabb lesz a pulzus/vérnyomás, kevesebb lesz a fejfájás, de még asztma ellen is hatásos.
+
+És aki már eleve jól volt a Buteyko módszer előtt, az még jobban lett.
+A sportolók például kiemelkedő teljesítményről számoltak be ilyen (más néven hypoventillációs, avagy hypoxiás) alkalmak után.
+A lényeg, hogy a mesterségesen kevesebb levegő ugyanúgy képes megedzeni, mint egy magas hegyi edzés (ahol eleve nincs annyi oxigén).
+Az izmok jobban fogják viselni a tejsav termelődést, és több lesz a vörös vérsejtünk.
+
+Valószínűleg azért nem kimondottabban elterjedt, mert menet közben kurva kellemetlen.
+Meg talán azért sem, mert Buteyko később nagyon átment misztikusba -- amikor már rákot is gyógyított a puszta légzéssel, meg amikor már az asztma is csak a test természetes kompenzáló reakciója volt, hogy lassabb légzésre késztessen.
+De ettől még teljesen valid források is megerősítik a lassú légzés pozitív hatásait.
+
+Szóval tessék, itt van még egy öt és fél: 5.5 litert lélegezni per perc.
+Vagyis nem csak 5.5 másodper be és 5.5 másodperc ki (ami 5.5 darab légzés lesz per perc), hanem ezalatt "csak" 5.5 litert beszívni (az ilyen nagy, mély, 10+ literek helyett).
 
 <br>
 
@@ -294,43 +290,37 @@ Elég kegyetlen kutyás kísérlet: ahogy egyre növelte a légzésük ütemét,
 
 ## <a name="ragas"></a> Rágás
 
-- megint visszatekintünk
-    - az ipari forradalom, városi életmód, feldolgozott kaják, rossz levegő, stb.
-    - itt kezdett egyre vírusszerűbben terjedni a zsugorodott arcüreg, a ferde fogazat, a rosszabb minőségű légzés
-- a Párizsi katakombákban kutatja a koponyákat (amik igencsak mást mutatnak az ősemberek légutaihoz képest)
+A sztenderd légzést kivégezvén, megint visszatekintünk kicsit az ipari forradalom, az elvárosiasodó életmód, a feldolgozott kaják és a rossz levegő megjelenésének korszakába.
+Itt kezdett egyre vírusszerűbben terjedni a zsugorodott arcüreg, a ferde fogazat és a rosszabb minőségű légzés.
+A jelenség szemléltetésére Nestor a Párizsi katakombákban kutatja a koponyákat, amik igencsak mást mutatnak az ősemberek légutaihoz képest.
 
-> > “Since we have known for a long time that savages have excellent teeth and that civilized men have terrible teeth, it seems to me that we have been extraordinarily stupid in concentrating all of our attention upon the task of finding out why all our teeth are so poor, without ever bothering to learn why the savage’s teeth are good,” wrote Earnest Hooton, a Harvard anthropologist
+> Mivel régóta tudjuk, hogy a vademberek kiváló fogazattal rendelkeztek, a civilizált emberek pedig borzalmassal, számomra rendkívüli ostobaságnak tűnik, hogy minden figyelmünket a saját fogaink hiányosságaira szenteltük és közben soha nem vettük a fáradságot, hogy kiderítsük, a vademberek fogai miért olyan jók.
+>
+> -- Earnest Hooton, Harvardi antropológus
+> > Since we have known for a long time that savages have excellent teeth and that civilized men have terrible teeth, it seems to me that we have been extraordinarily stupid in concentrating all of our attention upon the task of finding out why all our teeth are so poor, without ever bothering to learn why the savage’s teeth are good.
 
-- Weston Price kutatása az étrend légutakra és fogazatra kifejtett hatásáról, országokon átívelő, mindenféle kultúrát vizsgáló
-    - az étrend nagyon változatos (van ahol szinte csak hús; van, ahol vegetáriánus; van, ahol alap a házi sajt; van, ahol nincs semmi tejtermék; stb.)
-    - ami viszont közös (mint kb. az natív törzseknél) hogy a tradicionális étrendeken jobb fogazat és szélesebb légutak, míg a modern, előfeldolgozott, puha, kész picsa meleg málé kajákon élőknél az ellenkezője
-        - akár ugyanazon a családon belül is, ha például csak részük tért át a modern étrendre, szóval nem igazán írható a genetika számlájára
+A jelenség megértésében sokat segíthet Weston Price országokon átívelő, mindenféle kultúrát vizsgáló kutatása az étrend légutakra és fogazatra kifejtett hatásáról.
+Az átlag étrend természetesen nagyon változatos az alanyok között -- van ahol szinte csak hús; van, ahol vegetáriánus; van, ahol alap a házi sajt; van, ahol nincs semmi tejtermék; stb.
+Ami viszont közös, (mint kb. a natív törzseknél korábban) hogy a tradicionális étrendeken jobb a fogazat és szélesebbek a légutak, míg a modern, előfeldolgozott, puha, "kész picsa meleg málé" kajákon élőknél épp az ellenkezője tapasztalható.
+Sőt, akár ugyanazon a családon belül is, ha például csak részük tért át a modern étrendre, szóval a hatás nem igazán írható a genetika számlájára.
 
-- egy lehetséges magyarázat, hogy már nincs annyi vitamin és ásványi anyag az ételeinkben
-    - de akik eleget fogyasztanak (vagy táplálék kiegészítőkkel pótolják), azoknál is ugyanúgy fennáll a modern "gyenge-arcúság"
-- a kulcs tehát nem is feltétlen az, hogy *mit* eszünk, hanem hogy *hogyan*!
-    - a régiek félig nyers, feldolgozatlan, kemény, barátságtalan kajáit annyit kellett rágni, hogy szó szerint megedzettük az arcunkat
-    - a mai, többnyire puha és könnyen fogyasztható kajáknál erre nincs szükség, viszont így nem is dolgozunk meg érte, hogy erős/egyenes fogsorunk és tág légutaink legyenek
+Egy lehetséges magyarázat, hogy már nincs annyi vitamin és ásványi anyag az ételeinkben.
+Mondjuk akik eleget fogyasztanak (vagy táplálék kiegészítőkkel pótolják), azoknál is ugyanúgy fennáll a modern "gyenge-arcúság".
+A kulcs tehát valószínűleg nem is feltétlen az, hogy *mit* eszünk, hanem hogy *hogyan*!
+A régiek félig nyers, feldolgozatlan, kemény, barátságtalan kajáit annyit kellett rágni, hogy szó szerint megedzettük az arcunkat.
+A mai, többnyire puha és könnyen fogyasztható kajáknál erre nincs szükség, viszont így nem is dolgozunk meg érte, hogy erős/egyenes fogsorunk és tág légutaink legyenek.
 
-- ez persze orvosolható műtéti úton is
-    - csak akkor vigyázzunk, nehogy túl sok szövetet és orrkagylót távolítsanak el, és a végén "üres orr" szindrómánál kössünk ki, ami gyakorlatilag szó szerint a ló másik oldalára átesés
-- egy másik megoldási lehetőség a szájon keresztül
-    - itt is lehet mandulát kivenni, vagy túl nagy nyelvre és túl zsíros/izmos nyakra panaszkodni
-    - helyesebb nyaki és fej tartással lehet enyhíteni
-    - de igazából legtöbb esetben nem a szájban lévő szövet a túl sok, hanem a száj túl kicsi hozzájuk képest
-        - itt pedig érdemes megelőzéssel foglalkozni, nem megvárni, amíg baj lesz
+Ez orvosolható ugyan műtéti úton, csak akkor vigyázzunk, nehogy túl sok szövetet és orrkagylót távolítsanak el, és a végén "üres orr" szindrómánál kössünk ki, ami gyakorlatilag szó szerint a ló másik oldalára átesés.
+Egy másik lehetőség a szájon keresztül próbálkozni.
+Persze itt is lehet mindjárt mandulát kivenni, helyesebb nyaki és fej tartással tüneteket enyhíteni, vagy túl nagy nyelvre és túl zsíros/izmos nyakra panaszkodni.
+De igazából legtöbb esetben nem a szájban lévő szövet a túl sok, hanem maga a száj túl kicsi hozzájuk képest.
 
-- fogszabályzás jellegű szájtágítás
-    - régebben ez volt az alap, mert ha van hely, akkor a fogak maguktól is egyenesre nőnek
-    - de aztán itt is egyszerűbb lett, kivenni az extra fogakat és inkább visszafelé korrigálni, amitől a fogak lehet, hogy szépek lettek, de az eljárás az eleve kicsi szájból még kisebbet varázsolt, és később jöhettek is a légzési problémák
+Egy fokkal kevésbé invazív megoldás a fogszabályzás jellegű szájtágítás.
+Régebben igazából ez volt az alap hozzáállás, mert ha van elég hely a pofánkon belül, akkor a fogak maguktól is egyenesre nőnek.
+De aztán itt is egyszerűbb lett kivenni az extra fogakat és inkább visszafelé korrigálni -- amitől a fogak lehet, hogy szépek lettek, de az eljárás az eleve kicsi szájból még kisebbet varázsolt, és később jöhettek is a légzési problémák.
 
->> It just meant holding the lips together, teeth lightly touching, with your tongue on the roof of the mouth. Hold the head up perpendicular to the body and don’t kink the neck. When sitting or standing, the spine should form a J-shape—perfectly straight until it reaches the small of the back, where it naturally curves outward. While maintaining this posture, we should always breathe slowly through the nose into the abdomen.
-
-- "Mewing"
-
-- és persze maga a rágás
-    - amit ilyen száj betéttel segíthetünk
-    - és ezzel még később, felnőtt korban is korrigálhatunk
+Eszköz és beavatkozás nélkül, otthon is alkalmazható tippek pedig természetesen maga a rágás, vagy egy bizonyos "Mewing" névre hallgató (és egyéb körökben vitatott hatékonyságú) technika, aminek során helyes állkapocs- és nyelvpozícióval még később, felnőtt korban is korrigálhatunk a szájüregünk szerkezetén.
+Ami fontos, hogy (sok más szituációhoz hasonlóan) érdemes itt is a megelőzéssel foglalkozni, nem megvárni, amíg baj lesz.
 
 <br>
 
@@ -345,29 +335,28 @@ Elég kegyetlen kutyás kísérlet: ahogy egyre növelte a légzésük ütemét,
 
 ## <a name="tobbet"></a> Néha többet
 
-- szimpatikus vs. paraszimpatikus idegrendszer
-    - és hogy a lassú, mély légzés (és a hosszú kilégzés) a paraszimpatikust stimulálja, ezzel nyugtatva minket, lassítva a szívet, beindítva az emésztést, stb. (feed and breed)
-    - gyors légzéssel viszont a szimpatikus oldalt lehet stimulálni (fight or flight)
-- katonáknál PTSD tünetei az egyenetlen szívritmus, gyors pulzus, gyors légzés
-- de miért is szimulálnánk ezt tudatosan?
-    - mert ezzel tudatosan készülünk a stresszre, és hogy jobban tudjuk kezelni
-    - a katonákkal szemben (akikkel ez tudat alatt, nem szándékosan történt), velünk az ilyen nem történik, hanem csináljuk magunkkal, kb. mint egy direkt, idegrendszer edzés
-- Tummo, avagy belső tűz meditáció
-- a legtöbbünknek már nincsenek valós élet-halál helyzetei az életében (hála az égnek!)
-    - viszont igazi, mély relaxáció sincs nagyon, és így az idegrendszerünk egy ilyen folyamatos átmeneti állapotban van
-    - erre lehet jó mindkét oldalról felfedezni a határokat
-    - a lassú, hosszú, kevés légzéssel relaxálunk; a gyors, rövid, sok légzéssel pedig mesterséges stresszt generálunk (aminek aztán tudatosan véget vethetünk)
-        - az ilyen edzéssel lejjebb csökkenthetjük a stressz átlagunkat, növelhetjük a véráramlást sok szervünkhöz (amik stressz inger esetén nem létszükségletek, és ezért hanyagolva vannak)
-        - magával az edzéssel pedig fűthetjük és immun-stimulálhatjuk magunkat
-- élő példa: Wim Hof
-    - pl. félmeztelen, mezítlábas maraton a hóban
-    - vagy víz nélküli maraton a sivatagban
-    - demonstrálva, hogy a légzéssel (és az általa biztosított tudatos idegrendszer kontrollal) igencsak kitolhatóak a határaink
-    - >>  Conscious heavy breathing, McGee told me, allows us to bend so that we don’t get broken.
+Idáig tart a normál, önkarbantartó szakasz -- amit Nestor a végére még megfejel egy "Légzés+" adalékkal.
+Ezek a további tippek inkább arra vonatkoznak, hogy hogyan edzhetjük magunkat légzésen keresztül a még nagyobb ellenállóképesség felé.
 
-- Stanislav Grof
-    - LSD-szerű terápiát keresett, így talált az erős légzésre
-    - Holotrópikus légzés
+Mint egy korábbi [yoga-s posztból]({% post_url 2021-05-15-william-broad-a-yoga-tudomanya %}) már tudhatjuk, a szimpatikus kontra paraszimpatikus idegrendszerünk kb. minden testi működésünk gáza és fékje.
+Ezek közül az általánosságban javallott lassú, mély légzés (és a hosszú kilégzés) a paraszimpatikust stimulálja, ezzel nyugtatva minket, lassítva a szívet, beindítva az emésztést, stb.
+Csodálatosan evokatív angol kifejezéssel élve ez a "feed and breed" reakció.
+A gyors és sekély légzéssel viszont pont a szimpatikus oldalt lehet stimulálni, lásd "fight or flight".
+
+Katonáknál például a poszttraumás stressz (PTSD) tünetei az egyenetlen szívritmus, a gyors pulzus és a gyors légzés.
+És hogy miért is szimulálnánk mi ezt szándékosan?
+Mert ezzel tudatosan készülhetünk a stresszre, és hogy jobban tudjuk kezelni.
+A katonákkal szemben (akikkel ez tudat alatt, nem szándékosan történt), velünk az ilyen nem történik, hanem csináljuk magunkkal.
+Kb. mint egy direkt, idegrendszer edzés.
+
+A legtöbbünknek már nincsenek valós élet-halál helyzetei az életében -- hála az égnek!
+Viszont igazi, mély relaxáció sincs nagyon, és így az idegrendszerünk egy ilyen folyamatos átmeneti állapotban lebeg.
+Erre lehet jó mindkét oldalról felfedezni a határokat.
+A lassú, hosszú, kevés légzéssel relaxálunk; a gyors, rövid, sok légzéssel pedig mesterséges stresszt generálunk (aminek aztán tudatosan véget vethetünk).
+Az ilyen edzéssel lejjebb csökkenthetjük a stressz átlagunkat, illetve növelhetjük a véráramlást sok szervünkhöz (amik stressz inger esetén nem létszükségletek, és ezért hanyagolva vannak).
+
+Magával az edzéssel pedig fűthetjük és immun-stimulálhatjuk magunkat
+Egy népszerű élő példa [Wim Hof](https://en.wikipedia.org/wiki/Wim_Hof){:target="_blank"}, aki félmeztelen, mezítlábas maratont futott a hóban, vagy épp víz nélküli maratont a sivatagban -- demonstrálva, hogy a légzéssel (és az általa biztosított tudatos idegrendszer kontrollal) igencsak kitolhatóak a határaink.
 
 <br>
 
@@ -382,29 +371,32 @@ Elég kegyetlen kutyás kísérlet: ahogy egyre növelte a légzésük ütemét,
 
 ## <a name="semennyit"></a> Néha semennyit
 
-- amigdala + félelem kapcsolat
-    - majmos kísérletek, illetve S. M.
-    - és mindenféle szorongásnak a félelem az alapja (bizonyos félelmekre való túlérzékenység)
-    - és amigdala nélkül nincs semmilyen félelem
-- vagy legalábbis ezt hitték
-    - amigdala nélküli alanyokat csak úgy tudtak "megijeszteni", hogy magasabb CO2 tartalmú levegőt lélegeztettek velük
-    - a centrális chemoreceptorok az agytörzs mélyén ellátták az amigdala szerepét
-- ezeknek a receptoroknak a flexibilitása teszi lehetővé, hogy az emberi faj változatosan oxigéndús helyeken is normálisan működjön
-    - és akinél jobban flexibilisek, az (egyebek mellett) jobb atlétikai teljesítményre lesz képes
-    - de ha ráeddzük magunkat, hogy bírjuk az extrém CO2 fluktuációt, az nem csak fizikai, hanem mentális téren is segíthet
-        - ha ilyen esős összefüggés van a chemoreceptor-központú, CO2-alapú, "állati" pánik és az amigdala-központú, "intellektuális" félelmek között, akkor az előbbi fejlesztésével az utóbbira is jótékonyan hathatunk
+A spektrum másik extrém végén nem hogy sokat, de egyáltalán nem légzünk, ami már hallás után is ijesztő.
+Olyannyira, hogy még az amigdala szerepét is ki tudja váltani.
 
-- az apnoéval ellentétben itt ez tudatos edzés
-    - mert az igaz, hogy a lélegzet visszatartása hosszú távon káros (mint láttuk)
-    - de rövid távon, irányítva és odafigyelve, ugyanolyan a különbség, mint a nehéz fizikai munka rongáló hatása és a stratégikus edzésterv között
+Sokáig úgy tudtuk, hogy az amigdala szinte kizárólagos intimitásban áll a félelemmel.
+Majmos kísérletek illetve emberi rendellenességek is ezt mutatták.
+És mivel mindenféle szorongásnak a félelem az alapja (tekintve hogy a szorongás kb. bizonyos félelmekre való túlérzékenység), így amigdala nélkül sem hogy félelem, de szorongás sem lenne.
 
-- a lélegzet visszatartása helyett egy darabig elterjedt volt a magasabb CO2 belégzés
-    - mostanában nem divat, pedig senki nem mondta, hogy nem működik
-    - végülis ez is exposure therapy, hogy felkészítsük magunkat, ha bármikor ilyen lenne
-    - pánikrohamnál például a "vegyél mély levegőket" helyett pont az hasznos, ha lassabban lélegzünk (és akár egy kicsit vissza is tartjuk), hogy növeljük a CO2 szintünket
-    - 35%-nál skizofréniát kezelnek vele, de durva pánikot okoz
-    - 15%-nál tesztelik a jótékony hatásait, hogy azért visszajöjjenek az alanyok
-    - 7%-nál olyasmit szimulál, mint amire a Buteyko atléták magukat is kiképezték, és egyesek megelőzési/önfejlesztési céllal kísérleteznek vele
+Legalábbis ezt hitték, amíg rá nem jöttek, hogy akár amigdala nélküli alanyokat is képesek "megijeszteni", ha magasabb CO<sub>2</sub> tartalmú levegőt lélegeztettek velük.
+Az agytörzs mélyén megbúvó a centrális chemoreceptorok ilyenkor ugyanis gyorsan ellátták az amigdala szerepét és olyan intenzív "Jajj megfulladok!" pánikot okoztak, hogy senki nem vállalta kétszer.
+
+Ezeknek a receptoroknak a flexibilitása teszi lehetővé, hogy az emberi faj változatosan oxigéndús helyeken is normálisan működhessen.
+És akinél jobban flexibilisek, az (egyebek mellett) jobb atlétikai teljesítményre lesz képes.
+De ha ráeddzük magunkat, hogy bírjuk az extrém CO<sub>2</sub> fluktuációt, az nem csak fizikai, hanem mentális téren is segíthet.
+Elvégre ha ilyen erős az összefüggés a chemoreceptor-központú, CO<sub>2</sub>-alapú, "állati" pánik és az amigdala-központú, "intellektuális" félelmek között, akkor az előbbi fejlesztésével az utóbbi kezelésére is jótékonyan hathatunk.
+
+A lélegzet visszatartása helyett egy darabig próbálkoztak is a magasabb CO<sub>2</sub> belégzéssel.
+Mostanában nem divat, pedig senki nem mondta, hogy nem működik.
+35%-nál skizofréniát kezelnek vele, de durva pánikot okoz, ezért inkább 15%-nál tesztelik a jótékony hatásait, hogy azért visszajöjjenek az alanyok.
+Már 7%-nál olyasmit szimulál, mint amire a Buteyko atléták magukat is kiképezték, és egyesek megelőzési/önfejlesztési céllal kísérleteznek vele.
+
+De persze nem muszáj mindjárt otthonra is széndioxid tartállyt szerezni, a visszatartással szimulálható.
+Pánikrohamnál például a "vegyél mély levegőket" helyett pont az hasznos, ha lassabban lélegzünk (és akár egy kicsit vissza is tartjuk), hogy növeljük a CO<sub>2</sub> szintünket.
+
+Felmerülhet, hogy most honnan ez a sok pozitívum, amikor az alvási apnoénál még annyira negatívan beszéltünk az elégtelen légzésről.
+A válasz újra a szándékosság, mert az apnoéval ellentétben itt ez tudatos edzés.
+Mert habár a lélegzet visszatartása hosszú távon káros (mint láttuk), de rövid távon, irányítva és odafigyelve, ugyanolyan a különbség, mint a nehéz fizikai munka rongáló hatása és a stratégikus edzésterv jótékony eredményei között.
 
 <br>
 
