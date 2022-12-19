@@ -275,7 +275,7 @@ Meg talán azért sem, mert Buteyko később nagyon átment misztikusba -- amiko
 De ettől még teljesen valid források is megerősítik a lassú légzés pozitív hatásait.
 
 Szóval tessék, itt van még egy öt és fél: 5,5 litert lélegezni per perc.
-Vagyis nem csak 5,5 másodper be és 5,5 másodperc ki (ami ugye 5,5 darab légzés lesz per perc), hanem ezalatt "csak" 5,5 litert beszívni (az ilyen nagy, mély, 10+ literek helyett).
+Vagyis nem csak 5,5 másodperc be és 5,5 másodperc ki (ami ugye 5,5 darab légzés lesz per perc), hanem ezalatt "csak" 5,5 litert beszívni (az ilyen nagy, mély, 10+ literek helyett).
 
 <br>
 
