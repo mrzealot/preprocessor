@@ -97,6 +97,6 @@ Hogy ennek lesz-e értelme?
 Nem tudom; majd meglátjuk.
 Aki kész válaszokért jött, azt sajnos ki kell ábrándítsam.
 
-Nyújthatok viszont egy frankó mentális modellt, amivel talán sikerül már megvilágításba helyezni a problémát.
+Nyújthatok viszont egy frankó mentális modellt, amivel talán sikerül más megvilágításba helyezni a problémát.
 Én legalábbis nagy tantusz leesésnek éltem meg, amikor sikerült összekötnöm egy informatika alapképzésről megmaradt infómorzsát az aktuális produktivitási botladozásaimmal.
 Remélem másnak is hasznos lehet...

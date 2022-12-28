@@ -277,7 +277,7 @@ Ezzel szemben egy leülepedett, stabil, gyakran házassággal "végződő" kapcs
 De azt nem mondja senki, hogy ezt mesterségesen nem pótolhatjuk, ha már egyszer felismerjük, hogy ez lehet a háttérben...
 
 A kert metaforához kapcsolódva: a stressz a nap, a szeretet pedig az eső.
-És mind minden másnál, itt is egyedi, hogy kinek melyikből mennyire van szüksége.
+És mint minden másnál, itt is egyedi, hogy kinek melyikből mennyire van szüksége.
 
 <br>
 
@@ -667,5 +667,5 @@ Képzeljük akkor el, hogy együtt mire lesznek képesek.
 Szóval maradjunk annyiban, hogy itt aztán van mit megszívlelni.
 
 Záró gondolatként már csak annyit tennék hozzá, amit Nagoski is hangsúlyoz a könyv vége felé: ha bármikor kétségbe ütközünk, a külvilág helyett forduljunk befelé.
-Mármint nyilván használjuk fel fenti, válogatott, tudományosan alátámasztott szeleteket a külső információkból, de aztán engedjük meg magunknak a döntést, hogy mit és hogy hogyan veszünk át belőlük.
+Mármint nyilván használjuk fel a fenti, válogatott, tudományosan alátámasztott szeleteket a külső információkból, de aztán engedjük meg magunknak a döntést, hogy mit és hogy hogyan veszünk át belőlük.
 Lásd a Kung Fu Panda című zseniális animációs filmet, ahol (spoiler alert!) a Sárkánytekercs és az apja levese is egyszerre kiabálta a képünkbe, hogy mi magunk vagyunk a titkos összetevő.

@@ -218,7 +218,7 @@ A kikötőben egészen egy konkrét dokkig sétálunk, ahol a biztonsági ellen�
 Hasonlóan, az oxigén a tüdőbe jutva egészen a léghólyagokig utazik, ahol felszáll egy menetrend szerinti vörösvérsejten lévő hemoglobinra, és onnan utazhatna a céljához.
 **Ha lenne célja!**
 De az magától nincs -- pont a szén-dioxid miatt tudja majd, hogy hol kell leszállni.
-Kb. addig örömhajókázik, amíg sejtekben termelt, hajóra felturakodó bunkó szén-dioxidok ki nem szorítják a helyéről -- innen tudja, hogy szükség van rá a sejtben.
+Kb. addig örömhajókázik, amíg a sejtekben termelt, hajóra felturakodó bunkó szén-dioxidok ki nem szorítják a helyéről -- innen tudja, hogy szükség van rá a sejtben.
 Plusz a szén-dioxid erős értágító hatással is rendelkezik, hogy több járat érkezzen, és legyen oxigén, akit kitúrhat.
 
 Na most ha nincs elég szén-dioxid, akkor hiába lesz rengeteg oxigén a vérben, és hiába érkezik sok vér, mert egyszerűen nem fognak leszállni.

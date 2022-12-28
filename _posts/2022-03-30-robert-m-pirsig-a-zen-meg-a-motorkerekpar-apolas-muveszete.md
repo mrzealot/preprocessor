@@ -125,7 +125,7 @@ Természetesen mindkét oldal képviselőinek meglehetnek a negatív véleménye
 A romantikus szemében a klasszikus unalmas, kötött, nehéz, elnyomó.
 Szerinte az analitikus gondolkodással a megfigyelt tárgy/jelenség elveszti a "varázsát", az is szürkévé válik a mély megértés által.
 A klasszikus szemében a romantikus megbízhatatlan, csapongó, sekélyes, komolytalan.
-Szerinte a analitikus megfigyelés általi "varázs" veszteséggel együtt fontos nyereség is társul a megértés képében.
+Szerinte az analitikus megfigyelés általi "varázs" veszteséggel együtt fontos nyereség is társul a megértés képében.
 
 Ez a két álláspont közt igyekeznénk békét teremteni.
 Csak míg régen az objektív világlátás volt az, ami menekvést nyújtott a világ szürkesége elől, mostanában pont hogy annyira átálltunk az objektivitásra, hogy szinte a szubjektíveknek kell menekülniük.

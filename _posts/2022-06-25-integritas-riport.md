@@ -32,7 +32,7 @@ Nézzük sorban a tavalyi kategóriák alapján:
 #### **01**&nbsp;&nbsp;&nbsp; A Mályvacukor Szabály
 
 Talán mindjárt itt is a legnagyobb probléma az egyes pontnál.
-A befektetett munka kamatát könnyű jobban szeretni, mint az azonnali élvezeteket, de amíg nincs kamat, addig a magát a befektetett munkát **kéne** szeretni az azonnali élvezetek helyett.
+A befektetett munka kamatát könnyű jobban szeretni, mint az azonnali élvezeteket, de amíg nincs kamat, addig magát a befektetett munkát **kéne** szeretni az azonnali élvezetek helyett.
 Na ez egy darabig ment is, de ahogy fokozatosan kopott a munka mellől az újdonság varázsa (ami mellesleg így is majdnem két évet kihúzott a legutóbbi megvilágosodás óta), úgy lett egyre kevésbé kielégítő önmagában.
 Kamat persze továbbra sincs, és ilyen korán nem is várnám, hogy legyen, viszont így csak az azonnali élvezetek maradtak *érzelmi cuminak*, amik ezáltal szépen el is szaporodtak.
 
