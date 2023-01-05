@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Robert Greene - The 48 Laws of Power
+cover: power
 tags: [stratégia]
 pages: 452
 date: 2020-01-28 18:00
+hreflang: robert-greene-the-48-laws-of-power
 excerpt: >
     A könyv arról a kollektív gondolkodásmódról rántja le a leplet, amivel sikeresek lehetünk az életben.
     És ez sajnos sokszor megtévesztéssel, kihasználással, és kegyetlenséggel jár.

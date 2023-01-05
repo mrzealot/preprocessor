@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Bill Walsh - The Score Takes Care of Itself
+cover: billwalsh
 tags: [stratégia, produktivitás]
 pages: 288
 date: 2020-02-29 10:00
+hreflang: bill-walsh-the-score-takes-care-of-itself
 excerpt: >
     Bill Walsh amerikai foci edző és menedzser, aki a San Francisco-i 49-eseket az egyik legbénább csapatból ötszörös világbajnokokká faragta.
     A következőkben az ő személyes -- időnként fájdalmasan megtanult -- leckéit olvashatjuk majd arról, mit is jelent vezetőnek lenni, és hogy ezt mások hogyan alkalmazhatják a saját életükre.

@@ -1,9 +1,11 @@
 ---
 layout: post
 title: David Allen - Intézz el mindent!
+cover: gtd
 tags: [produktivitás]
 pages: 352
 date: 2020-02-24 22:00
+hreflang: david-allen-getting-things-done
 excerpt: >
     A mai bejegyzésben a magasztos, absztrakt gondolatok világából visszakanyarodnék kicsit a konkrét, szokványos, színtelen-szagtalan világunkba.
     Mert hát mind szép és jó, hogy megfogalmazzuk az elveinket, az álmainkat, a hozzáállásunkat, és akár magát az életünk nagy célját, de ha közben elveszünk a hétköznapok teendőiben, akkor nem sok értelme volt.

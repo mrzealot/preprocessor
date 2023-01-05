@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Henry David Thoreau - Walden
+cover: walden
 tags: [minimalizmus]
 pages: 352
 date: 2020-03-06 15:00
+hreflang: henry-david-thoreau-walden
 excerpt: >
     Henry David Thoreau amerikai író és filozófus, aki eléggé rossz véleménnyel volt a kortársai között kibontakozóban lévő fogyasztói társadalomról; ehelyett a természetközeli, minimalista és független életet hirdette.
     És mielőtt azt hinnénk, hogy csak a szája járt: elvei szemléltetésére az 1800-as évek közepén egyszerűen fogta magát, és kiköltözött az erdőbe egy saját építésű kunyhóba.
@@ -439,7 +441,7 @@ Csupaszítsuk le az életünket, hogy a lényeg nagyobb szerepet kaphasson!
 > Felesleges vagyonnal csak felesleges dolgokat vehetsz.
 > > Superfluous wealth can buy superfluities only.
 
-Átvitten pedig még a [Sapiens]()-ben sarkalatosan említett tudatlanságot is hirdetjük.
+Átvitten pedig még a [Sapiens]({% post_url 2020-02-12-yuval-noah-harari-sapiens %})-ben sarkalatosan említett tudatlanságot is hirdetjük.
 Ne legyünk megelégedve a jelenlegi állapottal!
 Ne higgyük, hogy mindent tudunk vagy láttunk már, és ezért csak ünneplünk és körbe gratuláljuk magunkat!
 Maradjunk éberek, figyeljünk, tanuljunk, és folyamatosan fejlődjünk!

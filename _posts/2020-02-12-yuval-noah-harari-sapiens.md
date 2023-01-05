@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Yuval Noah Harari - Sapiens
+cover: sapiens
 tags: [szemléletmód]
 pages: 498
 date: 2020-02-12 23:00
+hreflang: yuval-noah-harari-sapiens
 excerpt: >
     Nem titkolt kezdeti cél ugye a minél szélesebb és változatosabb "alap" megteremtése, ahonnan aztán a kismillió felmerülő szálat követve egyre jobban lefedhetünk mindent... is!
     Így gondoltam a filozófia és a pszichológia mellett a történelemre is kitérhetnénk kicsit alaposabban.
