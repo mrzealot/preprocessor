@@ -21,7 +21,7 @@ Sebészeknél, építészeknél, mérnököknél, ügyvédeknél, stb. nyilván 
 De a befektetőknél meglepő módon ez a jelenség egyáltalán nem hallatlan.
 
 Ez pedig azért lehet, mert a pénzügyekben sokkal inkább számít a viselkedés mint a tudás.
-Attól, hogy valaki géniusz/sikeres/vezető/stb., még egyáltalán nem biztos, hogy tud bánni a pénzzel.
+Attól, hogy valaki géniusz/sikeres/vezető, még egyáltalán nem biztos, hogy tud bánni a pénzzel.
 És fordítva: attól, hogy valaki látszólag átlagos, még bánhat nagyon okosan a pénzzel.
 
 A pénzt legtöbbször úgy kezeljük, mintha egy tisztán racionális terület lenne, hideg, érzelemmentes, fekete-fehér, matematikai döntésekkel.
@@ -82,13 +82,13 @@ Ez persze egy agyon egyszerűsített példa, de a lényeget jól szemlélteti, m
 
 ## <a name="2"></a>2 -- Szerencse és kockázat
 
-Egy a millióból szerencse: Bill Gates, hogy pont abba az egyetlen gimibe járt, aminek már 1968-ban volt saját számítógépe.
+Egy a millióból szerencse: Bill Gates pont abba az egyetlen gimibe járt, aminek már 1968-ban volt saját számítógépe.
 És egy a millióból kockázat: Bill Gates egyik barátja meghalt egy hegymászó balesetben, mielőtt még befejezhette volna a gimit, és minden valószínűség szerint Gates-ékkel együtt álomkarriert futhatott volna be.
 
 Egy csomó mindent nem mi irányítunk az életünkben.
 Csak azt tehetjük, hogy intelligensen használjuk azokat a körülményeket, amik közt találjuk magunkat.
 Azt viszont ne felejtsük el közben, hogy ha sikerünk van, az nem csak a mi érdemünk.
-Ha pedig kudarc, az nem csak a mi hibánk.
+Ha pedig kudarcot vallunk, az nem csak a mi hibánk.
 
 > Semmi nem olyan jó, vagy olyan rossz, mint amilyennek látszik.
 >
@@ -115,7 +115,7 @@ Próbáljuk inkább az "átlagosabb", általánosabb siker és kudarc trendeket 
 > -- Joseph Heller, miután megtudta, hogy egy milliárdos egy nap alatt többet keresett, mint az ő híres regénye összesen
 >> “Yes, but I have something he will never have … enough.” -- Joseph Heller, when informed that a billionaire made more money in a single day than his popular novel Catch-22 generated in its entire history
 
-Rajat Gupta és Bernie Madoff sztorik, hogy még dollár milliomosként (sőt, *százmilliomosként*) is képesek voltak kockáztatni és csalást elkövetni a még több pénzért.
+Rajat Gupta és Bernie Madoff sztorijaival szemléltetjük, hogy még dollár milliomosként (sőt, *százmilliomosként*) is van, aki képes kockáztatni és csalást elkövetni a még több pénzért.
 Persze ennek a jelenségnek van rengeteg bűnmentes formája is -- a lényeg, hogy ha magunkon belül nem találjuk meg az "elég" szintjét, akkor kívülről nem lesz határ.
 Bíbor papucsra is arany hímzés, ugye (lásd [Epiktétosz]({% post_url 2021-02-13-epiktetosz-kezikonyvecskeje %}#mértékletesség)).
 
@@ -171,8 +171,8 @@ Az előző pontokkal összekötve:
 
 <ol start=2>
 <li>Felfogjuk, hogy a sikerünk nem csak a mi érdemünk, ezért nem feltétlen számíthatunk hasonlóan jó eredményekre a jövőben is,</li>
-<li>Képesek vagyunk megelégedni azzal, amink van -- vagy legalábbis úgy törekszünk a többért, hogy közben a meglévőt nem tesszük kockára, és</li>
-<li>Elérjük, hogy totál csőd hiányában elég ideig maradhassunk játékban ahhoz, hogy az exponenciális növekedés elkezdhessen valóban a javunkra dolgozni</li>
+<li>Képesek vagyunk megelégedni azzal, amink van &ndash; vagy legalábbis úgy törekszünk a többért, hogy közben a meglévőt nem tesszük kockára, és</li>
+<li>Elérjük, hogy totál csőd hiányában elég ideig maradhassunk játékban ahhoz, hogy az exponenciális növekedés elkezdhessen valóban a javunkra dolgozni.</li>
 </ol>
 
 Vagyis a tartós jólét szabályai:
@@ -192,7 +192,7 @@ Akkor is meg lehet gazdagodni, ha a döntéseink nagyja téves -- feltéve, hogy
 És habár a kirívó esetek ritkák, a kirívó esetekre való támaszkodás, mint üzleti modell, egyáltalán nem ritka.
     
 Példánk egy műkereskedő, aki valahogy Picasso-kból és Matisse-okból álló gyűjteményt szedett össze a "semmiből".
-Csak azt senki nem nézi, hogy mellette mennyi sok **ezer** értéktelen festményt vásárolt még fel, mert közülük pont a Picasso-k és a Matisse-ok tűnnek ki.
+Csak azt senki nem nézi, hogy mellette mennyi sok **ezer** értéktelen festményt vásárolt még fel, és közülük pont a Picasso-k és a Matisse-ok tűnnek ki.
 Azok viszont annyira, hogy az ezernyi festmény felvásárlási árához képest is szép hozamot generáltak.
 
 Érdemes felismerni, hogy kb. minden index alap és kockázati tőke alap így működik.
@@ -259,7 +259,7 @@ Gazdag példaképet találni könnyű (mert általában hirdetik is magukat), de
 
 A többségnek valószínűleg az adná a legnagyobb boldogságot, ha vagyonos lehetne.
 De sajnos túlfejlett majmok módjára szeretünk imitáció által tanulni, és látszani a gazdag költés látszik.
-Az első lépés tehát egyáltalán meghúzni a gazdag/vagyonos határvonalat a fejünkben!
+Az első lépés tehát egyáltalán meghúzni a fejünkben a gazdag/vagyonos határvonalat!
 
 <br>
 
@@ -317,7 +317,7 @@ Illetve, megint a kitartást ismételve: ha a stratégiánk szuboptimális, de *
 A történelem a változás tanulmányozása -- amit, igencsak ironikusan, sokszor a jövő megjósolására használunk.
 Housel ezt "történészből próféta" tévedésnek nevezi, de a tanulságot már [Harari]({% post_url 2020-02-12-yuval-noah-harari-sapiens %})-nál is levonhattuk.
 
-> Állandóan olyan dolgok történnek, amik még soha nem történtek.
+> Állandóan olyan dolgok történnek, amilyenek még soha nem történtek.
 >
 > -- Scott Sagan
 >> Things that have never happened before happen all the time.
@@ -338,7 +338,7 @@ A múlt meglepetései nem azt jelentik, hogy a jövőben már majd mindenre tudu
 Elvégre a legutóbbi legrosszabb eset is egy addig precedens nélküli meglepetés volt, amikor megtörtént.
 A múlt meglepetéseiből leginkább azt tanulhatjuk meg, hogy a jövőben is ugyanígy meglepődhetünk majd.
 
-Ez persze nem jelenti, hogy a múlt tanulmányozása haszontalan!
+Nem mondjuk persze, hogy a múlt tanulmányozása haszontalan!
 Csak azt, hogy minél messzebbre nézünk vissza, annál általánosabb tanulságokat kell levonnunk, mert a specifikumok azok mindig változnak, és mindig változni is fognak.
 
 <br>
@@ -391,7 +391,7 @@ Legalábbis ne alkalmazkodjunk hozzájuk annyira pontosan és részletesen, hogy
 Mert ha véletlen kiderülne, hogy pár év múlva mégsem ezt akarjuk, akkor majd úgy fogjuk érezni, hogy kétszer olyan gyorsan kell szaladnunk az ellenkező irányba, hogy bepótoljuk az "elvesztegetett" időt.
 
 Ehelyett (pénzügyileg legalábbis) tervezzük valahogy a mezőny közepére magunkat, ami majd sok különféle élethelyzethez is jól illeszkedhet.
-A kamatos kamat akkor működik a legjobban, ha nem piszkáljuk
+A kamatos kamat akkor működik a legjobban, ha nem piszkáljuk.
 Ezért úgy lőjük be a befektetési terveinket, hogy lehetőleg jelentős külső **és belső** változások esetén se kelljen hozzájuk nyúlni.
 Így ha változni kell, változhatunk visszatartó erő nélkül.
 
@@ -423,7 +423,7 @@ Tőzsde értelmezésben, lehet:
 - Részvényezni (sok menet közbeni aggódással kell fizetni, de jó hozamot generál, és hosszú távon eléggé megbízható),
 - Kötvényezni (kevesebb menet közbeni aggódás, kisebb hozam, de hosszú távon ez is eléggé megbízható), vagy
 - Megpróbálni "legyőzni a piacot".
-Itt azt célozzuk, hogy ne is legyen aggódás, meg jó is legyen a hozam -- csak hát cserébe a végére az esetek 99%-ban "lebukunk" és ha nem is megyünk csődbe, akkor is a piaci átlag alatt fogunk teljesíteni.
+Itt azt célozzuk, hogy ne is legyen aggódás, meg jó is legyen a hozam -- csak hát cserébe a végére az esetek nagy részében "lebukunk" és ha nem is megyünk csődbe, akkor is a piaci átlag alatt fogunk teljesíteni.
 
 És hogy miért akar a tőzsdén "lopni" az olyan, aki azt a való életben amúgy nem tenné?
 Mert a való életben legtöbbször egyértelmű az ár -- hiszen ott van a címkén.
@@ -441,7 +441,7 @@ Egy 30-50 éves nyugdíj befektető teljesen más szempontok alapján értékel 
 
 Mellesleg így lesznek a tőzsdei buborékok is.
 A befektetés fókusza egyre rövidebb és rövidebb lesz a befektetések egyre nagyobb százalékában.
-És mindegy, mennyire logikátlanul magas épp valami, mert ha azt hiszem, hogy továbbra is felfelé fog mozogni, akkor ebédig még pont szakíthatok vele.
+És mindegy, mennyire logikátlanul magas épp valami árfolyama, mert ha azt hiszem, hogy továbbra is felfelé fog mozogni, akkor ebédig még pont szakíthatok vele.
 Ebből lesz egy olyan önerősítő kör, ami abszurd magasságokba röpíti az értékeket, ahonnan szerencsétlen részvényeknek idővel nem marad más opció, mint a zuhanás.
 
 A day traderek csinálják csak ezt, ha nekik ez jó.
@@ -504,7 +504,7 @@ Mert amikor a halállal néz szembe az ember, nem érti miért, és nincs rá gy
 
 Senki nem ismeri *teljesen* a világot, mégsem vagyunk folyton összezavarodva.
 Senki nem tudja, hogy mit nem tud, mert a réseket az agyunk kitölti elméletekkel.
-És még ha fel is ismerjük, hogy valamit nem tudunk, akkor sem arra következtetünk, hogy azt nem is tud**hat**juk, és egyből keressük a magyarázatot.
+És még ha fel is ismerjük, hogy valamit nem tudunk, akkor sem arra következtetünk, hogy azt nem is tud**hat**juk, és inkább egyből keressük a magyarázatot.
 Magyarázat pedig mindig lesz százféle, csak választani kell egyet.
 
 > Mind azt akarjuk hinni, hogy egy kiszámítható, irányítható világban élünk, ezért olyan hitelesnek hangzó emberekhez fordulunk, akik kielégítik ezt a fantáziánkat.
@@ -514,7 +514,7 @@ Magyarázat pedig mindig lesz százféle, csak választani kell egyet.
 
 Nehéz alulbecsülni a magunknak bemesélt történetek erejét, ha azokban nagyon hinni akarunk, és nagy motivációnk van rá (akár pozitív, akár negatív), hogy higgyünk is benne.
 Márpedig a tőzsdén, ahol egy nap alatt megváltozhat az ember egész élete, sokkal nagyobb a motiváció hinni.
-És ezért sokkal jobban hiszünk is a kuruzslásnak mint mondjuk ha az időjárásról lenne szó -- mert ott nem kimondottabban nagy szám, ha eltaláljuk, hogy esni fog-e jövő héten kedden.
+És ezért ott sokkal jobban hiszünk is a kuruzslásnak mint mondjuk ha az időjárásról lenne szó -- mert az nem kimondottabban nagy szám, ha eltaláljuk, hogy esni fog-e jövő héten kedden.
 
 Ezért is kellenek a korábban már emlegetett flexibilitás, a hibahatárok, és az anyagi függetlenség!
 Mert ilyen környezetben kb. semmi nem lesz ránk akkora mentális hatással, hogy egy faszságban is hinni *akarjunk*.
