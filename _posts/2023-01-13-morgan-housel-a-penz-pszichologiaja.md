@@ -180,7 +180,7 @@ Vagyis a tartós jólét szabályai:
 - "Gazdag" helyett "anyagilag megtörhetetlenek" akarjunk lenni, aki elég sokáig túlél, hogy a befektetései jelentsenek valamit.
 
 - Habár fontos a tervezés, mindig tervezzünk arra is, hogy a terveink nem terv szerint alakulnak.
-Mindig hagyjunk benne szép széles hibahatárokat, hogy ne kerüljünk egyből földre, ha a sok elméleti agyalás után a való élet pofáncsap.
+Mindig hagyjunk benne szép széles hibahatárokat, hogy ne kerüljünk egyből földre, ha a sok elméleti agyalás után a való élet pofán csap.
 
 - Legyünk optimisták a jövővel kapcsolatban, de nagyon pesszimisták azokkal a tényezőkkel kapcsolatban, amik meggátolhatnának minket az odajutástól.
 
@@ -458,52 +458,68 @@ Sőt, egyáltalán felismerni, hogy többféle játék létezik!
 
 ## <a name="17"></a>17 -- A pesszimizmus vonzereje
 
-- a legtöbb embernek, az idő legnagyobb részében, az optimizmus lenne a helyes hozzáállás
-    - mert statisztikailag szépen látszik, hogy hosszú távon a többségnek elég jól sülnek el a dolgok
-    - ez persze nem garancia, de ha már esélyekről beszélünk, ennek kimutathatóan nagyobb az esélye
-- a pesszimizmus viszont valahogy bölcsebbnek, realisztikusabbnak, érdekfeszítőbbnek hangzik
-    - aki optimista, arra ráfogják, hogy árul valamit -- vagy hogy egyszerűen abszolút nincs tisztában a kockázatokkal
-        - még akkor is, ha amúgy számokkal tudná alátámasztani
-    - aki viszont pesszimista, arra egyből figyelünk, nehogy minket is váratlanul érjen a katasztrófa, amiről épp beszámol
-        - még akkor is, ha amúgy egy összeesküvés-gyártó idióta
-- ez részben magyarázható egy "aszimmetrikus veszteség-kerüléssel"
-    - egyszerűen így törzsfejlődtünk -- az maradt életben, aki a veszélyeket fontosabbként kezelte, mint a potenciális nyereségeket
-- de emellett a pénzügyekben extra erős a pesszimizmus mánia, mert
-    - a pénz mindenkit érint
-    - a rossz helyzetről könnyű azt képzelni, hogy rossz is marad (mert a megoldásához változást kéne elképzelni)
-    - a haladás fokozatos és lassú (és ezért könnyen figyelmen kívül hagyható), míg a visszaesések általában hirtelen történnek és nagyot ütnek
-- talán ennek is az elvárásokhoz van köze
-    - ha arra számítunk, hogy minden rózsásan alakul majd, akkor legjobb esetben is "csak" igazunk lesz
-    - ha viszont a katasztrófára, akkor még egy átlagos kimenetelen is lehet kellemesen meglepődni
-- és ezzel az egésszel tulajdonképpen nincs is semmi baj
-    - csak tartsuk észben, hogy nem feltétlen indokolt a pánik, még ha mások pánikolnak is
+A legtöbb embernek, az idő legnagyobb részében, az optimizmus lenne a helyes hozzáállás.
+Hiszen statisztikailag szépen látszik, hogy hosszú távon a többségnek elég jól sülnek el a dolgok.
+Ez persze nem garancia, de ha már esélyekről beszélünk, ennek kimutathatóan nagyobb az esélye, mint a csődnek.
+
+A pesszimizmus viszont valahogy mégis bölcsebbnek, realisztikusabbnak, érdekfeszítőbbnek hangzik.
+Aki optimista, arra ráfogják, hogy árul valamit -- vagy hogy egyszerűen abszolút nincs tisztában a kockázatokkal.
+Még akkor is, ha amúgy számokkal tudná alátámasztani a véleményét.
+Aki viszont pesszimista, arra egyből figyelünk, nehogy minket is váratlanul érjen a katasztrófa, amiről épp beszámol.
+Még akkor is, ha amúgy egy összeesküvés-gyártó idióta.
+
+Ez részben magyarázható az emberekben általános "aszimmetrikus veszteség-kerüléssel".
+Egyszerűen így törzsfejlődtünk -- az maradt életben, aki a veszélyeket fontosabbként kezelte, mint a potenciális nyereségeket.
+Megéri vajon kiszaladni azért a szaftos gyümölcsért, ha kardfogú tigrist portyázhat a környéken?
+Aki szerint igen, az általában gyorsan kivonta magát a génállományból.
+
+De emellett a pénzügyekben extra erős a pesszimizmus mánia, mert:
+
+- A pénz mindenkit érint;
+
+- A rossz helyzetről könnyű azt képzelni, hogy rossz is marad (mert a megoldásához változást kéne elképzelni); illetve
+
+- A haladás fokozatos és lassú (és ezért könnyen figyelmen kívül hagyható), míg a visszaesések általában hirtelen történnek és nagyot ütnek.
+
+Talán ennek is az elvárásokhoz van köze.
+Ha arra számítunk, hogy minden rózsásan alakul majd, akkor legjobb esetben is "csak" igazunk lesz.
+Ha viszont a katasztrófára, akkor még egy átlagos kimenetelen is lehet kellemesen meglepődni.
+És ezzel az egésszel tulajdonképpen nincs is semmi baj -- csak tartsuk észben, hogy nem feltétlen indokolt a pánik, még ha mások pánikolnak is.
+
+<br>
 
 ## <a name="18"></a>18 -- A sztorik fontossága
 
-- úgy is lehet gazdasági gödörbe kerülni, hogy annak tényleges, kézzel fogható oka van
-    - mint mondjuk Németország a 2. világháború után (ahol kb. megsemmisültek az ipari kapacitásai)
-    - vagy a 2000-es évek Japánja, ahol a munkaképes lakosság tényleg veszélyesen csökkent
-- viszont úgy is lehet szép nagy gödröt generálni, hogy közben ennek látszólag semmi oka
-    - csak elkezdünk rosszabb, pesszimistább sztorikat bemesélni magunknak a jövőről
-    - lásd Sapiens, interszubjektív hatás
-    - ha nincs bizalom, akkor nincs hitel, nincs munka, nincs költés, így még kisebb a bizalom, és körbe is értünk
-- ugyanez fordítva is működhet
-    - az orvoslás sok-sok évszázaddal megelőzi a **hasznos** orvoslást
-    - mert amikor a halállal néz szembe az ember, nem érti miért, nincs rá gyógymódja, akkor az is reménytelinek hangozhat, ha valaki piócákat akar tenni a bőrére vagy lyukat akar vágni a mellkasába hogy ott "kijöhessen a gonosz"
-- senki nem ismeri *teljesen* a világot, mégsem vagyunk folyton összezavarodva
-    - senki nem tudja, hogy mit nem tud, mert a réseket az agyunk kitölti elméletekkel
-    - és még ha fel is ismerjük, hogy valamit nem tudunk, akkor sem arra következtetünk, hogy azt nem is tud**hat**juk, és egyből keressük a magyarázatot
-    - magyarázat pedig mindig lesz százféle, csak választani kell egyet
+Könnyű úgy gazdasági gödörbe kerülni, hogy annak tényleges, kézzel fogható oka van.
+Mint mondjuk Németország a 2. világháború után, ahol kb. megsemmisültek az ipari kapacitásai.
+Vagy a 2000-es évek Japánja, ahol a munkaképes lakosság tényleg veszélyesen alacsony szintre csökkent.
 
-    >>  Philip Tetlock once wrote: “We need to believe we live in a predictable, controllable world, so we turn to authoritative-sounding people who promise to satisfy that need.”
-- nehéz alulbecsülni a magunknak bemesélt történetek erejét, ha azokban nagyon hinni akarunk
-    - és nagy motivációnk (akár pozitív, akár negatív) van rá, hogy higgyünk is benne
-    - márpedig a tőzsdén, ahol egy nap alatt megváltozhat az ember egész élete, sokkal nagyobb a motiváció hinni
-    - és ezért sokkal jobban hiszünk is a kuruzslásnak mint mondjuk ha az időjárásról lenne szó -- mert ott nem kimondottabban nagy szám, ha eltaláljuk, hogy esni fog-e jövő héten kedden
-- ezért is kellenek a korábban már emlegetett flexibilitás, hibahatárok, és az anyagi függetlenség
-    - mert ilyen környezetben kb. semmi nem lesz ránk akkora mentális hatással, hogy egy faszságban is hinni *akarjunk*
+De úgy is lehet ám szép nagy gödröt generálni, hogy közben ennek látszólag semmi oka.
+Csak elkezdünk rosszabb, pesszimistább sztorikat bemesélni magunknak a jövőről.
+Ha nincs bizalom, akkor nincs hitel, nincs munka, nincs költés, így még kisebb a bizalom, és körbe is értünk.
 
+Ugyanez a hatás persze fordítva is okozhat kárt, ha egy valóban rossz helyzet próbálunk rózsásan látni.
+Az orvoslás például sok-sok évszázaddal megelőzi a **hasznos** orvoslást.
+Mert amikor a halállal néz szembe az ember, nem érti miért, és nincs rá gyógymódja, akkor az is reménytelinek hangozhat, ha valaki piócákat akar tenni a bőrére vagy lyukat akar vágni a mellkasába hogy ott "kijöhessen a gonosz".
 
+Senki nem ismeri *teljesen* a világot, mégsem vagyunk folyton összezavarodva.
+Senki nem tudja, hogy mit nem tud, mert a réseket az agyunk kitölti elméletekkel.
+És még ha fel is ismerjük, hogy valamit nem tudunk, akkor sem arra következtetünk, hogy azt nem is tud**hat**juk, és egyből keressük a magyarázatot.
+Magyarázat pedig mindig lesz százféle, csak választani kell egyet.
+
+> Mind azt akarjuk hinni, hogy egy kiszámítható, irányítható világban élünk, ezért olyan hitelesnek hangzó emberekhez fordulunk, akik kielégítik ezt a fantáziánkat.
+>
+> -- Philip Tetlock
+>> We need to believe we live in a predictable, controllable world, so we turn to authoritative-sounding people who promise to satisfy that need.
+
+Nehéz alulbecsülni a magunknak bemesélt történetek erejét, ha azokban nagyon hinni akarunk, és nagy motivációnk van rá (akár pozitív, akár negatív), hogy higgyünk is benne.
+Márpedig a tőzsdén, ahol egy nap alatt megváltozhat az ember egész élete, sokkal nagyobb a motiváció hinni.
+És ezért sokkal jobban hiszünk is a kuruzslásnak mint mondjuk ha az időjárásról lenne szó -- mert ott nem kimondottabban nagy szám, ha eltaláljuk, hogy esni fog-e jövő héten kedden.
+
+Ezért is kellenek a korábban már emlegetett flexibilitás, a hibahatárok, és az anyagi függetlenség!
+Mert ilyen környezetben kb. semmi nem lesz ránk akkora mentális hatással, hogy egy faszságban is hinni *akarjunk*.
+
+<br>
 
 
 
@@ -521,21 +537,23 @@ Sőt, egyáltalán felismerni, hogy többféle játék létezik!
 
 ## Összefoglalás
 
-- sokszor az emberek bort isznak és vizet prédikálnak
-    - de ez nem akkora képmutatás, mint amekkorának elsőre látszik
-    - csak el kell ismernünk, hogy az érzelmek nagyon sok mindent befolyásolnak, és míg a másoknak osztogatott tanácsoknál könnyű tisztán objektívnek maradni, a családunk boldogságát és az éjszakai alvás nyugodtságát nekünk kell magunknak biztosítani
-        - és ez igencsak más stratégiákhoz vezethet
-    - "There are basic principles that must be adhered to, but important financial decisions are not made in spreadsheets or in textbooks. They are made at the dinner table."
-- vagyis: mutassa, Mr. Housel, maga hogy is fektet be?
-    - nincs hitele a házán - ami alacsony jelzálog kamatok és potenciálisan magasabb hozamot generáló befektetések mellett nehezen védhető **papíron**
-        - de fejben így nyugodtabbak, és így érzik magukat függetlenebbnek, mert nincs a havi számla utána
-    - sokkal több készpénz tartalékot tartanak (kb. 20%), mint amit bárki javasolna, és így sok hozamból kimaradnak
-        - de így érzik magukat felkészültnek bármi váratlanra, hogy a tényleges befektetéseiket viszont kb. soha ne kelljen idő előtt megszakítaniuk
-    - olcsó index alapokba megy a pénzük, ár-átlagolással
-        - mert az életmódjuk miatt megengedhetik maguknak, hogy ne ők legyenek a legjobb befektetők, és megelégedjenek "csak" a piaci átlaggal
-        - azt viszont nem engedhetik meg maguknak, hogy rossz befektetők legyenek, ezért nem kockáztatnak (hogy a végén még a piaci átlag se legyen meg)
-    - ez az egész szándékosan faék egyszerűségű, mert:
-        - >>  One of my deeply held investing beliefs is that there is little correlation between investment effort and investment results.
+Az emberek sokszor bort isznak és vizet prédikálnak.
+De ez nem akkora képmutatás, mint amekkorának elsőre látszik.
+Csak el kell ismernünk, hogy az érzelmek nagyon sok mindent befolyásolnak.
+És míg a másoknak osztogatott tanácsoknál könnyű tisztán objektívnek maradni, a családunk boldogságát és az éjszakai alvás nyugodtságát nekünk kell magunknak biztosítani, ami igencsak más stratégiákhoz vezethet.
 
+Zárásként a legfontosabb tanulságok, még egyszer:
 
-történelemmel és pszichológiával néha sokkal többre megyünk a pénz világában, mint a gazdaságtannal
+- A befektetéseknél az idő a kulcs, ezért alakítsunk ki olyan stratégiát, amit hosszú távon is tudunk majd tartani.
+
+- Gazdaggá válni nagyon nem olyan, mint gazdagnak maradni, ezért kerüljük a szükségtelen kockázatokat.
+
+- A szabadság a legnagyobb jutalom, amit a pénzünkért kaphatunk, ezért kezeljük helyén a vágyainkat és a kiadásainkat.
+
+- Tervezzünk kell rá, hogy a terveink nem terv szerint alakulnak, ezért hagyjunk széles hibahatárokat és spóroljunk.
+
+- A befektetés "ára" gyakran mentális, ezért nagyon figyeljünk, milyen sztorikat mesélünk be magunknak.
+
+- Csak olyantól fogadjunk el tanácsot, aki ugyanazt a játékot játssza, mint mi.
+
+Ezekből remélhetőleg jól látszik, hogy némi történelemmel és pszichológiával néha sokkal többre megyünk a pénz világában, mint a gazdaságtannal.
