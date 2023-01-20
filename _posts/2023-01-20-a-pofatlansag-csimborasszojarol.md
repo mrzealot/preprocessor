@@ -28,7 +28,7 @@ A tény, hogy a hegység wiki oldaláról idemásolt képen látható vikunya me
 Na de vissza Tomi judo kalandjához.
 A poén az egészben, hogy miután megmosolyogták a kérését és a felkészületlenségét, végül csak szereztek neki egy öltözetet kölcsönbe, és bazdmeg beállították danos mesterek közé egy gyakorló edzésre.
 Ezen a ponton szakadt le a pofám teljesen.
-De igazából nem is azért, hogy egyesek hogy képesek ilyesmire -- hanem pont azért, hogy sokan mások tulajdonképpen miért fogják vissza magukat attól, hogy egyáltalán *megpróbáljak* utánamenni a vágyaiknak, ha kellemetlennek ítélik a helyzetet.
+De igazából nem is azért, hogy egyesek hogy képesek ilyesmire -- hanem pont azért, hogy sokan mások tulajdonképpen miért fogják vissza magukat attól, hogy egyáltalán *megpróbáljanak* utánamenni a vágyaiknak, ha kellemetlennek ítélik a helyzetet.
 Mert hát látjuk, hogy bizony működhet az, ha az ember próbálkozik...
 
 Az egyetlen nagyobb személyes sikerem ilyen téren, hogy már 8 éve 100% távmunkában, itthonról dolgozok be az egyetemre.
