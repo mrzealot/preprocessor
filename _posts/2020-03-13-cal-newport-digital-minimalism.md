@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Cal Newport - Digital Minimalism
+cover: digitalminimalism
 tags: [minimalizmus, produktivitás]
 pages: 302
 date: 2020-03-13 15:00
+hreflang: cal-newport-digital-minimalism
 excerpt: >
     Maradunk továbbra is Thoreau minimalista vonalán, amihez viszont valami modern kiegészítést szerettem volna, hogy lássunk az elveket a 21. század gyakorlatában.
     Erre a célra pedig egy elég egyértelmű és sokszor ajánlott jelölt Cal Newport -- Digital Minimalism (vagyis, nem meglepően, Digitális Minimalizmus) című könyve.
