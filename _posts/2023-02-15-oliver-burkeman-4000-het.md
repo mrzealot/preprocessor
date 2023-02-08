@@ -20,7 +20,7 @@ Burkeman egy saját bevallása szerinti "produktivitás kocka", aki kb. minden l
 Kb. mintha egy alkoholistának kényelmesen épp borkóstoló lenne a szakmája.
 
 Csak hát végül kiért a jelenlegi tudományunk "szélére" (talán pont mert a munkája során messzebb juthatott a hagyományos produktivitás kísérletezéssel másoknál), és meglepődve tapasztalta, hogy még ott sem volt megoldás -- ezért ideje volt újragondolni az egészet.
-Így született a [4000 hét](https://moly.hu/konyvek/oliver-burkeman-az-elet-rovid){:target="_blank"} című könyve, amiben egy határozottan filozófiai irányból, esélytelenségünk teljes tudatában boncolgatja a témát. 
+Így született a [4000 hét](https://moly.hu/konyvek/oliver-burkeman-az-elet-rovid){:target="_blank"} (avagy a magyar fordításban "Az élet rövid") című könyve, amiben egy határozottan filozófiai irányból, esélytelenségünk teljes tudatában boncolgatja a témát. 
 
 A tartalom a következőképp alakul:
 
@@ -29,253 +29,347 @@ A tartalom a következőképp alakul:
 - [A hatékonyság csapda](#csapda)
 - [Nézzünk szembe a végességgel](#vegesseg)
 - [Jobb halasztgatóvá válni](#halasztgatas)
-- [A görögdinnye probléma](#gorogdinnye)
-- [A belső figyelemelterelés](#belso)
-- [Igazából soha nincs időnk](#tervezes)
-- [Itt vagyunk](#jelen)
+- [A figyelemelterelésekről](#figyelemeltereles)
+- [A tervezésről](#tervezes)
+- [Itt vagyunk, most vagyunk](#jelen)
 - [A pihenés újrafelfedezése](#pihenes)
 - [A türelmetlenség spirál](#turelmetlenseg)
 - [Maradjunk a buszon](#busz)
 - [A digitális nomádok magánya](#magany)
 - [Kozmikus jelentéktelenség terápia](#jelentektelenseg)
 
-
+<br>
 
     
 
 
 
+
+
+
+
 ## <a name="hosszutav"></a>Hosszú távon mind halottak vagyunk
 
-- ha feltételezzük, hogy 80 éves korunkig élünk, az kb. 4000 hét
-    - de ha mákunk van, és 90-ig élünk, akkor is csak 4700
-    - ez talán kontextusba helyezi, hogy milyen marha rövid az élet
-- vagyis kb. a legfontosabb képesség a világon az idő menedzsment
-    - bizonyos szemszögből az egész élet az időnk menedzsmentje
-    - ennek ellenére a produktivitás leggyakrabban csak a TODO listák minél hatékonyabb kipipálgatásáról és a fejünket homokba dugó pörgésről szól
-    - ezt az elcsúszást próbáljuk most egy kicsit helyrebillenteni, hogy perspektívába helyezzük az életünket
+Ha feltételezzük, hogy 80 éves korunkig élünk, az kb. 4000 hét.
+De ha mákunk van, és 90-ig élünk, akkor is csak 4700.
+Ez talán kontextusba helyezi, hogy milyen marha rövid az élet.
 
-- kérdőívek sorra mutatják ki, hogy mennyire elfoglaltnak és sürgetettnek érezzük magunkat
-    - és ennél még rosszabb a helyzet, mert a legelfoglaltabbak eleve nem érnek rá ilyen kérdőívekre
-- a legtöbben ezt úgy próbáljuk megoldani, hogy mindent IS belepréselünk a napjainkba
-    - van, aki még büszke is erre, lásd hustle kultúra, struggle-porn, stb.
-- a figyelmünk drága, mert limitált
-    - ezért megpróbálják az utolsó cseppjét is felitatni
-    - szóval ne várjuk, hogy majd mások segítenek 
-- még egy kegyetlen irónia, idősek beszámolói alapján: minél öregebbek vagyunk, annál gyorsabbnak tűnik az idő múlása
-- megpróbáljuk hát minden teendőnket szarrá optimalizálni, hogy egy-két másodpercet nyerhessünk
-    - a baj csak az, hogy aztán arra a pár plusz másodpercre is jut ám tennivaló
-    - Edward T. Hall antropológus egy futószalaghoz hasonlította az időt, amit azonnal új feladatot, amint az előzővel végeztünk
-    - ha produktívabbakká válunk, az csak gyorsítja a szalagot
-    - de vége ugye nincs, szóval hova is ez a nagy kapkodás?
-- a repülők, háztartási gépek és az internet korában persze, hogy gyorsabb egy csomó dolog
-    - de hiába gyorsítjuk őket, ha ezzel együtt az elvárásainkat is növeljük
-    - nem törődünk vele, hogy egy chat üzenet például ezernyi kilométer kábelen és számtalan routeren halad keresztül, vagy hogy hányszor gyorsabban teszi ezt, mint a posta -- ha töltés ikon egy pillanatra is "karikázni" mer, akkor fel vagyunk háborodva.
-    - Louis CK bit about phones
-- mindünkben (vagy, legalábbis, sokunkban) ott motoszkál, hogy valami nincs rendben a világgal
-    - és nem ilyen Morpheus-os módon, hogy ne lenne valódi
-    - inkább olyan értelemben, hogy nagyon nem így kéne csinálni a dolgokat
-    - hogy lehetne ezt sokkal jobban, emberibben is
-    - és amíg ezzel nem nézünk szembe, addig a produktivitás csak abban tud segíteni, hogy gyorsabban tekerjük a mókuskereket
-- ez a könyv az időmenedzsmentről szól
-    - de, a többiekkel ellentétben, itt abból a feltételezésből indulunk ki, hogy ez az egész nagyon el van baszva
-    - és nem csak "tovább javítani" akarjuk a produktivitást, hanem "megjavítani"
-    - helyretenni az elvárásainkat, a szándékainkat, és az alapvető feltételezéseinket
+Vagyis kb. a legfontosabb képesség a világon az idő menedzsment.
+Sőt, bizonyos szemszögből az egész élet az időnk menedzsmentje.
+Ennek ellenére durva alulbecslés, hogy a produktivitás leggyakrabban csak a `TODO` listák minél hatékonyabb kipipálgatásáról és a fejünket homokba dugó pörgésről szól.
+
+Kérdőívek sorra mutatják ki, hogy mennyire elfoglaltnak és sürgetettnek érezzük magunkat.
+És ennél még rosszabb a helyzet, mert a legelfoglaltabbak eleve nem érnek rá ilyen kérdőívek töltögetésére.
+A legtöbben ezt úgy próbáljuk megoldani, hogy mindent **is** belepréselünk a napjainkba.
+Van, aki még büszke is erre, lásd "hustle kultúra", "struggle-porn", stb.
+
+Megpróbáljuk minden teendőnket szarrá optimalizálni, hogy egy-két másodpercet nyerhessünk.
+A baj csak az, hogy aztán arra a pár plusz másodpercre is jut ám tennivaló.
+Edward T. Hall antropológus egy futószalaghoz hasonlította az időt, ami azonnal új feladatot hoz, amint az előzővel végeztünk.
+Ha produktívabbakká válunk, az csak gyorsítja a szalagot -- de vége ugye nincs, szóval hova is ez a nagy kapkodás?
+
+A repülők, a háztartási gépek és az internet korában persze, hogy gyorsabb egy csomó dolog.
+De láthatóan hiába gyorsítjuk őket, ha velük együtt az elvárásainkat is növeljük.
+Nem törődünk vele, hogy egy chat üzenet például ezernyi kilométer kábelen és számtalan routeren halad keresztül, vagy hogy hányszor gyorsabban teszi ezt, mint régen a posta -- ha töltés ikon egy pillanatra is "karikázni" mer, akkor fel vagyunk háborodva (lásd Louis CK [vicces monológja](https://www.youtube.com/watch?v=aGnMbKwP36U){:target="_blank"}).
+
+Mindünkben (vagy, legalábbis, sokunkban) ott motoszkál, hogy valami nincs rendben a világgal.
+És nem ilyen Mátixos, Morpheus-os módon, hogy ne lenne valódi -- inkább olyan értelemben, hogy nagyon nem így kéne csinálni a dolgokat.
+Hogy lehetne ezt sokkal jobban, emberibben is.
+És amíg ezzel nem nézünk szembe, addig a produktivitás csak abban tud segíteni, hogy gyorsabban tekerhessük a mókuskereket.
+
+Ez a könyv tehát az időmenedzsmentről szól ugyan, de (a többiekkel ellentétben) itt abból a feltételezésből indulunk ki, hogy ez az egész nagyon el van baszva.
+És nem csak "tovább javítani" akarjuk a produktivitást, hanem konkrétan "megjavítani".
+
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="korlatok"></a>Ismerjük el a korlátainkat
 
-- nem az a baj, hogy limitált az időnk
-    - hanem hogy nagyon toxikus elképzeléseink vannak arról, hogy hogyan is kellene használnunk a limitált időnket
-- elég modern nézet az, hogy mindent az időre alapozunk
-    - de már most annyira berögzült, hogy teljesen természetesnek vesszük
-    - mint DFW beszédében a hal, aki nem tudta, mi a víz, mert mindig is az vette körül
-- ha viszont egy kicsit is ki-zoom-olunk, egyből más a kép
-    - a gyakran emlegetett középkori farmer, habár nehéz fizikai munkával, undorító körülményekkel és betegségekkel/halállal kellett szembenéznie, az idő miatt biztos nem aggódott
-    - az sem lenne pontos állítás, hogy akkoriban még "lassabb" volt az élet -- mert hát mihez képest?
-    - pont az a probléma, hogy manapság már mindent az időben mérünk
-        - jönnek a kis óra/nap/hónap/év konténerek, amiket meg kell tölteni
-        - és ha túl sok mindent kéne beletuszkolni, akkor stresszelünk
-        - amikor meg nem tudunk eleget tenni bele, akkor unatkozunk (ami miatt meg utána bűntudatunk lesz)
-    - ezzel szemben az órák elterjedése előtt az ember csinálta, amit csinálni kellett
-        - haladt, ahogy haladt
-        - nem próbálta letudni tömbösítve a havi tehénfejés adagot egy nap alatt, vagy optimalizálni, hogy korábban arathasson
-        - nem kapkodott, mert felismerte, hogy a feladatoknak úgysem lesz vége soha
-        - és csak így volt esélye megélni az életét (még ha az jóval rövidebbre is sikerült a mai átlagnál egy-egy bubópestis kitörés miatt)
-- persze ilyen szintű lazaság mellett nem lehet együttműködni, és koordinálni a világot
-    - szóval nyilván érthető, miért találták fel az órát az idő pontosabb követhetőségére
-    - csak vegyük észre, hogy ezzel egy fontos mentális átállás is megtörtént
-    - az idő már nem csak egy átlátszó közeg, amiben az életünk folyik (mint a halaknak a víz), hanem egy élettől különálló erőforrás
-    - az erőforrás-használatot pedig *nyilván* optimalizálni kell
-    - eredmények helyett elkezdtük órabérben fizetni az embereket -- ezért viszont azokban az órákban nem volt ám beszélgetés, vagy egyéb más lustálkodás, minél több férjen bele
-- de az se megoldás, ha kívülről nincs hajcsár, mert belülről saját magunkat is ugyanúgy hajtjuk ebben a mentális modellben
-    - ha túl sok a teendő, akkor megpróbáljuk "uralni az időnket" ahelyett, hogy elgondolkoznánk, nem-e a teendőink mennyisége aránytalan
-- az a baj, hogy ha így gondolkozunk az időről, az egy olyan játékba visz bele minket, amit nem "nyerhetünk meg" soha
-    - onnantól már nem csak úgy *vagyunk* az időben, hanem minden pillanatot az alapján ítélünk meg, hogy mennyire hasznos -- hogy mennyiben járul hozzá valami célhoz, vagy egy olyan jövőbeli állapothoz, ahol majd már relaxálhatunk, mert "kész" vagyunk
-    - ezzel kirángatjuk magunkat a jelenből, folyton a jövőben élünk a fejünkben, és utána csodálkozunk, hogy hova lett az életünk, amit közben elfelejtettünk átélni
-    - soha nem tudunk majd eleget tenni -- vagy elégnek *lenni* -- mert az "elég" azt fogja jelenteni a fejünkben, hogy az irányításunknak mindenre **is** ki kéne terjednie
-- a megoldás nem lesz forradalmian áttörő, mert a filozófusok már nagyon rég óta tárgyalják
-    - el kell engedni az irányítás illúzióját, és megélni azt a tökéletlen, hatékony-talan, össze-vissza alakuló életet, amink van
-    - elfogadjuk nem fér bele minden, ezért nem félünk, hogy kimaradunk valamiből (mert a dolgok 99%-ából úgyis kimaradunk)
-    - örülünk, hogy egy választásunk minden más opcióra nemet mond
-        - ha minden beleférne, akkor a választásaink maximum csak a sorrendet adnák
-        - de mivel **nem** fér bele minden, a választásaink adják hogy nekünk mi fér bele, és ez fontos ahhoz, hogy jelentőségteljesnek éljük meg azt, ami végül belefér
-    - minél jobban szembenézünk ezekkel, annál "produktívabb" és élhetőbb lesz az életünk
-    - az aggódás persze soha nem tűnik el teljesen (a szerző szavaival: látszólag abban is tökéletlenek vagyunk, hogy elfogadjuk a saját tökéletlenségünket)
-        - de ennél jobb produktivitási módszert még nem talált
+Nem az a baj, hogy limitált az időnk, hanem hogy nagyon toxikus elképzeléseink vannak arról, hogy hogyan is kellene használnunk a limitált időnket.
+És mellesleg elég modern nézet az, hogy mindent az időre alapozunk.
+De már most annyira berögzült, hogy teljesen természetesnek vesszük.
+Kb. mint [David Foster Wallace]({% post_url 2021-06-05-david-foster-wallace-ez-a-viz %}) beszédében a hal, aki nem tudta, mi a víz, mert mindig is az vette körül.
+
+Ha viszont egy kicsit is ki-zoom-olunk, egyből más a kép.
+A gyakran emlegetett középkori farmer, habár nehéz fizikai munkával, undorító körülményekkel és betegségekkel/halállal kellett szembenéznie, az idő miatt biztos nem aggódott.
+Az sem lenne pontos állítás, hogy akkoriban még "lassabb" volt az élet -- mert hát mihez képest?
+
+Pont az a probléma, hogy manapság már mindent időben mérünk.
+Jönnek a kis óra/nap/hónap/év konténerek, amiket meg kell tölteni, és ha túl sok mindent kéne beletuszkolni, akkor stresszelünk.
+Amikor meg nem tudunk eleget tenni bele, akkor unatkozunk (ami miatt meg utána bűntudatunk lesz).
+
+Ezzel szemben az órák elterjedése előtt az ember csinálta, amit csinálni kellett.
+Haladt, ahogy haladt.
+Nem próbálta például letudni tömbösítve a havi tehénfejés adagot egy nap alatt, vagy optimalizálni, hogy korábban arathasson.
+Nem kapkodott, mert felismerte, hogy a feladatoknak úgysem lesz vége soha.
+És csak így volt esélye megélni az életét (még ha az jóval rövidebbre is sikerült a mai átlagnál egy-egy bubópestis kitörés miatt).
+
+Persze ilyen szintű lazaság mellett nem lehet együttműködni és koordinálni a világot, szóval nyilván érthető, miért találták fel az órát az idő pontosabb követhetőségére.
+Csak vegyük észre, hogy ezzel egy fontos mentális átállás is megtörtént.
+Az idő innentől már nem csak egy átlátszó közeg, amiben az életünk folyik (mint a halaknak a víz), hanem egy élettől különálló erőforrás.
+Az erőforrás-használatot pedig *nyilván* optimalizálni kell, nem?
+
+Így kezdtük eredmények helyett órabérben fizetni az embereket -- ezért viszont azokban az órákban nem volt ám beszélgetés, vagy egyéb más lustálkodás, minél több férjen bele.
+De az se megoldás, ha kívülről nincs hajcsár, mert belülről saját magunkat is ugyanúgy hajtjuk ebben a mentális modellben.
+Ha túl sok a teendő, akkor megpróbáljuk "uralni az időnket" ahelyett, hogy elgondolkoznánk, nem-e a teendőink mennyisége aránytalan.
+
+Az a baj, hogy ha így gondolkozunk az időről, az egy olyan játékba visz bele minket, amit nem "nyerhetünk meg" soha.
+Onnantól már nem csak úgy *vagyunk* az időben, hanem minden pillanatot az alapján ítélünk meg, hogy mennyire hasznos -- hogy mennyiben járul hozzá valami célhoz, vagy egy olyan jövőbeli állapothoz, ahol majd már relaxálhatunk, mert "kész" vagyunk.
+Ezzel kirángatjuk magunkat a jelenből, folyton a jövőben élünk a fejünkben, és utána csodálkozunk, hogy hova lett az életünk, amit közben elfelejtettünk átélni.
+Soha nem tudunk majd eleget tenni -- vagy elégnek *lenni* -- mert az "elég" azt fogja jelenteni a fejünkben, hogy az irányításunknak mindenre **is** ki kéne terjednie.
+Spoiler alert: nem fog.
+
+A megoldás nem lesz forradalmian áttörő, mert a filozófusok már nagyon rég óta tárgyalják.
+Egyszerűen el kell engednünk az irányítás illúzióját, és megélni azt a tökéletlen, hatékony-talan, össze-vissza alakuló életet, amink van.
+Elfogadni, hogy nem fér bele minden, és ezért nem félni, hogy kimaradunk valamiből (mert a dolgok 99%-ából úgyis kimaradunk).
+
+Ehelyett örüljünk, hogy egy választásunk minden más opcióra nemet mond.
+Ha minden beleférne, akkor a választásaink maximum csak a sorrendet adnák.
+De mivel **nem** fér bele minden, a választásaink mutatják meg, hogy nekünk mi fér bele -- és ez fontos ahhoz, hogy jelentőségteljesnek élhessük meg azt, ami végül belefér.
+    
+Minél jobban szembenézünk ezekkel a tényekkel, annál "produktívabb" és élhetőbb lesz az életünk.
+Az aggódás persze soha nem tűnik el teljesen (a szerző szavaival: látszólag abban is tökéletlenek vagyunk, hogy elfogadjuk a saját tökéletlenségünket).
+De ennél jobb produktivitási módszert még nem talált.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 ## <a name="csapda"></a>A hatékonyság csapda
 
-- busy != overwhelmed
-    - semmi baj nincs azzal, ha elfoglaltak vagyunk, ha közben nem vagyunk túlterhelve
-    - de sajnos a gazdasági spektrum minden részéről az látszik, hogy az emberek túlterheltek
-        - nem csak akinek dupla műszakot kell vinni, hogy legyen mit enni, hanem azok is, akiknek "csupán" egy (jól fizető) munkahelye van
-- ironikus, hogy legtöbben úgy próbáljuk megoldani a túlzott elfoglaltságunkat, hogy még elfoglaltabbakká válunk
-    - mert akkor majd biztos minden belefér...
-- soha nem fog beférni minden, mert amint betuszkoljuk az előző adag "mindent", úgy bővül a "minden"-ünk definíciója
-    - a háztartási gépek elterjedése nem csökkentette a háztartási munkát, mert egyszerűen annyival nőttek a tisztasággal kapcsolatos elvárásaink
-    - az elmúlt évszázad *hatalmas* produktivitás ugrása nem hogy nem csökkentette, de növelte a munkaórákat, mert annyira megnőttek az elvárásaink, hogy milyen tempóban kéne haladnia a munkának
-    - mozgó célpontra nehéz lőni
-- persze ez nem jelenti, hogy akkor most hirtelen befejezhetjük az e-mail-ekre válaszolást vagy a munkát
-    - de nagyon más lesz, ha a hatékonyság csapda tudatában állunk hozzá
-    - mert csak akkor tudjuk elkerülni, hogy a megnövelt hatékonyságunk csak ahhoz vezessen, hogy még több teendőt aggatnak a nyakunkba -- vagy aggatunk mi magunk a saját nyakunkba
-    - csak akkor hozhatunk megfontoltabb döntéseket arról, hogy mi férjen bele az időnkbe, ha elfogadjuk, hogy nem fér bele minden
-- a régiekkel szemben dupla hátrányból indulunk
-    - régen általánosságban hittek a túlvilágban, és a világ rendjének állandóságában, így nem volt gáz, ha a rövid földi életük során (ami amúgy is csak egy bevezetés az öröklét előtt) csak játsszák a szerepüket
-    - ma viszont nagyrészt ateisták vagyunk, nagyrészt erre a világra koncentrálunk, és nagyrészt hiszünk a haladásban, ami miatt csak egyre élesebben érezzük majd, hogy mennyi mindenből ki fogunk maradni
-    - erre ad (látszólagos!) megoldást, ha az életünket minél több élménnyel próbáljuk teletömni
-- ez azért szomorú, mert ilyen szemszögből a milliomos csemete vagy a gazdag nyugdíjas is ugyanolyan "túlterheltek", mint a minimálbéres munkás, csak nekik a mindenféle élmény belegyömöszölése nem megy
-    - de ugyanez a művészre is, aki nem tud eleget alkotni, vagy az önkéntesre, aki nem tud eleget segíteni
-- ha azt hisszük, hogy minden belefér, akkor könnyebben hanyagoljuk majd a dolgok priorizálását
-    - ha úgyis meglesz minden, akkor mit számít, ha ezt a fél órát még el-Facebook-ozok, majd utána is tudok még elég energiát fektetni az önmegvalósításba
-    - és mivel az igazán értékes dolgok általában nagyobbak, a kicsik könnyen beférkőznek eléjük
-    - éveket lehet így "produktívan elpazarolni", ha az ember stratégikusan pont azokat a dolgokat halogatja, amik amúgy számítanának
-    - ha viszont nem hinnénk, hogy van elég időnk (mert nincs), akkor nem engednénk nekik
-    - lásd Brooks, commitment!
+Az "elfoglalt" nem feltétlenül kéne, hogy azt jelentse: "túlterhelt".
+Mert ugye semmi baj nincs azzal, ha elfoglaltak vagyunk, ha közben nem vagyunk túlterhelve.
+De sajnos a gazdasági spektrum minden részéről az látszik, hogy az emberek manapság igencsak túlterheltek.
+És nem csak akinek dupla műszakot kell vinni, hogy legyen mit enni, hanem azok is, akiknek "csupán egy" (jól fizető) munkahelye van.
+
+Ironikus, hogy legtöbben úgy próbáljuk megoldani a túlzott elfoglaltságunkat, hogy még elfoglaltabbakká válunk, mert akkor majd biztos minden belefér.
+Soha nem fog beférni minden, mert amint betuszkoljuk az előző adag "mindent", úgy bővül a "minden"-ünk definíciója.
+A háztartási gépek elterjedése nem csökkentette a háztartási munkát, mert egyszerűen annyival nőttek a tisztasággal kapcsolatos elvárásaink.
+Az elmúlt évszázad *hatalmas* produktivitás ugrása nem hogy nem csökkentette, de növelte a munkaórákat, mert annyira megnőttek az elvárásaink, hogy milyen tempóban *kéne* haladnia a munkának.
+Mozgó célpontra nehéz lőni.
+
+Persze ez nem jelenti, hogy akkor most hirtelen befejezhetjük az e-mail-ekre válaszolást vagy a munkát.
+De nagyon más lesz, ha a hatékonyság csapda tudatában állunk hozzájuk.
+Mert csak így tudjuk elkerülni, hogy a megnövelt hatékonyságunk mindössze még több teendő nyakunkba aggatásához vezessen -- amiket sokszor mi magunk aggatunk a saját nyakunkba.
+Csak akkor hozhatunk megfontoltabb döntéseket arról, hogy mi férjen bele az időnkbe, ha elfogadjuk, hogy nem fér bele minden (lásd [Esszencializmus]({% post_url 2021-11-06-greg-mckeown-esszencializmus %})).
+
+A régiekkel szemben dupla hátrányból indulunk.
+Régen általánosságban hittek a túlvilágban, és a világ rendjének állandóságában, így nem volt gáz, ha a rövid földi életük során (ami amúgy is csak egy bevezetés az öröklét előtt) csak játsszák a szerepüket.
+Ma viszont nagyrészt ateisták vagyunk, nagyrészt erre a világra koncentrálunk, és nagyrészt hiszünk a haladásban, ami miatt csak egyre élesebben érezzük majd, hogy mennyi mindenből ki fogunk maradni.
+
+Erre ad (látszólagos!) megoldást, ha az életünket minél több élménnyel próbáljuk teletömni.
+Ez azért szomorú, mert ilyen szemszögből a milliomos csemete vagy a gazdag nyugdíjas is ugyanolyan "túlterheltek", mint a minimálbéres munkás, csak nekik a mindenféle élmény belegyömöszölése nem megy
+De ugyanez a művészre is, aki nem tud eleget alkotni, vagy az önkéntesre, aki nem tud eleget segíteni.
+
+Ha azt hisszük, hogy minden belefér, akkor könnyebben hanyagoljuk majd a dolgok priorizálását.
+Elvégre ha idővel úgyis meglesz minden, akkor mit számít, ha ezt a fél órát még el-Facebook-ozok, majd utána is tudok még elég energiát fektetni az önmegvalósításba.
+És mivel az igazán értékes dolgok általában nagyobbak, a kicsik könnyen beférkőznek eléjük.
+Éveket lehet így "produktívan elpazarolni", ha az ember stratégikusan pont azokat a dolgokat halogatja, amik amúgy számítanának.
+Ha viszont nem hinnénk, hogy van elég időnk (mert nincs), akkor nem engednénk nekik (lásd [Brooks]({% post_url 2021-02-19-david-brooks-a-masodik-hegy %}) érvelését az elköteleződésről).
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 ## <a name="vegesseg"></a>Nézzünk szembe a végességgel
 
-- Martin Heidegger munkássága
-    - aki náci volt, szóval azt döntse el mindenki magának, hogy ezáltal a végességgel kapcsolatos nézetei is hülyeségek-e
-- még az absztraktabb filozófusok is általában csak azon törik a fejüket, hogy miféle dolgok léteznek, honnan erednek, és mi közük egymáshoz
-    - de Heidegger szerint nem vagyunk eléggé elámulva azon, hogy "egy világ itt világkodik körülöttünk" egyáltalán!
-        - annyira könnyű lenne, hogy ne legyen semmi, hogy kész csoda, hogy van valami!
-    - ezen felül, szerinte a létünk annyira teljesen összefügg a végességünkkel, hogy a kettő gyakorlatilag szinonima
-        - nem csak hogy korlátozott időnk van ezen a világon, de mi magunk korlátozott idők vagyunk
-    - az időnk nem csak hátrafelé véges (mert megvan, hogy hogyan jutottunk ide és kik vagyunk miatta), de előrefelé is (mert bármit is választunk, azzal számtalan egyéb dolgot nem választunk)
-        - érdekes zárójel: az angol "decide" (dönteni) szó is a latin "decidere" (levágni) szóból ered, miszerint levágjuk az alternatívákat
-- a végesség adott; az egyetlen kérdés, hogy szembenézünk-e vele, vagy tagadni próbáljuk
-    - morbidnak és stresszesnek tűnhet -- de Heidegger szemszögéből pont az a morbid, hogy mindenféle figyelemeltereléssel épp csak fejre nem állunk, hogy ezzel ne kelljen szembesülnünk
-- a dolgoknak nem csak attól lesz értelme, hogy valami más helyett választjuk őket, hanem attól is, hogy nem csinálhatjuk őket örökké
-    - ha holnap is ugyanolyan jó lenne az írásra, vagy holnapután, akkor ma miért írjak?
-- nem mondjuk, hogy a halállal való szembesülés "kellemes", vagy "boldog"
-    - de "igaz"!
-    - és bármi, ami segít tényleg abban a világban élni, amiben amúgy élünk, az csak jó irányba terelgethet
-- a 4000 hét csak az örökkévalósággal összehasonlítva kevés; a nullához képest kemény 4000-rel több!
-    - nem az a tisztességtelen, ha a halál pofátlanul elragadja tőlünk az öröklétet
-    - inkább az a csoda, hogy egyáltalán kaptunk *valamennyi* létet!
-    - nem nehéz döntéseket *kell* hoznunk, hanem *megtehetjük*, hogy nehéz döntéseket hozzunk! nem mindjárt más?
+Még az absztraktabb filozófusok is általában csak azon törik a fejüket, hogy miféle dolgok léteznek, honnan erednek, és mi közük egymáshoz.
+De egy bizonyos Martin Heidegger szerint nem vagyunk eléggé elámulva azon, hogy "egy világ itt *világkodik* körülöttünk" egyáltalán!
+Annyira könnyű lenne, hogy ne legyen semmi, hogy kész csoda, hogy van valami!
+
+Ezen felül, szerinte a létünk annyira teljesen összefügg a végességünkkel, hogy a kettő gyakorlatilag szinonima.
+Nem csak hogy korlátozott időnk van ezen a világon, de mi magunk korlátozott idők vagyunk.
+Az időnk nem csak hátrafelé véges (mert megvan, hogy hogyan jutottunk ide és kik vagyunk miatta), de előrefelé is (mert bármit is választunk, azzal számtalan egyéb dolgot nem választunk).
+Érdekes zárójel: az angol "decide" (dönteni) szó is a latin "decidere" (levágni) szóból ered, miszerint levágjuk az alternatívákat.
+
+A végesség adott; az egyetlen kérdés, hogy szembenézünk-e vele, vagy tagadni próbáljuk.
+Morbidnak és stresszesnek tűnhet -- de Heidegger szemszögéből pont az a morbid, hogy mindenféle figyelemeltereléssel épp csak fejre nem állunk, hogy ezzel ne kelljen szembesülnünk.
+A dolgoknak nem csak attól lesz értelme, hogy valami más helyett választjuk őket, hanem attól is, hogy nem csinálhatjuk őket örökké.
+Ha holnap is ugyanolyan jó lenne az írásra, vagy holnapután, akkor ma miért írjak?
+
+Nem mondjuk, hogy a halállal való szembesülés "kellemes", vagy "boldog", de "igaz"!
+És bármi, ami segít tényleg abban a világban élni, amiben amúgy élünk, az csak jó irányba terelgethet.
+Különben meg a 4000 hét csak az örökkévalósággal összehasonlítva kevés; a nullához képest kemény 4000-rel több!
+Nem az a tisztességtelen, ha a halál pofátlanul elragadja tőlünk az öröklétet -- inkább az a csoda, hogy egyáltalán kaptunk *valamennyi* létet!
+Nem nehéz döntéseket *kell* hoznunk, hanem *megtehetjük*, hogy nehéz döntéseket hozzunk!
+Nem mindjárt más?
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 ## <a name="halasztgatas"></a>Jobb halasztgatóvá válni
 
-- az eddigiek fényében nem az a cél, hogy eltüntessük magunkból a "halasztgatósságot"
-    - hanem hogy a jó dolgokat halasztgassuk, egész életünk végéig, miközben a jókat meg csinálgatjuk
-    - vagyis épphogy **jobb**, prioritás alapúbb halasztgatóvá kell válnunk
-- ez a priorizálás sajnos nem annyira egyszerű, mint amilyennek hangzik
-    - csak "fontos" dologból is sokkal több van, mint ami beleférhet az életünkbe, úgyhogy valahogy azok között is válogatni kell
+Az eddigiek fényében nem az a cél, hogy eltüntessük magunkból a "halasztgatósságot", hanem hogy a megfelelő dolgokat halasztgassuk, egész életünk végéig, miközben a jókat meg csinálgatjuk.
+Vagyis épphogy **jobb**, prioritás alapúbb halasztgatóvá kell válnunk.
+Csak hát ez a priorizálás sajnos nem annyira egyszerű, mint amilyennek hangzik, mert "fontos" dologból is sokkal több van, mint ami beleférhet az életünkbe, úgyhogy valahogy azok között is válogatni kell.
 
-- három főbb tanács
-    1. pay yourself first! -- mint ahogy a pénzügyek világában, itt is fontos, hogy a fontos dolgok kapjanak időt ELŐBB
-        - ha azt reméljük, hogy a minden más letudása után majd még marad idő, azzal csak áltatjuk magunkat
-    2. a fontosak között is korlátozzuk, hogy hány vasat tartunk egyszerre a tűzben
-        - ha túl sok az épp folyamatban lévő szál, akkor könnyű lesz mindig egy másikra ugrani, amint az előző túl nehézzé (vagy épp túl unalmassá) válik
-        - így azt érezzük majd, hogy haladunk, de valójában pont azok a leküzdésre váró akadályok elől sikerül homokba dugni a fejünket, amik igazán számítanának a tényleges haladás érdekében (lásd kontextusváltás)
-        - tipp: legyen az "aktuális TODO" limit mondjuk 3, és egy új csak akkor jöhet be, ha valami kimegy
-            - ez az alapos megfontolás miatt arra kényszerít majd, hogy előre priorizáljunk (ami amúgy is a lényeg lenne!)
-            - és mellesleg azt is hozni fogja magával, hogy intuitíven szétbontjuk majd a feladatainkat kisebb, menedzselhetőbb darabokra, mert különben hónapokig/évekig befoglalnák a 3 slot egyikét
-    3. kerüljük a közepesen érdekes dolgokat
-        - addig például kb. egyértelmű, hogy ha van egy 25-ös lista arról, hogy mivel szeretnénk foglalkozni az életünkben, akkor szervezzük az összes időnket az első 5 köré
-            - de a maradék 20-at nem hogy "hanyagoljuk", de **aktívan** kerüljük, mert ezek jelentik a legnagyobb veszélyt az első 5-re
-            - ezek azok, amik A) nem voltak elég csábítóak, hogy bekerüljenek a top 5-be, de B) elég csábítóak ahhoz, hogy el tudják terelni róluk a figyelmet
-        - a nemet mondásnál az csak a könnyű rész, hogy nemet mondunk az olyanokra, amiket amúgy sem akartunk volna csinálni
-            - a nehéz rész tudatosan nemet mondani arra is, amit amúgy szívesen csinálnánk, de nem fogunk, mert felismerjük, hogy csak egy életünk van
-        - "kills the rest" idézet
+A rosszféle halasztgatás abból ered, hogy nem akarunk szembenézni a választási kényszerünkkel.
+Fejben könnyű több, párhuzamos (és egymást kizáró!) jövőt is egyszerre elképzelni magunknak, de amint ezt meg szeretnénk valósítani, szembejönnének a korlátok.
+Ezt sokan úgy oldják meg, hogy nem is próbálják megvalósítani egyiket sem, mert a valóságban úgyis tökéletlen lenne.
+Ehelyett a szerző a következő három főbb tanáccsal szolgál:
 
-- a rosszféle halasztgatás abból ered, hogy nem akarunk szembenézni a választási kényszerünkkel
-    - fejben könnyű több, párhuzamos (és egymást kizáró!) jövőt is egyszerre elképzelni magunknak, de amint ezt meg szeretnénk valósítani, szembejönnének a korlátok
-    - ezt sokan úgy oldják meg, hogy nem is próbálják megvalósítani egyiket sem, mert a valóságban úgyis tökéletlen lenne
+1. **Fizessünk magunknak először!**
+Mint ahogy a pénzügyek világában, itt is az a fontos, hogy a fontos dolgok kapjanak időt **előbb**.
+Ha azt reméljük, hogy a minden más letudása után majd még marad idő, azzal csak áltatjuk magunkat.
+És itt ugye kb. mindegy is, hogy arányában mennyi időt kap az a fontos dolog az egyebekhez képest -- a lényeg, hogy ő kap időt először.
 
-- settle!
-    - commitment makes it worth it anyway - see dating, career, etc.
+2. **A fontos dolgok között is korlátozzuk, hogy hány vasat tartunk egyszerre a tűzben!**
+Ha túl sok az épp folyamatban lévő szál, akkor könnyű lesz mindig egy másikra ugrani, amint az előző túl nehézzé (vagy épp túl unalmassá) válik.
+Így azt érezzük majd, hogy haladunk, de valójában pont azok a leküzdésre váró akadályok elől sikerül homokba dugni a fejünket, amik igazán számítanának a tényleges haladás érdekében (lásd [kontextusváltás]({% post_url 2022-04-13-a-kontextusvaltasrol %})).
+    
+    Tipp: legyen az "aktuális `TODO`" limit mondjuk 3, és egy új csak akkor jöhet be, ha valamelyik kész.
+    Ez az alapos megfontolás miatt arra kényszerít majd, hogy előre priorizáljunk (ami amúgy is a lényeg lenne).
+    És mellesleg azt is hozni fogja magával, hogy intuitíven szétbontjuk majd a feladatainkat kisebb, menedzselhetőbb darabokra, mert különben hónapokig/évekig befoglalnák a 3 szabad hely egyikét.
 
-## <a name="gorogdinnye"></a>A görögdinnye probléma
+3. **Kerüljük a közepesen érdekes dolgokat!**
+Addig például kb. egyértelmű, hogy ha van egy 25-ös lista arról, hogy mivel szeretnénk foglalkozni az életünkben, akkor szervezzük minél több időnket az első 5 köré.
+De a maradék 20-at nem hogy "hanyagoljuk", de **aktívan** kerüljük, mert ezek jelentik a legnagyobb veszélyt az első 5-re.
+Ezek azok, amik A) nem voltak elég csábítóak, hogy bekerüljenek a top 5-be, de B) elég csábítóak ahhoz, hogy el tudják terelni róluk a figyelmet.
+    
+    A nemet mondásnál az csak a könnyű rész, hogy nemet mondunk az olyanokra, amiket amúgy sem akartunk volna csinálni.
+    A nehéz rész tudatosan nemet mondani arra is, amit amúgy szívesen csinálnánk, de nem fogunk, mert felismerjük, hogy csak egy életünk van.
+    
+    > Egy fiú két, három, vagy akár négy potenciális ember is lehet, de egy férfi csak egy. A többit megöli.
+    >
+    > Mordecai Richler
+    >> A boy can be two, three, four potential people, but a man is only one. He murders the others.
 
-- a figyelemelterelések mindenbe beleköphetnek
-    - mert például kb. senki nem *tervezi*, hogy egy videó, ahol befőttes gumikat feszítenek egy görögdinnye köré, 40 percet el fog venni a napjából
-    - és kevesen érzik úgy, hogy valóban ezt *választották*
-    - mégis igen sok ember esetében ilyesmi történik, napi szinten
-    - a figyelem nem tárolódik (ahogy az idő sem)
-        - ha nem mi választjuk meg, hogy hogyan használjuk fel, akkor majd valamilyen külső hatások választanak helyettünk
-
-- manapság a digitális figyelemelterelések (lásd digitális minimalizmus), de már a görög (nem dinnye!) filozófusok is foglalkoztak a témával
-    - csak ők belső karakterhibaként, amikor nem arra fordítjuk az időnket, amiről valljuk, hogy fontos lenne nekünk
-    - persze van, ami ilyen ösztönös, "alulról felfelé" megzavarás, mint egy pittyegő telefon vagy egy felsíró gyerek
-    - de a lényeg az, hogy a "felülről lefelé", tudatos figyelmünket mire fordítjuk - és hogy ezt tudatosan választottuk-e
-
-- mindenki számára azzá válik a valóság, amire figyel
-    - vagyis a szociális média nem is csak attól lesz félelmetes, hogy mennyi idő elpazarlására rá tud venni
-    - hanem hogy közben hogyan torzítja óhatatlanul a világról kialakított képünket a fejünkben
-        - nem csak elterel a fontosabb dolgoktól, hanem azt is átprogramozza, hogy mit tartunk fontosnak!
-    - olyat tesz elénk, ami könnyen fenntartja a figyelmünket - ez viszont gyakran a kirívó érzelmekre épít, így ritkán olyan, amire érdemes lenne a valóságunk "normál" szintjét belőni
-    - torzul majd, hogy mit tartunk fontosnak, mit tartunk igaznak, mit tartunk követendőnek... és ez sokkal nagyobb baj, mint az az óra, amit a görgetésre elbasztunk
-
-
-## <a name="belso"></a>A belső figyelemelterelés
-
-- >>  The more intensely he could hold his attention on the experience of whatever he was doing, the clearer it became to him that the real problem had been not the activity itself but his internal resistance to experiencing it.
-    - a Shingon buddhistáknál elég durva "rávezetés" a napi 3 jeges fürdő, de azok során az embernek muszáj rájönnie, hogy csak úgy csökkentheti a kínt, ha nem elterelni próbálja a figyelmét, hanem épp hogy minden erejével oda koncentrál
-    - ez pedig kamatostól fizeti meg a befektetett energiát, mert utána a bármilyen hétköznapi tevékenység áttranszformálható unalmasból érdekfeszítőbe
-
-- így férkőzik be a figyelemelterelés is
-    - nem is annyira "megküzd" a figyelmünkért, mint inkább mi magunk menekülünk oda az aktuális teendőink kellemetlenségei elől
-- és sajnos ez azokra a tevékenységekre is gyakran vonatkozik, amiket amúgy mi magunk szándékozunk csinálni, belső késztetésből!
-    - nem mindig a nehézségük, hanem az unalmasságuk miatt, lásd Atomi szokások, Művészet Háborúja
-
-- unalom = nem feltétlen azt jelenti, hogy nem érdekel eléggé, amit épp csinálunk
-    - arra is ez a reakciónk, amikor szembe kell néznünk a végességünkkel, hogy nem mehet minden úgy, ahogy szeretnénk
-    - hogy fel kell adnunk a tökéletesség illúzióját miközben megpróbáljuk a való világba áthozni a terveinket
-    - ez kellemetlen, ezért hirtelen mindjárt nagyobb lesz a szociális média görgetés vonzereje
-        - mert ha az interneten eltöltött idő nem is mindig szórakoztató, de mindig korlátozatlannak érezhetjük magunkat közben (a valós életünk korlátaival éles kontrasztban)
-
-- a lényeg, hogy amikre figyelemelterelésekként gondolunk, azon már inkább csak a tünetek, nem az okok
-    - az okot pedig kb. csak úgy kezelhetjük, ha megtanuljuk jobban tűrni a kellemetlenséget
-    - és egyáltalán, elengedjük azt a tévképzetet, hogy ennek nem így kéne lennie
-    - amint a figyelmünk tényleg a tevékenységünkre irányul, és nem az ellene való lázadásunkra, egyből jobb lesz a helyzet
+<br>
 
 
 
 
 
-## <a name="tervezes"></a>Igazából soha nincs időnk
-
-- a túlzott tervezősséggel az a baj, hogy habár néha tényleg sikerül vele elkerülni a katasztrófát, az idő maradék 99%-ában pont azt a szorongást szítja, amit eredetileg csillapítania kellett volna
-    >>  Worry, at its core, is the repetitious experience of a mind attempting to generate a feeling of security about the future, failing, then trying again and again and again
-- nem tudunk annyi időt hagyni semmire, hogy az "garantált" legyen
-    - eleve, az időnk nem a miénk -- legalábbis nem úgy, ahogy mondjuk a pénzünk vagy a cipőink
-    - ha azt mondjuk, hogy van valamire három óránk, az pontosabban azt jelenti, hogy szánnánk rá három órát
-        - de azt a három órát egyáltalán nem biztos, hogy meg is kapjuk
-        - beronthat a főnök valami sürgős feladattal; vagy lerobbanhat a kocsi; vagy ugye, a könyv témájába illően, meg is halhatunk
-- ettől persze nem mondja senki, hogy ne tervezzünk
-    - természetesen jó ötlet az esélyeket a magunk irányába billenteni
-    - csak garanciát ne várjunk semmire -- és ezzel hirtelen rengeteg szorongástól szabadulhatunk meg
-- összehasonlításként csak nézzük a múltat
-    - bárhol is tartunk most az életben, az szinte biztos visszavezethető valami véletlen eseményig, amit nem lehetett előre kiszámítani
-    - utólag meg aztán pláne nem lehet módosítani
-    - és ha azt elismerjük, hogy a múltban sem voltunk mindenhatóak, akkor milyen alapon várnánk, hogy a jövőben azok leszünk?
-- valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkészhetetlensége az, ami miatt minden vallás és filozófia jellemzően eljut arra a felismerésre, hogy a jelenre kéne koncentálni
 
 
-## <a name="jelen"></a>Itt vagyunk
+
+
+
+
+
+## <a name="figyelemeltereles"></a>A figyelemelterelésekről
+
+Oké, limitált az időnk, priorizálni kell.
+De hát a figyelemelterelések mindenbe beleköpnek!
+Mert például kb. senki nem *tervezi*, hogy egy videó, ahol befőttes gumikat feszítenek egy görögdinnye köré, 40 percet el fog venni a napjából.
+És kevesen érzik úgy, hogy valóban ezt *választották*, miközben aktívan ottragadtak előtte.
+Mégis igen sok ember esetében ilyesmi történik, napi szinten.
+A figyelem nem tárolódik (ahogy az idő sem) -- ha nem mi választjuk meg, hogy hogyan használjuk fel, akkor majd valamilyen külső hatások választanak helyettünk.
+
+Manapság a digitális figyelemelterelések a legnépszerűbbek (lásd [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %})), de már a görög (nem dinnye!) filozófusok is foglalkoztak a témával.
+Csak ők belső karakterhibaként tekintették, amikor nem arra fordítjuk az időnket, amiről valljuk, hogy fontos lenne nekünk.
+Persze van, ami ilyen ösztönös, "alulról felfelé" megzavarás, mint egy pittyegő telefon vagy egy felsíró gyerek.
+De a lényeg az, hogy a "felülről lefelé", tudatos figyelmünket mire fordítjuk -- és hogy ezt tudatosan választottuk-e.
+
+Mindenki számára azzá válik a valóság, amire figyel.
+Vagyis a szociális média nem is csak attól lesz félelmetes, hogy mennyi idő elpazarlására rá tud venni, hanem hogy közben hogyan torzítja óhatatlanul a világról kialakított képünket a fejünkben.
+Nem csak elterel a fontosabb dolgoktól, hanem azt is átprogramozza, hogy mit tartunk fontosnak!
+Olyat tesz elénk, ami könnyen fenntartja a figyelmünket -- ez viszont gyakran a kirívó érzelmekre épít, így ritkán olyan, amire érdemes lenne a valóságunk "normál" szintjét belőni.
+
+Végső soron azonban nem a külső ingerekkel van a gond.
+Nem is annyira "megküzdenek" a figyelmünkért, mint inkább mi magunk menekülünk hozzájuk az aktuális teendőink kellemetlenségei elől.
+És sajnos ez azokra a tevékenységekre is gyakran vonatkozik, amiket amúgy mi magunk szándékozunk csinálni, belső késztetésből!
+Nem mindig a nehézségük, hanem az unalmasságuk miatt (lásd [Atomi szokások]({% post_url 2021-01-09-james-clear-atomi-szokasok %}), [Művészet háborúja]({% post_url 2020-02-04-steven-pressfield-a-muveszet-haboruja %})).
+
+Az unalom nem feltétlen azt jelenti, hogy nem érdekel eléggé, amit épp csinálunk.
+Arra is ez a reakciónk, amikor szembe kell néznünk a végességünkkel, és hogy nem mehet minden úgy, ahogy szeretnénk.
+Hogy fel kell adnunk a tökéletesség illúzióját miközben megpróbáljuk a való világba áthozni a terveinket.
+Ez kellemetlen, ezért hirtelen mindjárt nagyobb lesz a szociális média görgetés vonzereje.
+Mert habár az interneten eltöltött idő nem mindig szórakoztató, de mindig korlátozatlannak érezhetjük magunkat közben (a valós életünk korlátaival éles kontrasztban).
+
+A lényeg, hogy amikre figyelemelterelésekként gondolunk, azok már inkább csak a tünetek, nem az okok.
+Az okokat pedig kb. csak úgy kezelhetjük, ha megtanuljuk jobban tűrni a kellemetlenséget.
+És egyáltalán, elengedjük azt a tévképzetet, hogy ennek nem így kéne lennie.
+Amint a figyelmünk tényleg a tevékenységünkre irányul, és nem az ellene való lázadásunkra, egyből jobb lesz a helyzet.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="tervezes"></a>A tervezésről
+
+A túlzott tervezősséggel az a baj, hogy habár néha tényleg sikerül vele elkerülni egy-egy katasztrófát, az idő maradék 99%-ában pont azt a szorongást szítja, amit eredetileg csillapítania kellett volna.
+
+> Az aggódás magja az az ismétlődő élmény, ami során az elménk megkísérel biztonságérzetet kelteni a jövővel kapcsolatban, és amikor ez nem sikerül, csak újra és újra és újra próbálkozik.
+>>  Worry, at its core, is the repetitious experience of a mind attempting to generate a feeling of security about the future, failing, then trying again and again and again.
+
+Nem tudunk annyi időt hagyni semmire, hogy az "garantált" legyen.
+Eleve, az időnk nem a miénk -- legalábbis nem úgy, ahogy mondjuk a pénzünk vagy a cipőink.
+Ha azt mondjuk, hogy van valamire három óránk, az pontosabban azt jelenti, hogy szánnánk rá három órát.
+De azt a három órát egyáltalán nem biztos, hogy meg is kapjuk.
+Beronthat a főnök valami sürgős feladattal; vagy lerobbanhat a kocsi; vagy ugye, a könyv témájába illően, meg is halhatunk.
+
+Ettől persze nem mondja senki, hogy ne tervezzünk, mert természetesen jó ötlet az esélyeket a magunk irányába billenteni.
+Csak garanciát ne várjunk semmire -- és ezzel hirtelen rengeteg szorongástól szabadulhatunk meg.
+
+Összehasonlításként csak nézzük a múltat.
+Bárhol is tartunk most az életben, az szinte biztos visszavezethető valami véletlen eseményig, amit nem lehetett előre kiszámítani.
+Utólag meg aztán pláne nem lehet módosítani.
+És ha azt elismerjük, hogy a múltban sem voltunk mindenhatóak, akkor milyen alapon várnánk, hogy a jövőben azok leszünk?
+Valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkészhetetlensége az, ami miatt minden vallás és filozófia jellemzően eljut arra a felismerésre, hogy a jelenre kéne koncentálni...
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="jelen"></a>Itt vagyunk, most vagyunk
 
 - minél inkább "jól" és "hatékonyan" akarunk felhasználni minden napot egy jövőbeli cél érdekében, annál inkább a jövőben élünk fejben
     - a jelent meg jó esetben is *tűrjük*, amíg oda nem érünk
@@ -300,6 +394,18 @@ A tartalom a következőképp alakul:
 
 - vagyis nem mondjuk azt sem, hogy legyünk egyből szerzetesek
     - csak fogadjuk el, hogy csak a jelen létezik, és akkor majd talán kevésbé szorongva érezhetjük magunkat benne
+
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="pihenes"></a>A pihenés újrafelfedezése
@@ -340,6 +446,19 @@ A tartalom a következőképp alakul:
 
 " In an age of instrumentalisation, the hobbyist is a subversive"
 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 ## <a name="turelmetlenseg"></a>A türelmetlenség spirál
 
 - minél nagyobb a város, a dudálásoknak annál kisebb százaléka szolgál valós célt (mint például veszélyre figyelmeztetést, vagy egy elmulasztott lámpa váltást)
@@ -367,6 +486,19 @@ A tartalom a következőképp alakul:
     - amint ezen átbillenünk, minden más lesz
     - semmi nem gyorsul fel, de már nem is várjuk, hogy olyan gyorsak legyenek a dolgok, és így juthatunk el a türelemhez
 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 ## <a name="busz"></a>Maradjunk a buszon
 
 - 3 órás festmény nézés
@@ -393,6 +525,19 @@ A tartalom a következőképp alakul:
         - hasonlat: minden busz kb. ugyanazon az útvonalon hagyja el a várost, és csak aztán ágaznak szét mindenféle távoli cél felé
             - merjünk a közhelyes, kitaposott útvonalon utazni, és maradjunk a buszon elég ideig, hogy eljuthassunk az egyediségig
 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## <a name="magany"></a>A digitális nomádok magánya
 
@@ -417,6 +562,18 @@ All this comes with political implications, too, because grassroots politics –
 
 kollektív, kommunális szabadság > totális individuális szabadság
 
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="jelentektelenseg"></a>Kozmikus jelentéktelenség terápia
@@ -427,6 +584,11 @@ kollektív, kommunális szabadság > totális individuális szabadság
 - az életünk jó esetben is egy szempillantásig tart, és a kozmikus skálán mérve szart se jelent
     - ez pedig jó hír, mert végre elengedhetjük általa azt a tévképzetünket, hogy milyen lécet és kéne megugrania az életünknek
     - aki jelentéktelennek érzi az életét, annál nem feltétlen az a baj, amit csinál, csak az, amilyen magasra a "jelentősség" mércéjét felhelyezte
+
+<br>
+
+
+
 
 
 
