@@ -371,29 +371,29 @@ Valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkés
 
 ## <a name="jelen"></a>Itt vagyunk, most vagyunk
 
-- minél inkább "jól" és "hatékonyan" akarunk felhasználni minden napot egy jövőbeli cél érdekében, annál inkább a jövőben élünk fejben
-    - a jelent meg jó esetben is *tűrjük*, amíg oda nem érünk
-    - ezért veszélyes sokszor a siker is: mert általában azok jutnak oda, akik minél jobban megtanulták a jövő érdekében használni a jelenüket, és ezen akkor sem változtatnak, ha már "oda" érnek, így szinte borítékolható az állandó boldogtalanság
-- nyilván nem teljes hülyeség erőforrásként tekinteni az időre, amit a jövőért használunk, mert különben gyorsan kifutnánk a tiszta alsógatyákból
-    - de mi szokás szerint túl messzire megyünk
-    - annyira hozzászokunk, hogy "ha majd egyszer" jelleggel gondolkozunk, hogy benne ragadunk
-    - és még ha egyszer tényleg sikerül is elérni, amiért most robotolunk, addigra már lesz valami más, amiért robotolhatunk
-    - ha mindig kergetünk valamit, akkor soha nem leszünk itt
-- gyereknevelési vonatkozások: egy gyerek nem csak azért létezik, hogy felnőtt legyen belőle
-    - természetesen fél szemmel figyeljük a jövőt, de azért ne felejtsük el a gyerek-ségét sem kiélvezni (és neki is hagyni, hogy élvezze, ne csak a későbbi eredményekre készüléssel teljen)
-- mindenből van egy utolsó alkalom
-    - amikor utoljára beszélgetünk valakivel, amikor utoljára ehetjük a kedvenc kajánkat, amikor utoljára úszunk a tengerben
-    - de ezek közben ritkán tudható előre, hogy ez lesz az utolsó alkalom
-    - ha tudnánk, más szemmel, más szintű odafigyeléssel és hálával élnénk meg, nem?
-    - na, optimális esetben így kéne megélni mindent
+Minél inkább "jól" és "hatékonyan" akarunk felhasználni minden napot egy jövőbeli cél érdekében, annál inkább a jövőben élünk fejben.
+A jelent meg jó esetben is *tűrjük*, amíg oda nem érünk.
+Ezért veszélyes sokszor a siker is: mert általában azok jutnak oda, akik minél jobban megtanulták a jövő érdekében használni a jelenüket, és ezen akkor sem változtatnak, ha már "oda" érnek, így szinte borítékolható az állandó boldogtalanság.
 
-- ahogy a gyakran mantrázott "arany középút" sugallhatja, a spektrum másik vége sem folyik tejjel-mézzel
-    - ha hallgatunk a tudatosságos/meditációs tanácsokra, és minél erőszakosabban akarunk a jelenben lenni, általában annál kevésbé sikerül
-    - talán mert itt is "kihasználni" akarjuk az időt, csak most nem a jövő, hanem a jelen felfokozása érdekében
-    - nincs értelme "ki"-nyerni az élet velejét, mert az életen kívül nincs semmi. Hova ki?
+Nyilván nem teljes hülyeség erőforrásként tekinteni az időre, amit a jövőért használunk, mert különben gyorsan kifutnánk a tiszta alsógatyákból.
+De mi szokás szerint túl messzire megyünk: annyira hozzászokunk, hogy "ha majd egyszer" jelleggel gondolkozunk, hogy benne ragadunk.
+És még ha egyszer tényleg sikerül is elérni, amiért most robotolunk, addigra már lesz valami más, amiért robotolhatunk.
+Ha mindig kergetünk valamit, akkor soha nem leszünk itt.
 
-- vagyis nem mondjuk azt sem, hogy legyünk egyből szerzetesek
-    - csak fogadjuk el, hogy csak a jelen létezik, és akkor majd talán kevésbé szorongva érezhetjük magunkat benne
+Segíthet, ha arra gondolunk, hogy mindenből van egy utolsó alkalom.
+Amikor utoljára beszélgetünk valakivel; amikor utoljára ehetjük a kedvenc kajánkat; amikor utoljára úszunk a tengerben.
+De ezek közben ritkán tudható előre, hogy ez lesz az utolsó alkalom.
+Pedig ha tudnánk, akkor egyből más szemmel, más szintű odafigyeléssel és hálával élnénk meg, nem?
+Na, optimális esetben így kéne megélni mindent.
+
+Ahogy a gyakran mantrázott "arany középút" sugallhatja azonban, a spektrum másik vége sem folyik tejjel-mézzel.
+Ha hallgatunk a tudatosságos/meditációs tanácsokra, és minél erőszakosabban akarunk a jelenben lenni, általában annál kevésbé sikerül.
+Talán mert itt is "kihasználni" akarjuk az időt, csak most nem a jövő, hanem a jelen felfokozása érdekében.
+Nincs értelme "ki"-nyerni az élet velejét, mert az életen kívül nincs semmi.
+Hova ki?
+
+Vagyis nem mondjuk azt sem, hogy legyünk egyből szerzetesek.
+Egyszerűen fogadjuk el, hogy csak a jelen létezik, és akkor majd talán kevésbé szorongva érezhetjük magunkat benne.
 
 <br>
 
@@ -410,41 +410,45 @@ Valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkés
 
 ## <a name="pihenes"></a>A pihenés újrafelfedezése
 
-- gyakran hallani a kiégés és a túldolgoztatás ellen
-    - de legtöbbször csak olyankor, amikor az már gazdasági kárt okoz
-    - vagy azért, hogy hogyan okozhatna gazdasági előnyt, ha nem lenne ilyen súlyos
-    - de miért is az az alapértelmezés, hogy gazdasági szemszögéből magyarázzuk az életünket?
-- megint az Ipari Forradalom
-    - előtte a lazítás volt az élet közepe, amit a munka megszakított
-    - nyilván nem mindenkinek (lásd rabszolgák), de még az átlag parasztnak sem volt akkora hajtás, mint a modern munkásnak
-    - azóta viszont a munka és a produktivitás lett az élet középpontja
-        - és pihenni is csak azért pihenünk, hogy utána produktívabban folytathassuk a munkát
-        - vagy akár magát a pihenésünket is valami cél felé irányítjuk, mert egyszerűen az agyunk nem bírja elviselni, hogy valamit önmagáért csinálunk (lásd maratonra edzés kontra egyszerűen elmenni futni)
-    - oké, azóta a szabadidő is "szabadabb", kötöttség-mentesebb
-        - és a munka sem olyan gerincsérv-indukáló általában
-        - de az igazi kárt a mentális átállás okozta, ami a munkát tette a létezés csúcsára
-            - ezt kéne hátrahagyni
-            - és bátran, hangosan kiröhögni, aki ragaszkodik ehhez
-            - mert nem ám csak úgy fogják mondani, hogy ennek szerintük így kéne lennie -- hanem úgy, hogy ez *természetesen így van*, és mit képzelünk mi magunkról, hogy megkérdőjelezni merjük a kapitalizmus centrális fogaskerekét
+Gyakran hallani a kiégés és a túldolgoztatás ellen -- de legtöbbször csak olyankor, amikor az már gazdasági kárt okoz.
+Vagy azért, hogy hogyan okozhatna gazdasági előnyt, ha nem lenne ilyen súlyos a mértéke.
+De miért is az az alapértelmezés, hogy gazdasági szemszögéből magyarázzuk az életünket?
 
- ‘If the satisfaction of an old man drinking a glass of wine counts for nothing,’ wrote Simone de Beauvoir, ‘then production and wealth are only hollow myths; they have meaning only if they are capable of being retrieved in individual and living joy.’
+A válasz, szokás szerint, megint az Ipari Forradalom.
+Előtte a lazítás volt az élet közepe, amit a munka megszakított.
+Nyilván nem mindenkinek (lásd rabszolgák), de még az átlag parasztnak sem volt akkora hajtás, mint a modern munkásnak.
 
-- Shabbat
-    - ami ma radikálisan régimódinak tűnhet, de pont azt akarja érzékeltetni, hogy a pihenés nagyon fontos
-    - annyira fontos, hogy elő kell készülni rá -- nem csak úgy abbahagyni a munkát és kész
+Azóta viszont a munka és a produktivitás lett az élet középpontja.
+És pihenni is csak azért pihenünk, hogy utána produktívabban folytathassuk a munkát.
+Vagy akár magát a pihenésünket is valami cél felé irányítjuk, mert egyszerűen az agyunk nem bírja elviselni, hogy valamit önmagáért csinálunk (lásd maratonra edzés kontra egyszerűen elmenni futni).
 
- ‘Nothing is more alien to the present age than idleness,’ writes the philosopher John Gray.17 He adds: ‘How can there be play in a time when nothing has meaning unless it leads to something else?’
+Oké, azóta a szabadidő is "szabadabb", kötöttség-mentesebb.
+És a munka sem olyan gerincsérv-indukáló általában.
+De az igazi kárt a mentális átállás okozta, ami a munkát tette a létezés csúcsára.
+Ezt kéne hátrahagyni!
+És bátran, hangosan kiröhögni, aki ragaszkodik ehhez!
+Mert nem ám csak úgy fogják mondani, hogy ennek szerintük így kéne lennie -- hanem úgy, hogy ez *természetesen így van*, és mit képzelünk mi magunkról, hogy megkérdőjelezni merjük a kapitalizmus centrális fogaskerekét.
 
-     That discomfort isn’t a sign that you shouldn’t be doing it, though. It’s a sign that you definitely should. (!!)
+> Ha semmit nem számít az az elégedettség, amit egy öregember borozgatás közben érez, akkor a termelés és a vagyon üres mítoszok csupán; csak akkor van jelentésük, ha egyéni, élő örömben is felhasználhatóak.
+>
+> -- Simone de Beauvoir
+>> If the satisfaction of an old man drinking a glass of wine counts for nothing, then production and wealth are only hollow myths; they have meaning only if they are capable of being retrieved in individual and living joy.
 
-- vegyük a vidéki séta/túra példáját
-    - abban nem kell "jónak" lenni, mert járni kb. mindenki tud, és más nem is kell
-    - és nem kell hatékonynak lenni sem, mert a túra ugyanott végződik, ahol kezdődött -- vagyis a leghatékonyabb az lenne, ha el se mennénk
-    - és mégis mekkora élményt és kikapcsolódást tud adni!
+Itt jön fel megint a Kék Zónáknál is emlegetett *sábát* (Shabbat, avagy [Nyugalomnap](https://hu.wikipedia.org/wiki/Nyugalomnap){:target="_blank"}), ami ma radikálisan régimódinak tűnhet ugyan, de pont azt akarja érzékeltetni, hogy a pihenés mennyire fontos.
+A szabályok miatt konkrétan elő kell készülni rá -- nem csak úgy abbahagyni a munkát és kész.
 
-- midlife crisis: because midlife is when many of us first become consciously aware that mortality is approaching – and mortality makes it impossible to ignore the absurdity of living solely for the future.
+Vagy vegyük egy vidéki séta példáját.
+Abban nem kell "jónak" lenni, mert járni kb. mindenki tud, és más nem is kell.
+Illetve nem kell hatékonynak lenni sem, mert a túra ugyanott végződik, ahol kezdődött -- vagyis a leghatékonyabb az lenne, ha el se mennénk.
+És mégis mekkora élményt és kikapcsolódást tud adni!
 
-" In an age of instrumentalisation, the hobbyist is a subversive"
+> Semmi sem idegenebb a jelenkorban, mint a tétlenség. [...] Hogyan létezhetne játék egy olyan időszakban, ahol semminek nincs értelme hacsak nem vezet valami máshoz?
+>
+> -- John Gray
+>> Nothing is more alien to the present age than idleness. [...] How can there be play in a time when nothing has meaning unless it leads to something else?
+
+Ez a kellemetlenség és kultúrális vonakodás azonban nem jelenti, hogy ne kéne játszanunk.
+Pont azt jelenti, hogy nagyon is játszanunk kéne!
 
 <br>
 
@@ -461,30 +465,38 @@ Valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkés
 
 ## <a name="turelmetlenseg"></a>A türelmetlenség spirál
 
-- minél nagyobb a város, a dudálásoknak annál kisebb százaléka szolgál valós célt (mint például veszélyre figyelmeztetést, vagy egy elmulasztott lámpa váltást)
-    - a többi egyszerűen annyit jelent: "Haladjunk mááár!"
-    - mi az, hogy nem mi diktáljuk a tempót? hogy mernek az utunkba állni? stb.
-- ez a vezetés közben feltűnőbb, de az életünk egyéb területére is hajlamosak vagyunk beengedni az irányításmániát
-    - egyebek közt ezt is próbálja orvosolni a legtöbb filozófiai iskola, köztük a Taoizmus
-    - hajoljunk meg a szélben, ne törjünk; folyjunk mint egy folyó, megkerülve az akadályokat
-    - a lényeg, hogy fogadjuk el a világot olyannak, amilyen, és *vele* próbáljunk dolgozni, ne ellene
-        - ha ellene dolgozunk, csúnyán ki fogunk kapni
-- gondoljunk csak bele, hogy a gőzmozdony óta mennyit gyorsult minden
-    - és mégis nem hogy elégedettek, de annál türelmetlenebbek vagyunk
-    - Burkeman szerint ez azért lehet, mert minden egyes gyorsítás azt ígéri, hogy na majd most végre átléphetjük a limitációinkat
-    - hogy na majd most végre teljesen uralhatjuk az időnket -- amit ugye láttunk, hogy soha nem fogunk
-- még ha személyesen meg is oldjuk, az a társadalmi elvárásokat nem igazán fogja befolyásolni -- vagy legalábbis nagyon lassan, ha elegen hozzájárulunk
-- csak nézzük meg, mi történt az olvasással...
-- sebesség függőség ~ alkoholizmus
-    - szorongunk, hogy nem fér bele minden, ezért gyorsítunk, ami miatt csak egyre jobban szorongunk és tovább próbálunk gyorsítani
-    - mint az alkesz, aki a negatív érzéseit próbálja italba fojtani, de ezzel hosszú távon csak még több negatív érzéshez jut, amit még több italba fojtana
-    - nyilván testileg nem annyira pusztító a hatása, de az alatta meghúzódó pszichológiai mechanizmus kb. ugyanaz
-        - és az alkoholizmussal szemben a sebesség mániát a jelen kor társadalma nem hogy stigmatizálná, de ünnepli!
-        - ó, milyen motivált! micsoda dedikáció! jha hogy közben szarrá ki van égve? az mindegy.
-- ezért lehet hasznos sebesség függőként is az anonim alkoholistákhoz fordulni tanácsért
-    - a híres 12 lépéses programjuk rögtön úgy kezdődik, hogy fogadjuk el, hogy nincs hatalmunk az piálásunk (vagy itt, időnk) felett
-    - amint ezen átbillenünk, minden más lesz
-    - semmi nem gyorsul fel, de már nem is várjuk, hogy olyan gyorsak legyenek a dolgok, és így juthatunk el a türelemhez
+Megfigyeltétek már, hogy minél nagyobb a város, a dudálásoknak annál kisebb százaléka szolgál valós célt -- mint például veszélyre figyelmeztetést, vagy egy ténylegesen elmulasztott lámpa váltást?
+A többi egyszerűen annyit jelent: "Haladjunk mááár!"
+Mi az, hogy nem mi diktáljuk a tempót?
+Hogy mernek az utunkba állni?
+
+Ez talán a vezetés közben a legfeltűnőbb, de az életünk egyéb területére is hajlamosak vagyunk beengedni az irányításmániát.
+Egyebek közt ezt is próbálja orvosolni a legtöbb filozófiai iskola, köztük a könyvben példaként hozott Taoizmus.
+Hajoljunk meg a szélben, ne törjünk; folyjunk mint egy folyó, megkerülve az akadályokat; stb.
+A lényeg, hogy fogadjuk el a világot olyannak, amilyen, és *vele* próbáljunk dolgozni, ne ellene.
+Ha ellene dolgozunk, csúnyán ki fogunk kapni.
+
+Gondoljunk csak bele, hogy a gőzmozdony óta mennyit gyorsult minden.
+És mégis nem hogy elégedettek, de annál türelmetlenebbek vagyunk.
+Burkeman szerint ez azért lehet, mert minden egyes gyorsítás azt ígéri, hogy na majd most végre átléphetjük a limitációinkat.
+Hogy na majd most végre teljesen uralhatjuk az időnket -- amit ugye láttunk, hogy soha nem fogunk.
+És még ha személyesen meg is oldanánk ezt a hozzáállást, az a társadalmi elvárásokat nem igazán fogja befolyásolni -- vagy legalábbis nagyon lassan, ha elegen hozzájárulunk.
+
+Egy nagyon hasznos hasonlat: a sebesség függőség kb. olyan, mint az alkoholizmus.
+Szorongunk, hogy nem fér bele minden, ezért gyorsítunk, ami miatt csak egyre jobban szorongunk és tovább próbálunk gyorsítani.
+Mint az alkesz, aki a negatív érzéseit próbálja italba fojtani, de ezzel hosszú távon csak még több negatív érzéshez jut, amit még több italba fojtana.
+Nyilván testileg nem annyira pusztító a kapkodás hatása, de az alatta meghúzódó pszichológiai mechanizmus kb. ugyanaz.
+És az alkoholizmussal szemben a sebesség mániát a jelen kor társadalma nem hogy stigmatizálná, de ünnepli!
+Ó, milyen motivált!
+Micsoda dedikáció!
+Jha hogy közben szarrá ki van égve?
+Az mindegy.
+<small>(Amíg termel... Majd akkor lesz baj, ha már annyira ki van égve, hogy nem is termel.)</small>
+
+Ezért lehet hasznos sebesség függőként is az anonim alkoholistákhoz fordulni tanácsért.
+És lám, az ő híres 12 lépéses programjuk rögtön így kezdődik: **1)** fogadjuk el, hogy nincs hatalmunk a piálásunk (vagy itt, időnk) felett!
+Amint ezen átbillenünk, minden más lesz.
+Persze semmi nem gyorsul fel, de onnantól már majd nem is várjuk, hogy olyan gyorsak legyenek a dolgok, és így juthatunk el a türelemhez.
 
 <br>
 
@@ -501,29 +513,32 @@ Valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkés
 
 ## <a name="busz"></a>Maradjunk a buszon
 
-- 3 órás festmény nézés
-    - csak akkor kezdődik az igazi élmény, amikor feladjuk az irányításkényszerünket
-    - amikor elfogadjuk, hogy nem tudjuk diktálni a tempót; elfogadjuk az unalmat, a szorongást, és ezek ellenére is tudatosan "benne ragadunk"
-    - és érdekes módon ilyenkor olyan dolgok jönnek elő, amiket amúgy nagy sietségünkben és figyelmetlenségünkben nem vennénk észre
-- és ha a párhuzam nem lenne elég magától értetődő, hadd betűzzem le: ez a helyzet az egész élettel is, nem csak a festmények nézegetésével
-    - ha nem szánjuk rá az időt, hogy megéljük az élményeinket, akkor csak a felületes dolgokat fogjuk észrevenni
-- ilyen szempontból a türelem kb. tekinthető a kreativitás üzemanyagának is.
+Egy Harvardi művtöri kurzuson híres házifeladat a "3 órás festmény nézés", amikor (a név alapján talán nem túl meglepő módon) a diákoknak 3 óráig kell egyetlen kiválasztott festményt tanulmányozniuk.
+És hogy ezekből kiszámíthatóan milyen mély és váratlan megfigyelések keletkeznek, az szépen példázza: csak akkor kezdődik az igazi élmény, amikor feladjuk az irányításkényszerünket.
+Amikor elfogadjuk, hogy nem tudjuk diktálni a tempót; elfogadjuk az unalmat, a szorongást, és ezek ellenére is tudatosan "benne ragadunk".
+Ilyenkor olyan dolgok jönnek elő, amiket amúgy nagy sietségünkben és figyelmetlenségünkben nem vennénk észre.
 
-- három szabály
-    - ne kerülni próbáljuk a problémákat; szokjunk hozzá, hogy problémáink vannak, amiket meg lehet oldani (lásd Manson, jobb problémák)
-        - mert ha azt hisszük (tévesen), hogy nem kéne problémáinknak lennie, vagy hogy valaha lesz majd olyan Kánaán, amikor nem lesznek problémáink, az csak eltereli a figyelmet magukról a problémákról
-        - a "problémák" nem akadályozzák a jelentőségteljes életet, hanem épp azok teszik lehetővé
-        - ha nem lennének problémáink, minek kelnénk ki az ágyból egyáltalán?
-    - radikális inkrementalizmus -- vagyis, fogadjuk el, hogy látványosan, veszélyesen keveseket csinálunk, de azt annyira rendszeresen és sokáig, hogy kb. beüt a pénzügyek világából ismeretes kamatos kamat
-        - ne legyen túl nagy a napi kvóta
-        - és álljunk meg, ha megütöttük!
-        - csak üssük meg minden nap
-    - originality lies on the far side of unoriginality -- az egyediség az utánzáson TÚL található
-        - vagyis nem pont a másik irányba kell indulni
-        - és nem azt hinni, hogy rosszfelé haladunk, ha sablonosak vagyunk
-        - az csak azt jelenti, hogy MÉG sablonosak vagyunk
-        - hasonlat: minden busz kb. ugyanazon az útvonalon hagyja el a várost, és csak aztán ágaznak szét mindenféle távoli cél felé
-            - merjünk a közhelyes, kitaposott útvonalon utazni, és maradjunk a buszon elég ideig, hogy eljuthassunk az egyediségig
+És ha a párhuzam nem lenne elég magától értetődő, hadd betűzzem le: ez a helyzet az egész élettel is, nem csak a festmények nézegetésével.
+Ha nem szánjuk rá az időt, hogy megéljük az élményeinket, akkor csak a felületes dolgokat fogjuk észrevenni.
+Ilyen szempontból a türelem kb. tekinthető a kreativitás üzemanyagának is.
+Burkeman három javaslata a témában:
+
+1. **Ne próbáljuk kerülni a problémákat!**
+Inkább szokjunk hozzá, hogy problémáink vannak, amiket meg lehet oldani (lásd [Manson]({% post_url 2022-08-14-mark-manson-a-leszarom-rafinalt-muveszete %})).
+Mert ha azt hisszük (tévesen), hogy nem kéne problémáinknak lennie, vagy hogy valaha lesz majd olyan Kánaán, amikor nem lesznek problémáink, az csak eltereli a figyelmet magukról a problémákról.
+A "problémák" pedig nem hogy akadályoznák a jelentőségteljes életet, hanem épp azok teszik lehetővé!
+Ha nem lennének problémáink, minek kelnénk ki az ágyból egyáltalán?
+
+2. **Radikális inkrementalizmus!**
+Vagyis fogadjuk el, hogy látványosan, veszélyesen keveseket csinálunk, de azt annyira rendszeresen és sokáig, hogy kb. beüt a pénzügyek világából ismeretes kamatos kamat (lásd [A kiégés elkerüléséről]({% post_url 2022-01-22-a-kieges-elkeruleserol %})).
+Ne legyen túl nagy a napi kvóta -- és nyugodtan álljunk meg, ha megütöttük!
+Csak üssük meg minden nap!
+
+3. **Az egyediség nem az utánzással ellenkező irányban, hanem az utánzáson <u>túl</u> található!**
+Vagyis nem pont a másik irányba kell indulni; és nem azt hinni, hogy rosszfelé haladunk, ha sablonosak vagyunk (lásd [Kleon]({% post_url 2022-10-28-austin-kleon-mutasd-meg-magad %})).
+Az csak azt jelenti, hogy **még** sablonosak vagyunk.
+Avagy a szerző hasonlatával (ami a szekció címét is adja): minden busz kb. ugyanazon az útvonalon hagyja el a várost, és csak aztán ágaznak szét mindenféle távoli cél felé.
+Szóval merjünk a közhelyes, kitaposott útvonalon utazni, és maradjunk a buszon elég ideig, hogy eljuthassunk az egyediségig.
 
 <br>
 
@@ -541,10 +556,11 @@ Valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkés
 
 ## <a name="magany"></a>A digitális nomádok magánya
 
-- tradicionális javak kontra hálózati javak
-    - a pénzből önmagában is jobb, ha több van, mint kevesebb
-        - de telefonból például nem. ott az a fontos, hogy hány embernek van telefonja, nekünk meg elég egy is
-    - és az idő inkább egy kapcsolataiban értelmezhető erőforrás - hiába lesz nekünk végtelen sok időnk, amit teljesen mi irányítunk, ha az másokkal nincs szinkronizálva
+Érdemes különbséget tennünk a tradicionális javak és az ún. "hálózati javak" között.
+A pénzből például önmagában is jobb, ha több van, mint kevesebb.
+De telefonból mondjuk nem.
+Ott az a fontos, hogy hány embernek van telefonja, nekünk meg elég egy is.
+És az idő inkább egy kapcsolataiban értelmezhető erőforrás - hiába lesz nekünk végtelen sok időnk, amit teljesen mi irányítunk, ha az másokkal nincs szinkronizálva
     - nem lesznek kapcsolataink, nem vehetünk részt sem a technológiai, sem politikai fejlődés folyamatában... klisével élve: nem tehetjük jobbá a világot, ha nem vagyunk a világ részei
 - vagyis szép és jó, ha irányíthatjuk a saját időbeosztásunkat
     - de azt azért úgy irányítsuk, hogy ne szakadjunk el teljesen a társadalomtól
@@ -614,3 +630,7 @@ kollektív, kommunális szabadság > totális individuális szabadság
 3. Milyen területeken kell elfogadnunk, hogy azok vagyunk, akik vagyunk - nem akiknek hisszük, hogy lennünk kellene?
 4. Milyen területeken fogjuk vissza magunkat addig a (képzeletbeli) jövőbeli pillanatig, amikor már majd eléggé értünk hozzá?
 5. Mit csinálnánk a napról-napra szinten akkor is, ha tudnánk, hogy a mi életünkben nem lesz látványos eredménye?
+
+
+
+A kapcsolódóként linkelt egyéb bejegyzések számából szerintem szépen látszik, hogy ez mennyire nem csak egy `N+1`-edik produktivitás könyv.
