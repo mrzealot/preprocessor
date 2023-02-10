@@ -560,23 +560,20 @@ Szóval merjünk a közhelyes, kitaposott útvonalon utazni, és maradjunk a bus
 A pénzből például önmagában is jobb, ha több van, mint kevesebb.
 De telefonból mondjuk nem.
 Ott az a fontos, hogy hány embernek van telefonja, nekünk meg elég egy is.
-És az idő inkább egy kapcsolataiban értelmezhető erőforrás - hiába lesz nekünk végtelen sok időnk, amit teljesen mi irányítunk, ha az másokkal nincs szinkronizálva
-    - nem lesznek kapcsolataink, nem vehetünk részt sem a technológiai, sem politikai fejlődés folyamatában... klisével élve: nem tehetjük jobbá a világot, ha nem vagyunk a világ részei
-- vagyis szép és jó, ha irányíthatjuk a saját időbeosztásunkat
-    - de azt azért úgy irányítsuk, hogy ne szakadjunk el teljesen a társadalomtól
-        - és ne hagyjuk azt sem, hogy a munka teljesen beszivárogjon mindenhova, ha már nincsenek éles határai
-    - svéd kutatás: habár az emberek boldogabbak a vakációik alatt, akkor még boldogabbak, amikor másokkal egyszerre időzítik a vakációjukat (mert akkor több az esély a közös programra, a szocializálódásra, stb.)
-- negatív példa: szoviet 5 napos, csúsztatott munkahét
-    - ahol az erőszakosan szinkronizálhatatlan napirend miatt az a kevés szabadidő sem volt igazán élvezetes, ami volt
 
->>  But even for those of us who genuinely do have much more personal control over when we work than previous generations ever did, the result is that work seeps through life like water, filling every cranny with more to-dos
+És az idő inkább egy kapcsolataiban értelmezhető erőforrás -- hiába lesz nekünk végtelen sok időnk, amit teljesen mi irányítunk, ha az másokkal nincs szinkronizálva.
+Nem lesznek kapcsolataink, nem vehetünk részt sem a technológiai, sem politikai fejlődés folyamatában...
+Klisével élve: nem tehetjük jobbá a világot, ha nem vagyunk a világ részei.
 
-- politikai kapcsolat
+Vagyis szép és jó, ha irányíthatjuk a saját időbeosztásunkat, de azt azért úgy irányítsuk, hogy ne szakadjunk el teljesen a társadalomtól.
+És ne hagyjuk azt sem, hogy a munka teljesen beszivárogjon mindenhova, ha már nincsenek éles határai.
+Egy svéd kutatás szerint habár az emberek boldogabbak a vakációik alatt, akkor még boldogabbak, amikor másokkal egyszerre időzítik a vakációjukat (mert akkor több az esély a közös programra, a szocializálódásra, stb.).
+Az ellenpélda pedig a szoviet korszakból ismert 5 napos, csúsztatott munkahét, ahol az erőszakosan szinkronizálhatatlan napirend miatt az a kevés szabadidő sem volt igazán élvezetes, ami volt.
 
->> 
-All this comes with political implications, too, because grassroots politics – the world of meetings, rallies, protests and canvassing – are among the most important coordinated activities that a desynchronised population finds it difficult to get round to doing. The result is a vacuum of collective action, which gets filled by autocratic leaders, who thrive on the mass support of people who are otherwise disconnected – alienated from one another, stuck at home on the couch, a captive audience for televised propaganda.
+Sőt, mindennek politikai vonatkozatai is vannak, hiszen ha nem vagyunk kapcsolatban a többiekkel, akkor az önálló kezdeményezések, meetingek, tüntetések, gyűlések, vagy ajtóról ajtóra járások kb. ellehetetlenednek.
+Ez egy kollektív tevékenység vákuumhoz vezet, aminek köszönhetően csak úgy burjánzanak az autokrata, demagóg vezetők (lásd [Diktátorok kézikönyve]({% post_url 2022-01-15-bruce-bueno-de-mesquita-alastair-smith-diktatorok-kezikonyve %})).
 
-kollektív, kommunális szabadság > totális individuális szabadság
+Röviden, amit mondani szeretnénk: kommunális szabadság > totális individuális szabadság.
 
 <br>
 
@@ -594,12 +591,14 @@ kollektív, kommunális szabadság > totális individuális szabadság
 
 ## <a name="jelentektelenseg"></a>Kozmikus jelentéktelenség terápia
 
-- az emberi civilizáció 6000 éves történelme mérhetetlenül hosszúnak tűnik, amit korszkokra kell bontanunk az átláthatóság kedvéért
-    - de 100 éves nagyikkal/nagypapákkal számolva az mindössze 60 emberrel ezelőtt volt!
-    - ebben a Sapiens evolúciót nem is nézzük, pedig még az is szempillantás a Földhöz képest, pláne az Univerzumhoz
-- az életünk jó esetben is egy szempillantásig tart, és a kozmikus skálán mérve szart se jelent
-    - ez pedig jó hír, mert végre elengedhetjük általa azt a tévképzetünket, hogy milyen lécet és kéne megugrania az életünknek
-    - aki jelentéktelennek érzi az életét, annál nem feltétlen az a baj, amit csinál, csak az, amilyen magasra a "jelentősség" mércéjét felhelyezte
+És a végére némi extra szemléletmód kalibráció, ami a könyv általános hangvételének megfelelően egyszerre lehangoló és felemelő.
+Vegyük az emberi civilizáció 6000 éves történelmét, ami első hallásra mérhetetlenül hosszúnak tűnik, és korszkokra kell bontanunk az átláthatóság kedvéért.
+De precízen szinkronizált 100 éves nagyikkal/nagypapákkal számolva az egész mindössze 60 darab emberrel ezelőtt volt!
+És ebben a Sapiens faj evolúcióját nem is nézzük, csak a civilizációs részt -- pedig még a Sapiens is egy vadonatúj fejlemény a Földhöz képest, pláne az Univerzumhoz.
+
+Az életünk jó esetben is egy szempillantásig tart, és a kozmikus skálán mérve szart se jelent.
+De ez pedig jó hír, mert végre elengedhetjük általa azt a tévképzetünket, hogy a létezésünknek milyen lécet is kéne megugrania.
+Aki jelentéktelennek érzi az életét, annál nem feltétlen az a baj, amit csinál, csak az, amilyen magasra a "jelentősség" mércéjét felhelyezte.
 
 <br>
 
@@ -616,21 +615,18 @@ kollektív, kommunális szabadság > totális individuális szabadság
 
 ## Összefoglalás
 
+A kapcsolódóként linkelt egyéb bejegyzések számából szerintem szépen látszott, hogy ez mennyire nem csak egy `N+1`-edik produktivitás könyv.
+És mint bármelyik kicsit is mélyebb gondolkozó könyv, itt is filozófiai vonzatoknál kötünk ki.
 
-- szembe kell nézni a kórságunkkal
-    - csak csak úgy érhetjük el, hogy egyáltalán itt lehessünk
-    - és ne a jövőért létezzünk
+A fő tanulság szerint tömören úgy foglalható össze, hogy nézzünk szembe a korlátainkkal.
+Egyrészt az általános emberi korláttal, miszerint egyszer (relatíve nagyon hamar) meg fogunk halni.
+Másrészt a modern, Ipari Forradalom óta jellemző korláttal, miszerint a véges életünk nem végteleníthető azáltal, hogy végtelen mennyiségű dolgot próbálunk beletuszkolni.
+Ezeket elfogadni először keserű orvosság, de aztán pont ezek teszik lehetővé, hogy tényleg azt kezdjünk az életünkkel, amit szeretnénk.
 
->>  Christian Bobin, he recalls, at a similarly mundane moment: ‘I was peeling a red apple from the garden when I suddenly understood that life would only ever give me a series of wonderfully insoluble problems.4 With that thought an ocean of profound peace entered my heart.’
+Extra segítségként zárjunk Burkeman 5 kérdésével, amit feltehetünk magunknak a mentális átbillenés megolajozásához:
 
-5 kérdés, ami segíthet
-
-1. Mi az most a munkánkban vagy életünkben, ahol kényelmet keresünk, pedig inkább a kényelmetlenséget kéne jobban tűrnünk?
-2. Nem lehetetlenek azok a produktivitási mércék, amit alapján megítéljük magunkat?
-3. Milyen területeken kell elfogadnunk, hogy azok vagyunk, akik vagyunk - nem akiknek hisszük, hogy lennünk kellene?
+1. Mi az most a munkánkban vagy az életünkben, ahol kényelmet keresünk, pedig inkább a kényelmetlenséget kéne jobban tűrnünk?
+2. Nem lehetetlenek azok a produktivitási mércék, amik alapján megítéljük magunkat?
+3. Milyen területeken kell elfogadnunk, hogy azok vagyunk, akik vagyunk -- nem akiknek hisszük, hogy lennünk kellene?
 4. Milyen területeken fogjuk vissza magunkat addig a (képzeletbeli) jövőbeli pillanatig, amikor már majd eléggé értünk hozzá?
 5. Mit csinálnánk a napról-napra szinten akkor is, ha tudnánk, hogy a mi életünkben nem lesz látványos eredménye?
-
-
-
-A kapcsolódóként linkelt egyéb bejegyzések számából szerintem szépen látszik, hogy ez mennyire nem csak egy `N+1`-edik produktivitás könyv.
