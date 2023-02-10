@@ -4,7 +4,7 @@ title: Oliver Burkeman - 4000 hét
 cover: 4000weeks
 tags: [szemléletmód, produktivitás]
 pages: 272
-date: 2023-02-15 00:01
+date: 2023-02-10 00:01
 excerpt: >
     Ennek az állítólagos idő menedzsment könyvnek a valódi tartalmáról már a borítón elfonnyadó banán is árulkodik, de maga a szerző sem árul zsákba macskát: faltól falig kapjuk a képünkbe a szégyentelenül nyers és lehangoló halál fókuszt.
     És valahogy mégis sikerül megkönnyebbülve, fellélegezve, időnk biztosabb terelgetési képességével a zsebünkben távozni a kasszától.
@@ -73,7 +73,7 @@ De láthatóan hiába gyorsítjuk őket, ha velük együtt az elvárásainkat is
 Nem törődünk vele, hogy egy chat üzenet például ezernyi kilométer kábelen és számtalan routeren halad keresztül, vagy hogy hányszor gyorsabban teszi ezt, mint régen a posta -- ha töltés ikon egy pillanatra is "karikázni" mer, akkor fel vagyunk háborodva (lásd Louis CK [vicces monológja](https://www.youtube.com/watch?v=aGnMbKwP36U){:target="_blank"}).
 
 Mindünkben (vagy, legalábbis, sokunkban) ott motoszkál, hogy valami nincs rendben a világgal.
-És nem ilyen Mátixos, Morpheus-os módon, hogy ne lenne valódi -- inkább olyan értelemben, hogy nagyon nem így kéne csinálni a dolgokat.
+És nem ilyen Mátrixos, Morpheus-os módon, hogy ne lenne valódi -- inkább olyan értelemben, hogy nagyon nem így kéne csinálni a dolgokat.
 Hogy lehetne ezt sokkal jobban, emberibben is.
 És amíg ezzel nem nézünk szembe, addig a produktivitás csak abban tud segíteni, hogy gyorsabban tekerhessük a mókuskereket.
 
@@ -173,15 +173,15 @@ Mert csak így tudjuk elkerülni, hogy a megnövelt hatékonyságunk mindössze 
 Csak akkor hozhatunk megfontoltabb döntéseket arról, hogy mi férjen bele az időnkbe, ha elfogadjuk, hogy nem fér bele minden (lásd [Esszencializmus]({% post_url 2021-11-06-greg-mckeown-esszencializmus %})).
 
 A régiekkel szemben dupla hátrányból indulunk.
-Régen általánosságban hittek a túlvilágban, és a világ rendjének állandóságában, így nem volt gáz, ha a rövid földi életük során (ami amúgy is csak egy bevezetés az öröklét előtt) csak játsszák a szerepüket.
-Ma viszont nagyrészt ateisták vagyunk, nagyrészt erre a világra koncentrálunk, és nagyrészt hiszünk a haladásban, ami miatt csak egyre élesebben érezzük majd, hogy mennyi mindenből ki fogunk maradni.
+Régen általánosságban hittek a túlvilágban, és a világ rendjének állandóságában, így nem volt gáz, ha a rövid földi életük során (ami amúgy is egy bevezetés csupán az öröklét előtt) csak játsszák a szerepüket.
+Ma viszont nagyrészt ateisták vagyunk, nagyrészt erre a világra koncentrálunk, és nagyrészt hiszünk a haladásban, ami miatt egyre élesebben érezzük majd, hogy mennyi mindenből ki fogunk maradni.
 
 Erre ad (látszólagos!) megoldást, ha az életünket minél több élménnyel próbáljuk teletömni.
-Ez azért szomorú, mert ilyen szemszögből a milliomos csemete vagy a gazdag nyugdíjas is ugyanolyan "túlterheltek", mint a minimálbéres munkás, csak nekik a mindenféle élmény belegyömöszölése nem megy
+Ez azért szomorú, mert ilyen szemszögből akár a milliomos csemete vagy a gazdag nyugdíjas is ugyanolyan "túlterheltek" lehetnek, mint a minimálbéres munkás, csak nekik a mindenféle élmény belegyömöszölése nem megy.
 De ugyanez a művészre is, aki nem tud eleget alkotni, vagy az önkéntesre, aki nem tud eleget segíteni.
 
 Ha azt hisszük, hogy minden belefér, akkor könnyebben hanyagoljuk majd a dolgok priorizálását.
-Elvégre ha idővel úgyis meglesz minden, akkor mit számít, ha ezt a fél órát még el-Facebook-ozok, majd utána is tudok még elég energiát fektetni az önmegvalósításba.
+Elvégre ha idővel úgyis meglesz minden, akkor mit számít, ha ezt a fél órát még elszuttyogom, majd utána is tudok még elég energiát fektetni az önmegvalósításba.
 És mivel az igazán értékes dolgok általában nagyobbak, a kicsik könnyen beférkőznek eléjük.
 Éveket lehet így "produktívan elpazarolni", ha az ember stratégikusan pont azokat a dolgokat halogatja, amik amúgy számítanának.
 Ha viszont nem hinnénk, hogy van elég időnk (mert nincs), akkor nem engednénk nekik (lásd [Brooks]({% post_url 2021-02-19-david-brooks-a-masodik-hegy %}) érvelését az elköteleződésről).
@@ -202,7 +202,7 @@ Ha viszont nem hinnénk, hogy van elég időnk (mert nincs), akkor nem engednén
 ## <a name="vegesseg"></a>Nézzünk szembe a végességgel
 
 Még az absztraktabb filozófusok is általában csak azon törik a fejüket, hogy miféle dolgok léteznek, honnan erednek, és mi közük egymáshoz.
-De egy bizonyos Martin Heidegger szerint nem vagyunk eléggé elámulva azon, hogy "egy világ itt *világkodik* körülöttünk" egyáltalán!
+De egy bizonyos [Martin Heidegger](https://hu.wikipedia.org/wiki/Martin_Heidegger){:target="_blank"} nevezetű, még absztratabb gondolkodó szerint nem vagyunk eléggé elámulva azon, hogy "egy világ itt *világkodik* körülöttünk" egyáltalán!
 Annyira könnyű lenne, hogy ne legyen semmi, hogy kész csoda, hogy van valami!
 
 Ezen felül, szerinte a létünk annyira teljesen összefügg a végességünkkel, hogy a kettő gyakorlatilag szinonima.
@@ -215,11 +215,11 @@ Morbidnak és stresszesnek tűnhet -- de Heidegger szemszögéből pont az a mor
 A dolgoknak nem csak attól lesz értelme, hogy valami más helyett választjuk őket, hanem attól is, hogy nem csinálhatjuk őket örökké.
 Ha holnap is ugyanolyan jó lenne az írásra, vagy holnapután, akkor ma miért írjak?
 
-Nem mondjuk, hogy a halállal való szembesülés "kellemes", vagy "boldog", de "igaz"!
+Nem mondjuk, hogy a halállal való szembesülés "kellemes", vagy "boldog", de "igaz".
 És bármi, ami segít tényleg abban a világban élni, amiben amúgy élünk, az csak jó irányba terelgethet.
-Különben meg a 4000 hét csak az örökkévalósággal összehasonlítva kevés; a nullához képest kemény 4000-rel több!
+Különben meg a 4000 hét csak az örökkévalósággal összehasonlítva kevés; a nullához képest kemény 4000-rel több.
 Nem az a tisztességtelen, ha a halál pofátlanul elragadja tőlünk az öröklétet -- inkább az a csoda, hogy egyáltalán kaptunk *valamennyi* létet!
-Nem nehéz döntéseket *kell* hoznunk, hanem *megtehetjük*, hogy nehéz döntéseket hozzunk!
+Nem nehéz döntéseket *kell* hoznunk, hanem *megtehetjük*, hogy nehéz döntéseket hozzunk.
 Nem mindjárt más?
 
 <br>
@@ -239,7 +239,7 @@ Nem mindjárt más?
 
 Az eddigiek fényében nem az a cél, hogy eltüntessük magunkból a "halasztgatósságot", hanem hogy a megfelelő dolgokat halasztgassuk, egész életünk végéig, miközben a jókat meg csinálgatjuk.
 Vagyis épphogy **jobb**, prioritás alapúbb halasztgatóvá kell válnunk.
-Csak hát ez a priorizálás sajnos nem annyira egyszerű, mint amilyennek hangzik, mert "fontos" dologból is sokkal több van, mint ami beleférhet az életünkbe, úgyhogy valahogy azok között is válogatni kell.
+Csak hát ez a priorizálás sajnos nem annyira egyszerű, mint amilyennek hangzik, mert "fontos" dologból is sokkal több van, mint ami beleférhet az életünkbe, szóval valahogy azok között is válogatni kell.
 
 A rosszféle halasztgatás abból ered, hogy nem akarunk szembenézni a választási kényszerünkkel.
 Fejben könnyű több, párhuzamos (és egymást kizáró!) jövőt is egyszerre elképzelni magunknak, de amint ezt meg szeretnénk valósítani, szembejönnének a korlátok.
@@ -262,14 +262,14 @@ Ha túl sok az épp folyamatban lévő szál, akkor könnyű lesz mindig egy má
 3. **Kerüljük a közepesen érdekes dolgokat!**
 Addig például kb. egyértelmű, hogy ha van egy 25-ös lista arról, hogy mivel szeretnénk foglalkozni az életünkben, akkor szervezzük minél több időnket az első 5 köré.
 De a maradék 20-at nem hogy "hanyagoljuk", de **aktívan** kerüljük, mert ezek jelentik a legnagyobb veszélyt az első 5-re.
-Ezek azok, amik A) nem voltak elég csábítóak, hogy bekerüljenek a top 5-be, de B) elég csábítóak ahhoz, hogy el tudják terelni róluk a figyelmet.
+Ezek azok, amik **A)** nem voltak elég csábítóak, hogy bekerüljenek a top 5-be, de **B)** elég csábítóak ahhoz, hogy el tudják terelni róluk a figyelmet.
     
     A nemet mondásnál az csak a könnyű rész, hogy nemet mondunk az olyanokra, amiket amúgy sem akartunk volna csinálni.
     A nehéz rész tudatosan nemet mondani arra is, amit amúgy szívesen csinálnánk, de nem fogunk, mert felismerjük, hogy csak egy életünk van.
     
     > Egy fiú két, három, vagy akár négy potenciális ember is lehet, de egy férfi csak egy. A többit megöli.
     >
-    > Mordecai Richler
+    > -- Mordecai Richler
     >> A boy can be two, three, four potential people, but a man is only one. He murders the others.
 
 <br>
@@ -353,7 +353,7 @@ Csak garanciát ne várjunk semmire -- és ezzel hirtelen rengeteg szorongástó
 Bárhol is tartunk most az életben, az szinte biztos visszavezethető valami véletlen eseményig, amit nem lehetett előre kiszámítani.
 Utólag meg aztán pláne nem lehet módosítani.
 És ha azt elismerjük, hogy a múltban sem voltunk mindenhatóak, akkor milyen alapon várnánk, hogy a jövőben azok leszünk?
-Valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkészhetetlensége az, ami miatt minden vallás és filozófia jellemzően eljut arra a felismerésre, hogy a jelenre kéne koncentálni...
+Valószínűleg pont a múlt megváltoztathatatlansága, és a jövő kifürkészhetetlensége az, ami miatt minden vallás és filozófia jellemzően eljut arra a felismerésre, hogy a jelenre kéne koncentrálni...
 
 <br>
 
@@ -411,7 +411,7 @@ Egyszerűen fogadjuk el, hogy csak a jelen létezik, és akkor majd talán kevé
 ## <a name="pihenes"></a>A pihenés újrafelfedezése
 
 Gyakran hallani a kiégés és a túldolgoztatás ellen -- de legtöbbször csak olyankor, amikor az már gazdasági kárt okoz.
-Vagy azért, hogy hogyan okozhatna gazdasági előnyt, ha nem lenne ilyen súlyos a mértéke.
+Vagy olyan kontextusban, hogy hogyan okozhatna gazdasági *előnyt*, ha nem lenne ilyen súlyos a mértéke.
 De miért is az az alapértelmezés, hogy gazdasági szemszögéből magyarázzuk az életünket?
 
 A válasz, szokás szerint, megint az Ipari Forradalom.
@@ -434,20 +434,20 @@ Mert nem ám csak úgy fogják mondani, hogy ennek szerintük így kéne lennie 
 > -- Simone de Beauvoir
 >> If the satisfaction of an old man drinking a glass of wine counts for nothing, then production and wealth are only hollow myths; they have meaning only if they are capable of being retrieved in individual and living joy.
 
-Itt jön fel megint a Kék Zónáknál is emlegetett *sábát* (Shabbat, avagy [Nyugalomnap](https://hu.wikipedia.org/wiki/Nyugalomnap){:target="_blank"}), ami ma radikálisan régimódinak tűnhet ugyan, de pont azt akarja érzékeltetni, hogy a pihenés mennyire fontos.
+Itt jön fel megint a [Kék Zónáknál]({% post_url 2021-05-01-dan-buettner-foldunk-kek-zonai %}) is emlegetett *sábát* (Shabbat, avagy [Nyugalomnap](https://hu.wikipedia.org/wiki/Nyugalomnap){:target="_blank"}), ami ma radikálisan régimódinak tűnhet ugyan, de pont azt akarja érzékeltetni, hogy a pihenés mennyire fontos.
 A szabályok miatt konkrétan elő kell készülni rá -- nem csak úgy abbahagyni a munkát és kész.
 
 Vagy vegyük egy vidéki séta példáját.
-Abban nem kell "jónak" lenni, mert járni kb. mindenki tud, és más nem is kell.
-Illetve nem kell hatékonynak lenni sem, mert a túra ugyanott végződik, ahol kezdődött -- vagyis a leghatékonyabb az lenne, ha el se mennénk.
+Abban nem nagyon lehet "jónak" lenni, mert járni kb. mindenki tud, és más nem is kell.
+Illetve nem lehet "hatékonynak" lenni sem, mert a túra ugyanott végződik, ahol kezdődött -- vagyis a leghatékonyabb az lenne, ha el se mennénk.
 És mégis mekkora élményt és kikapcsolódást tud adni!
 
-> Semmi sem idegenebb a jelenkorban, mint a tétlenség. [...] Hogyan létezhetne játék egy olyan időszakban, ahol semminek nincs értelme hacsak nem vezet valami máshoz?
+> Semmi sem idegenebb a mai világban, mint a tétlenség. [...] Hogyan létezhetne játék egy olyan korban, ahol semminek nincs értelme, hacsak nem vezet valami máshoz?
 >
 > -- John Gray
 >> Nothing is more alien to the present age than idleness. [...] How can there be play in a time when nothing has meaning unless it leads to something else?
 
-Ez a kellemetlenség és kultúrális vonakodás azonban nem jelenti, hogy ne kéne játszanunk.
+Ez a kellemetlenség és kulturális vonakodás azonban nem jelenti, hogy ne kéne játszanunk.
 Pont azt jelenti, hogy nagyon is játszanunk kéne!
 
 <br>
@@ -480,7 +480,7 @@ Gondoljunk csak bele, hogy a gőzmozdony óta mennyit gyorsult minden.
 És mégis nem hogy elégedettek, de annál türelmetlenebbek vagyunk.
 Burkeman szerint ez azért lehet, mert minden egyes gyorsítás azt ígéri, hogy na majd most végre átléphetjük a limitációinkat.
 Hogy na majd most végre teljesen uralhatjuk az időnket -- amit ugye láttunk, hogy soha nem fogunk.
-És még ha személyesen meg is oldanánk ezt a hozzáállást, az a társadalmi elvárásokat nem igazán fogja befolyásolni -- vagy legalábbis nagyon lassan, ha elegen hozzájárulunk.
+És még ha személyesen meg is oldanánk ezt a hozzáállást, az a társadalmi elvárásokat nem igazán fogja befolyásolni -- vagy legjobb esetben is tetű lassan, ha elegen hozzájárulunk.
 
 Egy nagyon hasznos hasonlat: a sebesség függőség kb. olyan, mint az alkoholizmus.
 Szorongunk, hogy nem fér bele minden, ezért gyorsítunk, ami miatt csak egyre jobban szorongunk és tovább próbálunk gyorsítani.
@@ -513,7 +513,7 @@ Persze semmi nem gyorsul fel, de onnantól már majd nem is várjuk, hogy olyan 
 
 ## <a name="busz"></a>Maradjunk a buszon
 
-Egy Harvardi művtöri kurzuson híres házifeladat a "3 órás festmény nézés", amikor (a név alapján talán nem túl meglepő módon) a diákoknak 3 óráig kell egyetlen kiválasztott festményt tanulmányozniuk.
+Egy Harvardi művtöri kurzuson híres házi feladat a "3 órás festmény nézés", amikor (a név alapján talán nem túl meglepő módon) a diákoknak 3 óráig kell egyetlen kiválasztott festményt tanulmányozniuk.
 És hogy ezekből kiszámíthatóan milyen mély és váratlan megfigyelések keletkeznek, az szépen példázza: csak akkor kezdődik az igazi élmény, amikor feladjuk az irányításkényszerünket.
 Amikor elfogadjuk, hogy nem tudjuk diktálni a tempót; elfogadjuk az unalmat, a szorongást, és ezek ellenére is tudatosan "benne ragadunk".
 Ilyenkor olyan dolgok jönnek elő, amiket amúgy nagy sietségünkben és figyelmetlenségünkben nem vennénk észre.
@@ -535,7 +535,7 @@ Ne legyen túl nagy a napi kvóta -- és nyugodtan álljunk meg, ha megütöttü
 Csak üssük meg minden nap!
 
 3. **Az egyediség nem az utánzással ellenkező irányban, hanem az utánzáson <u>túl</u> található!**
-Vagyis nem pont a másik irányba kell indulni; és nem azt hinni, hogy rosszfelé haladunk, ha sablonosak vagyunk (lásd [Kleon]({% post_url 2022-10-28-austin-kleon-mutasd-meg-magad %})).
+Vagyis nem pont a másik irányba kell indulni; és nem azt hinni, hogy rossz felé haladunk, ha sablonosak vagyunk (lásd [Kleon]({% post_url 2022-10-28-austin-kleon-mutasd-meg-magad %})).
 Az csak azt jelenti, hogy **még** sablonosak vagyunk.
 Avagy a szerző hasonlatával (ami a szekció címét is adja): minden busz kb. ugyanazon az útvonalon hagyja el a várost, és csak aztán ágaznak szét mindenféle távoli cél felé.
 Szóval merjünk a közhelyes, kitaposott útvonalon utazni, és maradjunk a buszon elég ideig, hogy eljuthassunk az egyediségig.
@@ -557,23 +557,23 @@ Szóval merjünk a közhelyes, kitaposott útvonalon utazni, és maradjunk a bus
 ## <a name="magany"></a>A digitális nomádok magánya
 
 Érdemes különbséget tennünk a tradicionális javak és az ún. "hálózati javak" között.
-A pénzből például önmagában is jobb, ha több van, mint kevesebb.
+A pénzből például önmagában is jobb, ha több van, mint kevesebb, naná.
 De telefonból mondjuk nem.
 Ott az a fontos, hogy hány embernek van telefonja, nekünk meg elég egy is.
 
 És az idő inkább egy kapcsolataiban értelmezhető erőforrás -- hiába lesz nekünk végtelen sok időnk, amit teljesen mi irányítunk, ha az másokkal nincs szinkronizálva.
-Nem lesznek kapcsolataink, nem vehetünk részt sem a technológiai, sem politikai fejlődés folyamatában...
+Nem lesznek kapcsolataink, nem vehetünk részt sem a technológiai, sem a politikai fejlődés folyamatában, stb.
 Klisével élve: nem tehetjük jobbá a világot, ha nem vagyunk a világ részei.
 
 Vagyis szép és jó, ha irányíthatjuk a saját időbeosztásunkat, de azt azért úgy irányítsuk, hogy ne szakadjunk el teljesen a társadalomtól.
 És ne hagyjuk azt sem, hogy a munka teljesen beszivárogjon mindenhova, ha már nincsenek éles határai.
 Egy svéd kutatás szerint habár az emberek boldogabbak a vakációik alatt, akkor még boldogabbak, amikor másokkal egyszerre időzítik a vakációjukat (mert akkor több az esély a közös programra, a szocializálódásra, stb.).
-Az ellenpélda pedig a szoviet korszakból ismert 5 napos, csúsztatott munkahét, ahol az erőszakosan szinkronizálhatatlan napirend miatt az a kevés szabadidő sem volt igazán élvezetes, ami volt.
+Az ellenpélda pedig a szovjet korszakból ismert 5 napos, csúsztatott munkahét, ahol az erőszakosan szinkronizálhatatlan napirend miatt az a kevés szabadidő sem volt igazán élvezetes, ami volt.
 
-Sőt, mindennek politikai vonatkozatai is vannak, hiszen ha nem vagyunk kapcsolatban a többiekkel, akkor az önálló kezdeményezések, meetingek, tüntetések, gyűlések, vagy ajtóról ajtóra járások kb. ellehetetlenednek.
+Sőt, mindennek politikai vonatkozatai is vannak, hiszen ha nem vagyunk kapcsolatban a többiekkel, akkor az önálló kezdeményezések, gyűlések, tüntetések, vagy ajtóról ajtóra járások kb. ellehetetlenednek.
 Ez egy kollektív tevékenység vákuumhoz vezet, aminek köszönhetően csak úgy burjánzanak az autokrata, demagóg vezetők (lásd [Diktátorok kézikönyve]({% post_url 2022-01-15-bruce-bueno-de-mesquita-alastair-smith-diktatorok-kezikonyve %})).
 
-Röviden, amit mondani szeretnénk: kommunális szabadság > totális individuális szabadság.
+Röviden, amit mondani szeretnénk: a kommunális szabadság jobb, mint akár egy totális individuális szabadság.
 
 <br>
 
@@ -592,13 +592,13 @@ Röviden, amit mondani szeretnénk: kommunális szabadság > totális individuá
 ## <a name="jelentektelenseg"></a>Kozmikus jelentéktelenség terápia
 
 És a végére némi extra szemléletmód kalibráció, ami a könyv általános hangvételének megfelelően egyszerre lehangoló és felemelő.
-Vegyük az emberi civilizáció 6000 éves történelmét, ami első hallásra mérhetetlenül hosszúnak tűnik, és korszkokra kell bontanunk az átláthatóság kedvéért.
+Vegyük az emberi civilizáció 6000 éves történelmét, ami első hallásra mérhetetlenül hosszúnak tűnik, és korszakokra kell bontanunk az átláthatóság kedvéért.
 De precízen szinkronizált 100 éves nagyikkal/nagypapákkal számolva az egész mindössze 60 darab emberrel ezelőtt volt!
 És ebben a Sapiens faj evolúcióját nem is nézzük, csak a civilizációs részt -- pedig még a Sapiens is egy vadonatúj fejlemény a Földhöz képest, pláne az Univerzumhoz.
 
 Az életünk jó esetben is egy szempillantásig tart, és a kozmikus skálán mérve szart se jelent.
 De ez pedig jó hír, mert végre elengedhetjük általa azt a tévképzetünket, hogy a létezésünknek milyen lécet is kéne megugrania.
-Aki jelentéktelennek érzi az életét, annál nem feltétlen az a baj, amit csinál, csak az, amilyen magasra a "jelentősség" mércéjét felhelyezte.
+Aki jelentéktelennek érzi az életét, annál nem feltétlen az a baj, amit csinál, csak az, amilyen magasra a "jelentőség" mércéjét felhelyezte.
 
 <br>
 
@@ -618,7 +618,7 @@ Aki jelentéktelennek érzi az életét, annál nem feltétlen az a baj, amit cs
 A kapcsolódóként linkelt egyéb bejegyzések számából szerintem szépen látszott, hogy ez mennyire nem csak egy `N+1`-edik produktivitás könyv.
 És mint bármelyik kicsit is mélyebb gondolkozó könyv, itt is filozófiai vonzatoknál kötünk ki.
 
-A fő tanulság szerint tömören úgy foglalható össze, hogy nézzünk szembe a korlátainkkal.
+A fő tanulság tömören úgy foglalható össze, hogy nézzünk szembe a korlátainkkal.
 Egyrészt az általános emberi korláttal, miszerint egyszer (relatíve nagyon hamar) meg fogunk halni.
 Másrészt a modern, Ipari Forradalom óta jellemző korláttal, miszerint a véges életünk nem végteleníthető azáltal, hogy végtelen mennyiségű dolgot próbálunk beletuszkolni.
 Ezeket elfogadni először keserű orvosság, de aztán pont ezek teszik lehetővé, hogy tényleg azt kezdjünk az életünkkel, amit szeretnénk.
