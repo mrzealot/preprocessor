@@ -6,6 +6,7 @@ tags: [szemléletmód]
 pages: 254
 date: 2020-01-03 18:00
 hreflang: marcus-aurelius-meditations
+youtube: FQwdgzNeMP0
 excerpt: >
     Kezdésnek számtalan netes ajánlás alapján Marcus Aurelius Elmélkedéseit választottam, és hadd mondjam meg, nem csalódtam. Sőt!
     Marcus Aurelius filozófus császár privát gondolataiba kapunk benne betekintést, ahogy a sztoikus elveket követve próbálja magát a "helyes úton tartani". Sztoikus elvek, amik a mai világban pont ugyanolyan fontosak, mint 2000 éve - ha nem jobban.

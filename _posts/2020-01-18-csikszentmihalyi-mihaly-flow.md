@@ -6,6 +6,11 @@ tags: [szemléletmód]
 pages: 303
 date: 2020-01-18 14:00
 hreflang: mihaly-csikszentmihalyi-flow
+youtube: dHsOwlimpz4
+excerpt: >
+    A durván absztrakt filozofálás után úgy gondoltam, kész felüdülés lesz visszakanyarodni kicsit praktikusabb vizekre.
+    De az egy-egy konkrét témát mélyen kiveséző, vagy a _meséből tanulságot levonós_ jellegű könyvek helyett azért még mindig az átfogó, stabil alapot adó műfaj volt a cél.
+    Így kötöttem ki végül Csíkszentmihályi Mihály - Flow című remekénél, ami az egyik legöregebb elem a "na ezt egyszer biztos el kell olvasni" listámon.
 ---
 
 A [Simon Blackburn]({% post_url 2020-01-07-simon-blackburn-think %})-féle durván absztrakt filozofálás után úgy gondoltam, kész felüdülés lesz visszakanyarodni kicsit praktikusabb vizekre.

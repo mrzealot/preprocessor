@@ -2,8 +2,10 @@
 layout: post
 title: Mi ez?
 cover: intro
+tags: [szösszenet]
 date: 2020-01-01 15:00
 hreflang: intro
+youtube: zVZpr204A-c
 excerpt: >
     Ez itt, kedves Érdeklődő, a Preprocessor Blog.
     Ja hogy <em><u>az</u></em> mi?

@@ -9,6 +9,10 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.youtube -%}
+      {% include youtube.html id=page.youtube %}
+      <br />
+    {%- endif -%}
     {%- if page.cover -%}
       <img class="post-image" src="{{ 'images/covers' | absolute_url }}/{{ page.cover }}.jpg" />
     {%- endif -%}
