@@ -36,6 +36,8 @@ plugins:
 
 # remote_theme: mrzealot/minima
 
+seo_paginator_message: "%<current>s / %<total>s | "
+
 minima:
   list_title: Bejegyzések
   tags_title: Címkék
