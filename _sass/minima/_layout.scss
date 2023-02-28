@@ -335,6 +335,7 @@
 
   h2 {
     @include relative-font-size(1.4);
+    font-weight: bold;
   }
 
   h3 {
