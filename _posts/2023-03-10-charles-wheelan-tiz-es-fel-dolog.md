@@ -160,9 +160,12 @@ Szóval mindig legyen gyanús, ha versenyt csinálunk valami olyanból, ahol az 
 ## <a name="65"></a>#6,5 -- Olvassunk gyászjelentéseket
 
 Több helyen szembejött már ez a tipp (legutóbb talán [Austin Kleon-nál]({% post_url 2022-10-28-austin-kleon-mutasd-meg-magad %})), és Wheelan is szán neki egy (fél) pontot.
+A lényeg annyi, hogy a gyászjelentések olvasgatása által megláthatjuk, hogy kinél mik voltak igazán fontosak az életben.
+Hogyan emlékezhetünk vissza rájuk az egész életük ívét tekintve.
 
-- meglátjuk, hogy az élet senkinél nem lineáris
-    - és hogy olyan távlatból ritkán számítanak azok a kudarcok vagy zsákutcák, amik miatt sokszor nem merünk belefogni valamibe
+Egyből nyilvánvaló lesz majd, hogy az élet senkinél nem lineáris.
+És hogy olyan távlatból ritkán számítanak azok a kudarcok vagy zsákutcák, amik miatt sokszor nem merünk belefogni valamibe.
+Meg persze hogy mennyire jelentéktelen is az aggodalmaink 97,3%-a (megközelítőleg).
 
 <br>
 
@@ -171,14 +174,19 @@ Több helyen szembejött már ez a tipp (legutóbb talán [Austin Kleon-nál]({%
 
 ## <a name="7"></a>#7 -- Tartsunk szüneteket
 
-- és itt inkább a szombatévről van szó (sabbatical), nem csak egy lelkifurka nélkül ellazított vasárnap délutánról
-    - érdemes nem hagyni, hogy a világ menetelése bedaráljon
-    - és ilyen drasztikusan hátralépni és átértékelni a dolgokat felbecsülhetetlen értékkel bír az egész életünk tekintetében
-- de hát egy évvel le leszek maradva!
-    - mitől? kitől? hol a menetrend? hol a biztos irány?
-    - és hova is sietünk tulajdonképpen?
-- Wheelan egyetem utáni világ körüli útja alapján (1989)
-    - de nálam is ide sorolható az ír + bútorszállítós év
+És itt inkább a szombatévről (avagy "sabbatical"-ről) van szó, nem csak egy lelkifurka nélkül ellazított vasárnap délutánról.
+Ez persze nem lesz triviális, és akadnak élethelyzettől függően komoly anyagi vonzatai is.
+De már a [Kék Zónáknál]({% post_url 2021-05-01-dan-buettner-foldunk-kek-zonai %}) is láthattuk a heti egy napos Sabbath jelentőségét -- gondoljunk bele, egy egész év mit tehet!
+
+A saját érdekünk nem hagyni, hogy a világ menetelése bedaráljon.
+És ilyen drasztikusan hátralépni és átértékelni a dolgokat felbecsülhetetlen értékkel bír majd az egész élet-ívünk tekintetében.
+
+De hát egy évvel le leszek maradva! -- hangozhatna a világ által belénk programozott, versenyszemléletű kifogás.
+Na jó, de mitől?
+Kitől?
+Hol a menetrend?
+Hol a biztos irány?
+És hova is sietünk tulajdonképpen?
 
 <br>
 
@@ -187,15 +195,15 @@ Több helyen szembejött már ez a tipp (legutóbb talán [Austin Kleon-nál]({%
 
 ## <a name="75"></a>#7,5 -- A szüleink NEM a legjobbat akarják nekünk
 
-- **jót** akarnak nekünk -- és a kettő sokszor ütközni fog
- 
-- ennek az oka egyszerű: a szülők nem akarják, hogy a gyerekük kudarcot valljon
-    - ezért inkább a biztonságosabb, kitaposottabb ösvények irányába próbálják terelgetni őket
-- viszont ahogy Campbell-től is tudhatjuk, a saját utunk ritkán lesz kitaposva
-    - a dzsindzsában pedig elég nagy a kudarc veszély
-    - de hát mit tegyen az ember, ha az igazán jelentőségteljes jutalmak is arra vannak?
-    - és hogy is várhatnánk el a szülőktől, hogy örüljenek ennek?
+**Jót** akarnak nekünk -- és a kettő sokszor ütközni fog.
+Ennek az oka egyszerű: a szülők nem akarják, hogy a gyerekük kudarcot valljon, és ezért inkább a biztonságosabb, kitaposottabb ösvények irányába próbálják terelgetni őket.
+Viszont ahogy [Campbell]({% post_url 2020-07-31-joseph-campbell-a-hos-utja %})-től is tudhatjuk, a saját utunk ritkán lesz kitaposva.
+A *dzsindzsában* pedig elég nagy a kudarc veszély.
 
+De hát mit tegyen az ember, ha az igazán jelentőségteljes jutalmak is arra vannak?
+Ha pedig arra megyünk, akkor hogy is várhatnánk el a szüleinktől, hogy örüljenek ennek?
+
+> A katonából felfedezőn keresztül egészen az elnöki posztig eljutó Theodore Roosevelt szerint "A kudarc nehéz, de még rosszabb, ha meg sem próbáltunk a sikerre törni", viszont én fogadni mernék, hogy az anyja őt is inkább orvosnak vagy ügyvédnek szánta volna.
 >> Theodore Roosevelt, soldier, explorer, and president, once remarked, “It is hard to fail, but it is worse never to have tried to succeed.” I love that quote, but I am willing to bet that Teddy’s mother wanted him to be a doctor or a lawyer.
 
 <br>
@@ -205,19 +213,24 @@ Több helyen szembejött már ez a tipp (legutóbb talán [Austin Kleon-nál]({%
 
 ## <a name="8"></a>#8 -- Ne legyünk cirkuszi majmok
 
-- a pénz azért olyan fontos szociális faktor, mert azt könnyű mérni
-    - de ugye McNamara tévedés: attól, hogy valami mérhető, még nem lesz fontos -- és valami fontos is lehet nehezen mérhető, vagy akár mérhetetlen
-- a cirkuszi majmok azért egyensúlyoznak egy egykerekűn kirúzsozva, szoknyában, mert jutalmat kapnak érte
-    - nem gondolták előtte végig, hogy az egykerekűzés gazdagítja-e vajon az életüket, vagy hogy ezzel szeretnék-e tölteni az idejüket
-    - egyszerűen csak ezért kapják a jutalmat
-- na most mi ne legyünk már cirkuszi majmok!
-    - az életben általában csak a munka az a hely, ahol jutalmat osztogatnak
-    - sehol máshol nem lesz pirospont, ha jól teljesítünk -- inkább csak feketepont, ha nem
-    - de ez NEM jelenti, hogy a munka fontosabb, mint az élet más területei
+A pénz azért olyan fontos szociális faktor (a nyilvánvaló életviteli előnyei mellett), mert azt könnyű mérni.
+De ugye ne feledjük a [McNamara tévedést](https://en.wikipedia.org/wiki/McNamara_fallacy){:target="_blank"}, miszerint attól, hogy valami mérhető, még nem lesz fontos -- és valami fontos is lehet nehezen mérhető, vagy akár mérhetetlen.
 
->> Here is my warning: there are a whole host of areas in your life that might be quite important to you but for which there will be no formal performance evaluation.
+A cirkuszi majmok azért egyensúlyoznak szoknyában egy egykerekűn kirúzsozva, mert jutalmat kapnak érte.
+Nem gondolták előtte végig, hogy az egykerekűzés gazdagítja-e vajon az életüket, vagy hogy ezzel szeretnék-e tölteni az idejüket.
+Egyszerűen csak ezért kapják a jutalmat, úgyhogy ezt csinálják és kész.
 
-- szóval attól, hogy csak onnak jönnek a jutalomfalatok, fontos a helyén kezelni (és nem minden más elé helyezni!) a munkát
+Na most mi ne legyünk már cirkuszi majmok!
+Az életben általában csak a munka az az egyetlen hely, ahol pénz és előléptetés képében explicit, látványos jutalmat osztogatnak.
+Sehol máshol nem lesz pirospont, ha jól teljesítünk -- inkább csak feketepont, ha nem.
+De ez **nem** jelenti, hogy a munka fontosabb, mint az élet más területei!
+Csak azt, hogy a munkában könnyebben mérhető a teljesítmény.
+
+Nagyon vigyázzunk, hogy ezt a kettőt ne keverjük össze.
+Attól, hogy csak onnan jönnek a jutalomfalatok, fontos a helyén kezelni (és nem minden más elé helyezni!) a munkát.
+
+> Számos olyan terület létezik az életetekben, ami fontos lesz számotokra, de nincs mellé formális teljesítmény kiértékelés.
+>> There are a whole host of areas in your life that might be quite important to you but for which there will be no formal performance evaluation.
 
 <br>
 
@@ -226,15 +239,18 @@ Több helyen szembejött már ez a tipp (legutóbb talán [Austin Kleon-nál]({%
 
 ## <a name="9"></a>#9 -- Az egész élet bónusz idő
 
-- jelen és jövő egyensúlyozása
-    - ha valami nagy felé szeretnénk építkezni, ahhoz bizony sokszor kell a jelenben áldozatokat hozni
-        - de ugye senki nem garantálja, hogy el is jutunk odáig
-    - ha viszont csak a jelent élvezzük, akkor soha semmi nagy építésére még csak esélyünk sem lesz
-    - újabb példa, ahol egyik véglet sem igazán jó -- az igazság valahol középen van
-- a szerző tanácsa (ami szintén nem kimondottabban "új"), hogy próbáljuk meg magát az építést is élvezni valami nagyobb felé
-- egy jó mentális modell erre az "holnap elüt egy busz" szabály
-    - bánnám-e, hogy azt csináltam, amit most épp csinálok, ha holnap (vagy egy hónap múlva; vagy jövőre) elütne egy busz?
-    - és a fordítottja: ha NEM üt el a busz, akkor jó irányba visz-e ez, amit most csinálok? 10-20 év múlva büszke tudok-e majd lenni az életre, amit most építek?
+A jelenre és jövőre való fókusz egyensúlyozása senkinél nem triviális.
+Ha valami nagy felé szeretnénk építkezni, ahhoz bizony sokszor kell a jelenben áldozatokat hozni.
+De ugye senki nem garantálja, hogy el is jutunk odáig.
+Ha viszont *csak* a jelent élvezzük, akkor soha semmi nagy építésére még csak esélyünk sem lesz.
+Újabb példa, ahol egyik véglet sem igazán jó -- az igazság valahol középen van.
+
+A szerző tanácsa (ami szintén nem kimondottabban "új"), hogy próbáljuk meg magát az építési folyamatot is élvezni, miközben haladgatunk valami nagyobb felé.
+Egy jó mentális modell erre a "holnap elüt egy busz" szabály.
+Bánnám-e, hogy azt csináltam, amit most épp csinálok, ha holnap (vagy egy hónap múlva; vagy jövőre) elütne egy busz?
+És persze emellett a fordítottját se feledjük: ha **nem** üt el a busz, akkor jó irányba visz-e ez, amit most csinálok?
+10-20 év múlva büszke tudok-e majd lenni az életre, amit most építek?
+Ezek a kérdések remélhetőleg segítenek egészséges kompromisszumot találni.
 
 <br>
 
@@ -243,14 +259,15 @@ Több helyen szembejött már ez a tipp (legutóbb talán [Austin Kleon-nál]({%
 
 ## <a name="10"></a>#10 -- Fingunk nincs, mit hoz a jövő
 
-- rengeteg minden változott, amióta ő végzős volt
-    - és egy csomót elképzelni sem lehetett előre (internet, háborús konfliktusok)
-- viszont elég éles a kontraszt, hogy bizonyos területek mennyit változtak, míg mások mennyire nem
-    - pl. 40 évvel a Holdraszállás után is van még, ahol nincs tiszta ivóvíz... mivan?!
-- a változást (mint egy hegyről lezúduló patakot) megállítani nem lehet, de terelgetni igen
-    - a Holdraszállásos/internetes haladásból látszik, hogy van itt lendület
-    - de a nincs tiszta ivóvízből meg az látszik, hogy ha valamire nem figyelünk, akkor magától nem fog haladni
-- alakítsuk hát olyanra a haladással szemben támasztott elvárásainkat, hogy a jövőben ne legyen ennyire féloldalas
+Rengeteg minden változott, amióta Wheelan végzős volt 1988-ban, és ezek közül egy csomót elképzelni sem lehetett előre (lásd internet, háborús konfliktusok, stb).
+Viszont elég éles a kontraszt, hogy bizonyos területek mennyit változtak, míg mások mennyire nem.
+Például hogy 40 évvel a Holdraszállás után is van még olyan település az állítólagosan "fejlett" világban, ahol nincs tiszta ivóvíz...
+Mivan?!
+
+A változást (mint egy hegyről lezúduló patakot) megállítani nem lehet, de terelgetni igen.
+És a Holdraszállásos/internetes haladásból szépen látszik, hogy van itt lendület.
+Csak hát a nincs tiszta ivóvízből meg az látszik, hogy ha valamire nem figyelünk, akkor magától bizony szart se fog haladni.
+Alakítsuk hát olyanra a haladással szemben támasztott elvárásainkat, hogy a jövőben ne legyen már ennyire féloldalas.
 
 <br>
 
@@ -259,16 +276,18 @@ Több helyen szembejött már ez a tipp (legutóbb talán [Austin Kleon-nál]({%
 
 ## <a name="105"></a>#10,5 -- Ne próbáljunk "nagyok" lenni
 
-- egy élő TV-s interjúja előtt kapta ezt a tanácsot a műsorvezetőtől, amit most továbboszt, és az egész életre általánosít
->>  “Don’t try to be great. Just be solid.”
-    - ne próbálj nagyszerű lenni. csak legyél vállalható.
-- ez azért felszabadító, mert a vállalhatóság sokkal inkább a mi irányításunk alatt van
-    - sokkal kevésbé függ a szerencsétől és az előre nem látható körülményektől
-    - nem kell azon aggódni, hogy tudunk-e olyat nyújtani, amiben nem vagyunk biztosak, hogy nyújtani tudunk
-    - és cserébe annál magabiztosabban produkálhatjuk azt, amit meg tudjuk, hogy megy
-- ironikus módon, annál valószínűbb a nagyság, minél kevésbé arra célzunk (lásd ??)
-    - de ha meg nem jön össze, azzal sincs semmi baj
-    - bőven elég, ha vállalhatóak vagyunk
+Wheelan egy élő TV-s interjúja előtt kapta ezt a tanácsot a műsorvezetőtől, amit most továbboszt, és az egész életre általánosít, mert azóta is nagy hasznát veszi:
+
+> Ne próbálj nagyszerű lenni. Csak legyél vállalható.
+>>  Don't try to be great. Just be solid.
+
+Ez azért felszabadító, mert a "vállalhatóság" sokkal inkább a mi irányításunk alatt van, mint a nagyszerűség.
+Sokkal kevésbé függ a szerencsétől és az előre nem látható körülményektől.
+Nem kell azon aggódni, hogy tudunk-e olyat nyújtani, amiben nem vagyunk biztosak.
+És ezért cserébe annál magabiztosabban produkálhatjuk azt, amiről meg tudjuk, hogy megy.
+
+Ironikus módon, annál valószínűbb a nagyság, minél kevésbé arra célzunk (lásd [Frankl]({% post_url 2020-01-21-viktor-frankl-megis-mondj-igent-az-eletre %})).
+De ha meg nem jön össze, azzal sincs semmi baj -- bőven elég, ha vállalhatóak tudunk maradni.
 
 <br>
 
@@ -277,3 +296,6 @@ Több helyen szembejött már ez a tipp (legutóbb talán [Austin Kleon-nál]({%
 
 ## Összefoglalás
 
+A fenti tíz és fél dolog szerintem nagyon szépen beazonosítja a modern társadalom sok elkurvulását -- vagyis az olyan területeket, amik kezdetben még jó ötletnek tűntek, és mértékkel továbbra is azok lennének, csak menet közben egy hangyányit túlzásba estünk.
+Jó a törekvés, de azért lazítsunk már mellette; jó az a siker, de nem bármi áron; jó a haladás, ne nem mindegy, merre!
+Ezeket a végzős diákok mellett szerintem nekünk többieknek sem árt néha újra a fejünkbe vésni.
