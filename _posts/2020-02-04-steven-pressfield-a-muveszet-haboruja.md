@@ -6,6 +6,7 @@ tags: [szemléletmód]
 pages: 168
 date: 2020-02-04 23:00
 hreflang: steven-pressfield-the-war-of-art
+youtube: fjIrGS6Jq5M
 excerpt: >
     A mai bejegyzés tárgya egy rövid, de annál hatásosabb kis szösszenet a minden kreatív alkotó tevékenységet megtámadó _Ellenállásról_ és annak legyőzéséről.
     Érdemes megjegyezni, hogy a cím egy szóvicc, hiszen pont a fordítottja Szun-ce híres "A háború művészete" elnevezésű stratégiai kötetének.

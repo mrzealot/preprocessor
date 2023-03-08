@@ -4,6 +4,7 @@ title: A hamis dilemmákról
 cover: falsedilemma
 tags: [szösszenet]
 date: 2021-11-13 00:01
+youtube: gVH5NcoHB1c
 excerpt: >
     Az elmúlt időszakban három dologba is beleakadtam a véletlenszerű netes barangolásom során, ami (az én fejemben legalábbis) mind ugyanoda lyukadt ki: a "hamis dilemma" névre hallgató kognitív torzításhoz.
     És ha már ennyire elterjedtnek tűnik, akkor talán érdemes egy pár szót ejteni róla a heti szösszenetben...

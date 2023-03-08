@@ -6,6 +6,7 @@ tags: [szemléletmód]
 pages: 165
 date: 2020-01-21 23:00
 hreflang: viktor-frankl-mans-search-for-meaning
+youtube: WKzeP0D_0P8
 excerpt: >
     Sokszor láttam már ezt a címet a "legfontosabb" könyvek között, önfejlesztés válogatásokban; és most a Ryan Holiday-féle ajánlások között is.
     Hát akkor mondom ne hezitáljunk, inkább "mégis mondjunk igent az életre!"
