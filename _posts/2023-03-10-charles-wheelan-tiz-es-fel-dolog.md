@@ -51,7 +51,7 @@ Persze, hogy lett volna közben hasznosabb, amit csinálhattunk volna, de olyan 
 Pont ez a lényeg!
 Mindig lesz tennivaló, így ha nem szakítunk tudatosan időt másokra, akkor nem fognak sehova csak úgy maguktól beférni.
 
-Erre a legszebb tudományos bizonyíték a Harvardi "felnőttfejlődési tanulmány" (Study of Adult Development), ahol 70 évig követtek egy Harvardi évfolyamot, hogy meglássák, hosszú távon mi vezet a boldog élethez.
+Erre a legszebb tudományos bizonyíték az a "felnőttfejlődési tanulmány" (*Study of Adult Development*), ahol 70 évig követtek egy Harvardi évfolyamot, hogy meglássák, hosszú távon mi vezet a boldog élethez.
 És az elsődleges, fő tanulság az, hogy semmi nem számít annyira, mint az emberi kapcsolataink minősége.
 Egy másik kutatás szerint pedig arányában ugyanannyit számít a boldogságérzetünknek, ha csatlakozunk egy csoporthoz (ami elég, ha havonta mindössze egyszer találkozik), mintha megdupláznák a fizetésünket.
 
@@ -129,7 +129,7 @@ Mostanában ezt a lakosság nagy része nem igazán bírja -- részben talán me
 Csak amit az elődök előre zabáltak, annak mi kapjuk meg a számláját.
 És az mellett nekünk meg már muszáj lesz bírni a késleltetést, mert szimplán nem jut több.
 
-Ebben szerintem annyi a tanulság, hogy **A)** igyekezzünk jobb világot hagyni magunk után, ne felélni mindent és a többiekkel meg lesz ami lesz, illetve **B)** törődjünk bele (és tudatosan birkózzunk meg vele), hogy ezt a professzionális szívességet a mi generációnk nem kapta meg.
+Ebben szerintem annyi a tanulság, hogy **A)** igyekezzünk jobb világot hagyni magunk után, ne felélni mindent és a többiekkel meg lesz ami lesz, illetve **B)** törődjünk bele (és tudatosan birkózzunk meg vele), hogy ezt a professzionális szívességet a mi generációnk sajnos nem igazán kapta meg az elődöktől.
 
 <br>
 
@@ -146,7 +146,7 @@ Létezik.
 
 Persze, persze, meg akarunk adni nekik minden előnyt.
 De az előny relatív!
-És ha mindenki megadja ezt az előnyt a gyerekének, akkor relatív szempontból ugyanott lesznek a "ranglétrán" -- csak közben kimaradt a gyerekkoruk.
+És ha mindenki megadja ezt az előnyt a gyerekének, akkor relatív szempontból ugyanott lesznek a "ranglétrán" -- csak menet közben kimaradt a gyerekkoruk.
 
 Plusz ezzel azt a tudatalatti üzenetet közvetítjük, hogy tessék gyorsabban futni, mint a szomszéd.
 És az mindegy is, hogy a szomszéd miért fut -- vagy hogy hova.
@@ -248,7 +248,8 @@ Ha viszont *csak* a jelent élvezzük, akkor soha semmi nagy építésére még 
 A szerző tanácsa (ami szintén nem kimondottabban "új"), hogy próbáljuk meg magát az építési folyamatot is élvezni, miközben haladgatunk valami nagyobb felé.
 Egy jó mentális modell erre a "holnap elüt egy busz" szabály.
 Bánnám-e, hogy azt csináltam, amit most épp csinálok, ha holnap (vagy egy hónap múlva; vagy jövőre) elütne egy busz?
-És persze emellett a fordítottját se feledjük: ha **nem** üt el a busz, akkor jó irányba visz-e ez, amit most csinálok?
+
+Persze emellett a fordítottját se feledjük: ha **nem** üt el a busz, akkor jó irányba visz-e az, amit most csinálok?
 10-20 év múlva büszke tudok-e majd lenni az életre, amit most építek?
 Ezek a kérdések remélhetőleg segítenek egészséges kompromisszumot találni.
 
