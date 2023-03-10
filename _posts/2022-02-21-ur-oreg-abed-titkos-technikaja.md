@@ -4,6 +4,7 @@ title: Űr-öreg Abed titkos technikája
 cover: spaceelderabed
 tags: [szösszenet]
 date: 2022-02-21 00:01
+youtube: P-bl1f40SGM
 excerpt: >
     Ha a múlton rágódás és a jövőn aggódás varázsütésre kiesnének a képből, akkor csak a jelen megélése maradna.
     Ez pedig azért lenne jó, mert amúgy is csak a jelenben tehetünk bármit, amivel befolyásolhatjuk a jövőt -- és csak a jelenben bizonyíthatjuk, hogy bármit is tanultunk a múltból.
