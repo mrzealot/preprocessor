@@ -287,3 +287,7 @@ main blockquote {
 html {
   overflow-y: scroll;
 }
+
+ol > li::marker {
+  font-weight: bold;
+}
