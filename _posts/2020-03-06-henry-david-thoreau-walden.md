@@ -6,6 +6,7 @@ tags: [minimalizmus]
 pages: 352
 date: 2020-03-06 15:00
 hreflang: henry-david-thoreau-walden
+youtube: JiimN_0cs0c
 excerpt: >
     Henry David Thoreau amerikai író és filozófus, aki eléggé rossz véleménnyel volt a kortársai között kibontakozóban lévő fogyasztói társadalomról; ehelyett a természetközeli, minimalista és független életet hirdette.
     És mielőtt azt hinnénk, hogy csak a szája járt: elvei szemléltetésére az 1800-as évek közepén egyszerűen fogta magát, és kiköltözött az erdőbe egy saját építésű kunyhóba.
