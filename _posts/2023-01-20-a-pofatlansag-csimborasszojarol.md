@@ -4,6 +4,7 @@ title: A pofátlanság csimborasszójáról
 cover: chimborazo
 tags: [szösszenet]
 date: 2023-01-20 00:01
+youtube: n4UubGy4gf4
 excerpt: >
     ...avagy hogyan kell nyitott ajtókat találni ott is, ahol látszólag nem hogy zárt ajtó, de konkrétan fal van.
 ---

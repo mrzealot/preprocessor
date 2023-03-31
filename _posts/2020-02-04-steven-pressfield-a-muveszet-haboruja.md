@@ -2,7 +2,7 @@
 layout: post
 title: Steven Pressfield - A művészet háborúja
 cover: warofart
-tags: [szemléletmód]
+tags: [produktivitás]
 pages: 168
 date: 2020-02-04 23:00
 hreflang: steven-pressfield-the-war-of-art
