@@ -157,7 +157,7 @@ Vagyis ami kell, az az intenzitás és a folytonosság egyszerre... Jé, ez is d
 
 
 
-### <a name="ritka"></a>A mély munka ritka
+## <a name="ritka"></a>A mély munka ritka
 
 A fentiek ellenére, a világ manapság egyre inkább a véletlenszerű együttműködéseket (nyitott irodai terek), a kommunikációt (chat, e-mail), és a szociális médiát (facebook/twitter jelenlét) részesíti előnyben.
 És ezek, mindent egybevetve, nem hogy nem segítenek, de aktívan ártanak.
@@ -200,7 +200,7 @@ Ehhez persze nagyban hozzájárul, hogy a kommunikáció/elfoglaltság/internet-
 
 
 
-### <a name="jelentosegteljes"></a>A mély munka jelentőségteljes
+## <a name="jelentosegteljes"></a>A mély munka jelentőségteljes
 
 A mélység nem csak értékes és ritka (vagyis nem csak gazdaságilag éri meg), hanem értelmet is adhat az ember életének.
 A kétkezi mesteremberek viszont sokkal könnyebben megélik ezt, mint a tudás-alapú munkában dolgozók, mert a kétkezi esetben világos, hogy mit kell csinálni, és világos a visszajelzés is.
