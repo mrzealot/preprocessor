@@ -4,6 +4,7 @@ title: Vicki Robin - Your Money or Your Life
 tags: [pénzügyek]
 pages: 328
 date: 2020-03-20 15:00
+youtube: xAuN6VtqdF8
 excerpt: >
     Az elmúlt két hét minimalizmusa és tudatossága után rátérünk arra, hogy egy hasonló hozzáállás hogyan formálhatja át a személyes pénzügyeinket is.
     A "Pénzt vagy életet" nagy kedvencem a témában, aminek alapjaként az egyik társszerző saját pénzügyi függetlenedése, majd az ebből kinövő tanfolyamok és évtizedes tanulói visszajelzések szolgálnak.
