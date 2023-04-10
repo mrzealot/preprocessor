@@ -30,7 +30,7 @@ Legjobb tippnek maradt a "közösség ereje" -- amiről azóta a [Kék Zónákn�
 És hogy mit keres itt kezdésnek ez a kis sztori?
 Érzékeltetésnek, hogy a siker témakörére is tekinthetnénk ilyen mértékben másként.
 Mert persze, ott is megvannak a látványosan, nyilvánvalóan szorosan összefüggő tényezők -- de ugyanúgy megbújnak a háttérben más szempontok is, amik legalább ugyanolyan fontosak, csak fingunk nincs róluk.
-Ezekre szeretné Malcolm Gladwell felhívni a figyelmünket [Kivételesek](https://moly.hu/konyvek/malcolm-gladwell-kivetelesek){:target="_blank"} (avagy eredetileg Outliers) című könyvében.
+Ezekre szeretné Malcolm Gladwell felhívni a figyelmünket [Kivételesek](https://moly.hu/konyvek/malcolm-gladwell-kivetelesek){:target="_blank"} (avagy eredetileg "Outliers") című könyvében.
 
 A tartalom a következőképp alakul:
 
@@ -66,7 +66,7 @@ A tartalom a következőképp alakul:
 
 ## <a name="mate"></a>A Máté-effektus
 
-A könyv egyik legemlékezetesebb esettanulmánya számomra a kanadai hoki világa, és hogy ott a ligák mennyire a "meritokrácia" alapján működnek.
+A könyv egyik legemlékezetesebb esettanulmánya számomra a kanadai hoki világa, és hogy ott a ligák mennyire a *meritokrácia* alapján működnek.
 De ez kb. minden kompetitív sportra, vagy akár művészi területre kivetíthető.
 Mert ezekben tényleg csak a tehetség számít, és mindenkit csak a saját érdemei alapján ítélnek meg.
 Legalábbis látszólag...
@@ -117,29 +117,29 @@ Csak hát nem tesszük, mert görcsösen ragaszkodunk ahhoz a tévképzetünkhö
 ## <a name="10k"></a>A 10.000 órás szabály
 
 Ha hegedűművészek vagy zongoristák karrierjét vizsgáljuk, egy érdekes szabályszerűség rajzolódik ki.
-Ami aztán szinte bármilyen területre érvényes, legyen az sakk, írás, bármiféle sport, stb.
+Ami aztán szinte bármilyen területre érvényes, legyen az sakk, írás, vagy bármiféle sport.
 A szabály pedig a következő: a profik mögött általában 10.000 óra gyakorlás áll, a "jók" mögött 4000 óra, a kompetensek mögött pedig 2000.
 
-Ami viszont érdekes, hogy egyetlen példa sem volt arra, hogy valaki 10.000 óra körüli gyakorlás **nélkül** legyen profi.
+Ami viszont érdekes, hogy egyetlen példát sem találtak arra, amikor valaki 10.000 óra körüli gyakorlás **nélkül** lett volna profi.
 És olyanra sem, aki 10.000 körüli óra gyakorlás **mellett** profivá ne vált volna.
 Ez az egész kb. 10 év, mert realisztikusan abba sűríthető bele ennyi munka -- ha viszont belesűrítjük, annak meglesz a jutalma.
 
 Jogos akkor a kérdés, hogy vajon hol a tehetség szerepe?
-Hát, mint ahogy [Dweck]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %})-nél is láthattuk, leginkább sehol.
+Hát, mint ahogy [Carol Dweck]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %}) kutatásában is láthattuk, leginkább sehol.
 Legalábbis: hosszútávon sehol.
 Rövid távon segíthet beindulni, vagy épp aggathatja a beindulást.
-De ez csak akkor szempont, ha hagyjuk, hogy a hátszélnek vagy a szembeszélnek hosszú távú hatása is legyen -- mondjuk azzal, hogy rákapcsolunk, vagy hogy abbahagyjuk.
+De ez csak akkor szempont, ha hagyjuk, hogy a hátszélnek vagy a szembe szélnek hosszú távú hatása is legyen -- mondjuk azzal, hogy rákapcsolunk, vagy hogy abbahagyjuk.
 Ez pedig szépen illeszkedik a hokis/focistás eddigi tanulságainkhoz.
 Akik megkapták a lehetőséget a 10.000 órányi gyakorlás minél korábbi és támogatottabb letudásához, azokból lettek a nagyok.
 
 A modell Bill Joy-jal és a Sun Microsystems alapításának sztorijával is konzisztens.
-Joy *pont* akkor lett egyetemi diák, amikor az egyetemén átálltak a lyukkártyákról az időosztásos rendszerre.
+Joy ugyanis *pont* akkor lett egyetemi diák, amikor az egyetemén átálltak a lyukkártyákról az időosztásos rendszerre (és így sokkal hatékonyabban programozhatott).
 És *pont* volt egy olyan hiba a rendszerben, ami miatt ki tudta kerülni az egy személyre jutó kvótát (és így kvázi bármennyit programozhatott).
-És az egyetemnek *pont* volt olyan fontos az informatika programja, hogy éjszakára is nyitva tartotta a hozzáférést (így, megintcsak, kvázi *bármennyit* programozhatott).
+És az egyetemnek *pont* volt olyan fontos az informatika programja, hogy éjszakára is nyitva tartotta a hozzáférést (így, megint csak, kvázi *bármennyit* programozhatott).
 Joy pedig igencsak fanatikus volt, és programozott is napi akár 8-10-12 órában, így neki 5 év alatt meglett a 10.000 órája.
 
 De ugyanez a Beatles-szel és a Hamburgi non-stop fellépéseikkel, ahol egyszerre akár 8 órán át, akár a 7 minden napján, hónapos turnusokban koncerteztek.
-Vagy Bill Gates-szel, aminek a "hátszelét" már tárgyaltuk [a pénz pszichológiájánál]({% post_url 2023-01-13-morgan-housel-a-penz-pszichologiaja %}).
+Vagy Bill Gates-szel, akinek a "hátszelét" már tárgyaltuk [a pénz pszichológiájánál]({% post_url 2023-01-13-morgan-housel-a-penz-pszichologiaja %}).
 Gyanúsan sok az 1955 körül született srác, akik *pont* jókor voltak jó helyen, hogy meglovagolhassák a PC forradalmat.
 De ugyanígy az 1830-as években született nagy Amerikai üzletemberekkel, akik fáraók és császárok gazdagsági szintjére jutottak fel, mert *pont* jókor születtek, hogy kihasználhassanak egy hatalmas gazdasági fellendülést.
 
@@ -160,7 +160,7 @@ Ezek után mondja valaki bármire is, hogy "tiszta meritokrácia".
 Lewis Terman a géniusz genetikai alapú kutatása tette fel az életét.
 Kisiskolás korú, extrém magas IQ-val megáldott gyerkőcöket válogatott össze az ő kis "Termeszei" közé, akiknek utána hosszú évekig követte az életútját.
 Leginkább talán miatta hisszük továbbra is a köztudatban, hogy az IQ az atyaúristen.
-De mint eddig is láttuk, a körülmények, és a befektetett munka azért nagyon nem mindegy.
+De mint eddig is láttuk, a körülmények és a befektetett munka azért nagyon nem mindegy.
 És az IQ sem feltétlen azt jelenti, mint gondolnánk.
 
 Megismerjük például a 200-as IQ-val rendelkező Chris Langan-t, aki kocsmai kidobóként dolgozik és mondhatni "nem sok vizet zavar" tudományos körökben.
@@ -181,25 +181,24 @@ Vagyis a bekerülésnél sem feltétlen annak kellett volna számítania, hogy p
 Honnan akkor mégis Chris Langan hátrányos helyzete?
 Elvégre ha nem is jobb, akkor is *elég jó*, nem?
 Persze, tiszta IQ-ban igen.
-De nem is az ész, hanem ilyen kis "szociális síkosításbeli" hiányosságok miatt nem jött be neki az egyetem.
+De nem is az ész, hanem ilyen kis "szociális síkosításbeli" hiányosságok miatt nem jött be neki a tudományos karrier.
 Lecsúszott űrlap beadási határidő, szülői aláírás hiánya, reggeli óra áttétele délutánra, kocsi lerobbanás, stb.
 Ezzel szemben Oppenheimer (egy másik zseni) még egy konkrét gyilkossági kísérletből is ki tudta dumálni magát.
 
 Jól mutatja ez, hogy az intelligencia nem minden.
 A praktikus intelligencia *ortogonális* a hagyományos intelligenciára (vagyis, merőleges rá, független tőle).
 Lehet úgy is magas az egyik, hogy nagyon alacsony a másik.
-És ez sokkal inkább neveltetés mint genetika kérdése.
-A passzív tűrés és meghunyászkodás a tekintéllyel szemben, vagy jogosultság érzése és aktív közbenjárás a saját érdekünkben.
+Passzív tűrés és meghunyászkodás a tekintéllyel szemben, vagy jogosultság érzése és aktív közbenjárás a saját érdekünkben -- ezek sokkal inkább neveltetés mint genetika kérdései.
 
 A praktikus intelligencia tulajdonképpen annyi, hogy ismerjük a helyzetek testreszabásának fortélyait.
 Persze senkinek nem érdeke, hogy felfuvalkodott kis hólyagokat neveljünk ki a következő generációnak.
-De látnunk kell, hogy ez is egy spektrum, és a másik vége sem jó, ahol az élet áldozati bárányai (akár az éles eszük ellenére).
+De látnunk kell, hogy ez is egy spektrum, és a másik vége sem jó, ahol az élet áldozati bárányai lesznek (akár az éles eszük ellenére).
 
 Mire a termeszek felnőttek, magának Terman-nak is be kellett látnia a tévedését:
     
 > Tapasztalataink alapján megállapíthatjuk, hogy az intelligencia és a teljesítmény távolról sem tökéletesen korrelálnak egymással.
 
-Az eredményeikben igencsak nagy a szórás felnőtt korra -- pedig ugye ők mind egytől egyik zsenik voltak.
+Az eredményeikben igencsak nagy a szórás felnőtt korukra -- pedig ugye ők mind egytől egyik zsenik voltak.
 Ennyit számít a családi háttér és az egyéb körülmények.
 Senki nem "self-made" (lásd Arnold kiváló [avatási beszéde](https://www.youtube.com/watch?v=RJsvR_gSEjg){:target="_blank"}).
 
@@ -268,7 +267,7 @@ A szüleik zsidó származása pedig előny, mert (mivel Európában nem lehetet
 
 ## <a name="becsulet"></a>A becsület kultúrája
 
-Eddig arról volt szó, hogy a szerencsés lehetőségek és körülmények, mint mondjuk a születési időnk vagy a szüleink foglalkozása, mekkora szerepet játszhatnak a sikerünkben.
+Eddig arról volt szó, hogy a szerencsés lehetőségek és körülmények, mint mondjuk a születési időnk vagy a neveltetésünk, mekkora szerepet játszhatnak a sikerünkben.
 A második részben pedig azt vizsgáljuk, hogy a kulturális hagyatékunk is ilyen jelentős-e.
 Spoiler warning: igen, az.
 
@@ -306,17 +305,18 @@ Csupa felső-középosztálybeli család városlakó egyetemista sarja, és még
 
 A következő szekcióban a Dél-Koreai Légitársaságon, illetve egy még korábbi, kolumbiai személyzet okozta légi szerencsétlenségen keresztül vizsgáljuk, hogy az apró (de összeadódó) mechanikai meghibásodásokon felül miért inkább az emberi mulasztások az igazi okok.
 Azon belül is a nem megfelelő (és nem elég határozott) kommunikáció.
-Mert senki nem mondja, hogy bizonyos országok pilótái nem olyan jól képzettek -- az viszont ott van a statisztikákban feketén-fehéren, hogy bizonyos országok repülőivel sokkal sokkal több volt akkoriban az incidens.
+Mert senki nem mondja, hogy bizonyos országok pilótái nem olyan jól képzettek -- az viszont ott van a statisztikákban feketén-fehéren, hogy bizonyos országok repülőivel sokkal több volt akkoriban az incidens.
 
-Ugye pont azért van másodpilóta és fedélzeti mérnök is a pilóta mellett, amiért redundáns, egymástól független elektromos rendszerek is: hogy sehol ne egyetlen tényezőtől függjön valami nagyon fontos.
-Ennek ellenére az utólagos vizsgálatok sorra azt derítették ki, hogy a katasztrófák mennyire összefüggnek az ún. "csökkentő beszédmóddal".
+Ugye pont azért van másodpilóta és fedélzeti mérnök a pilóta mellett, amiért redundáns, egymástól független elektromos rendszerek is: hogy sehol ne egyetlen tényezőtől függjön valami nagyon fontos.
+Ennek ellenére az utólagos vizsgálatok sorra azt derítették ki, hogy a katasztrófák mennyire összefüggnek az olyan hibákkal, amiket a másodpilótáék csak úgy "ráhagytak" a kapitányra.
 
+A főellenség az ún. "csökkentő beszédmód".
 Ez az, amikor a másodpilóta túlzottan óvatoskodik a megfogalmazásaival -- nehogy úgy tűnjön, hogy egy beosztott utasítgatja a felettesét.
 Viszont így csak pont azt a szerepet nem tölti be hatékonyan, ami miatt ott van: hogy egy második szempár legyen, és elkapja a "felettese" hibáit.
 Ha nem meri figyelmeztetni a főnököt, hogy hibázik, akkor hiába veszi észre a hibát.
 
 Az elemzők még lejjebb túrtak hát a szociológiában, és a Hofstede dimenziók mentén vizsgálták a kultúrákat.
-Ez kb. a Cohen & Nisbett-féle kategorizálás az előbbről, csak itt több tengely mentén, és országokra vetítve.
+Ez kb. a Cohen és Nisbett-féle kategorizálás az előbbről, csak itt több tengely mentén, és országokra vetítve.
 És lássunk csodát, szépen kijöttek az összefüggések.
 Egy releváns dimenzió az individualista vs. kollektivista nézet -- vagyis hogy mennyire vállalják az emberek saját magukért a felelősséget vs. mennyire csak bíznak a rendszerben.
 Egy másik szempont a bizonytalanságkerülés.
@@ -345,15 +345,15 @@ A törteiknél "3-rész-az-ötből" a három ötöd helyett, ami kicsit hosszabb
 Ezek pedig tagadhatatlanul adnak egy kulturális löketet az "ázsiaiak jók matekból" sztereotípiának -- kb. mintha mind január elején született hokijátékosok lennének.
 Ez a kisebb kezdeti ellenállás tulajdonképpen azt tanítja meg velük, hogy a matek igenis tanulható.
 
-Egy másik fontos kulturális faktor a rizstermelés elterjedtsége.
+Egy másik fontos kulturális faktor a rizstermelés elterjedtsége arrafelé.
 Sokkal kevésbé időhatékony, mint felénk a búza, de cserébe sokkal inkább helyhatékony, amire viszont ott rászorultak a földrajzi adottságok miatt.
 Ez pedig ahhoz vezetett, hogy más hozzáállás alakult ki bennük a kemény munkával kapcsolatban.
 
 Az európai paraszt összességében sokkal kevesebbet dolgozott, többet lazíthatott, telente hibernálódhatott.
 És nem is hajtotta semmi a többre őket, mert csak a földesúr szolgái voltak, és nekik semmi előnyük abból, ha keményebben dolgoznak.
 Ezzel szemben az ázsiai rizstermesztőnek alapból is nagyon keményen és intelligensen kellett robotolnia, hogy egyáltalán *valamennyi* rizs legyen.
-Ha viszont még okosabban és még keményebben tolta, akkor sem növekedett a kötött, egyszeri adója, így a maradékból több juthatott neki.
-Így jutunk egy olyan kultúrához, ahol az emberek megtanulták ösztönösen értékelni a kemény munkát.
+Ha viszont még okosabban és még keményebben tolta, akkor sem növekedett a kötött mértékű, egyszeri adója, így a maradékból több juthatott neki.
+Így alakulhatott ki egy olyan kultúra, ahol az emberek megtanulták ösztönösen értékelni a kemény munkát.
 
 A matekfeladatok megoldása sokszor nem extra intelligenciát igényelne, hanem egyszerűen annyit, hogy az ember elég időt töltsön a feladattal és alaposan átgondolja minden irányból.
 Vajon ehhez jót tesz-e a rizsföldekről hozott hozzáállás?
@@ -362,7 +362,7 @@ Vajon ehhez jót tesz-e a rizsföldekről hozott hozzáállás?
 >
 > -- Alan Schoenfeld
 
-Szép szemléltetést nyújt egy kapcsolódó kutatás, amiben egy nagy, sztenderdizált, amerikai matekteszt során maga teszt mellett egy nagyon hosszú és unalmas kérdőívet is kitöltettek a gyerekekkel.
+Szép szemléltetést nyújt egy kapcsolódó kutatás, amiben egy nagy, sztenderdizált, amerikai matekteszt során maga a teszt mellett egy nagyon hosszú és unalmas kérdőívet is kitöltettek a gyerekekkel.
 Meglepő módon szinte tökéletes a korreláció aközött, hogy valaki mennyire jó matekból, és hogy hány kérdést hagy üresen a kérdőíven.
 Mert hát a többség nem azért hagy üresen egy kérdőíves szekciót, mert nem tudná megválaszolni, hanem csak mert szimplán már unalmas -- ennyi energiát nem szán erre az egészre, haladjunk máár!
 Akinek viszont olyan a hozzáállása, hogy nekiveselkedik és csak azért is kitölti az egészet, az nyilván a matekfeladatokhoz se fél vállról fog viszonyulni, és ezért (lássunk csodát) azok is jobban fognak menni.
@@ -392,7 +392,7 @@ Akinek viszont olyan a hozzáállása, hogy nekiveselkedik és csak azért is ki
 ## Összefoglalás
 
 Amit mondani akarunk tehát, hogy a sikerünk soha nem csak a miénk -- mindannyian a neveltetésünk, a körülményeink, a társadalmunk és a korszakunk termékei vagyunk, legalább részben.
-Ez az emlékeztető egyrészt lehangoló, mert varázsütésre senki nem születhet tudatosan közelebb január elsejéhez, se nem válhat kevésbé Dél-Koreaivá.
+Ez az emlékeztető egyrészt lehangoló, mert varázsütésre senki nem születhet tudatosan közelebb január elsejéhez, se nem válhat kevésbé Dél-Koreaivá a pilótafülkében.
 Másrészt viszont reményt is adhat!
 
 Elvégre ha belegondolunk, hogy a januári hokijátékosok sem valami megfoghatatlan tehetség miatt jobbak a többieknél, akkor a környezet nyomásai ellenére mi magunk is magabiztosabban beletuszkolhatjuk a 10.000 óra gyakorlást a választott területünkbe.
