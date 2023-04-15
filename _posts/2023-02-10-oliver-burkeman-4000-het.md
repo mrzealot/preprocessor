@@ -294,7 +294,7 @@ Mert például kb. senki nem *tervezi*, hogy egy videó, ahol befőttes gumikat 
 Mégis igen sok ember esetében ilyesmi történik, napi szinten.
 A figyelem nem tárolódik (ahogy az idő sem) -- ha nem mi választjuk meg, hogy hogyan használjuk fel, akkor majd valamilyen külső hatások választanak helyettünk.
 
-Manapság a digitális figyelemelterelések a legnépszerűbbek (lásd [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %})), de már a görög (nem dinnye!) filozófusok is foglalkoztak a témával.
+Manapság a digitális figyelemelterelések a legnépszerűbbek (lásd [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %})), de már a görög (nem dinnye!) filozófusok is foglalkoztak a témával.
 Csak ők belső karakterhibaként tekintették, amikor nem arra fordítjuk az időnket, amiről valljuk, hogy fontos lenne nekünk.
 Persze van, ami ilyen ösztönös, "alulról felfelé" megzavarás, mint egy pittyegő telefon vagy egy felsíró gyerek.
 De a lényeg az, hogy a "felülről lefelé", tudatos figyelmünket mire fordítjuk -- és hogy ezt tudatosan választottuk-e.

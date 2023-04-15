@@ -11,7 +11,7 @@ excerpt: >
     A módszer ígérete nem kevesebb tehát, mint az anyagi függetlenség (financial independence, vagy FI), ami siker esetén azt jelentené, hogy már jóval nyugdíj előtt "nyugdíjazhatnánk" magunkat.
 ---
 
-Az elmúlt két hétben [Henry David Thoreau]({% post_url 2020-03-06-henry-david-thoreau-walden %}) és [Cal Newport]({% post_url 2020-03-13-cal-newport-digital-minimalism %}) jóvoltából sokat hallhattunk az egyszerűségről, a minimalizmusról és a tudatosságról.
+Az elmúlt két hétben [Henry David Thoreau]({% post_url 2020-03-06-henry-david-thoreau-walden %}) és [Cal Newport]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %}) jóvoltából sokat hallhattunk az egyszerűségről, a minimalizmusról és a tudatosságról.
 Most pedig rátérünk arra, hogy egy hasonló hozzáállás hogyan formálhatja át a személyes pénzügyeinket is.
 Kedvencem a témában [Vicki Robin -- Your Money or Your Life](https://www.goodreads.com/book/show/5634236-your-money-or-your-life){:target="_blank"} (kb. "Pénzt vagy életet") című könyve, aminek alapjaként az egyik társszerző saját pénzügyi függetlenedése, majd az ebből kinövő tanfolyamok és évtizedes tanulói visszajelzések szolgálnak.
 

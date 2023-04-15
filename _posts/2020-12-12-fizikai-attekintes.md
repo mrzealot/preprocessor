@@ -179,7 +179,7 @@ Nem az a cél, hogy áram vagy vezetékes víz nélkül irány az erdőbe!
 Csak azért tegyük fel magunknak a kérdést, hogy tényleg szükségünk van-e arra az új telefonra?
 Vagy hogy mennyi plusz munkát ér az a pár napos nyaralás? 
 
-Cal Newport -- [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %}) című könyve a fenti lecke digitális párja, ahol az ár-érték nézőpontot a telefon, alkalmazás, és szociális média használatunkra is vonatkoztatjuk.
+Cal Newport -- [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %}) című könyve a fenti lecke digitális párja, ahol az ár-érték nézőpontot a telefon, alkalmazás, és szociális média használatunkra is vonatkoztatjuk.
 Sajnos nem maradunk ellenfél nélkül, mert a gyártóknak kimondottan nagy érdeke fűződik hozzá, hogy a termékeik minél inkább függőséget okozzanak.
 Na nem mintha a társadalmi nyomás nem így működne a materiális javaknál...
 

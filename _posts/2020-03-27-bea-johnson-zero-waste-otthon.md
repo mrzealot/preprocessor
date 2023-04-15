@@ -392,7 +392,7 @@ Ajánlott, hogy a fizikai irodánk (asztal, fiókok) és a digitális világunk 
 Sok a papíros kompromisszum, de az igazi megoldás a papírmentesség lenne -- amire vannak is tippek, de ez úgyis egyénfüggő.
 Ne feledjük, hogy az elektromos hulladék külön kezelendő; akár alkatrésznek adjuk el, akár dedikált feldolgozóhelyre visszük.
 
-Szerepel még egy külön szekció a digitális rendrakásról, de itt önismétlés helyett hadd utaljak csak vissza a [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %}) bejegyzésemre, ahol ezt már ugye kellően kiveséztük.
+Szerepel még egy külön szekció a digitális rendrakásról, de itt önismétlés helyett hadd utaljak csak vissza a [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %}) bejegyzésemre, ahol ezt már ugye kellően kiveséztük.
 Emellett feljön még a kéretlen levelek és szórólapok megszűrése, ahol igencsak szembe kell úsznunk az árral.
 A rengeteg szükségtelen papírhulladék csökkentése miatt viszont megéri, még ha kezdeményezést és energia befektetést igényel is!
 Mondjuk a szerző leírása alapján Amerikában elterjedtebbnek hangzik, mint nálunk, de azért persze itt is lenne mit javítani...
@@ -505,7 +505,7 @@ De nem kell túlzásokba esni, itt is csak egyszerűen!
 A dekoráció nagy valószínűséggel sok háztartásban megtizedelhető lenne -- nálunk például még a Karácsonyfa sem "élte túl" a tisztogatásokat.
 
 Szokjunk le az üdvözlőlapozásról is!
-A könyv szerint digitális _valami_ van helyette, de én még inkább a [Digitális Minimalizmust]({% post_url 2020-03-13-cal-newport-digital-minimalism %}) említeném itt (megint).
+A könyv szerint digitális _valami_ van helyette, de én még inkább a [Digitális Minimalizmust]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %}) említeném itt (megint).
 Ha számít a kapcsolat, akkor beszélgessünk; ha nem, akkor meg ne!
 Illetve -- mint a gyerekeknél említettük -- itt is ajándékozzunk tárgyak helyett inkább élményeket!
 Vagy az időnket, a szakértelmünket, ehető vagy felhasználható dolgokat, stb.

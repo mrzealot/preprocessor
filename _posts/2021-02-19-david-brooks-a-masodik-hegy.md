@@ -136,7 +136,7 @@ A hosszú távú öröm ugyanis abból jön, hogy megélhetjük az értékeinket
 Ahhoz pedig kellenek az "unalmas" napok is, nem mindig valami új kaland.
 
 Amúgy is egyre nehezebben tudunk az élet nagy kérdéseire fókuszálni -- mondjuk mert egyre gyorsabb a hétköznapok tempója.
-A [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %})-ben vagy a [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %})ban már emlegetett figyelemelterelések sem segítenek.
+A [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %})-ben vagy a [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %})ban már emlegetett figyelemelterelések sem segítenek.
 De ha egy percig végre nem menekülnénk magunk elől, akkor leeshetne, hogy a totális szabadság egy nagy szívás.
 Nem elmerülni kell benne, hanem csak megtalálni általa azt a nagyon korlátozott egy-két dolgot, amik mellett utána lehorgonyozhatunk
 

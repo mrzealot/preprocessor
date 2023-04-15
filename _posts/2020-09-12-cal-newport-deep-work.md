@@ -10,7 +10,7 @@ excerpt: >
     A Deep Work (vagyis Mély Munka) pedig a “szűk” vádra is rácáfol, hiszen itt már sokkal általánosabban (néhol akár filozófiai szemszögekből) tekintünk a koncentrációnkra, és hogy hogyan hozhatnánk ki belőle a legtöbbet.
 ---
 
-Habár Cal Newport [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %})a egy relatíve szűk és specifikus témát fedett le, mégis kimondottan tetszett, mert annyira érthetően és meggyőzően érvelt.
+Habár Cal Newport [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %})a egy relatíve szűk és specifikus témát fedett le, mégis kimondottan tetszett, mert annyira érthetően és meggyőzően érvelt.
 Talán nem meglepő ezért, ha ehhez egy másik Cal Newport művet választottam párnak a hétre.
 A [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"} (vagyis Mély Munka) pedig a "szűk" vádra is rácáfol, hiszen itt már sokkal általánosabban (néhol akár filozófiai szemszögekből) tekintünk a koncentrációnkra, és hogy hogyan hozhatnánk ki belőle a legtöbbet.
 
@@ -420,7 +420,7 @@ Az előbb azt tanultuk meg, hogy hogyan integrálhatunk a napjainkba annyi mély
 
 ## <a name="3"></a>Hagyjunk fel a szociális médiával
 
-Ez a szekció gyakorlatilag egy-az-egyben ugyanaz, amiről Newport ugye később a teljes [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %}) könyvét is írta.
+Ez a szekció gyakorlatilag egy-az-egyben ugyanaz, amiről Newport ugye később a teljes [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %}) könyvét is írta.
 Itt is sokat tárgyaljuk az ár-érték arányú megközelítést, a szociális média ártalmas mellékhatásait, az értékes figyelem és a mélység lehetőségének elpazarlását, stb.
 Szóval nem szaporítanám nagyon a szót, tessék visszaolvasni!
 Minden esetre a lényeg talán összefoglalható az alábbi idézetben:

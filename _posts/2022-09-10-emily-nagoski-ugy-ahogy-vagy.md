@@ -369,7 +369,7 @@ De ez idővel változni fog, és sokat segíthet, ha megtanuljuk a jót látni m
 Na most, a mai média testábrázolása, a magazinok kapcsolati mintái, a pornó által normálisnak lefestett szexuális dolgok, stb. -- ezek mind mérgezik az agyunkat, ami miatt kimutathatóan rosszabbul érezzük magunkat.
 Akkor mi lenne mondjuk, ha nem fogyasztanánk?
 Vagy minimum nem annyit.
-Lásd még: [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %}), [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %}).
+Lásd még: [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %}), [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %}).
 
 <br>
 

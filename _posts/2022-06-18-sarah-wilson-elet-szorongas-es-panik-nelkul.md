@@ -441,7 +441,7 @@ A középkori parasztnak megmondták, mikor dolgozzon, és az év fele gyakorlat
 A korábbi, de már modernebb időszakban a 8 óra munka tényleg 8 óra volt -- nincs email, nincs telefon vagy gép otthon, nem röpködünk egyik helyről a másikra csak úgy, stb.
 A mai világban viszont megvan a lehetőség, hogy bárhol, bármikor, bármennyit produktívak legyünk.
 Na igen, de ezzel jár egy felelősség is, hogy meghúzzuk a saját határainkat, mert a világ többé nem fogja helyettünk.
-Konkrétumokért lásd [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digital-minimalism %}).
+Konkrétumokért lásd [Digitális minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %}).
 
 Illetve ennek a másik oldala, amit szintén a javunkra fordíthatunk: időnként tegyük ki magunkat szándékosan zavaró tényezőknek.
 És olyankor ahelyett, hogy küzdenénk ellene, csak várjuk ki, mi történik -- ezzel eltompíthatjuk a tökéletesség iránti vágyunkat.
