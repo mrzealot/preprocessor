@@ -4,6 +4,7 @@ title: A modern oktatási rendszerről
 cover: moderneducation
 tags: [szösszenet]
 date: 2021-10-30 00:01
+youtube: H5-4YboJfXw
 excerpt: >
     Egy tőlem abszolút idegen érvelés, amiben konkrétan *védem* az oktatási rendszert.
     Egy kicsit.
