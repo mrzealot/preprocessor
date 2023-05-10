@@ -30,7 +30,7 @@ A tartalom a következőképp alakul:
 - A 7 alapelv
     1. [A boldogság előny](#1)
     1. [A forgáspont és az erőkar](#2)
-    1. [A tetrisz hatás](#3)
+    1. [A Tetris hatás](#3)
     1. [Felfelé "esés"](#4)
     1. [A Zorro kör](#5)
     1. [A 20 másodperces szabály](#6)
@@ -47,7 +47,7 @@ A tartalom a következőképp alakul:
 
 ## <a name="intro"></a>Bevezetés
 
-Achor Harvardi diákként, majd később koleszos felügyelőként első sorból nézhette, ahogy sokan pár hét alatt "kiábrándultak" a kiváltságból, hogy oda járhatnak, és belesüppedtek a napról-napra apróságok negativitásába.
+Achor Harvardi diákként, majd később koleszos felügyelőként első sorból nézhette, ahogy sokan pár hét alatt "kiábrándultak" az elit egyetem kiváltságából, és belesüppedtek a napról-napra apróságok negativitásába.
 Vessük ezt össze egy későbbi előadásturnéja során érintett kis Afrikai iskolával, ahova a diákok 95%-a őszinte örömmel járt.
 Ennyit számít a saját valóságunk megélésében a szemléletmód.
 
@@ -73,7 +73,7 @@ Vagyis most nem az átlagig akarunk felérni, hanem magát az átlagot akarjuk f
 A recept három lépésből áll:
 
 **Először** is higgyük el, hogy a boldogságunk alapszintje nem velünk született tulajdonság.
-A neuroplaszticitást sokáig vittaták, de most már kutatásokkal alátámasztott, és be kell látnunk, hogy puszta gondolatokkal igenis meg tudjuk változtatni a saját agyunk működését.
+A neuroplaszticitást sokáig vitatták, de most már kutatásokkal alátámasztott, és be kell látnunk, hogy puszta gondolatokkal igenis meg tudjuk változtatni a saját agyunk működését.
 További infóért lásd [Dweck]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %}).
 
 **Másodszor**: szívleljük meg a következő 7 mintát, amiket Achor 1600 Harvardi diák részletes tanulmányozása során figyelt meg, és aztán egy valag való világbeli szituációban is sikerrel alkalmazott.
@@ -108,16 +108,16 @@ Előbb nézték például a szubjektív boldogságot, és aztán további 1-2 é
 És határozottan igen.
 
 Más kísérletekben szintén: úgy töltettek ki teszteket, hogy *előre* boldog kontra semleges hangulat alapján válogatták szét a csoportokat, és itt is szépen látszott a pozitív hatás.
-A boldogság konkrétan még a várható élettartamra is hat -- lásd apácák naplójának szentimentum vizsgálata, és hogy a többnyire pozitív gondolkodásmódúak átlagban majd 10 évvel tovább éltek, mint a negatív vagy semleges észjárású kollegínáik.
+A boldogság konkrétan még a várható élettartamra is hat -- lásd apácák naplójának szentimentum vizsgálata, és hogy a többnyire pozitív gondolkodásmódúak átlagban majd 10 évvel tovább éltek, mint a negatív vagy semleges észjárású kollegináik.
 
 Egy szó mint száz, tényleg a boldogság van előbb, és csak aztán a siker.
 Kopernikuszhoz hasonló jelentőségű lehet ez az átállás is a fejünkben!
 Mert a boldogság bizony nem a siker körül kering, hanem pont fordítva!
 
 Sőt, a félelem mentális "beszűkítő" hatásával szemben a boldogság/nyugalom/elégedettség nem csak neutrális, de konkrétan "kiszélesítő" hatású.
-Megnövekedett kreativitás, gondolkodási tempó és alkalmazkodóképesség, ami nem csak placebó, mert az agyunk hormonháztartása is alátámasztja.
+Megnövekedett kreativitás, gondolkodási tempó és alkalmazkodóképesség, amit az agyunk hormonháztartása is alátámaszt.
 
-Szép és jó persze a nagyívű boldogság megcélzása, mint például az életcélunk felé építkezés, a fontos emberi kapcsolatok ápolása, a lehetőségek kiaknázása és az általános optimizmus.
+Szép és jó persze a nagyívű boldogság, mint például az életcélunk felé építkezés, a fontos emberi kapcsolatok ápolása, a lehetőségek kiaknázása és az általános optimizmus.
 De már a kis, átlagos, hétköznapi pozitívumok is nagyon sokat számíthatnak a teljesítményünkben.
 És ha ezeket rendszeresen beépítjük a rutinunkba, akkor tartósan megemelhetik a boldogságunk alapszintjét.
 
@@ -165,7 +165,7 @@ De árthat is: egy kísérletben bekötött szemű diákokkal elhitették, hogy 
 
 Pár szemléletes példa:
 
-- Hotel takarítók, felének elmondták, hogy ez milyen jó edzés, és lássunk csodát, pár hónap alatt elkezdtek fogyni és a koleszterin szintjük csökkent -- az aktivitás maradt, de már nem ugyanúgy élték meg.
+- Hotel takarítók felének elmondták, hogy ez milyen jó edzés, és lássunk csodát, pár hónap alatt elkezdtek fogyni és a koleszterin szintjük is csökkent -- habár az aktivitás maradt ugyanaz, ők már nem ugyanúgy élték meg.
 
 - Ázsiai nők, akik 2 matek tesztet töltöttek, az egyiket "nőként" (akiknek ez ugye szexista sztereotípiák szerint nem kéne, hogy menjen), a másikat ázsiaiként (ahol meg pont nagyon is kéne, hogy menjen), és mekkora különbség -- ugyanazok az emberek önmagukhoz hasonlított teljesítménye között!
 
@@ -174,7 +174,7 @@ Pár szemléletes példa:
 - 75 éves bácsik orvosi leletekkel kimutatható "visszafiatalodása" egy hétnyi fiatal korukat szimuláló szerepjáték után.
 
 Nagyon tetszett még Amy Wrzesniewski modellje, aki munka, karrier, és hivatás kategóriákba sorolta azt, amivel foglalkozunk.
-Leegyszerűséítve: a munkát a pénzért csináljuk, a karriert a sikerért, a hivatásunkat pedig önmagáért.
+Leegyszerűsítve: a munkát a pénzért csináljuk, a karriert a sikerért, a hivatásunkat pedig önmagáért.
 És ez attól teljesen független, hogy konkrétan mit csinál az ember.
 Az számít, hogy hogyan **tekint** arra, amit csinál.
 
@@ -194,7 +194,7 @@ Bármelyiket is választjuk, az agyunk tenni fog róla, hogy igazunk legyen.
 
 
 
-## <a name="3"></a>A tetrisz hatás
+## <a name="3"></a>A Tetris hatás
 
 Az agyunk feldolgozási kapacitása igencsak véges.
 Ezért ha mindig a negatív/fájdalmas/stresszes/bizonytalan dolgokra figyelünk, akkor a pozitívakra már nem jut a kvótából.
@@ -207,20 +207,20 @@ Amit keresünk, azt mindenhol megtaláljuk.
 Amit viszont nem, azt az orrunk előtt sem fogjuk észrevenni.
 Dolgozzon hát inkább értünk, ne ellenünk, ne?
 
-Achor fantázianeve erre a jelenségre "Tetrisz hatás" pár tetrisz függő kognitív utóérzete alapján, akik már az utcán is mindenben azt a mintát látták, amire a játék "nevelte" őket.
+Achor fantázianeve erre a jelenségre "Tetris hatás" pár Tetris függő kognitív utóérzete alapján, akik már az utcán is mindenben azt a mintát látták, amire a játék "nevelte" őket.
 Könnyen benne ragadunk ilyen világlátási módokban, csak ezek nem mindig fognak minket szolgálni.
 Lásd az adóellenőr, aki egész nap csak hibákat keres, és emiatt arra van beállva az agya, hogy a saját életében is csak a rossz dolgokat vegye észre.
 Vagy az ügyvédek, akiket arra nevelnek, hogy folyton az érvelési hibát keressék, és szkeptikusak legyenek elfogadó helyett.
 Vagy az atléták, akik túl kompetitívek lesznek; a menedzserek, akik túl mikromenedzselők; a bankárok, akik túl kockázatelemzők...
 Szóval ha már minta, akkor inkább a túl-pozitív-izálásba ragadjunk bele, ne az ilyenekbe.
 
-Hogy pozitívra állíthassuk magunkat, nekünk is olyan "ránevelésre" van szükségünk, mint amit a Tetrisz függés biztosítana.
+Hogy pozitívra állíthassuk magunkat, nekünk is olyan "ránevelésre" van szükségünk, mint amit a Tetris függés biztosítana.
 A legbiztosabb módszer, ha minden nap listát írunk a pozitív dolgokról, amikkel találkoztunk.
 Akár a munkában, akár a magánéletben.
 Napi 5 perc, három jó dolog ami történt.
 Triviális, de mégis hatásos, mert arra szoktatja az agyunkat, hogy egyre élesebben észlelje a jó dolgokat.
 
-A pozitív Tetris hatás következményei (a boldogság mellett) a hála és az optimizmus.
+A pozitív Tetris hatás következményei a boldogság mellett a hála és az optimizmus.
 Hála, mert annyi jó dolog történik velünk (mint ugye mindannyiunkkal, csak van, aki észleli is).
 És optimizmus, mert ez alapján nyilván azt is várja az ember, hogy továbbra is jó dolgok fognak történni.
 Ha viszont ezt hisszük, azzal arra neveljük magunkat, hogy majd képesek legyünk felismerni a lehetőséget -- vagyis megfelelően hosszú távon önbeteljesítő jóslattá válik.
@@ -263,7 +263,7 @@ Elsősorban a szemléletmódjuk.
 A történtek pozitív átértelmezése, az optimizmus, az elfogadás, illetve a probléma fel- és elismerése (ahelyett, hogy kerülni vagy tagadni próbálnánk).
 Ők azok, akik nem "visszapattannak", hanem konkrétan "előre pattannak".
 
-A felfelé esés képességének kialakatásához három főbb tippet kapunk.
+A felfelé esés képességének kialakításához három főbb tippet kapunk.
 Egyrészt kerüljük a **tanult tehetetlenségit**, mint a pestist.
 Ez azért fontos, mert természetesen mindannyiunknál lesznek majd olyan szituációk, amik nem a mi irányításunk alá esnek.
 Elég közelről nézve tényleg lesz olyan, hogy a kudarc elkerülhetetlen.
@@ -305,13 +305,13 @@ Ezzel szimbolizáljuk, hogy nekünk is mindig csak arra kell figyelnünk, ami a 
 Lásd [Stephen Covey]({% post_url 2021-04-10-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa %}#proaktiv), proaktivitás.
 
 Az irányítás az életünk minden területére pozitívan hat.
-Akinek "szabadabb a keze", az boldogabb (otthon és a munkában), sikeresebb, elégedettebb, stb.
-Ezért fontos, hogy magunkon belülre vagy kívülre képzeljük az irányítást.
+Akinek "szabadabb a keze", az boldogabb, sikeresebb és elégedettebb.
+Ezért fontos, hogy magunkon belülre vagy kívülre képzeljük-e az irányítást.
 Aki belülre, az tesz dolgokat, és azoknak a tetteknek következményeik lesznek.
 Aki kívülre, azzal történnek dolgok, és ő elszenvedi a következményeiket.
 Sőt, nem is muszáj szenvedni -- az is gáz, ha a sikereiről sem hiszi, hogy (legalább részben) a saját érdeme.
 
-És mindez, a placebo-hoz hasonlóan, nem pusztán mentális.
+És mindez, a Placebo-hoz hasonlóan, nem pusztán mentális.
 Vagyis a szervezetünk tesz róla, hogy ne az legyen.
 Két szélsőséges kutatási eredmény:
 
@@ -319,7 +319,7 @@ Két szélsőséges kutatási eredmény:
 
 - Aki viszont igenis érzett némi kontrollt (akár csak egy idős otthonban, egy szobanövény gondozásával kapcsolatban), annak felére csökkent a kora alapján várható halandósági kockázata.
 
-Ha ezek kellően meggyőztek minket az irányítás kézbentartásáról, akkor a szerző a következő tippeket ajánlja:
+Ha ezek kellően meggyőztek minket az irányítás kézben tartásáról, akkor a szerző a következő tippeket ajánlja:
 
 - Védekezzünk az **"érzelmi gépeltérítés"** ellen!
 Stressz során az evolúciós "üss vagy fuss" sokszor olyan szituációban kapcsol be, ahol a gondolkodás helyesebb reakció lett volna.
@@ -331,7 +331,7 @@ Nem túl kicsiben, hogy ne legyen kihívás -- de nem is túl nagyokban, hogy az
 
 - Törekedjünk a **folyamatos fejlődésre**.
 Amik ugye, az előbbi pont alapján, kis lépésekben fognak történni.
-De ha szabad újabb közhellyel élnem, ez a sok kicsi sokra megy (lásd ["kicsi fejlődések összeadódása"]({% post_url 2021-01-09-james-clear-atomi-szokasok %}#intro))
+De ha szabad újabb közhellyel élnem, ez a sok kicsi sokra megy (lásd ["apró fejlődések összeadódása"]({% post_url 2021-01-09-james-clear-atomi-szokasok %}#intro)).
 
 <br>
 
@@ -383,10 +383,10 @@ Kicsit bővebben pedig úgy jellemezte az egyik kutató az adatokat:
 >> 70 years of evidence that our relationships with other people matter, and matter more than anything else in the world.
 
 Ha van egy szociális mentőhálónk, amire támaszkodhatunk a nehézségek során, akkor könnyebben visszapattanunk a pofonokból, magasabbra jutunk, és menet közben is jobban érezzük magunkat.
-Eleve kevesebb helyzetet fogunk stresszesként megélni, ha rendben vannak az emberi kapcsolataink -- és azokból is hamarabb vissza tudunk majd állni a normálisra, amit mégis úgy élnénk meg.
+Eleve kevesebb helyzetet fogunk stresszesként megélni, ha rendben vannak az emberi kapcsolataink -- és azokból is hamarabb vissza tudunk majd állni a normálisra, amit mégis stresszként élnénk meg.
 
 A kapcsolatok erejét persze vetíthetjük kollégákra, főnök-beosztott viszonyokra, és mérhetjük extra bevételben vagy nagyobb produktivitásban.
-De ugyanúgy mérhető privát kapcsolatokban, alacsonyabb vérnyomásban is ritkább depresszióban.
+De ugyanúgy mérhető privát kapcsolatokban, alacsonyabb vérnyomásban és ritkább depresszióban.
 Szóval csak egy gyors emlékeztető a végére, hogy ha valamit áldozni kell az extra időért/energiáért, akkor azok **ne** a kapcsolataink legyenek!
 
 <br>
@@ -401,12 +401,12 @@ Szóval csak egy gyors emlékeztető a végére, hogy ha valamit áldozni kell a
 ## <a name="fertozo"></a>A boldogság fertőző
 
 Achor boldogító tippjeit külön-külön tárgyaltuk, de a gyakorlatban egyik szokás húzza magával a másikat.
-Akinél rendszeres a Tetrisz hatás hálaadása, az könnyebben látja meg a felfelé esés lehetőségét.
+Akinél rendszeres a Tetris hatás hálaadása, az könnyebben látja meg a felfelé esés lehetőségét.
 Aki meghúzza a saját Zorro körét, az könnyebben tünteti el a saját 20 másodperces akadályait, hogy új szokásokat alakíthasson ki.
 Mondhatni, hogy ha egyszer úgy igazán belefogunk, akkor onnantól egy felívelő spirálra számíthatunk.
 
 De a boldogság egy "szétívelő" spirál is, mert a szokásaink, a hozzáállásunk, és a tetteink gyakorlatilag fertőzőek lehetnek a külvilág számára.
-És nem is csak a közvetlen kapcsolatainknak, hanem akár "harmadfokon"
+És nem is csak a közvetlen kapcsolatainknak, hanem akár "harmadfokon".
 
 > Tudom, hogy nem csak a fiamra vagyok hatással, hanem akár a fiam legjobb barátjának az anyjára is.
 >
@@ -419,7 +419,7 @@ Annak köszönhetjük, hogy nem csak akkor érzünk tűszúrást, ha minket megs
 
 Ezáltal egy hangulat pillanatok alatt elterjedhet.
 A sok oda-vissza terjesztgetés hatására pedig hamarosan összecsiszolódunk és szinkronizálódunk a környezetünkkel.
-Egy otthonon vagy munkahelyen belül hamar beáll egy (gyakran nem kimondottabban optimális) norma, amit utána nehéz kizökkenteni.
+Így egy otthonon vagy munkahelyen belül hamar beáll egy (gyakran nem kimondottabban optimális) norma, amit utána nehéz kizökkenteni.
 
 De minél jobban beleássuk magunkat a saját boldogságunkba (és aztán ezt minél kifejezőbben és/vagy minél magasabb pozícióból vetítjük a külvilág felé), annál jobban terjeszthetjük az "igét".
 Legyünk hát inkább napsugár-foszlányok mások életében, ne egy újabb sztereotipikus, búval baszott esőfelhő.
@@ -452,4 +452,4 @@ Vagyis még annak is fontos a meditáció és a hobbi projekt, aki a sikerre haj
 
 Ha vállaljuk, hogy boldogok leszünk menet közben, azzal szinte tisztességtelen versenyelőnyt adhatunk saját magunknak.
 És még ha nem is jön be az egyenlet siker része, mellékhatásként akkor is boldogok voltunk az úton!
-Akinek egy ilyen "akciós ajánlat" sem rendezi át az értékrendjét, annak a boldogság valószínűleg örökre épp csak a horizonton túl fog lebegni.
+Akinek egy ilyen "akciós ajánlat" sem rendezi át az értékrendjét, annak a boldogság valószínűleg örökre épp csak a horizonton túl fog ragadni.
