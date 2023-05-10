@@ -4,6 +4,7 @@ title: Paul Wade - Fegyencedzés
 tags: [aktivitás]
 pages: 320
 date: 2020-04-03 15:00
+youtube: p6H-NXQoAo0
 excerpt: >
     A blog kezdete óta már sokat olvashattunk a saját fejünkön belüli rendrakásról, illetve itt-ott az emberi kapcsolatok és az anyagi minimalizmus is előkerültek.
     Ami viszont gyanúsan hiányzik, az a saját testünk karbantartása!

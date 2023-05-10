@@ -4,6 +4,7 @@ title: Chris Aceto - Minden, amit a zsírégetésről tudnod kell
 tags: [táplálkozás]
 pages: 170
 date: 2020-04-10 15:00
+youtube: f0dWJNvRfDk
 excerpt: >
     A testünk karbantartását a Fegyencedzés után a helyes táplálkozási szokásokkal folytatjuk.
     És be kell, hogy valljam, ez sokkal nagyobb fejfájást okozott, mint amire számítottam.
