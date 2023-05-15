@@ -30,7 +30,7 @@ A nehezebb része pedig a viselkedésünkhöz, szokásainkhoz és mintáinkhoz k
 Lehet, hogy tudjuk, mit kéne csinálni, de ettől még senki nem készít fel minket arra, hogy mi fog lejátszódni a fejünkben, amikor majd meg is próbáljuk azt csinálni.
 
 Erre való a pénz "puhább", művészibb megismerése -- ha nem is a kemény tudomány helyett, de mellé mindenképp.
-Ezt tanítja nekünk Morgan Housel [A pénz pszichológiája](https://moly.hu/konyvek/morgan-housel-a-penz-pszichologiaja){:target="_blank"} című könyvében.
+Ezt tanítja nekünk Morgan Housel [A pénz pszichológiája](https://www.a4cbooks.hu/morgan-housel-a-penz-pszichologiaja){:target="_blank"} című könyvében.
 A tartalom a következőképp alakul:
 
 1. [Senki nem hülye](#1)

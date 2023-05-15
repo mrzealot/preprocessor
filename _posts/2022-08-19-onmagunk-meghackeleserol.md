@@ -4,6 +4,7 @@ title: Önmagunk "meghackeléséről"
 cover: hacknslash
 tags: [szösszenet]
 date: 2022-08-19 00:01
+youtube: VkOWOC82hkA
 excerpt: >
     Még az egyetemista éveim vége felé jött ki egy marha jó kis puzzle játék Hack'n'Slash címmel, ami -- amellett, hogy egy kriminálisan alulértékelt videojáték-történelmi remekmű -- egy váratlanul fennkölt önfejlesztési tanulságot rejteget...
 ---
