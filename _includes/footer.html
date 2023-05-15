@@ -66,7 +66,7 @@
 
         <!-- Number formatting based on this gist: https://gist.github.com/hexerei/5bd632b2a179717e219fbe18c5793181 -->
         <p class="stats">Feldolgozva:
-          <span class="counter">{% include number_format.html number=books decimals=0 ds='.' ts=',' %}</span>
+          <span class="counter"><a href="{{ 'cimke/konyv' | relative_url }}">{% include number_format.html number=books decimals=0 ds='.' ts=',' %}</a></span>
           könyv (&nbsp;<span class="counter">{% include number_format.html number=pages decimals=0 ds='.' ts=',' %}</span>
           oldal&nbsp;)
         </p>
