@@ -4,6 +4,7 @@ title: Gary Chapman - Az 5 szeretetnyelv
 tags: [kapcsolatok]
 pages: 209
 date: 2020-04-24 15:00
+youtube: 7OkAiUxmG6A
 excerpt: >
     Amiről még nem beszéltünk sokat, az az emberi kapcsolatok, azon belül is a párkapcsolatok témaköre.
     Ezt a hiányosságot Gary Chapman -- Az 5 szeretetnyelv című könyvével szeretném most orvosolni.
