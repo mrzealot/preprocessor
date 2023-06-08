@@ -4,6 +4,7 @@ title: Dale Carnegie - Hogyan szerezzünk barátokat és befolyásoljuk az ember
 tags: [kapcsolatok, stratégia]
 pages: 288
 date: 2020-05-01 15:00
+youtube: QAZEwiUfy1k
 excerpt: >
     Ez alkalommal a múlt hét párkapcsolatai fókuszát a barátokon keresztül egészen az ismeretlenekkel való bánásmódig szélesítjük ki.
     A téma "nagy öregje" pedig természetesen nem lehet más, mint Dale Carnegie, aki "Hogyan szerezzük barátokat és befolyásoljuk az embereket" című könyvében alapvető stratégiákat fogalmaz meg.

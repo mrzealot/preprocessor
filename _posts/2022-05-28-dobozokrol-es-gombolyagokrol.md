@@ -4,6 +4,7 @@ title: Dobozokról és gombolyagokról
 cover: boxesandyarn
 tags: [szösszenet]
 date: 2022-05-28 00:01
+youtube: _GfK7HENXm0
 excerpt: >
     Nemrégiben beleakadtam egy reddit posztba, ami igencsak éles és alapvető, mégis vicces ellentétet húzott a férfiak és a nők közé.
     Erről pedig eszembe jutott egy sokkal régebbi, de szinte azonos témát feldolgozó Mark Gungor előadás, ami azóta is nagy hatással van a párkapcsolati hozzáállásomra.
