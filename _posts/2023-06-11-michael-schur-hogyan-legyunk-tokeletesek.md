@@ -7,7 +7,7 @@ pages: 336
 date: 2023-06-11 00:01
 excerpt: >
     Schur-t a legtöbben az Office vagy a Parks & Recreation kapcsán ismerhetik, de ő alkotta a kriminálisan alulértékelt The Good Place című sorozatot is.
-    A szó szerinti mennyet és poklot is megjáró sztori olyan vicces, hogy közben szinte észre sem veszi az ember a háttérben átszivárgó filozófia oktatást.
+    A szó szerinti mennyet és poklot megjáró sztori olyan vicces, hogy közben szinte észre sem veszi az ember a háttérben átszivárgó filozófia oktatást.
     Csak hát ehhez előbb a szerzőnek is ki kellett gyúrnia magát etikából.
     Ez adta a lehetőséget, hogy még friss ex-újonc fejjel minket is okíthasson egy könyv formájában.
 ---
@@ -25,7 +25,7 @@ A rossz hír, hogy az ilyen részletes filozófiai írások mellé szinte kötel
 Na ezért kell nekünk Michael Schur, aki közérthetően (és nem mellesleg tök viccesen) foglalja össze a nyugati morális filozófia nagyobb pilléreit.
 
 Schur-t a legtöbben az [Office](https://www.imdb.com/title/tt0386676/){:target="_blank"} vagy a [Parks & Recreation](https://www.imdb.com/title/tt1266020/){:target="_blank"} kapcsán ismerhetik, de ő alkotta a kriminálisan alulértékelt [The Good Place](https://www.imdb.com/title/tt4955642/){:target="_blank"} című sorozatot is.
-A szó szerinti mennyet és poklot is megjáró sztori és karakterek olyan abszurdak és viccesek, hogy közben szinte észre sem veszi az ember a háttérben átszivárgó filozófia oktatást.
+A szó szerinti mennyet és poklot megjáró sztori és karakterek olyan abszurdak és viccesek, hogy közben szinte észre sem veszi az ember a háttérben átszivárgó filozófia oktatást.
 Csak hát ehhez előbb az íróknak is ki kellett gyúrniuk magukat etikából.
 
 A szerző is kb. abszolút a nulláról indult, és onnan szeretett bele az ágazatba.
@@ -111,6 +111,7 @@ Amit ugye ne.
 
 A modern etika egyik legnépszerűbb gondolatkísérlete a "villamos probléma", amiben egy elszabadult villamos, megölne 5 embert, de ha meghúzunk egy kart, akkor egy másik pályára terelhetjük, ahol csak egy embert öl meg.
 Alapból szerintem elég "egyértelmű", hogy meg kéne húzni a kart, mert hát valahogy egy halál csak jobb, mint 5, nem?
+
 De mi van, ha nem mi vezetjük a villamost, csak a sínek mellett állunk és ott a váltó kar?
 Így is a mi felelősségünk közbeavatkozni?
 
@@ -166,13 +167,13 @@ Nincs semmi kétértelműség, semmi legális kiskapu, semmi érzelmi/szubjektí
 
 A lényeg, hogy úgy viselkedjünk, hogy az akár univerzális törvény is lehessen.
 Vagyis ha mindenki pont úgy viselkedne az egész világon, akkor is minden rózsás maradna.
-Ezért rossz pl. hazudni -- mert ha mindenki hazudna, akkor a kommunikációnak semmi értelme nem lenne, felborulna a társadalom, stb.
-Ez az ún. "kategorikus imperatív", mert csak lehet törvény, ami univerzálisan is lehetne törvény.
+Ezért rossz pl. hazudni -- mert ha *mindenki* hazudna, akkor a kommunikációnak semmi értelme nem lenne, felborulna a társadalom, stb.
+Ez az ún. "kategorikus imperatív", mert csak az lehet törvény, ami univerzálisan is lehetne törvény.
 
 Ennek egy másik (talán kicsit praktikusabb) megfogalmazása: úgy kezeljük az embereket (akár magunkat, akár másokat), hogy célok legyenek, ne (csak) eszközök.
 
-Habár ez a haszonelvűség ellentéte (legalábbis a szándék vs. kimenetel szemszögből), mégis időnként ugyanarra a következtetésre jutunk.
-A klasszikus villamos probléma mondjuk Mill és Kant is meghúzná a kart.
+Habár ez a haszonelvűség ellentéte (legalábbis a szándék vs. kimenetel szemszögből), időnként mégis ugyanarra a következtetésre jutunk.
+A klasszikus villamos problémában mondjuk Mill és Kant is meghúzná a kart.
 A haszonelvűség szerint `5 > 1`, téma lezárva.
 A deontológia szerint pedig lehet mondjuk az az univerzális szabály, hogy "mindig mentsünk meg annyi ártatlan embert, amennyit csak tudunk", amiből megint csak jön, hogy `5 > 1`.
 
@@ -195,12 +196,12 @@ Viszont ha már valaki mást kéne megölni az 5 megmentéséhez (lásd hídról
 ## <a name="scanlon"></a>Muszáj visszavinnem a bevásárlókocsit *EGÉSZ ODÁIG?!*
 
 Szép, ha figyelembe veszünk másokat.
-Vagy ha úgy parkolunk, hogy utána más is beférjen mellénk.
+Például ha úgy parkolunk, hogy utána más is beférjen mellénk.
 De mi van, ha a kedvességünknek ára is van?
 Mert "rendesen" parkolni nem nehezebb, mint bunkón, csak a gondolatba kerül.
 De ha mondjuk vissza is kéne vinni a bevásárlókocsit -- *EGÉSZ ODÁIG?!* -- amikor már nagyon hazafelé mennénk...
 
-Itt jön képbe a T.M. Scanlon *kontraktualizmusa*, vagyis hogy "mi az a minimum, amivel tartozunk egymásnak".
+Itt jön képbe a T. M. Scanlon *kontraktualizmusa*, vagyis hogy "mi az a minimum, amivel tartozunk egymásnak".
 Ez egy Kant-jellegű filozófia, de sokkal egyszerűbb hétköznapi útmutató változatban.
 Kb. mint egy Quick Start Guide a teljes 300 oldalas használati utasítással szemben.
 
@@ -247,6 +248,7 @@ Itt segít Susan Wolf morális szentekkel kapcsolatos publikációja.
 Szerinte egy morális szent *csak* mások boldogságával lenne elfoglalva, ami:
 
 - Nem lenne racionális, mert ha mindenki így viselkedne, akkor csak körbe-körbe várnánk, hogy valaki másnak baja legyen, miközben nem csinálunk semmit; és
+
 - Nem lenne haszonelvű sem, mert ha mindenki így viselkedne, akkor a saját boldogtalanságunk miatt konkrétan lefelé mozdítaná a világátlagot.
 
 A morális szentség tehát valamilyen szinten szemben áll az önmegvalósítással és a személyes boldogsággal, úgyhogy mérték nélkül nem lehet cél.
@@ -272,12 +274,12 @@ De ha valahogy mégis úgy ítéljük meg, hogy számunkra az égő házba beroh
 
 Futó példa, hogy borravaló hagyása közben megvárjuk-e, hogy a pultos lássa, hogy bedobjuk a gyűjtőbe?
 Kant szerint ejnye-bejnye, mert az univerzális szabály miatt kell hogy adjunk, és nem szabad elismerést várni érte.
-Mill szerint jó, mert az adás ugyanúgy megtörténik, és pluszban mindketten jól érezzük magunkat az emberi interakciótól, szóval nettó pozitív boldogság egyenleg.
+Mill szerint jó, mert az adás ugyanúgy megtörténik, és pluszban mindketten jól érezzük magunkat az emberi interakciótól, szóval nettó pozitív a boldogság egyenleg.
 Arisztotelész pedig szándéktól függően foglalna állást:
 
 - Ha magunkért várunk, akkor talán túl büszkék vagyunk.
 - Ha a pultosért, akkor a mennyiségtől függ...
-- Ha úgy magunkért, hogy nyugodtak legyünk, hogy a pultos nem hiszi, hogy nem adtunk, akkor pedig valószínűleg túl szabálykövetőek vagyunk...
+- Ha pedig úgy magunkért, hogy nyugodtak legyünk, hogy a pultos nem hiszi, hogy nem adtunk, akkor valószínűleg túl szabálykövetőek vagyunk...
 
 Ezzel a gondolatmenettel gyakorlatilag William James *pragmatizmus*-át demonstráltuk, aki szerint mindent sokféleképpen lehet magyarázni.
 Szerinte fontos tisztában lenni az opcióinkkal, és nem csak szimplán haszonelvűnek vagy Kant-tanoncnak kikiáltani magunkat és vakon követni a választott ösvényt (amire Arisztotelész amúgy is felhúzná a szemöldökét).
@@ -318,11 +320,11 @@ Mert így egyrészt néha megeddzük a szabályszegő izmainkat is egy kicsit (h
 Másrészt megtartjuk a morális energiáinkat a fontosabb helyzetekre és nem merítjük ki magunkat relatíve jelentéktelen szarságokon.
 De két feltétel:
 
-- Ne okozzunk másoknak fájdalmat közben; és
-- Legyünk tisztában vele, hogy most épp valami rosszat csinálunk.
+1. Ne okozzunk másoknak fájdalmat közben; és
+2. Legyünk tisztában vele, hogy most épp valami rosszat csinálunk.
 
-Hogy az utóbbi miért fontos, ahhoz ismerkedjünk meg az [*Overton-ablak*](https://en.wikipedia.org/wiki/Overton_window){:target="_blank"} fogalmával, ami eredetileg a politikára specializáltan jelképezte az "elfogadható" politikai viselkedést egy-egy szituációban.
-Az etikára vetítve viszont nekünk is ugyanolyan jól mutathatja, hogy egy-egy helyzetben mit tartunk elfogadható jó ember viselkedésnek.
+Hogy az utóbbi miért fontos, ahhoz ismerkedjünk meg az [*Overton-ablak*](https://en.wikipedia.org/wiki/Overton_window){:target="_blank"} fogalmával, ami eredetileg a politikára specializáltan jelképezte az elfogadható viselkedéseket és véleményeket egy-egy szituációban.
+Az etikára vetítve viszont nekünk is ugyanolyan jól modellezheti, hogy egy-egy helyzetben mit tartunk elfogadható "jó ember viselkedésnek".
 
 Az ablak veszélye, hogy minden tettünkkel csúszik, és az addigi átlagot teszi középre.
 Vagyis minél több "rossz" dolgot csinálunk, annál rosszabb dolgok tűnnek majd egyre inkább elképzelhetőnek.
@@ -346,7 +348,7 @@ Szóval csak óvatosan, ritkán, és akkor is tettünk teljes tudatában azokkal
 
 Más megfogalmazásban: szétválaszthatjuk a dolgokat, amiket szeretünk, azoktól, akik készítik őket?
 Elválhat a mű és a művész?
-Schur itt sokat foglalkozik azzal a (látszólag mesterséges) elválasztással, miszerint a problémás műnek és/vagy művésznek van-e még esélye változni (mint mondjuk egy rasszista focicsapat, akinek így nem könnyű drukkolni), vagy nincs (mint mondjuk egy könyv, ami már megjelent, és mellesleg azóta az írója is halott).
+Schur itt sokat foglalkozik azzal a (látszólag mesterséges) elválasztással, miszerint a problémás műnek és/vagy művésznek van-e még esélye változni (mint mondjuk egy rasszista focicsapatnak, akiknek így nem könnyű drukkolni), vagy nincs (mint mondjuk egy könyvnek, ami már megjelent, és mellesleg azóta az írója is halott).
 
 Természetesen itt sincs egyértelmű válasz -- mint a filozófiában ezt már kb. megszokhattuk volna.
 A lényeg szerintem annyi, hogy a "hol húzod meg a határt?!" felkiáltás nem ment fel minket az alól, hogy valahol azért csak meghúzzuk.
@@ -393,7 +395,7 @@ Nem valódi.
 Nem univerzális.
 De nem is kell, hogy az legyen.
 
-Szóval ha az eddigiek nem voltak túl szimpatikusak, akkor maradhatunk abban is, hogy semmi nem számít, és csak a döntéseink számítanak.
+Szóval ha az eddigiek nem voltak túl szimpatikusak, akkor maradhatunk abban is, hogy semmi más nem számít, csak a döntéseink.
 De a felelősség akkor is a miénk, és a nem döntés is döntés.
 
 <br>
@@ -431,6 +433,7 @@ Ritka kivételként lásd [Arnold]({% post_url 2023-04-20-arnold-schwarzenegger-
 A praktikus tanulság itt Schur szerint annyi, hogy ha olyan helyzetben vagyunk, hogy filozófiai kérdéseket tegyünk fel magunknak, akkor nagy-nagy valószínűséggel szerencsésebbek vagyunk, mint a Föld lakosságának 99%-a.
 Vagyis ha lehetőségünk adódik rá, hogy egy kicsit többet tegyünk a minimumnál, akkor tessék már.
 
+<br>
 
 
 
@@ -445,11 +448,11 @@ Vagyis ha lehetőségünk adódik rá, hogy egy kicsit többet tegyünk a minimu
 Röviden: igen.
 Elvégre a hibáink nyilvános beismerése egy fontos lépés a jobb emberré válás ösvényén.
 Csak ne lenne ilyen szar!
-Mert a privát bűntudat már ugye magában sem épp kellemes -- de hogy utána erre még egy publikus mea culpa-val is rákontrázzunk, az aztán tényleg a rohadt cseresznye a fosfagylalt tetején.
+Mert a privát bűntudat már ugye magában sem épp kellemes -- de hogy utána erre még egy publikus *mea culpa*-val is rákontrázzunk, az aztán tényleg a rohadt cseresznye a fosfagylalt tetején.
 
 De akkor is muszáj.
 Arisztotelész szerint is, mert ezzel demonstráljuk, hogy aktívan keressük a középutat.
-Kant szerint is egyszerűen megfogalmazható egy ilyen univerzális kötelezettség.
+Kant szerint is, mert egyszerűen megfogalmazható egy ilyen univerzális kötelezettség.
 És Mill szerint is, mert kellően hosszú távon minden irányban növeli az össz-boldogságot.
 
 A bocsánatkérés a kötelező önreflexió az elkerülhetetlen kudarcok után, ahol tanulhatunk a hibákból.
