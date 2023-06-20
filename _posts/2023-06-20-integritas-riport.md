@@ -60,9 +60,9 @@ Ez, párosítva a specializációból való kiábrándulásommal, gyakorlatilag 
 
 A formális meditáció sajnos többször nincs, mint van.
 Ezzel pedig pont az egy szem konkrét meditációs törvényt sértem -- miszerint az egyetlen rossz meditáció az, amit nem csinálunk meg.
-Ha viszont tágítjuk a "meditációt" a formális, törökülős, hangdrum-hallgatós reggeli rituáléból, akkor azért szerencsére egész sokszor ott és akkor találom magam, ahol és amikor vagyok.
+Ha viszont tágítjuk a "meditációt" a formális, törökülős, *hangdrum*-hallgatós reggeli rituáléból, akkor azért szerencsére egész sokszor ott és akkor találom magam, ahol és amikor vagyok.
 Konstatálom és értékelem az apró szépségeket, visszaszorítgatom a (folyamatosan ömlő) gondolataimat, és létezek.
-A megvilágosodás még messze, de a zsibbadt árral úszás talán még inkább, úgyhogy -- kapjak itt mondjuk egy közepest?
+A megvilágosodás még messze, de a zsibbadt árral úszás meg **már** messze, úgyhogy -- kapjak itt mondjuk egy közepest?
 
 <br>
 
@@ -160,7 +160,7 @@ A remeteségem minőségében nem sokat változott.
 Sőt, egy darabig inkább romlott.
 Illetve a teljesen vezeték nélküli írói felszerelés is várat még magára, hogy a természet lágy ölén végezhessek érdemi munkát.
 De a rendszeres szabad levegőn sétát tudatosan próbáljuk tartani, és a mozgásba is egyre gyakrabban iktatok bringázást a benti edzés helyett, szóval a kegyelem kettest azért az analóg kompenzációból is megütöm talán.
-A relatív közeljövőben pedig várhatóan többet leszünk falun, szóval év végéig még javíthatok.
+A relatív közeljövőben pedig várhatóan többet leszünk falun, így év végéig még javíthatok.
 
 <br>
 
@@ -172,7 +172,7 @@ A relatív közeljövőben pedig várhatóan többet leszünk falun, szóval év
 
 A remeteség természetesen ide is kiterjed.
 Fogalmazzunk úgy, hogy az emberi kapcsolatok nem élveztek prioritást az elmúlt időszakban.
-Remélhetőleg ezzel nem rontottam az általánosan kitaposott anti-mizantróp pozíciómon, aminek tavaly annyira örültem -- csak nem javítottam tovább.
+Remélhetőleg ezzel nem rontottam az általánosan kitaposott anti-mizantróp pozíciómon, aminek tavaly annyira örültem -- csak nem is javítottam tovább.
 Mindennél egyből az a kifogás ugrik a fejembe, hogy "majd a mentális/produktivitásos stabilizálódás" után, de ugye ez itt sem állja meg a helyét.
 Maradjunk annyiban, hogy ez továbbra is egy potenciális fejődési terület.
 
@@ -185,7 +185,7 @@ Maradjunk annyiban, hogy ez továbbra is egy potenciális fejődési terület.
 #### **10+1**&nbsp;&nbsp;&nbsp; A Leszarom Függelék
 
 Ahogy haladunk ezen az ön-gatyábarázó utazáson, egyre jobban érzem, hogy jelen függelék nélkül már az elmegyógy bentlakók sorait erősíteném.
-Próbálkozni és törekedni lehet -- sőt, kell!
+Próbálkozni és törekedni persze lehet -- sőt, kell!
 De amikor (nem ha, **amikor**) elbaszom, akkor nagyon fontos a kellő lazaság és tolerancia magammal szemben.
 Meg hogy úgy egyáltalán ne vegyem túl komolyan ezt az egész élet nevezetű bohóc-fiesztát.
 Csak így maradnak motiváció morzsák és ép agysejtek a következő újrapróbálkozásra.
