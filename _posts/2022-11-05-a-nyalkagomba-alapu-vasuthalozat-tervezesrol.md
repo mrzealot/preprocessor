@@ -4,6 +4,7 @@ title: A nyálkagomba alapú vasúthálózat tervezésről
 cover: slimemold
 tags: [szösszenet]
 date: 2022-11-05 00:01
+youtube: 8U_LVuVj3a4
 excerpt: >
     ...avagy hogyan alkalmazhatjuk egy agyatlan, egysejtű élőlény terjeszkedési és tápanyag fogyasztási stratégiáját az önmegvalósításban.
 ---
