@@ -33,16 +33,44 @@ Csak ebből a szemszögből vizsgálva ártalmas lehet, mert a túlpörgésbe ke
 
 Szerencsére az ekvivalencia reláció szimmetrikus.
 Vagyis, kicsit kevésbé kockául fogalmazva: ha az idő pénz, akkor a pénz idő.
-És ez azért fontos, mert ha viszont **így** tekintünk rá, akkor egyre jobban elkezdünk majd azon gondolkozni, hol lehetne a már meglévő pénzünket (vagy a potenciális pénzszerző lehetőségeinket) szabad időre cserélni.
-Kellenek azok a 60 órás hetek, amikor mondjuk 30-cal is ugyanolyan vállalhatóan el lehet lenni?
-Azért vállalnék túlórát, mert akkor is dolgozni akarok, vagy csak mert nem merem kihasználatlanul "elpazarolni" azt az időt valami értelmetlenre?
+És ez azért fontos, mert ha viszont **így** tekintünk rá, akkor egyre jobban elkezdünk majd azon gondolkozni, hol lehetne a már meglévő pénzünket (vagy a potenciális pénzkereseti lehetőségeinket) szabad időre cserélni.
+Kellenek azok a 60 órás hetek, amikor mondjuk 30-cal is ugyanolyan jól el lehet lenni?
+Azért vállalnánk túlórát, mert akkor is dolgozni akarunk, vagy csak mert nem merjük kihasználatlanul "elpazarolni" azt az időt valami értelmetlenre?
 
-Egyik kedvenc példám a témában a halászos tanmese -- ami szerencsére egyre klisébb bizonyos netes körökben, de a mondanivalója továbbra is szembe úszik az árral, úgyhogy szerintem megéri ismételni:
+Egyik kedvenc példám a témában a halászos/üzletemberes tanmese -- ami szerencsére egyre *klisébb* bizonyos netes körökben, de a mondanivalója továbbra is szembe úszik az árral, úgyhogy szerintem megéri ismételni.
+Álljon hát itt is, saját szavaimmal, emlékezetből összefoglalva:
 
+<br>
 
+>Egy nagymenő üzletember épp a pszichológusa által elrendelt kényszer-szabadságát tölti a tengerparton, amikor kiköt mellette egy helyi halász. Az üzletember megdicséri a fogást, és szakmai ártalomból megkérdezi, ugyan mennyi ideig tart ennyi halat összepecálni.
+>
+>"Nem olyan sokáig." - feleli a halász.
+>
+>"És akkor mivel telik a napja többi része, ha megkérdezhetem?"
+>
+>"Ó, semmi különössel. Lustálkodok, a feleségemmel vagyok, játszok a gyerekekkel, találkozom a barátaimmal... Eszünk, borozgatunk, jól élünk."
+>
+>"Hát de ha ennyire ráér, akkor miért nem marad kint tovább a vízen, és fog több halat?"
+>
+>"A szükségleteink kielégítéséhez ennyi is elég. Miért kéne több?"
+>
+>"Hogy a feleslegből profitot termelhessen, és a profitból pedig nagyobb, vagy akár több hajót vehessen."
+>
+>"És az nekem miért is lenne jó?"
+>
+>"Hát nem érti? Idővel céget alapíthatna, és már mások dolgoznának a maga flottájával, míg maga egy központi irodából irányíthatná a műveleteket."
+>
+>"És **az** nekem miért is lenne jó?"
+>
+>"Egy ilyen vállalatot 10-20 éven belül egy egész birodalommá lehetne növeszteni, és amikor végül kiszáll, milliókat kaszálhatna az eladott részvényeiből!"
+>
+>"Na és **az** nekem miért is lenne jó?"
+>
+>"Mert onnantól már úgy élhetne, ahogy csak akar. Egész nap lustálkodhatna, időt tölthetne a feleségével, játszhatna a gyerekeivel, borozgathatna a barátaival!
+>
+>"És maga szerint **most** mit csinálok?"
 
-
-
+<br>
 
 Az idő a legértékesebb, nem megújuló erőforrásunk.
 Több pénzt bármikor lehet keresni, ezer meg egy módon -- és ezekből a jobbak egy kezdeti szakasz után már egyáltalán nem egyenesen arányosak a befektetett idő mennyiségével!
