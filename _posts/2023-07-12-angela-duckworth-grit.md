@@ -109,46 +109,49 @@ Plusz ez nem ám csak extrém katonai kontextusban működik.
 ## <a name="erofeszites"></a>Tehetség kontra erőfeszítés
 
 A tehetség gyakran nem más, mint egy figyelem elterelő tényező.
-- saját tanári tapasztalatok
-    - miszerint egyáltalán nem törvényszerű, hogy a tehetségesek legyenek a legjobban teljesítők
-    - a kemény munka egyszerűen többre megy, ha elég hosszú távon nézzük
-- példák:
-    - Charles Darwin - saját bevallása szerint is átlagos intellektus, viszont emberfeletti kitartás egy-egy probléma mellett
-    - William James - 
-        >>  “the human individual lives usually far within his limits; he possesses powers of various sorts which he habitually fails to use. He energizes below his maximum, and he behaves below his optimum.”
-        - persze hogy vannak határok - de ezektől legtöbben olyan messze vagyunk, hogy gyakorlatilag nem is számítanak
-- tudatosan persze sokan tisztában vagyunk vele, hogy a szorgalmas középszerűség veri a lusta tehetséget
-    - de érzelmi szinten valahogy mégis ámulunk-bámulunk a természetes, erőfeszítés nélküli tehetség láttán
-    - kísérletek kimutatták, hogy ha látatlanban kell megítélnünk szó szerint ugyanazt az eredményt, csak egyszer egy "tehetséges", máskor egy "törekvő" jóvoltából (legyenek azok zenészek vagy vállalkozók), a tudat alatti torzításaink a tehetség felé sodornak
-        - objektíven ugyanazt az eredményt. csak annyi a különbség, hogy milyen háttérsztorit teszünk mellé a fejünkben.
-    - szóval prédikálni sokan prédikáljuk, hogy a szorgalom többet ér -- de ha lehetne választani, akkor inkább a tehetséget pártolnánk
-- szóval ne engedjük, hogy a tehetség elterelje a figyelmünket az erőfeszítésről
-    - ami, mint mindjárt látjuk, kétszer olyan fontos!
+Duckworth saját tanári tapasztalatai szerint egyáltalán nem törvényszerű, hogy a tehetségesek legyenek a legjobban teljesítők.
+A kemény munka egyszerűen többre megy, ha elég hosszú távon nézzük.
 
+Persze akadnak híresebb példák is.
+Mondjuk Charles Darwin, aki saját bevallása szerint is átlagos intellektussal rendelkezett, viszont emberfeletti kitartást tanúsított egy-egy problémával szemben.
+Vagy William James, aki szerint:
 
+> Az emberek többsége jóval a határain belül él; változatos képességek birtokában van, amiket rendszeresen nem használ ki.
+>> The human individual lives usually far within his limits; he possesses powers of various sorts which he habitually fails to use.
 
-<!-- ## <a name="erofeszites"></a>Az erőfeszítés kétszer olyan fontos -->
+Tudatosan persze sokan tisztában vagyunk vele, hogy a szorgalmas középszerűség veri a lusta tehetséget.
+De érzelmi szinten valahogy mégis ámulunk-bámulunk a természetes, erőfeszítés nélküli tehetség láttán.
+Kísérletek mutatták ki, hogy ha látatlanban kell megítélnünk szó szerint ugyanazt az eredményt, csak egyszer egy "tehetséges", máskor pedig egy "törekvő" alkotó jóvoltából (legyenek azok zenészek vagy vállalkozók), a tudat alatti torzításaink a tehetség felé sodornak.
 
-- a study of competitive swimmers titled “The Mundanity of Excellence.”
-    - oké, vannak bizonyos anatómiai előnyök (lásd Phelps), meg azért nem mondjuk, hogy nincs olyan, hogy tehetség (ami tudja gyorsítani vagy könnyíteni egyesek haladását azonos mennyiségű edzés mellett)
-    - de a nagyság nagyja igenis elérhető
-        - "Greatness is doable. Greatness is many, many individual feats, and each of them is doable.” -- Dan Chambliss
-    - Nietzsche is egyetért: Great things are accomplished by those “people whose thinking is active in one direction, who employ everything as material, who always zealously observe their own inner life and that of others, who perceive everywhere models and incentives, who never tire of combining together the means available to them.”
+Gondoljunk ebbe bele egy pillanatra!
+Objektíven ugyanazt az eredmény, csak annyi a különbség, hogy milyen háttérsztorit teszünk mellé a fejünkben.
+Prédikálni sokan prédikáljuk, hogy a szorgalom többet ér -- de ha lehetne választani, akkor inkább a tehetséget pártolnánk.
+Szóval ne engedjük, hogy a tehetség elterelje a figyelmünket az erőfeszítésről!
 
-- Duckworth modellje:
-    - tehetség * erőfeszítés = szakértelem
-    - szakértelem * erőfeszítés = eredmény
-    - vagyis persze, számít a tehetség -- de az erőfeszítés KÉTSZER is számít
-        - egyszer hogy milyen gyorsan tudjuk fejleszteni a készségeinket
-        - és még egyszer, hogy a már meglévő készségeinkből milyen gyorsan tudunk eredményeket előállítani
-    - erőfeszítés nélkül a tehetség csak a potenciálunk, amihez nem értünk fel
-        - és erőfeszítés nélkül a szakértelmünk csak mindaz, amit csinálhattunk volna, de nem csináltuk
+<br>
 
-- és aztán egy csomó példa, hogy ez milyen sokaknál tényleg működik
+Természetesen nem mondjuk, hogy ne létezne vagy számítana a tehetség.
+Igenis képes gyorsítani vagy könnyíteni egyesek haladását azonos mennyiségű edzés mellett.
+De **több** edzéssel a kiválóság igenis elérhető a többieknek is.
 
-- threadmill test
-    - ami már önmagában jó előrejelző - aki tovább bírta a kínlódást, annak utána jobb lett az élete
-    - de ami talán még fontosabb lenne: másnap visszajönne-e újrapróbálni?
+> A nagyság elérhető. A nagyság sok-sok független tevékenység eredménye, és ezek közül mind teljesíthető.
+>
+> -- Dan Chambliss
+> > Greatness is doable. Greatness is many, many individual feats, and each of them is doable.
+
+Duckworth modellje:
+
+<p style="text-align: center; font-weight: bold;">
+Tehetség &times; Erőfeszítés = Szakértelem
+<br>
+Szakértelem &times; Erőfeszítés = Eredmény
+</p>
+
+Vagyis igen, számít a tehetség -- de az erőfeszítés **kétszer** is számít!
+Egyszer abban, hogy milyen gyorsan tudjuk fejleszteni a készségeinket.
+És még egyszer abban, hogy a már meglévő készségeinkből milyen gyorsan tudunk eredményeket előállítani.
+Erőfeszítés nélkül a tehetség csak a potenciálunk, amihez nem értünk fel.
+És erőfeszítés nélkül a szakértelmünk csak mindaz, amit csinálhattunk volna, de nem csináltuk.
 
 <br>
 
@@ -164,36 +167,33 @@ A tehetség gyakran nem más, mint egy figyelem elterelő tényező.
 
 ## <a name="novekedhet"></a>A grit növekedhet!
 
-- a grit genetika vagy neveltetés kérdése
-    - ahogy minden más is, csak max más arányban
-        - például a magasságról azt gondolnánk, hogy tiszta genetika, de generációs trendeken keresztül látszik, hogy az átlag is szépen növekszik, miközben a génállomány annyit azért nem változik -- vagyis valószínű, hogy legalább részben az elégséges tápanyagnak, a tiszta ivóvíznek és levegőnek, illetve a modern orvostudománynak is köszönhető
-        - és fordítva: a látványosan neveltetés-jellegű tulajdonságokban, mint mondjuk az őszinteségben vagy a nagylelkűségben is akad némi genetikai ráhatás
-- szóval a grit is mindkettő -- na jó, de milyen arányban?
-    - szokásos nature/nurture kísérlet: nézzük ikreken
-    - kb. 20-40% magyarázható a genetikával, szóval még a rosszabb esetekben is többet számít a tapasztalat/neveltetés/környezet/hozzáállás
-    - amik ugye mind fejleszthetőek, tehát a grit is az!
-- az IQ felfelé kúszik (Flynn hatás) ilyen ördögi kör módjára, mert egyre absztraktan érvelősebb környezetet teremtünk
-    - a grit viszont inkább lefelé kúszik a korral
-        - egyrészt mert sokkal ide-oda kapkodósabb (figyelem- és kitartás-hiányosabb) a kultúra
-            - vagyis, szokás szerint, a sikeres önmegvalósításhoz megint az árral szemben kell úszni
-        - másrészt meg az idősödés/érés folyamata eleve segít megtalálni magunkat, adaptálódni, belehelyezkedni a világunkba, ahol már sokkal grit-ebben megy minden
-- a lényeg, hogy a grit szintünk egyáltalán nem állandó
+Minden tulajdonságunk genetika és neveltetés kérdése.
+Igen, **és** -- nem vagy-vagy!
+Például a magasságról azt gondolnánk, hogy tiszta genetika, de generációs trendeken keresztül látszik, hogy az átlag is szépen növekszik, miközben a génállomány annyit azért nem változik.
+Vagyis valószínű, hogy legalább részben az elégséges tápanyagnak, a tiszta ivóvíznek és levegőnek, illetve a modern orvostudománynak is köszönhető.
+És fordítva: a látványosan neveltetés-jellegű tulajdonságokban, mint mondjuk az őszinteségben vagy a nagylelkűségben is akad némi genetikai ráhatás.
 
+Szóval a grit (minden máshoz hasonlóan) mindkettő függvénye.
+Na jó, de milyen arányban?
+A szokásos genetika vs. nevelkedés kísérlet: nézzük ikreken.
+És az ilyen kutatások szerint a grit kb. 20-40% magyarázható a genetikával -- szóval még a legrosszabb esetekben is többet számít a tapasztalat/neveltetés/környezet/hozzáállás.
+Amik ugye mind fejleszthetőek, tehát a grit is az!
 
+Aki ráhagy valamit, az általában vagy:
 
-- aki ráhagy valamit, az általában vagy
-    - unatkozik
-    - úgy gondolja, hogy nem éri meg a ráfordított energia
-    - nem tartja elég fontosnak
-    - nem tartja magát képesnek rá
+- Unatkozik,
+- Úgy gondolja, hogy nem éri meg a ráfordított energia,
+- Nem tartja elég fontosnak, vagy
+- Nem tartja magát képesnek rá.
 
-- a grit ezt úgy akadályozza meg, hogy
-    - interest, érdekes dolgot csinálunk
-    - practice, képesek vagyunk nap mint nap fejlődni benne
-    - purpose, látjuk, hogy van értelme
-    - hope, reméljük, hogy sikerül, amit szeretnénk
+A grit ezt úgy akadályozza meg, hogy:
 
-- ^ ezeknek a belülről kifelé növelése lesz a továbbiakban
+- Érdekes dolgokkal foglalkozunk,
+- Képesek vagyunk tudatosan gyakorolni és nap mint nap fejlődni benne,
+- Látjuk, hogy van (egy rajtunk túlmutató) értelme, és
+- Fenntartjuk a reményt, hogy sikerül, amit szeretnénk.
+
+Ezeket a belülről-kifelé grit növelési szempontokat tárgyaljuk a következő négy szekcióban.
 
 <br>
 
@@ -220,62 +220,77 @@ A tehetség gyakran nem más, mint egy figyelem elterelő tényező.
 
 ## <a name="erdeklodes"></a>Érdeklődés
 
-- szenvedély > praktikusság!
-    - meta-analízisek: boldogabbak vagyunk és jobban teljesítünk, ha érdekel, amit csinálunk
-    - ez így kurva magától értetődőnek hangozhat, de valahogy mégis a megkérdezettek két harmada úgy érzi, hogy kb. szarik a munkájára
-        - akkor ez most hogy is van ez?
+A szenvedély fontosabb, mint a praktikusság!
+Számos kutatás egybecsengő tanulsága, hogy boldogabbak vagyunk és jobban teljesítünk, ha érdekel, amit csinálunk.
+És hát ja, ez így kurva magától értetődőnek hangozhat -- de valahogy mégis a megkérdezettek két harmada úgy érzi, hogy kb. szarik a munkájára.
+Akkor ez most hogy is van ez?
 
-- nem feltétlen lesz villogó tábla, hogy "ez az életcélod"
-    - sokszor össze-vissza kanyargós úton derül ki, hogy mibe mélyülünk bele
-        - lehetett volna sok minden más is
-        - jó példa a párválasztás, ahol nem A tökéletes párt kéne keresni, hanem egy ígéretesen kompatibilis kezdőpontot, ahonnan indulhat az igazi munka
-        - nem az a lényeg, hogy melyik lett (vagy melyik NEM lett), hanem hogy kellően belemélyedjünk abba, ami lett
-        - fostering passion > finding passion
-        >> Passion for your work is a little bit of discovery, followed by a lot of development, and then a lifetime of deepening.
+Először is érdemes tudatosítani magunkban, hogy nem feltétlen lesz villogó tábla, hogy "ez az életcélod".
+Sokszor össze-vissza kanyargós úton derül ki, hogy mibe mélyülünk bele.
+Lehetett volna sok minden más is.
+Szemléletes párhuzam a párválasztás, ahol nem **A** tökéletes párt kéne keresni, hanem **egy** ígéretesen kompatibilis kezdőpontot, ahonnan indulhat az igazi munka.
+Nem az a lényeg, hogy melyik lett (vagy melyik nem lett), hanem hogy kellően belemélyedjünk abba, ami lett.
 
-    - de hogy egyáltalán esélyünk legyen belemélyedni, ahhoz kell, hogy kellő szinten érdeklődjünk iránta
-        - vagyis ha tudjuk, hogy valami nem érdekel, akkor ideje változás után nézni
+> A munkánk iránti szenvedély egy csipetnyi felfedezés, egy nagy adag fejlesztés, és aztán egy életnyi mélyítés.
+>> Passion for your work is a little bit of discovery, followed by a lot of development, and then a lifetime of deepening.
 
-- az érdeklődés fokozatosan alakul ki
-    - először fontos a játékos hozzáállás, nem rögtön az egész életút előre tervezése
-    - többszöri benyomás
+De hogy egyáltalán esélyünk legyen belemélyedni valamibe, ahhoz elengedhetetlen, hogy kellő szinten érdeklődjünk iránta.
+Vagyis ha tudjuk, hogy valami nem érdekel, akkor ideje változás után nézni.
+Ha pedig érdekel, akkor is ajánlatos eleinte csak "játékosan" belekóstolni, nem rögtön az egész életutat előre eltervezni -- hogy az egyelőre figyelmen kívül hagyható nehézségek ne szegjék a szárnyunkat.
 
-- minél nagyobb a grit, annál kevesebb lesz a karrier váltás
-    - mert nem azt keressük, ami tökéletes (ami nincs)
-    - hanem azt, akiben kiteljesedhetünk (amiből több opció is akad)
+Innen aztán minél nagyobb a grit, annál kevesebb karrier váltás várható.
+Mert nem a tökéletes illeszkedést keressük (ami ugye nincs), hanem azt, amiben kiteljesedhetünk.
+Ebből pedig szerencsére több opció is akad.
 
->> In fact, the word interest comes from the Latin interesse, which means “to differ.” To be interesting is, literally, to be different.
-    - de a mélyre ásással is lehet ám sok élethosszra való újdonságot találni, nem csak az ide-oda ugráló szélesítéssel
-    >>  For the beginner, novelty is anything that hasn’t been encountered before. For the expert, novelty is nuance.
+> A kezdő számára az az újdonság, amivel még nem találkozott. A szakértő számára az újdonság a részletekben rejlik.
+>> For the beginner, novelty is anything that hasn’t been encountered before. For the expert, novelty is nuance.
+
+<br>
 
 
-- miről szeretek gondolkodni? mivel törődök? mi számít? mivel szeretek időt tölteni?
+
+
+
+
+
+
+
+
 
 
 ## <a name="gyakorlas"></a>Gyakorlás
 
-- a grit egyik legfontosabb mellékhatása, hogy egyszerűen több időnk van valamivel foglalkozni, ami által jobbak leszünk benne
-    - de persze évtizedekig is lehet valamit úgy csinálni, hogy közben megragadunk egy közepes szinten
-    - szóval azért valószínűleg más szempont is számít
-    - nem csak a befektetett idő mennyisége, hanem minősége is fontos
-- kaizen - folyamatos fejlődés
-    - de nem hátrafelé nézünk és elégedetlenkedünk azzal, amire eddig képesek voltunk, hanem előre nézünk, és növekedni akarunk
-- mennyiségre ott a 10.000 óra
-- minőségre meg Anders Ericsson - deliberate practice (deep work ref, vagy a tanulós make it stick)
-    - gyengeségekre fókuszálnak
-    - egyedül és mélyen koncentrálva gyakorolnak, hogy egy specifikus gyengeséget javítsanak
-    - keresik az azonnali visszajelzést, hogy még mi a rossz (hogy aztán arra is fókuszálhassanak)
-    - és ezt ismételni, napról hónapról évre
-- az ilyen gyakorlás nehezebb, és kevésbé élvezetes, mintha csak úgy csinálnánk, amit már amúgy is tudunk csinálni
-    - de pont ettől lesz fejlődés, nem csak karbantartás
-    - és különben is, ha csak agyatlanul tesszük, amit tenni kell, az is egyfajta szenvedés -- mert habár annyira nem fájdalmas abban a pillanatban, mégis abban a tudatban kell csinálnunk, hogy gyakorlatilag szinte értelmetlen
-    - sőt, jó hír: ha megtanuljuk az eredményekkel azonosítani a kemény munkát, akkor idővel akár azt is megszerethetjük
-- ez kb. szembemegy a flow-val, ahol nagyon élvezzük, amit csinálunk
-    - de az leginkább a rengeteg szükségesen kellemetlen gyakorlás eredménye
-    >> In other words, deliberate practice is for preparation, and flow is for performance.
-    - de aki többet szenved a deliberate practice-szel, annak több lesz a flow is
-    >> The idea of years of challenge-exceeding-skill practice leading to moments of challenge-meeting-skill flow explains why elite performance can look so effortless: in a sense, it *is*.
-- legyen szokás a nehéz gyakorlás, és tanuljuk meg élvezni, amennyire lehet
+A grit egyik legfontosabb mellékhatása, hogy egyszerűen több időnk lesz valamivel foglalkozni, ami által jobbak leszünk benne.
+De persze évtizedekig is lehet valamit úgy csinálni, hogy közben megragadunk egy közepes szinten, szóval azért valószínűleg más szempont is számít.
+Nem csak a befektetett idő mennyisége, hanem minősége is fontos!
+
+A várható mennyiség becslésére ott a Gladwell-nél is tárgyalt [10.000 óra]({% post_url 2023-04-10-malcolm-gladwell-kivetelesek %}), a minőségre pedig Anders Ericsson "tudatos gyakorlását" hivatkozzuk (lásd [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %}), [Make It Stick]({% post_url 2021-03-06-peter-c-brown-make-it-stick %})).
+A lényeg, hogy:
+
+- A gyengeségekre fókuszálunk,
+- Egyedül és mélyen koncentrálva gyakorolnak, hogy egy specifikus gyengeséget javítsanak,
+- Keresik az azonnali visszajelzést, hogy még mi a rossz (hogy aztán arra is fókuszálhassanak), és
+- Ezt ismételjük, napról hónapról évre.
+
+Az ilyen gyakorlás nehezebb, és kevésbé élvezetes, mintha csak úgy csinálnánk, amit már amúgy is tudunk csinálni.
+De pont ettől lesz fejlődés, nem csak karbantartás.
+És különben is, ha csak agyatlanul tesszük, amit tenni kell, az is egyfajta szenvedés -- mert habár annyira nem fájdalmas abban a pillanatban, mégis abban a tudatban kell csinálnunk, hogy gyakorlatilag szinte értelmetlen.
+
+Viszont jó hír: ha megtanuljuk az eredményekkel azonosítani a kemény munkát, akkor idővel akár azt is megszerethetjük
+Ez kb. szembemegy a [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %})-val, ami szerint pont hogy nagyon is élveznünk kellene, amit csinálunk.
+A látszólagos ellentmondás könnyen feloldható: a flow élmény leginkább a rengeteg szükségesen kellemetlen gyakorlás eredménye.
+Aki többet szenved a tudatos gyakorlással, annak utána több lesz a flow is.
+Legyen hát szokás a nehéz gyakorlás -- és tanuljuk meg élvezni, amennyire lehet.
+
+<br>
+
+
+
+
+
+
+
+
 
 
 ## <a name="jelentes"></a>Jelentés
