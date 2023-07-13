@@ -4,9 +4,11 @@ title: Angela Duckworth - Grit
 cover: grit
 tags: [szemléletmód]
 pages: 424
-date: 2023-07-12 00:01
+date: 2023-07-13 00:01
 excerpt: >
-    TODO
+    Amíg Carol Dweck növekedési szemléletmódja leginkább arra koncentrál, hogy egyáltalán elhitesse velünk, hogy zsenialitás nélkül is végig tudunk menni az úton, addig Duckworth már jobban arra koncentrál, hogy **hogyan** menjünk végig azon a bizonyos úton.
+    Főleg ha tele lesz bukkanókkal és kellemetlenségekkel.
+    Ehhez kell a szenvedély és a kitartás kombinációja: a grit.
 ---
 
 Ha feltesszük magunknak a kérdést, hogy vajon zsenik vagyunk-e, akkor a válasz túlnyomó többségben az lesz, hogy nem.
@@ -34,7 +36,7 @@ A tartalom a következőképp alakul:
     - [Remény](#remeny)
 - Grit kultiváció kintről befelé
     - [Grit a nevelésben](#neveles)
-    - [Grit az iskolában](#iskola)
+    - [Grit az iskolán kívül](#iskola)
     - [Grit a kultúrában](#kultura)
 
 <br>
@@ -134,7 +136,7 @@ Természetesen nem mondjuk, hogy ne létezne vagy számítana a tehetség.
 Igenis képes gyorsítani vagy könnyíteni egyesek haladását azonos mennyiségű edzés mellett.
 De **több** edzéssel a kiválóság igenis elérhető a többieknek is.
 
-> A nagyság elérhető. A nagyság sok-sok független tevékenység eredménye, és ezek közül mind teljesíthető.
+> A nagyság elérhető. A nagyság sok-sok önálló tevékenység összege, és ezek közül mind teljesíthető.
 >
 > -- Dan Chambliss
 > > Greatness is doable. Greatness is many, many individual feats, and each of them is doable.
@@ -295,37 +297,34 @@ Legyen hát szokás a nehéz gyakorlás -- és tanuljuk meg élvezni, amennyire 
 
 ## <a name="jelentes"></a>Jelentés
 
-- amit csinálunk, annak értelme van **mások számára is**!
-    - ez tudja majd hosszú távon fenntartani a tevékenységünket: ha érdekel és hajt minket, hogy hogyan szolgálhatunk általa másokat
-- itt is szépen kijön, amit az IKIGAI irányánál mondtunk
-    - az általános sorrend érdeklődés -> profivá válás -> mások hasznára levés
-    - és ebből a harmadikból már kb. következni fog az anyagi megtérülés, mert a pénz a piacon az értéket méri
+Mélyebb jelentést akkor találunk majd a tevékenységünkben, ha annak értelme van **mások számára is**!
+Ez tudja majd hosszú távon fenntartani az erőfeszítésünket: ha érdekel és hajt minket, hogy hogyan szolgálhatunk általa másokat.
+Itt is szépen kijön, amit az [IKIGAI irányánál]({% post_url 2023-03-20-az-ikigai-iranyarol %}) mondtunk: az általános sorrend érdeklődés &rarr; profivá válás &rarr; mások hasznára levés.
+(És ebből a harmadikból már kb. következni fog az anyagi megtérülés, mert a pénz a piacon egyszerűen az értéket méri.)
+Ahogy már Marcus Aurelius is megmondta:
 
-- eudaimonic vs. hedonic
-    - összhangban a belső "jó szellemünkkel" vs. csak önző, pillanatnyi öröm
-    - mindkettő evolúciós beégés, ami a túlélést segíti
-        - az előbbi az együttműködés által, míg az utóbbi az egyéni igények (értsd, étel, szex, ilyesmi) kielégítése által
-    - szóval természetes mindkettőt üldözni valamilyen szinten
-        - csak a relatív egyensúlyuk az, ami nagyon nem mindegy
-        - az élvezet persze, hogy mindenkinek jó és fontos, de hogy egy magunknál nagyobb cél felé törekedés fontosabb-e, az nagyon jól korrelál a grit-tel
-            - ha a cél fontosabb, mint hogy jól érezzük magunkat közben, akkor nyilván olyankor is törekedni fogunk felé, amikor az épp nem túl kellemes
+> Bizonyos értelemben az emberek a mi igazi hivatásunk. Az a dolgunk, hogy jót tegyünk velük, és hogy elviseljük őket.
 
-- lásd kőműveses tanmese, ahol az egyik épp "téglákat pakol egymásra", a másik "egy templom falát húzza fel", a harmadik pedig "Isten házát építi"
-    - ref Shawn Achor (Amy Wrzesniewski), munka/karrier/hivatás
-        - és ugye ez sem statikus ám! nem magától a foglalkozástól függ, hanem hogy hogyan tekintünk rá
-        - a hivatást sem (csak) megtalálni kell, hanem kialakítani/elmélyíteni
-            - lást Flow, futószalagos sztori
-            - avagy Wrzesniewski szavaival élve "job crafting"
+Arisztotelész is megkülönböztette a boldogságon belül az *eudaimonikus* kontra *hedonista* megközelítést.
+Az előbbinél összhangban vagyunk a belső "jó szellemünkkel", míg az utóbbinál csak önző, pillanatnyi örömökre törekszünk.
+Ezeket nem feltétlen helyénvaló jó/rossz címkékkel illetni -- mindkettő evolúciós beégés, ami a túlélést segíti.
+Az eudaimonikus az együttműködés által, míg a hedonista az egyéni igények (értsd étel, szex, ilyesmi) kielégítése által.
+Szóval természetes mindkettőt üldözni valamilyen szinten.
+Csak a relatív egyensúlyuk az, ami nagyon nem mindegy.
+        
+Az élvezet persze, hogy mindenkinek jó és fontos, de hogy egy magunknál nagyobb cél felé törekedés fontosabb-e, az igazán jól korrelál a grit-tel.
+Ha a cél fontosabb, mint hogy jól érezzük magunkat közben, akkor nyilván olyankor is törekedni fogunk felé, amikor maga a törekvés épp nem túl kellemes.
 
-    - de már Marcus is megmondta, természetesen
-    >Bizonyos értelemben az emberek a mi igazi hivatásunk. Az a dolgunk, hogy jót tegyünk velük, és hogy elviseljük őket. (105)
+Szemléltetésként vegyük a kőműveses tanmesét, ahol az egyik épp "téglákat pakol egymásra", a másik "egy templom falát húzza fel", a harmadik pedig "Isten házát építi".
+Ez az az Amy Wrzesniewski-féle munka/karrier/hivatás megkülönböztetés, ami rámutat a hozzáállásunk kulcsszerepére.
+És ugye ez sem statikus ám!
+Nem magától a foglalkozástól függ, hanem hogy hogyan tekintünk rá, vagy hogy mit hozunk ki belőle.
 
-- a magunkra koncentrálás és a másoknak segítés nem egy spektrum két vége
-    - ez két külön, független spektrum
-    - lehetünk úgy is nagyon a saját teendőinkre fókuszáltak, hogy azok által másokat akarjunk segíteni
-    - a legjobb, ha ezek kéz a kézben járnak
+Illetve jegyezzük még meg, hogy a magunkra koncentrálás és a másoknak segítés nem egy spektrum két vége -- ez két külön, független spektrum!
+Lehetünk úgy is nagyon a saját teendőinkre fókuszáltak, hogy azok által másokat akarjunk segíteni.
+A legjobb tehát az lesz, ha ezek kéz a kézben járnak.
 
-
+<br>
 
 
 
@@ -334,32 +333,38 @@ Legyen hát szokás a nehéz gyakorlás -- és tanuljuk meg élvezni, amennyire 
 
 ## <a name="remeny"></a>Remény
 
->> There’s an old Japanese saying: Fall seven, rise eight.
-- kétféle remény: remélem a holnap jobb lesz vs. remélem képes leszek egy jobb holnapot teremteni
-    - habár a cél ugyanaz, nagyon nem mindegy, hogy az univerzum-e a felelős, vagy mi
-    - szép a párhuzamban a Sztoikus címkézéssel: a "rosszabbik" remény elvárja az univerzumtól, hogy az is jól alakuljon, amit nem mi irányítunk
-        - ezzel szemben a "jobbik", proaktívabb remény csak abban próbálja fenntartani a hitünket, hogy amit elvileg irányíthatunk, azt majd tudjuk is irányítani a célunk felé menet
+Kétféle remény között érdemes különbséget tenni: az egyiknél azt reméljük, hogy a holnap jobb lesz; a másiknál azt, hogy képesek leszünk egy jobb holnapot teremteni.
+Habár a cél ugyanaz, nagyon nem mindegy, hogy menet közben az univerzum-e a felelős, vagy mi.
 
-- Seligman/Meier, tanult tehetetlenség
-    - a szenvedés magában nem vezet reményvesztéshez -- csak az olyan szenvedés, amiről azt hisszük, hogy nincs rá semmi befolyásunk
-    - és ha úgy állunk hozzá minden helyzethez, hogy keressük az irányítható aspektusait, akkor nagy valószínűséggel találni is fogunk ilyet
+Szép a párhuzamban a Sztoikus címkézéssel: a "rosszabbik" remény elvárja az univerzumtól, hogy az is jól alakuljon, amit nem mi irányítunk.
+Ezzel szemben a "jobbik", proaktívabb remény csak abban próbálja fenntartani a hitünket, hogy amit elvileg irányíthatunk, azt majd tudjuk is irányítani a célunk felé menet.
 
-- tanult optimizmus
-    - katasztrofizálás: az optimista szerint a baj ideiglenes és specifikus, míg a pesszimista szerint végleges és általános érvényű
-    - ellenszere: kognitív viselkedés terápia, belső monológ megváltoztatása (kb. modern Sztoicizmus)
-    - vagyis az optimizmus (mint szinte minden) tanulható!
-    - lásd még: Dweck
-        - a grit, a növekedési szemléletmód és az optimizmus mind nagyon szépen korrelálnak egymással
-        - sőt, a Duckworth tapasztalatai alapján sorrendiséget is felállíthatunk: növekedési szemléletmód --> optimizmus --> grit
+Seligman és Meier híres "tanult tehetetlenség" kísérleteiből nem az a tanulság, hogy a szenvedés már önmagában reményvesztéshez vezet -- csak az olyan szenvedés vezet oda, amiről azt hisszük, hogy nincs rá semmi befolyásunk.
+És ha úgy állunk hozzá minden helyzethez, hogy aktívan keressük az irányítható aspektusait, akkor nagy valószínűséggel találni is fogunk ilyeneket.
 
-- ezek erősítéséhet
-    1. higgyünk a neuroplaszticitásban, és a saját fejlődési képességünkben
-    2. gyakoroljuk az optimisa self-talk-ot
-    3. merjünk segítséget kérni
+> Bukj el hétszer, kelj fel nyolcszor.
+>
+> -- Ősi japán közmondás
+>> Fall seven, rise eight.
 
->>  Henry Ford is often quoted as saying, “Whether you think you can, or think you can’t—you’re right.”
+Az optimista szerint a baj ideiglenes és specifikus, míg a pesszimista szerint végleges és általános érvényű.
+Ez az ún. "katasztrofizálás", aminek az ellenszere a belső monológunk megváltoztatása.
+Vagyis az optimizmus (mint szinte minden) tanulható!
 
+A most boncolgatott grit, Dweck növekedési szemléletmódja és az általános optimizmus mind nagyon szépen korrelálnak egymással.
+Sőt, a Duckworth tapasztalatai alapján sorrendiséget is felállíthatunk: növekedési szemléletmód &rarr; optimizmus &rarr; grit.
+Ezek erősítéséhet:
 
+1. Higgyünk a neuroplaszticitásban, és a saját fejlődési képességünkben,
+2. Gyakoroljuk az optimisa self-talk-ot, és
+3. Merjünk segítséget kérni.
+
+> Akár azt hiszed, képes vagy rá, akár azt, hogy nem -- igazad van.
+>
+> -- Henry Ford
+>> Whether you think you can, or think you can’t — you’re right.
+
+<br>
 
 
 
@@ -376,85 +381,92 @@ Legyen hát szokás a nehéz gyakorlás -- és tanuljuk meg élvezni, amennyire 
 
 ## <a name="neveles"></a>Grit a nevelésben
 
-- nyilván sok adat/kutatás kéne még ezen a fronton
-    - de a gyerekek addig is nőnek, úgyhogy menet közben nézzük, eddig mit tudunk
-- vagy legalábbis, szülő-szerű szerepben
-    - tanár, coach, vezető, stb.
-- sokan gondolják, hogy a magas elvárások és a feltétel nélküli szeretet egyetlen skála két vége
-    - vagy idegösszeroppanásba hajtjuk a kölköt, mint egy pszeudo-náci, vagy egy semmirekellővé babusgatjuk
-    - de ez két külön dimenzió
-        - szóval egyrészt nem kell, hogy egyik a másik rovására menjen
-        - másrészt egyiket se kell túlzásba vinni
-    - a jó nevelés támogat, de elvárásokat is támaszt
-        - a gyerek érdekei vannak elöl, de ettől még nem mindig bízzuk a gyerekre, hogy mi merre hány méter
-        - ha mindkettő ok, az a "bölcs nevelés"
-            - kb. lehetsz, ami szeretnél, de akkor azért dolgozzál!
-        - ha csak az elvárások, akkor van a tekintélyelv - ha csak a támogatás, akkor van az elkényeztetés
-            - ha meg egyik se, akkor az elhanyagolás
-- imitáció vs. emuláció
-    - ne csak utánozzanak, hanem értsék is meg, hogy miért, és értsenek is egyet vele az értékrendjük alapján
-- nyilván az egyik legjobb, ha mi magunk is tanúsítjuk a grit-et
+Nyilván sok adat és kutatás kéne még ezen a fronton.
+De hát a gyerekek addig is nőnek, úgyhogy menet közben álljon itt a két "legerősebben sejtett" tanulság a szülőknek és minden szülő-szerű szerepben helytállónak (legyen az tanár, coach, vezető, stb.).
+
+1. Sokan gondolják, hogy a magas elvárások és a feltétel nélküli szeretet egyetlen skála két vége.
+Ezért vagy idegösszeroppanásba hajtjuk a kölköt, mint egy pszeudo-náci, vagy hippi-üzemmódban egy semmirekellővé babusgatjuk.
+De ez valójában két teljesen független dimenzió!
+Szóval egyrészt nem kell, hogy egyik a másik rovására menjen -- másrészt egyiket se kell túlzásba vinni.
+
+    A jó nevelés támogat, de elvárásokat is támaszt.
+    A gyerek érdekei vannak elöl, de ettől még nem mindig bízzuk a gyerekre a konkrét megvalósítás részleteit.
+    Ha csak az elvárások hangsúlyosak, akkor az egy tekintélyelvű diktatúra, ha pedig csak a támogatás, akkor borítékolható az elkényeztetés.
+    (Ha meg egyik sincs, akkor az elhanyagolás, de erről nem is érdemes beszélni.)
+    Ha viszont mindkét szempontból jók vagyunk, azt Duckworth "bölcs nevelésnek" nevezi.
+    Kb. lehetsz, ami szeretnél, de akkor azért dolgozzál!
+
+2. Nagyon nem mindegy, hogy *imitáció* vagy *emuláció*.
+A gyerekek természetesen másolni fogják, amit a szüleiktől (vagy szülő-szerűségeiktől) látnak, és ezzel nincs is gond.
+De jó esetben ne csak utánozzanak, hanem értsék is meg, hogy mi *miért* úgy viselkedünk, és értsenek is egyet vele a saját értékrendjük alapján.
+Hogy utána tudatosan, logikus érveléssel a zsebükben testesíthessék meg ők maguk is azokat az értékeket -- és ne csak azt csinálják, amit apa is csinál.
+Szóval ha grit-re akarunk nevelni, akkor A) legyen a mi grit szintünk is szép magasan, és B) magyarázzuk is el nekik, hogy ez miért fontos.
+
+<br>
 
 
-## <a name="iskola"></a>Grit az iskolában
 
-- a szakkörök két fontos alappillére a grit kultiváció szempontjából:
-    - jó esetben egy egyszerre támogató, de elvárásokat támasztó felnőtt kezében a gyeplő, aki NEM a szülő
-    - ezeket az aktivitásokat eleve arra tervezték, hogy növeljék az érdeklődést, a gyakorlást, a céltudatosságot és a reményteliséget
-- persze nem kell teletömni a gyerek napjait
-    - de az mindenképp pozitív hatással lesz a fejlődésére, ha az életének rendszeresen része valami olyan iskolán kívüli tevékenység, ami érdekli őket, de nehéz
-    - a suli nehéz, de legtöbbször nem érdekes; a haverokkal lógás meg érdekes, de nem épp kihívás
-        - a szakköröknél van a legnagyobb esélyük megtapasztalni valami olyat, ami egyszerre érdekes és nehéz
-        - és ha emellett kitartanak (kutatások szerint legalább 2 évig), az mind nettó bevétel a grit számlájukon
-- az elköteleződés az, aminek a legjelentősebb hosszú távú hatása van a fejlődésre (és a későbbi sikerekre)
-    - az mindegy, hogy milyen szakkör/aktivitás
-    - csak hogy az egyik évben csinálja, és aztán a másik évben is csinálja, és közben értékelhetően fejlődik
-- "learned industriousness" - Robert Eisenberger
-    - a munkamorál is tanulható
 
-- Duckworth grit-re nevelő megvalósítása a lányaival: a Nehéz Dolog Szabály
-    - mindenkinek kell legalább egy "nehéz dolog" (ami napi energia befektetést, gyakorlást igényel)
-    - abba lehet hagyni, vagy lehet váltani, de nem "csak úgy"
-        - kizárólag év végén, szezon végén, ilyesmi - de ami mellett elköteleződtek, azt végig kell csinálni
-    - mindenki maga választhatja a nehéz dolgát
-    - és extra kikötés a gimis korba érve: az akkor aktuális választás mellett legalább **2 évig** kitartani
+
+
+
+
+
+
+
+## <a name="iskola"></a>Grit az iskolán kívül
+
+A suli nehéz, de legtöbbször nem érdekes; a haverokkal lógás meg érdekes, de nem épp kihívás.
+Vagyis a fiataloknak a szakköröknél van a legnagyobb esélyük megtapasztalni valami olyat, ami egyszerre érdekes és nehéz.
+És ha emellett kitartanak (kutatások szerint legalább 2 évig), az mind nettó bevétel lesz a grit számlájukon.
+
+A szakkörök két fontos alappillére a grit kultiváció szempontjából, hogy:
+
+- Jó esetben egy egyszerre támogató, de elvárásokat támasztó felnőtt kezében a gyeplő, aki **nem** a szülő, és
+- Ezeket az aktivitásokat eleve arra tervezték, hogy növeljék az érdeklődést, a gyakorlást, a céltudatosságot és a reményteliséget.
+
+Persze nem kell teletömni a gyerek napjait -- de az mindenképp pozitív hatással lesz a fejlődésére, ha az életének rendszeresen része valami olyan iskolán kívüli tevékenység, ami érdekli, de nehéz.
+    
+A "2 évig" rész pedig azért jön képbe, mert felmérések szerint az elköteleződés az, aminek a legjelentősebb hosszú távú hatása van a fejlődésre (és a későbbi sikerekre).
+Az mindegy, hogy milyen szakkör vagy aktivitás.
+Csak annyi kell, hogy A) az egyik évben csinálja, aztán B) a másik évben is csinálja, és közben C) értékelhetően fejlődjön.
+
+Duckworth grit-re nevelő megvalósítása a lányaival az ún. "Nehéz Dolog Szabály", ami alapján megegyeztek, hogy:
+
+- Mindenkinek kell legalább egy "nehéz dolog" (ami napi energia befektetést, gyakorlást igényel),
+- Abba lehet hagyni, vagy lehet váltani, de nem "csak úgy" (kizárólag év végén, szezon végén, ilyesmi -- de ami mellett elköteleződtek, azt végig kell csinálni), és
+- Mindenki maga választhatja a saját nehéz dolgát.
+
+És aztán az extra kikötés a gimis korba érve: az akkor aktuális választás mellett legalább **2 évig** kitartani.
+
+<br>
+
 
 
 
 ## <a name="kultura"></a>Grit a kultúrában
 
-- kultúra > határok
-    - pláne a net elterjedése óta mehet a szabad keveredés
-    - kultúra = közös normák, ahol mind egyetértünk, hogy hogyan mennek a dolgok errefelé, és miért
-    - tribalizmus, bent vs. kint, elköteleződés, azonosulás...
-    - szóval ha fejleszteni akarjuk a grit szintünket, akkor csatlakozzunk egy grit-alapú kultúrához
-- és megint fontos a sorrend
-    - nem előbb kell grit-esebbé válni, hogy aztán már legyen "jogunk" csatlagozni egy grit-es kultúrához
-    - azért kell csatlakozni a kultúrához, hogy általuk válhassunk grit-esebbé
-    - nyilván ahhoz is kell valamennyi alap, hogy egyáltalán bevegyenek - de a hatás legalábbis oda-vissza működik!
-- a konformitás egy erős (és sokszor tudat alatti) hatás
-    - miért ne használnánk ki
-    - természetesen lehet tiszta akaraterőből is fejleszteni a grit-et
-    - de ha a beilleszkedés utáni vágyunk könnyebbé tenné (szinte automatizálná), akkor miért ne keresnénk egy olyan közeget, ahova érdemes lenne beilleszkedni
-        --> mastermind
-- és aztán idővel konformitás --> identitás
+Modern értelemben a kultúrának (szerencsére) szinte semmi köze a határokhoz.
+A net elterjedése óta mehet a szabad keveredés.
+A kultúra így inkább közös normákon alapul, ahol mind egyetértünk, hogy hogyan mennek a dolgok errefelé, és miért.
+A tribalizmus, a bent vs. kint, az elköteleződés és az azonosulás pedig mind valós mentális erőforrások.
 
-- a grit esetében az ár-érték arány ránézésre ritkán magyarázza a viselkedést
-    - legalábbis rövid távon
-    - hosszú távon valószínűleg más lesz a helyzet, de garancia ugye nincs
-    - van viszont mögötte egy identitás
-        - nem azt nézzük, hogy megéri-e így viselkedni
-        - hanem hogy hogyan viselkedik "valaki olyan", mint amilyennek én tartom magam
-        - ha a grit az identitásom része, akkor csinálom és kész.
+Szóval ha fejleszteni akarjuk a grit szintünket, akkor az egyik leghatékonyabb módszer csatlakozni egy grit-alapú kultúrához.
+És megint fontos a sorrend: nem előbb kell grit-esebbé válni, hogy aztán már legyen "jogunk" csatlakozni egy grit-es közösségbe!
+Azért kell csatlakozni a közösségbe, hogy általuk válhassunk grit-esebbé.
+Nyilván ahhoz is kell valamennyi alap, hogy egyáltalán bevegyenek -- de a hatás legalábbis oda-vissza működik!
 
->> “Sisu: A Word That Explains Finland.” A Finn explained his countrymen to the journalist this way: “A typical Finn is an obstinate sort of fellow who believes in getting the better of bad fortune by proving that he can stand worse.”
+A konformitás egy erős (és sokszor tudat alatti) hatás.
+Miért ne használnánk ki?
+Természetesen lehet tiszta akaraterőből is fejleszteni a grit-et, de ha a beilleszkedés utáni vágyunk könnyebbé tenné (szinte automatizálná), akkor miért ne keresnénk egy olyan közeget, ahova érdemes lenne beilleszkedni?
 
-Brodsky tanács: szó szerinti memorizálás és gyakori ismétlés
-    - amíg, kb. Seneca módra, a szavakból tettek lesznek
+És ami a legjobb: a konformitás idővel identitássá válik.
+A grit esetében az ár-érték arány ránézésre ritkán magyarázza a viselkedést -- legalábbis rövid távon.
+Hosszú távon valószínűleg más lesz a helyzet, de garancia ugye nincs.
+Ha viszont van mögötte egy identitás, akkor eleve nem is azt nézzük, hogy megéri-e így viselkedni, hanem hogy hogyan viselkedik "valaki olyan", mint amilyennek mi tartjuk magunkat.
+Ha a grit az identitásunk részévé válik, akkor csináljuk fogjuk és kész.
 
-- versenyszellem, de nem azért, hogy ki nyer vagy ki veszít
-    - hanem hogy az ellenfél teljes erőbedobással ellenálljon, ami megtanít minket még ekkora ellenálláson is átvergődni
-
+<br>
 
 
 
@@ -477,7 +489,10 @@ Brodsky tanács: szó szerinti memorizálás és gyakori ismétlés
 
 ## Összefoglalás
 
->>  The first is that you can grow your grit.
-I see two ways to do so. On your own, you can grow your grit “from the inside out”: You can cultivate your interests. You can develop a habit of daily challenge-exceeding-skill practice. You can connect your work to a purpose beyond yourself. And you can learn to hope when all seems lost.
-You can also grow your grit “from the outside in.” Parents, coaches, teachers, bosses, mentors, friends—developing your personal grit depends critically on other people.
+Összevetve Dweck növekedési szemléletmódjával, a grit szerintem egy kiválóan illeszkedő komplemens.
+Egyrészt kiegészít, mert itt már nem azt akarjuk elhinni, hogy egyáltalán képesek lehetünk valamire, hanem azt tanuljuk, hogy hogyan tarthatunk ki a választásunk mellett addig, amíg már "értelme is lesz".
+Másrészt megerősít, mert itt is prédikáljuk, hogy a kitartásunk, a szenvedélyünk és a szívósságunk maguk is fejleszthetőek.
+
+Ha bentről kifelé szeretnénk grit-esedni, akkor A) kultiváljuk az érdeklődéseinket, B) építsünk a napi szokásainkba kemény, jelenlegi képességeinket meghaladó gyakorlást, C) találjunk egy rajtunk túlmutató értelmet a törekvéseinknek, és D) tartsuk életben a reményt, hogy ki tudjuk majd kaparni magunknak az eredményt, amire vágyunk.
+Ha pedig kívülről befelé szeretnénk grit-esedni, akkor áztassuk magunkat olyan társaságban, ahol ez a norma -- és meglátjuk, hogy érdekes módon mennyivel könnyebb lesz keménynek lenni, ha az kell a beilleszkedéshez.
 
