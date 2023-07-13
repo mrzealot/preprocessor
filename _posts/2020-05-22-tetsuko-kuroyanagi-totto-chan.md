@@ -4,6 +4,7 @@ title: Tetsuko Kuroyanagi - Totto-chan
 tags: [szemléletmód]
 pages: 232
 date: 2020-05-22 00:01
+youtube: CLs5SDl-amg
 excerpt: >
     Ezen a héten a változatosság kedvéért az életrajz kategóriában kezdtem nézelődni, és gyakorlatilag azonnal meg is akadtam a Ryan Holiday ajánlások között az egyik kedvencnél.
     A "Totto-chan -- Kislány az ablaknál" furcsa, gyermekkönyvnek álcázott visszaemlékezés, amiben Tetsuko "Totto" Kuroyanagi híres japán televíziós és rádiós személyiség mesél az általános iskolai élményeiről.

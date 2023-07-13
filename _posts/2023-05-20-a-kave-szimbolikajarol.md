@@ -4,6 +4,7 @@ title: A kávé szimbolikájáról
 cover: coffee
 tags: [szösszenet]
 date: 2023-05-20 00:01
+youtube: YZPbsp_PKjU
 excerpt: >
     ...avagy egy meglepő biokémiai érdekesség összefüggése napjaink toxikus produktivitásával.
 ---
