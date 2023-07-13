@@ -59,7 +59,7 @@ A tartalom a következőképp alakul:
 Duckworth kutatása eredetileg azzal indult, hogy elit katonai oktatásban résztvevő újoncok teljesítményét vizsgálta.
 Azon belül is első sorban azt, hogy miért bukik ki konzisztensen az ígéretes diákok egy jelentős része?
 És hogy vajon hogyan lehetne megjósolni, hogy ki fogja végigcsinálni?
-Persze már addig is volt minden kadétnak egy összpontszáma az addigi akadémiai és atlétikai eredmények (plusz minden egyéb könnyen mérhető aspektus) alapján, amit a felvételi elbírálásnál használtak.
+Persze már addig is volt minden kadétnak egy összpontszáma az addigi akadémiai és atlétikai eredményei (plusz minden egyéb könnyen mérhető aspektus) alapján, amit a felvételi elbírálásnál használtak.
 Csak hát az marhára nem jelezte előre, hogy ki fog kibukni.
 
 Itt jött képbe a *grit*, ami a szerző definíciójában a szenvedély és a kitartás kombinációja.
@@ -178,7 +178,7 @@ Vagyis valószínű, hogy legalább részben az elégséges tápanyagnak, a tisz
 Szóval a grit (minden máshoz hasonlóan) mindkettő függvénye.
 Na jó, de milyen arányban?
 A szokásos genetika vs. nevelkedés kísérlet: nézzük ikreken.
-És az ilyen kutatások szerint a grit kb. 20-40% magyarázható a genetikával -- szóval még a legrosszabb esetekben is többet számít a tapasztalat/neveltetés/környezet/hozzáállás.
+És az ilyen kutatások szerint a grit kb. 20-40%-ban magyarázható a genetikával -- szóval még a legrosszabb esetekben is többet számít a tapasztalat/neveltetés/környezet/hozzáállás.
 Amik ugye mind fejleszthetőek, tehát a grit is az!
 
 Aki ráhagy valamit, az általában vagy:
@@ -231,7 +231,7 @@ Először is érdemes tudatosítani magunkban, hogy nem feltétlen lesz villogó
 Sokszor össze-vissza kanyargós úton derül ki, hogy mibe mélyülünk bele.
 Lehetett volna sok minden más is.
 Szemléletes párhuzam a párválasztás, ahol nem **A** tökéletes párt kéne keresni, hanem **egy** ígéretesen kompatibilis kezdőpontot, ahonnan indulhat az igazi munka.
-Nem az a lényeg, hogy melyik lett (vagy melyik nem lett), hanem hogy kellően belemélyedjünk abba, ami lett.
+Nem az a lényeg, hogy melyik lehetőség lett (vagy melyik nem lett), hanem hogy kellően elköteleződjünk az mellett, ami lett.
 
 > A munkánk iránti szenvedély egy csipetnyi felfedezés, egy nagy adag fejlesztés, és aztán egy életnyi mélyítés.
 >> Passion for your work is a little bit of discovery, followed by a lot of development, and then a lifetime of deepening.
@@ -264,23 +264,23 @@ Ebből pedig szerencsére több opció is akad.
 
 A grit egyik legfontosabb mellékhatása, hogy egyszerűen több időnk lesz valamivel foglalkozni, ami által jobbak leszünk benne.
 De persze évtizedekig is lehet valamit úgy csinálni, hogy közben megragadunk egy közepes szinten, szóval azért valószínűleg más szempont is számít.
-Nem csak a befektetett idő mennyisége, hanem minősége is fontos!
+Nem csak a befektetett idő mennyisége, hanem a minősége is fontos!
 
 A várható mennyiség becslésére ott a Gladwell-nél is tárgyalt [10.000 óra]({% post_url 2023-04-10-malcolm-gladwell-kivetelesek %}), a minőségre pedig Anders Ericsson "tudatos gyakorlását" hivatkozzuk (lásd [Deep Work]({% post_url 2020-09-12-cal-newport-deep-work %}), [Make It Stick]({% post_url 2021-03-06-peter-c-brown-make-it-stick %})).
 A lényeg, hogy:
 
 - A gyengeségekre fókuszálunk,
-- Egyedül és mélyen koncentrálva gyakorolnak, hogy egy specifikus gyengeséget javítsanak,
-- Keresik az azonnali visszajelzést, hogy még mi a rossz (hogy aztán arra is fókuszálhassanak), és
+- Egyedül és mélyen koncentrálva gyakorlunk, hogy egy specifikus gyengeséget javítsunk,
+- Keressük az azonnali visszajelzést, hogy még mi a rossz (hogy aztán arra is fókuszálhassunk), és
 - Ezt ismételjük, napról hónapról évre.
 
 Az ilyen gyakorlás nehezebb, és kevésbé élvezetes, mintha csak úgy csinálnánk, amit már amúgy is tudunk csinálni.
 De pont ettől lesz fejlődés, nem csak karbantartás.
-És különben is, ha csak agyatlanul tesszük, amit tenni kell, az is egyfajta szenvedés -- mert habár annyira nem fájdalmas abban a pillanatban, mégis abban a tudatban kell csinálnunk, hogy gyakorlatilag szinte értelmetlen.
+És különben is, ha csak agyatlanul tesszük, amit tenni kell, az is egyfajta szenvedés -- mert habár annyira nem fájdalmas az adott pillanatban, mégis abban a tudatban kell csinálnunk, hogy gyakorlatilag szinte értelmetlen.
 
-Viszont jó hír: ha megtanuljuk az eredményekkel azonosítani a kemény munkát, akkor idővel akár azt is megszerethetjük
+Viszont jó hír: ha megtanuljuk az eredményekkel azonosítani a kemény munkát, akkor idővel akár azt is megszerethetjük.
 Ez kb. szembemegy a [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %})-val, ami szerint pont hogy nagyon is élveznünk kellene, amit csinálunk.
-A látszólagos ellentmondás könnyen feloldható: a flow élmény leginkább a rengeteg szükségesen kellemetlen gyakorlás eredménye.
+A látszólagos ellentmondás könnyen feloldható: a flow élmény leginkább a rengeteg szükségesen kellemetlen gyakorlás *eredménye*.
 Aki többet szenved a tudatos gyakorlással, annak utána több lesz a flow is.
 Legyen hát szokás a nehéz gyakorlás -- és tanuljuk meg élvezni, amennyire lehet.
 
@@ -315,7 +315,8 @@ Csak a relatív egyensúlyuk az, ami nagyon nem mindegy.
 Az élvezet persze, hogy mindenkinek jó és fontos, de hogy egy magunknál nagyobb cél felé törekedés fontosabb-e, az igazán jól korrelál a grit-tel.
 Ha a cél fontosabb, mint hogy jól érezzük magunkat közben, akkor nyilván olyankor is törekedni fogunk felé, amikor maga a törekvés épp nem túl kellemes.
 
-Szemléltetésként vegyük a kőműveses tanmesét, ahol az egyik épp "téglákat pakol egymásra", a másik "egy templom falát húzza fel", a harmadik pedig "Isten házát építi".
+Szemléltetésként vegyük a tanmesét, ahol elvileg mindhárom kőműves ugyanazt csinálja, de a véleményük igencsak más róla.
+Az egyik épp "téglákat pakol egymásra", a másik "egy templom falát húzza fel", a harmadik pedig "Isten házát építi".
 Ez az az Amy Wrzesniewski-féle munka/karrier/hivatás megkülönböztetés, ami rámutat a hozzáállásunk kulcsszerepére.
 És ugye ez sem statikus ám!
 Nem magától a foglalkozástól függ, hanem hogy hogyan tekintünk rá, vagy hogy mit hozunk ki belőle.
@@ -334,6 +335,7 @@ A legjobb tehát az lesz, ha ezek kéz a kézben járnak.
 ## <a name="remeny"></a>Remény
 
 Kétféle remény között érdemes különbséget tenni: az egyiknél azt reméljük, hogy a holnap jobb lesz; a másiknál azt, hogy képesek leszünk egy jobb holnapot teremteni.
+Érezzük a különbséget?
 Habár a cél ugyanaz, nagyon nem mindegy, hogy menet közben az univerzum-e a felelős, vagy mi.
 
 Szép a párhuzamban a Sztoikus címkézéssel: a "rosszabbik" remény elvárja az univerzumtól, hogy az is jól alakuljon, amit nem mi irányítunk.
@@ -349,11 +351,11 @@ Seligman és Meier híres "tanult tehetetlenség" kísérleteiből nem az a tanu
 
 Az optimista szerint a baj ideiglenes és specifikus, míg a pesszimista szerint végleges és általános érvényű.
 Ez az ún. "katasztrofizálás", aminek az ellenszere a belső monológunk megváltoztatása.
-Vagyis az optimizmus (mint szinte minden) tanulható!
+És az optimizmus (mint szinte minden) tanulható!
 
 A most boncolgatott grit, Dweck növekedési szemléletmódja és az általános optimizmus mind nagyon szépen korrelálnak egymással.
 Sőt, a Duckworth tapasztalatai alapján sorrendiséget is felállíthatunk: növekedési szemléletmód &rarr; optimizmus &rarr; grit.
-Ezek erősítéséhet:
+Ezek erősítéséhez:
 
 1. Higgyünk a neuroplaszticitásban, és a saját fejlődési képességünkben,
 2. Gyakoroljuk az optimisa self-talk-ot, és
@@ -385,7 +387,7 @@ Nyilván sok adat és kutatás kéne még ezen a fronton.
 De hát a gyerekek addig is nőnek, úgyhogy menet közben álljon itt a két "legerősebben sejtett" tanulság a szülőknek és minden szülő-szerű szerepben helytállónak (legyen az tanár, coach, vezető, stb.).
 
 1. Sokan gondolják, hogy a magas elvárások és a feltétel nélküli szeretet egyetlen skála két vége.
-Ezért vagy idegösszeroppanásba hajtjuk a kölköt, mint egy pszeudo-náci, vagy hippi-üzemmódban egy semmirekellővé babusgatjuk.
+Ezért vagy idegösszeroppanásba hajtják a kölköt, mint egy pszeudo-náci, vagy hippi-üzemmódban egy semmirekellővé babusgatják.
 De ez valójában két teljesen független dimenzió!
 Szóval egyrészt nem kell, hogy egyik a másik rovására menjen -- másrészt egyiket se kell túlzásba vinni.
 
@@ -417,7 +419,7 @@ Szóval ha grit-re akarunk nevelni, akkor A) legyen a mi grit szintünk is szép
 ## <a name="iskola"></a>Grit az iskolán kívül
 
 A suli nehéz, de legtöbbször nem érdekes; a haverokkal lógás meg érdekes, de nem épp kihívás.
-Vagyis a fiataloknak a szakköröknél van a legnagyobb esélyük megtapasztalni valami olyat, ami egyszerre érdekes és nehéz.
+Vagyis a fiataloknak az iskolán kívüli szakköröknél van a legnagyobb esélyük megtapasztalni valami olyat, ami egyszerre érdekes és nehéz.
 És ha emellett kitartanak (kutatások szerint legalább 2 évig), az mind nettó bevétel lesz a grit számlájukon.
 
 A szakkörök két fontos alappillére a grit kultiváció szempontjából, hogy:
@@ -431,13 +433,13 @@ A "2 évig" rész pedig azért jön képbe, mert felmérések szerint az elköte
 Az mindegy, hogy milyen szakkör vagy aktivitás.
 Csak annyi kell, hogy A) az egyik évben csinálja, aztán B) a másik évben is csinálja, és közben C) értékelhetően fejlődjön.
 
-Duckworth grit-re nevelő megvalósítása a lányaival az ún. "Nehéz Dolog Szabály", ami alapján megegyeztek, hogy:
+Duckworth grit-re nevelő megvalósítása a lányaival az ún. *Nehéz Dolog Szabály*, ami alapján megegyeztek, hogy:
 
 - Mindenkinek kell legalább egy "nehéz dolog" (ami napi energia befektetést, gyakorlást igényel),
-- Abba lehet hagyni, vagy lehet váltani, de nem "csak úgy" (kizárólag év végén, szezon végén, ilyesmi -- de ami mellett elköteleződtek, azt végig kell csinálni), és
+- Abba lehet hagyni, vagy lehet váltani, de nem csak úgy! Kizárólag év végén, szezon végén, ilyesmi -- de ami mellett elköteleződtek, azt végig kell csinálni, és
 - Mindenki maga választhatja a saját nehéz dolgát.
 
-És aztán az extra kikötés a gimis korba érve: az akkor aktuális választás mellett legalább **2 évig** kitartani.
+És aztán (a fentiek fényében) egy extra kikötés a gimis korba érve: az akkor aktuális választás mellett legalább **2 évig** kitartani.
 
 <br>
 
@@ -489,9 +491,9 @@ Ha a grit az identitásunk részévé válik, akkor csináljuk fogjuk és kész.
 
 ## Összefoglalás
 
-Összevetve Dweck növekedési szemléletmódjával, a grit szerintem egy kiválóan illeszkedő komplemens.
+Összevetve Dweck növekedési szemléletmódjával, a grit szerintem egy kiválóan illeszkedő társ-kurzus.
 Egyrészt kiegészít, mert itt már nem azt akarjuk elhinni, hogy egyáltalán képesek lehetünk valamire, hanem azt tanuljuk, hogy hogyan tarthatunk ki a választásunk mellett addig, amíg már "értelme is lesz".
-Másrészt megerősít, mert itt is prédikáljuk, hogy a kitartásunk, a szenvedélyünk és a szívósságunk maguk is fejleszthetőek.
+Másrészt ráerősít, mert itt is prédikáljuk, hogy a kitartásunk, a szenvedélyünk és a szívósságunk maguk is fejleszthetőek.
 
 Ha bentről kifelé szeretnénk grit-esedni, akkor A) kultiváljuk az érdeklődéseinket, B) építsünk a napi szokásainkba kemény, jelenlegi képességeinket meghaladó gyakorlást, C) találjunk egy rajtunk túlmutató értelmet a törekvéseinknek, és D) tartsuk életben a reményt, hogy ki tudjuk majd kaparni magunknak az eredményt, amire vágyunk.
 Ha pedig kívülről befelé szeretnénk grit-esedni, akkor áztassuk magunkat olyan társaságban, ahol ez a norma -- és meglátjuk, hogy érdekes módon mennyivel könnyebb lesz keménynek lenni, ha az kell a beilleszkedéshez.
