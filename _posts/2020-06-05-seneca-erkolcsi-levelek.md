@@ -4,6 +4,7 @@ title: Seneca - Erkölcsi levelek
 tags: [szemléletmód]
 pages: 256
 date: 2020-06-05 00:01
+youtube: ZQKjf4EIT58
 excerpt: >
     Gyakran ajánlott olvasási "módszertan", hogy igyekezzünk minden könyv esetén legalább egy-egy hivatkozott/kapcsolódó kötetet is elolvasni.
     Úgy döntöttem ezért, hogy az első, mindent (nagyon felületesen) érintő adag végeztével futok még egy kört -- az eddigi könyvek hivatkozásai alapján.
