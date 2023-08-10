@@ -5,6 +5,7 @@ cover: eheslelek
 tags: [táplálkozás, szemléletmód]
 pages: 254
 date: 2021-12-04 00:01
+youtube: xyE6tunwYmI
 excerpt: >
     Heti témánk Lukács Liza -- Az éhes lélek gyógyítása című könyve, aminek alapvető tézise, hogy nagyon is jelentős a pszichológia szerepe a fogyásban.
     Csak hát sajnos ezt máshol vagy egyáltalán nem tárgyalják, vagy ha igen, akkor is csak a "legyél keményebb, nincs kifogás, megcsinálod" formában teszik.

@@ -3,6 +3,7 @@ layout: post
 title: Seneca - Erkölcsi levelek - 2. felvonás
 tags: [szemléletmód]
 date: 2020-06-12 00:01
+youtube: RLv-H0g_5v0
 excerpt: >
     A múlt héten Lucius Annaeus Seneca sztoikus jótanácsait szedtük csokorba önfejlesztés, fókusz, tanítás és elfogadás témakörökben.
     Ezekhez szeretném most hozzátenni a kimaradt négy területet, név szerint a minimalizmust, a társadalmi beilleszkedést, a barátságot és a halál helyes kezelését.
