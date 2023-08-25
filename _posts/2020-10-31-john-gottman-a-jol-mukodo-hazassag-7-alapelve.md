@@ -4,6 +4,7 @@ title: John Gottman - A jól működő házasság 7 alapelve
 tags: [kapcsolatok]
 pages: 271
 date: 2020-10-31 00:01
+youtube: 4Z32OPKoGUQ
 excerpt: >
     Habár Gary Chapman szeretetnyelvei önmagukban is sokat segítenek, a konfliktusok kezelésére nem igazán térnek ki.
     Ezért párjukként igyekeztem egy kicsit általánosabb kapcsolati útmutatót keresni a hétre.
