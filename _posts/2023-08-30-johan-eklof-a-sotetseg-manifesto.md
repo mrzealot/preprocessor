@@ -12,7 +12,7 @@ excerpt: >
 Egész véletlenül akadtam Johan Eklöf -- [A sötétség manifesto](https://www.goodreads.com/book/show/61273327-the-darkness-manifesto){:target="_blank"} című könyvébe, de azonnal éreztem, hogy kiváló kiegészítés lesz a [Néma Tavasz](2020-10-03-rachel-carson-nema-tavasz) ökológiai szemlélete mellé.
 Eklöf barátunk svéd denevérkutató és sötétség-kedvelő, aki az éjszakai állatfajok tömeges eltűnése és az emberi fiziológiai folyamatok megzavarása miatt hívja fel a figyelmet a fényszennyezésre.
 
-Írásában csak úgy hemzsegnek a mitológiai kapcsolatok, a szavak etimológiája, költői megfogalmazások, gyerekkori emlékek (és hogy majd a mi gyerekeinknek mi marad)...
+Írásában csak úgy hemzsegnek a mitológiai kapcsolatok, a szavak etimológiája, költői megfogalmazások, gyerekkori emlékek, és hogy majd a mi gyerekeinknek mi marad...
 Ezek egy tömör (és leginkább praktikus önfejlesztést célzó) összefoglalóba nyilván nem férnek bele, de a hangulatot nagyon mesemondóssá teszik.
 Inkább egy olyan könyv ez, ami a szemléletmódunkat formálja, nem is feltétlen az ismereteinket bővíti hangsúlyosan.
 Na persze van itt ismeret, de érzet is, ami miatt nem tekintünk majd ugyanúgy a sötétségre.
@@ -33,63 +33,46 @@ A tartalom a következőképp alakul:
 
 
 
-<!-- Fényszennyezés -->
+## <a name="fenyszennyezes"></a>A fényszennyezésről
 
-## A sötétség körforgása
+A Föld forgása nem állandó.
+Lassul -- de csak szép fokozatosan, pár ezred másodperc per évszázad tempóban.
+El tudjuk ezt képzelni, milyen lassú?
+És a nappaloknak még így is volt idejük konkrétan *megduplázódni* az első életformák kialakulása óta.
 
-- cirkadián ritmus, belső óra
-    - a mimóza virág akkor is nyílik/hervad, ha mesterségesen sötétben tartjuk, és nem süt rá a Nap
-    - minden élőlényben ott van ez a metronóm, egy belső evés és alvás óra
-- a Föld forgása nem állandó, lassul
-    - de csak szép fokozatosan, pár ezred másodperc per évszázad tempóban
-    - és a napoknak még így is volt idejük konkrétan megduplázódni az első életformák kialakulása óta
-- ami viszont nem változott, hogy mindenki számára ismétlődött a világos-sötét-világos sötét körforgás
-    - területenként és évszakonként változó ütemben és hosszal, de folyamatosan kiszámítható volt a nappal és az éjszaka
-    - ez szinkronizálja a belső óránkat is, ami magától csak kb. egy napig maradna korrekt
-- na ebbe az eddigi állandóságba piszkál bele nem kicsit az a rengeteg mesterséges fény, amit mostanában használunk
-    - nem is beszélve arról a rengeteg fényről, amit nem is használunk...
+Ami viszont nem változott ennyi idő alatt sem, hogy mindenki számára ismétlődött a világos-sötét-világos-sötét körforgás.
+Persze területenként és évszakonként változó ütemben és hosszal, de folyamatosan kiszámítható volt a nappal és az éjszaka körforgása.
+Ez szinkronizálja a belső óránkat (avagy, a cirkadián ritmusunkat) is, ami magától csak kb. egy napig maradna korrekt.
 
-## Tapasztalatok a sötétben
+Na ebbe az eddigi állandóságba piszkál bele nem kicsit az a rengeteg mesterséges fény, amit mostanában használunk.
+Nem is beszélve arról a rengeteg fényről, amit nem is használunk, csak úgy szivárogtatjuk az éterbe.
 
->>  I want to believe that I work more effectively in the long run if I let natural pauses happen, if I let the darkness fall in its own time.
+A sötéttől való irracionális félelem az egyéni reakción (az ún. nyctophobián) felül kulturális és túlélést segítő ösztön.
+Mi emberek nappali, első sorban látási ingerek alapján tájékozódó élőlények vagyunk, ezért valamilyen szinten érthető, hogy ki szeretnénk világítani a világunkat.
+De amekkora skálán és amilyen tempóban ezt csináljuk, az minden, csak nem természetes.
+Semmi más nem tud alkalmazkodni, de az az ő bajuk.
+Ez itt az [antropocén kor](https://hu.wikipedia.org/wiki/Antropoc%C3%A9n){:target="_blank"}, az ember kora, és minden más meg bassza meg.
 
-## Megvilágított bolygó
+A sok kivilágítás mágneses hatással van a rovarokra.
+Szó szerinti sáskajárások vonják el őket vidékről a városokba, ami kimutatható ökológiai változásokhoz vezet.
+A fénnyel belezavarunk az éjszakai rovarok navigációjába, akik általában a csillagokra és/vagy a Holdra hagyatkoznak.
+A Hold fénye a napfény erősségének 40 **ezrede**, és sokan olyan érzékenyek, hogy ez alapján kelnek útra.
+Ha ehelyett egy lámpa alapján tájékozódnak, akkor nem tudnak majd se táplálkozni, sem ezáltal elvégezni a beporzást, ami meg a növények szemszögéből lenne nagyon fontos.
 
-- mi nappali, első sorban látási ingerek alapján tájékozódó élőlények vagyunk, ezért érthető, hogy ki szeretnénk világítani a világunkat
-    - nyctophobia - sötéttől való irracionális félelem. kultúrális, és túlélést segítő
-        - több, mint fél óra felépíteni a fényérzékenységünket a sötétben, de egy pillanat alatt beborítható
-    - de amekkora skálán ezt csináljuk, az minden, csak nem természetes
-    - antropocén kor, az ember kora, és minden más meg bassza meg (https://hu.wikipedia.org/wiki/Antropoc%C3%A9n)
+Vannak, akik a vízről visszaverődő, polarizált fényre mennek, és az aszfaltról/kocsikról/üvegfelületekről visszaverődő fényeknek esnek áldozatul (amire a mesterséges fény csak rátesz).
+Azt hiszik, víz, ami a tojásrakáshoz optimális lenne, de helyette egy Tesco parkoló, ahol kb. egyből halálra van ítélve a következő generáció.
+Sőt, a molyoknál például az is a szürkülethez kötött, hogy aktiválódjon a hormonrendszer, termelődjenek a feromonok, és párt találjanak, szóval még a tojásokig sem jutunk el.
+Vagy ha igen, akkor is hamarabb kelnek ki, mint kéne, mert természetesen a lárvák fejlődésébe is beleszól az extra fény.
 
+Ezek után nem csoda, ha tömegesen fogynak a rovarok.
+Biomassza mérések alapján vagy 75%-os a csökkenés!
+Egy másik, szubjektívebb teszt a szélvédő hatás, miszerint látványosan egyre kevesebb a halott bogár a kocsik elején, ugyanakkora távok mellett, mint mondjuk 10-20-30 éve.
 
-## A porszívó effekt
+A hatodik kihalási hullám van folyamatban, aminek demonstrálhatóan mi emberek vagyunk az okai.
+Ebben persze benne vannak az urbanizáció, a globális felmelegedés, a rovarirtók túlzott használata (lásd [Néma Tavasz]({% post_url 2020-10-03-rachel-carson-nema-tavasz %})), a monokultúrás növénytermesztés, és az eltűnő erdők...
+De a fényszennyezés is -- és nem is kicsit.
 
-- kivilágítás mágneses hatása a rovarokra
-    - szó szerinti sáskajárás
-    - a városok elvonják a rovarokat a vidékről, ami ökológiai változásokhoz vezet
-- fogynak a rovarok
-    - sampling és biomass mérés alapján vagy 75%-os a csökkenés!
-    - ebben persze benne vanak az urbanizáció, a globális felmelegedés, a rovarirtók túlzott használata (lásd Néma Tavasz), a monokultúrás növénytermesztés, és az eltűnő erdők
-    - de a fényszennyezés is -- és nem is kicsit.
-
-## Kioltott párosodási impulzus
-
-- a fénnyel belezavarunk az éjszakai rovarok navigációjába, akik általában a csillagokra/Holdra hagyatkoznak
-    - polarizált fény
-    - ha ehelyett egy lámpa alapján tájékozódnak, akkor nem tudnak majd se táplálkozni, sem ezáltal elvégezni a beporzást, ami meg a növények szemszögéből lenne nagyon fontos
-- Hold a napfény 40 EZREDE, és a ganajtúró bogár például olyan érzékeny, hogy ez alapján tájékozódik
-- de vannak, akik a vízről visszaverődő, polarizált fényre mennek, és az aszfaltról/kocsikról/üvegfelületekről visszaverődő fényeknek esnek áldozatul (amire a mesterséges fény csak rátesz)
-    - azt hiszik, víz, ami a tojásrakáshoz optimális lenne, de helyette egy Tesco parkoló, ahol kb. egyből halálra van ítélve a következő generáció
-- sőt, a molyoknál pl. az is a szürkülethez kötött, hogy aktiválódjon a hormonrendszer, termelődjenek a feromonok, és párt találjanak, szóval még a tojásokig sem jutunk el
-    - vagy ha igen, akkor is hamarabb kelnek ki, mint kéne, mert természetesen a lárvák fejlődésébe is beleszól az extra fény
-
-## Tömeges kihalás
-
-- szélvédő hatás: egyre kevesebb a halott bogár a kocsik elején, ugyanakkora távok mellett, mint mondjuk 10-20-30 éve
-- a hatodik kihalási hullám van folyamatban, aminek demonstrálhatóan mi vagyunk az okai
-- minden fogy, de a molyok még gyorsabban, mint a többi rovar
-- egyre egyértelműbb a fényszennyezés negatív hatása
-    - de az új felismerések (és az új technológia) remélhetőleg egyre közelebb hozza majd az emberiség fényigényét sok másik élőlény sötétség-igényével
+<br>
 
 
 
@@ -98,39 +81,31 @@ A tartalom a következőképp alakul:
 
 
 
+## <a name="fulke"></a>Az éjszaka, mint ökológiai fülke
 
-<!-- Az éjszaka, mint ökológiai fülke -->
 
-## Látni a sötétben
+Az evolúció egyik legdinamikusabb időszaka a [Kambriumi robbanás](https://hu.wikipedia.org/wiki/Kambriumi_robban%C3%A1s){:target="_blank"}, ahol a napfényen vegetálgatás helyett hirtelen (értsd, kb. 10 millió év alatt) divat lett egymást levadászni, és ezért a látás gyors fejlődésnek indult.
+A mára sztenderddé vált szem csapokat és pálcikákat tartalmaz, amikből előbbi inkább a színekért és a felbontásért, utóbbi pedig a fényérzékenységért és a *sötétadaptált* látásért felelnek.
 
-- Kambriumi robbanás
-    - vegetálgatás helyett predáció, és ezért a látás gyors fejlődése
-    - amit szépen megmaradt kövületekből tanulmányozhatunk is
+Nem mindenkinek azonos szintű azonban a sötéthez való adaptációja.
+Az éjszakai életre szakosodott élőlények többsége extra tükrökkel rendelkezik a retina mögött, hogy kétszer haladhasson át rajta a fény.
+Ettől világít a macska szeme a sötétben -- és ettől lát vele a macska sokkal jobban.
 
-## A szem
+Vagy tekintsük a baglyokat, akik már kezdésnek is 100-szor jobban látnak, mint mi, de ennek a tetejébe szatellit antenna alakú fejük van, hogy minél jobban gyűjtse a zajokat.
+Sőt, különböző alakú a bal és a jobb fülük, hogy az eltérésekből pontosan azonosíthassák a hang forrását.
 
-- cones and rods for color and light
-    - Tapetum lucidum --> extra tükök a retina mögött, hogy kétszer haladhasson át rajta a fény (így sokkal fényérzékenyebb lesz)
-    - ettől világít a macska szeme a sötétben -- és ettől lát vele a macska sokkal jobban
+Erre tesz még egy lapáttal a denevérek echo-lokációja, vagyis a visszhang alapú tájékozódás (kb. beépített szonár).
+Már az 1700-as évek végén kimutatták, hogy ha a szemük volt bekötve, attól még szépen ment nekik az akadálypálya vagy a vadászat -- viszont ha a fülük, akkor nem.
+Nem vakok ők, csak nincs szükségük a fényre a vadászathoz, és ezért inkább olyankor jönnek elő, amikor nincs fény, hogy a rájuk vadászó nagy madarak se lássanak.
 
-## Éjjeli érzékek
 
-- baglyok
-    - 100-szor jobban látnak, mint mi
-    - szatellit antenna alakú fej, hogy minél jobban gyűjtse a zajokat
-    - különböző alakú bal és jobb fül, hogy az eltérésekből pontosan azonosíthassák a hang forrását
-- echo-lokáció
-    - visszhang alapú tájékozódás, kb. szonár
-    - már az 1700-as évek végén kimutatták: ha a szemük volt bekötve, attól még szépen ment nekik az akadálypálya vagy a vadászat
-        - viszont ha a fülük, akkor nem
-- nem vakok ők, csak nincs szükségük a fényre a vadászathoz
-    - és ezért inkább olyankor jönnek elő, amikor nincs fény, hogy a rájuk vadászó nagy madarak se lássanak
 
-## Alkonyi állatok
 
-- még aki nem konkrétan éjszakai (mint mondjuk az emlősök nagy többsége), az is inkább hajnali vagy alkonyi aktivitást mutat inkább
-    - és éjszaka sem csak alvás a program
-    - mi emberek vagyunk egyedül, akik leginkább konkrétan a nappal kellős közepén ficergünk
+
+
+
+
+
 
 ## Rossz fényben énekelni
 
@@ -237,17 +212,6 @@ A tartalom a következőképp alakul:
 - napi kétszer hal migráció sok fajnál a sötét mélyből az "alkony zónába", ami a mi szemünknek már sötét lenne, de nekik még pont jó
     - olajfúró állomások, szélfarmok, hajók világítása, parti városok, gyártelepek, stb.
 
-## Változó ökoszisztéma
-
-- a zsákmánynak is árthatunk, de a ragadozónak is
-    - ha már nem tud rejtőzni, vagy ha ő maga jobban fény-érzékeny, mint a zsákmánya
-- a lényeg, hogy az evolúciós változások során kialakult kényes egyensúly évmilliók alatt állt be, mi pedig pillanatok alatt szét tudjuk barmolni
-
-## Éjszakai szolgálat
-
-- a denevérek haszna emberi szemszögből dollár százmilliókban vagy akár milliárdokban mérhető, ha megnézzük, mennyi károkozót fogyasztanak, vagy hogy az ürülékük milyen jó trágyának
-- ecology vs. economy -- ezeket a szolgálatokat a természet ingyen nyújtja, csak olyanra kéne beállítani a körülményeket, hogy nyújtHASSA
-    - mézzel többre mennénk, mint az ecettel
 
 
 
@@ -257,9 +221,38 @@ A tartalom a következőképp alakul:
 
 
 
+<br>
+
+Láthatjuk tehát, hogy a sötétség egy igen népes [ökológiai fülke](https://hu.wikipedia.org/wiki/%C3%96kol%C3%B3giai_f%C3%BClke){:target="_blank"}.
+És még aki nem dedikáltan éjszakai (mint mondjuk az emlősök nagy többsége), az is inkább hajnali vagy alkonyi aktivitást mutat.
+Illetve éjszaka sem csak alvás a program.
+Mi emberek vagyunk egyedül, akik leginkább konkrétan a nappal kellős közepén ficergünk.
+
+A baj az, hogy ezt a különcségünket minden erőnkkel próbáljuk a többiekre is ráerőltetni.
+Az evolúciós változások során kialakult kényes egyensúly évmilliók alatt állt be, mi pedig pillanatok alatt szét tudjuk barmolni.
+Aztán meg majd nézhetünk nagy csodálkozó fejjel, ha valami olyat is kirúgunk magunk alól, ami nekünk dolgozott, de még csak tudomást sem vettünk róla.
+
+A denevérek emberi szemszögből vett "haszna" például dollár százmilliókban vagy akár milliárdokban mérhető, ha megnézzük, mennyi károkozót fogyasztanak, vagy hogy az ürülékük milyen jó trágyának.
+Ha kihalásba világítjuk őket, akkor ez egy elég váratlan extra költség lesz ám.
+Pláne hogy ezeket a szolgálatokat a természet ingyen nyújtja -- csak olyanra kéne beállítani a körülményeket, hogy nyújt**HASSA**.
+Mézzel többre mennénk, mint az ecettel.
+
+<br>
 
 
-<!-- Az emberiség és a kozmikus fény -->
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="emberiseg"></a>Az emberiség és a kozmikus fény
 
 - civil < nautical < astronomical twilight
     - 6°-onként
@@ -302,6 +295,7 @@ A tartalom a következőképp alakul:
 - már vannak próbálkozások, hogy utánozzuk a természetes világítási ciklust a mesterséges fény színével és/vagy erősségével
     - de ez még nagyon gyerekcipő
 
+<br>
 
 
 
@@ -313,8 +307,7 @@ A tartalom a következőképp alakul:
 
 
 
-
-<!-- A sötétség szerepe -->
+<a name="sotetseg"></a>A sötétség szerepe
 
 
 >> Åke Lundqvist once wrote, “Darkness is not the absence of light. Light is diluted darkness.
@@ -340,6 +333,19 @@ A tartalom a következőképp alakul:
 - sötét-terápia
     - sötétben intimebb, lassabb, nyugodtabb a beszélgetés, a társasági lét
     - a túl sok vizuális stimuláció kompenzálása nem lenne rossz ötlet
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
