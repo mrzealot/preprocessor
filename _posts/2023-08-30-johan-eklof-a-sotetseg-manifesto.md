@@ -6,7 +6,8 @@ tags: [minimalizmus, szemléletmód]
 pages: 272
 date: 2023-08-30 00:01
 excerpt: >
-    TODO
+    Egész véletlenül akadtam Johan Eklöf -- A sötétség manifesto című könyvébe, de azonnal éreztem, hogy kiváló kiegészítés lesz a Néma Tavasz ökológiai szemlélete mellé.
+    Eklöf barátunk svéd denevérkutató és sötétség-kedvelő, aki az éjszakai állatfajok tömeges eltűnése és az emberi fiziológiai folyamatok megzavarása miatt hívja fel a figyelmet a fényszennyezésre.
 ---
 
 Egész véletlenül akadtam Johan Eklöf -- [A sötétség manifesto](https://www.goodreads.com/book/show/61273327-the-darkness-manifesto){:target="_blank"} című könyvébe, de azonnal éreztem, hogy kiváló kiegészítés lesz a [Néma Tavasz](2020-10-03-rachel-carson-nema-tavasz) ökológiai szemlélete mellé.
@@ -83,7 +84,6 @@ De a fényszennyezés is -- és nem is kicsit.
 
 ## <a name="fulke"></a>Az éjszaka, mint ökológiai fülke
 
-
 Az evolúció egyik legdinamikusabb időszaka a [Kambriumi robbanás](https://hu.wikipedia.org/wiki/Kambriumi_robban%C3%A1s){:target="_blank"}, ahol a napfényen vegetálgatás helyett hirtelen (értsd, kb. 10 millió év alatt) divat lett egymást levadászni, és ezért a látás gyors fejlődésnek indult.
 A mára sztenderddé vált szem csapokat és pálcikákat tartalmaz, amikből előbbi inkább a színekért és a felbontásért, utóbbi pedig a fényérzékenységért és a *sötétadaptált* látásért felelnek.
 
@@ -98,128 +98,54 @@ Erre tesz még egy lapáttal a denevérek echo-lokációja, vagyis a visszhang a
 Már az 1700-as évek végén kimutatták, hogy ha a szemük volt bekötve, attól még szépen ment nekik az akadálypálya vagy a vadászat -- viszont ha a fülük, akkor nem.
 Nem vakok ők, csak nincs szükségük a fényre a vadászathoz, és ezért inkább olyankor jönnek elő, amikor nincs fény, hogy a rájuk vadászó nagy madarak se lássanak.
 
+<br>
+
+Az éjszakai adaptációnak azonban ára van.
+Ha egy faj túlságosan a sötétre specializálódik, és aztán mi egyszerűen elvesszük tőle a sötétséget, akkor hirtelen nagy lesz a csodálkozás.
+Csak pár példa érzékeltetésnek:
+
+- Vannak rovarok, amik teliholdkor nem mennek vadászni, mert akkor túl könnyű zsákmánynak éreznék magukat.
+Inkább vár(ná)nak a sötétre, ami viszont az állandó, ég felé irányuló fényszennyezés és azt azt esetleg visszatükröző felhőzet/köd/szmog miatt soha nem jön el.
+
+- A tücskök ciripelése a fénnyel függ össze, vagyis ha rosszkor jelez, akkor nem társat talál, hanem vacsorává válik.
+
+- Hasonlóan, egyes bogarak védelmi színe/mintázata is mást mutat más mennyiségű (vagy akár csak más spektrumú) fényben.
+Így lehet, hogy pont amiatt fognak kilógni, aminek elrejtenie kéne őket a ragadozók elől.
+Vagy pont beleolvadnak a környezetbe, amikor párt kéne találniuk.
+
+- Fény hatás lehet az is, ha megtörténik ugyan a párzás és az utód születése, de rosszkor.
+Mondjuk amikor nincs elég kaja a számára, hogy fel is nőhessen.
+
+- A madarak vándorlását részben a mágneses spektrum érzékelése is segíti, de nagyban a csillagok fénye által történik.
+Amibe, meglepetés, megint belepiszkál a mesterséges fény.
+
+- A fákra esetében mesterséges fény mellett hamarabb kezdődhet a rügyezés, és tovább megmaradhat a lombkorona.
+A termések/magok szemszögéből előny lehet a korai érés, de egyetlen tavaszi fagy tönkre vághatja az egész folyamatot.
+Ezért kell (vagyis, *kellene*) a megbízható visszajelzés a környezetből -- és ebbe piszkál bele a sok lámpa.
+
+- Mindez persze csak akkor, ha egyáltalán van, ami rügyezhet.
+A belső órák átállításával szétcsúszik a beporzók és a növények szinkronizációja, így a rovar éhesen, a virág pedig parlagon marad.
+
+- A tengerben előforduló bioluminancia mozgást, és ezáltal ragadozók közeledtét jelezheti -- de csak akkor, ha egyéb fény bele nem szennyez.
+Az erre érzékeny halak így védtelenné válhatnak a ragadozóikkal szemben.
+
+- Bizonyos teknős fajok kikelése mindig az alkonyhoz kötött, amikor is a nap utolsó sugarai felé menetelnek a tengerbe.
+Viszont ha van a közelben más erős fényforrás, akkor arra indulnak, ezzel kb. az első pillanattól halálra ítélve magukat.
+
+- Napi kétszer történik hal migráció sok fajnál a sötét mélyből az "alkony zónába", ami a mi szemünknek már sötét lenne, de nekik még pont jó.
+Ezt a "pont jó" szintet szennyezi be az olajfúró állomások, szélfarmok, hajók, parti városok és gyártelepek világításai.
+
+- A bohóchalak szimbiózisban élnek a tengeri rózsákkal.
+A tengeri rózsa fontos alapanyag a rák kutatásban; a bohóchalak élőhelyei pedig népszerű látványosságok a Nemo nyomában megjelenése óta.
+Igen ám, de a bohóchal ikrák csak teljes sötétségben kelnek ki.
+Ha ezeket összeadjuk, akkor jöhet a láncreakció: turisták &rarr; part menti szállodák &rarr; fény &rarr; nincs kikelés &rarr; nincs hal &rarr; nincs tengeri rózsa &rarr; nincs rák kutatás.
+Hát nem érdekes (és borzasztó) domino hatás?
 
 
-
-
-
-
-
-
-
-## Rossz fényben énekelni
-
-- tücskök ciripelése is a fénnyel függ össze
-    - ha rosszkor jelez, akkor nem társat talál, hanem vacsorává válik
-    - és a növekedési ütemük
-- vannak rovarok, amik teliholdkor nem mennek vadászni, mert akkor túl könnyű zsákmánynak éreznék magukat
-    - inkább várnak a sötétre
-    - ami viszont az állandó, ég felé irányuló fényszennyezés és azt azt esetleg visszatükröző felhőzet/köd/szmog miatt soha nem jön el
-
-## A természet lámpásai
-
-- védelmi színek/mintázatok is mást mutatnak más mennyiségű vagy akár csak más spektrumú fényben
-    - így lehet, hogy pont amiatt fognak kilógni, aminek elrejtenie kéne őket a ragadozók elől
-    - vagy pont beleolvadnak a környezetbe, amikor párt kéne találniuk
-
-## Fényforrás
-
-- Néma Tavasz ref.
-- fénykövető a madarakon, akiknek városi körülmények között kb. 1 órával több "napfényesnek" nevezhető órában van részük
-    - és még éjszaka is kb. 1000-szeres a fény, mint vidéken
-- fény hatás lehet az is, hogy rosszkor történik a párzás és születik az utód
-    - amikor mondjuk nincs elég kaja számára
-- denevéreknél mondjuk direkt korábban van a párzás (ősszel), de aztán csak tavasszal a megtermékenyülés
-    - viszont a fény ebbe is beleszólhat
-
-## Csillag iránytű
-
-- madarak vándorlása
-    - részben a mágneses spektrum érzékelésével, de nagyban a csillagok fénye mellett
-    - amibe, meglepetés, megint belepiszkál a mesterséges fény
-
-## A csillogó város
-
-- 9/11-es fényoszlop is összezavarja a madarakat
-- Salt Lake City hatás szemléltetés önkéntesekkel
-    - számoljanak halott madarakat (ami egyre több)
-    - számoljanak olyan világítási szituációkat, amik egyáltalán nem szükségesek (csak dekoratívak), vagy nem jól árnyékoltak (ha szükségesek is)
-    - március-május, illetve augusztus-október között különösen figyelnek a házaikból kiszűrődő fényre, és lekapcsolják a kültéri világításaikat, hogy segítsék a migrációt
-
-## Hamis nyár
-
-- a fákra is hat a mesterséges fény - hamarabb kezdődik a rügyezés, és tovább megmarad a lombkorona
-    - plusz a fény színe sem mindegy
-- a termések/magok szemszögéből előny lehet a korai érés, de egyetlen tavaszi fagy tönkre vághatja az egész folyamatot
-    - ezért kell (vagyis, kéne) a megbízható visszajelzés a környezetből, és ebbe piszkál bele a sok lámpa
-
-
-## Terméketlen éjszaka
-
->> Global warming and artificial light reset the internal clocks of plants, risking destroying the delicate balance between plant and pollinator, between plant and herbivore, between prey and predators. If the temperature rises just a few degrees or twilight is shifted only by a few moments, the timing between flowering and the creatures who take advantage of that flowering can be disrupted.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Tengeri tüzijáték
-
-- bioluminancia, ami mozgást, és ezáltal ragadozók közeledtét jelezheti
-    - de csak akkor, ha egyéb fény bele nem szennyez
-
-## Ahol a tenger vár
-
-- teknősök kikelése alkonykor, amikor is a nap utolsó sugarai felé mennek a tengerbe
-    - ha van a közelben más erős fényforrás, akkor arra indulnak, ezzel kb. az első pillanattól halálra ítélve magukat
-
-## Holdfényes románc
-
-- Nemo nyomában
-    - az lett volna az üzenet, hogy a halaknak az óceánban a helyük
-    - ehelyett kb. önmagában teremtett egy milliárdos bohóchal piacot a népszerűsége miatt
-
-- a bohóchal ikrák csak teljes sötétben kelnek ki
-- tengeri rózsákkal élnek szimbiózisban, amik pedig a rák kutatásban fontosak
-- a korall zátonyok turista látványosságok
-    - ha ezeket mind összeadjuk, akkor jön a láncreakció
-    - turisták -> szállodák -> fény -> nincs kikelés -> hal kihalás -> tengeri rózsa kihalás -> kevesebb rák kutatás
-    - hát nem érdekes (és borzasztó) domino hatás?
-
-## Sápadt korall
-
-- a korallok maguktól is elsápadnak/hanyatlanak kb. 20 évente egy természetes szélfordulásnak és vízhőmérséklet változásnak köszönhetően
-    - ez 20 évente még bele is fér, mert kb. egy évtized alatt teljesen tudnak regenerálódni egy ekkora visszaesésből
-    - viszont mostanában (a globális felmelegedés miatt) már 6 évente megy ez a ciklus, ezért nem tudják a korábbi szintre visszaépíteni magukat
-        - ha így haladunk, el fognak fogyni, amiből már nem lesz regenerálódás
-- és ezt teszi csak még súlyosabbá, hogy a korallok szaporodása szorosan függ a Holdfénytől
-    - amibe, kitaláltátok, a fényszennyezés belepiszkál
-
-
-## Az alkony zóna
-
-- napi kétszer hal migráció sok fajnál a sötét mélyből az "alkony zónába", ami a mi szemünknek már sötét lenne, de nekik még pont jó
-    - olajfúró állomások, szélfarmok, hajók világítása, parti városok, gyártelepek, stb.
-
-
-
-
-
-
-
-
-
+- A korallok maguktól is elsápadnak/hanyatlanak pár évente egy természetes szélfordulásnak és vízhőmérséklet változásnak köszönhetően.
+És ez még bele is fér, mert alap esetben gyorsabban tudnak regenerálódni egy ekkora visszaesésből, mint ahogy a következő érkezne.
+Viszont a korallok szaporodása szorosan függ a Holdfénytől -- amibe, kitaláltátok, a fényszennyezés belepiszkál.
+Ha így haladunk, gyorsabban fognak eltűnni, mint ahogy regenerálódni tudnának, és onnan már nem nagyon lesz visszaút.
 
 <br>
 
@@ -254,46 +180,38 @@ Mézzel többre mennénk, mint az ecettel.
 
 ## <a name="emberiseg"></a>Az emberiség és a kozmikus fény
 
-- civil < nautical < astronomical twilight
-    - 6°-onként
-- ez utóbbinál a 17-18 század környékén még szabad szemmel is jól lehetett csillagászkodni
-    - vagy legalábbis csak a szemünk érzékenységén múlt
-    - ma már ez a legtöbb helyen lehetetlen lenne a fényszennyezés miatt
+A 17-18 század környékén még szabad szemmel is jól lehetett csillagászkodni.
+Vagy legalábbis csak a szemünk érzékenységén múlt, nem a külső körülményeken.
+Ma viszont már ez a legtöbb helyen lehetetlen lenne a fényszennyezés miatt.
 
-- Bortle skála - mennyire jól látható a éjjeli égbolt
-    - 1 a teljesen érintetlen, 9 a teljesen fényszennyezett
-    - 1-es értéknél több mint 6000 (!) égi objektum lenne látható szabad szemmel, míg a skála tetején ez 5-10-re csökken
+Ennek számszerűsítéséhez az ún. Bortle skálát használják, ami azt mutatja, hogy mennyire jól látható a éjjeli égbolt.
+Az 1-es érték teljesen érintetlen eget jelent (ahol több mint **6000** égi objektum lenne látható szabad szemmel), míg a 9-es a teljes fényszennyezés (ahol az objektumok száma **5-10**-re csökken).
 
-- Holdkór
-    - őrület, bűn, több gyerek születik, rosszabb alvás
-    - de a statisztikák semmit nem támasztanak alá
-    - az alvás meg valószínűleg csak az extra fény, vagyis szimplán jobb függönyre/redőnyre lenne szükség
+Az elektromos fény elterjedésével képesek voltunk ráerőltetni a világra a saját ritmusunkat.
+Persze már akkoriban is voltak, akik úgy gondolták, hogy ez leginkább csak ahhoz vezet majd, hogy a munkásokat még jobban ki lehessen zsigerelni, és hajtani a gazdaságot.
+Így visszatekintve ezt nem mondanám alaptalannak.
 
-- állatövi fény
-    - nem csak a Hold tükzöri vissza a Nap fényét, hanem a minden egyéb kis űr-por és törmelék is
-    - szóval még a teljes éjszakai sötétség sem teljesen napfénymentes
-
-- az elektromos fény elterjedésével képesek voltunk ráerőltetni a világra a saját ritmusunkat
+> A jövő fényes volt -- vagy legalábbis, a fény volt a jövő.
 >> The future was bright or, at least, brightness was the future.
-    - persze már akkoriban is voltak, akik úgy gondolták, hogy ez leginkább csak ahhoz vezet majd, hogy a munkásokat még jobban ki lehessen zsigerelni, és hajtani a gazdaságot
 
-- és mellesleg nem csak szerencsétlen állatoknak rúgjuk fel a cirkadián ritmusát
-    - melatonin, kék/piros fény
-    - de úgy egyáltalán bármi fény - ez a túlvilágítás nagyon nem tesz jót az alvásunknak
+Mellesleg nem csak szerencsétlen állatoknak rúgjuk fel a cirkadián ritmusát, hanem a sajátunkat is.
+A kékes és pirosas fény váltakozását a nappal-éjszaka körforgással azonosítjuk, ami befolyásolja a melatonin termelésünket (lásd [Miért alszunk?]({% post_url 2020-10-24-matthew-walker-miert-alszunk %})).
+De úgy egyáltalán bármi fény nehezíti a pihenésünket, még ha pirosas is -- ez a túlvilágítás nagyon nem tesz jót az alvásunknak.
 
-- alvás problémák --> krónikus stressz, depresszió, és akár konkrét fizikai tünetek
+És ha alvás problémák, akkor jöhet a krónikus stressz, a depresszió, vagy akár konkrét fizikai tünetek.
+Még a régebben őrülettel és bűnözéssel azonosított *Holdkór* kifejezés is valószínűleg onnan ered, hogy a több fény miatt olyankor nagyobb esélye volt a kialvatlanságnak.
 
-- egy példa az elhízás
-    - ami nyilván sok más faktortól is függ, de ezek közül egy a folyamatosan alacsony leptin szint, ami az étvágyat szabályozza
-    - ez a melatonin-hoz van kötve, és ha azt felborítjuk, akkor borul a leptin is, ami miatt könnyen becsúsznak majd az éjszakai nassolások
-    >> Simply put, we light ourselves fat.
+Egy másik példa az elhízás.
+Nyilván sok más faktortól is függ, de ezek közül egy a folyamatosan alacsony leptin szint, ami az étvágyat szabályozza.
+És mivel a leptin a melatonin-hoz van kötve, ezért ha azt felborítjuk, akkor borul a leptin is, ami miatt könnyen becsúsznak majd az éjszakai nassolások.
 
-- és a melatonin más hormonokkal is kapcsolatban áll
-    - pl. az éjszakai munkások körében kimutathatóan gyakoribb a rák, főleg annak hormon-érzékeny fajtái (mell, prosztata)
-    - a WHO szerint a tartós éjszakai műszak kb. ugyanolyan káros, mint a dohányzás
+> Egyszerűen kövérre világítjuk magunkat.
+>> Simply put, we light ourselves fat.
 
-- már vannak próbálkozások, hogy utánozzuk a természetes világítási ciklust a mesterséges fény színével és/vagy erősségével
-    - de ez még nagyon gyerekcipő
+De a leptin csak a kezdet -- a melatonin más hormonokkal is kapcsolatban áll.
+Például az éjszakai munkások körében kimutathatóan gyakoribb a rák, főleg annak hormon-érzékeny fajtái (mell, prosztata).
+A WHO szerint a tartós éjszakai műszak kb. ugyanolyan káros, mint a dohányzás.
+És habár már vannak próbálkozások, hogy utánozzuk a természetes világítási ciklust a mesterséges fény színével és/vagy erősségével, ez még nagyon gyerekcipő...
 
 <br>
 
@@ -307,32 +225,31 @@ Mézzel többre mennénk, mint az ecettel.
 
 
 
-<a name="sotetseg"></a>A sötétség szerepe
+## <a name="sotetseg"></a>A sötétség szerepe
 
+Nem igazán tesz jót, hogy a vallásos szimbolizmus évezredek óta a jó/rossz, az ártatlan/bűnös, vagy épp a tiszta/szennyezett párossal azonosítja a világosságot és a sötétséget.
+Ha ilyen negatív a benyomásunk a sötétről, akkor nyilván nem sajnáljuk majd "kiirtani" sem.
 
->> Åke Lundqvist once wrote, “Darkness is not the absence of light. Light is diluted darkness.
+Szerencsére ez azért nem minden vallásban van így.
+Van, ahol sokkal közelebb állnak a természethez a szükséges fény/sötét körforgás felismerésével.
+Vagy ahol kimondottan az egyensúlyra törekszenek a kozmológiájukban.
+De ez sajnos közel sem elég a trend visszafordításához.
 
-- nem tesz jót, hogy a vallásos szimbolizmus évezredek óta a jó/rossz, a ártatlan/bűnös, vagy épp a tiszta/szennyezett párossal azonosítja a világosságot és a sötétséget
-    - ha ilyen negatív a benyomásunk róla, akkor nyilván nem sajnáljuk majd "kiirtani" a sötétséget
+Szemléltetésként gondoljunk csak arra, hogy manapság már létezik az *asztro-turizmus* fogalom -- vagyis amikor elkülönített, szabályozott fény kibocsátású sötétség-parkokat hozunk létre, hogy az oda látogató emberek még láthassák a csillagos eget.
+Szerintem már önmagában az abszurd, hogy ilyenre szükség van!
+Az ajánlott szabályaikat viszont mindenki megszívlelhetné: a fény árnyékolása és lefelé irányítása (nincs horizontálisnál magasabb szivárgás), limitált számú lámpa per egységnyi terület, és meleg (sárgás/pirosas) fény (semmi kék!).
+Az ilyen *ökológia-tudatos világítással* már sokat tehetnénk az eddigi negatívumok ellen.
 
-- legalábbis bizonyos vallásokban
-    - van, ahol sokkal közelebb állnak a természethez a szükséges fény/sötét körforgás felismerésével
-    - vagy ahol kimondottan az egyensúlyra törekszenek a kozmológiájukban
+Sőt, a sötétség nem csak testi, de lelki téren is jót tenni.
+Svédországban például már léteznek ún. *sötét-terápia* kezdeményezések, mert a sötétben intimebb, lassabb, nyugodtabb a beszélgetés, a társasági lét.
+A túl sok vizuális stimuláció kompenzálása nem lenne rossz ötlet.
 
-- fehér dióda fény, 2014-es Nobel díj
-    - de több fény = kevesebb részlet a fényen kívül
-    - biztonságot akarunk vele teremteni, de mivel olyan erős, ezért a megvilágítatlan helyek csak annál sötétebbnek tűnnek
-- a LED-ekkel itt az esély, hogy jobban testre szabjunk a világításaink erősségét és fényét, jobban mint valaha
-    - ennek ellenére kb. csak arra használtuk a LED forradalmat, hogy minél több és erősebb fény legyen mindenhol, mindig
-
-- asztro-turizmus (aminél, már önmagában abszurd, hogy szükség van rá!)
-    - sötétség-parkok, sötét közösségek (szabályozott fény kibocsátás)
-    - ajánlott szabályok: árnyékolás és lefelé irányítás (nincs horizontálisnál magasabb szivárgás), limitált számú lámpa per egységnyi terület, és meleg (sárgás/pirosas) fény (semmi kék!)
-    - "ökológi-tudatos világítás" 
-
-- sötét-terápia
-    - sötétben intimebb, lassabb, nyugodtabb a beszélgetés, a társasági lét
-    - a túl sok vizuális stimuláció kompenzálása nem lenne rossz ötlet
+A legnagyobb akadály az elfogadni, hogy a sötétségnek igenis lenne szerepe a modern életben.
+Ha viszont ezen túlbukkanunk, akkor technológiailag nem nagyon lehet mentségünk.
+A 2014-es fizikai Nobel díj óta tömegesen és olcsón rendelkezésre áll a szabályozható LED fény.
+Itt az esély, hogy jobban testre szabjunk a világításaink erősségét és fényét, mint valaha.
+Ennek ellenére kb. csak arra használtuk a LED forradalmat, hogy minél több és erősebb fény legyen mindenhol, mindig.
+Biztonságot akarunk vele teremteni, de mivel olyan erős, így a megvilágítatlan helyek csak annál sötétebbnek tűnnek...
 
 <br>
 
