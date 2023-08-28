@@ -4,7 +4,7 @@ title: Johan Eklöf - A sötétség manifesto
 cover: darkness
 tags: [minimalizmus, szemléletmód]
 pages: 272
-date: 2023-08-30 00:01
+date: 2023-08-28 00:01
 excerpt: >
     Egész véletlenül akadtam Johan Eklöf -- A sötétség manifesto című könyvébe, de azonnal éreztem, hogy kiváló kiegészítés lesz a Néma Tavasz ökológiai szemlélete mellé.
     Eklöf barátunk svéd denevérkutató és sötétség-kedvelő, aki az éjszakai állatfajok tömeges eltűnése és az emberi fiziológiai folyamatok megzavarása miatt hívja fel a figyelmet a fényszennyezésre.
@@ -41,18 +41,18 @@ Lassul -- de csak szép fokozatosan, pár ezred másodperc per évszázad tempó
 El tudjuk ezt képzelni, milyen lassú?
 És a nappaloknak még így is volt idejük konkrétan *megduplázódni* az első életformák kialakulása óta.
 
-Ami viszont nem változott ennyi idő alatt sem, hogy mindenki számára ismétlődött a világos-sötét-világos-sötét körforgás.
-Persze területenként és évszakonként változó ütemben és hosszal, de folyamatosan kiszámítható volt a nappal és az éjszaka körforgása.
-Ez szinkronizálja a belső óránkat (avagy, a cirkadián ritmusunkat) is, ami magától csak kb. egy napig maradna korrekt.
+Ami viszont nem változott ennyi idő alatt sem, hogy mindenki számára ismétlődött a világos-sötét-világos-sötét menetrend.
+Persze területenként és évszakonként különböző ütemben és hosszal, de folyamatosan kiszámítható volt a nappal és az éjszaka körforgása.
+Ez szinkronizálja a belső óránkat (avagy, a *cirkadián ritmusunkat*), ami magától csak kb. egy napig maradna korrekt.
 
 Na ebbe az eddigi állandóságba piszkál bele nem kicsit az a rengeteg mesterséges fény, amit mostanában használunk.
 Nem is beszélve arról a rengeteg fényről, amit nem is használunk, csak úgy szivárogtatjuk az éterbe.
 
-A sötéttől való irracionális félelem az egyéni reakción (az ún. nyctophobián) felül kulturális és túlélést segítő ösztön.
+A sötéttől való irracionális félelem (avagy *niktofóbia*) az egyéni reakción felül kulturális és túlélést segítő ösztön.
 Mi emberek nappali, első sorban látási ingerek alapján tájékozódó élőlények vagyunk, ezért valamilyen szinten érthető, hogy ki szeretnénk világítani a világunkat.
 De amekkora skálán és amilyen tempóban ezt csináljuk, az minden, csak nem természetes.
 Semmi más nem tud alkalmazkodni, de az az ő bajuk.
-Ez itt az [antropocén kor](https://hu.wikipedia.org/wiki/Antropoc%C3%A9n){:target="_blank"}, az ember kora, és minden más meg bassza meg.
+Ez itt az [*antropocén* kor](https://hu.wikipedia.org/wiki/Antropoc%C3%A9n){:target="_blank"}, az ember kora, és mindenki más bekaphatja.
 
 A sok kivilágítás mágneses hatással van a rovarokra.
 Szó szerinti sáskajárások vonják el őket vidékről a városokba, ami kimutatható ökológiai változásokhoz vezet.
@@ -101,13 +101,13 @@ Nem vakok ők, csak nincs szükségük a fényre a vadászathoz, és ezért ink�
 <br>
 
 Az éjszakai adaptációnak azonban ára van.
-Ha egy faj túlságosan a sötétre specializálódik, és aztán mi egyszerűen elvesszük tőle a sötétséget, akkor hirtelen nagy lesz a csodálkozás.
+Ha egy faj túlságosan a sötétre specializálódik, és aztán mi egyszerűen elvesszük tőlük a sötétséget, akkor hirtelen nagy lesz a káosz.
 Csak pár példa érzékeltetésnek:
 
 - Vannak rovarok, amik teliholdkor nem mennek vadászni, mert akkor túl könnyű zsákmánynak éreznék magukat.
 Inkább vár(ná)nak a sötétre, ami viszont az állandó, ég felé irányuló fényszennyezés és azt azt esetleg visszatükröző felhőzet/köd/szmog miatt soha nem jön el.
 
-- A tücskök ciripelése a fénnyel függ össze, vagyis ha rosszkor jelez, akkor nem társat talál, hanem vacsorává válik.
+- A tücskök ciripelése a fénnyel függ össze, és ha rosszkor jelez szerencsétlen, akkor nem társat talál, hanem vacsorává válik.
 
 - Hasonlóan, egyes bogarak védelmi színe/mintázata is mást mutat más mennyiségű (vagy akár csak más spektrumú) fényben.
 Így lehet, hogy pont amiatt fognak kilógni, aminek elrejtenie kéne őket a ragadozók elől.
@@ -126,17 +126,17 @@ Ezért kell (vagyis, *kellene*) a megbízható visszajelzés a környezetből --
 - Mindez persze csak akkor, ha egyáltalán van, ami rügyezhet.
 A belső órák átállításával szétcsúszik a beporzók és a növények szinkronizációja, így a rovar éhesen, a virág pedig parlagon marad.
 
-- A tengerben előforduló bioluminancia mozgást, és ezáltal ragadozók közeledtét jelezheti -- de csak akkor, ha egyéb fény bele nem szennyez.
+- A tengerben előforduló biolumineszcencia mozgást, és ezáltal támadók közeledtét jelezheti -- de csak akkor, ha egyéb fény bele nem szennyez.
 Az erre érzékeny halak így védtelenné válhatnak a ragadozóikkal szemben.
 
 - Bizonyos teknős fajok kikelése mindig az alkonyhoz kötött, amikor is a nap utolsó sugarai felé menetelnek a tengerbe.
 Viszont ha van a közelben más erős fényforrás, akkor arra indulnak, ezzel kb. az első pillanattól halálra ítélve magukat.
 
-- Napi kétszer történik hal migráció sok fajnál a sötét mélyből az "alkony zónába", ami a mi szemünknek már sötét lenne, de nekik még pont jó.
-Ezt a "pont jó" szintet szennyezi be az olajfúró állomások, szélfarmok, hajók, parti városok és gyártelepek világításai.
+- Naponta történik migráció sok halfajnál a sötét mélyből az "alkony zónába", ami a mi szemünknek már sötét lenne, de nekik még pont jó.
+Ezt a "pont jó" szintet szennyezik be az olajfúró állomások, szélfarmok, hajók, parti városok és gyártelepek világításai.
 
 - A bohóchalak szimbiózisban élnek a tengeri rózsákkal.
-A tengeri rózsa fontos alapanyag a rák kutatásban; a bohóchalak élőhelyei pedig népszerű látványosságok a Nemo nyomában megjelenése óta.
+A tengeri rózsa fontos alapanyag a rák kutatásban; a bohóchalak élőhelyei pedig népszerű látványosságok a *Nemo nyomában* megjelenése óta.
 Igen ám, de a bohóchal ikrák csak teljes sötétségben kelnek ki.
 Ha ezeket összeadjuk, akkor jöhet a láncreakció: turisták &rarr; part menti szállodák &rarr; fény &rarr; nincs kikelés &rarr; nincs hal &rarr; nincs tengeri rózsa &rarr; nincs rák kutatás.
 Hát nem érdekes (és borzasztó) domino hatás?
@@ -156,7 +156,7 @@ Mi emberek vagyunk egyedül, akik leginkább konkrétan a nappal kellős közep�
 
 A baj az, hogy ezt a különcségünket minden erőnkkel próbáljuk a többiekre is ráerőltetni.
 Az evolúciós változások során kialakult kényes egyensúly évmilliók alatt állt be, mi pedig pillanatok alatt szét tudjuk barmolni.
-Aztán meg majd nézhetünk nagy csodálkozó fejjel, ha valami olyat is kirúgunk magunk alól, ami nekünk dolgozott, de még csak tudomást sem vettünk róla.
+Aztán meg majd nézhetünk nagy csodálkozó fejjel, ha valami olyat is kirúgunk magunk alól, ami addig nekünk dolgozott, de még csak tudomást sem vettünk róla.
 
 A denevérek emberi szemszögből vett "haszna" például dollár százmilliókban vagy akár milliárdokban mérhető, ha megnézzük, mennyi károkozót fogyasztanak, vagy hogy az ürülékük milyen jó trágyának.
 Ha kihalásba világítjuk őket, akkor ez egy elég váratlan extra költség lesz ám.
@@ -180,26 +180,27 @@ Mézzel többre mennénk, mint az ecettel.
 
 ## <a name="emberiseg"></a>Az emberiség és a kozmikus fény
 
-A 17-18 század környékén még szabad szemmel is jól lehetett csillagászkodni.
+A 17-18. század környékén még szabad szemmel is jól lehetett csillagászkodni.
 Vagy legalábbis csak a szemünk érzékenységén múlt, nem a külső körülményeken.
 Ma viszont már ez a legtöbb helyen lehetetlen lenne a fényszennyezés miatt.
 
 Ennek számszerűsítéséhez az ún. Bortle skálát használják, ami azt mutatja, hogy mennyire jól látható a éjjeli égbolt.
 Az 1-es érték teljesen érintetlen eget jelent (ahol több mint **6000** égi objektum lenne látható szabad szemmel), míg a 9-es a teljes fényszennyezés (ahol az objektumok száma **5-10**-re csökken).
+És mit is nyerünk ezért az áldozatért cserébe?
 
-Az elektromos fény elterjedésével képesek voltunk ráerőltetni a világra a saját ritmusunkat.
+Főként azt, hogy az elektromos fény elterjedésével képesek voltunk ráerőltetni a világra a saját ritmusunkat.
 Persze már akkoriban is voltak, akik úgy gondolták, hogy ez leginkább csak ahhoz vezet majd, hogy a munkásokat még jobban ki lehessen zsigerelni, és hajtani a gazdaságot.
 Így visszatekintve ezt nem mondanám alaptalannak.
 
 > A jövő fényes volt -- vagy legalábbis, a fény volt a jövő.
 >> The future was bright or, at least, brightness was the future.
 
-Mellesleg nem csak szerencsétlen állatoknak rúgjuk fel a cirkadián ritmusát, hanem a sajátunkat is.
+Mellesleg mindeközben nem csak szerencsétlen állatoknak rúgjuk fel a cirkadián ritmusát, hanem a sajátunkat is.
 A kékes és pirosas fény váltakozását a nappal-éjszaka körforgással azonosítjuk, ami befolyásolja a melatonin termelésünket (lásd [Miért alszunk?]({% post_url 2020-10-24-matthew-walker-miert-alszunk %})).
 De úgy egyáltalán bármi fény nehezíti a pihenésünket, még ha pirosas is -- ez a túlvilágítás nagyon nem tesz jót az alvásunknak.
 
 És ha alvás problémák, akkor jöhet a krónikus stressz, a depresszió, vagy akár konkrét fizikai tünetek.
-Még a régebben őrülettel és bűnözéssel azonosított *Holdkór* kifejezés is valószínűleg onnan ered, hogy a több fény miatt olyankor nagyobb esélye volt a kialvatlanságnak.
+Még a régebben őrülettel és bűnözéssel azonosított *Hold-kór* kifejezés is valószínűleg onnan ered, hogy a több fény miatt olyankor nagyobb esélye volt a kialvatlanságnak.
 
 Egy másik példa az elhízás.
 Nyilván sok más faktortól is függ, de ezek közül egy a folyamatosan alacsony leptin szint, ami az étvágyat szabályozza.
@@ -240,16 +241,15 @@ Szerintem már önmagában az abszurd, hogy ilyenre szükség van!
 Az ajánlott szabályaikat viszont mindenki megszívlelhetné: a fény árnyékolása és lefelé irányítása (nincs horizontálisnál magasabb szivárgás), limitált számú lámpa per egységnyi terület, és meleg (sárgás/pirosas) fény (semmi kék!).
 Az ilyen *ökológia-tudatos világítással* már sokat tehetnénk az eddigi negatívumok ellen.
 
-Sőt, a sötétség nem csak testi, de lelki téren is jót tenni.
+Sőt, a sötétség nem csak testi, de lelki téren is jót tehet.
 Svédországban például már léteznek ún. *sötét-terápia* kezdeményezések, mert a sötétben intimebb, lassabb, nyugodtabb a beszélgetés, a társasági lét.
 A túl sok vizuális stimuláció kompenzálása nem lenne rossz ötlet.
 
-A legnagyobb akadály az elfogadni, hogy a sötétségnek igenis lenne szerepe a modern életben.
+A legnagyobb akadály azt elfogadni, hogy a sötétségnek igenis lenne szerepe a modern életben.
 Ha viszont ezen túlbukkanunk, akkor technológiailag nem nagyon lehet mentségünk.
 A 2014-es fizikai Nobel díj óta tömegesen és olcsón rendelkezésre áll a szabályozható LED fény.
 Itt az esély, hogy jobban testre szabjunk a világításaink erősségét és fényét, mint valaha.
-Ennek ellenére kb. csak arra használtuk a LED forradalmat, hogy minél több és erősebb fény legyen mindenhol, mindig.
-Biztonságot akarunk vele teremteni, de mivel olyan erős, így a megvilágítatlan helyek csak annál sötétebbnek tűnnek...
+Ennek ellenére kb. csak arra használtuk a LED forradalmat, hogy minél több és erősebb fény legyen, mindig, mindenhol.
 
 <br>
 
@@ -281,7 +281,9 @@ Mint minden globális esetben, itt is leginkább politikailag megtámogatott, re
 De amíg sikerül ezeket a gondolatokat társadalmi norma szintre süllyeszteni, addig azért személyesen is tehetünk értük:
 
 - Használjunk időzítőket és/vagy mozgásérzékelőket a kültéri világításainkon,
+
 - Gondoskodjunk a megfelelő árnyékolásról (hogy tényleg csak *az* legyen megvilágítva, aminek muszáj), illetve
+
 - Figyeljünk a fény színére és erősségére (hogy tényleg csak *úgy* legyen megvilágítva, ahogy muszáj).
 
 Az már csak a bónusz, hogy ezek után talán szépséget is találhatunk a sötétben.
