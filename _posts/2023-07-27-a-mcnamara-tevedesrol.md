@@ -4,6 +4,7 @@ title: A McNamara tévedésről
 cover: mcnamara
 tags: [szösszenet]
 date: 2023-07-27 00:01
+youtube: BozY05GAIDc
 excerpt: >
     ...avagy egy halom szemléletes példa annak alátámasztásaként, hogy nem minden számít, ami könnyen mérhető -- és hogy nem minden könnyen mérhető, ami számít!
 ---
