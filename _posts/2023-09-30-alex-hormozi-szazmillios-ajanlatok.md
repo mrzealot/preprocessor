@@ -140,100 +140,145 @@ De ami talán még fontosabb, hogy emellett:
 
 ## <a name="ertek"></a>Az érték egyenlet
 
-- hogyan teremtsünk értéket a semmiből
-    - mert ebben az egészben semmi objektív nincs
-    - vagy legalábbis nem az számít - csak az, hogy a vevő fejében úgy éli-e meg, hogy értéket kapott
+Hormozi képlete szerint a következőképpen alakul ki a fejünkben, mi mennyit ér:
 
-- érték = (álom * bizalom) / (idő * energia)
-    - álom: milyen fontos neki az eredmény, amit nyújtunk (és érti-e, ha eljuttatjuk oda? érzi-e?)
-    - bizalom: mennyire hiszi el, hogy megkapja tőlünk, amit ígérünk?
-    - idő: mennyire gyorsan juthat el a célba? és ha a cél szükségszerűen messze van, akkor milyen gyorsan láthat VALAMI haladást?
-    - energia: mennyire kényelmetlen a folyamat? mekkora áldozatot hozok? mennyi erőfeszítést kell befektetnem?
+<p style="text-align: center;"><code>érték = (álom × bizalom) ÷ (idő × energia)</code></p>
 
-- álom+, bizalom+, idő-, energia-
-    - és általában jobban megéri, ha az időt és az energiát csökkentjük
+Tehát az értékre pozitívan hat:
+
+- Az **álom**, vagyis milyen fontos a vevő számára az eredmény, amit nyújtunk -- és érti-e majd, ha eljuttatjuk oda?
+
+- A **bizalom**, vagyis mennyire hiszi el, hogy tényleg megkapja tőlünk, amit ígérünk?
+
+És negatívan hat:
+
+- Az **idő**, vagyis mennyire gyorsan juthat el a célba -- és ha a cél szükségszerűen messze van, akkor milyen gyorsan láthat **valami** haladást?
+
+- Az **energia**, vagyis mennyire kényelmetlen a folyamat? Mekkora áldozatot kell hoznia? Mennyi erőfeszítést kell befektetnie?
+
+Ha jobban megvizsgáljuk, ebben semmi objektív nincs.
+Mármint persze, az időt lehet mérni -- de az akkor is szubjektív, hogy az mennyire hosszúnak *érződik*, vagy hogy milyen elvárás alakul ki a kliens fejében, amihez aztán majd hasonlítja.
+Az energiára dettó ugyanez.
+Az álom/bizalom pedig eleve nehezen lennének konkrétan mérhetőek.
+
+Ez pedig azért jó, mert gyakorlatilag a semmiből is teremthetünk valós értéket.
+Hiszen itt csak az számít, hogy a vevő a fejében úgy éli-e meg, hogy értéket kapott.
+Ha szó szerint ugyanazt a terméket vagy szolgáltatást sikerül úgy becsomagolnunk, hogy az 1) jelentőségteljesebbnek tüntesse fel az elérendő célt, 2) nagyobb bizalmat kelt, hogy el is jutunk oda általa, illetve tehetjük mindezt 3) relatíve gyorsabban és 4) relatíve fájdalommentesebben, akkor ez a csomagolás varázsütésre tényleg értéket generált.
+
+<br>
+
+
+
+
 
 
 
 
 ## <a name="problema"></a>Milyen problémát oldunk meg?
 
-(ajánlat készítés, 1. rész)
-lehet, hogy nem oldjuk meg a problémát?
+Ennyi alapozás után végre elkezdhetjük összeállítani az ajánlatunkat.
 
-1. megállapítani az álom eredményt
-    <KINEK> segítek <MIT> elérni <MIKORRA> anélkül, hogy <LEGNAGYOBB FÉLELMEIK>
-2. felderíteni minden problémát, ami ennek az útjában áll (ide értve mindent, amit az ügyfél problémaként él meg!)
-    - és minden probléma alproblémáit, lépésenként, egészen az "aljáig"
-    
-    - nem éri meg --> hogy állíthatjuk be úgy az álmot, hogy megérje
-    - nekem nem fog menni / nem fogom tudni tartani --> hogy védjük ki a kockázatokat
-    - túl nehéz / nem fogom élvezni / rossz leszek benne --> hogy tesszük a folyamatot egyszerűvé/fájdalommentessé/játékossá
-    - túl sok időt vesz igénybe / túl soká lesz az eredmény / nem fér a napomba --> hogyan tesszük a folyamatot gyorssá és "beiktathatóvá" a napirendbe
-3. mindet megoldani!
-    - és mindre adni kész választ, vagy legalább valami megnyugtatást, hogy igen, erre is gondoltunk, ebben az esetben is működik, erre a szituációra is általánosítható, stb.
+Először is megállapítjuk az álom eredményt, és megfogalmazzuk, mit is nyújtunk valójában.
 
-- ezeket először mind le kell kommunikálni, mert ha a háttérben meg is lennének oldva, de ők ezt nem tudják, akkor maradhat bennük olyan (téves) kétség, ami miatt nemet mondanának az ajánlatunkra
+>> <KINEK> segítek <MIT> elérni <MIKORRA> anélkül, hogy <LEGNAGYOBB FÉLELMEIK>.
+
+Ha ez megvan, akkor felderítjük az összes problémát, ami ennek az útjában áll -- ide értve mindent, amit az ügyfél problémaként él meg!
+És minden probléma alproblémáit, lépésenként, egészen az "aljáig".
+Saját tapasztalatok, empátia, piackutatás.
+Mindegy, csak derítsük fel teljesen a terepet.
+Ez kell, hogy minden aggodalmukat csillapítani tudjuk majd.
+
+- Nem éri meg &rarr; hogy állíthatjuk be úgy az álmot, hogy megérje?
+
+- Nem fog menni &rarr; hogy védjük ki a kockázatokat?
+
+- Túl nehéz / nem fogom élvezni / rossz leszek benne &rarr; hogy tesszük a folyamatot egyszerűvé/fájdalommentessé/játékossá?
+
+- Túl túl soká lesz az eredmény / nem fér a napomba &rarr; hogyan tesszük a folyamatot gyorssá és "beiktathatóvá" a napirendbe?
+
+Ezután természetesen minden így felderített problémát illene megoldani.
+Hogy mindre legyen valami kész válaszunk -- vagy legalább valami megnyugtatást, hogy igen, erre is gondoltunk, ebben az esetben is működik, erre a szituációra is általánosítható, stb.
+És ezeket már a folyamat elején mind le kell kommunikálni, mert ha a háttérben meg is lennének oldva, de a vevők ezt nem tudják, akkor maradhat bennük olyan (téves) kétség, ami miatt nemet mondanának az ajánlatunkra.
+
+<br>
+
+
 
 
 
 
 ## <a name="megoldas"></a>Hogyan oldjuk meg?
 
-(ajánlat készítés, 2. rész)
-ha elhiszik, hogy megoldjuk a problémáikat, akkor oldjuk is meg
+Ha már elhiszik, hogy megoldjuk a problémáikat, akkor oldjuk is meg őket!
+Na igen, de hogyan?
 
-1. Eladás <-> Teljesítés skála
-    - amit könnyű eladni, azt általában nehéz teljesíteni
-    - és fordítva, amit könnyű teljesíteni, azt általában nehéz eladni
-    - DFY (done for you) vs. DWY (done with you) vs. DIY (do it yourself)
-    - alap stratégia: először kezdjünk a könnyen eladható és nehezebben teljesíthető oldalról, és aztán idővel (plusz branddel + tapasztalattal + tőkével + kapcsolatokkal + stb.) mozdulhatunk hatékonyan a nehezebben eladható de könnyebben teljesíthető irányba
-    - az egyszerűen teljesíthető dolgok nem feltétlen azért nehezen eladhatóak, mert nem nyújtanának értéket, hanem mert nem tűnnek úgy, hogy értéket nyújtanak
-        - ha viszont a piramis tetejéről kezdünk (ahol nagy pénzekért nyújtunk nagyon specializált és nehezen teljesíthető segítséget), azzal majd a későbbi, skálázhatóbb megoldásunk is sokkal hihetőbbnek tűnik majd (mert addigra kitapossuk, hogy hogyan nyújthatjuk az érték nagyját a nehézségek nagyja nélkül)
-    - először legyen valami flow (egyáltalán érdeklődjenek utánunk) -> aztán monetizáljuk ezt az érdeklődést (könnyen eladható, de egyelőre nehezen teljesíthető módon) -> és majd csak aztán adjunk "súrlódást" a folyamatba (ahol már nehezebb az eladás, de cserébe könnyebben teljesíthetjük, és ezáltal skálázhatjuk)
-        - a nehéz teljesítés oldalon eleve könnyebb megindokolni a magasabb árat, ami miatt elég lesz kevesebb kliens, ami miatt még a nehezebb teljesítéssel is bírni fogjuk az iramot (remélhetőleg)
-        - amíg nincsenek vevők, addig nem aggódunk a skálázhatóságon - addig azon aggódunk, hogy hogyan szerezzünk vevőket!
+Kezdésnek tekintsük az eladás és a teljesítés nehézsége közti különbséget.
+Amit könnyű eladni, azt általában nehéz teljesíteni (*azonnali örök élet és ingyen sör*).
+És fordítva, amit könnyű teljesíteni, azt általában nehéz eladni (*férfias kézfogás, most csak 9900Ft*).
 
-2. Teljesítési módok
-    - ugyanazt az ígéretet számtalan módon teljesíthetjük
-    - dimenziók, amik mentén érdemes végiggondolni:
-        - elérés: hogy nézne ki személyesen, kis csoportban, vagy tömegesen?
-        - mód: hogy nézne ki DIY, DWY, vagy DFY üzemmódban?
-        - támogatás: hogy nézne ki SMS-ben, chat-en, e-mailben, videóhívásként, telefonon, élőben?
-        - formátuk: videó, audió, szöveg, élő közvetítés
-        - idő: 0-24-ben, vagy csak H-P 9-17?
-            - és milyen gyorsan fogok reagálni? 5 perc? 1 óra?
-        - ár teszt: milyen plusz értéket kéne nyújtanom, ha 10-szer ennyibe kerülne?
-            - és hogy tudnék ugyanennyi (vagy akár még több) értéket nyújtani, ha muszáj lenne csak a jelenlegi ár tizedéért árulni?
-    - ezek a dimenziók összes lehetséges kombinációja játszhat (személyes-diy-chat-...)
+A könyv alap stratégiája: először kezdjünk a könnyen eladható és nehezebben teljesíthető oldalról, és aztán idővel (a menet közben kiépült brand-ünkkel + tapasztalatunkkal + tőkével + kapcsolatokkal) mozdulhatunk hatékonyan a nehezebben eladható de könnyebben teljesíthető irányba.
+Az egyszerűen teljesíthető dolgok nem feltétlen azért nehezen eladhatóak, mert nem nyújtanának értéket, hanem mert nem **tűnnek úgy**, hogy értéket nyújtanak.
+Ha viszont a piramis tetejéről kezdünk (ahol nagy pénzekért nyújtunk nagyon specializált és nehezen teljesíthető segítséget), azzal majd a későbbi, skálázhatóbb megoldásunk is sokkal hihetőbbnek tűnik majd -- mert addigra kitapossuk, hogy hogyan nyújthatjuk az érték nagyját a nehézségek nagyja nélkül.
+
+Először legyen valami flow (hogy egyáltalán érdeklődjenek utánunk), aztán monetizáljuk ezt az érdeklődést (könnyen eladható, de egyelőre nehezen teljesíthető módon), és majd csak később adjunk "súrlódást" a folyamatba (ahol már nehezebb az eladás, de cserébe könnyebben teljesíthetjük, és ezáltal skálázhatjuk).
+A nehéz teljesítés oldalon eleve könnyebb megindokolni a magasabb árat, ami miatt elég lesz kevesebb kliens, ami miatt még a nehezebb teljesítés mellett is bírni fogjuk az iramot (remélhetőleg).
+Amíg nincsenek vevők, addig nem aggódunk a skálázhatóságon -- addig azon aggódunk, hogy hogyan szerezzünk vevőket!
+
+Ha ezen a nehézségi skálán kb. belőttük magunkat, akkor következhet a konkrét teljesítési mód -- hiszen ugyanazt az ígéretet számtalan módon teljesíthetjük.
+A dimenziók, amik mentén érdemes végiggondolni:
+
+- **Elérés**: hogy nézne ki személyesen, kis csoportban, vagy tömegesen?
+
+- **Mód**: hogy nézne ki DFY (done for you) vs. DWY (done with you) vs. DIY (do it yourself) üzemmódban?
+
+- **Támogatás**: hogy nézne ki SMS-ben, chat-en, e-mailben, videóhívásként, telefonon, élőben?
+
+- **Formátuk**: hogy nézne ki videóként, audióként, szövegként, vagy élő közvetítésben?
+
+- **Idő**: Hogy nézne ki 0-24-ben, vagy csak H-P 9-17? Illetve milyen gyorsan fogunk reagálni? 5 perc? 1 óra?
+
+- **Ár teszt**: Milyen plusz értéket kéne nyújtanom, ha 10-szer ennyibe kerülne?
+És hogy tudnék ugyanennyi (vagy akár még több) értéket nyújtani, ha muszáj lenne csak a jelenlegi ár tizedéért árulni?
+
+Mivel a dimenziók összes lehetséges kombinációja játszhat, a testreszabási lehetőségeink gyakorlatilag végtelenek.
+
+Amint ezt a teljesítési módos, sok dimenziós agyalást minden egyes részproblémára végigzongoráztuk, jöhet az ajánlatunk magjának összerakása, amit Hormozi a "ritkítás és halmozás" fázisnak nevez.
+Ehhez besoroljuk minden megoldásunkat az alapján, hogy A) mekkora értéket nyújt, és B) nekünk mennyibe kerül teljesíteni.
+És aztán csak azokat tartjuk meg, amik magas értéket nyújtanak.
+
+Ami nem "wow", azt akkor sem tartjuk meg, ha amúgy olcsó lenne nyújtani, mert rontja az összképet, és csak eltereli a figyelmet a valóban "wow" területekről.
+Az igazi finomhangolás azáltal történik, hogy minél kevesebb magas árú, és minél több alacsony árú komponenst választunk a csomagba -- de úgy, hogy közben az összérték magasan maradjon.
+
+<br>
 
 
-3. Ritkítás és Halmozás
-    - először is besoroljuk minden megoldásunkat, hogy mekkora értéket nyújt, és nekünk mennyibe kerül teljesíteni
-    - aztán csak azokat tartjuk meg, amik magas értéket nyújtanak
-        - ami nem "wow", azt akkor sem tartjuk meg, ha amúgy olcsó lenne nyújtani, mert rontja az összképet, és csak eltereli a figyelmet a valóban "wow" területekről
-    - innen jöhet az iterálás
-        - minél kevesebb magas árú, és minél több alacsony árú - de úgy, hogy közben az érték magasan marad
+
 
 
 
 ## <a name="bonusz"></a>Bónuszok
 
-- a fenti probléma megoldó komponenseket utána érdemes nem egyben kínálni egy adott áron
-    - hanem egy központi alap csomagot kínálni ugyanazon az áron, és aztán a maradékot hozzácsapni "bónuszként"
-    - mert így a vevő agya az első ajánlatot lövi be összehasonlítási alapnak, és ahhoz képes csak egyre jobb lesz, amit kínálunk
-    - és így egyre valószínűbb, hogy igent mond rá
-- ha a bónuszok látványosan értékesebbek, mint az alap csomag, azzal azt a benyomást keltjük, hogy az alap csomag még értékesebb (hiszen ezek "csak" a hozzá tartozó bónuszok)
-    - és ne feledjük, hogy a érték ÉRZET számít (boros példa)
-- fontos, hogy a bónuszokat is eladjuk - vagyis tűnjenek önállóan is olyannak, amiért fizetnének, de most nem kell, mert ingyen jár az alap csomag mellé
-- hasznos, ha itt nem olyan komponensek vannak, amik a vevő részéről is extra erőfeszítést igényelnek
-- tipp: a bónusz oldjon meg egy olyan problémát, ami a vevő szemszögéből most nem is aktuális, csak majd az lesz, amikor sikerre viszi az alap csomag által ígért átalakulást
-    - mert ha mi már az ajánlatkor a következő körös problémákon gondolkodunk, akkor ez impliciten azt fogja sugallani, hogy mennyire magabiztosak vagyunk az alap csomag sikerében (és így ők is azok lesznek)
-    - mert hát az alap problémát olyan gyakran megoldjuk másoknak, hogy már az ő visszajelzéseik alapján azt is előre tudjuk, hogy mi lesz a következő kellemetlenség
+Az eddigi probléma megoldó komponenseket ezután érdemes nem egyben kínálni egy adott áron, hanem egy központi alap csomagot kínálni ugyanazon az áron, és a maradékot hozzácsapni "bónuszként".
+Mert így a vevő agya az első ajánlatot lövi be összehasonlítási alapnak, és ahhoz képes csak egyre jobb lesz, amit kínálunk -- és így egyre valószínűbb, hogy igent mond rá.
 
-- affiliate: másik biznisszének "kihasználása", de úgy, hogy az szó szerint mindenkinek jó
-- mások termékeit hozzácsapni az ajánlatainkhoz, de akár exkluzív funkciókkal/kedvezményekkel, és még a másik cég fizet nekünk, hogy vevőt tereltünk feléjük
-    - win-win-win
+Ha a bónuszok látványosan értékesebbek, mint az alap csomag, azzal azt a benyomást keltjük, hogy az alap csomag még értékesebb (hiszen ezek "csak" a hozzá tartozó bónuszok).
+És ne feledjük, hogy tényleg az érték **érzet** az, ami számít (lásd korábbi boros példa).
+
+Fontos persze, hogy a bónuszokat is kellően eladjuk -- vagyis tűnjenek önállóan is olyannak, amiért fizetnének, csak most épp nem kell, mert ingyen jár az alap csomag mellé.
+Hasznos, ha itt nem olyan komponensek vannak, amik a vevő részéről is extra erőfeszítést igényelnek, mert úgy tiszta a potenciális extra haszon, nincs meló is mellé.
+
+Ezen a ponton érdemes az affiliate marketing-re gondolni, ami tulajdonképpen mások biznisszének "kihasználása" -- de úgy, hogy az szó szerint mindenkinek jó.
+Hozzácsapjuk mások termékeit a saját ajánlatainkhoz, akár exkluzív funkciókkal/kedvezményekkel, és még a másik cég fizet nekünk, hogy vevőt tereltünk feléjük.
+Win-win-win.
+
+Hormozi extra tippje, hogy a bónusz egy olyan problémát oldjon meg, ami a vevő szemszögéből most még nem is aktuális -- csak majd az lesz, amikor sikerre viszi az alap csomag által ígért átalakulást.
+Mert hát jó esetben az alap problémát mi olyan gyakran oldjuk meg másoknak, hogy az ő visszajelzéseik alapján azt is előre tudjuk, mi lesz a következő kellemetlenség.
+És ha mi már az eredeti ajánlatkor a következő körös problémákon gondolkodunk, akkor ez impliciten azt fogja sugallni, hogy mennyire magabiztosak vagyunk az alap csomag sikerében (és így a vevők is azok lesznek).
+
+<br>
+
+
+
 
 
 
