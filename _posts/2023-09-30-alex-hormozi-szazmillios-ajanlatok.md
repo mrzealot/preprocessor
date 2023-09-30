@@ -6,24 +6,21 @@ tags: [pénzügyek, stratégia]
 pages: 184
 date: 2023-09-30 00:01
 excerpt: >
-    TODO
+    Habár ritkán ugrok a friss dolgokra (mert szeretem, ha előbb valami kiállja az idő próbáját), Alex Hormozi esetében most mégis megteszem.
+    Egyrészt mert amúgy is aktuális magam egy kicsit vállalkozói téren is kiművelni.
+    Másrészt mert üzleti infóval ilyen bullshit- és hátsó szándék mentesen még szerintem soha nem találkoztam.
 ---
 
+Alex Hormozi -- avagy, a "szakállas srác", ahogy nálunk ismeretes, hogy a feleségem is tudja, kiről van épp szó -- igencsak exponenciális sebességgel robbant be a biznissz szféra köztudatába.
+És habár ritkán ugrok a friss dolgokra (mert szeretem, ha előbb valami kiállja az idő próbáját), most mégis megteszem.
+Egyrészt mert amúgy is aktuális magam egy kicsit vállalkozói téren is kiművelni.
+Másrészt mert üzleti infóval ilyen bullshit- és hátsó szándék mentesen még szerintem soha nem találkoztam.
 
-
-
-
-"Nincsenek szabályok"
-
-Ajánlat -> Marketing -> Értékesítés
-
-Azért van szükség profi értékesítési taktikákra, mert nem elég jó a marketing -- és azért van szükség profi marketingre, mert nem elég jó az ajánlat.
+Hormozi oktatási missziójának első állomása az ajánlat, amire aztán minden további marketing és értékesítés épül.
+Szerinte csak azért van szükség profi értékesítési taktikákra, mert nem elég jó a marketing -- és csak azért van szükség profi marketingre, mert nem elég jó az ajánlat.
 Egy kellően jó ajánlat saját magát reklámozza és adja el.
 
-Legyünk egyszemélyes kategóriák, ahol nem is lesz kivel összevetni az árainkat.
-
-Célozzuk meg, hogy az érték alapján ítéljék meg az ajánlatunkat, ne az ára alapján.
-
+Szóval ha már ennyire fontos építőkő, akkor lássuk hát, hogyan is fogalmazzuk meg a közönség felé, amit nyújtunk -- legyen az bármi is.
 A tartalom a következőképp alakul:
 
 - [Piacválasztás](#piac)
@@ -286,41 +283,55 @@ Mert hát jó esetben az alap problémát mi olyan gyakran oldjuk meg másoknak,
 
 ## <a name="garancia"></a>Garanciák
 
-- "a garanciák megérik a súlyukat aranyban" :)
+A garanciák "megérik a súlyukat aranyban", mert általuk átbillentjük a bizonytalanságot a saját oldalunkra.
+Mindenki szereti elodázni a döntést, ami általában azt jelenti, hogy most még nem megy bele, és aztán meg elmarad.
+De mi lenne, ha ehelyett úgy állítanánk be a helyzetet, hogy az "igen" az alapértelmezés, és pont a "mégse" az az utólagos döntés, amit odázni lehet...
+Hormozi itt átmegy full sales guru-ba:
 
-- feltétel nélküli
-    - "nem azt kérem, hogy most hozz döntést... azt kérem, hogy egy informált döntést hozz, amit csak belülről tehetsz meg. és hogy ne legyen semmi kockázat a benézésben, 100% pénzvisszafizetési garanciát vállalok. ha bármi okból nem szimpatikus, amit bent találsz, legyen az 1 nap vagy 1 hónap mérlegelés után, visszaadom az egészet. nincs kérdés, nincs harag. csak akkor szeretném megtartani a pénzed, ha úgy érzed, megérte."
-    - így átbillentjük a bizonytalanságot a saját oldalunkra
-        - mindenki szereti elodázni a döntést - de így pont azzal odázhatják el, ha belemennek
-    - persze ehhez vállalni is kell a garanciát
-        - ez egy kalkulált kockázat
-        - ha lesznek vevők, akkor látjuk majd, hogy milyen arányban élnek ezzel
-            - de Hormozi szerint nagyon ritkán fognak - ha tényleg olyan értéket nyújtunk, amiről eddig szó volt
+> Nem azt kérem, hogy most hozz döntést... Azt kérem, hogy egy informált döntést hozz, amit csak belülről tehetsz meg. És hogy ne legyen semmi kockázat a benézésben, 100% pénzvisszafizetési garanciát vállalok. Ha bármi okból nem szimpatikus, amit bent találsz, legyen az 1 nap vagy 1 hónap mérlegelés után, visszaadom az egészet. Nincs kérdés, nincs harag. Csak akkor szeretném megtartani a pénzed, ha úgy érzed, megérte.
 
-- feltételes
-    - ha nem X kimenetel Y időn belül, akkor...
-    - példák:
-        - túlméretezett visszafizetés: "ha mindenen részt vettél, mindent megcsináltál, és mégsem XY, akkor visszaadom a pénzed dupláját/tripláját"
-            - vagy amennyi időt belefektettél, az alapján kifizetjük a kiesett béredet
-            - vagy fizetjük a hotel/utazási költségedet, amiért idejöttél
-        - szervíz garancia: "ha mindenen részt vettél, mindent megcsináltál, és mégsem XY, akkor onnantól ingyen/olcsóbban/személyesen/stb. dolgozok/unk veled tovább, amíg el nem jutunk odáig"
-        - beszámítás garancia: majdnem "pénz vissza, de csak nálunk levásárolható"
-        - felmondási garancia (ha szerződés van): ha eddig nem érjük el ezt, akkor ott következmény nélkül kiléphetsz
+Zseniális, nem?
+Mondj igent nyugodtan, zéró veszély, és majd informáltan hozd meg a döntést később -- ahol már huncut módon az a kisebb erőfeszítést és irányváltást igénylő döntés, ha maradsz.
 
-- anti-garancia
-    - ez kb. a "kasszától való távozás után nincs reklamáció"
-    - és ezzel a pozícióval sincs semmi gond - HA teljes vállszélességben kiállunk mellette, és megmagyarázzuk, hogy miért
-        - pl. valami olyan titkos algoritmust fedünk fel, hogy amint azt meglátta, onnantól azt nem tudja nem meglátottá tenni
+Persze ehhez vállalni is kell a garanciát!
+Ez egy kalkulált kockázat.
+Akkor látjuk majd, ha már lesznek vevők, hogy milyen arányban élnek ezzel a lehetőséggel.
+De Hormozi tapasztalatai szerint nagyon ritkán fognak -- ha tényleg olyan értéket nyújtunk, amiről eddig szó volt.
 
-- teljesítmény-alapú garancia
-    - ez inkább árazás, és inkább később aktuális
-        - amikor már ki van taposva a módszer, jók vagyunk, és kellően előszűrjük az ügyfeleket
-    - de onnantól mindenkinek frankó, ha azt mondjuk, hogy a szolgáltatásunk nem X, hanem X **százaléka** annak a növekedésnek, amit segítünk elérni
-        - nekünk jó, mert potenciálisan határtalan, hogy mennyit kereshetünk vele
-        - és az ügyfélnek jó, mert csak olyan plusz teljesítmény után fizet, ami nélkülünk nem lenne
+A garanciánk természetesen lehet ***feltételhez kötött*** is, nem csak a fenti feltétel nélküli.
+Erre egy pár példa:
 
-- és ezek szépen kombinálhatóak
-    - feltétel nélküli 30 napig, aztán egy feltételes 90 napnál vagy valami mérföldkőnél
+- **Legegyszerűbb eset**: ha nem X kimenetel Y időn belül, akkor vissza a pénz.
+
+- **Túlméretezett visszafizetés**: ha mindenen részt vettél, mindent megcsináltál, és mégsem XY, akkor visszaadjuk a pénzed dupláját/tripláját.
+Vagy amennyi időt belefektettél, az alapján kifizetjük a kiesett béredet.
+Vagy fizetjük a hotel/utazási költségedet, amiért idejöttél.
+
+- **Szervíz garancia**: ha mindenen részt vettél, mindent megcsináltál, és mégsem XY, akkor onnantól ingyen/olcsóbban/személyesen/stb. dolgozunk veled tovább, amíg el nem jutunk a célodig.
+
+- **Beszámítás garancia**: majdnem "pénz vissza", de csak nálunk levásárolható.
+
+- **Felmondási garancia**: ha szerződés van, és nem X kimenetel Y időn belül, akkor ott következmény nélkül kiléphetsz.
+
+Egy speciális eset a feltételes garanciákon belül a **teljesítmény-alapú** garancia.
+Ez ugyanis inkább az árazás része, és inkább később aktuális -- amikor már ki van taposva a módszer, jók vagyunk, és kellően előszűrjük az ügyfeleket.
+De onnantól mindenkinek frankó lehet, ha azt mondjuk, hogy a szolgáltatásunk ára nem X, hanem X **százaléka** annak a növekedésnek, amit segítünk elérni.
+Nekünk jó, mert potenciálisan határtalan, hogy mennyit kereshetünk vele.
+És az ügyfélnek is jó, mert csak olyan plusz teljesítmény után fizet, ami nélkülünk nem lenne.
+
+De abból is előnyt kovácsolhatunk, ha teljesen átbillentünk a másik oldalra.
+Ez az **anti-garancia**, ahol a "kasszától való távozás után nincs reklamáció".
+Ezzel a pozícióval sincs semmi gond -- **ha** teljes vállszélességben kiállunk mellette, és megmagyarázzuk, hogy miért szükséges.
+Például valami olyan titkos algoritmust fedünk fel, hogy amint azt meglátta, onnantól azt nem tudja nem meglátottá tenni.
+Ha akkora értéket nyújtunk, aminek már csak a megismerése visszavonhatatlan pozitívum, az önmagában is egy elég jó reklám, nem?
+
+Ezek a garanciák bármelyike vonzóbbá teheti az ajánlatunkat, és a tetejébe kombináltan is használhatóak.
+Mondjuk ha feltétel nélkülit kínálunk 30 napig, de arra még pluszban rájön egy feltételes 90 napnál vagy valami mérföldkőnél.
+A lényeg, hogy a végére tényleg semmi kockázat vagy kifogás ne maradjon, és "ez a hülyének is megéri" módon az legyen a nyilvánvaló választás, hogy belevágnak.
+
+<br>
+
+
 
 
 
@@ -328,50 +339,58 @@ Mert hát jó esetben az alap problémát mi olyan gyakran oldjuk meg másoknak,
 
 ## <a name="surgetes"></a>Szűkösség és sürgősség
 
-- sürgősség
-    - csoport alapján - a következő holnap indul, utána pedig csak 3 hónap múlva... benne vagy?
-    - időszak alapján - a Karácsonyi akció csak holnapig tart... benne vagy?
+A fentiek azt már gyakorlatilag garantálják, hogy vásárolni akarjanak tőlünk.
+De hogy érjük el, hogy **most** akarjanak vásárolni?
+Erre való a sürgősség (amikor az idő korlátozott) és a szűkösség (amikor pedig a készlet korlátozott).
 
-- szűkösség
-    - készlet alapján: már csak ennyi darab van... benne vagy?
-    - kapacitás alapján: már csak ennyi új ügyfelet tudok fogadni... benne vagy?
+Sürgősségi tényező lehet például:
 
-- ezek az idő/mennyiség alapú határok természetesen előfordulnak minden vállalkozásban
-    - nem kell gerinctelennek lenni és/vagy hazudni az ügyfeleknek
-    - csak tárjuk fel a határainkat, és ha a termékünk amúgy jó, akkor a limitáció pont hogy motiválóan fog hatni
+- Csoport alapján -- a következő holnap indul, utána pedig csak 3 hónap múlva... Benne vagy?
+- Időszak alapján -- a Karácsonyi akció csak holnapig tart... Benne vagy?
+
+Szűkösségi tényező lehet például:
+
+- Készlet alapján -- már csak ennyi darab van... Benne vagy?
+- Kapacitás alapján -- már csak ennyi új ügyfelet tudok fogadni... Benne vagy?
+
+Akinél most bejelzett az átverés-csengő, azt én személy szerint meg tudom érteni.
+Ezek tényleg olyan stratégiák, amiket lehet (sőt, könnyű) amorálisan használni.
+De nem csak úgy.
+
+Ezek az idő és mennyiség alapú határok természetesen is előfordulnak ám minden vállalkozásban.
+Tényleg nincs olyan, hogy végtelen készlet vagy végtelen kapacitás.
+Szóval nem kell gerinctelennek lenni és/vagy hazudni az ügyfeleknek -- csak tárjuk fel a határainkat, és ha a termékünk amúgy jó, akkor a limitáció pont hogy motiválóan fog hatni.
+
+<br>
+
+
+
 
 
 
 
 ## <a name="nev"></a>Névadás
 
-- fontos, hogy olyan nevet adjunk a termékeknek/bónuszoknak/garanciáknak/stb., amiből a vevők könnyen megértik, hogy
-    - ez nekik való, mert
-    - az ő problémáikat oldja meg,
-    - és a tetejébe pont úgy, ahogy szeretnék
-- MAGIC formula
-    - M - Mágneses ok
-    - A - Avatár / célközönség
-    - G - véGcél (Goal)
-    - I - Idő
-    - C - Befoglaló/ragasztó szó
+Fontos, hogy olyan nevet adjunk a termékeknek / bónuszoknak / garanciáknak, amiből a vevők könnyen megértik, hogy A) ez nekik való, mert B) az ő problémáikat oldja meg, és C) a tetejébe pont úgy, ahogy ők szeretnék.
+Erre kínálja a könyv az ún. MAGIC formulát, aminek segítségével már magába a névbe beleszőhetünk:
 
-- példák
-    - Ingyenes 6 Hetes Bikini Kihívás Anyukáknak
-        - ingyenes az ok
-        - 6 hét az idő
-        - a bikini a végcél
-        - a kihívás a ragasztó szó
-        - az anyuka a megszólított avatár
+- **M** -- egy **M**ágneses ok, amiért figyelni érdemes,
+- **A** -- egy **A**vatár, vagyis a célközönség, akiket megszólítani szeretnénk,
+- **G** -- egy vé**G**cél (angolban Goal), vagyis amit elérni próbálunk,
+- **I** -- egy **I**dő intervallum, amikor ez megvalósul, és
+- **C** -- egy kis **C**ement -- vagyis valami befoglaló és/vagy ragasztó szó.
 
-    - Iskolakezdő Fogszabályzás Féláron
-        - az iskolakezdés az idő ÉS az avatár (iskolás korú szülők)
-        - fogszabályzás a végcél
-        - a félár az ok
-        - ragasztószó meg nem is kellett
+Például "Ingyenes 6 Hetes Bikini Kihívás Anyukáknak".
+Itt az ingyenes az ok, a 6 hét az idő, a bikini(ben jól kinézni) a végcél, a kihívás a ragasztó szó, és az anyuka a megszólított avatár.
+Vagy mondjuk "Iskolakezdő Fogszabályzás Féláron".
+Itt az iskolakezdés az idő **és** az avatár egyben (értsd, iskolás korú gyerekek szülei), a fogszabályzás a végcél, a félár az ok, és ragasztószó meg nem is kellett.
 
-- nem gáz, ha nem fér bele mind az 5
-    - de minél több, annál egyértelműbb lesz a kívülállók szemében is, hogy mi a fene ez
+Nem gáz, ha nem fér bele mind az 5 -- de minél több belemegy erőltetés nélkül, annál egyértelműbb lesz a kívülállók szemében is, hogy mi a fene ez, és hogy miért foglalkozzanak vele.
+
+<br>
+
+
+
 
 
 
@@ -381,3 +400,14 @@ Mert hát jó esetben az alap problémát mi olyan gyakran oldjuk meg másoknak,
 
 ## Összefoglalás
 
+Ez egy valag "szabálynak" hangozhatott, a könyv egyik elsődleges üzenete mégis az, hogy itt nincsenek szabályok!
+Attól, hogy mások esetleg mind egy kaptafára csinálják azt a dolgot, amibe mi is be szeretnénk törni, attól nekünk nem muszáj -- sőt, muszáj lenne, hogy ne.
+
+Célozzuk inkább azt meg, hogy az értéke alapján ítéljék meg az ajánlatunkat, ne az ára alapján.
+Ha megfelelően megkülönböztetjük magunkat -- és ezt megfelelően le is kommunikáljuk -- akkor egyszemélyes kategóriákká válhatunk, ahol nem is lesz kivel összevetni az árainkat.
+Ezért kérhetünk többet, ami által nyújthatunk is többet, amivel ezt az egész rólunk kialakult benyomást csak tovább erősítjük.
+
+Ezzel az alapvető mentális átbillenéssel a nehezén igazából túl is vagyunk.
+Aztán már "csak" annyi a dolgunk, hogy megfelelő piacot válasszunk; hogy gyűjtsük össze a potenciális vevő minden lehetséges problémáját, és kínáljunk *mindre* valamilyen megoldást; és hogy a "csomagolás" tartalmazzon bónuszokat és garanciákat.
+De ha így teszünk, akkor egy kisebb vagyont spórolhatunk a későbbi marketinges és értékesítési költségeken.
+A vevők magunktól is sorba állnak majd, ha egy ajánlat olyan jó, hogy hülyék lennének nemet mondani rá.
