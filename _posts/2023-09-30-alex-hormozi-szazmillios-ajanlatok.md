@@ -16,7 +16,7 @@ Alex Hormozi -- avagy, a "szakállas srác", ahogy nálunk ismeretes, hogy a fel
 Egyrészt mert amúgy is aktuális magam egy kicsit vállalkozói téren is kiművelni.
 Másrészt mert üzleti infóval ilyen bullshit- és hátsó szándék mentesen még szerintem soha nem találkoztam.
 
-Hormozi oktatási missziójának első állomása az ajánlat, amire aztán minden további marketing és értékesítés épül.
+Hormozi oktatási missziójának első állomása az [ajánlat](https://www.goodreads.com/book/show/58612786-100m-offers){:target="_blank"}, amire aztán minden további marketing és értékesítés épül.
 Szerinte csak azért van szükség profi értékesítési taktikákra, mert nem elég jó a marketing -- és csak azért van szükség profi marketingre, mert nem elég jó az ajánlat.
 Egy kellően jó ajánlat saját magát reklámozza és adja el.
 
@@ -26,8 +26,8 @@ A tartalom a következőképp alakul:
 - [Piacválasztás](#piac)
 - [Árképzés](#ar)
 - [Az érték egyenlet](#ertek)
-- [Milyen problémát oldunk meg?](#problema)
-- [Hogyan oldjuk meg?](#megoldas)
+- [Milyen problémákat oldunk meg?](#problema)
+- [Hogyan oldjuk meg a problémákat?](#megoldas)
 - [Bónuszok](#bonusz)
 - [Garanciák](#garancia)
 - [Szűkösség és sürgősség](#surgetes)
@@ -49,14 +49,15 @@ Egy ajánlat potenciális sikerének 3 tényezője a célpiac, az ajánlat maga,
 Ha haldoklik, akkor eleve halálra vagyunk ítélve.
 
 - Ha a piac "normális", akkor az **ajánlat**unkon múlik.
-Ha az kiváló, akkor menni fog. ha szar, akkor nem.
+Ha az kiváló, akkor menni fog.
+Ha szar, akkor nem.
 
 - Ha pedig a piac és az ajánlatunk is átlagos, akkor marad a **meggyőzés** -- de ez, mint látjuk, már csak az utolsó lépés!
 
-Szóval ha a lehető legnagyobb esélyt és a legkisebb mennyiségű árral szemben úszást szeretnénk, akkor először érdemes az éhező tömeget megkeresni.
+Szóval ha a lehető legnagyobb esélyt és a legkisebb mennyiségű árral szemben úszást szeretnénk, akkor először érdemes az "éhező tömeget" megkeresni.
 A piacválasztás 4 szempontja:
 
-1. **Fájdalom** -- vagyis mennyire éles az a fájdalom, amit megoldanánk nekik?
+1. **Fájdalom** -- vagyis mennyire éles az a kellemetlenség, amit megoldanánk nekik?
 
 1. **Vásárlóerő** -- vagyis megengedhetik egyáltalán maguknak, amit ajánlunk?
 
@@ -65,12 +66,12 @@ A piacválasztás 4 szempontja:
 1. **Növekedés** -- vagyis egyre több-e a kereslet? Lesz-e a jövőben is igény arra, amit csinálunk?
 
 A 3 nagy piac lehetőségünk az egészség, a gazdagság és a kapcsolatok.
-Aztán ezeken belül természetesen számtalan alkategóriák és al-alkategória, de igazából az emberi nyavalyák túlnyomó többsége ebbe a három halmazba válogatható szét.
+Aztán ezeken belül természetesen számtalan alkategória és al-alkategória, de igazából az emberi nyavalyák túlnyomó többsége ebbe a három halmazba válogatható szét.
 Legyek egészséges, legyen pénzem, és szeressenek -- onnantól minden rózsás.
 
-Számít viszont, hogy mennyire megyek le az al-al-alkategóriákban (lásd "niche").
+Számít viszont, hogy mennyire megyek le az al-al-alkategóriákban (lásd ["niche"](https://en.wikipedia.org/wiki/Niche_market){:target="_blank"}).
 Minél részletesebb, testreszabottabb megoldást kínálunk egy problémára, annál pofátlanabbul nagyobb árat is hajlandóak lesznek érte megfizetni azok, akiknek szól.
-Az ajánlat megfogalmazásánál nem az a lényeg, hogy a célközönség megértse, hanem hogy úgy érezzék, hogy mi megértjük őket.
+Az ajánlat megfogalmazásánál nem az a lényeg, hogy a célközönség megértse, hanem hogy úgy érezzék, megértjük őket.
 Ha jobban ki tudjuk fejezni a problémáikat, mint ahogy azt ők magukban tennék, akkor egyből elhiszik majd, hogy megoldásból is jobbat tudunk kínálni.
 Így válhatunk egy egyszemélyes kategóriává, ahol gyakorlatilag nem is lesz kihez hasonlítaniuk.
 
@@ -83,7 +84,7 @@ Ha jobban ki tudjuk fejezni a problémáikat, mint ahogy azt ők magukban tenné
 ## <a name="ar"></a>Árképzés
 
 Minden tranzakció az ár és az érték vélt eltérése miatt jön létre.
-Mi jobban akarjuk az elkért árat annál, mint amennyire "fáj" megválni a termékünktől -- a vevő pedig többre értékeli a termékünket annál, amennyi pénztől meg kell válnia érte.
+Mi jobban akarjuk az elkért árat annál, mint amennyire "fáj" megválni a termékünktől -- a vevő pedig többre értékeli a termékünket annál, mint amennyi pénztől meg kell válnia érte.
 
 Ebből következően létezik egy pont, ahol az érték, amit nyújtunk, pont annyi, amekkora árat el is kérünk érte.
 Ez a pont alatt nem lesz üzlet.
@@ -93,8 +94,8 @@ Vagyis az ajánlatunkat mindössze 2 módon tehetjük kecsegtetőbbé:
 
 - Növeljük az (érzékelt) értéket.
 
-Itt az "érzékelt" fontos kulcsszó, hiszen az habár az ár objektív, az érték mindig szubjektív.
-És míg az árral lefelé csak a nulláig mehetünk, addig az vélt értéknél a határ a csillagos ég felfelé.
+Itt az "érzékelt" fontos kulcsszó, hiszen habár az ár objektív, az érték mindig szubjektív.
+És míg az árral lefelé csak a nulláig mehetünk, addig a vélt értéknél a határ a csillagos ég felfelé.
 
 Az árazás egy ún. "feedback loop", amit felfelé irányban angyali, lefelé pedig ördögi körnek szoktunk csúfolni.
 Ördögi változatában vesszük mások ajánlatainak az átlagát, mint kezdőpontot, és aztán A) egy kicsit alámegyünk, és B) kicsit többet nyújtunk.
@@ -156,11 +157,11 @@ Tehát az értékre pozitívan hat:
 Ha jobban megvizsgáljuk, ebben semmi objektív nincs.
 Mármint persze, az időt lehet mérni -- de az akkor is szubjektív, hogy az mennyire hosszúnak *érződik*, vagy hogy milyen elvárás alakul ki a kliens fejében, amihez aztán majd hasonlítja.
 Az energiára dettó ugyanez.
-Az álom/bizalom pedig eleve nehezen lennének konkrétan mérhetőek.
+Az álom/bizalom pedig eleve nehezen lennének konkrétan számszerűsíthetőek.
 
 Ez pedig azért jó, mert gyakorlatilag a semmiből is teremthetünk valós értéket.
 Hiszen itt csak az számít, hogy a vevő a fejében úgy éli-e meg, hogy értéket kapott.
-Ha szó szerint ugyanazt a terméket vagy szolgáltatást sikerül úgy becsomagolnunk, hogy az 1) jelentőségteljesebbnek tüntesse fel az elérendő célt, 2) nagyobb bizalmat kelt, hogy el is jutunk oda általa, illetve tehetjük mindezt 3) relatíve gyorsabban és 4) relatíve fájdalommentesebben, akkor ez a csomagolás varázsütésre tényleg értéket generált.
+Ha szó szerint ugyanazt a terméket vagy szolgáltatást sikerül úgy becsomagolnunk, hogy az 1) jelentőségteljesebbnek tüntesse fel az elérendő célt, 2) nagyobb bizalmat keltsen, hogy el is jutunk oda általa, illetve tesszük mindezt 3) relatíve gyorsabban és 4) relatíve fájdalommentesebben, akkor ez a csomagolás varázsütésre tényleg értéket generált.
 
 <br>
 
@@ -171,13 +172,12 @@ Ha szó szerint ugyanazt a terméket vagy szolgáltatást sikerül úgy becsomag
 
 
 
-## <a name="problema"></a>Milyen problémát oldunk meg?
+## <a name="problema"></a>Milyen problémákat oldunk meg?
 
 Ennyi alapozás után végre elkezdhetjük összeállítani az ajánlatunkat.
-
 Először is megállapítjuk az álom eredményt, és megfogalmazzuk, mit is nyújtunk valójában.
 
->> <KINEK> segítek <MIT> elérni <MIKORRA> anélkül, hogy <LEGNAGYOBB FÉLELMEIK>.
+> `KINEK` segítek `MIT` elérni `MIKORRA` anélkül, hogy `LEGNAGYOBB FÉLELMEIK`.
 
 Ha ez megvan, akkor felderítjük az összes problémát, ami ennek az útjában áll -- ide értve mindent, amit az ügyfél problémaként él meg!
 És minden probléma alproblémáit, lépésenként, egészen az "aljáig".
@@ -189,7 +189,7 @@ Ez kell, hogy minden aggodalmukat csillapítani tudjuk majd.
 
 - Nem fog menni &rarr; hogy védjük ki a kockázatokat?
 
-- Túl nehéz / nem fogom élvezni / rossz leszek benne &rarr; hogy tesszük a folyamatot egyszerűvé/fájdalommentessé/játékossá?
+- Túl nehéz / nem fogom élvezni / rossz leszek benne &rarr; hogy tesszük a folyamatot egyszerűvé / fájdalommentessé / játékossá?
 
 - Túl túl soká lesz az eredmény / nem fér a napomba &rarr; hogyan tesszük a folyamatot gyorssá és "beiktathatóvá" a napirendbe?
 
@@ -204,14 +204,14 @@ Hogy mindre legyen valami kész válaszunk -- vagy legalább valami megnyugtatá
 
 
 
-## <a name="megoldas"></a>Hogyan oldjuk meg?
+## <a name="megoldas"></a>Hogyan oldjuk meg a problémákat?
 
 Ha már elhiszik, hogy megoldjuk a problémáikat, akkor oldjuk is meg őket!
 Na igen, de hogyan?
 
 Kezdésnek tekintsük az eladás és a teljesítés nehézsége közti különbséget.
 Amit könnyű eladni, azt általában nehéz teljesíteni (*azonnali örök élet és ingyen sör*).
-És fordítva, amit könnyű teljesíteni, azt általában nehéz eladni (*férfias kézfogás, most csak 9900Ft*).
+És fordítva, amit könnyű teljesíteni, azt általában nehéz eladni (*férfias kézfogás, most csak 9900 Ft*).
 
 A könyv alap stratégiája: először kezdjünk a könnyen eladható és nehezebben teljesíthető oldalról, és aztán idővel (a menet közben kiépült brand-ünkkel + tapasztalatunkkal + tőkével + kapcsolatokkal) mozdulhatunk hatékonyan a nehezebben eladható de könnyebben teljesíthető irányba.
 Az egyszerűen teljesíthető dolgok nem feltétlen azért nehezen eladhatóak, mert nem nyújtanának értéket, hanem mert nem **tűnnek úgy**, hogy értéket nyújtanak.
@@ -219,7 +219,7 @@ Ha viszont a piramis tetejéről kezdünk (ahol nagy pénzekért nyújtunk nagyo
 
 Először legyen valami flow (hogy egyáltalán érdeklődjenek utánunk), aztán monetizáljuk ezt az érdeklődést (könnyen eladható, de egyelőre nehezen teljesíthető módon), és majd csak később adjunk "súrlódást" a folyamatba (ahol már nehezebb az eladás, de cserébe könnyebben teljesíthetjük, és ezáltal skálázhatjuk).
 A nehéz teljesítés oldalon eleve könnyebb megindokolni a magasabb árat, ami miatt elég lesz kevesebb kliens, ami miatt még a nehezebb teljesítés mellett is bírni fogjuk az iramot (remélhetőleg).
-Amíg nincsenek vevők, addig nem aggódunk a skálázhatóságon -- addig azon aggódunk, hogy hogyan szerezzünk vevőket!
+Szóval amíg nincsenek vevők, addig nem aggódunk a skálázhatóságon -- addig azon aggódunk, hogy hogyan szerezzünk vevőket!
 
 Ha ezen a nehézségi skálán kb. belőttük magunkat, akkor következhet a konkrét teljesítési mód -- hiszen ugyanazt az ígéretet számtalan módon teljesíthetjük.
 A dimenziók, amik mentén érdemes végiggondolni:
@@ -230,7 +230,7 @@ A dimenziók, amik mentén érdemes végiggondolni:
 
 - **Támogatás**: hogy nézne ki SMS-ben, chat-en, e-mailben, videóhívásként, telefonon, élőben?
 
-- **Formátuk**: hogy nézne ki videóként, audióként, szövegként, vagy élő közvetítésben?
+- **Formátum**: hogy nézne ki videóként, audioként, szövegként, vagy élő közvetítésben?
 
 - **Idő**: Hogy nézne ki 0-24-ben, vagy csak H-P 9-17? Illetve milyen gyorsan fogunk reagálni? 5 perc? 1 óra?
 
@@ -265,7 +265,7 @@ Fontos persze, hogy a bónuszokat is kellően eladjuk -- vagyis tűnjenek önál
 Hasznos, ha itt nem olyan komponensek vannak, amik a vevő részéről is extra erőfeszítést igényelnek, mert úgy tiszta a potenciális extra haszon, nincs meló is mellé.
 
 Ezen a ponton érdemes az affiliate marketing-re gondolni, ami tulajdonképpen mások biznisszének "kihasználása" -- de úgy, hogy az szó szerint mindenkinek jó.
-Hozzácsapjuk mások termékeit a saját ajánlatainkhoz, akár exkluzív funkciókkal/kedvezményekkel, és még a másik cég fizet nekünk, hogy vevőt tereltünk feléjük.
+Hozzácsapjuk mások termékeit a saját ajánlatainkhoz, akár exkluzív funkciókkal / kedvezményekkel, és még a másik cég fizet nekünk, hogy vevőt tereltünk feléjük.
 Win-win-win.
 
 Hormozi extra tippje, hogy a bónusz egy olyan problémát oldjon meg, ami a vevő szemszögéből most még nem is aktuális -- csak majd az lesz, amikor sikerre viszi az alap csomag által ígért átalakulást.
@@ -283,8 +283,8 @@ Mert hát jó esetben az alap problémát mi olyan gyakran oldjuk meg másoknak,
 
 ## <a name="garancia"></a>Garanciák
 
-A garanciák "megérik a súlyukat aranyban", mert általuk átbillentjük a bizonytalanságot a saját oldalunkra.
-Mindenki szereti elodázni a döntést, ami általában azt jelenti, hogy most még nem megy bele, és aztán meg elmarad.
+A garanciák "megérik a súlyukat aranyban", mert általuk átbillenthetjük a bizonytalanságot a saját oldalunkra.
+Elvégre mindenki szereti elodázni a döntést -- ami általában azt jelenti, hogy most még nem megy bele, és aztán meg elfelejtődik az egész.
 De mi lenne, ha ehelyett úgy állítanánk be a helyzetet, hogy az "igen" az alapértelmezés, és pont a "mégse" az az utólagos döntés, amit odázni lehet...
 Hormozi itt átmegy full sales guru-ba:
 
@@ -298,12 +298,12 @@ Ez egy kalkulált kockázat.
 Akkor látjuk majd, ha már lesznek vevők, hogy milyen arányban élnek ezzel a lehetőséggel.
 De Hormozi tapasztalatai szerint nagyon ritkán fognak -- ha tényleg olyan értéket nyújtunk, amiről eddig szó volt.
 
-A garanciánk természetesen lehet ***feltételhez kötött*** is, nem csak a fenti feltétel nélküli.
+A garanciánk természetesen lehet ***feltételhez kötött*** is, nem csak a fenti, feltétel nélküli változat.
 Erre egy pár példa:
 
-- **Legegyszerűbb eset**: ha nem X kimenetel Y időn belül, akkor vissza a pénz.
+- **Visszafizetési garancia**: ha nem X kimenetel Y időn belül, akkor vissza a pénz.
 
-- **Túlméretezett visszafizetés**: ha mindenen részt vettél, mindent megcsináltál, és mégsem XY, akkor visszaadjuk a pénzed dupláját/tripláját.
+- **Túlméretezett visszafizetési garancia**: ha mindenen részt vettél, mindent megcsináltál, és mégsem XY, akkor visszaadjuk a pénzed dupláját/tripláját.
 Vagy amennyi időt belefektettél, az alapján kifizetjük a kiesett béredet.
 Vagy fizetjük a hotel/utazási költségedet, amiért idejöttél.
 
@@ -319,11 +319,11 @@ De onnantól mindenkinek frankó lehet, ha azt mondjuk, hogy a szolgáltatásunk
 Nekünk jó, mert potenciálisan határtalan, hogy mennyit kereshetünk vele.
 És az ügyfélnek is jó, mert csak olyan plusz teljesítmény után fizet, ami nélkülünk nem lenne.
 
-De abból is előnyt kovácsolhatunk, ha teljesen átbillentünk a másik oldalra.
+De akár abból is előnyt kovácsolhatunk, ha teljesen átbillenünk a másik oldalra.
 Ez az **anti-garancia**, ahol a "kasszától való távozás után nincs reklamáció".
 Ezzel a pozícióval sincs semmi gond -- **ha** teljes vállszélességben kiállunk mellette, és megmagyarázzuk, hogy miért szükséges.
-Például valami olyan titkos algoritmust fedünk fel, hogy amint azt meglátta, onnantól azt nem tudja nem meglátottá tenni.
-Ha akkora értéket nyújtunk, aminek már csak a megismerése visszavonhatatlan pozitívum, az önmagában is egy elég jó reklám, nem?
+Például valami olyan titkos algoritmust fedünk fel, hogy amint azt a vevő meglátta, onnantól nem tudja nem meglátottá tenni.
+Ha akkora értéket nyújtunk, aminek már csak a pillanatnyi megismerése is visszavonhatatlan pozitívum, az önmagában egy elég jó reklám, nem?
 
 Ezek a garanciák bármelyike vonzóbbá teheti az ajánlatunkat, és a tetejébe kombináltan is használhatóak.
 Mondjuk ha feltétel nélkülit kínálunk 30 napig, de arra még pluszban rájön egy feltételes 90 napnál vagy valami mérföldkőnél.
@@ -339,7 +339,7 @@ A lényeg, hogy a végére tényleg semmi kockázat vagy kifogás ne maradjon, �
 
 ## <a name="surgetes"></a>Szűkösség és sürgősség
 
-A fentiek azt már gyakorlatilag garantálják, hogy vásárolni akarjanak tőlünk.
+Az eddigiek azt már gyakorlatilag garantálják, hogy vásárolni akarjanak tőlünk.
 De hogy érjük el, hogy **most** akarjanak vásárolni?
 Erre való a sürgősség (amikor az idő korlátozott) és a szűkösség (amikor pedig a készlet korlátozott).
 
@@ -372,13 +372,13 @@ Szóval nem kell gerinctelennek lenni és/vagy hazudni az ügyfeleknek -- csak t
 ## <a name="nev"></a>Névadás
 
 Fontos, hogy olyan nevet adjunk a termékeknek / bónuszoknak / garanciáknak, amiből a vevők könnyen megértik, hogy A) ez nekik való, mert B) az ő problémáikat oldja meg, és C) a tetejébe pont úgy, ahogy ők szeretnék.
-Erre kínálja a könyv az ún. MAGIC formulát, aminek segítségével már magába a névbe beleszőhetünk:
+Erre kínálja a könyv az ún. MAGIC formulát, aminek segítségével már magába a névbe belekerül:
 
 - **M** -- egy **M**ágneses ok, amiért figyelni érdemes,
 - **A** -- egy **A**vatár, vagyis a célközönség, akiket megszólítani szeretnénk,
-- **G** -- egy vé**G**cél (angolban Goal), vagyis amit elérni próbálunk,
+- **G** -- egy vé**G**cél (goal), vagyis amit elérni próbálunk,
 - **I** -- egy **I**dő intervallum, amikor ez megvalósul, és
-- **C** -- egy kis **C**ement -- vagyis valami befoglaló és/vagy ragasztó szó.
+- **C** -- egy kis "**C**ement" -- vagyis valami befoglaló és/vagy ragasztó szó.
 
 Például "Ingyenes 6 Hetes Bikini Kihívás Anyukáknak".
 Itt az ingyenes az ok, a 6 hét az idő, a bikini(ben jól kinézni) a végcél, a kihívás a ragasztó szó, és az anyuka a megszólított avatár.
@@ -400,7 +400,7 @@ Nem gáz, ha nem fér bele mind az 5 -- de minél több belemegy erőltetés né
 
 ## Összefoglalás
 
-Ez egy valag "szabálynak" hangozhatott, a könyv egyik elsődleges üzenete mégis az, hogy itt nincsenek szabályok!
+Ez egy valag "szabálynak" hangozhatott, de a könyv egyik elsődleges üzenete mégis az, hogy itt nincsenek szabályok!
 Attól, hogy mások esetleg mind egy kaptafára csinálják azt a dolgot, amibe mi is be szeretnénk törni, attól nekünk nem muszáj -- sőt, muszáj lenne, hogy ne.
 
 Célozzuk inkább azt meg, hogy az értéke alapján ítéljék meg az ajánlatunkat, ne az ára alapján.
