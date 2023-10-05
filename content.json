@@ -2,13 +2,15 @@
 ---
 {
     {% for entry in site.posts %}
-        "{{ entry.url | slugify }}": {
-            "id": "{{ entry.url | slugify }}",
-            "title": "{{ entry.title | xml_escape }}",
-            "tags": "{{ entry.tags | join: ' ' | xml_escape }}",
-            "url": "{{ entry.url | xml_escape }}",
-            "content": "{{ entry.content | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | split: ' ' | uniq | join: ' ' | xml_escape }}"
-        }
-        {% unless forloop.last %},{% endunless %}
+        {% if entry.sitemap != false %}
+            "{{ entry.url | slugify }}": {
+                "id": "{{ entry.url | slugify }}",
+                "title": "{{ entry.title | xml_escape }}",
+                "tags": "{{ entry.tags | join: ' ' | xml_escape }}",
+                "url": "{{ entry.url | xml_escape }}",
+                "content": "{{ entry.content | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | split: ' ' | uniq | join: ' ' | xml_escape }}"
+            }
+            {% unless forloop.last %},{% endunless %}
+        {% endif %}
     {% endfor %}
 }
