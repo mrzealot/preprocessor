@@ -4,6 +4,7 @@ title: A Dunning-Kruger hatás
 cover: dunning_kruger
 tags: [szemléletmód]
 date: 2021-07-24 00:01
+youtube: iZhvjvXopAE
 excerpt: >
     Másnak is feltűnt már, hogy aki idióta, az valahogy ezt a tényt soha nem rejti véka alá?
     Nem bújik meg a sarokban, hogy ott szép csendben lehessen hülye, de nem is tesz ellene, hogy esetleg *ne* legyen hülye.
