@@ -5,6 +5,7 @@ cover: bravenewworld
 tags: [fikció]
 pages: 320
 date: 2022-02-14 00:01
+youtube: CWaDnaMofr0
 excerpt: >
     A mai bejegyzésben ismét az utópia/disztópia kategóriában kalandozunk: úti célunk Aldous Huxley klasszikusa, a Szép új világ.
     Akinek nem tetszett az 1984 erőszakon és félelmen alapuló diktatúrája, azt megnyugtatom, hogy itt pont az ellenkezőjét fogja kapni.
