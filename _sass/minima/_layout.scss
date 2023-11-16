@@ -614,3 +614,9 @@ img.cover-image {
 .youtube-container {
   padding: 20px 0;
 }
+
+iframe {
+  aspect-ratio: 16/9;
+  height: auto;
+  width: 100%;
+}
