@@ -25,7 +25,7 @@ Ez pedig nagy "Eureka!" pillanathoz vezetett az optimális étrend kialakítás�
 
 - Mi a baj a mostani hozzáállásunkkal?
 - Hogyan működik a vércukor és a mikrobiom?
-- És hogyan szabhatjuk testre a saját étrendünket a vércukor szintünk (és ezáltal, súlyunk és energiánk) optimalizálása érdekében?
+- És hogyan szabhatjuk testre a saját étrendünket a vércukor szintünk (és ezáltal a súlyunk és az energiánk) optimalizálása érdekében?
 
 A tartalom a következőképp alakul:
 
@@ -55,7 +55,7 @@ A kenyér valamilyen formájában a világ legnépszerűbb és legalapvetőbb t�
 De a régi kenyerekhez képest manapság már génkezelt, permetezett, gyorsított kelesztésű, nagyobb mértékben finomított/feldolgozott, stb.
 
 Ennek fényében sokan hiszik, hogy a kenyér rossz -- vagy legalábbis a modern formája biztos.
-Eran-jaink végeztek hát egy kísérlet, amiben összehasonlították az alanyok reakcióját a modern kenyérre vs. egy hagyományos, teljes kiőrlésű, kelt tésztás, kézi készítésű kenyérre.
+Szerzőink végeztek hát egy kísérlet, amiben összehasonlították az alanyok reakcióját a modern kenyérre vs. egy hagyományos, teljes kiőrlésű, kelt tésztás, kézi készítésű kenyérre.
     
 Az eredmények pedig igencsak meglepőek: a kétféle kenyér között semmi különbség nem volt.
 Legalábbis **ÁTLAGBAN**!
@@ -102,10 +102,10 @@ Ezt manapság naivitás lenne feltételezni -- tekintve hogy gyakorlatilag csak 
 És itt még csak nem is kizárólag a szándékos hazugság terjesztésre kell gondolni.
 A figyelem alapú gazdaságban utazók mindent megtesznek, hogy érdekességként tálalják az új kutatási eredményeket.
 Ezáltal viszont olyan túláltalánosítások és félreértelmezések is becsúsznak, amik végső soron tévútra vezetik a közönséget.
-Ha mondjuk egy jelenséget csak egereken vagy muslincákon vizsgáltak, és csak 1 hónapig, és csak specifikus laboratóriumi körülmények között, és az eredmények még soha nem voltak replikálva, abból bizony nem lesz általános érvényű következtetés.
+Ha mondjuk egy jelenséget csak egereken vagy muslincákon vizsgáltak, és csak egyetlen hónapig, és csak specifikus laboratóriumi körülmények között, és az eredmények még soha nem voltak replikálva, abból bizony nem lesz általános érvényű következtetés.
 És aztán hogy a média ezt hogyan szlogen-esíti, az még egy lapáttal rátesz a megbízhatatlanságra.
 
-És ha egy ilyen környezetben kering ennyi téves információ, az szépen kiadja egy egyéni fiziológiai katasztrófa receptjét.
+Ha egy ilyen környezetben kering ennyi téves információ, az szépen kiadja egy egyéni fiziológiai katasztrófa receptjét.
 
 <br>
 
@@ -134,7 +134,7 @@ Nyilván sok feltételezés létezhet, ami bizonyíték nélkül is igaz (csak e
 De ugyanígy sok olyan feltételezés is elterjedt, ami bizonyíthatóan nem igaz -- vagy legalábbis nem általánosan igaz.
 Például:
 
-- Egy kalória az egy kalória, mindegy honnan jön -- **NOPE**, amit remélem a [makrók]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}), és úgy általában az inzulin működésének ismeretében remélem mondani sem kell.
+- Egy kalória az egy kalória, mindegy honnan jön -- **NOPE**, amit a [makrók]({% post_url 2020-04-10-chris-aceto-minden-amit-a-zsiregetesrol-tudnod-kell %}), és úgy általában az inzulin működésének ismeretében remélem mondani sem kell.
 
 - A zsír rossz -- **NOPE**, nagy átlagban kevesebb köze van a túlsúlyhoz, mint a szénhidrátoknak.
   Meg amúgy is, milyen *féle* zsír? Telített? Telítetlen? Transz-műanyag-margarin-izé?
@@ -176,7 +176,7 @@ Plusz vitaminok, immunműködés, allergiák...
 De kimutattak összefüggéseket az elhízással, a depresszióval, az asztmával, bélgyulladással, agyi- és keringési zavarokkal, rákkal, öregedéssel, csökkent mentális funkcióval, stb.
 
 Szép példa a hatására a kísérlet, amikor mesterséges átültetést végeztek egy kövér/sovány ikerpárból egerekbe, és két hét múlva a kövér iker egere szépen elhízott ugyanannyi tápmennyiség mellett.
-És akkor honnan tudjuk, hogy a mikrobióm segít-e az egészséges súly kialakításában, vagy épp a probléma része?
+És akkor honnan tudjuk, hogy a mikrobiom segít-e az egészséges súly kialakításában, vagy épp a probléma része?
 Kb. most úgy néz ki, hogy A) az túlsúly okozza a "rossz" mikrobiomot, de B) aztán ez a rossz mikrobiom még helyes táplálkozás és súlyvesztés mellett is visszafelé húz a túlsúly felé (mert olyanná vált az összetétele a fogyás során, amivel több kalóriát tud kinyerni ugyanannyi kajából), így a visszahízás még durvább.
 Ez persze vissza tud állni normálisra, de csak hosszú idő után (akár évekkel a fogyás után).
 
@@ -221,10 +221,11 @@ De ami már ezeknél a teszteknél is előbb tudná mutatni, hogy nem jó úton 
 Ezért is erre alapozzák szerzőink a személyre szabott táplálkozási programjukat.
 
 Szerencsére a vércukor szintet túlnyomó többségében az befolyásolja, hogy mit (és mennyit és mikor) eszünk.
-És a maradékot is mi befolyásoljuk az edzésen (vagy annak hiányán), az alváson, a gyógyszereinket, a stressz szintünkön és hasonlókon keresztül.
+És a maradékot is mi befolyásoljuk az edzésen (vagy annak hiányán), az alváson, a gyógyszereinken, a stressz szintünkön és hasonlókon keresztül.
 Szóval nem muszáj ám lecsúszni ezen a lejtőn!
 
-Az ételek glikémiás indexe is valamilyen szinten ezt hivatott orvosolni -- csak nem kimondottabban "jól", mert:
+Eredetileg az ételek glikémiás indexe is ezt hivatott orvosolni -- csak nem kimondottabban "jól", mert:
+
 - Egy átlag érték nem sokat mond a szórás nélkül,
 - Pláne nem kis számú emberen mérve,
 - Pláne nem *egyszer* mérve, és
@@ -260,7 +261,7 @@ Trendek voltak például, hogy:
 - A rost rövid távon emelte, de későbbi kajáknál csökkentette a KUVCE-t;
 - A só emelte, míg a víz csökkentette a KUVCE-t;
 - Az ébredés óta eltelt idő emelte a KUVCE-t;
-- Mindenféle betegség előrejelző vagy prediabetikus jelző pozitívan korrelált a KUVCE-vel.
+- Mindenféle betegséget vagy prediabetikus állapotot előre jelző érték pozitívan korrelált a KUVCE-vel.
 
 **DE**: mindenre volt példa és ellenpélda is.
 Ezért lenne fontos megvizsgálni, hogy melyikünkre mi vonatkozik!
@@ -268,10 +269,10 @@ Ezért lenne fontos megvizsgálni, hogy melyikünkre mi vonatkozik!
 > Tekintve, hogy mekkora adathalmazzal dolgoztunk és milyen alapos elemzést végeztünk, az eredményeink hatása jelentős: minden eddiginél végérvényesebben bizonyítják, hogy egy generikus, univerzális táplálkozási hozzáállás egyszerűen nem működhet.
 >> Because our data set was so large and our analysis so comprehensive, these results have an enormous impact—they show more conclusively than has ever been shown before that a generic, universal approach to nutrition simply cannot work.
 
-A szerzők a rengeteg adat, és némi gépi tanulás segítségével képesek voltak egy olyan algoritmust létrehozni, ami korábban nem látott pácienseknél is képes volt mikrobiom (és némi egyéb) információból KUVCE reakciókat jósolni bizonyos ételek esetében.
+A szerzők a rengeteg adat és egy csipetnyi gépi tanulás segítségével egy olyan modellt hoztak létre, ami korábban nem látott pácienseknél is képes volt mikrobiom (és némi egyéb) információból KUVCE reakciókat jósolni bizonyos ételek esetében.
 Ezzel lehetett mindenkinek egy személyre szabott "rossz" és "jó" diétát kialakítani, amik egyenlő kalóriamennyiséggel rendelkeztek ugyan, de változó forrásokból.
 
-Sokszor előfordult például, hogy egy adott kaja valakinél a jó, másnál pedig a rossz listára került az algoritmus ajánlása szerint.
+Sokszor előfordult például, hogy egy adott kaja valakinél a jó, másnál pedig a rossz listára került a modell ajánlása szerint.
 Végül egy hétig a jó, és még egy hétig a rossz diéta alapján etették a kísérleti alanyokat, és szépen látszott is a különbség.
 
 <br>
@@ -291,24 +292,29 @@ Végül egy hétig a jó, és még egy hétig a rossz diéta alapján etették a
 ## <a name="program"></a>A program
 
 Na jó, és akkor velünk mi lesz?! -- tehetnénk fel jogosan a kérdést.
-Mert hát mi ugye nem olyan könnyen férünk hozzá a mikrobiom vizsgálathoz, és ha véletlen mégis, akkor sem fogja nekünk senki megjósolgatni a személyes "jó" diétánkat.
-De semmi gond, nekünk többieknek szabad mérni a saját vércukor válaszunkat változatos kajákra, és kikísérletezni magunknak.
-Veszünk egy vércukormérőt a patikában, párezer forint, ami aztán egy-egy időpontban megmondja nekünk az aktuális vércukor szintünket.
+Mert hát mi ugye nem olyan könnyen férünk hozzá a mikrobiom vizsgálathoz, és ha véletlen mégis, akkor sem fogja nekünk senki megjósolgatni a személyes "jó" diétánkat ezzel a hiper-szuper modellel.
+De semmi gond, nekünk többieknek szabad mérni a saját vércukor válaszunkat változatos kajákra, és kikísérletezni egy "jó" listát magunknak.
+Veszünk egy vércukormérőt a patikában, pár ezer forint, ami egy-egy időpontban megmondja nekünk az aktuális vércukor szintünket.
+Aztán addig és annyiszor használjuk, amíg értelme nem lesz.
 
 És akkor most tényleg az ujjunkat kell szurkálni?!
 Igen, tényleg.
-Elég lehet már csak egy-két hétig -- ami higgyük el, sokkal jobb lesz, mint utána életünk végéig szarakodni vele a menet közben kialakult cukorbetegségünk miatt.
+Elég lehet már csak egy-két hétig -- ami higgyük el, sokkal jobb lesz, mint utána életünk végéig szarakodni az inzulinnal a menet közben kialakult cukorbetegségünk miatt.
 Főleg ha előre átgondoljuk és bekészítjük, amit enni fogunk.
 
 A szerzők javaslata:
 
 - Amiket amúgy is együtt eszünk, azokat lehet együtt is tesztelni, nem muszáj "alkotóelemenként";
+
 - Priorizáljuk, amiket amúgy is gyakran eszünk;
+
 - Teszteljük, amiket *szeretnénk* enni, de nem nagyon merünk, mert azt hisszük, hogy rossz (hátha mégse annyira rossz);
+
 - Ugyanígy teszteljük azokat is, amiket nem nagyon szeretnénk enni, de magunkra erőltetjük, mert elvileg "jók" (hátha mégse);
+
 - Ha vannak éttermek vagy bármilyen "nem otthoni" kaják, amiket szoktunk, akkor azokat is iktassuk be.
 
-A teszt maga annyi, hogy:
+A folyamat maga technikailag annyi, hogy:
 
 1. Reggelente mérünk egy alapértéket.
 Ez azért kell, mert az is kb. ugyanolyan fontos, hogy mikorra csökkenünk vissza az alapértékre, mint hogy milyen magasra ugrunk egy-egy kaja hatására.
@@ -316,10 +322,13 @@ Ez azért kell, mert az is kb. ugyanolyan fontos, hogy mikorra csökkenünk viss
 
 2. Kaja előtt mérünk egy induló értéket.
 Ez jó esetben az alapérték környékén kéne legyen -- azért mérjük mégis, mert ha *nem* annyi, akkor várni kell.
-Ez biztosítja, hogy lesz egyáltalán értelme mérni a kajára adott reakciónkat.
+Ez biztosítja, hogy legyen egyáltalán értelme mérni a kajára adott reakciónkat.
 
 3. Kaja után 30 percenként mérünk egészen addig, amíg (kb.) vissza nem esünk az alapértékre.
 Ez várhatóan valahol 2 órán belül kéne legyen, vagyis maximum 4 mérés jelent.
+
+4. A méréseket akár többször ismételjük per kaja, hogy elkerüljük a hamis kilengéseket és/vagy mérési hibákat.
+Az így kapott értékekből pedig kis táblázatot/grafikont készítünk a kajákhoz.
 
 A konkrét mérési eredmények szubjektívek --  vagyis lehet hogy nekünk normális, ami másnál már kiugrásnak minősülne, vagy fordítva.
 Szóval igyekezzünk inkább a kiugrás mértékére (értsd, magasságára) és hosszára figyelni, ne annyira magukra a számokra.
@@ -347,7 +356,7 @@ Ilyenkor ki lehet próbálni egy pár módosítási/kombinációs opciót, mert 
 
 Például a szénhidrátoknál: ha többféle is van benne, akkor kikísérletezni, hogy pontosan melyik is dobja meg a KUVCE értékünket.
 És mondjuk azt elhagyva lehet belőle egy módosított változat, ami maradhat rendszeresen is.
-Vagy kicserélve egy alternatívára, mint mondjuk a gabonaféléknél rizs vs. kinoa vs. rozs vs. amaránth vs. a kiskutya fasza.
+Vagy kicserélve egy alternatívára, mint mondjuk a gabonaféléknél rizs vs. kinoa vs. rozs vs. amaránt vs. a kiskutya fasza.
 Vagy édesítési módszereknél sima cukor helyett kókuszcukor, méz, datolya, stb.
 Vagy tej helyett magtejek -- vagy akár zsírosabb tej!
 
@@ -369,7 +378,7 @@ Időnként persze mindent lehet -- még akár a full műanyag Mekdöncit is!
 De a *rendszeres* diétánkban ilyesminek ne legyen helye.
 
 Láthatjuk tehát, hogy elég sok paraméterrel lehet játszadozni.
-De emlékezzünk: ez az egész "csak" egy nagyobb játszóteret ad, hogy ne kelljen annyira pötymörgősen belőni a kalóriákat.
+De emlékezzünk: ez az egész "csak" egy nagyobb játszóteret ad, hogy ne kelljen annyira pötymörgősen belőni a makrókat és a kalóriákat.
 Kicsit több is belefér majd, mert a kevesebb inzulin tüske miatt nem lesz akkora tárolhatnékunk.
 De összességében ennek a "kicsit több"-nek is alatta kell lennie a szükségleteinknek, ha fogyni szeretnénk (és felette, ha "tömegelni").
 Szóval ez nem egy ingyen jogosítvány a zabálásra, még ha azt csak "jóféle" kajákból tennénk sem.
@@ -392,7 +401,7 @@ Olyan van, hogy **nekem** ez az optimális étrend.
 Ezt persze lehet úgy is, hogy hosszabb távon figyelem a mérlegen vagy a tükörképemen, milyen irányba sodródok az aktuális életmódom hatására -- és ha az jó, akkor nyilván semmi szükség kaja utáni vércukor tesztekre.
 De ha nem, (és lássuk be, a legtöbbünkre ez vonatkozik) akkor az itt tárgyalt tudással hatékony fegyver kerülhet a kezünkbe.
 
-Ha hajlandóak vagyunk megfigyelni az egyéni vércukor reakciónkat, akkor a másokon tesztelt (vagy akár hasraütés alapú) köznépi diétás javaslatok helyett egy ténylegesen személyre szabott étrendhez juthatunk.
+Ha hajlandóak vagyunk megfigyelni az egyéni vércukor reakciónkat, akkor a másokon tesztelt (vagy akár hasra ütés alapú) köznépi diétás javaslatok helyett egy ténylegesen személyre szabott étrendhez juthatunk.
 Természetesen ez mellett is észben kell majd tartanunk az összesített kalória bevitelünket és a makró tápanyagok arányát -- de hát ez nem is volt soha opcionális.
 Csak egy ránk optimalizált étrend mellett sokkal nagyobb lesz a mozgásterünk, és kisebb az ellenállás.
 És ugye ki akar szembe szélben hugyozni?
