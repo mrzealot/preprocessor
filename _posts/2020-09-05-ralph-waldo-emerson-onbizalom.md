@@ -4,6 +4,7 @@ title: Ralph Waldo Emerson - Önbizalom
 tags: [szemléletmód]
 pages: 52
 date: 2020-09-05 00:01
+youtube: oxE0dnGu4BA
 excerpt: >
     A héten a Henry David Thoreau által nagyra becsült Ralph Waldo Emerson esszéi közül szemezgettem.
     Több gyűjteményre való alapanyag áll rendelkezésre -- amikre a későbbiekben feltétlen érdemes lesz visszatérni -- de most csak a leghíresebb, "Önbizalom" (Self-reliance) címűt dolgozzuk fel.

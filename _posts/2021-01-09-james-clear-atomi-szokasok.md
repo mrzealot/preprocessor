@@ -5,6 +5,7 @@ cover: atomic
 tags: [produktivitás]
 pages: 319
 date: 2021-01-09 00:01
+youtube: aVBg2g415VQ
 excerpt: >
     Gondolom nem én vagyok az egyetlen, aki az új évet új szokásokkal szeretné indítani.
     Ez persze szólhat a már meglévők finomhangolásáról, vagy arról is, hogy végre belevágunk valami régóta tervezgetettbe.
