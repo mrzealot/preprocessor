@@ -5,6 +5,7 @@ cover: mindset
 tags: [szemléletmód]
 pages: 276
 date: 2021-01-16 00:01
+youtube: 8v8Iv6GhEVk
 excerpt: >
     Az éveleji önfejlesztés dömping következő állomásának egy régebbi kedvencemet kerestem elő.
     Ugyanis hiába kapunk az Atomi szokások által egy csomó technikai segédletet a fejlődéshez, ha egyszer *nem is hiszünk* a fejlődésben.

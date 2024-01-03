@@ -4,6 +4,7 @@ title: A új kezdetek gyakorításáról
 cover: newbeginnings
 tags: [szösszenet]
 date: 2022-01-08 00:01
+youtube: Ed2a90MvPaE
 excerpt: >
     A héten még nincs új tartalom.
     És ha abból a szemszögből nézzük, hogy "Nincs új a nap alatt", akkor igazából eddig sem volt.
