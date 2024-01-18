@@ -5,6 +5,7 @@ cover: selfmademan
 tags: [szemléletmód]
 pages: 100 # ??
 date: 2023-04-20 00:01
+youtube: hmtV1bouKg0
 excerpt: >
     Legutóbb szóba került Malcolm Gladwell "Kivételesei" kapcsán, hogy mennyire nem csak a saját erőfeszítésünk számít a siker elérésében.
     Erre az üzenetre szeretnék most tovább ráerősíteni Arnold Schwarzenegger igencsak témába vágó 2017-es Houston-i avatási beszédével -- aminek, mint kiderült, eddig nem volt egy rendes magyar változata.

@@ -4,6 +4,7 @@ title: Bagdy Emőke - Pszichofitness
 tags: [szemléletmód]
 pages: 128
 date: 2020-07-03 00:01
+youtube: MAadrCNXE_U
 excerpt: >
     A Frankl-ös pszichológiai kapcsolaton keresztül erre a hétre Bagdy Emőkétől terveztem becsempészni valamit.
     Pszichofitness című hangoskönyvét Pestre menet hallgattam még hónapokkal ezelőtt, és nagyon tetszett!
