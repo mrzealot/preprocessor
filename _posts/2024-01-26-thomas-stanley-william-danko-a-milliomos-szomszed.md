@@ -195,28 +195,30 @@ Gazdagság ≠ vagyon!
 
 ## <a name="4"></a>4. A szüleik jellemzően nem babusgatták őket
 
-Eoc - economic outpatient care
-Talan nem meglepo modon, minel tobbet adunk szuloken, annal rosszabbul fogunk allni, es a gyerek meg annal kevesebbet fog maga akkumulalni
-Arra neveljuk, hogy eltartjuk, ami nekunk egy luxus kiadas fajta (az onallo gyerekkel szemben), neki meg egy ingyen penz forras , ami miatt nem kell sporolni, hiszen minek
+Talán nem meglepő módon, minél többet adunk szülőként, mi magunk annál rosszabbul fogunk állni.
+Ami viszont meglepőbb lehet első pillantásra, hogy ilyenkor konkrétan a gyerek is annál kevesebbet fog akkumulálni.
+Arra neveljük ugyanis, hogy eltartjuk, ami nekünk egy luxus kiadás fajta (az önálló gyerekkel szemben), neki meg egy ingyen pénz forrás, ami miatt nem kell spórolnia -- hiszen minek?
 
-Nyilvan nem mondjuk, h ne segitsenek, de inkabb abban, hogy hogy valjanak a gyerekek is keresove, ne fogyasztova
+Nyilván nem mondjuk, hogy a szülők ne segítsenek!
+De inkább abban, hogy a gyerekek is sikeresen keresővé válhassanak, ne fogyasztóvá.
+Sokan segélyezik például a gyerekek oktatását, ami még relatíve oké.
+De sokan az életmódjukat is, ami már nem igazán oké, mert akkor nem hogy csak nem fognak a saját lehetőségeiken belül élni (hogy legyen miből félretenni), de konkrétan már a fenntartási szinthez is külső segítség kell majd.
+Ez pedig az anyagi függetlenség szöges ellentéte -- szó szerinti anyagi függőség.
 
-sokan segélyezik a gyerekek oktatását, ami még relatíve oké
-- de sokan az életmódjukat is, ami nem igazán oké, mert akkor nem hogy csak nem élnek a saját lehetőségeiken belül (hogy legyen miből félretenni), de konkrétan már a fenntartási szinthez is külső segítség kell, vagyis anyagi függőségben élnek
+Sőt, még a nem konkrétan pénzügyi, tárgyi ajándékok is könnyen vezethetnek extra költéshez.
+Mondjuk ha egy szebb szőnyeg mellé már szebb étkezőasztal kéne, stb.
+Plusz a gyerekek így nem tanulják meg a különbséget a saját és az adakozóik vagyona közt, és csak lehet várni, hogy mikor jön a következő alamizsna, és mire is lehetne elverni.
+A poén, hogy a saját szemükben ezek a gyerekek márpedig önállóan megkerestek és kiérdemeltek minden egyes fillért -- elvégre nem könnyű apuci pici fiának/lányának lenni!
 
-- még a nem konkrétan pénzügyi, tárgyi ajándékok is könnyen vezethetnek extra költéshez (pl. egy szebb szőnyeg mellé már szebb étkezőasztal kéne, stb.)
-- nem tanulják meg a különbséget a saját és az adakozóik vagyona közt (és csak lehet várni, hogy mikor jön a következő alamizsna, és mire is lehet elverni)
-    - a poén, hogy a saját szemükben ők márpedig önállóan megkerestek és kiérdemeltek minden egyes fillért - elvégre nem könnyű apuci pici fiának lenni!
+Aki segíteni akar a gyerekének, az inkább arra tanítsa meg, hogy hogyan legyen független.
+Persze, hogy kellemetlenebb lesz szerencsétlennek úgy belevágni az életbe!
+De pont ezért lesz rákényszerülve, hogy kitapossa magának a saját útját.
+Következetesen látszik, hogy fordított a korreláció a pénzügyi támogatás és az anyagi függetlenség között.
+Szóval hiába gondolná az ember, hogy segít, hosszú távon igazából pont hátráltat.
 
-- aki segíteni akar a gyerekének, az inkább arra tanítsa meg, hogy hogyan legyen független
-    - persze, hogy kellemetlenebb lesz szerencsétlennek úgy belevágni az életbe
-    - de pont ezért lesz rákényszerülve, hogy kitapossa magának a saját útját
-    - következetesen látszik, hogy fordított a korreláció a pénzügyi támogatás és az anyagi függetlenség között
-        - szóval hiába gondolná az ember, hogy segít, hosszú távon igazából pont hátráltat
-
-- a tetejébe nem csak anyagi, de mentális téren is
-    - azt akarják, hogy a gyereknek ne kelljen semmi miatt aggódni, de a felmérések tisztán mutatják, hogy a kitartottak sokkal több dolog miatt aggódnak
-    - egyszerűen mert több dologtól függenek -- mert nem kellett megtanulniuk kezelni ezeket a félelmeket
+A tetejébe nem csak anyagi, de mentális téren is fennáll ez az összefüggés.
+A szülők azt akarják, hogy a gyereknek ne kelljen semmi miatt aggódni, de a felmérések tisztán mutatják, hogy a kitartottak sokkal több dolog miatt aggódnak.
+Mert hát egyszerűen mert több dologtól függenek -- és mert nem kellett megtanulniuk kezelni ezeket a félelmeket.
 
 <br>
 
@@ -233,21 +235,21 @@ sokan segélyezik a gyerekek oktatását, ami még relatíve oké
 
 ## <a name="5"></a>5. Ők sem babusgatják agyon a saját felnőtt gyerekeiket
 
-- a felvilágosodott szülő szerepe erősíteni a gyengét
-    - nem gyengíteni a gyengét azáltal, hogy életképtelenre babusgatjuk
-- ne felejtsük el, hogy a milliomos szülőt mi juttatta abba a pozícióba: nagy valószínűséggel kemény munka, kockázatvállalás, bizonytalanságtűrés, spórolás
-    - ez a függetlenségük ára
-    - ha ettől "meg szeretnék kímélni" a gyerekeiket, azzal valószínűleg a függetlenségüket is feláldozzák
+A felvilágosodott szülő szerepe erősíteni a gyengét, nem pedig *gyengíteni* a gyengét azáltal, hogy életképtelenre babusgatjuk.
+Ne felejtsük el, hogy a milliomos szülőt mi juttatta abba a pozícióba: nagy valószínűséggel kemény munka, kockázatvállalás, bizonytalanságtűrés és spórolás.
+Ez a függetlenségük ára.
+Ha ettől "meg szeretnék kímélni" a gyerekeiket, azzal valószínűleg a függetlenségüket is feláldozzák.
 
-- a legjobb, amit tehetünk a gyerekeinkért, az kb. ugyanaz, amit a saját vagyonosodásunkért amúgy is tennünk kéne
-    - ne akarjunk gazdagnak látszódni (és ezzel a gyerekbe sem nevelünk a vagyon generálással inkompatibilis életszínvonal elvárásokat)
-    - neveljük őket önfegyelemre és takarékosságra (persze példamutatáson keresztül, ne pusztán szavakban)
-    - és lehetőleg csak akkor ébredjenek rá, hogy valójában milyen vagyonosak is vagyunk, mire már kellően "megértek" -- vagyis megtanulták a pénz értékét, és a potenciális örökség nélkül is képesek gondoskodni magukról
+A legjobb, amit tehetünk a gyerekeinkért, az kb. ugyanaz, amit a saját vagyonosodásunkért amúgy is tennünk kéne.
+Ne akarjunk gazdagnak látszódni, és ezzel a gyerekbe sem nevelünk a vagyon generálással inkompatibilis életszínvonal elvárásokat.
+Neveljük őket önfegyelemre és takarékosságra (persze példamutatáson keresztül, ne pusztán szavakban).
+És lehetőleg csak akkor ébredjenek rá, hogy valójában milyen vagyonosak is vagyunk, mire már kellően "megértek" -- vagyis megtanulták a pénz értékét, és a potenciális örökség nélkül is képesek gondoskodni magukról.
 
-- plusz pár "emberibb" tanács a témában
-    - ha adunk, akkor ne egy tárgyalási stratégia részeként vagy színlelt "egyenlően szeretlek titeket" indokkal adjunk, hanem mert adni akarunk
-    - ne szóljunk bele a gyerekek életébe -- és pláne ne használjuk a pénzünket, mint irányítási tényezőt, hogy minél jobban beleszólhassunk
-    - ne bízzuk rájuk a hagyaték szétosztását -- vonjunk be valami profi szakembert, így (talán) elkerülhetjük az összeveszést
+Pár extra, "emberibb" tanács a témában:
+
+- Ha adunk, akkor ne egy tárgyalási stratégia részeként vagy színlelt "egyenlően szeretlek titeket" indokkal adjunk, hanem mert adni akarunk;
+- Ne szóljunk bele a gyerekek életébe -- és pláne ne használjuk a pénzünket, mint irányítási tényezőt, hogy minél jobban beleszólhassunk; illetve
+- Ne bízzuk rájuk a hagyaték szétosztását -- vonjunk be valami profi szakembert, így (talán) elkerülhetjük az összeveszést.
 
 <br>
 
@@ -263,16 +265,16 @@ sokan segélyezik a gyerekek oktatását, ami még relatíve oké
 
 ## <a name="6"></a>6. Profin használják ki a piac nyújtotta lehetőségeket
 
-- a legegyszerűbben úgy lehet pénzhez jutni, ha az ember "követi a pénzt", vagyis olyanoknak nyújt termékeket és/vagy szolgáltatásokat, akik azt meg is tudják fizetni
-    - lásd Hormozi piacválasztása (az éhező tömeg)
-- például hagyatéki vagy adójog (mert a gazdagok arra szívesen fizetnek, ha azáltal végső soron az állam bácsinak kevesebbet kell kicsengetni)
-- vagy orvosi/fogászati ellátás (mert nem az egészségükön fognak spórolni)
-- meg persze az ingatlan, utazás, autók, magántanárok, stb.
+A legegyszerűbben úgy lehet pénzhez jutni, ha az ember "követi a pénzt", vagyis olyanoknak nyújt termékeket és/vagy szolgáltatásokat, akik azt meg is tudják fizetni.
+Lásd [Hormozi]({% post_url 2023-09-30-alex-hormozi-szazmillios-ajanlatok %}) piacválasztási szempontjai, és az "éhező tömeg".
 
+Szóval ha az ember sokat akar keresni, akkor legyen például hagyatéki- vagy adójogász, mert a gazdagok arra szívesen fizetnek, ha azáltal végső soron az állam bácsinak kevesebbet kell kicsengetni.
+Vagy specializálódjanak az orvosi/fogászati ellátás irányába, mert a gazdagok nem az egészségükön fognak spórolni.
+Meg hát ott vannak még az ingatlanok, az utazás, az autók, a magántanárok, stb.
 
-- persze egy szakma/iparág sem garantálja, hogy milliomos lesz az ember
-    - mert ugye mint láttuk, ez inkább azon múlik, hogy az ember mit kezd a bevételeivel
-    - de azért akadnak olyan karrierutak, ahol várhatóan több bevételre számíthatunk (és így az előző pontok annyival olajozottabban mennek majd)
+Persze egy szakma vagy iparág sem garantálja, hogy milliomos lesz az ember.
+Mert ugye mint láttuk, ez inkább azon múlik, hogy az ember mit kezd a bevételeivel.
+De azért na, akadnak olyan karrierutak, ahol várhatóan több bevételre számíthatunk (és így az előző pontok annyival olajozottabban mennek majd).
 
 <br>
 
@@ -286,3 +288,8 @@ sokan segélyezik a gyerekek oktatását, ami még relatíve oké
 
 
 ## Összefoglalás
+
+Remélem mindenki szemében sikerült kicsit oldani a Lambo-val villogó huszonévesek és a vagyon közti látszólagos összefüggést.
+Mert habár előre logikusnak tűnhet a pénzt a költéssel azonosítani, a költés épp csak azt garantálja, hogy mennyi pénz nincs már meg.
+Aki vagyont (és általa opciókat, függetlenséget, szabadságot) szeretne, az jó esetben még a takarójáig **se** nyújtózkodjon.
+Éljen "átlag szomszéd" színvonalon, tegye félre a különbözetet, és hamarosan pont azért lesz szép nagy a csorda, mert relatíve kicsi volt a kalap.
