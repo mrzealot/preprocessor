@@ -4,6 +4,7 @@ title: Christie Aschwanden - Good to Go
 tags: [táplálkozás, aktivitás]
 pages: 320
 date: 2020-04-17 15:00
+youtube: wrI4FrItV6s
 excerpt: >
     A helyes edzési és táplálkozási szokások után már csak a regenerálódás van hátra a "testünk karbantartása" rovatban.
     Erre a célra pedig Christie Aschwanden -- Good to Go (vagyis kb. "Menetkész") című könyve ideális -- és aktuális -- választás, amiben tudományos újságírói szemszögből, üdítő józansággal vizsgálhatjuk napjaink felépülés-mániáját.

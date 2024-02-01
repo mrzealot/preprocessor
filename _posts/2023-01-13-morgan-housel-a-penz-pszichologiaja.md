@@ -5,6 +5,7 @@ cover: psymoney
 tags: [pénzügyek]
 pages: 272
 date: 2023-01-13 00:01
+youtube: 4mFZZJ3MVe4
 excerpt: >
     A pénzt legtöbbször úgy kezeljük, mintha egy tisztán racionális terület lenne, hideg, érzelemmentes, fekete-fehér, matematikai döntésekkel.
     De ez csak egy része -- és sajnos ez a könnyebb része.
