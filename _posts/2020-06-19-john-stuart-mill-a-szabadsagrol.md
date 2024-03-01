@@ -4,6 +4,7 @@ title: John Stuart Mill - A szabadságról
 tags: [szemléletmód]
 pages: 187
 date: 2020-06-19 00:01
+youtube: -4Ote7FcIf8
 excerpt: >
     John Stuart Mill kb. mindenről írt a filozófiai problémák területén belül, és a tetejébe mindegyikhez értett is.
     Alapfilozófiája a haszonelvűség, vagyis hogy úgy kell élni és cselekedni, hogy az a legtöbb élőlénynek a legnagyobb boldogságot hozza.

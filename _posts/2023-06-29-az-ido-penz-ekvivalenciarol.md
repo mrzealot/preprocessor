@@ -4,6 +4,7 @@ title: Az idő-pénz ekvivalenciáról
 cover: timeismoney
 tags: [szösszenet]
 date: 2023-06-29 00:01
+youtube: jdphMPb3W4c
 excerpt: >
     ...avagy egy újabb modern mentális modell, ami akkor segít többet, ha megfordítjuk.
 ---

@@ -5,6 +5,7 @@ cover: mountain
 tags: [szemléletmód, kapcsolatok]
 pages: 384
 date: 2021-02-19 00:01
+youtube: JfrtkrDW0ZQ
 excerpt: >
     Olyan könyv legyen-e a héten, ami az élet értelmét keresi, vagy olyan, ami a párkapcsolatokat vizsgálja?
     Esetleg beszéljünk a személyes filozófia és a vallás szerepéről?
