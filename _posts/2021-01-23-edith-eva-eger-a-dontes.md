@@ -5,6 +5,7 @@ cover: choice
 tags: [szemléletmód]
 pages: 360
 date: 2021-01-23 00:01
+youtube: ujZy9LfuoUE
 excerpt: >
     Heti témánk félig visszaemlékezés, félig életvezetési tanácsadás, és egészen szerethető.
     Szerzője egy olyan pszichológus, aki az Auschwitz-i tapasztalatai alapján próbál másoknak is segíteni.

@@ -5,6 +5,7 @@ cover: breath
 tags: [aktivitás]
 pages: 336
 date: 2022-12-12 00:01
+youtube: gpDgoKTnTck
 excerpt: >
     Könyvesbolti kutakodás során akadtam először James Nestor - Lélegzet című könyvébe, ami kiváló kiegészítésnek tűnt a yoga/nyújtás/meditálás/alvás jellegű önkarbantartási technikák mellé.
     És habár több benne az anekdota mint a statisztika, Nestor még így is nagyon meggyőző képet fest arról, hogy a lélegzet tudatos irányítása a "hiányzó láncszem" az egészségünk karbantartásából...

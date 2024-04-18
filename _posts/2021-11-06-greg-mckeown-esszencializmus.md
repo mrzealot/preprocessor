@@ -5,6 +5,7 @@ cover: essentialism
 tags: [minimalizmus, produktivitás]
 pages: 270
 date: 2021-11-06 00:01
+youtube: aflUdb0sjms
 excerpt: >
     Teljes gőzzel zakatol a lakásfelújítás, de közben intézni kell az autó téliesítést, határidős hajtás van a munkahelyen, és persze a változatos ügyintézős tennivalók sem pipálják ki magukat.
     És ha mi távmunkában, gyerekek vagy gondozásra szoruló szülők *nélkül* is képesek vagyunk így elhavazni, akkor belegondolni sem merek, hogy másnál mi a helyzet.

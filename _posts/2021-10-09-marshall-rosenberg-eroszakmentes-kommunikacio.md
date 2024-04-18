@@ -5,6 +5,7 @@ cover: nvc
 tags: [kapcsolatok, stratégia]
 pages: 196
 date: 2021-10-09 00:01
+youtube: wz9Wuz0Gnzk
 excerpt: >
     A TED-es előadásmódok elemzésének egyik kulcsmeglátása, hogy a "tálalás" milyen fontos szerepet játszik a kommunikációban.
     Ennek fényében viszont nem tudtam nem továbbgondolni: ha ez a professzionális és üzleti(esebb) életben ennyire fontos, akkor a személyesebb emberi kapcsolatainkban egyszerűen létszükséglet lenne jobban beleásni magunkat.

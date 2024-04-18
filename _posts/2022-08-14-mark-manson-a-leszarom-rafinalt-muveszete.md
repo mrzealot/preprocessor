@@ -5,6 +5,7 @@ cover: notgivingafuck
 tags: [szemléletmód]
 pages: 208
 date: 2022-08-14 00:01
+youtube: MP--oRt3djg
 excerpt: >
     Mark Manson könyve régóta pihent már az olvasólistámon.
     Egy mocskos szájú, saját hibáin élcelődő, filozofikus gondolkodásmódot terjeszteni igyekvő fiatal srác osztja az észt -- mondjuk úgy, hogy nem volt nehéz azonosulnom vele.

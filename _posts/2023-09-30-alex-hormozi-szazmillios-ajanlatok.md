@@ -5,6 +5,7 @@ cover: hormozi_offers
 tags: [pénzügyek, stratégia]
 pages: 184
 date: 2023-09-30 00:01
+youtube: mNzFbLMq66M
 excerpt: >
     Habár ritkán ugrok a friss dolgokra (mert szeretem, ha előbb valami kiállja az idő próbáját), Alex Hormozi esetében most mégis megteszem.
     Egyrészt mert amúgy is aktuális magam egy kicsit vállalkozói téren is kiművelni.
