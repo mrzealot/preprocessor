@@ -6,7 +6,8 @@ tags: [szemléletmód, produktivitás]
 pages: 320
 date: 2024-03-08 00:01
 excerpt: >
-    TODO
+    Tiger Woods és Roger Federer szépen szemléltetik, hogy a hiper-korai lézer fókusszal és a kissé lemaradt, komótos kolbászolással is fel lehet érni a csúcsra.
+    És habár a specializáció nyilván elkerülhetetlen, ha az ember ki akar lógni valamiből, ezt a specializációt egyáltalán nem muszáj (sőt, általában nem érdemes) minél korábban kezdeni...
 ---
 
 
@@ -77,41 +78,39 @@ A tartalom a következőképp alakul:
 
 ## <a name="kultusz"></a>Az előnnyel indulás kultusza
 
-- Polgár lányok sztori Tiger Woods mellé, újabb korai túlspecializáció példa, és hogy az milyen eredményes lehet
-    - az a baj, hogy ebben van egy kimondatlan feltételezés: az életben minden olyan, mint a sakk vagy a golf
-    - csak a sajnos az élet kevés területén ennyire "kedves" a tanulási környezet
-        - vagyis nem ennyire következetesen és hasonlóan ismétlődnek a korábbi minták, nem annyira determinisztikus a "lépéseink" eredménye, és nem annyira pontos (vagy azonnali) a visszajelzés sem
-- ilyen undok (értsd, **nem** kedves, valós) környezetben is könnyű a tapasztalatot szaktudással azonosítani, csak itt nem fog olyan jól elsülni
-    - sőt, ha a sok befektetett munka miatt túlzott önbizalomra teszünk szert, még akár bajt is okozhat
+Csodálkoztam volna, ha a Polgár lányok sztorija kimarad Tiger Woods mellől, mint egy újabb tankönyvi példa a korai specializációra, és hogy az milyen eredményes lehet.
+És esetükben persze, így is volt.
+A baj annyi, hogy ebben van egy kimondatlan feltételezés: az életben minden olyan, mint a sakk vagy a golf.
+Háát -- nem.
+Sajnos az élet kevés területén ennyire "kedves" a tanulási környezet.
+Vagyis nem ennyire következetesen és hasonlóan ismétlődnek a korábbi minták, nem annyira determinisztikus a "lépéseink" eredménye, és nem annyira pontos (vagy azonnali) a visszajelzés sem.
+Ilyen "undok" (értsd, **nem** "kedves", valós) környezetben is könnyű a tapasztalatot szaktudással azonosítani, csak itt nem fog olyan jól elsülni.
+Sőt, ha a sok befektetett munka miatt túlzott önbizalomra teszünk szert, még akár bajt is okozhat.
 
-- további probléma, hogy ha egy terület "kedves", akkor azt a gépek idővel jobban fogják tudni, mint mi, mert az ilyen mintafelismerés féle tanulásban nem nagyon vagyunk egy polcon
-    - de ez nem azt jelenti, hogy az embernek nem marad szerepe -- csak azt, hogy az ember szerepe már nem az ilyen "gépies" aspektusokban nyilvánul majd meg, hanem a megfoghatatlanabb kreatív stratégiában
-    - és ott pedig nagyon nem fog ártani a szélesebb tudás
+További probléma, hogy ha egy terület "kedves", akkor azt a gépek idővel jobban fogják tudni, mint mi, mert az ilyen mintafelismerés-féle tanulásban nem nagyon vagyunk egy polcon.
+De ez nem azt jelenti, hogy az embernek nem marad szerepe -- csak azt, hogy az ember szerepe már nem az ilyen "gépies" aspektusokban nyilvánul majd meg, hanem a megfoghatatlanabb, kreatív stratégiában.
+És ott pedig nagyon nem fog ártani a szélesebb tudás!
 
-- chunking, mintafelismerés, a savant-ok is ez alapján működnek, nem bármire
-    - és a sakkmesterek is csak az ismerős táblaállásokat tudják hirtelen memorizálni (mert az nekik nem 28 bábu, hanem 4-5 ismerős góc), viszont ha random adatot kapnak, akkor csak néznek
+Ezekből következőleg tényleg van olyan, hogy a "túlspecializáció", és a minél korábbi kezdés csak kevés kedves területen lehet nyerő stratégia.
+Az élet-szagúbb, undok területeken ugyanez a hozzáállás katasztrófához is vezethet, mert az addigi tapasztalataink alapján levontunk egy adag következtetést, amik egy akár csak kicsit is megváltoztatott környezetben már lehet, hogy abszolút nem lesznek helytállóak.
+Mi viszont annyira rájuk tanultunk (mondhatni, túltanultunk), hogy állítólagos profiként még nehezebben alkalmazkodunk majd az új környezethez, mint egy újonc.
+Ezt a jelenséget (Erik Dane viselkedéskutató szóhasználatával) nevezhetjük "kognitív berögzülésnek".
 
->>  “There are so many layers of thinking,” he said. “We humans sort of suck at all of them individually, but we have some kind of very approximate idea about each of them and can combine them and be somewhat adaptive. That seems to be what the trick is.”
---  Computers struggled to win at StarCraft, Julian Togelius, an NYU professor who studies gaming AI, told me in 2017.
+Ami fontosabb lenne, az az adaptálódási képesség.
+Lásd Charles Darwin elmélete, miszerint ez hajtott minket az evolúció (eddigi) csúcsára.
+Ha ezt kompromittáljuk egy "undok" valós tanulási környezetben, azzal csak magunk alatt vágjuk a fát.
 
->> But the game’s strategic complexity provides a lesson: the bigger the picture, the more unique the potential human contribution. Our greatest strength is the exact opposite of narrow specialization. It is the ability to integrate broadly.
+A statisztikák azt mutatják, hogy az átlag tudósnak és az átlag embernek kb. ugyanolyan valószínűséggel van valami művészeti hajlású hobbija (ami jelentősen különbözik a szakmájától).
+De a kimagaslóan eredményes tudósoknak sokkal gyakrabban -- a Nobel díjazottaknak pedig még gyakrabban.
+Kívülről úgy tűnhet, hogy pazarolják az energiáikat mindenfelé, de közben pont ez a szélesebb tapasztalat adja nekik azt az előnyt, ami miatt kimagaslóak a területükön.
 
-- vagyis van olyan, hogy a túlspecializáció és a minél korábbi kezdés tényleg nyerő stratégia
-    - de csak a kedves területeken
-    - az élet-szagúbb, undok területeken ugyanez a hozzáállás katasztrófához is vezethet
-    - az eddigi tapasztalataink alapján levontunk egy adag következtetést, amik egy akár csak kicsit is megváltoztatott környezetben már lehet, hogy abszolút nem lesznek helytállóak
-        - mi viszont annyira rájuk tanultunk (túltanultunk), hogy állítólagos profiként is nehezebben alkalmazkodunk majd az új környezethez, mint egy újonc
-        >> Erik Dane, a Rice University professor who studies organizational behavior, calls this phenomenon “cognitive entrenchment.”
+<br>
 
-- lásd Charles Darwin, adaptálódási képesség, és hogy ez hajtott minket az evolúció (eddigi) csúcsára
-    - ha ezt kompromittáljuk egy "undok" valós tanulási környezetben, azzal csak magunk alatt vágjuk a fát
 
-- az átlag tudósnak és az átlag embernek kb. ugyanolyan valószínűséggel van valami művészeti hajlású hobbija (ami jelentősen különbözik a szakmájától)
-    - de a kimagaslóan eredményes tudósoknak sokkal gyakrabban -- a Nobel díjazottaknak pedig még gyakrabban
-    - kívülről úgy tűnhet, hogy pazarolják az energiáikat mindenfelé, de közben pont ez a szélesebb tapasztalat adja nekik azt az előnyt, ami miatt kimagaslóak a területükön
 
-- jó példa: Shannon, Boole logika + AT&T telefonos átvitel kombinálása, amiből kb. minden elektronikus kommunikáció kinőtt utána
-    - mindkét alkotóelem létezett már vagy évtizedek óta -- egyszerűen addig nem akadt más, aki mindkettővel ismeretségben lett volna annyira, hogy meglássa a kombinációjukban rejtőző lehetőséget
+
+
+
 
 
 ## <a name="undok"></a>Az undok világ kialakulása
@@ -135,9 +134,7 @@ A tartalom a következőképp alakul:
     - amikor azt próbálták tesztelni, hogy az egyetemisták mennyire tudják a szakjukon tanultakat egy másik szak problémáira általánosítani, kb. olyas szánalmas eredménnyel szerepeltem, mint az írástudatlan Kirgizisztáni farmerek az alapvető csoportosítós kérdéseknél
     - na erre vonatkozna az a közmondás is, hogy először gondolkodni tanuljunk meg, és majd csak aztán foglalkozzunk azzal, hogy miről is gondolkodjunk
 
-- egy jó praktikus gyakorlat: Fermi-problémák
-    - hány zongorahangoló lakok New York-ban?
-    - Calling Bullshit course for generic thinking tools and handling information overload
+
 
 
 ## <a name="kevesebb"></a>A kevesebb néha több
