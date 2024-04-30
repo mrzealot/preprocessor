@@ -5,6 +5,7 @@ cover: dune
 tags: [fikció]
 pages: 600
 date: 2021-08-14 00:01
+youtube: JCGon0GP0y4
 excerpt: >
     Ha már a múlt heti fikciózással megnyitottuk az utat a nem kimondottan ismeretterjesztő kötetek előtt, akkor most megragadnám az alkalmat egy újabb arcpirító hiányosságom pótlására.
     Mert habár Frank Herbert Dűnéje sokak szerint a legjobb (és mellesleg legnagyobb példányszámban elkelt) sci-fi a világon, valahogy eddig soha nem jutottam hozzá.
