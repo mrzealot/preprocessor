@@ -5,6 +5,7 @@ cover: bluezones
 tags: [táplálkozás, aktivitás, kapcsolatok]
 pages: 286
 date: 2021-05-01 00:01
+youtube: 9ZEAQ5H3j7A
 excerpt: >
     Egy dokumentumfilmben már korábban is hallottam a kék zónákról, és rögtön tudtam, hogy erről még olvasnom kell.
     Gianni Pes és Michel Poulain korábbi, demográfiai kutatómunkája egy Szardíniai területről szólt, ahol kiemelkedően magas a centenáriusok aránya.

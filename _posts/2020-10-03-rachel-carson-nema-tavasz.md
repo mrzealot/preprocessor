@@ -4,6 +4,7 @@ title: Rachel Carson - Néma Tavasz
 tags: [minimalizmus]
 pages: 378
 date: 2020-10-03 00:01
+youtube: _EBqMM3pzrg
 excerpt: >
     Bea Johnson környezetvédelmi vonalát folytatva a héten egy igazi "alapművel" foglalkozunk.
     Egy olyan könyvvel, amit az elmúlt közel 60 év igencsak igazolt -- bár a megjelenésekor mondhatni _vegyes_ fogadtatást kapott.

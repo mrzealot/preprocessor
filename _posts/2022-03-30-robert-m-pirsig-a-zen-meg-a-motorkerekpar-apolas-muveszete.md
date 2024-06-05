@@ -5,6 +5,7 @@ cover: zencycle
 tags: [szemléletmód]
 pages: 414
 date: 2022-03-30 00:01
+youtube: 598p-GwPGmk
 excerpt: >
     Ebbe a könyvbe gyakorlatilag teljesen vakon fogtam bele.
     Annyit tudtam, hogy "kult klasszikus", és hogy ezért előbb vagy utóbb majd úgyis fel "kell" dolgoznom, de kb. ennyi.

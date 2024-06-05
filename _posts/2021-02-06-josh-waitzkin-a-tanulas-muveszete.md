@@ -5,6 +5,7 @@ cover: waitzkin
 tags: [szemléletmód, produktivitás]
 pages: 265
 date: 2021-02-06 00:01
+youtube: 4xFoSNfLd0A
 excerpt: >
     Tegyük fel, hogy az eddigiekben kellően sikerült rátok sóznom az önfejlesztés gondolatát.
     Hogy olvasni és tanulni -- a közhiedelemmel ellentétben -- *jó* dolog.

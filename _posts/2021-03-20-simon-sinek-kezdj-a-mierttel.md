@@ -5,6 +5,7 @@ cover: sinek
 tags: [szemléletmód, stratégia]
 pages: 256
 date: 2021-03-20 00:01
+youtube: cv8zXK-q82g
 excerpt: >
     Bevallom, nem tudtam, mire számítsak Simon Sinek -- Kezdj a miérttel! című könyvétől.
     De már annyi "legjobb" és "kedvenc" listán találkoztam vele, hogy kíváncsiságból előre vettem.

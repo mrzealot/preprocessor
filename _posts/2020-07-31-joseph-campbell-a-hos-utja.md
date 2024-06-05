@@ -4,6 +4,7 @@ title: Joseph Campbell - A hős útja
 tags: [szemléletmód]
 pages: 240
 date: 2020-07-31 00:01
+youtube: yw8orVTwjLA
 excerpt: >
     A nyári "szabadságról" visszatérvén folytatjuk a szokásos olvasgatásunkat.
     Mai célpontunk (Steven Pressfield -- A művészet háborúja ajánlása alapján) Joseph Campbell életművének legjava.
