@@ -5,6 +5,7 @@ cover: algernon
 tags: [fikció]
 pages: 256
 date: 2021-08-29 00:01
+youtube: 7LMpCdXsHek
 excerpt: >
     A múlt heti mini-vakációs kimaradás után tovább haladunk a világirodalmi fikcióból összeállított "Ezt már rég illett volna elolvasnom!" listámon, és az ajánlások ezúttal sem vittek tévútra.
     Mai alanyunk Daniel Keyes -- Virágot Algernonnak című remekműve, amiről elöljáróban szerencsére szinte semmit nem tudtam, így teljes erővel tudott ütni a sztori.
