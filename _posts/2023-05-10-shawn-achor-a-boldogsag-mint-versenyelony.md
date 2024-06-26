@@ -5,6 +5,7 @@ cover: happinessadvantage
 tags: [szemléletmód, produktivitás]
 pages: 304
 date: 2023-05-10 00:01
+youtube: zl5fz7aKKSQ
 excerpt: >
     Ha keményen dolgozunk, akkor sikeresek leszünk, és **miután** sikeresek lettünk, boldogok is leszünk.
     Ez a jelenleg aktuális alapformula, amit a szülőktől, az iskolából, a munkahelyről, vagy csak úgy általánosságban a társadalomtól összeszedünk.

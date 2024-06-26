@@ -4,6 +4,7 @@ title: Matthew Walker - Miért alszunk?
 tags: [aktivitás]
 pages: 368
 date: 2020-10-24 00:01
+youtube: QQvf2weRTFw
 excerpt: >
     Ha egyetlen mondatban kellene összefoglalnom Christie Aschwanden regenerálódásról szóló könyvét, az valahogy így nézne ki: Gyakorlatilag az alvás az egyetlen említésre méltó "módszer", minden más a placebo szintjén mozog.
     Ezek után nem meglepő talán, hogy a párjának egy olyan könyvet választottam, ami kimondottan az alvásra koncentrál.
