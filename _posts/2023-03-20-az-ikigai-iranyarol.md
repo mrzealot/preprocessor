@@ -4,6 +4,7 @@ title: Az IKIGAI irányáról
 cover: ikigaidirection
 tags: [szösszenet]
 date: 2023-03-20 00:01
+youtube: 6LIia740rN8
 excerpt: >
     ...avagy miért érdemes az életünk értelmével kapcsolatban nem csak a céllal, hanem az odavezető úttal is foglalkozni.
 ---
