@@ -119,7 +119,57 @@
 
 ## Blokk-oldás
 
+- Halasztgatás < Motiváció < Fegyelem < Blokk-oldás
+    - ha el vagyunk akadva, és nem csinálunk semmit, akkor nem lesz semmi
+    - ha megpróbáljuk meggyőzni magunkat, hogy ez nekünk miért fontos (akár jobban, mint a levegővétel, lásd gurus példa), akkor majd lesz kedvünk, és csináljuk
+    - ha fegyelmezetten viselkedünk, és a nem akarás ellenére is megcsináljuk, akkor kedvünk épp nem lesz, de meg lesz csinálva
+    - ha pedig előbb megnéznénk, hogy miért vagyunk elakadva, akkor a gyökér ok megszüntetésével a halasztgatást és a motiváció/fegyelem szükségességét is megkerülhetnénk
+- példa: kavics a cipőben futás előtt
+    - ha emiatt elhalasztjuk a futást, akkor nem futunk
+    - ha telepumpáljuk magunkat motivációval, hogy a futás még a fájdalom ellenére is mennyire megéri, akkor lesz lelkesedés, lesz futás, de fájás is lesz bőven
+    - ha fegyelmezettek vagyunk, akkor leszarjuk a lelkesedést, megcsináljuk a futást, és közben szétdaráljuk a lábunkat
+    - a blokk-oldás esetében pedig elgondolkozunk rajta, miért is fájna a futás - aztán kivesszük a kavicsot a cipőnkből, és mehetünk fájdalommentesen futni
+
+- na ez jön most
+    - a játék/irányítás/emberek energizátorai arra jók, hogy hajtsanak
+    - a blokk-oldók meg arra, hogy eltüntessék az akadályokat az útból
+
+
 #### Láss tisztán!
+
+- ha nem tudjuk PONTOSAN, hogy mit kellene csinálni, akkor sokkal kisebb az esélye, hogy nekifogunk
+    - túlbecsüljük, mennyire rosszul sülhet el; minden apró negatívumra rá-zoom-olunk; a megnyugtató, pozitív jelekre már nem marad figyelmünk; és inkább elhalasztjuk a döntést, így nem is változik semmi
+- bizonytalanságtűrés metrika - van, aki alapból jobban bírja
+    - de ettől bárki csökkentheti a bizonytalanságot, hogy kisebb tűrésérték mellett is produktív lehessen
+    - a megoldás: kérdéseket teszünk fel magunknak
+
+1. Miért?
+    - nem kell tudni, hogy pontosan milyen lépések várnak ránk; azt kell tudni, hogy miért akarunk egyáltalán belefogni
+    - a parancsnoki szándék: katonai stratégia, miszerint nem azt mondják meg, hogy mit csináljuk, hanem hogy mi a cél, és a megvalósítás ránk van bízva
+        - kb. goalsetting
+    - ennek a továbbfejlesztése az "5-szörös miért", ahol egyre hátrébb lépkedünk az ok-okozati láncon
+        - ezzel kivédhetjük a rövidtávú, szűklátókörű dolgokat, ha NEM a fő célunkig jutunk vissza a "de miért?" többszöri kérdezgetésével
+        - ha viszont oda, akkor valószínűleg jó úton járunk
+
+2. Mit?
+    - hosszú táv lebontása konkrét rövidtávra
+    - output helyett input célok legyenek
+        - a hosszú táv lehet output, de azt vezessük vissza, hogy "milyen cselekedetek és szokások vezetnek arrafelé"
+        - és aztán az legyen a mit, hogy az ilyen dolgokat csináljuk (mert ezt tényleg mi irányítjuk)
+    - pre-mortem: előre gondoljuk bele, hogy mi köphet a levesbe, és hogy ezt hogy kerülhetnénk el
+        - képzeljük, hogy egy hét múlva van, és mégsem fogtunk bele
+        - miért? és mit tehetnénk, hogy ezt a legvalószínűbb potenciális buktatót kivédjük? ki segíthet?
+
+3. Mikor?
+    - ha nem tudjuk, hogy valamit mikor kéne csinálni, akkor az nagy eséllyel nem lesz megcsinálva
+    - implementációs szándék - ha..akkor triggerek, lásd James Clear
+    - idő blokkolás - használjuk a naptárat mint egy idő-büdzsét
+        - így sokkal könnyebben tudunk egy kívánt egyensúlyt kialakítani minden olyasmi között, ami szeretnénk, ha beleférne az életünkbe
+        - aztán ez persze egy ideál lesz, amit lehet, hogy soha nem tudunk majd pontosan, 100%-osan lekövetni
+        - de már az nagy segítség, ha egyáltalán van mire aspirálni!
+
+
+
 #### Meríts bátorságot!
 #### Vágj bele!
 
