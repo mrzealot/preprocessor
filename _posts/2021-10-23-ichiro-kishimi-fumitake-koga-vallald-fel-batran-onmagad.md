@@ -5,6 +5,7 @@ cover: disliked
 tags: [szemléletmód, kapcsolatok]
 pages: 276
 date: 2021-10-23 00:01
+youtube: -3xYeoc8bhc
 excerpt: >
     Mivel Kishimi és Koga könyve az önfejlesztéssel kapcsolatos, és mellesleg jelentős népszerűségnek örvend, így természetesen rajta volt már egy ideje az olvasólistámon.
     A tetejébe ahányszor csak azon kaptam magam, hogy valaki más véleményén aggodalmaskodok, mindig előrébb is került pár pozícióval.

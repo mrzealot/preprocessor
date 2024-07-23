@@ -5,6 +5,7 @@ cover: water
 tags: [szemléletmód]
 pages: 144
 date: 2021-06-05 00:01
+youtube: 9p5ovoEBqxs
 excerpt: >
     Bevallom, ez most nagyot ütött rajtam.
     Marcus Aurelius óta semmi nem volt rám olyan mély és azonnali hatással, mint David Foster Wallace -- Ez a víz (eredetileg "This Is Water") című beszéde, amit a Kenyon College 2005-ös évfolyamának diplomaosztóján mondott.

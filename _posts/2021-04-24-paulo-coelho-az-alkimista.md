@@ -5,6 +5,7 @@ cover: coelho
 tags: [fikció]
 pages: 176
 date: 2021-04-24 00:01
+youtube: igGZWsYllik
 excerpt: >
     Az alkimista egy rövid, tömör tanmese, ami az első félévben kemény 2, azaz **kettő** darab elkelt példánytól egészen a 80 nyelvre lefordításig és a nemzetközi best-seller státuszig jutott.
     És habár ez önmagában még nem garancia a minőségre, azért bevallom, kíváncsi voltam, milyen könyv képes ekkora kultuszt építeni maga köré.
