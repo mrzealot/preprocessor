@@ -20,6 +20,18 @@
 - fejezetenként 3 tipp és 6 experiment
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Energizálás
 
 #### Játék
@@ -117,6 +129,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Blokk-oldás
 
 - Halasztgatás < Motiváció < Fegyelem < Blokk-oldás
@@ -171,7 +194,85 @@
 
 
 #### Meríts bátorságot!
+
+- egy másik blokkoló a félelem
+    - az amigdala küldi a jeleket - ami jó, mert így nem lépünk ki az autók elé... de az már kevésbé jó, hogy valójában veszélytelen helyzeteket is veszélyesnek címkéz
+    - amire megint megoldás lehet a bátorság (leszarom, félve is csinálom)
+    - de azért nem árthat megpróbálni megérteni a félelmeinket - hátha úgy könnyebb lesz szembenézni velük
+
+1. A félelmünk megértése
+    A) öntsük szavakba, hogy pontosan mitől félünk
+        - ez persze nem szünteti meg a félelmet, de segít észrevenni, ha az amigdalánk épp aránytalanul, indokolatlanul túlműködik
+        - segíthet, ha harmadik személybe helyezzük, és kb. személytelenítjük - egy az én helyzetemben lévő személy mitől félne?
+    B) vizsáljuk felül, milyen címkéket aggatunk magunkra
+        - lehet azért nem fogunk bele valamibe, mert ütközik a magunkról alkotott képünkkel
+        - de semmiből nem tart máshogy címkézni magunkat - ami, érdekes és kb. önbeteljesítő jóslat jelleggel, a viselkedésünket is befolyásolhatja
+
+2. Csökkentsük a félelmünk hatását
+    A) Ne katasztrofizáljunk
+        - használjuk a 10/10/10 szabályt: ha tényleg rosszul sül el, amitől félünk, az számít-e majd 10 perc/hét/év múlva?
+        - ez segít majd a helyén kezelni a potenciális súlyát, és sokmindenbe sokkal bátrabban belefogni (mert az se katasztrófa, ha nem jön be)
+    B) Kérdőjelezzük meg az önbizalom szükségességét
+        - persze, hogy jobb lenne magabiztosan csinálni - de anélkül nem lehet?
+        - nem lehet, hogy mondjuk most csak megpróbálom, tét nélkül, és majd (jó sok) idővel leszek benne profi? na ugye.
+
+3. Kerekedjünk felül a félelmeinken
+    A) Vegyük észre, hogy nincs rajtunk a reflektorfény
+        - mások sokkal inkább szarnak ránk, mint gondolnánk... sooookkal.
+        - önmagunk felvállalásánál először mindenki attól tart, hogy jajj, mit fognak gondolni - és aztán relatíve gyorsan rájövünk, hogy leginkább semmit. észre se vesznek. nem kavarunk mi akkora hullámokat, hogy az regisztrálódjon mások elfoglalt hétköznapjai közepette.
+        - szóval nyugi, nincs rajtunk reflektorfény
+        - vagy ha mégis, konkrétan tényleg igen, akkor:
+    B) Használjunk alterego-t
+        - ha mi nem merünk valamit csinálni, akkor képzeljünk el egy karaktert, aki merné
+        - és aztán játsszuk el azt a karaktert
+        - Batman-hatás - gyerekekkel kísérlet, hogy ha Batman-nek vagy Dora-nak képzelték magukat, akkor sokkal fegyelmezettebben és tovább koncentráltak egy adott feladatra
+        - Beyoncé - Sasha Fierce, vagy Adele -> Sasha Carter
+
+
 #### Vágj bele!
+
+- Newton első törvénye a tehetetlenségről, ami nem csak a testek mozgására, hanem a produktivitásra is nagyon érvényes
+    - ha nem csinálunk semmit, akkor könnyű továbbra is nem csinálni semmit
+    - ha meg már bennevagyunk valamiben, akkor könnyű tovább haladni vele
+    - ami sok energiát igényel, az az állapotváltás - a harmadik blokkoló tehát a tehetetlenség
+
+1. Csökkentsük a súrlódást, hogy könnyű legyen belefogni - lásd Atomi szokások
+    A) Alakítsuk olyanra a környezetünket, hogy amit szeretnénk, az csak karnyújtásnyira legyen (és amit meg NEM szeretnénk, az pont hogy kényelmetlenül távol) --> környezet dizájn!
+    B) Lendüljünk át a belekezdés nehézségén az 5 perces szabállyal (lásd DeLonzor)
+        - könnyebb lesz belekezdeni, mert nem akkora elköteleződésnek éljük meg
+        - ha már belekezdtünk, nagy valószínűséggel tovább fogjuk csinálni
+        - de ha tényleg nem akaródzik, akkor meg 5 perc és ráhagyjuk... akkor is haladtunk 5 percet, ami pont 5 perccel több, mint a nulla!
+
+2. Csináljuk!
+    >> A semmittevés legjobb ellenszere, ha csinálunk valamit.
+    A) Mindig legyen egy jól meghatározott következő cselekedet, amivel haladhatunk
+        - kicsit "láss tisztán" ismétlés, de jah
+        - ha már egyszer rávettük magunkat, hogy végre nekifogjunk, akkor nehogy az legyen már a gond, hogy "de minek is fogjunk neki?"
+    B) Kövessük a haladást
+        - írásnál hány oldal, tanulásnál hány fejezetet néztünk már át, edzésnél idő vagy ismétlésszám a gyakorlathoz, akármi
+        - de jól válasszuk meg, mit mérünk, mert azt érjük el (lásd McNamara)
+
+3. Támogassuk magunkat
+    A) Keressünk egy elszámoltatási társat vagy csoportot
+        - a társaság energizáló erejéről ugye már beszéltünk, de ez tovább megy: kihasználja, hogy alapvetően szociális lények vagyunk, és a kötelességtudatunk mélyre nyúlik
+        - ha csak mi magunk vagyunk érintettek valamiben, azt nagyon könnyű lemondani egy hirtelen motiváció ingadozás ürügyén
+        - ha viszont valaki mást is belerángattunk (vagy valakinek már fizettünk érte, stb.) akkor a kötelességtudat sokkal nagyobb valószínűséggel átsegít majd a gödrökönq
+    B) Bocsássuk meg magunknak a tökéletlenségünket
+        - az általában nem baj, ha egy kis halasztgatás becsúszik
+        - a nagyobb baj az, ha emiatt haragszunk magunkra, ostorozzuk magunkat, stb., mert abból csak még több halasztgatás lesz
+        - pont mint a szorongásnál: a szorongás önmagában nem baj, amíg a szorongásunkon nem kezdünk szorongani
+        - a spirál maradjon ki, és akkor nagyságrendileg már jók vagyunk
+        - egy tipp: ünnepeljük az apró győzelmeket az apró vereségekkel szemben
+        - ugyanaz történt, de más sztorit szövünk köré, ami miatt talán a következőkben már produktívabbak leszünk
+
+
+
+
+
+
+
+
+
 
 
 
@@ -181,6 +282,116 @@
 
 ## Fenntartás
 
+- az eddigiek már kb. megalapozzák a produktivitást
+    - de még van egy (vagyis, három) hiányzó láncszem, amitől **fenntartható** lesz ez a produktivitás
+- a burnout-ot nem csak 18 órás napok, vagy másod/harmadállások anyagi kényszere okozhatják
+    - az a lényeg, hogy mi hogy éljük meg, amit csinálunk
+- lehet túlvállalás, lehet nem megfelelő mértékű pihenés/töltődés, és lehet inkompatibilitás (amikor már nem azt csináljuk, amit igazán szeretnénk)
+    - erre a háromra keresünk megoldásokat:
+
 #### Tartalékolás
+
+- LeBron James példa, aki hihetetlenül gyorsan tud sprintelni, mégis a legtöbbször csak sétál a pályán
+    - ezért bírta huszon-évig, évi 70 meccsel, míg az átlag évi 50 meccses tempóval is kiég kb. 5 év alatt
+    - nem mindig rohan, de amikor igen, akkor nagyon
+
+1. Csináljunk kevesebbet
+    A) Energia befektetési portfólió
+        - lehet egy hosszú lista arról, hogy mi mindent szeretnénk "majd egyszer" csinálni, de az egy külön lista legyen, hogy MOST éppen mibe megy az energiánk
+        - és az aktív lista max 4-5 elemű legyen (gyerekes és/vagy karrier fókuszú esetekben pedig még kevesebb... akár csak 1)
+    B) És aztán minden másra mondjunk bátran, határozottan nemet az aktív listánkon kívül
+        - Derek Sivers-féle "Hell yeah, or no."
+        - gondoljunk az "opportunity cost-ra", vagyis hogy ezáltal mit nem csináljunk majd, ha ezt igen - és az nem lenne jobb?
+        - időmenedzsment szempontból pedig ne verjük át magunkat, hogy X hét múlva majd biztos belefér, ezért rámondhatom
+            - ha holnap nem férne bele, akkor 6 hét múlva sem, mert akkor is ugyanilyen lesz az életünk szerkezete
+
+2. Álljunk ellen a figyelemeltereléseknek
+    A) addjunk szándékos súrlódást/nehézséget az olyan technológiákhoz, amik nem minket szolgálnak
+        - ezek is kontextusváltások, ezek is égetik a kognitív energiát, csak nem épp "hasznos" (vagy legalábbis, a céljainkkal kongruens) módon
+        - lásd Digitális Minimalizmus
+    B) ha már "megbotlottunk", ne legyen "úgyis mindegy"
+        - "failing with abandon" -- Nate Soares
+        - egy kis figyelem ingadozás nem a világ vége - sőt, kis mennyiségben akár felfrissítő, begyöpösödésből kirángató hatása is lehet
+        - de ne legyünk úgy vele, hogy ha már nem tökéletes a produktivitásunk, akkor egye fene, menjen rá arra az öt perc telefon nyomkodásra még három óra
+        - Abdaal hasonlatával: ha az időjárás miatt pár fokkal állítani kell a repülőgép pályáját, és emiatt kicsit később érünk New York-ba, az nem baj. De ha az időjárás miatt már nem is New York-ba repülünk, hanem Buenos Aires-be, az már baj.
+
+3. Tartsunk több szünetet - többet, mint gondolnánk, hogy kellene
+    A) ütemezzük be őket! legyenek ezek is büszkén részei a napunknak: az időszakok, ahol nem csinálunk semmit
+        - a self-regulation egy (nagyon) véges erőforrás, és ha lemerítjük, akkor hiába tart ott az asztalunknál a jószándék
+        >> Breaks aren't a special treat. They're an absolute necessity.
+    B) és legyenek ütemezetlenek is - engedjünk az "energizáló figyelemeltereléseknek"
+        - nem minden figyelemelterelés rossz
+        - még a kolostorokban is véletlenszerűen megszólal néha a meditációs harang (nem csak a meditáció kezdetekor), hogy kizökkentse a szerzeteseket
+            - hogy hirtelen tisztába kerüljenek vele, hol is vannak, mit is csinálnak, és jelen lehessenek
+        - na ha ez nekünk egy gyors beszélgetés egy baráttal/kollégával, az is működhet így
+
+
 #### Töltődés
+
+- oké, a töltődés fontos
+    - de amikor töltődünk, akkor sem töltődünk
+    - lásd doomscrolling, binge watching, takeout... ahelyett, hogy mondjuk a hobbinkkal foglalkoznánk, mozognánk, szocializálódnánk
+    - az, hogy mi tölt minket, és az, hogy mit vagyunk hajlamosak csinálni, amikor töltődésre vágyunk, az két eléggé különböző lista 
+
+1. Kreatív töltődés
+    A) CALM (competence, autonomy, liberty, mellow) hobbik (amikből szándékosan kihagyjuk a teljesítménykényszert)
+    B) de CALM projektek is lehetnek, ahol van végcél
+    
+2. Természetes töltődés
+    - a kórházi betegek kimutathatóan gyorsabban gyógyultak, ha a természetre nézett az ablakuk
+        - vagy akár csak egy természetet ábrázoló poszter volt az ablak helyén!
+    - regenerálódás, stresszoldás, kognitív felfrissülés, energizálódás --> használjuk
+    A) jöjjön a természet hozzánk: ugye nem is muszáj élő, csak audiovizuálisan stimuláló természet hatás
+        - szoba design, növények, kert, természet hangok, stb.
+    B) menjünk mi a természethez: sétáljunk!
+        - lehetőleg a természetben
+    
+3. Agyatlan töltődés
+    - amikor nem tudatosan csinálunk valamit
+        - de a semmittevésnek is megvan a módja
+    A) hagyjuk magunkat "álmodozni"
+        - hadd járjon az agyunk, amivel így esélyt adunk a tudatalattinknak, hogy felböfögjön egy-egy váratlan meglátást (ami időnként nagyon is hasznos lehet)
+            - de ha nem, akkor is töltődött a tudatos figyelem-irányítási kvótánk, hogy egy kicsit hagytuk kalandozni
+    B) és hagyjuk magunkat néha direkt "kisiklani"
+        - legyen jogunk sztrájkolni, beteget jelenteni, és kihagyni, amit tudjuk, hogy csinálni kéne
+        - nem kell perfekt teljesítmény, és a tökéletesre törekvés többet árt, mint használ
+            - csináljunk ma szándékosan kevesebbet, hogy holnap többet tudjunk/akarjunk majd
+
+
+
 #### Újratervezés
+
+- extrinsic/intrinsic motivation helyett kicsit részletesebb spektrum
+    - external (csak külső megtérülés miatt) < introjected (belül érzem, rossz lenne, ha nem tenném) < identified (értékesnem tartom, ami felé törekszek) < intrinsic (önmagában is jó)
+    - és ha fogyóban az intrinsic, akkor számít, hogy milyen jellegű extrinsic-re támaszkodhatunk
+- és habár nyilván nem realisztikus, hogy minden intrinsic legyen, a maradéknak is leginkább identifiednek kéne lennie
+    - vagyis csináljunk olyasmit, amit tudunk a hosszú távú víziónkhoz kapcsolni
+        - és/vagy amit csinálunk, abban találjuk meg, hogy hogyan tudjuk a hosszú távú víziónkhoz kapcsolni
+    - így lesznek az erőfeszítéseink szinkronban az értékeinkkel, és élhetünk majd autentikus életet
+
+1. Hosszútávú tervezés
+    >> When we think about death, we get a clearer view of life.
+    A) A gyászbeszéd módszer - képzeljük el, mit szeretnénk hallani az életünk összegzésekor a temetésünkön, és vezessük azt vissza, hogy ahhoz most hogyan kéne élnünk
+        - és ha ez nem stimmel a jelenlegi röppályánkkal, akkor merjünk változtatni
+    B) Az Odüsszeia terv - előrevetítés, ami tudatosítja velünk a várható következményeket
+        - mi lenne 5 év múlva, ha minden úgy halad, mint most? jó az úgy?
+        - mi lenne egy alternatív életúton 5 év múlva, ha most váltanánk? az jobb?
+        - mi lenne a radikálisan más életúton 5 év múlva? az mégjobb?
+
+2. Középtávú tervezés - rendszeres emlékeztetők az értékeinkre, és hogy azokat hogy építsük az életünkbe!
+    A) Kategorikus elégedettség felmérés
+        - 3 kategória: egészség (fizikai, mentális, spirituális), karrier (misszió, pénz, növekedés), kapcsolatok (család, románc, barátok)
+        - és ezeken belül hogy mi mennyire frankó
+        - az eredmény segít majd megmutatni, hogy hova kellene több fókusz
+    B) optimista pre-mortem - írjuk le, milyen eredményeket szeretnénk mához egy évre ünnepelni
+        - és aztán vezessük vissza, hogy ahhoz milyen szokásokat kéne beépíteni a mindennapokba
+    
+3. Rövidtávú tervezés - az értékeink mindennapi megélése
+    A) Falatokra bontás - minél kisebb falatokra szeleteljük az elefántot, annál könnyebb lesz megenni
+        - Health/Wealth/Relationships egy jó bontás pl, mint a körön
+    B) Merjünk kísérletezni
+        - válasszunk mindig egy-egy olyan területet, ahol nem vagyunk elégedettek az életünkkel
+        - fogalmazzunk meg egy kísérletet (ha naponta elmegyek sétálni, jobb lesz a hangulatom)
+        - és aztán ... próbáljuk ki, és nézzük meg, hogy mi lesz!
+        - vállaljuk a felelősséget a saját életünk kikísérletezéséért, mert nagy a potenciális jutalom
+            - de (Bagdy Emőke szavaival) a számla is nekünk lesz benyújtva, ha nem tesszük
