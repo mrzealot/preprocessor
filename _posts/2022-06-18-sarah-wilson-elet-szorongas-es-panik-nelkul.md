@@ -5,6 +5,7 @@ cover: beastbeautiful
 tags: [szemléletmód]
 pages: 332
 date: 2022-06-18 00:01
+youtube: GVtYTngKcGo
 excerpt: >
     Témánk a szorongás, kiszemelt kalauzunk pedig Sarah Wilson újságíró, aki emellett egy produktív, magasan funkcionáló idegbeteg -- és ez utóbbit abszolút elismeréssel mondom.
     Könyvében nem egy pszichológus szakvéleményét kapjuk, sem egy önjelölt guru étrendjét és edzéstervét.

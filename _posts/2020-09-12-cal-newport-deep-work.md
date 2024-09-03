@@ -4,6 +4,7 @@ title: Cal Newport - Deep Work
 tags: [produktivitás]
 pages: 296
 date: 2020-09-12 00:01
+youtube: kptGWYJncdY
 excerpt: >
     Habár Cal Newport Digitális Minimalizmusa egy relatíve szűk és specifikus témát fedett le, mégis kimondottan tetszett, mert annyira érthetően és meggyőzően érvelt.
     Talán nem meglepő ezért, ha ehhez egy másik Cal Newport művet választottam párnak a hétre.

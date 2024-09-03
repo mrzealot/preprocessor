@@ -5,6 +5,7 @@ cover: millionairenextdoor
 tags: [pénzügyek, minimalizmus]
 pages: 286
 date: 2024-01-29 00:01
+youtube: NvSW4-XPLWY
 excerpt: >
     Nagyon nagy a különbség a gazdagság és a vagyon között -- amit intellektuálisan ugyan könnyű megérteni, de zsigerileg nagyon nehéz átérezni.
     Ebben segíthet "A milliomos szomszéd" című könyv, ami sok évnyi szociológiai kutatásra és statisztikai elemzésre alapozva megfesti nekünk egy átlag milliomos portréját.

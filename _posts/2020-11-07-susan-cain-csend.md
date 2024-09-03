@@ -4,6 +4,7 @@ title: Susan Cain - Csend
 tags: [kapcsolatok]
 pages: 333
 date: 2020-11-07 00:01
+youtube: vL7stA_ZZ8g
 excerpt: >
     Ha a párkapcsolatok témakörét újra általános emberi kapcsolatokká szélesítjük (mint ahogy tettük azt Dale Carnegie könyvével a szeretetnyelvek után), akkor szerintem következőként érdemes lenne az introvertáltság és extrovertáltság közti különbségeket kitárgyalni.
     Ehhez pedig nem is kérhetnénk jobb áttekintést, mint amit Susan Cain -- Csend című könyve nyújt.

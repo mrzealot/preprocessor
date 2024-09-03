@@ -4,6 +4,7 @@ title: Thich Nhat Hanh - A tudatosság csodája
 tags: [szemléletmód]
 pages: 140
 date: 2020-11-14 00:01
+youtube: zgkpDCurxAE
 excerpt: >
     John Yates tudományos és kissé talán hideg megközelítése után úgy gondoltam, nem árthat egy fokkal *melegebb* nézőponttal kiegészíteni a meditáció körbejárását.
     A netes ajánlások alapján erre Thich Nhat Hanh a legalkalmasabb.

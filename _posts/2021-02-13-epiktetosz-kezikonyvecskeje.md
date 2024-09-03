@@ -5,6 +5,7 @@ cover: epictetus
 tags: [szemléletmód]
 pages: 20
 date: 2021-02-13 00:01
+youtube: u6c4RhyRdpY
 excerpt: >
     Az eredetiben fennmaradt sztoikus szövegek "nagy hármasából" kettőt már tárgyaltunk Marcus Aurelius Elmélkedései és Seneca Erkölcsi levelei formájában.
     Itt hát az ideje, hogy zárjuk a *trilógiát* Epiktétosz kézikönyvecskéjével, ami egy nagyon tömör és hatásos összefoglalója az irányzat főbb tanításainak.
