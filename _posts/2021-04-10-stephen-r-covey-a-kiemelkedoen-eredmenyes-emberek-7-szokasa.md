@@ -5,6 +5,7 @@ cover: covey
 tags: [szemléletmód, produktivitás]
 pages: 378
 date: 2021-04-10 00:01
+youtube: uhEznEpOLyU
 excerpt: >
     Bevallom, Stephen Covey könyvével kapcsolatban elég megosztott véleményekkel találkoztam.
     Egyrészről sokan az eleve unszimpatikus "sikerkönyv" kategória egy ódivatú tagjának tartják; mások szerint viszont ha hajlandóak vagyunk a külsőségek mögé tekinteni, számos időtlen igazsággal találkozhatunk.
