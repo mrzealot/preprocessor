@@ -4,6 +4,7 @@ title: J. D. Salinger - Zabhegyező
 tags: [fikció]
 pages: 210
 date: 2020-11-28 00:01
+youtube: uRHSOlFyb6g
 excerpt: >
     Épp csak kettőt pislogtam, és már a második kör végéhez is értünk: az első 21 olvasmány közül csak az 1984-nek hiányzik a párja.
     Ezt a bizonyos párt viszont a disztópikus jövőkép helyett próbáltam egy kicsit általánosabban, a "klasszikus fikció" vonalon megkeresni.
