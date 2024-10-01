@@ -90,9 +90,117 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 - és akkor most jöhetnek a párbeszédek
 
-1. 
-2.
-3.
+1. Felismerés - azaz "Van szexuális életünk"
+
+- furcsának hangozhat, de az első lépés sokszor az, hogy egyáltalán fel- (és el-)ismerjük, **van** szexuális életünk.
+    - mert hát habár van, erről gyakran még a párunkkal sem beszélünk
+    - ez egy nagyon kicsi lépés - de a hiánya egy nagyon nagy hátralépés
+    - szinte elvárjuk, hogy csak úgy magától működjön - és ha nem ezt teszi, akkor "nincs mit tenni", mert hát szóba jó keresztény nem hoz ilyen tabu dolgokat
+
+- ha komoly beszélgetést kezdeményeznénk, először is emlékeztessük magunkat (és a párunkat), hogy jé, nekünk volt már azért ilyen tapasztalatunk
+    - ez remélhetőleg oldja a légkört
+
+- ha vannak szavak, amik már önmagukban riasztanak, próbáljuk többször hangosan kimondani őket
+    - előbb magunkban, aztán a párunk előtt is
+    - persze nem kötelező semmi olyan szlenget használni, amitől a szőr feláll a hátunkon - de amit szeretnénk (és kéne tudni) használni, attól ne féljünk
+
+- dícsérjük a partnerünket
+    - ami neki is jó, nyilván
+    - de nekünk is, mert tudatosítja bennünk, hogy mit szeretünk/értékelünk benne
+    - és persze ez tovább oldja a hangulatot
+
+- ezen a ponton még semmiképp ne próbáljunk problémákat megoldani
+    - pláne ne manipulálni, hogy a dícséretek is hátsó szándék által vezéreltnek tűnjenek
+    - egyelőre az a cél, hogy feszengés nélkül képesek legyünk beszélni a másikkal szexuális témában is
+
+- és ennek fényében a témák, amiket ilyen érdemes kitárgyalni
+    - mi a hozzám fűződő legkellemesebb szexuális emléked (és miért)?
+    - mire tanítottak a szexszel kapcsolatban? és ahelyett mire kellett volna?
+    - neked milyen a csodás szex? mi benne a kedvenced?
+    - mit jelent számodra az intimitás?
+
+- ha netán tényleges szexre kerülne a sor, tartsunk UTÁNA némi elemzést
+    - ott egyből nem lesz olyan kínos felhozni (mert már eleve napirenden van)
+    - fókuszáljunk arra, hogy mi volt jó - és ez alapján mit szeretnénk majd megismételni
+
+- potenciális buktatók:
+    - épp "szünet" van a kapcsolatunkban, ami a szexet illeti
+        - ne szégyelljük, mert ez tök gyakori máshol is
+        - ettől még hozzuk fel a témát - pont az vet majd hamarabb véget a szünetnek
+    - soha nem is volt jó a szex köztünk
+        - de azért **valami** pozitívumra csak vissza tudunk emlékezni
+        - nyugalom, majd abból "kinöveszthető" a kémia
+    - gyanús, hogy szóba kerül
+        - hangsúlyozzuk, hogy (egyelőre) nincs semmi konkrét oka
+        - csak úgy egyáltalán kéne, hogy tudjunk erről beszélni, nem?
+    - erről nem kell beszélni - természetesnek kéne lennie
+        - öö, de, kéne róla beszél
+
+
+
+
+2. Kapcsolódás - azaz Mit tegyünk, hogy közel érezzük magunkat egymáshoz?
+
+- ha azt érezzük, hogy elhidegültünk a másiktól
+    - kevés az együtt töltött minőségi idő (lásd Chapman)
+    - ha eseménytelen a hálószoba
+    - sok a csend vagy magányérzet
+    - sok a veszekedés
+- akkor nem árt egy kimondottan kapcsolódó beszélgetés, ami majd kvázi "megágyaz" a szexnek
+
+- az érzelmi/fizikiai oldalon is megvan a spontán/reaktív kezdeményezés analógja
+    - van, akinek érzelmek kellenek a szexuális vonzalomhoz (sztereotipikusan, nők)
+    - van, akinek szex kell az érzelmekhez (sztereotipikusan, férfiak)
+    - fontos ezek között különbséget tenni, mert könnyen elbeszélhetünk egymás mellett, ha csak "kapcsolódásról" beszélünk
+    - na oké, de érzelmi vagy fizikai kapcsolódás
+    - most az érzelmi oldalról próbálunk közelíteni
+
+- az első feladat tehát megbeszélni, hogy egyáltalán melyik csoporthoz tartozunk
+    - ha a párunk érzelmi, akkor:
+        - Mi segít kötődni hozzám?
+        - Milyen számodra a szex, ha megvan köztünk a kellő kötődés?
+    - ha testi, akkor:
+        - El tudod mondani, milyen módon vált ki belőled érzelmi kötődést a szex?
+        - Hogy érzed magad szex után a korábbiakhoz képest?
+
+- ördögi körnek tűnhet, hogy az egyik a másiktól függ...
+    - most akkor hol kezdjünk bele
+    - Marin tapasztalata, hogy típusunktól függetlenül az érzelmi oldalon érdemes
+    - ha a szex irányából közelítünk, az az érzelmi típusúnak ugye eleve nem lesz jó kapcsolódás nélkül, **és** a fizikai típusúnak is inkább "szánalomszexnek" fog érződni a másik láttán, ami miatt az ő kötődése is blokkolva lesz (hiába volt meg a hőn áhított aktus)
+
+- a kapcsolódás rendbetételéhez egy az egyben a szeretetnyelvekre utalunk
+    - kerüljünk vele tisztába, hogy nem csak a mi alapbeállításunk létezik
+    - beszéljük meg, hogy
+        - Milyen módon szeretünk szeretetet ADNI?
+        - Milyen módon szeretünk szeretetet KAPNI?
+        - Hogyan tudnánk leginkább egymás kedvében járni?
+
+- és nem feledjük, hogy nem csak a szex az érintés egyetlen formája
+    - és nem kell (sőt, nem szabad), hogy minden érintés szexhez vezessen - nehogy emiatt az érzelmibb fél már az érintéseket is kerülni kezdje
+    - szánjunk ilyen Plátói érintkezésre is dedikált időt
+    - tudományosan igazolt oxitocin termelő szokások: napi minimum fél perc ölelés, és 6 másodperc csók
+
+- potenciális buktatók:
+    - ha kérni kell, ott már baj van
+        - ez megint a tündérmesébe és a gondolatolvasásba vetett hit... NOPE!
+    - ha magától nem adná, úgy már "mesterkélt"
+        - az számít, hogy hajlandó adni - ez a hajlandóság pedig őszinte
+    - mit kell ebből ekkora hűhót csapni?!
+        - ha egyszer szexelnénk egész életünkben, az jó lenne? ugye, hogy nem.
+        - az érzelmi kapcsolódásal ugyanez a helyzet. fenn kell tartani, és ezért a hűhó.
+    - az érintéstől nem jön egyből izgalomba
+        - nem is feltétlen kéne - főleg ha nem kimondottan szexuális célzatú az az érintés
+
+
+
+
+
+3. Vágy - azaz mire van szükségünk ahhoz, hogy izgalomba jöjjünk?
+
+- 
+
+
+
 4.
 5.
 
