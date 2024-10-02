@@ -90,6 +90,13 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 - és akkor most jöhetnek a párbeszédek
 
+
+
+
+
+
+
+
 1. Felismerés - azaz "Van szexuális életünk"
 
 - furcsának hangozhat, de az első lépés sokszor az, hogy egyáltalán fel- (és el-)ismerjük, **van** szexuális életünk.
@@ -135,6 +142,11 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
         - csak úgy egyáltalán kéne, hogy tudjunk erről beszélni, nem?
     - erről nem kell beszélni - természetesnek kéne lennie
         - öö, de, kéne róla beszél
+
+
+
+
+
 
 
 
@@ -195,13 +207,127 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 
 
+
+
+
+
 3. Vágy - azaz mire van szükségünk ahhoz, hogy izgalomba jöjjünk?
+
+- sokaknak ez lesz a legkellemetlenebb beszélgetés
+    - mert kiderülhet, hogy ami régen működött, az most már nem működik
+    - vagy felmerültek közben egyéb idegesítő/gusztustalan szokások, amik blokkolják a vágyat
+    - szembe kell nézni vele, hogy minden előjáték (a házimunka, az orrban turkálás, a nyitott ajtólnál szarás, a hogy öltöztél fel, a milyen hangosan veszed ma a levegőt)
+        - és mindezt úgy elfogadni, hogy közben nem leblokkolunk, amiért folyamatosan figyelnek és megítélnek
+
+    > Sokan úgy gondolják, hogy közvetlenül a szex megkezdése előtt kell izgalomba jönni, holott az egymás iránt érzett vonzalom mértékét az egész napi kapcsolatotok határozza meg.
+
+    - ha a jéghideg vízből akarunk forrót, az el fog tartani egy darabig
+        - de ha folyamatosan legalább langyosan van tartva, akkor az hirtelen forralható
+
+- itt az "én"-ről a "mi"-re lépünk
+    - ha a saját használati útmutatónk nagyjából kész, akkor azt megosztjuk
+    - de ugyanúgy fogadjuk a másikét, és aztán csapatban dolgozunk a megvalósításokon
+    > A szex csapatsport.
+
+- lassú tűz
+    - beszéljük meg, hogy hogyan táplálhatjuk egész nap, hogy folyamatosan "langyos" maradjon a hangulat
+
+- blokkoló tényezők kigyomlálása
+    - rossz a lehellete, izzadt, csámcsog, böfög/fingik
+    - mindenhol meglesznek, amik a másik irányba húznak, és soha többé hozzá nem nyúlnánk a másikhoz
+    - fontos a kapcsolat alap minősége
+        - ha amúgy érzelmileg rendben vannak a dolgaink (és ezért kezdtünk azzal), akkor az ilyesmi csak kisebb súrlódás
+        - ha nem, akkor válóok is lehet
+    - ezeket sokkal könnyebb lesz beazonosítani (mert idegesítőek)
+        - de próbáljunk legalább ilyen alapos figyelmet fordítani azokra is, amik vágykeltőek (hogy kiegyensúlyozottabb, valósabb legyen a kép a fejünkben, ne egy torz karikatúra)
+    - a blokkolókról pedig mindig igyekezzünk nyugodt, kipihent állapotban beszélni, mert akkor a legnagyobb az esélye, hogy át is megy az üzenet, és nem mentegetőzés és veszekedés kerekedik belőle
+
+- és aztán ott van még maga az élvezet
+    - ha az nem elég jó, akkor mitől várnánk, hogy vágyni fogunk rá
+    > Éreztél valaha késztetést, hogy pépes, agyonfőzött, ízetlen brokkolit egyél? Buzogtál valaha a vágytól, hogy elolvasd a samponos flakon alján lévő feliratot? Na ugye! A szex sem más.
+    - szóval a szex minőségével nyilván a vágy is fejleszthető - de erre még visszatérünk
+
+- a kezdeményezést ne poénkodjuk el
+    - fáj a visszautasítás, de akkor is legyünk őszinték a próbálkozásunkban
+    - ne tervezzünk bele előre "lelegyinthetőséget" a kudarc esetére, hogy "Á, csak vicceltem"
+    - ne utalgassunk, ne hibáztassunk, ne pislogjunk "sokatmondóan" vagy taperoljuk a másikat váratlanul
+- illetve lépjünk túl a sztereotípiákon, miszerint a férfi dolga a kezdeményezés, a nő pedig a passzív fél
+    - fontos, hogy mindkét fél kezdeményezzel VALAMENNYIT
+        - hogy egyrészt mindenki felfedezze, hogy ő maga mikor akarna valamit
+        - másrészt azt is érezhesse, hogy kívánják
+    - de ennek az egyensúlynak a belövése (meglepetés) kapcsolatfüggő!
+- kb. a kezdeményezésnek is vannak "szeretetnyelvei"
+    - ezt is vehetjük a használati utasításunkhoz
+    - egy tipp: tekintsük meghívásnak
+        - egy barátunkat hogy hívnánk meg egy közös programra?
+- illetve a másik oldalról próbáljunk flexibilisek lenni
+    - ha nem olyan formájú a kezdeményezés, mint szeretnénk, de attól "átjött" az üzenet, akkor azért fontoljuk meg, hogy nem lenne-e az jó nekünk is
+    - hátha menet közben belelendülünk (lásd reaktivitás!)
+    - ha pedig tényleg nem a válasz, akkor is tapintatosan közöljük
+        - nem kötelességünk megmagyarázni, de sokat segít
+        - lehet, hogy saját magunknak sem árt az a magyarázat, mert ráébredünk, hogy valójában nem is a szexre akarunk nemet mondani, hanem valami másra kellett volna (és most csak neheztelésből büntetnénk a másikat)
+
+- akár készítsünk szexuális "menüt"
+    - nem mindig kell ugyanolyan legyen a szex
+    - létezhet az étlapon a gyorskajától a 6 fogásos gurmé lakomáig bármi
+
+- ezek fényében beszéljük át egymás
+    - vágyait
+    - vágy blokkolóit
+    - kezdeményezési preferenciáit
+    - lassú tüzes hangulat-fenntartási stratégiáit
+    - visszautasítási módszereit
+- és NINCS megszégyenítés
+    - nem muszáj mindenbe belemenni, ami a másiknak izgató
+    - de soha ne nevessük ki vagy nézzük le azért, amit izgatónak talál
+    - Nagoski-féle ne fujjogjuk más nyamm-ját!
+
+- potenciális buktatók:
+    - duzzogás a visszautasítás miatt
+        - a csalódottsághoz jogunk van, de emiatt büntetni a másikat, és nyomást helyezni rá, az nem oké
+        - ezt tudassuk is a duzzogóval, és ne hagyjuk magunkat "zsarolni"
+    - lelombozó, hogy nekem kell megtanítani kezdeményezni
+        - persze, hogy könnyebb lenne, ha minden csak úgy magától menne
+        - de sajnos itt az elvárás a nem realisztikus - lásd tündérmese
+    - a párom inkább ellenne szex nélkül
+        - itt nagy nagy valószínűséggel nem a szexre mond nemet, hanem a szex körüli konfliktusokra
+        - vagyis ha csak ekkora cirkusszal megy a szex, akkor inkább ne lenne
+        - ezek a beszélgetések pedig pont a cirkusz oldására valók, hogy utána a szex már jó lehessen
+    - az alacsony libidó a vonzalom hiányának jele
+        - NOPE - a libidó sok "én" probléma miatt is lehet alacsony, nem csak a "mi" dolgok miatt
+        - de ezeket mindenképp beszéljük meg, ne csak feltételezzük, hogy "biztos azért nem jön, mert már nem tetszem neki"
+
+
+
+
+4. Gyönyör - azaz mi kell nekünk ahhoz, hogy élvezetes legyen a szex?
+
+- megvolt a konstatálás, a kapcsolódás, és a vágy gerjesztés
+    - most már akkor csináljuk már
+    - és legyen már jó
+- oké, semmi akadálya
+    - feltéve, hogy az eddigi szempontokat továbbra is megszívleljük, és
+        1. hajlandóak vagyunk felfedezni saját magunkat, és
+        2. erről nyíltan kommunikálunk a másikkal
+
+- beszéljük meg a másikkal, hogy
+    - hol szeretjük az érintést és hogyan
+    - hol szeretjük a csókot és hogyan
+    - milyen energiákat/hangulatokat szeretnénk a hálószobába
+    - milyen fantáziáink vannak, és azokat hogyan tudnánk együtt kiélni
+    - egyáltalán inkább testi, mentális, vagy spirituális megközelítésben fontos-e nekünk a szex
+    - stb.
 
 - 
 
 
 
-4.
+
+
+
+
+
+
 5.
 
 
