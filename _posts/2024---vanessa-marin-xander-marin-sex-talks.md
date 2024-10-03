@@ -318,7 +318,34 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
     - egyáltalán inkább testi, mentális, vagy spirituális megközelítésben fontos-e nekünk a szex
     - stb.
 
-- 
+- persze itt se felejtsük el a pozitív visszacsatolást hangsúlyozni
+    - ne kritizáljuk nyersen, ami nem jó
+    - inkább biztassuk azt, ami jó, és így a nem jó dolgok várhatóan maguktól is kiszorulnak és elsorvadnak
+    - és ha lesz is maradék, azt így már sokkal egyszerűbb kigyomlálni
+
+- az összecsiszolódással kapcsolatban is adjunk le a tündésmesés elvárásainkból
+    - nagy valószínűséggel nem csak egyszer kell valamit elmondani
+    - nem sokszor lesz egyből észbontó a változtatás
+    - de ha csiszoljuk, akkor el lehet oda jutni!
+
+- látásvizsgálati módszer
+    - ne azt kérdezzük, hogy mit szeretne a másik, mert az túl nyitott
+    - legyen inkább olyan, mint amikor a szemész két dioptria közül kérdezi, hogy melyik az élesebb
+    - így sok limitált (és ezért sokkal könnyebben eldönthető) összehasonlításon keresztül eljuthatunk oda, ahova egy lépésben nem tudtunk volna
+
+- orgazmus egyenlőség!
+    - a női csikló kb. a férfi pénisz ekvivalense (csak még érzékenyebb)
+    - a hüvely pedig inkább a herékhez hasonlítható ingerlés szempontjából
+    - ha most a "pénisz a hüvelybe" alapértelmezés egyértelműen a férfiaknak kedvez (ezért van nálunk jelentősen gyakoribb orgazmus)
+    - cserébe képzeljük el, milyen lenne, ha az lenne az elterjedt szexuális módszer, hogy a herét kéne a csiklóhoz dörgölni
+    - egyből a nők kerülnének előnybe, és a férfiak meg valószínűleg hangosan reklamálnának, hogy hát de az ő orgazmusukkal mi lesz?!
+    - na ugye!
+    - szóval több figyelmet a csiklóknak világszerte! :)
+
+- potenciális buktatók:
+    - sokáig megjátszottam, most akkor ezt valljam be
+        - igen - akármilyen kellemetlen is lesz ezt a beszélgetést lefolytatni, csak így nyílik út az igazi orgazmushoz
+    - 
 
 
 
@@ -328,12 +355,70 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 
 
-5.
+5. Felfedezés - azaz mit kéne még kipróbálnunk?
+
+- a rutin és a megszokás a legjobb testi élményt is megfoszthatja a... nos, az élménytől
+    - gondoljunk bele, hogy ha csak a kedvenc kajánkat ehetnénk innentől kezdve
+    - még ha az elején imádtuk is, pár hét (vagy év) múlva már a könyökünkön jön majd ki
+- a szexszel ugyanez a helyzet
+    - hiába tesszük rendbe a kapcsolódást, a vágyat és a gyönyört is, akkor is bele lehet fásulni
+
+- de hát ha már egyszer azt az egy működőképes rutint is olyan nehéz volt kitaposni, akkor utána miért kockáztatna az ember?
+    > Mi lesz, ha kipróbáltok valami újat, és rosszul sül el a dolog? Mi lesz, ha zavarba jössz? Mi lesz, ha fáj? Mi lesz, ha olyasmit javasolsz, amit kritikával illet a partnered? Mi lesz, ha kiderül, hogy a drágalátos, visszafogott férjed titkon arra vágyik, hogy bepelenkázd és babusgasd? Mi lesz, ha kiderül, hogy ez neked is bejön?
+
+- valamennyi kísérletezés és változatosság elengedhetetlen, hogy hosszú távon, fenntarthatóan jó legyen
+
+- ne azt kérdezzük, hogy "mi piszkálja fel a fantáziádat"
+    - ez arra utal, hogy biztosak vagyunk benne - tudjuk, hogy élvezni fogjuk
+    - meg a fantázia szó hordoz szerepjátékos, már a gondolattól beindulok jellegű konnotációt
+    - plusz aki már konkrét fantáziákig jut, az valószínűleg meg is osztja
+    - kérdezzük inkább, hogy "nincs-e valami, amire kíváncsi lennél? amit szívesen kipróbálnál?"
+
+- ha az opciókra sincs ötletünk (amit a mai átlag pornófogyasztási statisztikák mellett azért kétlek), akkor a könyv szolgál egy szép hosszú listával, amit együtt megbeszélhetünk, és igen/nem/talán kategóriákba sorolhatunk a saját ízlésünknek megfelelően
+
+- nincs megszégyenítés!
+    > Soha nem fogsz olyan partnert találni, akinek pont ugyanolyanok a szexuális igényei, mint neked. De a partnered elutasító válasza nem azt jelenti, hogy nem lett volna szabad kérned azt a bizonyos dolgot, vagy hogy rossz dolgot kértél.
+    
+    > Emberként egyáltalán nem minősít, hogy szereted-e a gombát vagy a kéksajtot, így az sem jelent semmit, hogy szívesen elégíted-e ki orálisan a partneredet, vagy szereted-e a tehenészlánypózt.
+
+- érdemes apró lépésekben haladni
+- néha iktassuk a "rutin" szex mellé - természetesen nem kell mindig valami vad őrültséget csinálni
+    - csak ne is folyton a vajas pirítós
+
+- elsőpalacsinta-szabály
+    - rögtön elsőre semmi nem lesz tökéletes
+    - ha nem egyből jó az újdonság, attól még nem érdemes feladni és visszamenekülni a komfortzónába
+    - ha nem látványos katasztrófa, akkor mondjuk legalább három esélyt kapjon
+
+- utána (másnap!) beszéljük meg, hogy jó volt-e, akarnánk-e újra, stb.
+    - de mindenképp tegyük hozzá, hogy már az önmagában milyen nagy pozitívum, hogy egyáltalán próbálkozunk!
+
+- potenciális buktatók:
+    - mi van, ha egyikünk sem akar újdonságokat kipróbálni?
+        - ha **tényleg** mindketten elégedettek vagytok a szexuális életetekkel, akkor semmi
+        - de azért érdemes lehet őszintén megkérdezni magatoktól, hogy miért nem akartok újdonságokat kipróbálni - hátha kibukik valami egyéb ok is
+        - pár évente mindenképp érdemes erre visszatérni
+    - mi van, ha valami annyira nem volt jó, hogy azóta neheztelek a másikra?
+        - azzal semmi baj, ha nem akarod többet
+        - de a másik attól még nem hibás, ha ő akarna
+        - csak tartsa tiszteletben, hogy te nem, és fedezzetek fel valami mást
+    - a partnerem csak úgy lesöpörte a javaslatomat, hogy ugyan, az minek
+        - beszéljetek róla újra, jó hangulatban, és fektessétek le, hogy a személyes preferenciákat nem fujjogjuk!
+        - az nem baj, ha végül valamire nem lesz a válasz, de az ítélkezést hagyjuk
+
+
+
+
+
+
+
 
 
 ## Égjen az ikerláng egy életen át
 
-
+- a konfliktus csak kötődési próbálkozás, ahol mindketten más-más úton próbálunk közelíteni
+- ha a másik nem tűnik elkötelezettnek, annak rengeted egyéb oka lehet, mint hogy tényleg nem elkötelezett
+    - hagyjunk időt, kommunikáljuk sokat, próbálkozzunk több irányból
 
 
 
