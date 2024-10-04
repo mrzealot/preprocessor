@@ -419,6 +419,36 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 - a konfliktus csak kötődési próbálkozás, ahol mindketten más-más úton próbálunk közelíteni
 - ha a másik nem tűnik elkötelezettnek, annak rengeted egyéb oka lehet, mint hogy tényleg nem elkötelezett
     - hagyjunk időt, kommunikáljuk sokat, próbálkozzunk több irányból
+- ha kivonódik -> érzelmi túlterhelés
+    - ne erőltessük, hagyjuk lenyugodni a másikat
+    - tartsunk szünetet (ami tényleg szünet, nem csak felszín alatt parázslás, amíg újra egymásnak eshetünk)
+- ha védekezik, mentegetőzik, visszatámad -> hagyjuk, hogy kijöjjön, aminek ki kell jönnie
+- ha sajnáltatja magát, vagy manipulál -> ne hagyjuk
+    - ragaszkodjunk hozzá, hogy ítélkezés nélkül beszélhessünk a problémáról
+
+- általnos kommunikációs stratégiák
+    - tartsunk szüneteket, miELŐTT elmérgesedik
+    - azonosítsuk be az érzéseinket (mert úgy kevésbé mérgesednek el)
+    - mindig bizonyosodjunk meg róla, hogy jól értjük, amit a másik mond (ne feltételezzünk, mert csak félreértés lesz belőle)
+    - a megértés nem ugyanaz, mint az egyetértés
+        - és habár az egyetértés nem mindig lesz lehetséges, a megértés mindig opció
+    - ne hántorgassunk fel
+    - minden ilyen stresszesebb beszélgetés után kapcsolódjunk újra (mondjuk egy öleléssel)
+        - mert ugye együtt vagyunk a probléma ellen, nem fejenként egymás ellen!
+
+
+- a szex tervezése/ütemezése nem az ördögtől való
+    - jajj, de hol a spontaneitás - hát, valószínűleg sehol
+    - még jó, hogy az nem is elvárás vagy előfeltétel a jó szexuális élethez
+    - javasoljuk felváltva, legyen vétójogunk, de igenis legyen annyira fontos, hogy bekerüljön a naptárba - mert ha oda nem kerül be, akkor őszintén, mekkora esélye van, hogy majd csak úgy magától megtörténik?
+    - ha egy időszakban kimarad, minél hamarabb próbáljuk "visszamászni a nyeregbe"
+
+> Ha mindennap beszélsz a szexről, valami külölleges dolog történik. Eltűnik a szégyen, alábbhagy a szemérmesség, és a szex az élet természetes részévé válik... Ahogy kéne.
+
+- ápoljuk a kapcsolatunkat
+    - randizzunk, legyenek közös kis rituáléink, rendszeresen tartsunk "meetinget" a kapcsolati státuszunkról, mondjuk el, hogy miért vagyunk hálásak egymásnak, stb.
+    - és álljunk bele, ha valami nem jó - mert csak úgy lehet jó
+    > Ugye a virágot sem hibáztatnátok, ha elszáradna, mert senki nem locsolta?
 
 
 
