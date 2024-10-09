@@ -61,3 +61,35 @@ itt jött egy brutál időszak, de végre újra volt célja, és ha ő egyszer b
 pláne a vizi kiképzéses megfutamodása után, mert így már szinte kergette a kényelmetlenséget, hogy csak azért is megmutassa
 
 KIHÍVÁS: hagyjuk el a komfortzónánkat - és aztán megint! és aztán megint!
+
+
+
+4.
+
+A híres Pokoli Hét túlélése (ami neki már a második kör, mert az elsőben tüdőgyulladás miatt muszáj volt ráhagynia)
+hogy mennyire fejben játszódik le ez az egész
+- és hogy kimondottan az a céluk a kiképzőknek, hogy ledaráljanak, mert így látszik meg, hogy fejben mennyire tartod magad
+- Goggins a csónaklegénység élére állt, mindenféle mentális játszmával motiválta őket (és magát), előre ellopta a menetrendet, hogy fejben készülhessenek a kínzásokra (ezzel elvéve az élüket, ha csak egy kicsit is)
+- sokszor konkrétan dacoltak a kiképzőkkel, hogy visszafordítsák a mentális harcot - bármit dobsz nekünk, akkor sem tudsz kibaszni velünk!
+- végül emberveszteség nélkül kibírták az egész hetet
+    - de igencsak maradandónak tűnő sérülésekkel, ami azért a kiképzés további részébe még beleköphet...
+
+KIHÍVÁS: keressünk egy versenyhelyzetet az életünkben, és aztán teljesítsünk túl minden elképzelhető elvárást
+
+
+
+5. 
+
+Viszont aztán lesérülés (térdkalács repedés), ami miatt kötelezően kivezényelték
+- kapott még egy esélyt, de MEGINT elölről kellett kezdenie
+- harmadik kör Pokoli Hét, és még mindig nem a teljesen gyógyult állapotban
+    - így mindkét lábán hajszálrepedések keletkeztek
+- vagyis kb. szó szerint törött lábbal kellett végigcsinálnia a további kiképzés hónapjait, napi 10+ kilóméter futásokkal
+    - de ő csak fáslizta a lábát, próbált csípőből mozogni, és túlélni a fájdalmat, amíg bele nem melegedtek az izgai/izületei
+- az elme érzéketlenné tétele segített neki ennyire kitolni a határait
+
+KIHÍVÁS: vizualizáljuk, amit befolyásolni tudunk (milyen lesz elérni a célt, és hogy milyen akadályokat kell közben megugranunk)
+
+
+6. 
+
