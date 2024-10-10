@@ -93,3 +93,21 @@ KIHÍVÁS: vizualizáljuk, amit befolyásolni tudunk (milyen lesz elérni a cél
 
 6. 
 
+Relatíve nagyot ugrunk, első ultramaraton, 160 kilóméter
+Vörös Szárnyak hadművelet miatti jótékonyságból szeretett volna beiratkozni a legdurvább versenyre, ami a Badwater 135
+    - sivatagi, nyárközépi, nagy szintemelkedésű ultra
+    - a szervező viszont nem enged be csak úgy senkit, még Goggins-jellegű ajánlólevéllel sem, mert nehogy neki tényleg meghaljon ott valaki és aztán lefújassák az egész versenyt
+- viszont van most a hétvégén épp egy egész napos futóverseny, miért nem mész el, és bizonyítod be, hogy ilyet is tudsz
+    - erre az idiótája felkészülés és bármi komolyabb korábbi tapasztalat nélkül fogta magát, és elment lefutni egy ultrát
+    - és habár szó szerint vért hugyozott és összeszarta magát, azért is megcsinálta
+- a mentális modell, ami segített neki felállni a táv közepe felé fenyegető összerogyásnál, az a "sütisdoboz"
+    - az anyja bármilyen nehéz körülmények közt voltak is épp, valahogy mindig feltöltötte a sütisdobozukat, ahonnan időnként vehetett egyet-egyet
+    - a fejében a korábban elért sikerei és személyes győzelmei voltak a sütijei, amiket fogyasztgathatott extra energia morzsákért
+
+KIHÍVÁS: töltsük fel mi is a saját sütisdobozunkat, amiből utána a kihívások közepén (és a feladás szélén) táplálkozhatunk
+
+
+
+
+7.
+
