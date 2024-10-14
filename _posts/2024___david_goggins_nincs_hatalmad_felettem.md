@@ -111,3 +111,24 @@ KIHÍVÁS: töltsük fel mi is a saját sütisdobozunkat, amiből utána a kihí
 
 7.
 
+Innen már azért komolyabb felkészülésekkel ment neki további versenyeknek
+    - csak úgy lazán lefutott egy maratont Bostoni kvalifikációs időn belül (pedig azon csak drukkolni ment volna)
+    - aztán Hawaii Hurt 100, ami egy terep ultra, és kellett az "önéletrajzba", hogy aztán bevegyék a Badwater-be
+    - végül a Badwater maga, amire 4 réteg pulcsiban plusz kabátban edzett a sivatagban, hogy majd bírja a hőséget, és már elsőre 5. helyen végzett
+
+ember = versenyautó hasonlat
+    - szabályzó, ami korlátozza az üzemanyag és levegő áramlását, hogy ne melegedjen túl vagy károsodjon a motor
+    - de ha ezt kivesszük, akkor menne az sokkal jobban is
+    - az emberben az elme a szabályzó a fájdalom/kétség/kimerültség/félelem/bizonytalanság segítségével
+    - de ez csak javaslatot adhat - ha nem fogadjuk el és felülírjuk, akkor van ott még tartalék bőven
+    - Goggins szerint kb. 40%-nál állunk le - vagyis több mint a fele a tankban marad
+
+> Nincs célvonal.
+
+KIHÍVÁS: kezdjük el fokozatosan eltávolítani a saját szabályzónkat, és rendeszeresen toljuk ki a határainkat 5-10%-kal
+
+
+
+
+8.
+
