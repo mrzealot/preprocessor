@@ -132,3 +132,24 @@ KIHÍVÁS: kezdjük el fokozatosan eltávolítani a saját szabályzónkat, és 
 
 8.
 
+- ultraman - kb. tripla ironman
+    - 10km úszás, aztán 420km bringa és levezetésnek egy dupla maraton
+    - viszonyítási pontok - mérni kell a haladást, és kijelölni olyan jelzőket, ahol tudhatjuk, hogy eltévedtünk, és ezért korrekcióra van szükség
+- toborzási külön felkérés
+    - egyre népszerűbb a versenyes teljesítményei miatt, ezért arra kérik, hogy segítsen minél több feketét toborozni a SEAL-be
+    - ezt ő minél autentikusabb módon próbálja végezni - kb. minden toborzó beszédhez kapcsolódik egy ultra versenye, fut/bringázik a helyszínek között, és úgy általában kemény, mint a kád széle
+- mindenki a gyors megoldásokra, életkönnyítő trükkökre és a hatékonyságra vadászik
+    - de az önuralomhoz pont az kell, hogy hajlandóak legyünk a kemény munkára
+    - aztán már lehet plusz hátszél a tehetség vagy a szenvedély vagy a hatékonyság - de megfelelően magas munkakorállal kell társulnia
+- időmenedzsment Goggins jellegzetes egyszerűségével
+    > Ha felülvizsgálod az életedet, kiszűröd az ostobaságokat, és viszonyítási pontokat használsz, rátalálsz arra az időmennyiségre, amely lehetővé teszi, hogy mindent megtegyél, amire szükséged van, és amit szeretnél.
+- szívproblémák
+    - mint kederült, eddig csak kb. félgázzal működött a szervezete, mert egy veleszületett állapot miatt kvázi lyukas volt a szíve
+
+KIHÍVÁS: Ütemezzünk - bontsuk a napunkat kis szeletekre, és mindnek legyen meg pontosan egy darab célja, amit aztán tartunk
+
+
+
+
+9.
+
