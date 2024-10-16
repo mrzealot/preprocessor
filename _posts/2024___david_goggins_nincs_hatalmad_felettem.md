@@ -153,3 +153,18 @@ KIHÍVÁS: Ütemezzünk - bontsuk a napunkat kis szeletekre, és mindnek legyen 
 
 9.
 
+- szakaszok, ranger iskola, Delta Force válogató felidézése még régebből (a szívműtétből lábadozás közben)
+    - vezetési tapasztalatok
+        - ami jó, hogy még ott is folyamatosan ki akart tűnni, és nem elpuhulni
+        - ami rossz, hogy ha valaki nem így tett, azt lenézte, és felsőbbrendűnek érezte magát
+- ebből az maradjon meg, hogy felsőbbrendűség nélkül is próbáljunk nem az eddigi eredményeinkre támaszkodni
+    - hanem minden egyes nap bizonyítsuk be, hogy mire vagyunk képesek
+
+> Ez a mentalitás mindannyiunk számára elérhető. Nem számít, hogy férfi, nő, hetero,meleg,fekete,fehér vagy istenverte lila pöttyös az illető.
+
+KIHÍVÁS: a kiválóság nem maradandó, ezért érdemeljük ki folyamatosan - legyünk rendkívüliek a különlegesek közt is
+
+
+
+10.
+
