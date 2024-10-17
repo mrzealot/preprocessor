@@ -168,3 +168,23 @@ KIHÍVÁS: a kiválóság nem maradandó, ezért érdemeljük ki folyamatosan - 
 
 10.
 
+szívműtét után vissza egy második kör Deltára, de kudarc
+aztán visszarázódna a futásos ütembe, de már nem megy úgy a hosszú távú lefáradások miatt
+aztán nyilvános húzódzkodási rekord kísérlet -> kudarc
+aztán az abból tanult leckék segítségével egy második, jobban átgondolt kísérlet, de az is kudarc
+de itt jön elő, hogy hogy áll hozzá az ember. mennyire akarja
+    - el kell dönteni, hogy meglesz, és onnantól maximum az határidő változhat, amikorra sikerült
+    - de az, hogy sikerül-e, az nem lesz tovább kérdés
+
+lásd Roger Bannister és a 4 perc alatti mérföld
+
+> Önbizalommal telítődtem, és elenyészett minden nyomás, mert a lehetetlen elérése helyett az elkerülhetetlen végrehajtása lett a feladatom.
+
+KIHÍVÁS: vegyük számba a kudarcainkat, készítsünk "bevetés utáni jelentést" róluk, és vágjunk bele egy új kísérletbe
+
+
+
+
+
+11.
+
