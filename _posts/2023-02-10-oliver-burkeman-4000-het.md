@@ -5,6 +5,7 @@ cover: 4000weeks
 tags: [szemléletmód, produktivitás]
 pages: 272
 date: 2023-02-10 00:01
+youtube: 2XiBfiEREVE
 excerpt: >
     Ennek az állítólagos idő menedzsment könyvnek a valódi tartalmáról már a borítón elfonnyadó banán is árulkodik, de maga a szerző sem árul zsákba macskát: faltól falig kapjuk a képünkbe a szégyentelenül nyers és lehangoló halál fókuszt.
     És valahogy mégis sikerül megkönnyebbülve, fellélegezve, időnk biztosabb terelgetési képességével a zsebünkben távozni a kasszától.
