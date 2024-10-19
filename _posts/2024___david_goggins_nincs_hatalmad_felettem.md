@@ -188,3 +188,9 @@ KIHÍVÁS: vegyük számba a kudarcainkat, készítsünk "bevetés utáni jelent
 
 11.
 
+teste valamennyire leállította 40+ évesen
+nyújtás + "ésszel csinálás", de így is lehet keményen
+ultrákat nyer, különleges tűzoltó
+nem elkényelmesedik az eddigi sikereiben, hanem mindig hajtja a következő kihívást
+    - a haragot viszont hátrahagyta
+    - békésen, de soha nem elégedetten
