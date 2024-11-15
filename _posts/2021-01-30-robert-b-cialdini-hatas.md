@@ -5,6 +5,7 @@ cover: cialdini
 tags: [stratégia]
 pages: 320
 date: 2021-01-30 00:01
+youtube: KPQHAi-2sbw
 excerpt: >
     A tavalyi évösszefoglaló "jövő" szekciójában első számú hiányosságként állapítottam meg a blog megfelelő marketingjét.
     De szerencsére a marketing is egy tanulható terület, szóval idén gyakran elő fog kerülni.

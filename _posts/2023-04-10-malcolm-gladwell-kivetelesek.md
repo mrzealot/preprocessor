@@ -5,6 +5,7 @@ cover: outliers
 tags: [szemléletmód, stratégia]
 pages: 360
 date: 2023-04-10 00:01
+youtube: 3YB1NskCnig
 excerpt: >
     A kiugró sikereket leggyakrabban az egyén győzelmének, vagyis egy tisztán egyszemélyes, független erőfeszítésnek tekintjük.
     Figyelembe sem véve, hogy mekkora hatással lehetnek az eredményeinkre a körülményeink, a lehetőségeink, a társadalmunk kultúrája -- vagy akár csak a korszak, amibe születtünk.

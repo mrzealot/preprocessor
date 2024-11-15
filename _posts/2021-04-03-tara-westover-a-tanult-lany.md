@@ -5,6 +5,7 @@ cover: westover
 tags: [szemléletmód]
 pages: 334
 date: 2021-04-03 00:01
+youtube: qAkteslxHqs
 excerpt: >
     A héten tovább feszegetjük a (folyamatos) tanulás témakörét, csak most a konkrét produktivitási tanácsok helyett egy visszaemlékezés segítségével.
     A hatékonyság ugyanis csak akkor számít, ha már eleve tanulni akarunk -- és tanulni pedig valószínűleg akkor fogunk akarni, ha felismerjük, hogy az mekkora érték.

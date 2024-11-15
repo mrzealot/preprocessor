@@ -5,6 +5,7 @@ cover: showyourwork
 tags: [produktivitás]
 pages: 224
 date: 2022-10-28 00:01
+youtube: RlbukBGUBO4
 excerpt: >
     Nem baj, ha az ön-marketing-től elkap minket a hányinger.
     Legtöbbször mást is.
