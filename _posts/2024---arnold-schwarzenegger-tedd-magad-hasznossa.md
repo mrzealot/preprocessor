@@ -88,9 +88,42 @@ Ne várjunk arra, amikor már nem árral szemben kell úszni, mert olyan nem les
 
 ## <a name="2"></a>2 - Gondolkozz nagyban
 
+Egy valag sztorizgatás a Mr. Olimpia cím megszerzéséről, James Cameron forgatásairól, stb.
+De a lényeg, hogy "Ha már csináljuk, csináljuk rendesen" - avagy a hivatkozott német mondás szerint "Wenn schon, denn schon".
+Hogy merjünk nagyot álmodni, és aztán adjunk bele mindent, hogy elérhessük.
+Ez megint az a szokásos klisé, ami pont azért lett klisé, mert annyira általánosan igaz.
+Ami talán segíthet neki beütni, az az, hogy Arnold a fordítottját is megfogalmazza: ha beérjük kis álmokkal, azáltal a nagyok automatikusan elérhetetlenné válnak.
+Mert egyszerűen nem fogunk annyit beletenni, hogy a magasabb lécet is megugorhassuk -- hiszen az alacsonyabb szint is elég jónak volt bélyegezve.
 
+Készüljünk fel, hogy rengetegen lesznek, akik lelegyintenek, kinevetnek, lebeszélnének... Szarni rá! Vagy, ami akár még jobb, meríteni belőle!
+
+> Mindig van választásod, mihez kezdesz az utadba kerülő károgókkal, mialatt a céljaid felé tartasz. Rajtad áll, hogy semmibe veszed vagy felhasználod őket. A lényeg, hogy soha ne higgy nekik.
+
+> Nincs B terv. A B terv az, hogy az A tervnek sikerülnie kell.
+
+Az ember gyakorlatilag bármihez képes alkalmazkodni.
+Ha nagyot álmodunk, az magával rántja majd, hogy arányosan többet is teszünk érte, hogy elérhessük -- és ezáltal lehetségessé is válik, hogy elérjük.
+Ez még egy klisét beigazol, miszerint csak mi szabhatunk határt saját magunknak.
+Ha nem hisszük lehetségesnek, akkor nem is próbálkozunk (vagy legalábbis semmiképp nem olyan erőbedobással), ami tényleg lehetetlenné teszi.
+
+> Akár azt hiszed, képes vagy rá, akár azt, hogy nem – igazad van. – Henry Ford
+
+Everest megmászás, 500 font kinyomása, 4 perc alatti mérföld... Az első volt a nehéz, utána fűnek-fának sikerült.
+És nem azért mert könnyebb lett, hanem mert már könnyebb volt mindent beleadni, miután bebizonyosodott, hogy lehetséges.
+Mi ezt intézzük el fejben, ha még nincs előttünk pénda, és aztán húzzuk magunk után a többieket.
+
+> Miközben utat törsz magadnak, csapást hagysz azok számára, akikről nem is tudod, hogy követnek.
 
 <br>
+
+
+
+
+
+
+
+
+## <a name="3"></a>3 - Dolgozd ki a beled
 
 
 
