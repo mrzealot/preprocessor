@@ -125,6 +125,43 @@ Mi ezt intézzük el fejben, ha még nincs előttünk pénda, és aztán húzzuk
 
 ## <a name="3"></a>3 - Dolgozd ki a beled
 
+ezt egyrészt nem lehet kikerülni
+
+>> Az emberek azóta próbálnak ügyeskedni, hogy könnyebbé tegyék a nehéz munkát, amióta csak dolgozni kell. Aztán szépen lemaradoznak az általunk hagyott porfelhőben, mert a kemény meló az egyetlen, ami az esetek száz százalékában garantálja a százszázalékos sikert.
+
+másrészt ha ki is lehetne kerülni, akkor sem lenne érdemes, mert a kezdeti pozitív elképzelésekkel szemben épp hogy megkeserítene bármit, amit így kapunk
+egyszerűen nem tudnánk értékelni (mert nem dolgoztunk meg érte)
+de amikor meg dolgozni kell, akkor azon rinyálunk, hogy dolgozni kell
+furcsa egy állat ez az ember
+
+zenészeken/sportolókon/tűzoltókon keresztül példázzuk, hogy a nyers ismétlésszám mennyit számít
+amikor eljön a nagy lehetőség, ott már nem lesz idő gondolkozni, hogy mit is csináljon az ember
+és mivel a "lehetőség" (legyen az számunkra bármi) nem kiszámítható, ezért annyira aránytalanul soknak tűnő mennyiséget kell gyakorolni, hogy "álmunkból felkeltve is" menjen
+
+A kulimunka fájdalma átmeneti, ami viszont alkotuk általa, az lehet maradandó
+És a fájdalom emellett megnyugtató is lehet - mert ha nem fáj, legalább egy kicsit, akkor biztos nem dolgozunk elég keményen.
+Egyedül arról bizonyosodjunk mindig meg, hogy a fájdalmunknak van értelme
+Ha viszont van, akkor bírjuk ki
+Mondjuk abban a tudatban, hogy mentálisan az is pont így fog fájni, ha megfutamodunk.
+
+Ha saját a feladat, akkor csináljuk végig
+Ha pedig delegáljuk, akkor KÖVESSÜK végig
+Arnold megfogalmazásában mindig legyen kitéve a pont minden i-re, legyen áthúzva minden t, és bezárva minden kör.
+Az önáltatás helyett tényleg csak akkor nyugtassuk magunkat azzal, hogy "mindent megtettünk", ha tényleg megtettünk mindent.
+
+Időhasználat, okosan, kifogások nélkül
+Minden "normális" kötelezettségből visszaszámolva is mindenkinél maradnia kell legalább 1-2 órának a haladásra
+Haladni pedig nem átlagos dolog - ha átlagon felüli eredményt szeretnénk elérni, akkor átlagon felüli energiákat kell befektetni, úgyhogy ne rinyáljuk, hova fér a "pihenés", hanem csináljuk
+Ha csak 1-1 órát tolunk valamit, de azt tényleg napi szinten, az is meglepően gyorsan össze fog adódni
+Falatonként azt az elefántot.
+
+
+
+
+
+## <a name="4"></a>4 - Eladni, eladni, eladni
+
+
 
 
 
