@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Arnold Schwarzenegger - Tedd magad hasznossá
 cover: schwarzy
@@ -109,6 +110,7 @@ Ha nem hisszük lehetségesnek, akkor nem is próbálkozunk (vagy legalábbis se
 > Akár azt hiszed, képes vagy rá, akár azt, hogy nem – igazad van. – Henry Ford
 
 Everest megmászás, 500 font kinyomása, 4 perc alatti mérföld... Az első volt a nehéz, utána fűnek-fának sikerült.
+Na jó, nem "fűnek-fának" -- de az addigi "lehetetlen" bélyeghez képest meglepően sokaknak.
 És nem azért mert könnyebb lett, hanem mert már könnyebb volt mindent beleadni, miután bebizonyosodott, hogy lehetséges.
 Mi ezt intézzük el fejben, ha még nincs előttünk pénda, és aztán húzzuk magunk után a többieket.
 
@@ -155,15 +157,61 @@ Haladni pedig nem átlagos dolog - ha átlagon felüli eredményt szeretnénk el
 Ha csak 1-1 órát tolunk valamit, de azt tényleg napi szinten, az is meglepően gyorsan össze fog adódni
 Falatonként azt az elefántot.
 
+<br>
+
+
+
 
 
 
 
 ## <a name="4"></a>4 - Eladni, eladni, eladni
 
+Amikor amerikába érkezett, a testépítés még kb. a hotdogevő versenyek szintjén mozgott a médiában.
+Ismerték ugyan, de csak ilyen kuriózumként, és mindenféle nem kimondottabban hízelgő jelzővel aggatták a résztvevőket.
+Erre jött Arnie, aki nem sértődve elfordult a belőlük gúnyt űző riporterektől, hanem inkább *feléjük* fordult és elmagyarázta, hogy ez miért nem vicc.
+Nekik sztorik kellettek, a testépítőknek meg pozitívabb reprezentáció.
+Miért ne működhetnének együtt?
+
+Szépen példázza ez, hogy a népszerűsítés, a reklám, a marketing, a kommunikáció -- vagy a fejezet címe szerint, az "eladás, eladás, eladás" -- egyszerűen mindennek a része.
+Vagy legalábbis kéne, hogy legyen.
+Nincs olyan, hogy én testépítő vagyok, a marketinggel meg foglalkozzon, akinek az a dolga.
+Vegyük a saját kezünkbe az irányítást, és tudassuk a világgal, ami nekünk fontos.
+
+Aztán ebből következik még, hogy tudjuk, kinek kell eladni magunkat.
+Ehhez pedig észre kell vennünk, hogy "ki az ügyfél" -- hogy ki az, akit ez az egész érdekel egyáltalán, aki döntéshozó helyzetben van, és akinek a véleménye számít.
+Ugye az a fránya célközönség.
+
+>> Ha nem figyelsz arra, ki figyel rád, sosem tudhatod biztosan, ki találja vonzónak a jövőképedet, és ki találja taszítónak.
+
+És itt jött egy nagyon fontos gondolat, amit a reklámtól és önfényezéstől amúgy viszolygó alaphozzáállásomnak hallania kellett: mi magunk vagyunk az első ügyfelünk.
+Magunkat kellett először meggyőznünk a saját víziónk életképességéről, hogy egyáltalán belevágjunk.
+Ha ez sikerült, akkor onnantól pont ezt a belső hangot kellene felerősíteni, és általa másokat is meggyőzni.
+Az már csak részletkérdés, hogy közben érdemes jelenidőt használni a jövőidő helyett -- hogy annál kockázatmentesebbnek tűnjön mellénk állni.
+De ha menet közben (az előző szekció tanácsát megfogadva) kidolgozzuk a belünket, hogy tényleg oda is jussunk, akkor igazából nem hazudunk.
+Szimplán elkönyvelt bizonyosságként kezeljük a bekövetkezést, és aztán így is beszélünk róla.
+
+Ettől persze a valósággal is szembe kell nézni.
+Felelősséget vállalni a kudarcainkért, nem próbálni tökéletesnek tűnő álarcot tartani a világ felé.
+Újabb klisé, de "magunkat adni".
+
+Ha eközben alábecsülnek, az természetesen nem fog jól esni.
+De alacsony elvárásokkal szembesülni valójában nem szembeszél, hanem ajándék -- annál könnyebb nem nem hogy csak megugrani, de túlteljesíteni őket.
+És utána annál meglepőbb lesz a váratlan teljesítményünk.
+
+>> Nem emelkedtem én sehová. Pont azt csináltam, amit mindig. Mások emelkedtem fel az én szintemre -- miután felismerték, hogy egész idő alatt csúnyán alulbecsültek.
+
+<br>
 
 
 
+
+
+## <a name="5"></a>5 - Válts nézőpontot
+
+## <a name="6"></a>6 - 
+
+## <a name="7"></a>7 - 
 
 
 
