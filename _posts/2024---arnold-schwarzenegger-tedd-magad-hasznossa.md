@@ -209,6 +209,52 @@ De alacsony elvárásokkal szembesülni valójában nem szembeszél, hanem aján
 
 ## <a name="5"></a>5 - Válts nézőpontot
 
+Nem rinyálunk a problémákon, hanem megoldani próbáljuk őket.
+találjuk meg a pozitívat a negatívban
+    - elsőre lehet, hogy nem magától értetődő, de mindennek van pozitív oldala
+    - mindenhez adható egy olyan keretezés, ami jó színben tünteti fel
+ugye megint sztoikuc címkézés
+sőt, amor fati
+
+> A szükségszerűt nem elegendő elviselni... A szükségszerűt *szeretni* kell. -- Nietzsche
+
+proaktivitás -> ne pazaroljunk időt olyanra, amire nincs befolyásunk
+a "dolgozd ki a beled" résznél mindenki azzal van elfoglalva, hogy jajj de nehéz bepréselni a napjába a haladást
+de panaszkodni a körülményeire, na arra van ideje
+ehelyett kéne szétválasztani, hogy mire van befolyásunk és mire nincs
+és aztán az előbbire fókuszálni, míg az utóbbit nagy ívben leszarjuk
+
+szép példa: Arnie szívműtétes felépülése, ami katéteres, "minimálisan invazív" rutinbeavatkozásból alakult mellkast felnyitós, majdnem belehalós bohócfiesztává
+    - ilyenkor lehet hőbölögni és áldozatnak lenni
+    - vagy lehet úgy ráfókuszálni a rehabilitációra, hogy egy hónappal később már Terminátor filmet forgat az ember
+
+Nagyon tetszett az kondis hasonlat, ahol pont az a cél, hogy teljes kifáradásig, bukásig, avagy szó szerint kudarcig (failure) tolunk egy-egy izomcsoportot.
+Ez megmagyarázhatja, hogy egy erős kondis háttérrel hogy tudta Arnie az élete egyéb területein bekövetkező kudarcokat is útjelzőkként (sőt, akár pozitívumokként) kezelni.
+Amit ugye mindannyiunknak kellene. Lásd Dweck.
+
+> Az edzőteremben a kudarc nem a vereséggel, hanem a sikerrel egyenlő. [...] Amikor a kudarc a játék pozitív eleme, kevésbé ijesztő a képességeink határait feszegetni.
+
+> Sosem a kudarctól kell rettegned, hanem attól, hogy feladod. A kudarc még egy álmot se oltott ki; a feladás kinyír mindent, amihez csak hozzáér.
+
+WD-40 - Water Displacement, 40. formula
+    - vagyis előtt volt 39 próbálkozás, ami nem sikerült!!
+
+
+- márpedig ezt mindig is így szokták csinálni
+    - path dependence
+    - nem csak a károgók, akik szerint ez tudod megcsinálni, hanem a status quo-hoz ragaszkodók, akik szerint nem is kellene
+    - mert hát ennek nem ez a menete
+
+- a kudarc mellett a "kockázatot" is érdemes hasonló módon átgondolni
+    - nem csak attól függ, hogy mekkora a siker esélye, kontra a kudarc esélye
+    - hanem attól is (kéne), hogy mennyire fontos az a siker, vagy mennyire fájna az a kudarc
+    - innentől pedig nagyon átmegyünk szubjektívbe, megint
+        - és ha az álmaink megvalósítása a tét (ami ugye fontosabb siker-állapot nem is lehetne), akkor nem mindegy, hogy mennyire kicsi az esély rá?
+        - vagy, a másik oldalról: az a kudarc fájna-e jobban, hogy nem sikerült, vagy hogy meg se próbáltuk?
+    - ilyen fontosság/fájdalom súlyokkal korrigálva egyből mást tekintünk majd kockázatosnak...
+
+
+
 ## <a name="6"></a>6 - 
 
 ## <a name="7"></a>7 - 
