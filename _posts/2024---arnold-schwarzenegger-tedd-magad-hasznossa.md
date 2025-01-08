@@ -255,9 +255,44 @@ WD-40 - Water Displacement, 40. formula
 
 
 
-## <a name="6"></a>6 - 
+## <a name="6"></a>6 - Csukd be a szád, nyisd ki az elméd
 
-## <a name="7"></a>7 - 
+Amit mondanánk, azt már tudjuk.
+Szóval ha szeretnénk többet tudni és folyamatosan tanulni -- ami ugye változatos helyeken előkerült már, mint egy elsődleges prioritás -- akkor inkább ne mondjunk annyit, hanem hallgassuk mások mondanivalóját.
+Ők hátha mondanak olyat, amit még nem tudtunk.
+
+Legyünk kíváncsiak és alázatosak.
+Kíváncsiak, hogy érdeklődjünk a világ változatos dolgai és mások szemléletmódja irányt -- és alázatosak, hogy a saját tévedhetetlenség illúziója helyett képesek legyünk változtatni a nézeteinken az új információk fényében.
+Ezekhez pedig kénytelenek leszünk többet hallgatni mint beszélni.
+Vagyis, a szekció címéhez hűen, csukjuk be a szánkat és nyissuk ki az elménket!
+
+> Két füled van, és egy szád, szóval kétszer annyit hallgass, mint beszélj. // közmondás
+
+> Legyen minden ember gyors a hallgatásra, késedelmes a szólásra. // Biblia
+
+A megfelelő "hogyan" és "miért" kérdésekkel egyrészt a másik felet is meggyőzhetjük arról, hogy tényleg érdekel a véleménye, másrészt pedig nekünk is jobban összeáll a kép a fejünkben, ami így szorosabban kapcsolódhat a többi ismeretünkhöz ahelyett, hogy egy izoláltan lebegő infómorzsává válna.
+
+Arnie saját állítása szerint például pont azért élvezte nagyon a kormányzóságát, mert rengeteget tanulhatott új és változatos dolgokról.
+Sokan hitték a politikai ambícióiról, hogy csak ego-projekt, és hogy a kampányolás folyamatos akciója és figyelemözöne után a napról-napra munkát utálni fogja.
+Amit ezek a vélemények nem vettek figyelembe, az az, hogy tanulni szórakoztató -- is lehet.
+A mélyvíz egy nem szorosan kapcsolódó háttérrel rendelkező, de kellően kíváncsi és alázatos ember számára a legnagyszerűbb iskolázási lehetőség.
+Járjunk hát nyitott szemmel, és szívjunk mindent magunkba, mint egy szivacs.
+És aztán használjuk a megszerzett tudást!
+
+Illetve egy megjegyzés, ha már tanulás és iskola: a formális felsőoktatás abszolút nem *szükséges* -- pláne nem modern inkarnációjában, ami inkább fogaskerék-nevelde, és sokszor csak beszűkíti a víziónkat.
+Persze lesznek szakmák, amikhez elengedhetetlen.
+És lesznek vonatkozásai, ami nagyon is jól szolgálhatnak majd -- ha közben nem hagyjuk bedaráltatni magunkat és nem állunk bambán a sorba.
+
+De tekintve, hogy manapság már mennyire alapvető elvárásnak tűnik a munkaerőpiacon, és annyira affelé sodor a társadalmi alapértelmezés, Schwarzy fontosnak tartja a másik oldalt is hangsúlyozni egy kicsit: egyáltalán nem lenne ám muszáj diplomát szerezni.
+Van rengeteg olyan szakma és vállalkozási terület, aminél mellőzhető.
+Sőt, akár mellő**zendő**, ha helyette annál hamarabb belevetjük magunkat a sűrűjébe és tapasztalati úton tanulunk.
+De természetesen a tapasztalati útra is érvényes: pofa befog, elme kinyit.
+
+
+
+## <a name="7"></a>7 - Törd össze a tükreidet
+
+
 
 
 
