@@ -292,11 +292,27 @@ De természetesen a tapasztalati útra is érvényes: pofa befog, elme kinyit.
 
 ## <a name="7"></a>7 - Törd össze a tükreidet
 
+- NON-self-made man --> utalás a videóra
+    - meg Marcus Elmélkedéseinek első könyvére, ami gyakorlatilag egy lista, hogy kinek mit köszönhet
+
+> Segíteni másoknak. Visszaküldeni a liftet, hogy ők is feljöhessenek.
+
+- Harvardi 2008-as kísérlet: 5 vs. 20 dollárt adtak a résztvevőknek, hogy csináljanak vele, amit akarnak
+    - a nap végén azok érezték ettől a legjobban magukat, akik másoknak adták, nem magukra költötték
+    - és a legfontosabb: kb. semmi különbség nem volt az 5 és a 20 dolláros csoport között
+    - nem az a fontos, hogy mennyit adunk, hanem hogy adjunk!
+    - lásd Bagdy, "segíts"
+
+- és bárki segíthet, nem a mély zsebű adományozásról van szó
+    - csak adjunk vissza - amivel, mint a kutatások mutatják, magunknak is adunk
+
+- vigyázat: függőséget okoz :)
+- és közben senki nem mondja, hogy mondjunk le a személyes ambícióinkról
+    - dolgozzunk, hogy nekünk se kelljen szűkölködni
+    - de azért is, hogy legyen miből visszaadni
 
 
-
-
-
+- zárszó: Marcus Aurelius! :)
 
 
 
