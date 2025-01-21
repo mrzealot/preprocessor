@@ -4,6 +4,7 @@ title: George Patton - War As I Knew It
 tags: [stratégia]
 pages: 448
 date: 2020-08-29 00:01
+youtube: x5NWtH9VQ50
 excerpt: >
     Folytatódnak a "második kör" párválasztásai, ahol ugye az első 20 közös olvasmányunkhoz keresünk hivatkozott, vagy legalábbis tematikusan jól illeszkedő társakat.
     A héten Bill Walsh vezetői kézikönyve a kiindulási pont, ami szinte csak egyetlen könyvet említ (így újra nem volt nehéz a döntés).

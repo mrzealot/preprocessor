@@ -4,6 +4,7 @@ title: Mason Currey - Napi rituálék
 tags: [produktivitás]
 pages: 304
 date: 2020-11-21 00:01
+youtube: xq7ZnOC5740
 excerpt: >
     A mai bejegyzés két alapra is épít.
     Egyrészt világos volt, hogy a Totto-chan párjának valami életrajz-szerűt illene keresnem.

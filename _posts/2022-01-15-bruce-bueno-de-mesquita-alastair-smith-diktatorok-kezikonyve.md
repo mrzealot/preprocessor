@@ -5,6 +5,7 @@ cover: dictators_handbook
 tags: [stratégia]
 pages: 400
 date: 2022-01-15 00:01
+youtube: 4enVdo5z31Q
 excerpt: >
     Első ránézésre ritkán logikus, hogy a nyilvánvalóan korrupt, csaló, hazug, *[illeszd ide a kedvenc negatív jelződet]* politikusok hogy maradnak hatalmi pozícióban olyan sokáig.
     Hogy lehet egy erőforrásokban gazdag ország lakossága szegény?

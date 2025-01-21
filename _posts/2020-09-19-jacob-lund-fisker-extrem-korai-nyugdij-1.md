@@ -4,6 +4,7 @@ title: Jacob Lund Fisker - Extrém Korai Nyugdíj - 1
 tags: [pénzügyek, szemléletmód]
 pages: 240
 date: 2020-09-19 00:01
+youtube: g0F-9kC1U9M
 excerpt: >
     Vicki Robin pénzügyi intrója után már megalapozottan következhet egy régebbi kedvencem az anyagi függetlenség témakörében.
     Ezúttal pedig az "extrém" végletekig is elmegyünk, mint ahogy arra talán a cím is utal.

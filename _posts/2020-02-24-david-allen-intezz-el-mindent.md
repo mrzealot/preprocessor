@@ -5,6 +5,7 @@ cover: gtd
 tags: [produktivitás]
 pages: 352
 date: 2020-02-24 22:00
+youtube: -OykcX4w1vQ
 hreflang: david-allen-getting-things-done
 excerpt: >
     A mai bejegyzésben a magasztos, absztrakt gondolatok világából visszakanyarodnék kicsit a konkrét, szokványos, színtelen-szagtalan világunkba.

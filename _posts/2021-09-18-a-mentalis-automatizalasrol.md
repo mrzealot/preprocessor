@@ -4,6 +4,7 @@ title: A mentális automatizálásról
 cover: mentalautomation
 tags: [szösszenet]
 date: 2021-09-18 00:01
+youtube: Bx1XE61Y0rU
 excerpt: >
     A megváltozott blog tempó értelmében a héten ugye nem könyvet dolgozunk fel, hanem az újdonsült "szösszenet" kategóriát bővítjük egy hamisítatlan Preprocessor bölcsesség-bonbonnal.
     És tekintve, hogy az elmúlt héten egy bizonyos tanulság két különböző privát beszélgetésben is szinte szó szerint pofán csapott, ezért gondoltam, kezdjünk azzal.

@@ -4,6 +4,7 @@ title: Jason Fung - Az elhízás kulcsa
 tags: [táplálkozás]
 pages: 328
 date: 2020-10-17 00:01
+youtube: N0BmtWnZd5c
 excerpt: >
     Chris Aceto elvileg minden lényegeset összefoglalt a táplálkozási alapelvekkel kapcsolatban.
     Viszont mivel az a blokk egy hangyányit tömörre sikeredett, és nem titkoltan "gyúrós" szemszögből íródott, ezért úgy gondoltam jót tenne mellé egy eleve közérthetőbbnek szánt okfejtés.

@@ -3,6 +3,7 @@ layout: post
 title: Jacob Lund Fisker - Extrém Korai Nyugdíj - 2
 tags: [pénzügyek, minimalizmus]
 date: 2020-09-26 00:01
+youtube: mezOjolQrFs
 excerpt: >
     A héten Jacob Lund Fisker Extrém Korai Nyugdíjazásról szóló könyvének vesézését folytatjuk.
     Aki lemaradt volna az első feléről, az nyugodtan olvasson vissza, a többiekkel pedig a következő szálakon megyünk tovább...

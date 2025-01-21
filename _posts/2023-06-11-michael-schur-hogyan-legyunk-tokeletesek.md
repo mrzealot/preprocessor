@@ -5,6 +5,7 @@ cover: howtobeperfect
 tags: [szemléletmód]
 pages: 336
 date: 2023-06-11 00:01
+youtube: s0LULvxlBL8
 excerpt: >
     Schur-t a legtöbben az Office vagy a Parks & Recreation kapcsán ismerhetik, de ő alkotta a kriminálisan alulértékelt The Good Place című sorozatot is.
     A szó szerinti mennyet és poklot megjáró sztori olyan vicces, hogy közben szinte észre sem veszi az ember a háttérben átszivárgó filozófia oktatást.

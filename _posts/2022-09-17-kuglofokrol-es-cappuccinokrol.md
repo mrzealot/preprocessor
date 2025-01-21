@@ -4,6 +4,7 @@ title: Kuglófokról és cappuccinokról
 cover: cappuccino
 tags: [szösszenet]
 date: 2022-09-17 00:01
+youtube: sKRa5bYCxi4
 excerpt: >
     ...avagy miért fontos a hála, és hogyan találtam rá az új kedvenc idézetemre, amivel erre emlékeztethetem magam.
 ---

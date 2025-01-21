@@ -5,6 +5,7 @@ cover: grit
 tags: [szemléletmód]
 pages: 424
 date: 2023-07-13 00:01
+youtube: 4kbjvsiHAaI
 excerpt: >
     Amíg Carol Dweck növekedési szemléletmódja leginkább arra koncentrál, hogy egyáltalán elhitesse velünk, hogy zsenialitás nélkül is végig tudunk menni az úton, addig Duckworth már jobban arra koncentrál, hogy **hogyan** menjünk végig azon a bizonyos úton.
     Főleg ha tele lesz bukkanókkal és kellemetlenségekkel.
