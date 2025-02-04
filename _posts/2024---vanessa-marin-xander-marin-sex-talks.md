@@ -22,20 +22,38 @@ Ez persze köztudottan szuper üzlet, mert egy pár kényelmetlen szitu elkerül
 Na ettől a sorstól ment meg minket Vanessa Marin szexuálpszichológus Sex Talks című könyve, amiben férjével, Xanderrel együtt mind a szakmai, mind az "átlagember" szemszöget képesek lefedni a témában.
 Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikációról (hogy ezt a másik tudtára adhassuk), és a fenntarthatóságról (hogy az így kikalapált helyzet innentől így is maradjon).
 
+A tartalom a következőképp alakul:
+
+- [Mindent rólad](#rolad)
+- [Alapszabályok](#alapszabalyok)
+- Öt párbeszéd a szexről
+    1. [Felismerés - azaz "Van szexuális életünk"](#1)
+    1. [Kapcsolódás - azaz "Mit tegyünk, hogy közel érezzük magunkat egymáshoz?"](#2)
+    1. [Vágy - azaz "Mire van szükségünk ahhoz, hogy izgalomba jöjjünk?"](#3)
+    1. [Gyönyör - azaz "Mi kell nekünk ahhoz, hogy élvezetes legyen a szex?"](#4)
+    1. [Felfedezés - azaz "Mit kéne még kipróbálnunk?"](#5)
+- [Égjen az ikerláng egy életen át](#ikerlang)
+
+<br>
 
 
-## Mindent rólad
 
-- saját informális felmérése alapján a legtöbben azt mondják: a szex akkor jó, ha "természetes"
-    - mert ugye azt látjuk a filmekben és olvassuk a magazinokban, hogy ez csak úgy megtörténik
-    - kémia orrba-szájba, meg se kell szólalni, a másik persze pont azt akarja és akkor, amit és amikor mi...
-    - na ja...
-- különben szó szerinti kémia is van a háttérben
-    - csak nem a javunkra dolgozik. legalábbis nem sokáig
-    - nagyon leegyszerűsítve: a kapcsolat elején még sokkal több szerotonin/dopamin a vágyhoz, később viszont inkább oxitocin/vazopresszin a kötődéshez
-    - stresszes életmód = kortizol, üss-vagy-fuss reakció, és a "szükségtelen" funkciók (mint például a vágy) lekapcsolása
-- gyerekek miatti "ellehetetlenedés", fáradtság, visszautasítás
-    - ezek egyike sincs a tündérmesében - de a valóságban annál inkább
+
+
+
+## <a name="rolad"></a>Mindent rólad
+
+A szerző saját, informális felmérései alapján a legtöbben azt mondják: a szex akkor jó, ha "természetes".
+Mert ugye azt látjuk a filmekben és olvassuk a magazinokban, hogy ez csak úgy megtörténik.
+Kémia orrba-szájba, meg se kell szólalni, a másik persze pont azt akarja és akkor, amit és amikor mi...
+Na ja.
+
+Különben szó szerinti kémia is van a háttérben -- csak nem a javunkra dolgozik.
+Legalábbis nem sokáig.
+Nagyon leegyszerűsítve: a kapcsolat elején még sokkal több szerotonin/dopamin a vágyhoz, később viszont inkább oxitocin/vazopresszin a kötődéshez.
+Plusz a stresszes életmód miatt némi kortizol az üss-vagy-fuss reakcióhoz, ami hajlamos más, "szükségtelen" funkciókat (mint például a vágy) egyszerűen lekapcsolni.
+A gyerekek miatti "ellehetetlenedés", a fáradtság és a visszautasítás meg már csak hab a tortán.
+Ezek egyike sincs a tündérmesében, de a valóságban annál inkább.
 
 - az első és legalapvetőbb lépés a tündérmese elfelejtése
     - ha bármikor felmerül a "kell" vagy a "kéne", az legyen gyanús
@@ -71,8 +89,20 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
         - senki nem születik szégyenérzettel!
     - egy frankó mentális gyakorlat: kövessük vissza, hogy egy hiedelmünk honnan/kitől származik, majd képzeljük el, ahogy szó szerint visszaadjuk neki a csomagot, mert az nem a miénk és nem szolgál minket.
 
+    <br>
 
-## Öt párbeszéd a szexről
+
+
+
+
+
+
+
+
+
+
+
+## <a name="alapszabalyok"></a>Alapszabályok
 
 - ha magunkkal így megvagyunk, akkor jöhetnek a párbeszédek
     - de először is pár alapszabály:
@@ -88,7 +118,9 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
             +2. és csak akkor reakció, ha a másik már elmondta, mit akar - NEM amikor a felénél tart, de mi már azt hisszük, hogy tudjuk, hova akar vele kilyukadni! (mert lehet, hogy marhára nem oda)
         9. legyünk együttérzőek! empátia!
 
-- és akkor most jöhetnek a párbeszédek
+- és akkor most jöhet az emlegetett öt párbeszéd a szexről...
+
+<br>
 
 
 
@@ -97,7 +129,11 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 
 
-1. Felismerés - azaz "Van szexuális életünk"
+
+
+
+
+## <a name="1"></a>1 - Felismerés - azaz "Van szexuális életünk"
 
 - furcsának hangozhat, de az első lépés sokszor az, hogy egyáltalán fel- (és el-)ismerjük, **van** szexuális életünk.
     - mert hát habár van, erről gyakran még a párunkkal sem beszélünk
@@ -143,6 +179,7 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
     - erről nem kell beszélni - természetesnek kéne lennie
         - öö, de, kéne róla beszél
 
+<br>
 
 
 
@@ -151,7 +188,11 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 
 
-2. Kapcsolódás - azaz Mit tegyünk, hogy közel érezzük magunkat egymáshoz?
+
+
+
+
+## <a name="2"></a>2 - Kapcsolódás - azaz "Mit tegyünk, hogy közel érezzük magunkat egymáshoz?"
 
 - ha azt érezzük, hogy elhidegültünk a másiktól
     - kevés az együtt töltött minőségi idő (lásd Chapman)
@@ -203,6 +244,7 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
     - az érintéstől nem jön egyből izgalomba
         - nem is feltétlen kéne - főleg ha nem kimondottan szexuális célzatú az az érintés
 
+<br>
 
 
 
@@ -211,7 +253,14 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 
 
-3. Vágy - azaz mire van szükségünk ahhoz, hogy izgalomba jöjjünk?
+
+
+
+
+
+
+
+## <a name="3"></a>3 - Vágy - azaz "Mire van szükségünk ahhoz, hogy izgalomba jöjjünk?"
 
 - sokaknak ez lesz a legkellemetlenebb beszélgetés
     - mert kiderülhet, hogy ami régen működött, az most már nem működik
@@ -297,10 +346,19 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
         - NOPE - a libidó sok "én" probléma miatt is lehet alacsony, nem csak a "mi" dolgok miatt
         - de ezeket mindenképp beszéljük meg, ne csak feltételezzük, hogy "biztos azért nem jön, mert már nem tetszem neki"
 
+<br>
 
 
 
-4. Gyönyör - azaz mi kell nekünk ahhoz, hogy élvezetes legyen a szex?
+
+
+
+
+
+
+
+
+## <a name="4"></a>4 - Gyönyör - azaz "Mi kell nekünk ahhoz, hogy élvezetes legyen a szex?"
 
 - megvolt a konstatálás, a kapcsolódás, és a vágy gerjesztés
     - most már akkor csináljuk már
@@ -347,6 +405,7 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
         - igen - akármilyen kellemetlen is lesz ezt a beszélgetést lefolytatni, csak így nyílik út az igazi orgazmushoz
     - 
 
+<br>
 
 
 
@@ -355,7 +414,15 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 
 
-5. Felfedezés - azaz mit kéne még kipróbálnunk?
+
+
+
+
+
+
+
+
+## <a name="5"></a>5 - Felfedezés - azaz "Mit kéne még kipróbálnunk?"
 
 - a rutin és a megszokás a legjobb testi élményt is megfoszthatja a... nos, az élménytől
     - gondoljunk bele, hogy ha csak a kedvenc kajánkat ehetnénk innentől kezdve
@@ -406,6 +473,7 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
         - beszéljetek róla újra, jó hangulatban, és fektessétek le, hogy a személyes preferenciákat nem fujjogjuk!
         - az nem baj, ha végül valamire nem lesz a válasz, de az ítélkezést hagyjuk
 
+<br>
 
 
 
@@ -414,7 +482,13 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
 
 
 
-## Égjen az ikerláng egy életen át
+
+
+
+
+
+
+## <a name="ikerlang"></a>Égjen az ikerláng egy életen át
 
 - a konfliktus csak kötődési próbálkozás, ahol mindketten más-más úton próbálunk közelíteni
 - ha a másik nem tűnik elkötelezettnek, annak rengeted egyéb oka lehet, mint hogy tényleg nem elkötelezett
@@ -449,6 +523,16 @@ Szó esik a mélyebb önismeretről (hogy tudjuk, mit akarunk), a kommunikáció
     - randizzunk, legyenek közös kis rituáléink, rendszeresen tartsunk "meetinget" a kapcsolati státuszunkról, mondjuk el, hogy miért vagyunk hálásak egymásnak, stb.
     - és álljunk bele, ha valami nem jó - mert csak úgy lehet jó
     > Ugye a virágot sem hibáztatnátok, ha elszáradna, mert senki nem locsolta?
+
+<br>
+
+
+
+
+
+
+
+
 
 
 
