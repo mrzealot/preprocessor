@@ -6,11 +6,14 @@ tags: [kapcsolatok]
 pages: 320
 date: 2025-02-13 00:01
 excerpt: >
-    TODO
+    A szikra magától mindenhol kialszik.
+    Az mindegy, hogy mekkora intenzitással indult az elején -- ha nincs "gondozva", akkor előbb-utóbb lecseng a szexuális vonzalom a legjobb kapcsolatokban is.
+    A gondozással pedig az a baj, hogy (kb. a jó szex szöges ellentéteként) egy valag kínos beszélgetésből áll.
+    Na ezek a kínos beszélgetések súrlódásmentesebbé tételében segít nekünk Vanessa Marin szexuálpszichológus Sex Talks című könyve...
 ---
 
 A szikra magától mindenhol kialszik.
-Az mindegy, hogy mekkora intenzitással indult az elején - ha nincs "gondozva", akkor előbb-utóbb lecseng a szexuális vonzalom a legjobb kapcsolatokban is.
+Az mindegy, hogy mekkora intenzitással indult az elején -- ha nincs "gondozva", akkor előbb-utóbb lecseng a szexuális vonzalom a legjobb kapcsolatokban is.
 A gondozással pedig az a baj, hogy (kb. a jó szex szöges ellentéteként) egy valag kínos beszélgetésből áll.
 
 Ahogy a szerző fogalmaz: "A legtöbben félnek beszélni a szexről, márpedig a kommunikáció hiánya lassan, de biztosan aláássa az intimitást".
@@ -274,58 +277,61 @@ De ugyanúgy fogadjuk a másikét, és aztán csapatban dolgozunk a megvalósít
 
 > A szex csapatsport.
 
-- lassú tűz
-    - beszéljük meg, hogy hogyan táplálhatjuk egész nap, hogy folyamatosan "langyos" maradjon a hangulat
+Első lépés a lassú tűz életben tartása.
+Beszéljük meg, hogyan táplálhatjuk egész nap, hogy folyamatosan "langyos" maradjon a hangulat.
 
-- blokkoló tényezők kigyomlálása
-    - rossz a lehellete, izzadt, csámcsog, böfög/fingik
-    - mindenhol meglesznek, amik a másik irányba húznak, és soha többé hozzá nem nyúlnánk a másikhoz
-    - fontos a kapcsolat alap minősége
-        - ha amúgy érzelmileg rendben vannak a dolgaink (és ezért kezdtünk azzal), akkor az ilyesmi csak kisebb súrlódás
-        - ha nem, akkor válóok is lehet
-    - ezeket sokkal könnyebb lesz beazonosítani (mert idegesítőek)
-        - de próbáljunk legalább ilyen alapos figyelmet fordítani azokra is, amik vágykeltőek (hogy kiegyensúlyozottabb, valósabb legyen a kép a fejünkben, ne egy torz karikatúra)
-    - a blokkolókról pedig mindig igyekezzünk nyugodt, kipihent állapotban beszélni, mert akkor a legnagyobb az esélye, hogy át is megy az üzenet, és nem mentegetőzés és veszekedés kerekedik belőle
+Második lépés a blokkoló tényezők kigyomlálása -- értsd, rossz a lehellete, izzadt, csámcsog, böfög/fingik, stb.
+Mindenhol meglesznek, amik a másik irányba húznak, és soha többé hozzá nem nyúlnánk a másikhoz.
+Nyilván fontos a kapcsolat alap minősége, hiszen ha amúgy érzelmileg rendben vannak a dolgaink (és ezért kezdtünk azzal), akkor az ilyesmi csak kisebb súrlódás.
+Ha nem, akkor válóok is lehet.
 
-- és aztán ott van még maga az élvezet
-    - ha az nem elég jó, akkor mitől várnánk, hogy vágyni fogunk rá
-    > Éreztél valaha késztetést, hogy pépes, agyonfőzött, ízetlen brokkolit egyél? Buzogtál valaha a vágytól, hogy elolvasd a samponos flakon alján lévő feliratot? Na ugye! A szex sem más.
-    - szóval a szex minőségével nyilván a vágy is fejleszthető - de erre még visszatérünk
+Ezeket sokkal könnyebb lesz beazonosítani, mint a tűz életben tartásához való összetevőket, mert ugye az idegeinkre mennek.
+De pont ezért próbáljunk legalább ilyen alapos figyelmet fordítani azokra is, amik vágykeltőek (hogy kiegyensúlyozottabb, valósabb legyen a kép a fejünkben a párunkról, ne egy torz karikatúra).
+A blokkolókról pedig mindig igyekezzünk nyugodt, kipihent állapotban beszélni, mert akkor a legnagyobb az esélye, hogy át is megy az üzenet, és nem mentegetőzés vagy veszekedés kerekedik belőle.
 
-- a kezdeményezést ne poénkodjuk el
-    - fáj a visszautasítás, de akkor is legyünk őszinték a próbálkozásunkban
-    - ne tervezzünk bele előre "lelegyinthetőséget" a kudarc esetére, hogy "Á, csak vicceltem"
-    - ne utalgassunk, ne hibáztassunk, ne pislogjunk "sokatmondóan" vagy taperoljuk a másikat váratlanul
-- illetve lépjünk túl a sztereotípiákon, miszerint a férfi dolga a kezdeményezés, a nő pedig a passzív fél
-    - fontos, hogy mindkét fél kezdeményezzel VALAMENNYIT
-        - hogy egyrészt mindenki felfedezze, hogy ő maga mikor akarna valamit
-        - másrészt azt is érezhesse, hogy kívánják
-    - de ennek az egyensúlynak a belövése (meglepetés) kapcsolatfüggő!
-- kb. a kezdeményezésnek is vannak "szeretetnyelvei"
-    - ezt is vehetjük a használati utasításunkhoz
-    - egy tipp: tekintsük meghívásnak
-        - egy barátunkat hogy hívnánk meg egy közös programra?
-- illetve a másik oldalról próbáljunk flexibilisek lenni
-    - ha nem olyan formájú a kezdeményezés, mint szeretnénk, de attól "átjött" az üzenet, akkor azért fontoljuk meg, hogy nem lenne-e az jó nekünk is
-    - hátha menet közben belelendülünk (lásd reaktivitás!)
-    - ha pedig tényleg nem a válasz, akkor is tapintatosan közöljük
-        - nem kötelességünk megmagyarázni, de sokat segít
-        - lehet, hogy saját magunknak sem árt az a magyarázat, mert ráébredünk, hogy valójában nem is a szexre akarunk nemet mondani, hanem valami másra kellett volna (és most csak neheztelésből büntetnénk a másikat)
+Harmadik lépésnek ott van maga az élvezet.
+Elvigre ha az nem elég jó a közös program, akkor mitől várnánk, hogy vágyni fogunk rá.
 
-- akár készítsünk szexuális "menüt"
-    - nem mindig kell ugyanolyan legyen a szex
-    - létezhet az étlapon a gyorskajától a 6 fogásos gurmé lakomáig bármi
+> Éreztél valaha késztetést, hogy pépes, agyonfőzött, ízetlen brokkolit egyél? Buzogtál valaha a vágytól, hogy elolvasd a samponos flakon alján lévő feliratot? Na ugye! A szex sem más.
 
-- ezek fényében beszéljük át egymás
-    - vágyait
-    - vágy blokkolóit
-    - kezdeményezési preferenciáit
-    - lassú tüzes hangulat-fenntartási stratégiáit
-    - visszautasítási módszereit
-- és NINCS megszégyenítés
-    - nem muszáj mindenbe belemenni, ami a másiknak izgató
-    - de soha ne nevessük ki vagy nézzük le azért, amit izgatónak talál
-    - Nagoski-féle ne fujjogjuk más nyamm-ját!
+Szóval a szex minőségével nyilván a vágy is fejleszthető -- de erre még a következő szekcióban visszatérünk.
+
+Végül negyedik lépésként következhet a kezdeményezés témaköre, amit igyekezzünk nem elpoénkodni.
+Fájni fog a visszautasítás, de akkor is legyünk őszinték a próbálkozásunkban.
+Ne tervezzünk bele előre "lelegyinthetőséget" a kudarc esetére, hogy "Á, csak vicceltem".
+Ne utalgassunk, ne hibáztassunk, ne pislogjunk "sokatmondóan" vagy taperoljuk a másikat váratlanul.
+Legyen "fájdalmasan egyértelmű", mit szeretnénk.
+
+Illetve lépjünk túl a sztereotípiákon, miszerint a férfi dolga a kezdeményezés, a nő pedig a passzív fél.
+Az lenne az ideális, ha mindkét fél kezdeményezne legalább *valamennyit*.
+Hogy egyrészt mindenki felfedezze, hogy ő maga mikor akarna valamit, másrészt azt is érezhesse, hogy kívánják.
+De ennek az egyensúlynak a belövése (meglepetés) kapcsolatfüggő!
+
+Mondhatjuk, hogy a kezdeményezésnek is vannak "szeretetnyelvei".
+Akár ezt is hozzávehetjük a használati utasításunkhoz.
+A kezdeményező oldalon tekintsük meghívásnak -- például egy barátunkat hogy hívnánk meg egy közös programra?
+
+A fogadó oldalon pedig próbáljunk flexibilisek lenni.
+Ha nem olyan formájú a kezdeményezés, mint szeretnénk, de attól "átjött" az üzenet, akkor azért fontoljuk meg, hogy nem lenne-e az jó nekünk is.
+Hátha menet közben belelendülünk (lásd reaktivitás).
+
+Ha pedig tényleg nem a válasz, akkor is tapintatosan közöljük.
+Nem kötelességünk megmagyarázni, de sokat segít.
+Sőt, lehet, hogy saját magunknak sem árt az a magyarázat, mert ráébredünk, hogy valójában nem is a szexre akarunk nemet mondani, hanem valami másra kellett volna (és most csak neheztelésből büntetnénk a másikat).
+
+Ezek fényében beszéljük át egymás:
+
+- Vágyait
+- Vágy blokkolóit
+- Kezdeményezési preferenciáit
+- Lassú tüzes hangulat-fenntartási stratégiáit
+- Visszautasítási módszereit
+
+És ne feledjük, csak semmi megszégyenítés!
+Nem muszáj mindenbe belemenni, ami a másiknak izgató, de soha ne nevessük ki vagy nézzük le azért, amit izgatónak talál.
+Emily Nagoski megfogalmazásában: "Ne fujjogjuk más nyamm-ját"!
+
+> Soha nem fogsz olyan partnert találni, akinek pont ugyanolyanok a szexuális igényei, mint neked. De a partnered elutasító válasza nem azt jelenti, hogy nem lett volna szabad kérned azt a bizonyos dolgot, vagy hogy rossz dolgot kértél.
 
 Potenciális buktatók és kifogások:
 
@@ -351,45 +357,41 @@ Potenciális buktatók és kifogások:
 
 ## <a name="4"></a>4 - Gyönyör - azaz "Mi kell nekünk ahhoz, hogy élvezetes legyen a szex?"
 
-- megvolt a konstatálás, a kapcsolódás, és a vágy gerjesztés
-    - most már akkor csináljuk már
-    - és legyen már jó
-- oké, semmi akadálya
-    - feltéve, hogy az eddigi szempontokat továbbra is megszívleljük, és
-        1. hajlandóak vagyunk felfedezni saját magunkat, és
-        2. erről nyíltan kommunikálunk a másikkal
+Megvolt a konstatálás, a kapcsolódás, és a vágy gerjesztés.
+Most már akkor csináljuk már!
+És legyen már jó!
 
-- beszéljük meg a másikkal, hogy
-    - hol szeretjük az érintést és hogyan
-    - hol szeretjük a csókot és hogyan
-    - milyen energiákat/hangulatokat szeretnénk a hálószobába
-    - milyen fantáziáink vannak, és azokat hogyan tudnánk együtt kiélni
-    - egyáltalán inkább testi, mentális, vagy spirituális megközelítésben fontos-e nekünk a szex
-    - stb.
+Oké, semmi akadálya -- feltéve, hogy az eddigi szempontokat továbbra is megszívleljük, hajlandóak vagyunk felfedezni saját magunkat, és erről nyíltan kommunikálunk a másikkal.
+Beszéljük meg például, hogy:
 
-- persze itt se felejtsük el a pozitív visszacsatolást hangsúlyozni
-    - ne kritizáljuk nyersen, ami nem jó
-    - inkább biztassuk azt, ami jó, és így a nem jó dolgok várhatóan maguktól is kiszorulnak és elsorvadnak
-    - és ha lesz is maradék, azt így már sokkal egyszerűbb kigyomlálni
+- Hol szeretjük az érintést és hogyan,
+- Hol szeretjük a csókot és hogyan,
+- Milyen energiákat/hangulatokat szeretnénk a hálószobába,
+- Milyen fantáziáink vannak, és azokat hogyan tudnánk együtt kiélni,
+- Egyáltalán inkább testi, mentális, vagy spirituális megközelítésben fontos-e nekünk a szex, stb.
 
-- az összecsiszolódással kapcsolatban is adjunk le a tündésmesés elvárásainkból
-    - nagy valószínűséggel nem csak egyszer kell valamit elmondani
-    - nem sokszor lesz egyből észbontó a változtatás
-    - de ha csiszoljuk, akkor el lehet oda jutni!
+Persze itt se felejtsük el a pozitív visszacsatolást hangsúlyozni.
+Ne kritizáljuk nyersen, ami nem jó -- inkább biztassuk azt, ami jó, és így a nem jó dolgok várhatóan maguktól is kiszorulnak és elsorvadnak.
+És ha lesz is maradék, azt így már sokkal egyszerűbb kigyomlálni.
 
-- látásvizsgálati módszer
-    - ne azt kérdezzük, hogy mit szeretne a másik, mert az túl nyitott
-    - legyen inkább olyan, mint amikor a szemész két dioptria közül kérdezi, hogy melyik az élesebb
-    - így sok limitált (és ezért sokkal könnyebben eldönthető) összehasonlításon keresztül eljuthatunk oda, ahova egy lépésben nem tudtunk volna
+Az összecsiszolódással kapcsolatban (ahogy ugye mindenhol máshol) adjunk le a tündésmesés elvárásainkból.
+Nagy valószínűséggel nem csak egyszer kell majd valamit elmondani.
+És nem sokszor lesz egyből észbontó a változtatás.
+De ha csiszoljuk, akkor el lehet oda jutni!
 
-- orgazmus egyenlőség!
-    - a női csikló kb. a férfi pénisz ekvivalense (csak még érzékenyebb)
-    - a hüvely pedig inkább a herékhez hasonlítható ingerlés szempontjából
-    - ha most a "pénisz a hüvelybe" alapértelmezés egyértelműen a férfiaknak kedvez (ezért van nálunk jelentősen gyakoribb orgazmus)
-    - cserébe képzeljük el, milyen lenne, ha az lenne az elterjedt szexuális módszer, hogy a herét kéne a csiklóhoz dörgölni
-    - egyből a nők kerülnének előnybe, és a férfiak meg valószínűleg hangosan reklamálnának, hogy hát de az ő orgazmusukkal mi lesz?!
-    - na ugye!
-    - szóval több figyelmet a csiklóknak világszerte! :)
+Egy hasznos praktikus tipp, ha az ún. "látásvizsgálati módszerrel" állunk hozzá.
+Ne azt kérdezzük, hogy mit szeretne a másik, mert az túl nyitott.
+Legyen inkább olyan, mint amikor a szemész két dioptria közül kérdezi, hogy melyik az élesebb.
+Így sok limitált (és ezért sokkal könnyebben eldönthető) összehasonlításon keresztül eljuthatunk oda, ahova egy lépésben nem tudtunk volna.
+
+Illetve egy másik praktikus tipp, hogy gondoljunk bele egy kicsit az anatómiába.
+A női csikló kb. a férfi pénisz ekvivalense (csak még érzékenyebb).
+A hüvely pedig inkább a herékhez hasonlítható ingerlés szempontjából.
+Na most a "pénisz a hüvelybe" alapértelmezés egyértelműen a férfiaknak kedvez -- ezért van azon az oldalon jelentősen gyakoribb orgazmus.
+Cserébe képzeljük el, milyen lenne, ha az lenne az elterjedt szexuális módszer, hogy a herét kéne a csiklóhoz dörgölni.
+Egyből a nők kerülnének előnybe, és a férfiak meg valószínűleg hangosan reklamálnának, hogy hát de az ő orgazmusukkal mi lesz?!
+Na ugye!
+Szóval a tanulság, hogy több figyelmet a csiklóknak világszerte.
 
 Potenciális buktatók és kifogások:
 
@@ -414,41 +416,38 @@ Potenciális buktatók és kifogások:
 
 ## <a name="5"></a>5 - Felfedezés - azaz "Mit kéne még kipróbálnunk?"
 
-- a rutin és a megszokás a legjobb testi élményt is megfoszthatja a... nos, az élménytől
-    - gondoljunk bele, hogy ha csak a kedvenc kajánkat ehetnénk innentől kezdve
-    - még ha az elején imádtuk is, pár hét (vagy év) múlva már a könyökünkön jön majd ki
-- a szexszel ugyanez a helyzet
-    - hiába tesszük rendbe a kapcsolódást, a vágyat és a gyönyört is, akkor is bele lehet fásulni
+A rutin és a megszokás a legjobb testi élményt is megfoszthatja a... nos, az élménytől.
+Gondoljunk bele, hogy ha csak a kedvenc kajánkat ehetnénk innentől kezdve.
+Még ha az elején imádtuk is, pár hét (vagy **év**) múlva már a könyökünkön jön majd ki.
+A szexszel ugyanez a helyzet -- hiába tesszük rendbe a kapcsolódást, a vágyat és a gyönyört is, akkor is bele lehet fásulni.
 
-- de hát ha már egyszer azt az egy működőképes rutint is olyan nehéz volt kitaposni, akkor utána miért kockáztatna az ember?
-    > Mi lesz, ha kipróbáltok valami újat, és rosszul sül el a dolog? Mi lesz, ha zavarba jössz? Mi lesz, ha fáj? Mi lesz, ha olyasmit javasolsz, amit kritikával illet a partnered? Mi lesz, ha kiderül, hogy a drágalátos, visszafogott férjed titkon arra vágyik, hogy bepelenkázd és babusgasd? Mi lesz, ha kiderül, hogy ez neked is bejön?
+De hát ha már egyszer azt az egy működőképes rutint is olyan nehéz volt kitaposni, akkor utána miért kockáztatna az ember?
 
-- valamennyi kísérletezés és változatosság elengedhetetlen, hogy hosszú távon, fenntarthatóan jó legyen
+> Mi lesz, ha kipróbáltok valami újat, és rosszul sül el a dolog? Mi lesz, ha zavarba jössz? Mi lesz, ha fáj? Mi lesz, ha olyasmit javasolsz, amit kritikával illet a partnered? Mi lesz, ha kiderül, hogy a drágalátos, visszafogott férjed titkon arra vágyik, hogy bepelenkázd és babusgasd? Mi lesz, ha kiderül, hogy ez neked is bejön?
 
-- ne azt kérdezzük, hogy "mi piszkálja fel a fantáziádat"
-    - ez arra utal, hogy biztosak vagyunk benne - tudjuk, hogy élvezni fogjuk
-    - meg a fantázia szó hordoz szerepjátékos, már a gondolattól beindulok jellegű konnotációt
-    - plusz aki már konkrét fantáziákig jut, az valószínűleg meg is osztja
-    - kérdezzük inkább, hogy "nincs-e valami, amire kíváncsi lennél? amit szívesen kipróbálnál?"
+Ha van egy működőképes rutin, az természetesen szuper.
+De valamennyi kísérletezés és változatosság sajnos elengedhetetlen, hogy hosszú távon, fenntarthatóan jó legyen.
 
-- ha az opciókra sincs ötletünk (amit a mai átlag pornófogyasztási statisztikák mellett azért kétlek), akkor a könyv szolgál egy szép hosszú listával, amit együtt megbeszélhetünk, és igen/nem/talán kategóriákba sorolhatunk a saját ízlésünknek megfelelően
+Egy praktikus tipp, hogy soha ne azt kérdezzük a másiktól, mi piszkálja fel a fantáziáját.
+Ez ugyanis arra utal, hogy biztosnak kell lennie benne -- tudni kell előre, hogy élvezni fogja.
+Plusz a "fantázia" szó önmagában is hordoz egy szerepjátékos, "már a gondolattól beindulok" jellegű konnotációt.
+(És aki már konkrét fantáziákig jutott fejben, az valószínűleg meg is fogja osztani.)
+Kérdezzük inkább, hogy "Nincs-e valami, amire kíváncsi lennél? Amit szívesen kipróbálnál?".
 
-- nincs megszégyenítés!
-    > Soha nem fogsz olyan partnert találni, akinek pont ugyanolyanok a szexuális igényei, mint neked. De a partnered elutasító válasza nem azt jelenti, hogy nem lett volna szabad kérned azt a bizonyos dolgot, vagy hogy rossz dolgot kértél.
-    
-    > Emberként egyáltalán nem minősít, hogy szereted-e a gombát vagy a kéksajtot, így az sem jelent semmit, hogy szívesen elégíted-e ki orálisan a partneredet, vagy szereted-e a tehenészlánypózt.
+Ha pedig az opciókra sincs ötletünk (amit a mai átlag pornófogyasztási statisztikák mellett azért kétlek), akkor a könyv szolgál egy szép hosszú listával, amit együtt megbeszélhetünk, és igen/nem/talán kategóriákba sorolhatunk a saját ízlésünknek megfelelően.
+Kb. mint a közlekedési lámpák zöld/piros/sárga osztása, ami aztán kezdőpontot adhat a további kísérletezéshez.
 
-- érdemes apró lépésekben haladni
-- néha iktassuk a "rutin" szex mellé - természetesen nem kell mindig valami vad őrültséget csinálni
-    - csak ne is folyton a vajas pirítós
+Ami a legfontosabb az újdonságok kitaposása során, hogy ne legyen semmiféle megszégyenítés egyik oldalról sem!
 
-- elsőpalacsinta-szabály
-    - rögtön elsőre semmi nem lesz tökéletes
-    - ha nem egyből jó az újdonság, attól még nem érdemes feladni és visszamenekülni a komfortzónába
-    - ha nem látványos katasztrófa, akkor mondjuk legalább három esélyt kapjon
+> Emberként egyáltalán nem minősít, hogy szereted-e a gombát vagy a kéksajtot, így az sem jelent semmit, hogy szívesen elégíted-e ki orálisan a partneredet, vagy szereted-e a tehenészlánypózt.
 
-- utána (másnap!) beszéljük meg, hogy jó volt-e, akarnánk-e újra, stb.
-    - de mindenképp tegyük hozzá, hogy már az önmagában milyen nagy pozitívum, hogy egyáltalán próbálkozunk!
+Pár tanács a folyamat súrlódásmentesítésére:
+
+- Érdemes apró lépésekben haladni. Csak néha iktassun ilyesmiket is a "rutin" szex mellé. Természetesen nem kell mindig valami vad őrültséget csinálni -- csak ne is folyton a full megszokás.
+
+- Szívleljük meg az "elsőpalacsinta-szabályt", vagyis hogy rögtön elsőre semmi nem lesz tökéletes. Ha nem egyből jó az újdonság, attól még nem érdemes feladni és visszamenekülni a komfortzónába. Ha nem látványos katasztrófa, akkor mondjuk legalább három esélyt kapjon egy ötlet, mielőtt nyugdíjba küldjük.
+
+- Utána (másnap!) beszéljük meg, hogy jó volt-e, akarnánk-e újra, stb. És mindenképp tegyük hozzá, hogy már az önmagában milyen nagy pozitívum, hogy egyáltalán próbálkozunk!
 
 Potenciális buktatók és kifogások:
 
@@ -524,3 +523,10 @@ Randizzunk, legyenek közös kis rituáléink, rendszeresen tartsunk "meetinget"
 
 
 ## Összefoglalás
+
+Ha egyetlen dolog marad meg ebből a könyvből, akkor az remélhetőleg annyi, hogy máshol sincs kolbászból a kerítés.
+A szex a legtöbb helyen nem tökéletes, spontán és súrlódásmentes -- és ahol igen, ott sem lesz ez mindig így.
+Vagyis ha beszélni kell róla és dolgozni érte, az nem "izzadtság szagú", hanem természetes.
+
+Aztán, ha a saját fejünkben már sikerült elengednünk a tündérmesét, akkor jöhet Marinék öt beszélgetése a felismerésről, a kapcsolódásról, a vágyról, a gyönyörről és a felfedezésről.
+Rágjuk ezeket végig a párunkkal, legyünk nyitottak és flexibilisek, nézzünk szembe az elkerülhetetlen kellemetlenségekkel, és meglátjuk, mennyit javul a kapcsolatunk általános légköre -- a hálószobai hangulatról nem is beszélve.
