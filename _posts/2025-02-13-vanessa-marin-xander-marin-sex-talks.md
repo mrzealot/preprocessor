@@ -58,7 +58,7 @@ Plusz a stresszes életmód miatt némi kortizol az üss-vagy-fuss reakcióhoz, 
 A gyerekek miatti "ellehetetlenedés", a fáradtság és a visszautasítás meg már csak hab a tortán.
 Ezek egyike sincs a tündérmesében, de a valóságban annál inkább.
 
-Az első és legalapvetőbb lépés a tündérmese elfelejtése.
+Az első és legalapvetőbb lépés tehát a tündérmese elfelejtése.
 Ha bármikor felmerül a "kell" vagy a "kéne", az legyen gyanús.
 A szexuális maximalizmusnak köszönhetően egyszerűen elképzeljük, hogyan kéne mennie a dolgoknak legjobb esetben, és aztán csalódunk, mert a valóságban nem úgy mennek.
 Pedig a csetlés-botlás tök normális -- érdemes lenne az elvárásainkat is ehhez igazítani.
@@ -75,12 +75,12 @@ Ehhez pedig mindenek előtt egy kis emlékeztető a [Nagoski]({% post_url 2022-0
 
 - A vágynak spontán és reaktív típusai is léteznek -- és attól, hogy nem spontán fajták vagyunk, az még nem jelenti, hogy valami "baj" lenne a libidónkkal.
 
-- A vágy kialakulása a gázpedálon és a féken is múlik -- és nem feltétlen azzal van a baj, hogy ne lenne ott vágy, *ha* nem lennének visszafogó tényezők. Gondonjunk rá úgy, hogy ha ideális körülmények között sem megy, akkor az inkább gáz probléma. De ha igen, csak ez a "csillagok együttállása" túl ritkán fordul elő, akkor az inkább fék probléma.
+- A vágy kialakulása a gázpedálon és a féken is múlik -- és nem feltétlen azzal van a baj, hogy ne lenne ott vágy, *ha* nem lennének visszafogó tényezők. Gondoljunk rá úgy, hogy ha ideális körülmények között sem megy, akkor az inkább gáz probléma. De ha igen, csak ez a "csillagok együttállása" túl ritkán fordul elő, akkor az inkább fék probléma.
 
 A következő lépés átgondolni, hogy mi izgat.
 Marin technikája: képzeljük, hogy milliós szerződésünk van erotikus regényt írni -- mik lennének a legizgatóbb szituációk, amiket belevennénk?
 Vagy mire gondolunk, ha maszturbálunk, ami egy igencsak jó felfedező eszköz.
-Illetve a *kellemetlen* múltbéli emlékek is ugyanilyen jó útjelzők lehetnek, még ha kellemetlen is felidézni őket.
+Illetve a *kellemetlen* múltbéli emlékek is ugyanilyen jó útjelzők lehetnek, még ha kínos is felidézni őket.
 
 Ezek fényében pedig merjük meghúzni a határainkat, és olyan partnerrel legyünk, aki ezeket be is tartja.
 A biztonság egy alapvető követelmény, hogy el tudjuk engedni magunkat.
@@ -121,7 +121,7 @@ Ha magunkkal így megvagyunk, akkor fektessünk le egy-két alapszabályt a köz
 6. Kerüljük a "mindig" és a "soha" szavakat, mint a pestist.
 7. Ha már megbeszélünk valamit, akkor utána adjunk kellő teret/időt/lehetőséget a változtatásra.
 8. Hallgatás, aktív figyelem és csak utána beszéd (lásd pl. [Covey]({% post_url 2021-04-17-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa-2 %})). Akkor reagáljunk, ha a másik már elmondta, mit akar -- nem amikor a felénél tart, de mi már azt hisszük, hogy tudjuk, hova akar vele kilyukadni (mert lehet, hogy marhára nem oda).
-9. Legyünk együttérzőek és empátikusak.
+9. Legyünk együttérzőek és empatikusak.
 
 És akkor most, ilyen hozzáállással már végre jöhet az emlegetett öt párbeszéd a szexről...
 
@@ -150,18 +150,18 @@ Ez remélhetőleg oldja majd a légkört.
 Ha vannak szavak, amik már önmagukban riasztanak, próbáljuk többször hangosan kimondani őket -- előbb magunkban, aztán a párunk előtt is.
 Persze nem kötelező semmi olyan szlenget használni, amitől a szőr feláll a hátunkon, de amit szeretnénk (és kéne tudni) használni, attól meg ne féljünk.
 
-Dícsérjük a partnerünket!
+Dicsérjük a partnerünket!
 Ami neki is jó, nyilván -- de nekünk is, mert tudatosítja bennünk, hogy mit szeretünk és értékelünk benne.
 Meg persze tovább oldja a hangulatot.
 Ezen a ponton azonban még semmiképp ne próbáljunk konkrét problémákat megoldani!
-Pláne ne manipulálni, hogy a dícséretek is hátsó szándék által vezéreltnek tűnjenek.
+Pláne ne manipulálni, hogy a dicséretek is hátsó szándék által vezéreltnek tűnjenek.
 Egyelőre az a cél, hogy feszengés nélkül képesek legyünk beszélni a másikkal szexuális témában is.
 
-És ennek fényében a témák, amiket ilyen érdemes kitárgyalni:
+És ennek fényében a témák, amiket ilyenkor érdemes kitárgyalni:
 
 - Mi a hozzám fűződő legkellemesebb szexuális emléked (és miért)?
-- Mire tanítottak a szexszel kapcsolatban? és ahelyett mire kellett volna?
-- Neked milyen a csodás szex? mi benne a kedvenced?
+- Mire tanítottak a szexszel kapcsolatban? És ahelyett mire kellett volna?
+- Neked milyen a csodás szex? Mi benne a kedvenced?
 - Mit jelent számodra az intimitás?
 
 Ha netán tényleges szexre kerülne a sor, utána mindenképp tartsunk némi elemzést.
@@ -237,7 +237,7 @@ Potenciális buktatók és kifogások:
 
 - **Ha magától nem adná, úgy már "mesterkélt"**: Az számít, hogy hajlandó adni -- ez a hajlandóság pedig őszinte.
 
-- **Mit kell ebből ekkora hűhót csapni?!**: Ha egyszer szexelnénk egész életünkben, az jó lenne? Ugye, hogy nem. Az érzelmi kapcsolódásal ugyanez a helyzet. Fenn kell tartani -- és ezért a "hűhó".
+- **Mit kell ebből ekkora hűhót csapni?!**: Ha egyszer szexelnénk egész életünkben, az jó lenne? Ugye, hogy nem. Az érzelmi kapcsolódással ugyanez a helyzet. Fenn kell tartani -- és ezért a "hűhó".
 
 - **Az érintéstől nem jön egyből izgalomba**: Nem is feltétlen kéne -- főleg ha nem kimondottan szexuális célzatú az az érintés.
 
@@ -262,7 +262,7 @@ Potenciális buktatók és kifogások:
 Már előre felhívjuk a figyelmet, hogy sokaknak valószínűleg ez lesz a legkellemetlenebb beszélgetés, mert kiderülhet, hogy ami régen működött, az most már nem működik.
 Vagy felmerültek közben egyéb idegesítő/gusztustalan szokások, amik blokkolják a vágyat.
 
-Szembe kell nézni vele, hogy minden előjáték: a házimunka, az orrban turkálás, a nyitott ajtólnál szarás, a hogy öltöztél fel, a milyen hangosan veszed ma a levegőt, stb.
+Szembe kell nézni vele, hogy minden előjáték: a házimunka, az orrban turkálás, a nyitott ajtónál szarás, a hogy öltöztél fel, a milyen hangosan veszed ma a levegőt, stb.
 És mindezt úgy elfogadni, hogy közben nem leblokkolunk, amiért folyamatosan figyelnek és megítélnek.
 
 Ha a jéghideg vízből akarunk forrót, az el fog tartani egy darabig.
@@ -280,7 +280,7 @@ De ugyanúgy fogadjuk a másikét, és aztán csapatban dolgozunk a megvalósít
 Első lépés a lassú tűz életben tartása.
 Beszéljük meg, hogyan táplálhatjuk egész nap, hogy folyamatosan "langyos" maradjon a hangulat.
 
-Második lépés a blokkoló tényezők kigyomlálása -- értsd, rossz a lehellete, izzadt, csámcsog, böfög/fingik, stb.
+Második lépés a blokkoló tényezők kigyomlálása -- értsd, rossz a lehelete, izzadt, csámcsog, böfög/fingik, stb.
 Mindenhol meglesznek, amik a másik irányba húznak, és soha többé hozzá nem nyúlnánk a másikhoz.
 Nyilván fontos a kapcsolat alap minősége, hiszen ha amúgy érzelmileg rendben vannak a dolgaink (és ezért kezdtünk azzal), akkor az ilyesmi csak kisebb súrlódás.
 Ha nem, akkor válóok is lehet.
@@ -290,7 +290,7 @@ De pont ezért próbáljunk legalább ilyen alapos figyelmet fordítani azokra i
 A blokkolókról pedig mindig igyekezzünk nyugodt, kipihent állapotban beszélni, mert akkor a legnagyobb az esélye, hogy át is megy az üzenet, és nem mentegetőzés vagy veszekedés kerekedik belőle.
 
 Harmadik lépésnek ott van maga az élvezet.
-Elvigre ha az nem elég jó a közös program, akkor mitől várnánk, hogy vágyni fogunk rá.
+Elvégre ha az nem elég jó a közös program, akkor mitől várnánk, hogy vágyni fogunk rá.
 
 > Éreztél valaha késztetést, hogy pépes, agyonfőzött, ízetlen brokkolit egyél? Buzogtál valaha a vágytól, hogy elolvasd a samponos flakon alján lévő feliratot? Na ugye! A szex sem más.
 
@@ -298,11 +298,11 @@ Szóval a szex minőségével nyilván a vágy is fejleszthető -- de erre még 
 
 Végül negyedik lépésként következhet a kezdeményezés témaköre, amit igyekezzünk nem elpoénkodni.
 Fájni fog a visszautasítás, de akkor is legyünk őszinték a próbálkozásunkban.
-Ne tervezzünk bele előre "lelegyinthetőséget" a kudarc esetére, hogy "Á, csak vicceltem".
-Ne utalgassunk, ne hibáztassunk, ne pislogjunk "sokatmondóan" vagy taperoljuk a másikat váratlanul.
-Legyen "fájdalmasan egyértelmű", mit szeretnénk.
+Ne tervezzünk bele előre *lelegyinthetőséget* a kudarc esetére, hogy "Á, csak vicceltem".
+Ne utalgassunk, ne hibáztassunk, ne pislogjunk *sokatmondóan* vagy taperoljuk a másikat váratlanul.
+Legyen fájdalmasan egyértelmű, mit szeretnénk.
 
-Illetve lépjünk túl a sztereotípiákon, miszerint a férfi dolga a kezdeményezés, a nő pedig a passzív fél.
+Illetve lépjünk túl a sztereotípiákon, miszerint a férfi dolga a kezdeményezés, a nő pedig passzív.
 Az lenne az ideális, ha mindkét fél kezdeményezne legalább *valamennyit*.
 Hogy egyrészt mindenki felfedezze, hogy ő maga mikor akarna valamit, másrészt azt is érezhesse, hogy kívánják.
 De ennek az egyensúlynak a belövése (meglepetés) kapcsolatfüggő!
@@ -330,6 +330,7 @@ Ezek fényében beszéljük át egymás:
 És ne feledjük, csak semmi megszégyenítés!
 Nem muszáj mindenbe belemenni, ami a másiknak izgató, de soha ne nevessük ki vagy nézzük le azért, amit izgatónak talál.
 Emily Nagoski megfogalmazásában: "Ne fujjogjuk más nyamm-ját"!
+Avagy a szerző szavaival:
 
 > Soha nem fogsz olyan partnert találni, akinek pont ugyanolyanok a szexuális igényei, mint neked. De a partnered elutasító válasza nem azt jelenti, hogy nem lett volna szabad kérned azt a bizonyos dolgot, vagy hogy rossz dolgot kértél.
 
@@ -374,7 +375,7 @@ Persze itt se felejtsük el a pozitív visszacsatolást hangsúlyozni.
 Ne kritizáljuk nyersen, ami nem jó -- inkább biztassuk azt, ami jó, és így a nem jó dolgok várhatóan maguktól is kiszorulnak és elsorvadnak.
 És ha lesz is maradék, azt így már sokkal egyszerűbb kigyomlálni.
 
-Az összecsiszolódással kapcsolatban (ahogy ugye mindenhol máshol) adjunk le a tündésmesés elvárásainkból.
+Az összecsiszolódással kapcsolatban (ahogy ugye mindenhol máshol) adjunk le a tündérmesés elvárásainkból.
 Nagy valószínűséggel nem csak egyszer kell majd valamit elmondani.
 És nem sokszor lesz egyből észbontó a változtatás.
 De ha csiszoljuk, akkor el lehet oda jutni!
@@ -443,7 +444,7 @@ Ami a legfontosabb az újdonságok kitaposása során, hogy ne legyen semmiféle
 
 Pár tanács a folyamat súrlódásmentesítésére:
 
-- Érdemes apró lépésekben haladni. Csak néha iktassun ilyesmiket is a "rutin" szex mellé. Természetesen nem kell mindig valami vad őrültséget csinálni -- csak ne is folyton a full megszokás.
+- Érdemes apró lépésekben haladni. Csak néha iktassunk ilyesmiket is a "rutin" szex mellé. Természetesen nem kell mindig valami vad őrültséget csinálni -- csak ne is folyton a full megszokás.
 
 - Szívleljük meg az "elsőpalacsinta-szabályt", vagyis hogy rögtön elsőre semmi nem lesz tökéletes. Ha nem egyből jó az újdonság, attól még nem érdemes feladni és visszamenekülni a komfortzónába. Ha nem látványos katasztrófa, akkor mondjuk legalább három esélyt kapjon egy ötlet, mielőtt nyugdíjba küldjük.
 
@@ -484,7 +485,7 @@ Szóval hagyjunk időt, kommunikáljuk sokat és próbálkozzunk több iránybó
 
 - Ha sajnáltatja magát vagy manipulál, azt viszont ne hagyjuk. Ragaszkodjunk hozzá, hogy ítélkezés nélkül beszélhessünk a problémáról.
 
-Minden beszélgetésnél hasznos lesz, ha megszívlelünk pár általnos kommunikációs stratégiát.
+Minden beszélgetésnél hasznos lesz, ha megszívlelünk pár általános kommunikációs stratégiát.
 Mint például hogy az **előtt** tartsunk szünetet, hogy elmérgesedne.
 Vagy hogy azonosítsuk be az érzéseinket -- mert úgy eleve kevésbé lesznek hajlamosak elmérgesedni.
 Illetve mindig bizonyosodjunk meg róla, hogy jól értjük, amit a másik mond.
@@ -501,7 +502,7 @@ Még jó, hogy az nem is elvárás vagy előfeltétel a jó szexuális élethez.
 Javasolhatjuk felváltva, és természetesen lehet vétójogunk, de igenis legyen annyira fontos, hogy bekerüljön a naptárba -- mert most őszintén: ha oda nem kerül be, akkor mekkora esélye van, hogy majd csak úgy magától megtörténik?
 És ha egy ideje kimaradt, akkor minél hamarabb próbáljuk "visszamászni a nyeregbe".
 
-> Ha mindennap beszélsz a szexről, valami külölleges dolog történik. Eltűnik a szégyen, alábbhagy a szemérmesség, és a szex az élet természetes részévé válik... Ahogy kéne.
+> Ha mindennap beszélsz a szexről, valami különleges dolog történik. Eltűnik a szégyen, alábbhagy a szemérmesség, és a szex az élet természetes részévé válik... Ahogy kéne.
 
 Egy szó, mint száz: ápoljuk a kapcsolatunkat.
 Működtessük, ahelyett, hogy csak úgy elvárnánk tőle az önműködést.
