@@ -114,7 +114,7 @@ Aztán gondoljunk rájuk sokat, mert már az dopamint termel, ha számítunk az 
 Ha magunkkal így megvagyunk, akkor fektessünk le egy-két alapszabályt a közös munkához:
 
 1. Ne felejtsük, hogy egy pozitív cél vezérel, és azért kezdeményezzük a párbeszédet.
-2. Egy egymás ellen vagyunk; együtt vagyunk a probléma ellen.
+2. Nem egymás ellen vagyunk; együtt vagyunk a probléma ellen.
 3. Igyekezzünk nyugodtnak és kedélyesnek maradni -- emlékezzük [Gottmanra]({% post_url 2020-10-31-john-gottman-a-jol-mukodo-hazassag-7-alapelve %}), aki szerint ha a vitáknak már a kezdete is durva, az a válás egyik legmegbízhatóbb előjele. De (a kedélyesség ellenére) ne utalgassunk burkoltan, hanem kerek perec arról legyen szó, amiről szó van.
 4. Én-mondatok a te-mondatok és a vádaskodás helyett -- lásd [Erőszakmentes kommunikáció]({% post_url 2021-10-09-marshall-rosenberg-eroszakmentes-kommunikacio %}).
 5. Beszéljünk lassan, egyszerre egy dologról, és vegyünk mély levegőket.
@@ -265,7 +265,7 @@ Vagy felmerültek közben egyéb idegesítő/gusztustalan szokások, amik blokko
 Szembe kell nézni vele, hogy minden előjáték: a házimunka, az orrban turkálás, a nyitott ajtónál szarás, a hogy öltöztél fel, a milyen hangosan veszed ma a levegőt, stb.
 És mindezt úgy elfogadni, hogy közben nem leblokkolunk, amiért folyamatosan figyelnek és megítélnek.
 
-Ha a jéghideg vízből akarunk forrót, az el fog tartani egy darabig.
+Ha a jéghideg vízből akarunk forrót, az el fog tartani egy darabig -- még egy indukciós főzőlapon is.
 De ha folyamatosan legalább langyosan van tartva, akkor az hirtelen forralható.
 Avagy, a szexre vetítve:
 
@@ -290,7 +290,7 @@ De pont ezért próbáljunk legalább ilyen alapos figyelmet fordítani azokra i
 A blokkolókról pedig mindig igyekezzünk nyugodt, kipihent állapotban beszélni, mert akkor a legnagyobb az esélye, hogy át is megy az üzenet, és nem mentegetőzés vagy veszekedés kerekedik belőle.
 
 Harmadik lépésnek ott van maga az élvezet.
-Elvégre ha az nem elég jó a közös program, akkor mitől várnánk, hogy vágyni fogunk rá.
+Elvégre ha nem elég jó a közös program, akkor mitől várnánk, hogy vágyni fogunk rá.
 
 > Éreztél valaha késztetést, hogy pépes, agyonfőzött, ízetlen brokkolit egyél? Buzogtál valaha a vágytól, hogy elolvasd a samponos flakon alján lévő feliratot? Na ugye! A szex sem más.
 
@@ -526,7 +526,7 @@ Randizzunk, legyenek közös kis rituáléink, rendszeresen tartsunk "meetinget"
 ## Összefoglalás
 
 Ha egyetlen dolog marad meg ebből a könyvből, akkor az remélhetőleg annyi, hogy máshol sincs kolbászból a kerítés.
-A szex a legtöbb helyen nem tökéletes, spontán és súrlódásmentes -- és ahol igen, ott sem lesz ez mindig így.
+A szex a legtöbb helyen nem tökéletes, nem spontán és pláne nem súrlódásmentes -- és ahol igen, ott sem lesz ez mindig így.
 Vagyis ha beszélni kell róla és dolgozni érte, az nem "izzadtság szagú", hanem természetes.
 
 Aztán, ha a saját fejünkben már sikerült elengednünk a tündérmesét, akkor jöhet Marinék öt beszélgetése a felismerésről, a kapcsolódásról, a vágyról, a gyönyörről és a felfedezésről.
