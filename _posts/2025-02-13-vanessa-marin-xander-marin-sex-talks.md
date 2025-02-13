@@ -5,6 +5,7 @@ cover: sextalks
 tags: [kapcsolatok]
 pages: 320
 date: 2025-02-13 00:01
+youtube: rKQ8z3KCmwI
 excerpt: >
     A szikra magától mindenhol kialszik.
     Az mindegy, hogy mekkora intenzitással indult az elején -- ha nincs "gondozva", akkor előbb-utóbb lecseng a szexuális vonzalom a legjobb kapcsolatokban is.
