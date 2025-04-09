@@ -5,6 +5,7 @@ cover: childfree
 tags: [kapcsolatok, szemléletmód]
 pages: 279
 date: 2022-09-30 00:01
+youtube: 9UVBe39bxQU
 excerpt: >
     Habár a nőkön csattan jobban az ostor, a gyerekvállalás témaköre általános.
     A termékenységgel kapcsolatos döntés (és annak társadalmi és politikai következményei) mindenkit érintenek; az öregedés és a gondviselés szükségessége univerzális kérdések.

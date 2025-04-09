@@ -5,6 +5,7 @@ cover: ironlaw
 tags: [stratégia]
 pages: 143
 date: 2021-02-27 00:01
+youtube: yg7FRSYCiso
 excerpt: >
     A "havi egy marketing könyv" kvótám keretén belül most Al Ries és Jack Trout -- A marketing 22 vastörvénye című *alapművére* esett a választásom.
     A lecke hamar kezdődik, elvégre maga a "vastörvény" szó is nyilván csak egy marketingfogás a címben.

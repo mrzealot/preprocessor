@@ -5,6 +5,7 @@ cover: fast
 tags: [táplálkozás]
 pages: 224
 date: 2021-03-27 00:01
+youtube: Fo0EHcE1F6s
 excerpt: >
     Jason Fung táplálkozási tanácsai között is hangsúlyosan szerepelt az időszakos böjtölés, ezért gondoltam egy dedikált könyv segítségével érdemes lenne jobban elmerülni a részletekben.
     Ezt a célt szolgálja most Gin Stephens -- Fast. Feast. Repeat. (magyarul kb. "Böjtölj. Lakomázz. Ismételd.") című összefoglalója.

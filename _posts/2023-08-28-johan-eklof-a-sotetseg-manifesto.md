@@ -5,6 +5,7 @@ cover: darkness
 tags: [minimalizmus, szemléletmód]
 pages: 272
 date: 2023-08-28 00:01
+youtube: 5J6t6HNH9t4
 excerpt: >
     Egész véletlenül akadtam Johan Eklöf -- A sötétség manifesto című könyvébe, de azonnal éreztem, hogy kiváló kiegészítés lesz a Néma Tavasz ökológiai szemlélete mellé.
     Eklöf barátunk svéd denevérkutató és sötétség-kedvelő, aki az éjszakai állatfajok tömeges eltűnése és az emberi fiziológiai folyamatok megzavarása miatt hívja fel a figyelmet a fényszennyezésre.

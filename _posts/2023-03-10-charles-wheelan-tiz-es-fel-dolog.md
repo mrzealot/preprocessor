@@ -5,6 +5,7 @@ cover: tenandahalf
 tags: [szemléletmód, kapcsolatok]
 pages: 128
 date: 2023-03-10 00:01
+youtube: irKQBk1z-so
 excerpt: >
     A Dartmouth College osztálynapján hárman mondanak beszédet, köztük egy választott tanár.
     2011-ben Charles Wheelan-re esett a választás -- annak ellenére, hogy akkoriban hivatalosan épp nem is volt a tanári kar tagja.
