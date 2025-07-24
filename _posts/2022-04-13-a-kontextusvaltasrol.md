@@ -4,6 +4,7 @@ title: A kontextusváltásról
 cover: contextswitch
 tags: [szösszenet]
 date: 2022-04-13 00:01
+youtube: yIlSV0Qb0dk
 excerpt: >
     Az emberi agy is pont úgy képes a párhuzamosságra, mint a számítógépek -- sehogy.
     Az időosztásos rendszerek tulajdonképpen annyit tesznek, hogy gyorsan váltogatnak különböző programok között, ezzel keltve azt a látszatot, hogy minden szál párhuzamosan halad.

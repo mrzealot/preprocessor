@@ -5,6 +5,7 @@ cover: madetobreak
 tags: [minimalizmus]
 pages: 330
 date: 2021-11-20 00:01
+youtube: fIaKxgQ0u_w
 excerpt: >
     Az esszencializmusból egy kicsit anyagibb minimalizmusba fordulva, a héten a *tervezett elavulás* témakörét szeretném egy kicsit boncolgatni.
     Ehhez pedig Giles Slade kanadai társadalomkritikus Made to Break (magyarul kb. "Azért készült, hogy elromoljon") című könyvét hívjuk segítségül, ami az amerikai történelem mérföldkövein keresztül követi végig a tervezett elavulás útját.

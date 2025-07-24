@@ -4,6 +4,7 @@ title: Peter Drucker - Menedzsment alapok
 tags: [stratégia, produktivitás]
 pages: 368
 date: 2020-08-15 00:01
+youtube: Myryt4Z3H7g
 excerpt: >
     Az "Intézz el mindent!" önmagunk menedzsmentjével foglalkozott.
     Az ajánlásai közül pedig Peter Drucker neve emelkedett ki a legjobban, aki a menedzsment terén eléggé ismert (és elismert).

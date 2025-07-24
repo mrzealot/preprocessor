@@ -3,6 +3,7 @@ layout: post
 title: Peter Drucker - Önmagunk menedzsmentje
 tags: [produktivitás]
 date: 2020-08-22 00:01
+youtube: 3wpmCd64JZI
 excerpt: >
     A héten (továbbra is a GTD ajánlása alapján) folytatjuk Az esszenciális Drucker feldolgozását.
     A menedzsment alapokért nyugodtan vissza lehet lapozni -- de ha az már pipa, akkor rátérhetünk az egyén, vagyis _önmagunk_ menedzsmentjére.

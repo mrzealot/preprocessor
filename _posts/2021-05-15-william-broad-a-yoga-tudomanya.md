@@ -5,6 +5,7 @@ cover: yoga
 tags: [aktivitás]
 pages: 298
 date: 2021-05-15 00:01
+youtube: iAd9kaavqeo
 excerpt: >
     Haladunk tovább a Kék Zónák által kijelölt aktivitási útvonalon; heti megállónk a yoga.
     És hát mit mondjak, most sem volt könnyű a könyvválasztás.

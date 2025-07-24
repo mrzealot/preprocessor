@@ -5,6 +5,7 @@ cover: hadot
 tags: [szemléletmód]
 pages: 320
 date: 2021-03-13 00:01
+youtube: V_u_nTjRPhc
 excerpt: >
     A sztoikus filozófiát feszegető "rovatunkban" ma egy modernebb elemzés felé fordulunk Pierre Hadot -- A filozófia mint életforma (eredetileg "Philosophy as a Way of Life") című könyve segítségével.
     Ironikus módon azonban talán pont ez a modern szemszög juttat majd minket közelebb ahhoz, amit az ókori bölcsek valóban mondani szerettek volna.

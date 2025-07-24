@@ -4,6 +4,7 @@ title: Yuval Noah Harari - Homo Deus
 tags: [szemléletmód]
 pages: 450
 date: 2020-08-08 00:01
+youtube: yNG9e-y6Gac
 excerpt: >
     A héten Yuval Noah Harari -- Sapienséhez kellett "társat" választanom, ami nem volt túl nehéz.
     Mivel nagyon bejött a szerző stílusa és meglátásai, ezért most nyilván (a Sapiens kvázi folytatásaként kikiáltott) Homo Deus kerül górcső alá.

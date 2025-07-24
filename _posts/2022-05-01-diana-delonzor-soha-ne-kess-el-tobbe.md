@@ -5,6 +5,7 @@ cover: neverbelateagain
 tags: [produktivitás]
 pages: 177
 date: 2022-05-01 00:01
+youtube: nSha62oPAMs
 excerpt: >
     Karakterfejlesztés címszó alatt megcéloztam magamon azt az "alacsonyan lógó" javítanivalót, miszerint képes vagyok szinte mindenhonnan elkésni.
     Nem úsztam viszont a könyv opciókban -- és ahol szóba került a téma, ott is eléggé egy kaptafára kezeltek mindenkit.

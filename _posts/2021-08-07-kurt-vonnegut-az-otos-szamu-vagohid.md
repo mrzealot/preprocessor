@@ -5,6 +5,7 @@ cover: slaughterhouse
 tags: [fikció]
 pages: 232
 date: 2021-08-07 00:01
+youtube: 8skQ-peipPI
 excerpt: >
     Pár hete előkerült Kurt Vonnegut neve az egyik ballagási beszéd kapcsán, illetve a könyves ajánlások között is gyakran szembejön, mint nagyszerű író, ezért úgy gondoltam, hogy fikciózzunk egy kicsit a nagy ismeretterjesztés közepette.
     És ha már Vonnegut + fikció, akkor az első számú választás talán nem is lehet más, mint a hírnevét megalapozó "Az ötös számú vágóhíd".

@@ -4,6 +4,7 @@ title: Baltasar Gracián - Az életbölcsesség kézikönyve - 1
 tags: [stratégia]
 pages: 216
 date: 2020-07-10 00:01
+youtube: LVe_JK8-sIo
 excerpt: >
     A hatalom 48 törvényéhez megint csak elég könnyű volt párt találni, mert szinte az összes fejezetben ez a csávó jött szembe, akinek egyszerűen mindenre **is** volt egy frappáns beszólása.
     Utána néztem hát egy kicsit: Baltasar Gracián -- magyarosan Gracián Boldizsár, de hát na, az fele olyan menőn sem hangzik -- egy spanyol Jezsuita szerzetes és filozófus volt az 1600-as években, akiről később még Schopenhauer és Nietzsche is elismerően beszélt.

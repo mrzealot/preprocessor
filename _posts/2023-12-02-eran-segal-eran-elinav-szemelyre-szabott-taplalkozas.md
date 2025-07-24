@@ -5,6 +5,7 @@ cover: personalizeddiet
 tags: [táplálkozás]
 pages: 368
 date: 2023-12-02 00:01
+youtube: 6dJDs7OKk1Y
 excerpt: >
     Azért nincs egyértelmű válasz arra, hogy "Mi az optimális emberi étrend?", mert egyszerűen rossz a kérdés.
     Az életstílusunk, a genetikánk és a beleinkben élő mikrobiom mind befolyásolják, hogy nekünk, egyesével, személyesen mi lenne a jó.

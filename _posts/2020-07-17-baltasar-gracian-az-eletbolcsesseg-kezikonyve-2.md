@@ -3,6 +3,7 @@ layout: post
 title: Baltasar Gracián - Az életbölcsesség kézikönyve - 2
 tags: [stratégia]
 date: 2020-07-17 00:01
+youtube: amSiSBj1xjw
 excerpt: >
     A héten (nem meglepő módon) folytatjuk Baltasar Gracián -- Az életbölcsesség kézikönyve című gyűjteményét.
     Múlt héten már tárgyaltunk ugye egy adagot, de bizony van ott még egy pár jótanács, amit érdemes érintenünk!

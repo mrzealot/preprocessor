@@ -5,6 +5,7 @@ cover: ceremoniak
 tags: [szemléletmód]
 pages: 100
 date: 2021-06-26 00:01
+youtube: drosC9X4MGA
 excerpt: >
     Az igencsak "ballagós" jellegű hónap méltó zárásaként ma három olyan beszéd rövid összefoglalójával készültem, amik elérhetőek ugyan magyarul, viszont a lényegüket valószínűleg nem lehet elégszer elismételni.
     A gond talán csak annyi, hogy a költői hasonlatoktól, a szívfacsaróan személyes sztoriktól és a helyenként humoros előadásmódtól megfosztva, az ilyen beszédek magja gyakran elég közhelyesen cseng...
