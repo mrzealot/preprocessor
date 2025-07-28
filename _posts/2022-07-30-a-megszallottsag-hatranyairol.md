@@ -4,6 +4,7 @@ title: A megszállottság hátrányairól
 cover: fanatismbad
 tags: [szösszenet]
 date: 2022-07-30 00:01
+youtube: a4TXDlnYe0I
 excerpt: >
     Egy korábbi séta alkalmával érdekes párhuzamba botlottam A zen meg a motorkerékpár-ápolás művészetét író Robert Pirsig, az Út a vadonba című könyvből híres Chris McCandles, és a Zabhegyezőből ismert Holden Caulfield között...
 ---

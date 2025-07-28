@@ -5,6 +5,7 @@ cover: stick
 tags: [produktivitás]
 pages: 253
 date: 2021-03-06 00:01
+youtube: jb_kym9cm1I
 excerpt: >
     Egy csomó intuitív, "köztudottan hatásos" tanulási módszer nagyja csak kidobott erőfeszítés.
     Ezzel szemben a tanulási folyamat tudományos megfigyelése egyre több olyan stratégiát hoz felszínre, ami talán nem annyira intuitív, viszont cserébe legalább működik.

@@ -4,6 +4,7 @@ title: Stephen R. Covey - A kiemelkedően eredményes emberek 7 szokása - 2. r�
 cover: covey2
 tags: [szemléletmód, kapcsolatok, stratégia]
 date: 2021-04-17 00:01
+youtube: -pSMNT046k0
 excerpt: >
     Múlt héten ugye megbeszéltünk mindent Stephen R. Covey -- A kiemelkedően eredményes emberek 7 szokása című könyvéből, ami az egyéni győzelmekhez (azaz saját magunk gatyába rázásához) szükséges.
     És a sorrend nem véletlen: egyéni győzelem nélkül nincs közös győzelem!

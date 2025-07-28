@@ -4,6 +4,7 @@ title: A távirányítójavításról
 cover: remotefix
 tags: [szösszenet]
 date: 2021-10-02 00:01
+youtube: BNZ_p14ffzs
 excerpt: >
     Egy hőskölteménybe illő beszámoló a berögzült és a növekedési szemléletmód küzdelméről -- és hogy az utóbbi hogyan vezetett oda, hogy végül csak képes voltam megjavítani anyum távirányítóját.
 ---
