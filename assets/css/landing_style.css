@@ -232,7 +232,7 @@ body {
   display: none;
 
   @media (width >= 48rem) {
-    background: url('images/landing/brush.png') no-repeat center/contain;
+    background: url('/images/landing/brush.png') no-repeat center/contain;
     display: block;
     height: 100%;
     left: 50%;
