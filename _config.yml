@@ -47,7 +47,7 @@ show_excerpts: true
 permalink: /:categories/:title
 lang: hu-hu
 paginate: 10
-paginate_path: "/:num/"
+paginate_path: "/blog/:num/"
 future: false
 
 exclude:
