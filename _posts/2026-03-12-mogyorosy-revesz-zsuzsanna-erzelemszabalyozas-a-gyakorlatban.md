@@ -160,7 +160,7 @@ Az idegrendszer szekvenciálisan fejlődik, aminek szemléltetéséhez a szerző
 A modell minden fázisában adott, hogy milyen ingerekre lenne szükség az "éréshez", hogy aztán arra jöhessen a következő fázis.
 Ez pedig nekünk azért lehet hasznos, mert erre támaszkodva a későbbi tünetek alapján szépen ki lehet következtetni, hogy hol lehetett az elakadás -- és hogy mit kéne tenni a feloldásához.
 
-Az első lépcsőfok a **fiziológiai működésekről** szól (értsd, evés, alvás, szívritmus, vérnyomás, légzés), aminél már az első életévünkben kb. beállnak egy alapritmusba.
+Az első lépcsőfok a **fiziológiai működésekről** szól (értsd, evés, alvás, szívritmus, vérnyomás, légzés), aminél már az első életévünkben kb. beállunk egy alapritmusba.
 Ezt egy darabig a szülő tartja fent, de felnőttként már a mi feladatunk.
 Ha ez nincs meg, akkor a "felsőbb szintű" működéseknek nem lesz egy stabil alapzata.
 Már itt előkerül a szimpatikus (felpörgetős) vs. paraszimpatikus (lenyugtatós) idegrendszerünk, illetve ezek természetes hullámzása és egyensúlya.
@@ -186,7 +186,7 @@ Ez pedig jó esetben felül tudná írni az ösztönösebb stressz jelzéseket �
 Csak nagyon nem mindegy, mivel írjuk felül.
 Az egyik véglet az "úgysem vagyok rá képes", ami úgy ment meg, hogy eleve elveszi a kedvet próbálkozástól.
 A másik véglet a "munkamánia", ahol esetleges korábbi bizonytalanságokat próbálunk a teljesítményünk által kompenzálni.
-Itt viszont folyamatosan kell majd a visszaigazolás, hogy igen *kisfijam*, ügyes gyerek vagy -- amit (akár minden más szükségletünk rovására) fogunk kergetni.
+Itt viszont folyamatosan kell majd a visszaigazolás, hogy igen *kisfijam*, ügyes gyerek vagy -- amit akár minden más szükségletünk rovására fogunk kergetni.
 Az egészséges középút valahol ott lenne, ahol tudunk teljesíteni, de csak a saját tempónkban.
 Nem kényszerítve vagy kínlódva, de nem is túlhajtva, hanem a saját érdeklődésünk ütemében.
 
@@ -250,7 +250,7 @@ Fajtái lehetnek:
 
 - "Lentről felfelé", vagyis az automatikus testi érzetek tudatosításán alapuló terápia, amivel új válaszok fejleszthetőek a stresszre (a korábbi történtektől kb. függetlenül), vagy
 
-- "Fentről lefelé", vagyis a kognitív, beszélgetés és értelmezés alapúak, ahol a fókusz a történteken (és azok új megvilágításba helyezésén) van.
+- "Fentről lefelé", vagyis a kognitív, beszélgetés és értelmezés alapú terápia, ahol a fókusz a történteken (és azok új megvilágításba helyezésén) van.
 
 Akkor vagyunk "készen", ha a trauma sikeresen beépül a múltunkba, de a jelenünket már nem (vagy legalábbis csak tudatosan, tapasztalati úton) befolyásolja.
 
@@ -310,9 +310,9 @@ Csak úgy meglépné, és kész, mi sem természetesebb.
 Szóval ne várjuk, hogy majd mikor tűnik nyugisnak a változás, mert olyan nem lesz.
 A változás útvonalai (mint a traumánál mondtuk):
 
-- Lentről felfelé - testi érzetek által vezérelt (légzés, mozgás, "földelés"),
-- Fentről lefelé - gondolatok által vezérelt,
-- Tudatos disszociáció - az érzelmek elterelése által vezérelt.
+- Lentről felfelé -- testi érzetek által vezérelt (légzés, mozgás, "földelés"),
+- Fentről lefelé -- gondolatok által vezérelt,
+- Tudatos disszociáció -- az érzelmek elterelése által vezérelt.
 
 <br>
 
@@ -398,7 +398,7 @@ Ezek kb. ilyen Jolly Joker technikák, amik arra is jók, ha fel kéne húzni ma
 Rojtosra ismételt tanulság, de a valódi biztonság továbbra sem a külső körülményektől, hanem a belső állapotunktól függ.
 Hiába remélünk megnyugvást az emberi kapcsolatoktól, anyagi javaktól vagy testi jólléttől -- amíg ezekhez kötjük, nem leszünk rendben.
 
-Csak hát ha befelé fordulunk, ott lesznek azok a fránya érzelmek, amiket a tetejébe nem is lehet irányítani.
+Csak hát ha befelé fordulunk, ott lesznek azok a fránya érzelmek, amiket a tetejébe nem is lehet közvetlenül irányítani.
 De sebaj, mert megélni és a rájuk adott reakcióinkat szabályozni viszont lehet -- és ezzel szépen tágulni fog az a bizonyos "toleranciaablakunk", és egyre szélesebb ingerkörnyezetben leszünk majd képesek jól érezni magunkat.
 
 Hogy ezt megtámogassa, a könyv elénk tárja a pszichológiai fejlődés fázisait (amik segíthetnek beazonosítani az elakadásainkat, és akár át is billenni rajtuk), illetve konkrét stratégiákat is kaptunk a konstans szarvihar hullámainak csillapításához.
