@@ -1,25 +1,35 @@
-# Intro
+---
+layout: post
+title: Ali Abdaal - Könnyen, jól, hatékonyan
+cover: feelgoodproductivity
+tags: [produktivitás, szemléletmód]
+pages: 280
+date: 2026-03-18 00:01
+excerpt: >
+    A keményebb munka önmagában nem lesz elég -- nem ártana jól is érezni magunkat közben.
+    És ezt nem csak azért ám, hogy kellemes legyen.
+    Azért, mert kísérletekkel igazolható, hogy a jó érzések fejlesztik a kreativitásunkat, növelik az ellenállóképességünket és kiszélesítik az érzékelésünket.
+    Ezt a témát boncolgatjuk ma Ali Abdaal - Könnyen, jól, hatékonyan című könyve segítségével, ahol egy valag hasznos tippet kapunk a jóleső produktivitáshoz.
+---
 
-- a keményebb munka önmagában nem lesz elég
-- candle problem - kreativitás teszt, aminél kijött, hogy akik cukorkát kaptak előtte, azok nagyobb arányban oldották meg
-- broaden and build theory
-    - a jó érzések kiszélesítik az érzékelésünket (több infót veszünk észre, dolgozunk fel, stb.)
-    - és építik az ellenállóképességünket, kreativitásunkat, stb.
-- hormonok: endorfin, szerotonin, dopamin, oxytocin
-    - angyali kör, mert a jó érzéstől bepörgünk, amitől produktívabbak leszünk, amitől még jobban érezzük magunkat
-- undoing hypothesis
-    - a jó érzés még a negatívak oldására is jó
-    - public speaking kísérlet a "felzaklatásra", aztán különböző hangulatú filmek, és mérték, hogy mikor áll vissza a baseline
-- reiterate Happiness Advantage: a jó érzések vezetnek a sikerhez, és nem a siker a jó érzésekhez (lásd Shawn Achor)
+A keményebb munka önmagában nem lesz elég -- nem ártana jól is érezni magunkat közben.
+És ezt nem csak azért ám, hogy kellemes legyen.
+Azért, mert kísérletekkel igazolható, hogy a jó érzések fejlesztik a kreativitásunkat, növelik az ellenállóképességünket és kiszélesítik az érzékelésünket (vagyis több infót veszünk észre és dolgozunk fel).
+Egy konkrét problémát például kimutathatóan nagyobb arányban oldották meg azok, akik cukorkát kaptak előtte, pedig az elején véletlenszerűen válogatták szét a csoportokat.
 
-- szerkezet:
-    - 3 energizátor, ami megadja a lökést, hogy csináljuk a dolgunkat
-    - 3 blokker, amik általában az útba állnak - és hogy hogyan birkózzunk meg velük
-    - 3 típusú kiégés, és hogy mit kezdjünk velük, hogy hosszú távon is fenntartható legyen a produktivitásunk
+Sőt, a jó érzések még a negatívak oldására is jók lehetnek -- mint mondjuk abban a kísérletben, ahol először mesterségesen felzaklatták a résztvevőket, és aztán különböző hangulatú filmeket nézettek velük, miközben mérték, hogy milyen gyorsan állnak vissza az alapállapotba.
+Tippelhetünk, hogy a pozitív film volt-e a győztes.
 
-- fejezetenként 3 tipp és 6 experiment
+Vagyis már a legelején visszhangozzuk Shawn Achor tanulságát: a jó érzések vezetnek a sikerhez, és nem a siker a jó érzésekhez.
+Ezt a témát boncolgatjuk ma egy kicsit tovább Ali Abdaal - Könnyen, jól, hatékonyan (eredetileg Feel Good Productivity) című könyve segítségével, ahol egy valag hasznos tippet kapunk a jóleső produktivitáshoz, három kategóriába osztva:
 
+- Először jönnek az [energiaforrások](#energizalas), amik megadják a lökést, hogy csináljuk a dolgunkat,
+- Aztán jönnek a [blokkoló tényezők](#blokk-oldas), amik általában az útba állnak -- és hogy hogyan birkózhatunk meg velük, és
+- Végül jön a [3 típusú kiégés](#fenntartas), és hogy mit kezdjünk velük, hogy hosszú távon is fenntartható legyen a produktivitásunk.
 
+Vágjunk is bele!
+
+<br>
 
 
 
@@ -32,14 +42,18 @@
 
 
 
-## Energizálás
+
+## <a name="energizalas"></a>Energizálás
+
+Az első szekcióban azt nézzük meg, hogy hogyan töltődhetünk fel energiával és lelkesedéssel -- aminek következtében szinte nem is tudunk majd nem haladni a dolgainkkal.
 
 #### Játék
 
-- Feynman fizika Nobel díj, csak mert eljátszott a pörgő tányérok ötletével
-    - és még számos Nobel díjas, aki saját bevallása szerint is csak "játszadozott" valami területtel, és jé, mi esett ki belőle
-- a komolyság jelentősen túlértékelt
-    - sokkal jobban járnánk, a kiégés ellen, de konkrétan a produktivitásunk szempontjából is, ha játékosabban állnánk hozzá a világhoz
+Richard Feynman amerikai fizikus azért szerezhetett Nobel díjat a kvantum-elektrodinamika területén, mert egy kiégése során megengedte magának, hogy bármivel foglalkozzon, és "csak úgy" eljátszott a pörgő tányérok ötletével.
+És még számos Nobel díjas, aki saját bevallása szerint is csak "játszadozott" valami területtel, és jé, mi esett ki belőle.
+Szóval fogalmazzunk úgy, hogy a komolyság jelentősen túlértékelt.
+Sokkal jobban járnánk, -- a kiégés ellen, de konkrétan a produktivitásunk szempontjából is -- ha játékosabban állnánk hozzá a világhoz.
+
 - találjunk kalandokat a mindennapjainkban
     - WoW mintájára találjuk meg a class-unkat (gyűjtő, versenyző, felfedező, alkotó, mesélő, bohóc, rendező, sportoló)
         >> "Emlékezni rá, mi is az a játékosság, és aztán beépíteni a mindennapjainkba -- valószínűleg ezek a legfontosabb hozzávalók egy kiteljesedett élethez." - Stuart Brown, pszichológus
@@ -47,7 +61,7 @@
 - keressük meg, hol a móka
     - varázs post-it cetli
         - egy kérdés/mantra: "Hogy nézne ez ki, ha jó móka lenne?"
-        >> Mary Poppins idézet, kicsit letisztítva: "Minden elvégzendő munkában van egy szeletnyi móka. Ha ezt a mókát megtaláljuk, akkor munka egyből játékká váltik."
+        >> Mary Poppins idézet, kicsit letisztítva: "Minden elvégzendő munkában van egy szeletnyi móka. Ha ezt a mókát megtaláljuk, akkor a munka egyből játékká változik."
         - élvezzük a folyamatot, ne az eredményét -- lásd Flow
             - McD BBQ szósz upsell pitch próbálkozás
 - rakjuk lejjebb a lécet
@@ -140,7 +154,7 @@
 
 
 
-## Blokk-oldás
+## <a name="blokk-oldas"></a>Blokk-oldás
 
 - Halasztgatás < Motiváció < Fegyelem < Blokk-oldás
     - ha el vagyunk akadva, és nem csinálunk semmit, akkor nem lesz semmi
@@ -256,7 +270,7 @@
     A) Keressünk egy elszámoltatási társat vagy csoportot
         - a társaság energizáló erejéről ugye már beszéltünk, de ez tovább megy: kihasználja, hogy alapvetően szociális lények vagyunk, és a kötelességtudatunk mélyre nyúlik
         - ha csak mi magunk vagyunk érintettek valamiben, azt nagyon könnyű lemondani egy hirtelen motiváció ingadozás ürügyén
-        - ha viszont valaki mást is belerángattunk (vagy valakinek már fizettünk érte, stb.) akkor a kötelességtudat sokkal nagyobb valószínűséggel átsegít majd a gödrökönq
+        - ha viszont valaki mást is belerángattunk (vagy valakinek már fizettünk érte, stb.) akkor a kötelességtudat sokkal nagyobb valószínűséggel átsegít majd a gödrökön
     B) Bocsássuk meg magunknak a tökéletlenségünket
         - az általában nem baj, ha egy kis halasztgatás becsúszik
         - a nagyobb baj az, ha emiatt haragszunk magunkra, ostorozzuk magunkat, stb., mert abból csak még több halasztgatás lesz
@@ -280,14 +294,17 @@
 
 
 
-## Fenntartás
+## <a name="fenntartas"></a>Fenntartás
 
 - az eddigiek már kb. megalapozzák a produktivitást
-    - de még van egy (vagyis, három) hiányzó láncszem, amitől **fenntartható** lesz ez a produktivitás
-- a burnout-ot nem csak 18 órás napok, vagy másod/harmadállások anyagi kényszere okozhatják
+    - a játék + irányítás + emberek felpörgetnek, hogy csináljuk -- a bizonytalanság + félelem + tehetetlenség eltüntetésével pedig szépen feloldjuk az utunkban álló akadályokat
+    - de van még egy (vagyis, három) hiányzó láncszem, amitől **fenntartható** lesz ez a produktivitásunk
+- a burnout-ot ugyanis nem csak 18 órás napok, vagy másod/harmadállások anyagi kényszere okozhatják
     - az a lényeg, hogy mi hogy éljük meg, amit csinálunk
 - lehet túlvállalás, lehet nem megfelelő mértékű pihenés/töltődés, és lehet inkompatibilitás (amikor már nem azt csináljuk, amit igazán szeretnénk)
-    - erre a háromra keresünk megoldásokat:
+A továbbiakban erre a háromra keresünk megoldásokat.
+
+<br>
 
 #### Tartalékolás
 
@@ -301,9 +318,9 @@
         - és az aktív lista max 4-5 elemű legyen (gyerekes és/vagy karrier fókuszú esetekben pedig még kevesebb... akár csak 1)
     B) És aztán minden másra mondjunk bátran, határozottan nemet az aktív listánkon kívül
         - Derek Sivers-féle "Hell yeah, or no."
-        - gondoljunk az "opportunity cost-ra", vagyis hogy ezáltal mit nem csináljunk majd, ha ezt igen - és az nem lenne jobb?
+        - gondoljunk az "opportunity cost-ra", vagyis hogy ezáltal mit nem csináljunk majd, ha ezt igen - és hogy az nem lenne-e jobb?
         - időmenedzsment szempontból pedig ne verjük át magunkat, hogy X hét múlva majd biztos belefér, ezért rámondhatom
-            - ha holnap nem férne bele, akkor 6 hét múlva sem, mert akkor is ugyanilyen lesz az életünk szerkezete
+            - ha holnap nem férne bele, akkor 6 hét múlva sem, mert akkor is ugyanilyen lesz az életünk szerkezete (csak legfeljebb még nem konkretizálódott a naptárban)
 
 2. Álljunk ellen a figyelemeltereléseknek
     A) addjunk szándékos súrlódást/nehézséget az olyan technológiákhoz, amik nem minket szolgálnak
@@ -395,3 +412,10 @@
         - és aztán ... próbáljuk ki, és nézzük meg, hogy mi lesz!
         - vállaljuk a felelősséget a saját életünk kikísérletezéséért, mert nagy a potenciális jutalom
             - de (Bagdy Emőke szavaival) a számla is nekünk lesz benyújtva, ha nem tesszük
+
+
+
+
+
+
+## Összefoglalás
