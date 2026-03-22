@@ -21,7 +21,7 @@ Sőt, a jó érzések még a negatívak oldására is jók lehetnek -- mint mond
 Tippelhetünk, hogy a pozitív film volt-e a győztes.
 
 Vagyis már a legelején visszhangozzuk Shawn Achor tanulságát: a jó érzések vezetnek a sikerhez, és nem a siker a jó érzésekhez.
-Ezt a témát boncolgatjuk ma egy kicsit tovább Ali Abdaal - Könnyen, jól, hatékonyan (eredetileg Feel Good Productivity) című könyve segítségével, ahol egy valag hasznos tippet kapunk a jóleső produktivitáshoz, három kategóriába osztva:
+Ezt a témát boncolgatjuk ma egy kicsit tovább [Ali Abdaal - Könnyen, jól, hatékonyan](https://moly.hu/konyvek/ali-abdaal-konnyen-jol-hatekonyan){:target="_blank"} (eredetileg Feel Good Productivity) című könyve segítségével, ahol egy valag hasznos tippet kapunk a jóleső produktivitáshoz, három kategóriába osztva:
 
 - Először jönnek az [energiaforrások](#energizalas), amik megadják a lökést, hogy csináljuk a dolgunkat,
 - Aztán jönnek a [blokkoló tényezők](#blokk-oldas), amik általában az útba állnak -- és hogy hogyan birkózhatunk meg velük, és
@@ -50,93 +50,129 @@ Az első szekcióban azt nézzük meg, hogy hogyan töltődhetünk fel energiáv
 #### Játék
 
 Richard Feynman amerikai fizikus azért szerezhetett Nobel díjat a kvantum-elektrodinamika területén, mert egy kiégése során megengedte magának, hogy bármivel foglalkozzon, és "csak úgy" eljátszott a pörgő tányérok ötletével.
-És még számos Nobel díjas, aki saját bevallása szerint is csak "játszadozott" valami területtel, és jé, mi esett ki belőle.
+És akad még számos Nobel díjas, aki saját bevallása szerint is csak "játszadozott" valami területtel, és jé, mi esett ki belőle.
 Szóval fogalmazzunk úgy, hogy a komolyság jelentősen túlértékelt.
 Sokkal jobban járnánk, -- a kiégés ellen, de konkrétan a produktivitásunk szempontjából is -- ha játékosabban állnánk hozzá a világhoz.
 
-- találjunk kalandokat a mindennapjainkban
-    - WoW mintájára találjuk meg a class-unkat (gyűjtő, versenyző, felfedező, alkotó, mesélő, bohóc, rendező, sportoló)
-        >> "Emlékezni rá, mi is az a játékosság, és aztán beépíteni a mindennapjainkba -- valószínűleg ezek a legfontosabb hozzávalók egy kiteljesedett élethez." - Stuart Brown, pszichológus
-    - kövessük a kíváncsiságunkat
-- keressük meg, hol a móka
-    - varázs post-it cetli
-        - egy kérdés/mantra: "Hogy nézne ez ki, ha jó móka lenne?"
-        >> Mary Poppins idézet, kicsit letisztítva: "Minden elvégzendő munkában van egy szeletnyi móka. Ha ezt a mókát megtaláljuk, akkor a munka egyből játékká változik."
-        - élvezzük a folyamatot, ne az eredményét -- lásd Flow
-            - McD BBQ szósz upsell pitch próbálkozás
-- rakjuk lejjebb a lécet
-    - ezek a stresszt oldják, de ezáltal közvetetten mégis a játékosságot segítik elő
-    - a kudarc átértelmezése -- lásd Dweck
-        - Rober NASA coding experiment: ha odaírták , hogy "mínusz 5 pont, akkor a résztvevők fele annyit próbálkoztak, és 16%-kal kevesebben oldották meg ugyanazt a feladatot
-        - mi lenne, ha inkább úgy gondolnánk, hogy KAPTUNK 5 pontot, csak mert próbálkoztunk?
-        - karrier útkeresésben: ha valami nem jött össze, ha nem kudarc, hanem csak egy új adatpont
-        - de ugyanez vállalkozásra, szociális kapcsolatokra... a próbálkozás a lényeg
-    - komolyság vs. őszinte beleélés, erőfeszítés, próbálkozás
-        - a leszarom és a halálosan komolyan veszem közti arany középút, ahol rendesen "odateszem" magam, de attól laza maradok
+Az elsődleges dolog, amit ennek érdekében tehetünk: találjunk kalandokat a mindennapjainkban!
+Abdaal (nagy World of Warcraft játékosként) azt javasolja, hogy találjuk meg a "class"-unkat (legyen az gyűjtő, versenyző, felfedező, alkotó, mesélő, bohóc, rendező, sportoló vagy bármi más).
+Egyszerűen merjük követni a kíváncsiságunkat és keressük meg, hol a móka.
+
+> Emlékezni rá, mi is az a játékosság, és aztán beépíteni a mindennapjainkba -- valószínűleg ezek a legfontosabb hozzávalók egy kiteljesedett élethez.
+>
+> -- Stuart Brown, pszichológus
+
+Gyakorlati tippként felmerül egy "varázs" post-it cetli használata, ami periodikusan emlékeztethet a saját felelősségünkre a játékosság megtalálásában.
+Elég, ha egyetlen kérdés/mantra áll rajta: "Hogy nézne ez ki, ha jó móka lenne?"
+Ami tulajdonképpen a Mary Poppins-ból származó híres idézet, egy kicsit letisztítva: "Minden elvégzendő munkában van egy szeletnyi móka. Ha ezt a mókát megtaláljuk, akkor a munka egyből játékká változik."
+Így hátha sikerül a folyamatot élvezni, nem az eredményét (lásd [Flow]({% post_url 2020-01-18-csikszentmihalyi-mihaly-flow %})).
+
+Egy másik hatásos stratégia, ha lejjebb rakjuk a metaforikus lécet.
+Ami közvetlenül a stresszt oldja ugyan, de ezáltal közvetetten mégis a játékosságot segíti elő.
+Ehhez viszont elengedhetetlen a kudarc átértelmezése (lásd [Dweck]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %}).
+Például egy NASA-s kódolási kísérletben ha odaírták, hogy "a rossz válasz mínusz 5 pont", akkor a résztvevők fele annyit se próbálkoztak, és 16%-kal kevesebben oldották meg ugyanazt a feladatot.
+
+Mi lenne, ha mi inkább úgy gondolnánk rá, hogy **kapunk** 5 pontot, csak mert próbálkoztunk?
+Ha valami nem jött össze a karrieres útkeresésünkben, az nem kudarc, hanem csak egy új adatpont.
+De ugyanez vállalkozásra, nyelvtanulásra, szociális kapcsolatokra -- a próbálkozás a lényeg.
+Az őszinte beleélés, az erőfeszítés és a próbálkozás az, ami eredményt hoz.
+A menet közbeni komolyság pedig túlértékelt.
+Optimális esetben valahova a leszarom és a halálosan komolyan veszem közti arany középútra kéne belőni magunkat, ahol rendesen "odatesszük" magunkat, de attól kellően lazák maradunk.
+
+<br>
 
 
 #### Irányítás
 
-- Netflix példa, hogy a HR-hez való radikálisan más hozzáállás vezetett a sikerhez
-    - power, de úgy, mint personal empowerment
-- szabadok vagyunk olyanra formálni a teendőinket, amilyenre akarjuk, de cserébe a felelősséget is vállaljuk, hogy azért egy adott cél felé haladunk általuk
-    - makro-menedzsment?
-- Albert Bandura kutatások
-- generáljunk önbizalmat
-    >> Believing you can is the first step to making sure you actually can.
-    - lásd tanulmány, ahol az önbizalomra kondícionált alanyok sokkal jobban teljesítettek, mint a kételyre kondícionáltak (pedig az elején random osztották fel őket)
-    - szó szerint hype-oljuk fel magunkat - a pozitív self-talk működik
-        - szinte semmi különbség aközött, hogy magabiztosak vagyunk, vagy magabiztosnak TETTETJÜK magunkat
-        - "hogy nézne ki, ha magabiztosan csinálnám?" --> confidence switch
-    - vicarious mastery - ha már láttuk, hogy valaki másnak megy, akkor utána sokkal könnyebb elhinni, hogy nekünk is fog
-        - találjunk példaképeket, és beszéljünk velük (vagy aszinkron fogyasszuk valahogy a mondanivalójukat)
-        - ezzel tudat alatt -- vagy akár tudatosan -- felépíthetjük magunkban, hogy ha nekik megy, akkor nekem miért ne?
-- fejlesszük a képességeinket
-    - enactive mastery - vagyis itt pont nem másokon keresztül, hanem a saját tetteinket keresztül
-        - csináljuk, és akkor jobban fog menni, és akkor egyre magabiztosabbak leszünk, hogy legközelebb is menni fog
-        - shoshin - kezdő hozzáállás - lásd Waitzkin
-            >> Beginners don't hold strong beliefs about what will work, they just try.
-    - protégé effect - ha tanítjuk, azzal mi magunk is jobban megtanuljuk
-        - na vajon ez a blog miért is létezik? :)
-        - Qui docet discit - Aki tanít, az tanul. -- Seneca
-        - persze nem kell gurunak lenni - elég, ha útmutató/kalauz/esettanulmány az ember gyereke
-- vállaljunk felelősséget a munkánkért
-    - külső vs. belső motiváció, must vs. have to
-        - és ugye a belső adja a nagyobb (és tartósabb) löketet
-        - a belső motiváció egyik legfőbb alapanyaga pedig az autonómia - vagyis hogy mi kezünkben az irányítás
-        - és szinte mindig több irányítás van a kezünkben, mint elsőre gondoljuk
-            - ha a "mit" nem is opcionális, a "hogyan" legtöbbször igenis az
-        - ha nincs teljes szabad kezünk, akkor azért ne csapjuk durcásan az asztalra, hogy "ááh, mindegy!"
-            - irányítsuk azt, amit tudunk, és egyből motiváltabbak leszünk abban is, amit nem irányíthatunk
-    - mindset shift: have to do this -> choose to do this -> get to do this -> blessed to be doing this!
+A szekció címe eredetileg "power", vagyis "hatalom", de inkább olyan értelmében, mint "personal empowerment".
+Vagyis nem több hatalmat akarunk, csak felismerni azt, ami már van.
+Azt viszont meg gyakorolni.
+
+A szerző a Netflix példájával indít, miszerint a HR-hez való radikálisan *más* hozzáállásuk vezetett a sikerhez -- ezzel rámutatva, hogy minket is mennyire meglódíthat, ha nálunk az irányítás.
+Fel kell ismernünk, hogy szabadok vagyunk olyanra formálni a teendőinket, amilyenre akarjuk, de cserébe akkor a felelősséget is vállaljuk, hogy azért egy adott cél felé haladunk általuk.
+Ez kb. a mikromenedzsment ellentéte -- makro-menedzsment?
+
+A gyeplő kézbevételéhez először is generáljunk önbizalmat, mert:
+
+> Ha elhiszed, hogy képes vagy rá, azzal már meg is tetted az első lépést afelé, hogy képes legyél rá.   
+>> Believing you can is the first step to making sure you actually can.
+
+Lásd a hivatkozott tanulmány, ahol az önbizalomra kondícionált alanyok sokkal jobban teljesítettek, mint a kételyre kondícionáltak (pedig az elején random osztották fel őket).
+Ha kell, szó szerint hype-oljuk fel magunkat, mert a pozitív self-talk működik.
+Szinte semmi különbség aközött, hogy magabiztosak vagyunk, vagy magabiztosnak **tettetjük** magunkat.
+Kérdezzük meg magunktól, "Hogy nézne ki, ha magabiztosan csinálnám?" -- és aztán csináljuk úgy.
+
+Természetesen nem muszáj mindent egyedül, vákuumban.
+Ha már láttuk, hogy valaki másnak megy, akkor utána sokkal könnyebb elhinni, hogy nekünk is fog.
+Akár találjunk példaképeket, és beszéljünk velük (vagy aszinkron fogyasszuk valahogy a mondanivalójukat, khmmm, kacsintás).
+Ezzel tudat alatt -- vagy akár tudatosan -- felépíthetjük magunkban, hogy ha nekik megy, akkor nekem miért ne?
+
+Az önbizalommal párhuzamosan fejlesszük a képességeinket is.
+És itt pont az lenne a hangsúlyos, hogy ne másokon keresztül, hanem a saját tetteinket keresztül.
+Csináljuk eleget, és akkor jobban fog menni -- sőt, egyre magabiztosabbak leszünk, hogy legközelebb is menni fog.
+Sokat segíthet, ha képesek vagyunk folyamatosan kezdőként tekinteni magunkra, mert akkor nem lesznek olyan erősen elkönyvelt hiteink arról, hogy mi hogyan működik, és egyszerűen próbálkozhatunk (lásd [Waitzkin]({% post_url 2021-02-06-josh-waitzkin-a-tanulas-muveszete %}) és a kezdő hozzáállás).
+    
+Az is a képességeinket fejleszti, ha tanítjuk -- mert azzal menet közben mi magunk is jobban megtanuljuk.
+Pláne ha kellően egyszerűen kell tudnunk elmagyarázni valamit.
+Na vajon ez a blog miért is létezik?
+Persze nem kell gurunak vagy megmondóembernek lenni -- elég, ha útmutató vagy kalauz vagy esettanulmány az ember gyereke.
+De az viszont meg lelkifurka nélkül lehet, és legyen.
+        
+> Aki tanít, az tanul.
+>
+> -- Seneca
+>> Qui docet discit.
+
+És ha már megvan az önbizalom és a szaktudás is, akkor vállaljunk felelősséget a munkánkért.
+Tudjunk különbséget tenni a külső vs. belső motiváció (avagy, angolosan, a must vs. have to) között.
+Amikből ugye a belső adja a nagyobb (és tartósabb) löketet.
+A belső motiváció egyik legfőbb alapanyaga pedig az autonómia -- vagyis hogy a mi kezünkben az irányítás.
+És szinte mindig több irányítás van a kezünkben, mint elsőre gondoljuk.
+
+Ha a "mit" nem is opcionális, a "hogyan" legtöbbször igenis az.
+Attól, hogy nincs teljes szabad kezünk, még ne csapjuk durcásan az asztalra, hogy "Ááh, akkor mindegy!"
+Irányítsuk azt, amit tudunk, és egyből motiváltabbak leszünk abban is, amit nem irányíthatunk.
+Gondoljuk végig, hogyan tudnánk változtatni a szemléletmódunkon, hogy a következő utat járjuk be:
+
+Ezt **kell** csinálnom &rArr; azt **választom**, hogy ezt csinálom &rArr; ezt csinál**HAT**om &rArr; abban a **szerencsés** helyzetben vagyok, hogy ezt csinálhatom.
+
+<br>
+
+
+
 
 #### Emberek
 
-- találjuk meg a közegünket
-    - Brian Eno - "Scenius" = Scene genius
-    - vegyüljünk benne, mert bizonyos emberi kapcsolatok nagyon is energizálóak lehetnek a produktivitásunkra/motivációnkra nézve
-    - újra előjön tehát a megfelelő közeg fontossága, mint más sokszor (refek a blogról!)
-    - bajtárs szemléletmód - nem kell, hogy zéró-összegű játékként tekintsünk arra, amit csinálunk!
-        - lehet úgy is "együtt" dolgozni, hogy mind kb. külön-külön dolgozunk, csak csapatmunkának **érezzük**
-        - nem egymás ellen dolgounk, és nem is csak úgy párhuzamosan egymás mellett, hanem együtt -- akkor is, ha nincs a klasszikus "csoport feladat" módon felosztva a munka
-    - szinkronicitás - ha szinkronban dolgozunk, azzal a mások felé irányuló érzéseinket, és a saját produktivitásunkat is megdobhatjuk
-        - akkor is, ha tök máson dolgozunk
-- segítsünk másoknak, amivel magunknak is segítünk
-    - mentorprogramok résztvevőinél konzisztens a visszajelzés: azért segítenek, mert attól ők maguk is boldogabbak, kiteljesedetebbek, energizáltabbak
-    - "kövessünk el" random kedvességeket
-    - merjünk segítséget kérni, hogy rajtunk is (kicsit kevésbé random) kedvességet kövessenek el mások
-        - Benjamin Franklin hatás - pont hogy jobb színben tekint majd ránk az, akitől segítséget kérünk
-        - ha megfelelően kérjük, tranzakcionalitás helyett pozitívan, a véleményét értékelve, stb.
-- inkább TÚL-kommunikáljunk, mint alul
-    - az ugye nem is volt kérdés, hogy az emberekkel való együttműködés alapja a kommunikáció
-    - itt most csak annyit mondunk, hogy valószínűleg több kell belőle, mint gondoljuk
-    - a jót is, és a rosszat is, mert ahogy (többek között) egy svéd közmondás tartja: "A megosztott öröm kettős öröm, a megosztott bánat fél bánat."
-    - pozitív ügyben legyünk aktívak és konstruktívak
-    - negatív ügyben pedig legyünk nyitottak és objektívek
-        - nem feltétlen "őszinték", mert abban már az is benne lenne, hogy mi tudjuk az igazat, amit most megosztunk
-        - a nyitottság sokkal jobban fedi, hogy megosztjuk a véleményünket - hogy mi hogy látjuk
-        - az objektivitásra pedig lásd NVC - ne szőjünk bele egyből ítéletet
+Az utolsó energizáló tényező pedig az emberekkel való együttműködés.
+Ugye az önerőből sikeres ember mítoszát már korábban szétoszlattuk (lásd [Arnie beszéde]({% post_url 2023-04-20-arnold-schwarzenegger-az-onero-mitoszarol %})) -- most csak azt tesszük hozzá, hogy másokkal a tetejébe menet közben is jobbnak élhetjük meg az utat.
+A szerző három tippet ajánl a hatékonyabb együttműködésekhez.
 
+Egyrészt: találjuk meg a közegünket, és aztán férjünk hozzá ahhoz a közösségi zsenialitáshoz, ami egyedül lehetetlen lenne.
+Brian Eno szóhasználatával élve ez a "Scenius", avagy Scene Genius.
+Vegyüljünk benne, mert bizonyos emberi kapcsolatok nagyon is energizálóak lehetnek a produktivitásunkra és a motivációnkra nézve.
+Tekintsünk az itteni emberekre bajtársként -- nem kell, hogy zéró-összegű játék legyen az élet!
+Lehet úgy is "együtt" dolgozni, hogy mind kb. külön-külön dolgozunk, csak csapatmunkának **érezzük**.
+Nem egymás ellen dolgounk, és nem is csak úgy párhuzamosan egymás mellett, hanem együtt -- akkor is, ha nincs a klasszikus "csoport feladat" módon felosztva a munka.
+
+Másrészt: segítsünk másoknak -- amivel, mellesleg, magunknak is segítünk.
+A mentorprogramok résztvevőinél konzisztens a visszajelzés, miszerint azért segítenek, mert attól ők maguk is boldogabbak, kiteljesedetebbek, energizáltabbak.
+Szóval "kövessünk el" bátran random kedvességeket, még ha csak puszta önérdekből is (lásd [Emőke]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %})).
+Sőt, ez visszafelé is működik.
+Merjünk segítséget kérni, hogy rajtunk is (kicsit kevésbé random) kedvességet kövessenek el mások.
+Az ún. "Benjamin Franklin hatás" szerint így pont hogy jobb színben tekint majd ránk az, akitől segítséget kérünk -- ha megfelelően kérjük, tranzakcionalitás helyett pozitívan, a véleményét értékelve, stb.
+
+Harmadrészt pedig: inkább TÚL-kommunikáljunk, mint alul.
+Az ugye nem is volt kérdés, hogy az emberekkel való együttműködés alapja a kommunikáció.
+Itt most csak annyit mondunk, hogy valószínűleg több kell belőle, mint gondoljuk.
+Osszuk meg a jót is, és a rosszat is, mert ahogy (többek között) egy svéd közmondás tartja: "A megosztott öröm kettős öröm, a megosztott bánat fél bánat."
+
+Pozitív ügyben legyünk aktívak és konstruktívak.
+Negatív ügyben pedig legyünk nyitottak és objektívek.
+Na nem feltétlen "őszinték", mert abban már az is benne lenne, hogy mi tudjuk az igazat, amit most megosztunk.
+A nyitottság sokkal jobban fedi, hogy megosztjuk a véleményünket -- hogy mi hogy látjuk.
+Az objektivitással kapcsolatban pedig az a fontos, hogy ne szőjünk bele egyből ítéletet (lásd [erőszakmentes kommunikáció]({% post_url 2021-10-09-marshall-rosenberg-eroszakmentes-kommunikacio %})).
+
+<br>
 
 
 
@@ -156,91 +192,109 @@ Sokkal jobban járnánk, -- a kiégés ellen, de konkrétan a produktivitásunk 
 
 ## <a name="blokk-oldas"></a>Blokk-oldás
 
-- Halasztgatás < Motiváció < Fegyelem < Blokk-oldás
-    - ha el vagyunk akadva, és nem csinálunk semmit, akkor nem lesz semmi
-    - ha megpróbáljuk meggyőzni magunkat, hogy ez nekünk miért fontos (akár jobban, mint a levegővétel, lásd gurus példa), akkor majd lesz kedvünk, és csináljuk
-    - ha fegyelmezetten viselkedünk, és a nem akarás ellenére is megcsináljuk, akkor kedvünk épp nem lesz, de meg lesz csinálva
-    - ha pedig előbb megnéznénk, hogy miért vagyunk elakadva, akkor a gyökér ok megszüntetésével a halasztgatást és a motiváció/fegyelem szükségességét is megkerülhetnénk
-- példa: kavics a cipőben futás előtt
-    - ha emiatt elhalasztjuk a futást, akkor nem futunk
-    - ha telepumpáljuk magunkat motivációval, hogy a futás még a fájdalom ellenére is mennyire megéri, akkor lesz lelkesedés, lesz futás, de fájás is lesz bőven
-    - ha fegyelmezettek vagyunk, akkor leszarjuk a lelkesedést, megcsináljuk a futást, és közben szétdaráljuk a lábunkat
-    - a blokk-oldás esetében pedig elgondolkozunk rajta, miért is fájna a futás - aztán kivesszük a kavicsot a cipőnkből, és mehetünk fájdalommentesen futni
+A halasztgatásból könnyen kibillent a motiváció -- és még motiváció se kell, ha van kellő mennyiségű fegyelem.
+Abdaal viszont egy negyedik elemet is kapcsol ehhez a lánchoz: feloldani azt a blokkot, ami miatt egyáltalán halasztgatunk.
 
-- na ez jön most
-    - a játék/irányítás/emberek energizátorai arra jók, hogy hajtsanak
-    - a blokk-oldók meg arra, hogy eltüntessék az akadályokat az útból
+Gondoljunk csak bele.
+Ha el vagyunk akadva, és nem csinálunk semmit, akkor nem lesz semmi.
+Ha megpróbáljuk meggyőzni magunkat, hogy ez nekünk miért fontos, akkor majd lesz kedvünk, és csináljuk.
+Ha fegyelmezetten viselkedünk, és a nem akarás ellenére is megcsináljuk, akkor kedvünk épp nem lesz, de meg lesz csinálva.
+Ha pedig előbb megnéznénk, hogy miért vagyunk elakadva, akkor a gyökér ok megszüntetésével a halasztgatást és a motiváció/fegyelem szükségességét is megkerülhetnénk.
+
+Egy szemléletes példához képzeljük el, hogy kavics van a cipőnkben futás előtt.
+Ha emiatt elhalasztjuk a futást, akkor nem futunk.
+Ha telepumpáljuk magunkat motivációval, hogy a futás még a fájdalom ellenére is mennyire megéri, akkor lesz lelkesedés, lesz futás, de fájás is lesz bőven.
+Ha fegyelmezettek vagyunk, akkor leszarjuk a lelkesedést, megcsináljuk a futást, és közben szétdaráljuk a lábunkat.
+A blokk-oldás esetében pedig elgondolkozunk rajta, miért is fájna a futás -- aztán kivesszük a kavicsot a cipőnkből, és mehetünk fájdalommentesen futni.
+
+Na valami ehhez hasonló jön most.
+A játék/irányítás/emberek energizátorai arra jók, hogy hajtsanak.
+A blokk-oldók meg arra, hogy eltüntessék az akadályokat az útból.
+
+<br>
 
 
 #### Láss tisztán!
 
-- ha nem tudjuk PONTOSAN, hogy mit kellene csinálni, akkor sokkal kisebb az esélye, hogy nekifogunk
-    - túlbecsüljük, mennyire rosszul sülhet el; minden apró negatívumra rá-zoom-olunk; a megnyugtató, pozitív jelekre már nem marad figyelmünk; és inkább elhalasztjuk a döntést, így nem is változik semmi
-- bizonytalanságtűrés metrika - van, aki alapból jobban bírja
-    - de ettől bárki csökkentheti a bizonytalanságot, hogy kisebb tűrésérték mellett is produktív lehessen
-    - a megoldás: kérdéseket teszünk fel magunknak
+Ha nem tudjuk **pontosan**, hogy mit kellene csinálni, akkor sokkal kisebb az esélye, hogy nekifogunk.
+Túlbecsüljük, mennyire rosszul sülhet el; minden apró negatívumra rá-zoom-olunk; a megnyugtató, pozitív jelekre már nem marad figyelmünk; és inkább elhalasztjuk a döntést, így nem is változik semmi.
+Konkrétan létezik a szociológiában a bizonytalanságtűrés, mint metrika -- és van, aki alapból jobban bírja.
+De ettől *bárki* csökkentheti a bizonytalanságot, hogy kisebb tűrésérték mellett is produktív lehessen.
+A megoldás: kérdéseket teszünk fel magunknak.
 
-1. Miért?
-    - nem kell tudni, hogy pontosan milyen lépések várnak ránk; azt kell tudni, hogy miért akarunk egyáltalán belefogni
-    - a parancsnoki szándék: katonai stratégia, miszerint nem azt mondják meg, hogy mit csináljuk, hanem hogy mi a cél, és a megvalósítás ránk van bízva
-        - kb. goalsetting
-    - ennek a továbbfejlesztése az "5-szörös miért", ahol egyre hátrébb lépkedünk az ok-okozati láncon
-        - ezzel kivédhetjük a rövidtávú, szűklátókörű dolgokat, ha NEM a fő célunkig jutunk vissza a "de miért?" többszöri kérdezgetésével
-        - ha viszont oda, akkor valószínűleg jó úton járunk
+Az első kérdés: **Miért?**
+Nem kell tudni, hogy pontosan milyen lépések várnak ránk; azt kell tudni, hogy miért akarunk egyáltalán belefogni.
+Vegyünk példát a katonai parancsnokok stratégiájáról, akik nem feltétlen azt mondják meg, hogy mit csináljuk, hanem hogy mi a cél, és a megvalósítás ránk van bízva.
+Vagy ennek a továbbfejlesztése az "5-szörös miért", ahol egyre hátrébb lépkedünk az ok-okozati láncon.
+Ezzel kivédhetjük a rövidtávú, szűklátókörű dolgokat, ha *nem* a fő célunkig jutunk vissza a "de miért?" többszöri kérdezgetésével.
+Ha viszont oda, akkor valószínűleg jó úton járunk.
 
-2. Mit?
-    - hosszú táv lebontása konkrét rövidtávra
-    - output helyett input célok legyenek
-        - a hosszú táv lehet output, de azt vezessük vissza, hogy "milyen cselekedetek és szokások vezetnek arrafelé"
-        - és aztán az legyen a mit, hogy az ilyen dolgokat csináljuk (mert ezt tényleg mi irányítjuk)
-    - pre-mortem: előre gondoljuk bele, hogy mi köphet a levesbe, és hogy ezt hogy kerülhetnénk el
-        - képzeljük, hogy egy hét múlva van, és mégsem fogtunk bele
-        - miért? és mit tehetnénk, hogy ezt a legvalószínűbb potenciális buktatót kivédjük? ki segíthet?
+A második kérdés: **Mit?**
+Itt kell a hosszú távot konkrét rövidtávra lebontani.
+Érdemes figyelni rá, hogy ún. "output célok" helyett "input célokat" tűzzünk ki.
+A hosszú táv nyilván lehet valamiféle output, de azt vezessük vissza, hogy "milyen cselekedetek és szokások vezetnek arrafelé".
+És aztán az legyen a mit, hogy az ilyen dolgokat csináljuk (mert ezt tényleg mi irányítjuk).
+Illetve, hogy maximalizáljuk az irányításunk hatását, tartsunk "pre-mortem-et" -- vagyis előre gondoljuk bele, hogy mi köphet a levesbe, és hogy ezt hogy kerülhetnénk el.
+Képzeljük mondjuk, hogy már egy hét múlva van, és mégsem fogtunk bele.
+Miért?
+És mit tehetnénk, hogy ezt a legvalószínűbb potenciális buktatót kivédjük?
+Ki segíthet?
+Stb.
 
-3. Mikor?
-    - ha nem tudjuk, hogy valamit mikor kéne csinálni, akkor az nagy eséllyel nem lesz megcsinálva
-    - implementációs szándék - ha..akkor triggerek, lásd James Clear
-    - idő blokkolás - használjuk a naptárat mint egy idő-büdzsét
-        - így sokkal könnyebben tudunk egy kívánt egyensúlyt kialakítani minden olyasmi között, ami szeretnénk, ha beleférne az életünkbe
-        - aztán ez persze egy ideál lesz, amit lehet, hogy soha nem tudunk majd pontosan, 100%-osan lekövetni
-        - de már az nagy segítség, ha egyáltalán van mire aspirálni!
+Végül a harmadik kérdés: **Mikor?**
+Ha nem tudjuk, hogy valamit mikor kéne csinálni, akkor az nagy eséllyel nem lesz megcsinálva.
+Lásd [James Clear]({% post_url 2021-01-09-james-clear-atomi-szokasok %}) atomi szokásai, azon belül is az *implementációs szándék* és a "ha..akkor triggerek".
+Vagy egy másik opció az idő blokkolás -- amikor úgy használjuk a naptárunkat, mint egy idő-büdzsét.
+Így sokkal könnyebben tudunk egy kívánt egyensúlyt kialakítani minden olyasmi között, ami szeretnénk, ha beleférne az életünkbe.
+Aztán ez persze egy ideál lesz, amit lehet, hogy soha nem tudunk majd pontosan, 100%-osan lekövetni.
+De már az nagy segítség, ha egyáltalán van mire aspirálni!
+
+<br>
 
 
 
 #### Meríts bátorságot!
 
-- egy másik blokkoló a félelem
-    - az amigdala küldi a jeleket - ami jó, mert így nem lépünk ki az autók elé... de az már kevésbé jó, hogy valójában veszélytelen helyzeteket is veszélyesnek címkéz
-    - amire megint megoldás lehet a bátorság (leszarom, félve is csinálom)
-    - de azért nem árthat megpróbálni megérteni a félelmeinket - hátha úgy könnyebb lesz szembenézni velük
+A következő blokkoló tényező, amivel meg kell küzdenünk, az a félelem.
+Hiszen az amigdala mindenkinek küldi a jeleket.
+Ami jó, mert így nem lépünk ki az autók elé -- az már viszont kevésbé jó, hogy valójában veszélytelen helyzeteket is gyakran veszélyesnek címkéz.
+Erre természetesen megoldás lehet a bátorság (amikor leszarom és félve is csinálom).
+De azért nem árthat megpróbálni megérteni a félelmeinket -- hátha úgy könnyebb lesz szembenézni velük.
 
-1. A félelmünk megértése
-    A) öntsük szavakba, hogy pontosan mitől félünk
-        - ez persze nem szünteti meg a félelmet, de segít észrevenni, ha az amigdalánk épp aránytalanul, indokolatlanul túlműködik
-        - segíthet, ha harmadik személybe helyezzük, és kb. személytelenítjük - egy az én helyzetemben lévő személy mitől félne?
-    B) vizsáljuk felül, milyen címkéket aggatunk magunkra
-        - lehet azért nem fogunk bele valamibe, mert ütközik a magunkról alkotott képünkkel
-        - de semmiből nem tart máshogy címkézni magunkat - ami, érdekes és kb. önbeteljesítő jóslat jelleggel, a viselkedésünket is befolyásolhatja
+Egy tipp, hogy öntsük szavakba, pontosan mitől félünk.
+Ez persze nem szünteti meg a félelmet, de segít észrevenni, ha az amigdalánk épp aránytalanul, indokolatlanul túlműködik.
+Segíthet, ha harmadik személybe helyezzük, és kb. személytelenítjük -- például egy, az én helyzetemben lévő személy mitől félne?
 
-2. Csökkentsük a félelmünk hatását
-    A) Ne katasztrofizáljunk
-        - használjuk a 10/10/10 szabályt: ha tényleg rosszul sül el, amitől félünk, az számít-e majd 10 perc/hét/év múlva?
-        - ez segít majd a helyén kezelni a potenciális súlyát, és sokmindenbe sokkal bátrabban belefogni (mert az se katasztrófa, ha nem jön be)
-    B) Kérdőjelezzük meg az önbizalom szükségességét
-        - persze, hogy jobb lenne magabiztosan csinálni - de anélkül nem lehet?
-        - nem lehet, hogy mondjuk most csak megpróbálom, tét nélkül, és majd (jó sok) idővel leszek benne profi? na ugye.
+Egy másik tipp, hogy vizsáljuk felül, milyen címkéket aggatunk magunkra.
+Lehet azért nem fogunk bele valamibe, mert ütközik a magunkról alkotott képünkkel.
+De semmiből nem tart ám máshogy címkézni magunkat -- ami, érdekes és kb. önbeteljesítő jóslat jelleggel, a viselkedésünket is befolyásolhatja.
 
-3. Kerekedjünk felül a félelmeinken
-    A) Vegyük észre, hogy nincs rajtunk a reflektorfény
-        - mások sokkal inkább szarnak ránk, mint gondolnánk... sooookkal.
-        - önmagunk felvállalásánál először mindenki attól tart, hogy jajj, mit fognak gondolni - és aztán relatíve gyorsan rájövünk, hogy leginkább semmit. észre se vesznek. nem kavarunk mi akkora hullámokat, hogy az regisztrálódjon mások elfoglalt hétköznapjai közepette.
-        - szóval nyugi, nincs rajtunk reflektorfény
-        - vagy ha mégis, konkrétan tényleg igen, akkor:
-    B) Használjunk alterego-t
-        - ha mi nem merünk valamit csinálni, akkor képzeljünk el egy karaktert, aki merné
-        - és aztán játsszuk el azt a karaktert
-        - Batman-hatás - gyerekekkel kísérlet, hogy ha Batman-nek vagy Dora-nak képzelték magukat, akkor sokkal fegyelmezettebben és tovább koncentráltak egy adott feladatra
-        - Beyoncé - Sasha Fierce, vagy Adele -> Sasha Carter
+Aztán, ha már értjük a félelmeinket, csökkentsük a hatásukat.
+Ehhez a legfontosabb, hogy ne katasztrofizáljunk!
+Használjuk a 10/10/10 szabályt: ha tényleg rosszul sül el, amitől félünk, az számít-e majd 10 perc/hét/év múlva?
+Ez segít majd a helyén kezelni a potenciális súlyát, és sokmindenbe tudunk bátrabban belefogni (mert az se katasztrófa, ha nem jön be).
+
+Illetve kérdőjelezzük meg az önbizalom szükségességét úgy egyáltalán.
+Mármint persze, hogy jobb lenne magabiztosan csinálni -- de anélkül nem lehet?
+Mi van, ha mondjuk most csak megpróbálom, tét nélkül, és majd (jó sok) idővel később leszek benne profi?
+Na ugye.
+
+Az így megértett és csökkentett hatású félelmeken pedig ideje felülkerekedni.
+Amit nyugodtan tehetünk abban a megnyugtató tudatban, hogy nincs rajtunk reflektorfény!
+Mások sokkal inkább szarnak ránk, mint gondolnánk... Sooookkal inkább!
+Önmagunk felvállalásánál először mind attól tartunk, hogy jajj, mit fognak gondolni -- és aztán relatíve gyorsan rájövünk, hogy leginkább semmit.
+Észre se vesznek.
+Nem kavarunk mi akkora hullámokat, hogy az regisztrálódjon mások elfoglalt hétköznapjai közepette.
+Szóval nyugi, nincs rajtunk reflektorfény.
+
+Vagy ha mégis, konkrétan tényleg reflektorfényben találnánk magunkat, akkor használjunk alteregot.
+Ha mi nem merünk valamit csinálni, akkor képzeljünk el egy karaktert, aki merné.
+És aztán játsszuk el azt a karaktert.
+Ezt a jelenséget Batman-hatásként is szokták emlegetni.
+A név egy gyerekekkel végzett kísérletből ered, ahol ha Batman-nek vagy Dora-nak képzelték magukat, akkor sokkal fegyelmezettebben és tovább koncentráltak egy adott feladatra.
+Nekünk miért ne lehetne egy alteregonk?
+
+<br>
 
 
 #### Vágj bele!
