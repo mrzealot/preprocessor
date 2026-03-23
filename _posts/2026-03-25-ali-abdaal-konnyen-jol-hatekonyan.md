@@ -4,7 +4,7 @@ title: Ali Abdaal - Könnyen, jól, hatékonyan
 cover: feelgoodproductivity
 tags: [produktivitás, szemléletmód]
 pages: 280
-date: 2026-03-18 00:01
+date: 2026-03-25 00:01
 excerpt: >
     A keményebb munka önmagában nem lesz elég -- nem ártana jól is érezni magunkat közben.
     És ezt nem csak azért ám, hogy kellemes legyen.
@@ -69,7 +69,7 @@ Ami tulajdonképpen a Mary Poppins-ból származó híres idézet, egy kicsit le
 
 Egy másik hatásos stratégia, ha lejjebb rakjuk a metaforikus lécet.
 Ami közvetlenül a stresszt oldja ugyan, de ezáltal közvetetten mégis a játékosságot segíti elő.
-Ehhez viszont elengedhetetlen a kudarc átértelmezése (lásd [Dweck]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %}).
+Ehhez viszont elengedhetetlen a kudarc átértelmezése (lásd [Dweck]({% post_url 2021-01-16-carol-s-dweck-szemleletvaltas %})).
 Például egy NASA-s kódolási kísérletben ha odaírták, hogy "a rossz válasz mínusz 5 pont", akkor a résztvevők fele annyit se próbálkoztak, és 16%-kal kevesebben oldották meg ugyanazt a feladatot.
 
 Mi lenne, ha mi inkább úgy gondolnánk rá, hogy **kapunk** 5 pontot, csak mert próbálkoztunk?
@@ -299,39 +299,46 @@ Nekünk miért ne lehetne egy alteregonk?
 
 #### Vágj bele!
 
-- Newton első törvénye a tehetetlenségről, ami nem csak a testek mozgására, hanem a produktivitásra is nagyon érvényes
-    - ha nem csinálunk semmit, akkor könnyű továbbra is nem csinálni semmit
-    - ha meg már bennevagyunk valamiben, akkor könnyű tovább haladni vele
-    - ami sok energiát igényel, az az állapotváltás - a harmadik blokkoló tehát a tehetetlenség
+Egy pici fizika korrepetálással kezdünk Newton első törvényével kapcsolatban, ugyanis a tehetetlenség nem csak a testek mozgására, hanem a produktivitásra is nagyon érvényes.
+Ha nem csinálunk semmit, akkor könnyű továbbra is nem csinálni semmit.
+Ha meg már bennevagyunk valamiben, akkor könnyű tovább haladni vele.
+Ami sok energiát igényel, az az állapotváltás -- a harmadik blokkoló tehát a tehetetlenség.
 
-1. Csökkentsük a súrlódást, hogy könnyű legyen belefogni - lásd Atomi szokások
-    A) Alakítsuk olyanra a környezetünket, hogy amit szeretnénk, az csak karnyújtásnyira legyen (és amit meg NEM szeretnénk, az pont hogy kényelmetlenül távol) --> környezet dizájn!
-    B) Lendüljünk át a belekezdés nehézségén az 5 perces szabállyal (lásd DeLonzor)
-        - könnyebb lesz belekezdeni, mert nem akkora elköteleződésnek éljük meg
-        - ha már belekezdtünk, nagy valószínűséggel tovább fogjuk csinálni
-        - de ha tényleg nem akaródzik, akkor meg 5 perc és ráhagyjuk... akkor is haladtunk 5 percet, ami pont 5 perccel több, mint a nulla!
+A legyőzésének elsődleges módszere a súrlódás csökkentése, hogy könnyű legyen belefogni (lásd [Atomi szokások]({% post_url 2021-01-09-james-clear-atomi-szokasok %})).
+Alakítsuk olyanra a környezetünket, hogy amit szeretnénk, az csak karnyújtásnyira legyen -- és amit meg **nem** szeretnénk, az pont hogy kényelmetlenül távol.
+Gyakorlati tippekért használjuk a "környezet dizájn" keresőkifejezést.
 
-2. Csináljuk!
-    >> A semmittevés legjobb ellenszere, ha csinálunk valamit.
-    A) Mindig legyen egy jól meghatározott következő cselekedet, amivel haladhatunk
-        - kicsit "láss tisztán" ismétlés, de jah
-        - ha már egyszer rávettük magunkat, hogy végre nekifogjunk, akkor nehogy az legyen már a gond, hogy "de minek is fogjunk neki?"
-    B) Kövessük a haladást
-        - írásnál hány oldal, tanulásnál hány fejezetet néztünk már át, edzésnél idő vagy ismétlésszám a gyakorlathoz, akármi
-        - de jól válasszuk meg, mit mérünk, mert azt érjük el (lásd McNamara)
+A belekezdés nehézségéhez pedig használjuk az 5 perces szabályt és lendüljünk át (lásd [DeLonzor]({% post_url 2022-05-01-diana-delonzor-soha-ne-kess-el-tobbe %})).
+Így még a környezettervezésen felül is mégkönnyebb lesz belekezdeni, mert nem akkora elköteleződésnek éljük meg.
+Ha már belekezdtünk, nagy valószínűséggel úgyis tovább fogjuk csinálni.
+De ha tényleg nem akaródzik, akkor meg 5 perc és ráhagyjuk...
+Akkor is haladtunk 5 percet, ami pont 5 perccel több, mint a nulla!
 
-3. Támogassuk magunkat
-    A) Keressünk egy elszámoltatási társat vagy csoportot
-        - a társaság energizáló erejéről ugye már beszéltünk, de ez tovább megy: kihasználja, hogy alapvetően szociális lények vagyunk, és a kötelességtudatunk mélyre nyúlik
-        - ha csak mi magunk vagyunk érintettek valamiben, azt nagyon könnyű lemondani egy hirtelen motiváció ingadozás ürügyén
-        - ha viszont valaki mást is belerángattunk (vagy valakinek már fizettünk érte, stb.) akkor a kötelességtudat sokkal nagyobb valószínűséggel átsegít majd a gödrökön
-    B) Bocsássuk meg magunknak a tökéletlenségünket
-        - az általában nem baj, ha egy kis halasztgatás becsúszik
-        - a nagyobb baj az, ha emiatt haragszunk magunkra, ostorozzuk magunkat, stb., mert abból csak még több halasztgatás lesz
-        - pont mint a szorongásnál: a szorongás önmagában nem baj, amíg a szorongásunkon nem kezdünk szorongani
-        - a spirál maradjon ki, és akkor nagyságrendileg már jók vagyunk
-        - egy tipp: ünnepeljük az apró győzelmeket az apró vereségekkel szemben
-        - ugyanaz történt, de más sztorit szövünk köré, ami miatt talán a következőkben már produktívabbak leszünk
+> A semmittevés legjobb ellenszere, ha csinálunk valamit.
+
+Ebben a szekcióban is kiemeljük, hogy mindig legyen egy jól meghatározott következő cselekedet, amivel haladhatunk.
+Kicsit "láss tisztán" ismétlés, de jah, ha már egyszer rávettük magunkat, hogy végre nekifogjunk, akkor nehogy az legyen már a gond, hogy "de minek is fogjunk neki?".
+Ha meg már csináljuk, akkor kövessük a haladást!
+Írásnál hány oldal született, tanulásnál hány fejezetet néztünk már át, edzésnél idő vagy ismétlésszám a gyakorlathoz, akármi.
+Persze jól válasszuk meg, mit mérünk, mert azt fogjuk elérni (lásd [McNamara]({% post_url 2023-07-27-a-mcnamara-tevedesrol %})) -- de *valamit* azért mérjünk, mert különben szintén azt érjük el, amit mérünk: semmit.
+
+Ha úgy éreznénk, hogy ránk fér a külső segítség, akkor keressünk egy elszámoltatási társat vagy csoportot!
+A társaság energizáló erejéről ugye már beszéltünk, de ez tovább megy, mert kihasználja, hogy alapvetően szociális lények vagyunk, és a kötelességtudatunk mélyre nyúlik.
+Ha csak mi magunk vagyunk érintettek valamiben, azt nagyon könnyű lemondani egy hirtelen motiváció ingadozás ürügyén.
+Ha viszont valaki mást is belerángattunk (vagy valakinek már fizettünk érte, stb.) akkor a kötelességtudat és a beilleszkedési vágy sokkal nagyobb valószínűséggel átsegít majd a gödrökön.
+
+Micsoda véletlen, hogy pont alapítottam egy ilyet **"Integritás Labor"** néven.
+Ha érdekelne, iratkozz fel a [várólistára](https://forms.gle/Ct5AGk8bL2FwRjw38){:target="_blank"}!
+
+Belső segítség ügyében pedig az a legtöbb, amit tehetünk, hogy megbocsátjuk magunknak a tökéletlenségünket.
+Általában nem baj, ha egy kis halasztgatás becsúszik.
+A nagyobb baj az, ha emiatt haragszunk magunkra és ostorozzuk magunkat, mert abból csak még több halasztgatás lesz.
+Pont mint a szorongásnál: a szorongás önmagában nem baj, amíg a szorongásunkon nem kezdünk szorongani.
+A spirál maradjon ki, és akkor nagyságrendileg már jók vagyunk.
+Egy tipp: ünnepeljük az apró győzelmeket az apró vereségekkel szemben.
+Ugyanaz történt, de más sztorit szövünk köré, ami miatt talán a következőkben már produktívabbak leszünk.
+
+<br>
 
 
 
@@ -350,51 +357,64 @@ Nekünk miért ne lehetne egy alteregonk?
 
 ## <a name="fenntartas"></a>Fenntartás
 
-- az eddigiek már kb. megalapozzák a produktivitást
-    - a játék + irányítás + emberek felpörgetnek, hogy csináljuk -- a bizonytalanság + félelem + tehetetlenség eltüntetésével pedig szépen feloldjuk az utunkban álló akadályokat
-    - de van még egy (vagyis, három) hiányzó láncszem, amitől **fenntartható** lesz ez a produktivitásunk
-- a burnout-ot ugyanis nem csak 18 órás napok, vagy másod/harmadállások anyagi kényszere okozhatják
-    - az a lényeg, hogy mi hogy éljük meg, amit csinálunk
-- lehet túlvállalás, lehet nem megfelelő mértékű pihenés/töltődés, és lehet inkompatibilitás (amikor már nem azt csináljuk, amit igazán szeretnénk)
+Az eddigiek már kb. megalapozzák a produktivitást.
+A játék + irányítás + emberek felpörgetnek, hogy csináljuk -- a bizonytalanság + félelem + tehetetlenség eltüntetésével pedig szépen feloldjuk az utunkban álló akadályokat.
+De van még egy (vagyis, három) hiányzó láncszem, amitől **fenntartható** lesz ez a produktivitás.
+A kiégést ugyanis nem csak 18 órás napok, vagy másod/harmadállások anyagi kényszere okozhatják.
+Az a fontos, hogy mi hogyan éljük meg, amit csinálunk.
+Lehet, hogy túlvállaltuk magunkat.
+Lehet, hogy nem megfelelő mértékű időt szánunk a pihenésre és a töltődésre.
+És lehet egyszerű inkompatibilitás is -- amikor már nem azt csináljuk, amit igazán szeretnénk.
 A továbbiakban erre a háromra keresünk megoldásokat.
 
 <br>
 
 #### Tartalékolás
 
-- LeBron James példa, aki hihetetlenül gyorsan tud sprintelni, mégis a legtöbbször csak sétál a pályán
-    - ezért bírta huszon-évig, évi 70 meccsel, míg az átlag évi 50 meccses tempóval is kiég kb. 5 év alatt
-    - nem mindig rohan, de amikor igen, akkor nagyon
+LeBron James példáját hozzuk fel a fenntartható teljesítményre, aki hihetetlenül gyorsan tud sprintelni, mégis a legtöbbször csak sétál a pályán.
+Ezért bírta huszon-évig, évi 70 meccsel, míg az átlag évi 50 meccses tempóval is kiég kb. 5 év alatt.
+Nem mindig rohan, de amikor igen, akkor nagyon.
 
-1. Csináljunk kevesebbet
-    A) Energia befektetési portfólió
-        - lehet egy hosszú lista arról, hogy mi mindent szeretnénk "majd egyszer" csinálni, de az egy külön lista legyen, hogy MOST éppen mibe megy az energiánk
-        - és az aktív lista max 4-5 elemű legyen (gyerekes és/vagy karrier fókuszú esetekben pedig még kevesebb... akár csak 1)
-    B) És aztán minden másra mondjunk bátran, határozottan nemet az aktív listánkon kívül
-        - Derek Sivers-féle "Hell yeah, or no."
-        - gondoljunk az "opportunity cost-ra", vagyis hogy ezáltal mit nem csináljunk majd, ha ezt igen - és hogy az nem lenne-e jobb?
-        - időmenedzsment szempontból pedig ne verjük át magunkat, hogy X hét múlva majd biztos belefér, ezért rámondhatom
-            - ha holnap nem férne bele, akkor 6 hét múlva sem, mert akkor is ugyanilyen lesz az életünk szerkezete (csak legfeljebb még nem konkretizálódott a naptárban)
+Ennek fényében próbáljuk mi is kevesebbet csinálni.
+Paradoxikusan hangozhat, de ez a hosszú távú produktivitás egyik kulcsa: nem sokat kell csinálni, hanem a jó dolgokat kell csinálni.
+Ehhez lehet hasznos eszköz egy energia befektetési portfólió megírása.
+Az lehet hosszú lista, hogy mi mindent szeretnénk "majd egyszer" csinálni, de az egy külön lista legyen, hogy **most** éppen mibe kéne menjen az energiánk.
+És ez az aktív lista *maximum* 4-5 elemű legyen -- sőt, gyerekes és/vagy karrier fókuszú esetekben még kevesebb... Akár csak 1.
 
-2. Álljunk ellen a figyelemeltereléseknek
-    A) addjunk szándékos súrlódást/nehézséget az olyan technológiákhoz, amik nem minket szolgálnak
-        - ezek is kontextusváltások, ezek is égetik a kognitív energiát, csak nem épp "hasznos" (vagy legalábbis, a céljainkkal kongruens) módon
-        - lásd Digitális Minimalizmus
-    B) ha már "megbotlottunk", ne legyen "úgyis mindegy"
-        - "failing with abandon" -- Nate Soares
-        - egy kis figyelem ingadozás nem a világ vége - sőt, kis mennyiségben akár felfrissítő, begyöpösödésből kirángató hatása is lehet
-        - de ne legyünk úgy vele, hogy ha már nem tökéletes a produktivitásunk, akkor egye fene, menjen rá arra az öt perc telefon nyomkodásra még három óra
-        - Abdaal hasonlatával: ha az időjárás miatt pár fokkal állítani kell a repülőgép pályáját, és emiatt kicsit később érünk New York-ba, az nem baj. De ha az időjárás miatt már nem is New York-ba repülünk, hanem Buenos Aires-be, az már baj.
+Ha ez megvan, utána minden másra mondjunk bátran, határozottan nemet az aktív listánkon kívül.
+Ez az a bizonyos, Derek Sivers által is hangoztatott "Hell yeah, or no."
+Legyen marhára igen, vagy nem.
+Gondoljunk az "opportunity cost-ra", vagyis hogy ezáltal mit nem csinálhatunk majd, ha erre igent mondunk.
+Időmenedzsment szempontból pedig ne verjük át magunkat, hogy X hét múlva majd biztos belefér, ezért rámondhatom kevésbé fontosra is az áment.
+Ha holnap nem férne bele, akkor 6 hét múlva sem, mert akkor is ugyanilyen lesz az életünk szerkezete (csak legfeljebb még nem konkretizálódott a naptárban).
 
-3. Tartsunk több szünetet - többet, mint gondolnánk, hogy kellene
-    A) ütemezzük be őket! legyenek ezek is büszkén részei a napunknak: az időszakok, ahol nem csinálunk semmit
-        - a self-regulation egy (nagyon) véges erőforrás, és ha lemerítjük, akkor hiába tart ott az asztalunknál a jószándék
-        >> Breaks aren't a special treat. They're an absolute necessity.
-    B) és legyenek ütemezetlenek is - engedjünk az "energizáló figyelemeltereléseknek"
-        - nem minden figyelemelterelés rossz
-        - még a kolostorokban is véletlenszerűen megszólal néha a meditációs harang (nem csak a meditáció kezdetekor), hogy kizökkentse a szerzeteseket
-            - hogy hirtelen tisztába kerüljenek vele, hol is vannak, mit is csinálnak, és jelen lehessenek
-        - na ha ez nekünk egy gyors beszélgetés egy baráttal/kollégával, az is működhet így
+A következő küldetés ellenállni a figyelemeltereléseknek.
+Egyrészt hogy be se szippantsanak.
+Ehhez adjunk szándékos súrlódást vagy nehézséget az olyan technológiákhoz, amik nem minket szolgálnak.
+Elvégre ezek is kontextusváltások, ezek is égetik a kognitív energiát, csak nem épp "hasznos", vagy legalábbis nem a céljainkkal kongruens módon (lásd [Digitális Minimalizmus]({% post_url 2020-03-13-cal-newport-digitalis-minimalizmus %}).
+Másrészt, ha már "megbotlottunk", akkor se legyen "úgyis mindegy".
+Egy kis figyelem ingadozás nem a világ vége -- sőt, kis mennyiségben akár felfrissítő, begyöpösödésből kirángató hatása is lehet.
+De ne legyünk úgy vele, hogy ha már nem tökéletes a produktivitásunk, akkor egye fene, menjen rá arra az öt perc telefon nyomkodásra még három óra.
+A szerző hasonlatával élve: ha az időjárás miatt pár fokkal állítani kell a repülőgép pályáját, és emiatt kicsit később érünk New York-ba, az nem baj.
+De ha az időjárás miatt már nem is New York-ba repülünk, hanem Buenos Aires-be, az már baj.
+
+Mindez persze csak a nem tervezett, figyelemelterelt szünetekre vonatkozik.
+Tervezett szünetet viszont tartsunk -- többet, mint gondolnánk, hogy kellene.
+Az önreguláció egy (nagyon) véges erőforrás, és ha lemerítjük, akkor hiába tart ott az asztalunknál a jószándék.
+
+> A szünetek nem jutalomfalatok, hanem alapvető szükségletek.
+>> Breaks aren't a special treat. They're an absolute necessity.
+
+Ütemezzük hát be őket!
+Legyenek ezek is büszkén részei a napunknak: az időszakok, ahol nem csinálunk semmit.
+És a végére azért hozzátesszük, hogy időnként lehetnek ütemezetlenek is.
+Ez az, amikor engedünk az "energizáló figyelemeltereléseknek" -- mert nem minden figyelemelterelés rossz.
+Még a kolostorokban is véletlenszerűen megszólal néha a meditációs harang (nem csak a meditáció kezdetekor), hogy kizökkentse a szerzeteseket.
+Hogy hirtelen tisztába kerüljenek vele, hol is vannak, mit is csinálnak, és jelen lehessenek.
+Na ha ez nekünk egy gyors beszélgetés egy baráttal/kollégával, az is működhet így.
+Csak utána ne felejtsünk el visszazökkenni.
+
+<br>
 
 
 #### Töltődés
