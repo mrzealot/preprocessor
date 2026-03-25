@@ -20,7 +20,7 @@ Egy konkrét problémát például kimutathatóan nagyobb arányban oldották me
 Sőt, a jó érzések még a negatívak oldására is jók lehetnek -- mint mondjuk abban a kísérletben, ahol először mesterségesen felzaklatták a résztvevőket, és aztán különböző hangulatú filmeket nézettek velük, miközben mérték, hogy milyen gyorsan állnak vissza az alapállapotba.
 Tippelhetünk, hogy a pozitív film volt-e a győztes.
 
-Vagyis már a legelején visszhangozzuk Shawn Achor tanulságát: a jó érzések vezetnek a sikerhez, és nem a siker a jó érzésekhez.
+Vagyis már a legelején visszhangozzuk [Shawn Achor]({% post_url 2023-05-10-shawn-achor-a-boldogsag-mint-versenyelony %}) tanulságát: a jó érzések vezetnek a sikerhez, és nem a siker a jó érzésekhez.
 Ezt a témát boncolgatjuk ma egy kicsit tovább [Ali Abdaal - Könnyen, jól, hatékonyan](https://moly.hu/konyvek/ali-abdaal-konnyen-jol-hatekonyan){:target="_blank"} (eredetileg Feel Good Productivity) című könyve segítségével, ahol egy valag hasznos tippet kapunk a jóleső produktivitáshoz, három kategóriába osztva:
 
 - Először jönnek az [energiaforrások](#energizalas), amik megadják a lökést, hogy csináljuk a dolgunkat,
@@ -75,7 +75,7 @@ Például egy NASA-s kódolási kísérletben ha odaírták, hogy "a rossz vála
 Mi lenne, ha mi inkább úgy gondolnánk rá, hogy **kapunk** 5 pontot, csak mert próbálkoztunk?
 Ha valami nem jött össze a karrieres útkeresésünkben, az nem kudarc, hanem csak egy új adatpont.
 De ugyanez vállalkozásra, nyelvtanulásra, szociális kapcsolatokra -- a próbálkozás a lényeg.
-Az őszinte beleélés, az erőfeszítés és a próbálkozás az, ami eredményt hoz.
+Az őszinte beleélés és az erőfeszítés az, ami eredményt hoz.
 A menet közbeni komolyság pedig túlértékelt.
 Optimális esetben valahova a leszarom és a halálosan komolyan veszem közti arany középútra kéne belőni magunkat, ahol rendesen "odatesszük" magunkat, de attól kellően lazák maradunk.
 
@@ -97,7 +97,7 @@ A gyeplő kézbevételéhez először is generáljunk önbizalmat, mert:
 > Ha elhiszed, hogy képes vagy rá, azzal már meg is tetted az első lépést afelé, hogy képes legyél rá.   
 >> Believing you can is the first step to making sure you actually can.
 
-Lásd a hivatkozott tanulmány, ahol az önbizalomra kondícionált alanyok sokkal jobban teljesítettek, mint a kételyre kondícionáltak (pedig az elején random osztották fel őket).
+Lásd a hivatkozott tanulmány, ahol az önbizalomra kondícionált alanyok sokkal jobban teljesítettek, mint a kételyre kondícionáltak (pedig az elején itt is random osztották fel őket).
 Ha kell, szó szerint hype-oljuk fel magunkat, mert a pozitív self-talk működik.
 Szinte semmi különbség aközött, hogy magabiztosak vagyunk, vagy magabiztosnak **tettetjük** magunkat.
 Kérdezzük meg magunktól, "Hogy nézne ki, ha magabiztosan csinálnám?" -- és aztán csináljuk úgy.
@@ -107,8 +107,8 @@ Ha már láttuk, hogy valaki másnak megy, akkor utána sokkal könnyebb elhinni
 Akár találjunk példaképeket, és beszéljünk velük (vagy aszinkron fogyasszuk valahogy a mondanivalójukat, khmmm, kacsintás).
 Ezzel tudat alatt -- vagy akár tudatosan -- felépíthetjük magunkban, hogy ha nekik megy, akkor nekem miért ne?
 
-Az önbizalommal párhuzamosan fejlesszük a képességeinket is.
-És itt pont az lenne a hangsúlyos, hogy ne másokon keresztül, hanem a saját tetteinket keresztül.
+Az önbizalommal párhuzamosan azért fejlesszük a képességeinket is.
+És itt pont az lenne a hangsúlyos, hogy *ne* másokon keresztül, hanem a saját tetteinket keresztül.
 Csináljuk eleget, és akkor jobban fog menni -- sőt, egyre magabiztosabbak leszünk, hogy legközelebb is menni fog.
 Sokat segíthet, ha képesek vagyunk folyamatosan kezdőként tekinteni magunkra, mert akkor nem lesznek olyan erősen elkönyvelt hiteink arról, hogy mi hogyan működik, és egyszerűen próbálkozhatunk (lásd [Waitzkin]({% post_url 2021-02-06-josh-waitzkin-a-tanulas-muveszete %}) és a kezdő hozzáállás).
     
@@ -130,7 +130,7 @@ A belső motiváció egyik legfőbb alapanyaga pedig az autonómia -- vagyis hog
 És szinte mindig több irányítás van a kezünkben, mint elsőre gondoljuk.
 
 Ha a "mit" nem is opcionális, a "hogyan" legtöbbször igenis az.
-Attól, hogy nincs teljes szabad kezünk, még ne csapjuk durcásan az asztalra, hogy "Ááh, akkor mindegy!"
+Attól, hogy nincs teljes szabad kezünk, még ne csapjunk durcásan az asztalra, hogy "Ááh, akkor mindegy"!
 Irányítsuk azt, amit tudunk, és egyből motiváltabbak leszünk abban is, amit nem irányíthatunk.
 Gondoljuk végig, hogyan tudnánk változtatni a szemléletmódunkon, hogy a következő utat járjuk be:
 
@@ -224,7 +224,7 @@ A megoldás: kérdéseket teszünk fel magunknak.
 
 Az első kérdés: **Miért?**
 Nem kell tudni, hogy pontosan milyen lépések várnak ránk; azt kell tudni, hogy miért akarunk egyáltalán belefogni.
-Vegyünk példát a katonai parancsnokok stratégiájáról, akik nem feltétlen azt mondják meg, hogy mit csináljuk, hanem hogy mi a cél, és a megvalósítás ránk van bízva.
+Vegyünk példát a katonai parancsnokok stratégiájáról, akik nem feltétlen azt mondják meg, hogy mit csináljanak a katonák, hanem hogy mi a cél, és aztán a megvalósítás rájuk van bízva.
 Vagy ennek a továbbfejlesztése az "5-szörös miért", ahol egyre hátrébb lépkedünk az ok-okozati láncon.
 Ezzel kivédhetjük a rövidtávú, szűklátókörű dolgokat, ha *nem* a fő célunkig jutunk vissza a "de miért?" többszöri kérdezgetésével.
 Ha viszont oda, akkor valószínűleg jó úton járunk.
@@ -272,7 +272,7 @@ De semmiből nem tart ám máshogy címkézni magunkat -- ami, érdekes és kb. 
 Aztán, ha már értjük a félelmeinket, csökkentsük a hatásukat.
 Ehhez a legfontosabb, hogy ne katasztrofizáljunk!
 Használjuk a 10/10/10 szabályt: ha tényleg rosszul sül el, amitől félünk, az számít-e majd 10 perc/hét/év múlva?
-Ez segít majd a helyén kezelni a potenciális súlyát, és sokmindenbe tudunk bátrabban belefogni (mert az se katasztrófa, ha nem jön be).
+Ez segít majd a helyén kezelni a potenciális súlyát, és sokmindenbe tudunk bátrabban belefogni (mert az se lesz katasztrófa, ha nem jön be).
 
 Illetve kérdőjelezzük meg az önbizalom szükségességét úgy egyáltalán.
 Mármint persze, hogy jobb lenne magabiztosan csinálni -- de anélkül nem lehet?
@@ -291,7 +291,7 @@ Vagy ha mégis, konkrétan tényleg reflektorfényben találnánk magunkat, akko
 Ha mi nem merünk valamit csinálni, akkor képzeljünk el egy karaktert, aki merné.
 És aztán játsszuk el azt a karaktert.
 Ezt a jelenséget Batman-hatásként is szokták emlegetni.
-A név egy gyerekekkel végzett kísérletből ered, ahol ha Batman-nek vagy Dora-nak képzelték magukat, akkor sokkal fegyelmezettebben és tovább koncentráltak egy adott feladatra.
+A név egy gyerekekkel végzett kísérletből ered, ahol ha Batman-nek vagy Dóra, a felfedezőnek képzelték magukat, akkor sokkal fegyelmezettebben és tovább koncentráltak egy adott feladatra.
 Nekünk miért ne lehetne egy alteregonk?
 
 <br>
@@ -299,7 +299,7 @@ Nekünk miért ne lehetne egy alteregonk?
 
 #### Vágj bele!
 
-Egy pici fizika korrepetálással kezdünk Newton első törvényével kapcsolatban, ugyanis a tehetetlenség nem csak a testek mozgására, hanem a produktivitásra is nagyon érvényes.
+Egy pici fizika korrepetálással kezdünk Newton első törvényével kapcsolatban, ugyanis a tehetetlenség nem csak a testek mozgására, hanem a produktivitásra is érvényes.
 Ha nem csinálunk semmit, akkor könnyű továbbra is nem csinálni semmit.
 Ha meg már bennevagyunk valamiben, akkor könnyű tovább haladni vele.
 Ami sok energiát igényel, az az állapotváltás -- a harmadik blokkoló tehát a tehetetlenség.
@@ -309,7 +309,7 @@ Alakítsuk olyanra a környezetünket, hogy amit szeretnénk, az csak karnyújt�
 Gyakorlati tippekért használjuk a "környezet dizájn" keresőkifejezést.
 
 A belekezdés nehézségéhez pedig használjuk az 5 perces szabályt és lendüljünk át (lásd [DeLonzor]({% post_url 2022-05-01-diana-delonzor-soha-ne-kess-el-tobbe %})).
-Így még a környezettervezésen felül is mégkönnyebb lesz belekezdeni, mert nem akkora elköteleződésnek éljük meg.
+Így még a környezettervezésen felül is könnyebb lesz belekezdeni, mert nem akkora elköteleződésnek éljük meg.
 Ha már belekezdtünk, nagy valószínűséggel úgyis tovább fogjuk csinálni.
 De ha tényleg nem akaródzik, akkor meg 5 perc és ráhagyjuk...
 Akkor is haladtunk 5 percet, ami pont 5 perccel több, mint a nulla!
@@ -317,7 +317,7 @@ Akkor is haladtunk 5 percet, ami pont 5 perccel több, mint a nulla!
 > A semmittevés legjobb ellenszere, ha csinálunk valamit.
 
 Ebben a szekcióban is kiemeljük, hogy mindig legyen egy jól meghatározott következő cselekedet, amivel haladhatunk.
-Kicsit "láss tisztán" ismétlés, de jah, ha már egyszer rávettük magunkat, hogy végre nekifogjunk, akkor nehogy az legyen már a gond, hogy "de minek is fogjunk neki?".
+Kicsit "láss tisztán" ismétlés, de jah, ha már egyszer rávettük magunkat, hogy végre nekifogjunk, akkor nehogy már az legyen a gond, hogy "De minek is fogjunk neki?".
 Ha meg már csináljuk, akkor kövessük a haladást!
 Írásnál hány oldal született, tanulásnál hány fejezetet néztünk már át, edzésnél idő vagy ismétlésszám a gyakorlathoz, akármi.
 Persze jól válasszuk meg, mit mérünk, mert azt fogjuk elérni (lásd [McNamara]({% post_url 2023-07-27-a-mcnamara-tevedesrol %})) -- de *valamit* azért mérjünk, mert különben szintén azt érjük el, amit mérünk: semmit.
@@ -358,7 +358,7 @@ Ugyanaz történt, de más sztorit szövünk köré, ami miatt talán a követke
 ## <a name="fenntartas"></a>Fenntartás
 
 Az eddigiek már kb. megalapozzák a produktivitást.
-A játék + irányítás + emberek felpörgetnek, hogy csináljuk -- a bizonytalanság + félelem + tehetetlenség eltüntetésével pedig szépen feloldjuk az utunkban álló akadályokat.
+A játék + irányítás + emberek felpörgetnek, hogy csináljuk, a bizonytalanság + félelem + tehetetlenség eltüntetésével pedig szépen feloldjuk az utunkban álló akadályokat.
 De van még egy (vagyis, három) hiányzó láncszem, amitől **fenntartható** lesz ez a produktivitás.
 A kiégést ugyanis nem csak 18 órás napok, vagy másod/harmadállások anyagi kényszere okozhatják.
 Az a fontos, hogy mi hogyan éljük meg, amit csinálunk.
@@ -396,7 +396,7 @@ Másrészt, ha már "megbotlottunk", akkor se legyen "úgyis mindegy".
 Egy kis figyelem ingadozás nem a világ vége -- sőt, kis mennyiségben akár felfrissítő, begyöpösödésből kirángató hatása is lehet.
 De ne legyünk úgy vele, hogy ha már nem tökéletes a produktivitásunk, akkor egye fene, menjen rá arra az öt perc telefon nyomkodásra még három óra.
 A szerző hasonlatával élve: ha az időjárás miatt pár fokkal állítani kell a repülőgép pályáját, és emiatt kicsit később érünk New York-ba, az nem baj.
-De ha az időjárás miatt már nem is New York-ba repülünk, hanem Buenos Aires-be, az már baj.
+De ha az időjárás miatt nem is New York-ba repülünk, hanem Buenos Aires-be, az már baj.
 
 Mindez persze csak a nem tervezett, figyelemelterelt szünetekre vonatkozik.
 Tervezett szünetet viszont tartsunk -- többet, mint gondolnánk, hogy kellene.
@@ -433,7 +433,7 @@ De persze a projektjeink is lehetnek CALM-ok, ahol azért van végcél, de tová
     
 A második tipp a természetes töltődés -- mert még a kórházi betegek is kimutathatóan gyorsabban gyógyultak, ha a természetre nézett az ablakuk.
 Sőt, akár csak ha egy természetet ábrázoló poszter volt az ablak helyén!
-Már a természetnek puszta érzetének regeneráló, stresszoldó, energizáló és kognitív felfrissítő hatása van.
+Már a természet puszta érzetének regeneráló, stresszoldó, energizáló és kognitív felfrissítő hatása van.
 Használjuk!
 Vagy jöjjön a természet hozzánk (szoba design, növények, kert, természet hangok, stb.), vagy menjünk mi a természethez: sétáljunk!
     
@@ -456,13 +456,13 @@ Csináljunk ma szándékosan kevesebbet, hogy holnap többet tudjunk (és *akarj
 Itt érkezünk el a számomra egyik legérdekesebb szekcióhoz, mert végre valaki a produktivitás szférából, aki nem csak kergetne egyre feljebb a metaforikus létrán, hanem megkéri, hogy lépjünk hátra, és ellenőrizzük már, hogy a jó falhoz van-e támasztva.
 Mert ha a cselekedeteink és az értékrendünk kompatibilisek, akkor eleve több lesz az energiánk és nem kell majd annyi töltődés -- ha viszont nem, akkor meg nem a hatékonysági stratégiákkal van dolgunk.
 
-Valószínűleg mind hallottunk már a külső vs. belső (avagy elegánsabban megfogalmazva extrinzik vs. intrinzik) motiváció fajtákról, ahol nyilván az a jobb, ha valamit belső indíttatásból végzünk, nem csak külső kényszer hatására.
+Korábban említettük a külső vs. belső (avagy elegánsabban megfogalmazva extrinzik vs. intrinzik) motiváció fajtákat, ahol nyilván az a jobb, ha valamit belső indíttatásból végzünk, nem csak külső kényszer hatására.
 De hasznos lehet, ha ezt a spektrumot egy kicsit részletesebben is kibontjuk:
 
-1. A externál (avagy teljesen külső, "muszáj") motivációnál csak külső megtérülés számít;
-2. Az introjektált (avagy belsővé tett, "kellene") motivációnál belül érzem, hogy rossz lenne, ha nem tenném;
-3. Az identifikált (avagy azonosított, "fontos számomra") motivációnál értékesnem tartom, ami felé törekszek; és
-4. Az intrinzik (önmagában is jó, "szeretném") motivációnál pedig már maga a csinálás is vonzó.
+1. Az externál (avagy teljesen külső, "muszáj" jellegű) motivációnál csak a külső megtérülés számít;
+2. Az introjektált (avagy belsővé tett, "kellene" jellegű) motivációnál belül érzem, hogy rossz lenne, ha nem tenném;
+3. Az identifikált (avagy azonosított, "fontos számomra" jellegű) motivációnál értékesnem tartom, ami felé törekszek; és
+4. Az intrinzik (önmagában is jó, "szeretném" jellegű) motivációnál pedig már maga a csinálás is vonzó.
   
 Na most ha fogyóban az intrinzik motivációnk, akkor számít, hogy milyen jellegű egyéb, külsőbb formára támaszkodhatunk.
 És habár nyilván nem realisztikus, hogy minden intrinzik legyen, a maradéknak is leginkább a 3-as szintű azonosítottnak kéne lennie.
@@ -479,7 +479,7 @@ A szerző gyakorlati javaslata, hogy bontsuk szét a tervezésünket az időabla
     Jó az úgy?
     Mi lenne egy alternatív életúton 5 év múlva, ha most váltanánk?
     Az jobb?
-    És mi lenne a radikálisan más életúton 5 év múlva?
+    És mi lenne egy radikálisan más életúton 5 év múlva?
     Az mégjobb?
 
 2. **Középtávú tervezés**: Iktassunk be rendszeres emlékeztetőket az értékeinkre, és hogy azokat hogyan építhetjük be az életünkbe!
@@ -510,8 +510,8 @@ Az előbbi egészség/karrier/kapcsolatok bontás itt is hasznos lehet.
 Abdaal elsődleges üzenete szerintem annyi, hogy nem csak izzadtságszagú, fogösszeszorított, katonai fegyelmű produktivitás létezik.
 Vagyis az általános hatékonyságunkra is vonatkozik az a kis tanmese, amit már [Covey]({% post_url 2021-04-17-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa-2 %}#furesz)-nál vettünk:
 
-> Alanyunk életlen fűrésszel vág egy fát, így már öt órája csinálja, még sincs közel a végéhez. De amikor azt javasolják neki, hogy meg kéne élezni a fűrészt, arra “nyilván” nincs ideje, mert még ma ki kell vágnia a fát. Tekintve, hogy egy élesebb fűrésszel már eddig is végezhetett volna, jogosan mondhatjuk, hogy *nem* megélezni nincs ideje! Vagyis: soha ne merüljünk bele annyira abba, amit csinálunk, hogy ne tudjunk azon gondolkozni, hogy hogyan kellene csinálnunk.
+> Alanyunk életlen fűrésszel vág egy fát, így már öt órája csinálja, még sincs közel a végéhez. De amikor azt javasolják neki, hogy meg kéne élezni a fűrészt, arra “nyilván” nincs ideje, mert még ma ki kell vágnia a fát. Tekintve, hogy egy élesebb fűrésszel már eddig is végezhetett volna, jogosan mondhatjuk, hogy **nem** megélezni nincs ideje! Vagyis: soha ne merüljünk bele annyira abba, amit csinálunk, hogy ne tudjunk azon gondolkozni, hogy hogyan kellene csinálnunk.
 
-A produktivitásunk vonatkozásában pedig az a fűrész megélezése, ha nem erőltetve, hanem jólesően (mondhatnám, boldogan) csináljuk.
+A produktivitásunk vonatkozásában pedig az a fűrész megélezése, ha nem erőltetve, hanem jólesően (mondhatnám, boldogan) csináljuk, amit csinálunk.
 Ehhez tanultuk most meg, hogyan energizáljuk magunkat a játékosságunk megőrzésével, az irányítást kézbe véve és emberekkel együttműködve; hogyan oldhatjuk fel az utunkban álló blokkoló tényezőket tisztánlátással, bátorsággal és lendülettel; illetve hogyan tehetjük a haladásunkat fenntarthatóvá a tartalékolás, a töltődés és az integritás révén.
 Remélem ezek segítségével nektek is sikerül majd súrlódásmentesebben haladni a céljaitok felé!
