@@ -419,77 +419,99 @@ Csak utána ne felejtsünk el visszazökkenni.
 
 #### Töltődés
 
-- oké, a töltődés fontos
-    - de amikor töltődünk, akkor sem töltődünk
-    - lásd doomscrolling, binge watching, takeout... ahelyett, hogy mondjuk a hobbinkkal foglalkoznánk, mozognánk, szocializálódnánk
-    - az, hogy mi tölt minket, és az, hogy mit vagyunk hajlamosak csinálni, amikor töltődésre vágyunk, az két eléggé különböző lista 
+Oké, oké, a töltődés fontos.
+De amikor töltődünk, akkor sem töltődünk.
+Lásd "doomscrolling" (amikor csak tekerjük a social media-t és jönnek szembe az érzelmileg extrém, kibillentő tartalmak), vagy binge watching (amikor agyatlanul daráljuk a sorozatokat, egyik epizódot a másik után), vagy a takeout-os szennykaja...
+Ahelyett, hogy mondjuk a hobbinkkal foglalkoznánk, mozognánk, vagy szocializálódnánk.
+Az, hogy mi tölt minket, és az, hogy mit vagyunk hajlamosak csinálni, amikor töltődésre vágyunk, az két eléggé különböző lista.
+Ezt próbáljuk most egy kicsit javítani a szerző tanácsaival.
 
-1. Kreatív töltődés
-    A) CALM (competence, autonomy, liberty, mellow) hobbik (amikből szándékosan kihagyjuk a teljesítménykényszert)
-    B) de CALM projektek is lehetnek, ahol van végcél
+Az első, hogy próbáljuk magunkat a kreatív töltődés irányába terelgetni.
+Ehhez olyan hobbikat ajánlunk, amik megfelelnek a CALM betűszónak: competence, autonomy, liberty, mellow -- avagy kompetencia (hogy értenünk kelljen hozzá, és legyen mélysége), autonómia (hogy mi választhassuk meg, hogyan végezzük a tevékenységet), szabadság (hogy fejben el tudjon vonni az egyéb, külső kötelezettségeinktől) és lazaság (hogy ne legyen élet-halál tétje a dolognak).
+Találjunk valamit, amit nem is lehet agyatlanul végezni, de amiben megélhetjük magunkat, és amiből szándékosan kihagyjuk a teljesítménykényszert.
+De persze a projektjeink is lehetnek CALM-ok, ahol azért van végcél, de továbbra is lazán, szabadon és a képességeinket használva, kvázi flow-ban haladunk velük.
     
-2. Természetes töltődés
-    - a kórházi betegek kimutathatóan gyorsabban gyógyultak, ha a természetre nézett az ablakuk
-        - vagy akár csak egy természetet ábrázoló poszter volt az ablak helyén!
-    - regenerálódás, stresszoldás, kognitív felfrissülés, energizálódás --> használjuk
-    A) jöjjön a természet hozzánk: ugye nem is muszáj élő, csak audiovizuálisan stimuláló természet hatás
-        - szoba design, növények, kert, természet hangok, stb.
-    B) menjünk mi a természethez: sétáljunk!
-        - lehetőleg a természetben
+A második tipp a természetes töltődés -- mert még a kórházi betegek is kimutathatóan gyorsabban gyógyultak, ha a természetre nézett az ablakuk.
+Sőt, akár csak ha egy természetet ábrázoló poszter volt az ablak helyén!
+Már a természetnek puszta érzetének regeneráló, stresszoldó, energizáló és kognitív felfrissítő hatása van.
+Használjuk!
+Vagy jöjjön a természet hozzánk (szoba design, növények, kert, természet hangok, stb.), vagy menjünk mi a természethez: sétáljunk!
     
-3. Agyatlan töltődés
-    - amikor nem tudatosan csinálunk valamit
-        - de a semmittevésnek is megvan a módja
-    A) hagyjuk magunkat "álmodozni"
-        - hadd járjon az agyunk, amivel így esélyt adunk a tudatalattinknak, hogy felböfögjön egy-egy váratlan meglátást (ami időnként nagyon is hasznos lehet)
-            - de ha nem, akkor is töltődött a tudatos figyelem-irányítási kvótánk, hogy egy kicsit hagytuk kalandozni
-    B) és hagyjuk magunkat néha direkt "kisiklani"
-        - legyen jogunk sztrájkolni, beteget jelenteni, és kihagyni, amit tudjuk, hogy csinálni kéne
-        - nem kell perfekt teljesítmény, és a tökéletesre törekvés többet árt, mint használ
-            - csináljunk ma szándékosan kevesebbet, hogy holnap többet tudjunk/akarjunk majd
+Harmadik tippkét viszont még maga a produktivitás guru is beismeri, hogy néha kell az agyatlan töltődés, amikor nem tudatosan csinálunk valamit.
+De a semmittevésnek is megvan a módja!
+Például a külső ingerek helyett hagyjuk magunkat "álmodozni".
+Hadd járjon az agyunk, amivel így esélyt adunk a tudatalattinknak, hogy felböfögjön egy-egy váratlan meglátást (ami időnként nagyon is hasznos lehet).
+De ha nem, akkor is töltődött a tudatos figyelem-irányítási kvótánk, hogy egy kicsit hagytuk kalandozni.
+Illetve nagyon fontos a flexibilitás, szóval hagyjuk magunkat néha direkt "kisiklani".
+Legyen jogunk időnként sztrájkolni, beteget jelenteni, és kihagyni, amit tudjuk, hogy csinálni kéne.
+Nem kell perfekt teljesítmény, és a tökéletesre törekvés többet árt, mint használ.
+Csináljunk ma szándékosan kevesebbet, hogy holnap többet tudjunk (és *akarjunk*) majd.
+
+<br>
 
 
 
 #### Újratervezés
 
-- extrinsic/intrinsic motivation helyett kicsit részletesebb spektrum
-    - external (csak külső megtérülés miatt) < introjected (belül érzem, rossz lenne, ha nem tenném) < identified (értékesnem tartom, ami felé törekszek) < intrinsic (önmagában is jó)
-    - és ha fogyóban az intrinsic, akkor számít, hogy milyen jellegű extrinsic-re támaszkodhatunk
-- és habár nyilván nem realisztikus, hogy minden intrinsic legyen, a maradéknak is leginkább identifiednek kéne lennie
-    - vagyis csináljunk olyasmit, amit tudunk a hosszú távú víziónkhoz kapcsolni
-        - és/vagy amit csinálunk, abban találjuk meg, hogy hogyan tudjuk a hosszú távú víziónkhoz kapcsolni
-    - így lesznek az erőfeszítéseink szinkronban az értékeinkkel, és élhetünk majd autentikus életet
+Itt érkezünk el a számomra egyik legérdekesebb szekcióhoz, mert végre valaki a produktivitás szférából, aki nem csak kergetne egyre feljebb a metaforikus létrán, hanem megkéri, hogy lépjünk hátra, és ellenőrizzük már, hogy a jó falhoz van-e támasztva.
+Mert ha a cselekedeteink és az értékrendünk kompatibilisek, akkor eleve több lesz az energiánk és nem kell majd annyi töltődés -- ha viszont nem, akkor meg nem a hatékonysági stratégiákkal van dolgunk.
 
-1. Hosszútávú tervezés
-    >> When we think about death, we get a clearer view of life.
-    A) A gyászbeszéd módszer - képzeljük el, mit szeretnénk hallani az életünk összegzésekor a temetésünkön, és vezessük azt vissza, hogy ahhoz most hogyan kéne élnünk
-        - és ha ez nem stimmel a jelenlegi röppályánkkal, akkor merjünk változtatni
-    B) Az Odüsszeia terv - előrevetítés, ami tudatosítja velünk a várható következményeket
-        - mi lenne 5 év múlva, ha minden úgy halad, mint most? jó az úgy?
-        - mi lenne egy alternatív életúton 5 év múlva, ha most váltanánk? az jobb?
-        - mi lenne a radikálisan más életúton 5 év múlva? az mégjobb?
+Valószínűleg mind hallottunk már a külső vs. belső (avagy elegánsabban megfogalmazva extrinzik vs. intrinzik) motiváció fajtákról, ahol nyilván az a jobb, ha valamit belső indíttatásból végzünk, nem csak külső kényszer hatására.
+De hasznos lehet, ha ezt a spektrumot egy kicsit részletesebben is kibontjuk:
 
-2. Középtávú tervezés - rendszeres emlékeztetők az értékeinkre, és hogy azokat hogy építsük az életünkbe!
-    A) Kategorikus elégedettség felmérés
-        - 3 kategória: egészség (fizikai, mentális, spirituális), karrier (misszió, pénz, növekedés), kapcsolatok (család, románc, barátok)
-        - és ezeken belül hogy mi mennyire frankó
-        - az eredmény segít majd megmutatni, hogy hova kellene több fókusz
-    B) optimista pre-mortem - írjuk le, milyen eredményeket szeretnénk mához egy évre ünnepelni
-        - és aztán vezessük vissza, hogy ahhoz milyen szokásokat kéne beépíteni a mindennapokba
+1. A externál (avagy teljesen külső, "muszáj") motivációnál csak külső megtérülés számít;
+2. Az introjektált (avagy belsővé tett, "kellene") motivációnál belül érzem, hogy rossz lenne, ha nem tenném;
+3. Az identifikált (avagy azonosított, "fontos számomra") motivációnál értékesnem tartom, ami felé törekszek; és
+4. Az intrinzik (önmagában is jó, "szeretném") motivációnál pedig már maga a csinálás is vonzó.
+  
+Na most ha fogyóban az intrinzik motivációnk, akkor számít, hogy milyen jellegű egyéb, külsőbb formára támaszkodhatunk.
+És habár nyilván nem realisztikus, hogy minden intrinzik legyen, a maradéknak is leginkább a 3-as szintű azonosítottnak kéne lennie.
+Vagyis jó esetben csak olyasmit csináljunk, amit tudunk a hosszú távú víziónkhoz kapcsolni -- és/vagy amit csinálunk, abban valahogy találjuk meg, hogy hogyan tudjuk a hosszú távú víziónkhoz kapcsolni.
+Így lesznek az erőfeszítéseink szinkronban az értékeinkkel, és élhetünk majd autentikus életet.
+
+A szerző gyakorlati javaslata, hogy bontsuk szét a tervezésünket az időablak mérete mentén:
+
+1. **Hosszútávú tervezés**: Alkalmazzuk a sztoicizmusból már jól ismert halál-fókuszt és a gyászbeszéd módszert -- vagyis képzeljük el, mit szeretnénk hallani az életünk összegzésekor a temetésünkön, és vezessük azt vissza, hogy ahhoz most hogyan kéne élnünk.
+És ha ez nem stimmel a jelenlegi röppályánkkal, akkor merjünk változtatni.
+
+    Vagy a visszavezetés helyett használatunk előrevetítést, ami tudatosítja velünk a várható következményeket.
+    Tegyük fel magunknak a kérdést, hogy mi lenne 5 év múlva, ha minden úgy halad, mint most?
+    Jó az úgy?
+    Mi lenne egy alternatív életúton 5 év múlva, ha most váltanánk?
+    Az jobb?
+    És mi lenne a radikálisan más életúton 5 év múlva?
+    Az mégjobb?
+
+2. **Középtávú tervezés**: Iktassunk be rendszeres emlékeztetőket az értékeinkre, és hogy azokat hogyan építhetjük be az életünkbe!
+Tartsunk mondjuk évenkénti, kategorikus elégedettség felmérést, ahol 3x3 kategóriába soroljuk a dolgainkat: egészség (fizikai, mentális, spirituális), karrier (misszió, pénz, növekedés), kapcsolatok (család, románc, barátok).
+Nézzük meg, hogy ezeken belül hogy mi mennyire frankó -- az eredmény segít majd megmutatni, hogy hova kellene több fókusz.
+
+    Egy másik tipp az "optimista pre-mortem", ahol leírjuk, milyen eredményeket szeretnénk mához egy évre ünnepelni.
+    És aztán vezessük vissza, hogy ahhoz milyen szokásokat kéne beépíteni a mindennapokba.
     
-3. Rövidtávú tervezés - az értékeink mindennapi megélése
-    A) Falatokra bontás - minél kisebb falatokra szeleteljük az elefántot, annál könnyebb lesz megenni
-        - Health/Wealth/Relationships egy jó bontás pl, mint a körön
-    B) Merjünk kísérletezni
-        - válasszunk mindig egy-egy olyan területet, ahol nem vagyunk elégedettek az életünkkel
-        - fogalmazzunk meg egy kísérletet (ha naponta elmegyek sétálni, jobb lesz a hangulatom)
-        - és aztán ... próbáljuk ki, és nézzük meg, hogy mi lesz!
-        - vállaljuk a felelősséget a saját életünk kikísérletezéséért, mert nagy a potenciális jutalom
-            - de (Bagdy Emőke szavaival) a számla is nekünk lesz benyújtva, ha nem tesszük
+3. **Rövidtávú tervezés**: Az értékeink mindennapi megélése -- ahol sajnos nagyon sokan elcsúszunk.
+Például mert túl gyorsan akarunk túl sokat.
+Érdemes ehelyett minél kisebb falatokra szeletelni azt a bizonyos elefántot, és annál könnyebb lesz megenni.
+Az előbbi egészség/karrier/kapcsolatok bontás itt is hasznos lehet.
 
+    És a végére talán a legfontosabb tipp: merjünk kísérletezni!
+    Legyünk a saját életünk kutatói.
+    Válasszunk a hétköznapokban is mindig egy-egy olyan területet, ahol nem vagyunk elégedettek az életünkkel; fogalmazzunk meg egy kísérletet; és aztán... Próbáljuk ki, és nézzük meg, hogy mi lesz!
+    Vállaljuk a felelősséget a saját életünk kikísérletezéséért, mert nagy a potenciális jutalom.
+    De (Bagdy Emőke szavaival) a számla is nekünk lesz benyújtva, ha nem tesszük.
 
+<br>
 
 
 
 
 ## Összefoglalás
+
+Abdaal elsődleges üzenete szerintem annyi, hogy nem csak izzadtságszagú, fogösszeszorított, katonai fegyelmű produktivitás létezik.
+Vagyis az általános hatékonyságunkra is vonatkozik az a kis tanmese, amit már [Covey]({% post_url 2021-04-17-stephen-r-covey-a-kiemelkedoen-eredmenyes-emberek-7-szokasa-2 %}#furesz)-nál vettünk:
+
+> Alanyunk életlen fűrésszel vág egy fát, így már öt órája csinálja, még sincs közel a végéhez. De amikor azt javasolják neki, hogy meg kéne élezni a fűrészt, arra “nyilván” nincs ideje, mert még ma ki kell vágnia a fát. Tekintve, hogy egy élesebb fűrésszel már eddig is végezhetett volna, jogosan mondhatjuk, hogy *nem* megélezni nincs ideje! Vagyis: soha ne merüljünk bele annyira abba, amit csinálunk, hogy ne tudjunk azon gondolkozni, hogy hogyan kellene csinálnunk.
+
+A produktivitásunk vonatkozásában pedig az a fűrész megélezése, ha nem erőltetve, hanem jólesően (mondhatnám, boldogan) csináljuk.
+Ehhez tanultuk most meg, hogyan energizáljuk magunkat a játékosságunk megőrzésével, az irányítást kézbe véve és emberekkel együttműködve; hogyan oldhatjuk fel az utunkban álló blokkoló tényezőket tisztánlátással, bátorsággal és lendülettel; illetve hogyan tehetjük a haladásunkat fenntarthatóvá a tartalékolás, a töltődés és az integritás révén.
+Remélem ezek segítségével nektek is sikerül majd súrlódásmentesebben haladni a céljaitok felé!
