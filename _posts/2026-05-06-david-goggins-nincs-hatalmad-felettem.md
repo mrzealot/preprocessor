@@ -2,17 +2,39 @@
 layout: post
 title: David Goggins - Nincs hatalmad felettem
 cover: goggins
-tags: [szemléletmód]
+tags: [szemléletmód, aktivitás]
 pages: 368
-date: 2024-11-11 00:01
+date: 2026-05-06 00:01
 excerpt: >
-    TODO
+    Hithű szószólója vagyok az önfejlesztési szabályok relativitásának.
+    Minden tanács szöges ellentéte is ugyanolyan hasznos lehet -- attól függ, ki hallja.
+    Szóval aki a magából kihozott teljesítmény fronton amúgy is a túlpörgésre hajlamos, az lapozzon inkább vissza valami lelazítóbbhoz.
+    Akinek viszont egy kis seggberúgásra van szüksége, az nem is találhatna jobb motivációs forrást David kibaszott Goggins - Nincs hatalmad felettem c. könyvénél.
 ---
 
+Hithű szószólója vagyok az önfejlesztési szabályok relativitásának.
+Minden tanács szöges ellentéte is ugyanolyan hasznos lehet -- attól függ, ki hallja.
+Szóval aki a magából kihozott teljesítmény fronton amúgy is a túlpörgésre hajlamos, az lapozzon inkább vissza valami lelazítóbbhoz.
+Akinek viszont egy kis seggberúgásra van szüksége, az nem is találhatna jobb motivációs forrást David kibaszott Goggins - Nincs hatalmad felettem c. könyvénél.
 
-inkább olvasmányos, életsztori jellegű, nem konkrét "tananyag"
-úgyhogy itt valószínűleg nem lesz majd olyan az összefoglaló, ami kiváltja a könyv olvasását
-de attól úgy nagy vonalakban én is igyekszem megfesteni, hogy főhősünk honnan jött, milyen hatással volt ez rá, és hogy hozta ki belőle a maximumot
+Inkább olvasmányos, önéletrajz jellegű a sztori, nem konkrét "tananyag" -- úgyhogy itt valószínűleg nem is lehet majd olyan az összefoglaló, ami kiváltja a könyv olvasását.
+De attól úgy nagy vonalakban én is igyekszem megfesteni, hogy főhősünk honnan jött, milyen hatással volt ez rá, és hogy hozta ki belőle a maximumot.
+Hátha általa mi is egy kicsit jobban összekapjuk majd magunkat.
+
+A tartalmat én, önkényesen, a következő szegmensekre bontottam:
+
+- [Kezdetek](#kezdetek)
+- [Katonaság](#katonasag)
+- [Kitartás](#kitartas)
+- [Kudarcok](#kudarcok)
+
+<br>
+
+
+
+
+## <a name="kezdetek">Kezdetek</a>
+
 
 1.
 
@@ -44,6 +66,13 @@ ha abból fel lehetett állni, akkor az ő helyzetéből miért ne lehetne
 > Valld be az igazat a korlátaid valódi okairól, és a benned dolgozó negatív hozzáállást vadászrepülőgép-üzemanyaggá változtatod. Az ellened szóló esélyekből egyszeriben dögös kifutópálya kerekedik.
 
 KIHÍVÁS: használjuk az Elszámoltathatóság Tükrét
+
+
+
+
+
+## <a name="katonasag">Katonaság</a>
+
 
 
 3. 
@@ -89,6 +118,12 @@ Viszont aztán lesérülés (térdkalács repedés), ami miatt kötelezően kive
 - az elme érzéketlenné tétele segített neki ennyire kitolni a határait
 
 KIHÍVÁS: vizualizáljuk, amit befolyásolni tudunk (milyen lesz elérni a célt, és hogy milyen akadályokat kell közben megugranunk)
+
+
+
+
+## <a name="kitartas">Kitartás</a>
+
 
 
 6. 
@@ -143,13 +178,24 @@ KIHÍVÁS: kezdjük el fokozatosan eltávolítani a saját szabályzónkat, és 
     - aztán már lehet plusz hátszél a tehetség vagy a szenvedély vagy a hatékonyság - de megfelelően magas munkakorállal kell társulnia
 - időmenedzsment Goggins jellegzetes egyszerűségével
     > Ha felülvizsgálod az életedet, kiszűröd az ostobaságokat, és viszonyítási pontokat használsz, rátalálsz arra az időmennyiségre, amely lehetővé teszi, hogy mindent megtegyél, amire szükséged van, és amit szeretnél.
-- szívproblémák
-    - mint kederült, eddig csak kb. félgázzal működött a szervezete, mert egy veleszületett állapot miatt kvázi lyukas volt a szíve
 
 KIHÍVÁS: Ütemezzünk - bontsuk a napunkat kis szeletekre, és mindnek legyen meg pontosan egy darab célja, amit aztán tartunk
 
 
 
+
+
+
+
+
+
+
+
+## <a name="kudarcok">Kudarcok</a>
+
+
+- szívproblémák
+    - mint kederült, eddig csak kb. félgázzal működött a szervezete, mert egy veleszületett állapot miatt kvázi lyukas volt a szíve
 
 9.
 
@@ -180,6 +226,8 @@ lásd Roger Bannister és a 4 perc alatti mérföld
 
 > Önbizalommal telítődtem, és elenyészett minden nyomás, mert a lehetetlen elérése helyett az elkerülhetetlen végrehajtása lett a feladatom.
 
+- és harmadszorra meg is lett a rekord (4000+ húzódzkodással)
+
 KIHÍVÁS: vegyük számba a kudarcainkat, készítsünk "bevetés utáni jelentést" róluk, és vágjunk bele egy új kísérletbe
 
 
@@ -194,3 +242,11 @@ ultrákat nyer, különleges tűzoltó
 nem elkényelmesedik az eddigi sikereiben, hanem mindig hajtja a következő kihívást
     - a haragot viszont hátrahagyta
     - békésen, de soha nem elégedetten
+
+
+
+
+
+
+
+## Összefoglalás
