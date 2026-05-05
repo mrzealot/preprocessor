@@ -19,7 +19,7 @@ Akinek viszont egy kis seggberúgásra van szüksége, az nem is találhatna job
 
 Inkább olvasmányos, önéletrajz jellegű a sztori, nem konkrét "tananyag" -- úgyhogy itt valószínűleg nem is lehet majd olyan az összefoglaló, ami kiváltja a könyv olvasását.
 De attól úgy nagy vonalakban én is igyekszem megfesteni, hogy főhősünk honnan jött, milyen hatással volt ez rá, és hogy hozta ki belőle a maximumot.
-Hátha általa mi is egy kicsit jobban összekapjuk majd magunkat.
+Hátha megfogadjuk a tanulságait (és kipróbáljuk a fejezetenkénti kihívásait), amik által mi is egy kicsit jobban összekapjuk majd magunkat.
 
 A tartalmat én, önkényesen, a következő szegmensekre bontottam:
 
@@ -33,123 +33,146 @@ A tartalmat én, önkényesen, a következő szegmensekre bontottam:
 
 
 
-## <a name="kezdetek">Kezdetek</a>
 
 
-1.
 
-erőszakos zsarnok apa, aki őt, a testvérét és az anyjukat is bántalmazza és szó szerinti elnyomásban tartja
-minden nap éjszakákba nyúlóan dolgoztatja őket a "vállalkozásában", aminek köszönhetően talán nem meglepő, hogy a gyerkőcök iskolai teljesítménye nem épp optimális
-anya saját pénze nulla, de egy hitelkártya kihízelgéssel nagy nehezen meg tud "szökni" a gyerekekkel
-a nagyobbik visszamegy, de a kicsi David vele marad, és egy darabig végre úgy néz ki, sikerül helyre állnia a dolgoknak
-egy nagyon lelkiismeretes tanítónő hozza fel másodikos szintre (ami már így is ismétel), de aztán harmadiktól ennek kb. a szöges ellentétét kapja, aki minden áron "speciális igényűnek" szeretné címkéztetni, hogy tűnjön már el az osztályából
-rászokik a csalásra, mert csak úgy tudja fenntartani a látszatot, hogy az osztállyal halad, és ne kelljen a tényleg gyogyósok közt végeznie a tanulási nehézségei és a toxikus stressz okozta dadogása miatt
 
-KIHÍVÁS: vegyük számba, hogy milyen hátrányokkal indulunk (és hogy hogy lehet belőlük "előny")
+## <a name="kezdetek"></a>Kezdetek
 
-2.
+A családi háttér megalapozásához előkerül egy erőszakos zsarnok apa, aki őt, a testvérét és az anyjukat is bántalmazza és szó szerinti elnyomásban tartja.
+Minden nap éjszakákba nyúlóan dolgoztatja őket a "vállalkozásában", aminek köszönhetően talán nem meglepő, hogy a gyerkőcök iskolai teljesítménye nem épp optimális.
+Anya saját pénze nulla, de egy hitelkártya kihízelgéssel nagy nehezen meg tud "szökni" a gyerekekkel.
+Aztán a nagyobbik csak visszamegy az apjukhoz, de a kicsi David az anyjával marad, és egy darabig végre úgy néz ki, sikerül helyre állnia a dolgoknak.
 
-egy jófej nevelőapa prospektusa, akit aztán meggyilkolnak
-plusz egy buszról végignézett gázolásos baleset
-plusz a nyílt KKK-szintű rasszizmus
-elkallódás, bukás széle
-minek nekem tanulni, ha úgyis katona leszek (mert a nagyfatertól átvettük, aki milyen büszke a katonai múltjára)
-csak aztán kiderült, hogy hoppá, a seregbe sem vesznek fel AKÁRKIT
-így az érettségi előtt egy évvel nagyon gatyába kellett ráznia magát
-a módszer az Elszámoltathatóság Tükre, ahol minden nap kb. kiképzőőrmester módjára lebaszta és irányba rakta magát
-ami a lelket tartotta benne, az Scott Gearen ejtőernyős balesete és felépülése
-(azt mondták neki az orvosok, hogy soha többé nem teljesíthet ejtőernyős szolgálatot, de másfél év múlva már újra állományban volt)
-ha abból fel lehetett állni, akkor az ő helyzetéből miért ne lehetne
+Egy nagyon lelkiismeretes tanítónő hozza fel másodikos szintre (amit már így is ismétel), de aztán harmadiktól ennek kb. a szöges ellentétét kapja egy olyan tanár személyében, aki minden áron "speciális igényűnek" szeretné címkéztetni, hogy tűnjön már el az osztályából.
+Rászokik hát a csalásra, mert csak úgy tudja fenntartani a látszatot, hogy az osztállyal halad, és ne kelljen a tényleg gyogyósok közt végeznie a tanulási nehézségei és a toxikus stressz okozta dadogása miatt.
 
 > Csapdába ejtettem magam a csalást jellemző negatív visszacsatolású spirálban, ami a felszínen ugyan előrelépésnek tűnt, de csak addig, amíg bele nem ütköztem a francos valóságnak nevezett téglafalba.
 
+<br>
+
+**1. KIHÍVÁS**: Vegyük számba, hogy milyen hátrányokkal indulunk (és hogy hogy lehet belőlük "előny")!
+
+<br>
+
+Rövid időre felvillan egy jófej nevelőapa prospektusa, akit aztán hirtelen és tragikusan meggyilkolnak.
+Erre jön rá egy buszról végignézett gázolásos baleset...
+Plusz a nyíltan KKK-szintű rasszizmus az új lakhelyükön...
+Mondjuk úgy, hogy alakulóban az elkallódás, és a bukás széle kerül.
+
+Az alapvető hozzáállás, hogy "minek nekem tanulni, ha úgyis katona leszek" -- mert a nagyfatertól átvettük, aki milyen büszke a katonai múltjára.
+Csak aztán kiderült, hogy hoppá, a seregbe sem vesznek fel *akárkit*.
+Így az érettségi előtt egy évvel nagyon gatyába kellett ráznia magát.
+
+A módszere az "Elszámoltathatóság Tükre", ahol minden nap kb. kiképzőőrmester módjára lebaszta és irányba rakta magát.
+Ami a lelket tartotta benne, az Scott Gearen ejtőernyős balesete és felépülése -- hiszen Gearen-nek azt mondták az orvosok, hogy soha többé nem teljesíthet ejtőernyős szolgálatot, de másfél év múlva már újra állományban volt.
+Ha abból fel lehetett állni, akkor az ő helyzetéből miért ne lehetne?
+
 > Valld be az igazat a korlátaid valódi okairól, és a benned dolgozó negatív hozzáállást vadászrepülőgép-üzemanyaggá változtatod. Az ellened szóló esélyekből egyszeriben dögös kifutópálya kerekedik.
 
-KIHÍVÁS: használjuk az Elszámoltathatóság Tükrét
+<br>
+
+**2. KIHÍVÁS**: Használjuk az Elszámoltathatóság Tükrét!
+
+<br>
 
 
 
 
 
-## <a name="katonasag">Katonaság</a>
-
-
-
-3. 
-
-katonaságnál majdnem mindenben a élen volt, de a vízi dolgokban küszködött
-és amikor jött egy lehetőség (kb. orvosi "kifogás", ami miatt felmentethette magát), élt vele
-ez akkora törést okozott, hogy utána megint csak sodródott egy jó darabig - mind a szolgálata hátralévő részében, mind utána kórházi, majd rágcsálóirtói állásában
-stresszoldó gyógyszerévé a kaja vált (mint sokunknak), és a 80 kilós katonai formáját 135-re tornázta fel
-depi, összeomlóban lévő házasság, kilátástalan karrierút
-erre jött egy SEAL kiképzéses reklám/dokumentumfilm-szerűség, ami pont jókor találta el
-hátralépett, és megállapította, hogy ha most nem rántja le magát erről a pályáról, akkor valószínűleg rajta is marad
-talált egy jófej toborzótisztet, aki hajlandó volt segíteni neki a SEAL aspirációban (a súlya, és a korábbi szolgálata ellenére is)
-de valami bürokráciás szarság miatt kb. 3 hónapja volt újra levizsgázni (csak most sokkal szigorúbb ponthatárok mellett), ÉÉS lemennie maximum 89 kilóra
-itt jött egy brutál időszak, de végre újra volt célja, és ha ő egyszer bekapcsol, akkor nincs megállás
-pláne a vizi kiképzéses megfutamodása után, mert így már szinte kergette a kényelmetlenséget, hogy csak azért is megmutassa
-
-KIHÍVÁS: hagyjuk el a komfortzónánkat - és aztán megint! és aztán megint!
-
-
-
-4.
-
-A híres Pokoli Hét túlélése (ami neki már a második kör, mert az elsőben tüdőgyulladás miatt muszáj volt ráhagynia)
-hogy mennyire fejben játszódik le ez az egész
-- és hogy kimondottan az a céluk a kiképzőknek, hogy ledaráljanak, mert így látszik meg, hogy fejben mennyire tartod magad
-- Goggins a csónaklegénység élére állt, mindenféle mentális játszmával motiválta őket (és magát), előre ellopta a menetrendet, hogy fejben készülhessenek a kínzásokra (ezzel elvéve az élüket, ha csak egy kicsit is)
-- sokszor konkrétan dacoltak a kiképzőkkel, hogy visszafordítsák a mentális harcot - bármit dobsz nekünk, akkor sem tudsz kibaszni velünk!
-- végül emberveszteség nélkül kibírták az egész hetet
-    - de igencsak maradandónak tűnő sérülésekkel, ami azért a kiképzés további részébe még beleköphet...
-
-KIHÍVÁS: keressünk egy versenyhelyzetet az életünkben, és aztán teljesítsünk túl minden elképzelhető elvárást
-
-
-
-5. 
-
-Viszont aztán lesérülés (térdkalács repedés), ami miatt kötelezően kivezényelték
-- kapott még egy esélyt, de MEGINT elölről kellett kezdenie
-- harmadik kör Pokoli Hét, és még mindig nem a teljesen gyógyult állapotban
-    - így mindkét lábán hajszálrepedések keletkeztek
-- vagyis kb. szó szerint törött lábbal kellett végigcsinálnia a további kiképzés hónapjait, napi 10+ kilóméter futásokkal
-    - de ő csak fáslizta a lábát, próbált csípőből mozogni, és túlélni a fájdalmat, amíg bele nem melegedtek az izgai/izületei
-- az elme érzéketlenné tétele segített neki ennyire kitolni a határait
-
-KIHÍVÁS: vizualizáljuk, amit befolyásolni tudunk (milyen lesz elérni a célt, és hogy milyen akadályokat kell közben megugranunk)
 
 
 
 
-## <a name="kitartas">Kitartás</a>
 
 
 
-6. 
+## <a name="katonasag"></a>Katonaság
 
-Relatíve nagyot ugrunk, első ultramaraton, 160 kilóméter
-Vörös Szárnyak hadművelet miatti jótékonyságból szeretett volna beiratkozni a legdurvább versenyre, ami a Badwater 135
-    - sivatagi, nyárközépi, nagy szintemelkedésű ultra
-    - a szervező viszont nem enged be csak úgy senkit, még Goggins-jellegű ajánlólevéllel sem, mert nehogy neki tényleg meghaljon ott valaki és aztán lefújassák az egész versenyt
-- viszont van most a hétvégén épp egy egész napos futóverseny, miért nem mész el, és bizonyítod be, hogy ilyet is tudsz
-    - erre az idiótája felkészülés és bármi komolyabb korábbi tapasztalat nélkül fogta magát, és elment lefutni egy ultrát
-    - és habár szó szerint vért hugyozott és összeszarta magát, azért is megcsinálta
-- a mentális modell, ami segített neki felállni a táv közepe felé fenyegető összerogyásnál, az a "sütisdoboz"
-    - az anyja bármilyen nehéz körülmények közt voltak is épp, valahogy mindig feltöltötte a sütisdobozukat, ahonnan időnként vehetett egyet-egyet
-    - a fejében a korábban elért sikerei és személyes győzelmei voltak a sütijei, amiket fogyasztgathatott extra energia morzsákért
+A katonaságnál majdnem mindenben a élen volt, de a vízi dolgokban küszködött.
+És amikor jött egy lehetőség (kb. egy orvosi "kifogás", ami miatt felmentethette magát), élt vele.
+Ez akkora lelki törést okozott, hogy utána megint csak sodródott egy jó darabig -- mind a szolgálata hátralévő részében, mind utána kórházi, majd rágcsálóirtói állásában.
 
-KIHÍVÁS: töltsük fel mi is a saját sütisdobozunkat, amiből utána a kihívások közepén (és a feladás szélén) táplálkozhatunk
+Stresszoldó gyógyszerévé a kaja vált (mint sokunknak, khmmm), és a 80 kilós katonai formáját 135-re tornázta fel.
+Depi, összeomlóban lévő házasság, kilátástalan karrierút.
+Erre jött egy SEAL kiképzéses reklám/dokumentumfilm-szerűség, ami pont jókor találta el.
+Goggins itt hátralépett, és megállapította, hogy ha most nem rántja le magát erről a pályáról, akkor valószínűleg rajta is marad.
+
+Talált egy jófej toborzótisztet, aki hajlandó volt segíteni neki a SEAL aspirációban (a súlya, és a korábbi szolgálata ellenére is).
+De valami bürokráciás szarság miatt kb. 3 hónapja volt újra levizsgázni (csak most sokkal szigorúbb ponthatárok mellett).
+Éés, nem mellesleg, lemennie maximum 89 kilóra.
+Itt következett egy brutális időszak, de végre újra volt célja, és ha ő egyszer bekapcsol, akkor nincs megállás.
+Pláne a vizi kiképzéses megfutamodása után, mert így már szinte kergette a kényelmetlenséget, hogy csak azért is megmutassa.
+
+<br>
+
+**3. KIHÍVÁS**: Hagyjuk el a komfortzónánkat -- és aztán megint! És aztán megint!
+
+<br>
+
+Már a SEAL kiképzéses időszak alatt érkezik a híres Pokoli Hét túlélése (ami neki itt már a második kör, mert az elsőben tüdőgyulladás miatt muszáj volt ráhagynia).
+És hát a lényegi tanulság, hogy mennyire fejben játszódik le ez az egész.
+Kimondottan az a kiképzők célja, hogy ledaráljanak, mert így látszik meg, hogy fejben mennyire tartod magad.
+
+Goggins a csónaklegénysége élére állt, mindenféle mentális játszmával motiválta őket (és magát) -- sőt, előre ellopta a menetrendet, hogy fejben készülhessenek a kínzásokra (ezzel elvéve az élüket, ha csak egy kicsit is).
+Sokszor konkrétan dacoltak a kiképzőkkel, hogy visszafordítsák a mentális harcot.
+Bármit dobsz nekünk, akkor sem tudsz kibaszni velünk!
+Végül emberveszteség nélkül kibírták az egész hetet, de igencsak maradandónak tűnő sérülésekkel, ami azért a kiképzés további részébe még beleköphet...
+
+<br>
+
+**4. KIHÍVÁS**: Keressünk egy versenyhelyzetet az életünkben, és aztán teljesítsünk túl minden elképzelhető elvárást!
+
+<br>
+
+Ééés beleköpött: lesérülés (térdkalács repedés), ami miatt kötelezően kivezényelték.
+Ettől azért kapott még egy esélyt, de **megint** elölről kellett kezdenie.
+Szóval *harmadik* kör Pokoli Hét, és még mindig nem a teljesen gyógyult állapotban, így mindkét lábán hajszálrepedések keletkeztek.
+Vagyis kb. szó szerint törött lábbal kellett végigcsinálnia a további kiképzés hónapjait, napi 10+ kilóméter futásokkal.
+De mivel *kötelezően* nem vezényelték ki, ezért ő csak fáslizta a lábát, próbált csípőből mozogni, és túlélni a fájdalmat, amíg bele nem melegedtek az izgai/izületei.
+Az elme érzéketlenné tétele segített neki ennyire kitolni a határait.
+
+<br>
+
+**5. KIHÍVÁS**: Vizualizáljuk, amit befolyásolni tudunk (milyen lesz elérni a célt, és hogy milyen akadályokat kell közben megugranunk)!
+
+<br>
 
 
 
 
-7.
 
-Innen már azért komolyabb felkészülésekkel ment neki további versenyeknek
-    - csak úgy lazán lefutott egy maratont Bostoni kvalifikációs időn belül (pedig azon csak drukkolni ment volna)
-    - aztán Hawaii Hurt 100, ami egy terep ultra, és kellett az "önéletrajzba", hogy aztán bevegyék a Badwater-be
-    - végül a Badwater maga, amire 4 réteg pulcsiban plusz kabátban edzett a sivatagban, hogy majd bírja a hőséget, és már elsőre 5. helyen végzett
+
+
+
+
+## <a name="kitartas"></a>Kitartás
+
+Relatíve nagyot ugrunk az időben, egyből Goggins első, egyből 160 kilóméteres ultramaratonjára.
+És ennek az idiótának már ez is kompromisszum volt.
+A Vörös Szárnyak hadművelet miatti jótékonyságból szeretett volna beiratkozni rögtön a legdurvább versenyre, ami a Badwater 135 -- egy sivatagi, nyárközépi, nagy szintemelkedésű ultra.
+A szervező viszont (szerencsére) nem enged be csak úgy senkit, még Goggins-jellegű ajánlólevéllel sem, mert nehogy neki tényleg meghaljon ott valaki és aztán lefújassák az egész versenyt.
+Viszont van most a hétvégén épp egy egész napos futóverseny, miért nem mész el, és bizonyítod be, hogy ilyet is tudsz?
+
+Így jutunk a San Diego One-ig, amire főhősünk felkészülés és bármi komolyabb korábbi tapasztalat nélkül fogta magát, és elment, hogy akkor ő most ezt lefutja.
+És habár szó szerint vért hugyozott és összeszarta magát a végére, de azért is megcsinálta.
+
+A mentális modell, ami segített neki felállni a táv közepe felé fenyegető összerogyásnál, az az ún. "sütisdoboz".
+Az anyja, bármilyen nehéz körülmények közt voltak is épp, valahogy mindig feltöltötte a sütisdobozukat, ahonnan időnként a kis David vehetett egyet-egyet.
+A fejében a korábban elért sikerei és személyes győzelmei voltak a sütijei, amiket fogyasztgathatott extra energia morzsákért.
+
+<br>
+
+**6. KIHÍVÁS**: Töltsük fel mi is a saját sütisdobozunkat, amiből utána a kihívások közepén (és a feladás szélén) táplálkozhatunk!
+
+<br>
+
+Nem kis fellélegzéssel jelenthetem, hogy innen már azért komolyabb felkészülésekkel ment neki a további versenyeknek.
+Például a Hawaii Hurt 100-nak, ami egy terep ultra, és kellett az "önéletrajzba", hogy aztán bevegyék a Badwater-be.
+De maradt spontaneitás is -- mondjuk amikor csak úgy lazán lefutott egy maratont Bostoni kvalifikációs időn belül (pedig azon eredetileg csak drukkolni ment volna).
+    
+Végül jöhetett a Badwater maga, amire 4 réteg pulcsiban plusz kabátban edzett a sivatagban, hogy majd bírja a hőséget.
+És ennek köszönhetően már elsőre 5. helyen végzett a rohadékja.
 
 ember = versenyautó hasonlat
     - szabályzó, ami korlátozza az üzemanyag és levegő áramlását, hogy ne melegedjen túl vagy károsodjon a motor
@@ -158,14 +181,16 @@ ember = versenyautó hasonlat
     - de ez csak javaslatot adhat - ha nem fogadjuk el és felülírjuk, akkor van ott még tartalék bőven
     - Goggins szerint kb. 40%-nál állunk le - vagyis több mint a fele a tankban marad
 
+
+<br>
+
+**7. KIHÍVÁS**: Kezdjük el fokozatosan eltávolítani a saját szabályzónkat, és rendeszeresen toljuk ki a határainkat 5-10%-kal!
+
+<br>
+
+Megállás persze nincs, mert, ahogy Goggins mondja:
+
 > Nincs célvonal.
-
-KIHÍVÁS: kezdjük el fokozatosan eltávolítani a saját szabályzónkat, és rendeszeresen toljuk ki a határainkat 5-10%-kal
-
-
-
-
-8.
 
 - ultraman - kb. tripla ironman
     - 10km úszás, aztán 420km bringa és levezetésnek egy dupla maraton
@@ -179,7 +204,12 @@ KIHÍVÁS: kezdjük el fokozatosan eltávolítani a saját szabályzónkat, és 
 - időmenedzsment Goggins jellegzetes egyszerűségével
     > Ha felülvizsgálod az életedet, kiszűröd az ostobaságokat, és viszonyítási pontokat használsz, rátalálsz arra az időmennyiségre, amely lehetővé teszi, hogy mindent megtegyél, amire szükséged van, és amit szeretnél.
 
-KIHÍVÁS: Ütemezzünk - bontsuk a napunkat kis szeletekre, és mindnek legyen meg pontosan egy darab célja, amit aztán tartunk
+
+<br>
+
+**8. KIHÍVÁS**: Ütemezzünk -- bontsuk a napunkat kis szeletekre, és mindnek legyen meg pontosan egy darab célja, amit aztán tartunk!
+
+<br>
 
 
 
@@ -190,8 +220,7 @@ KIHÍVÁS: Ütemezzünk - bontsuk a napunkat kis szeletekre, és mindnek legyen 
 
 
 
-
-## <a name="kudarcok">Kudarcok</a>
+## <a name="kudarcok"></a>Kudarcok
 
 
 - szívproblémák
@@ -242,6 +271,9 @@ ultrákat nyer, különleges tűzoltó
 nem elkényelmesedik az eddigi sikereiben, hanem mindig hajtja a következő kihívást
     - a haragot viszont hátrahagyta
     - békésen, de soha nem elégedetten
+    - mert, mint talán már említettük:
+
+> Nincs célvonal.
 
 
 
