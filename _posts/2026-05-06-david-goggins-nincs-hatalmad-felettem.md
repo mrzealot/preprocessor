@@ -58,7 +58,7 @@ Rászokik hát a csalásra, mert csak úgy tudja fenntartani a látszatot, hogy 
 Rövid időre felvillan egy jófej nevelőapa prospektusa, akit aztán hirtelen és tragikusan meggyilkolnak.
 Erre jön rá egy buszról végignézett gázolásos baleset...
 Plusz a nyíltan KKK-szintű rasszizmus az új lakhelyükön...
-Mondjuk úgy, hogy alakulóban az elkallódás, és a bukás széle kerül.
+Mondjuk úgy, hogy alakulóban az elkallódás.
 
 Az alapvető hozzáállás, hogy "minek nekem tanulni, ha úgyis katona leszek" -- mert a nagyfatertól átvettük, aki milyen büszke a katonai múltjára.
 Csak aztán kiderült, hogy hoppá, a seregbe sem vesznek fel *akárkit*.
@@ -170,17 +170,16 @@ A fejében a korábban elért sikerei és személyes győzelmei voltak a sütije
 Nem kis fellélegzéssel jelenthetem, hogy innen már azért komolyabb felkészülésekkel ment neki a további versenyeknek.
 Például a Hawaii Hurt 100-nak, ami egy terep ultra, és kellett az "önéletrajzba", hogy aztán bevegyék a Badwater-be.
 De maradt spontaneitás is -- mondjuk amikor csak úgy lazán lefutott egy maratont Bostoni kvalifikációs időn belül (pedig azon eredetileg csak drukkolni ment volna).
-    
 Végül jöhetett a Badwater maga, amire 4 réteg pulcsiban plusz kabátban edzett a sivatagban, hogy majd bírja a hőséget.
 És ennek köszönhetően már elsőre 5. helyen végzett a rohadékja.
 
-ember = versenyautó hasonlat
-    - szabályzó, ami korlátozza az üzemanyag és levegő áramlását, hogy ne melegedjen túl vagy károsodjon a motor
-    - de ha ezt kivesszük, akkor menne az sokkal jobban is
-    - az emberben az elme a szabályzó a fájdalom/kétség/kimerültség/félelem/bizonytalanság segítségével
-    - de ez csak javaslatot adhat - ha nem fogadjuk el és felülírjuk, akkor van ott még tartalék bőven
-    - Goggins szerint kb. 40%-nál állunk le - vagyis több mint a fele a tankban marad
-
+Ami ezt lehetővé tette, az Goggins "ember = versenyautó" hasonlata.
+Ugye a kocsikban megvan a szabályzó, ami korlátozza az üzemanyag és levegő áramlását, hogy ne melegedjen túl vagy károsodjon a motor.
+De ha ezt kivesszük, akkor elméletileg menne az sokkal jobban is.
+Más kérdés, hogy meddig, de akkor is sokkal több van benne, mint amit a gyári értékek mutatnak.
+Na hát az emberben az elme ez a szabályzó a fájdalom/kétség/kimerültség/félelem/bizonytalanság segítségével.
+De az elme csak javaslatot adhat -- ha nem fogadjuk el és felülírjuk, akkor van ott még tartalék bőven.
+Goggins szerint kb. 40%-nál állunk le, vagyis több mint a fele a tankban marad.
 
 <br>
 
@@ -192,18 +191,22 @@ Megállás persze nincs, mert, ahogy Goggins mondja:
 
 > Nincs célvonal.
 
-- ultraman - kb. tripla ironman
-    - 10km úszás, aztán 420km bringa és levezetésnek egy dupla maraton
-    - viszonyítási pontok - mérni kell a haladást, és kijelölni olyan jelzőket, ahol tudhatjuk, hogy eltévedtünk, és ezért korrekcióra van szükség
-- toborzási külön felkérés
-    - egyre népszerűbb a versenyes teljesítményei miatt, ezért arra kérik, hogy segítsen minél több feketét toborozni a SEAL-be
-    - ezt ő minél autentikusabb módon próbálja végezni - kb. minden toborzó beszédhez kapcsolódik egy ultra versenye, fut/bringázik a helyszínek között, és úgy általában kemény, mint a kád széle
-- mindenki a gyors megoldásokra, életkönnyítő trükkökre és a hatékonyságra vadászik
-    - de az önuralomhoz pont az kell, hogy hajlandóak legyünk a kemény munkára
-    - aztán már lehet plusz hátszél a tehetség vagy a szenvedély vagy a hatékonyság - de megfelelően magas munkakorállal kell társulnia
-- időmenedzsment Goggins jellegzetes egyszerűségével
-    > Ha felülvizsgálod az életedet, kiszűröd az ostobaságokat, és viszonyítási pontokat használsz, rátalálsz arra az időmennyiségre, amely lehetővé teszi, hogy mindent megtegyél, amire szükséged van, és amit szeretnél.
+A következő checkpoint az "ultraman", ami kb. egy tripla ironman.
+Magyarra lefordítva: 10km úszás, aztán 420km bringa és *levezetésnek* egy dupla maraton.
+Ekkora elefántot pedig tényleg csak nagyon picire bontott falatonként lehet fogyasztani.
+Goggins terminológiájában ezek az ún. "viszonyítási pontok" -- nem csak mérjük a haladást, hanem kijelölülnk olyan jelzőket, amik által tudhatjuk, ha eltévedtünk, és ezért korrekcióra van szükség.
 
+És itt végre összeér a katonai és a versenyzői szál.
+Elvégre egyre népszerűbb a versenyes teljesítményei miatt, ezért felkérik, hogy segítsen minél több feketét toborozni a SEAL-be.
+Ezt pedig Goggins nem csak elfogadja, de minél autentikusabb módon próbálja végezni -- kb. minden toborzó beszédhez kapcsolódik egy ultra versenye, fut vagy bringázik a helyszínek között, és úgy általában kemény, mint a kád széle.
+
+Mindenki a gyors megoldásokra, életkönnyítő trükkökre és a hatékonyságra vadászik.
+De az önuralomhoz sajnos pont az kell, hogy hajlandóak legyünk a kemény munkára.
+Aztán már lehet plusz hátszél a tehetség vagy a szenvedély vagy a hatékonyság -- de megfelelően magas munkakorállal kell társulnia.
+
+Amire itt kilyukadni próbálunk önfejlesztési fronton, az az időmenedzsment, csak természetesen Goggins jellegzetes egyszerűségével:
+
+> Ha felülvizsgálod az életedet, kiszűröd az ostobaságokat, és viszonyítási pontokat használsz, rátalálsz arra az időmennyiségre, amely lehetővé teszi, hogy mindent megtegyél, amire szükséged van, és amit szeretnél.
 
 <br>
 
@@ -222,58 +225,57 @@ Megállás persze nincs, mert, ahogy Goggins mondja:
 
 ## <a name="kudarcok"></a>Kudarcok
 
+Szakaszok, ranger iskola, Delta Force válogató felidézése következik még régebből -- mindez sajnos egy szívműtétből lábadozás közben.
+Mert mint kederült, eddig csak kb. félgázzal működött a szervezete, és egy veleszületett állapot miatt kvázi lyukas volt a szíve.
+Amire kellemesen emlékszik vissza, az az, hogy még ezeken a helyeken is folyamatosan ki akart tűnni, nem elpuhulni.
+Arra viszont kevésbé kellemesen, hogy ha valaki nem így tett, azt lenézte, és felsőbbrendűnek érezte magát.
+Ebből az maradjon meg, hogy felsőbbrendűség nélkül is próbáljunk nem az eddigi eredményeinkre támaszkodni, hanem minden egyes nap bizonyítsuk be, hogy mire vagyunk képesek.
 
-- szívproblémák
-    - mint kederült, eddig csak kb. félgázzal működött a szervezete, mert egy veleszületett állapot miatt kvázi lyukas volt a szíve
+> Ez a mentalitás mindannyiunk számára elérhető. Nem számít, hogy férfi, nő, hetero, meleg, fekete, fehér vagy istenverte lila pöttyös az illető.
 
-9.
+<br>
 
-- szakaszok, ranger iskola, Delta Force válogató felidézése még régebből (a szívműtétből lábadozás közben)
-    - vezetési tapasztalatok
-        - ami jó, hogy még ott is folyamatosan ki akart tűnni, és nem elpuhulni
-        - ami rossz, hogy ha valaki nem így tett, azt lenézte, és felsőbbrendűnek érezte magát
-- ebből az maradjon meg, hogy felsőbbrendűség nélkül is próbáljunk nem az eddigi eredményeinkre támaszkodni
-    - hanem minden egyes nap bizonyítsuk be, hogy mire vagyunk képesek
+**9. KIHÍVÁS**: A kiválóság nem maradandó, ezért érdemeljük ki folyamatosan -- legyünk rendkívüliek a különlegesek közt is!
 
-> Ez a mentalitás mindannyiunk számára elérhető. Nem számít, hogy férfi, nő, hetero,meleg,fekete,fehér vagy istenverte lila pöttyös az illető.
+<br>
 
-KIHÍVÁS: a kiválóság nem maradandó, ezért érdemeljük ki folyamatosan - legyünk rendkívüliek a különlegesek közt is
+A végső lecke pedig az, hogy mit csináljuk, ha ilyen szintű keménység és elszántság ellenére sem sikerül valami.
+Mert sajnos lesz olyan.
+Gogginsnak se jött össze a Pokoli Hét, csak harmadszorra.
+A Delta válogatóból is kihullott egy sérülés miatt.
+A szívműtétje után visszament egy második kör Deltára, de kudarc.
+Aztán visszarázódna a saját futásos ütemébe, de már az sem megy úgy a hosszú távú lefáradások miatt.
+Aztán nyilvános húzódzkodási rekord kísérletet tesz, de kudarc.
+Aztán az abból tanult leckék segítségével egy második, jobban átgondolt húzódzkodási rekord kísérlet, de az is kudarc.
 
-
-
-10.
-
-szívműtét után vissza egy második kör Deltára, de kudarc
-aztán visszarázódna a futásos ütembe, de már nem megy úgy a hosszú távú lefáradások miatt
-aztán nyilvános húzódzkodási rekord kísérlet -> kudarc
-aztán az abból tanult leckék segítségével egy második, jobban átgondolt kísérlet, de az is kudarc
-de itt jön elő, hogy hogy áll hozzá az ember. mennyire akarja
-    - el kell dönteni, hogy meglesz, és onnantól maximum az határidő változhat, amikorra sikerült
-    - de az, hogy sikerül-e, az nem lesz tovább kérdés
-
-lásd Roger Bannister és a 4 perc alatti mérföld
+Na ilyenkor jön elő, hogy hogy áll hozzá az ember.
+Hogy mennyire akarja.
+El kell dönteni, hogy meglesz, és onnantól maximum az határidő változhat, amikorra sikerül.
+De az, hogy sikerül-e, az nem lesz tovább kérdés.
 
 > Önbizalommal telítődtem, és elenyészett minden nyomás, mert a lehetetlen elérése helyett az elkerülhetetlen végrehajtása lett a feladatom.
 
-- és harmadszorra meg is lett a rekord (4000+ húzódzkodással)
+És harmadszorra így mellesleg meg is lett a rekordja (4000+ húzódzkodással).
 
-KIHÍVÁS: vegyük számba a kudarcainkat, készítsünk "bevetés utáni jelentést" róluk, és vágjunk bele egy új kísérletbe
+<br>
 
+**10. KIHÍVÁS**: Vegyük számba a kudarcainkat, készítsünk "bevetés utáni jelentést" róluk, és vágjunk bele egy új kísérletbe!
 
+<br>
 
-
-
-11.
-
-teste valamennyire leállította 40+ évesen
-nyújtás + "ésszel csinálás", de így is lehet keményen
-ultrákat nyer, különleges tűzoltó
-nem elkényelmesedik az eddigi sikereiben, hanem mindig hajtja a következő kihívást
-    - a haragot viszont hátrahagyta
-    - békésen, de soha nem elégedetten
-    - mert, mint talán már említettük:
+Persze ez a tempó nem tartható örökké.
+A teste Gogginst is valamennyire leállította 40+ évesen.
+Ilyenkor már nem opcionális a nyújtás + "ésszel csinálás", de így is lehet keményen.
+Szóval azóta is ultrákat nyer a fazon, meg különleges tűzoltóként dolgozik.
+Nem elkényelmesedik az eddigi sikereiben (amit a hírnevére alapozva amúgy simán megtehetne), hanem mindig hajtja a következő kihívást.
+A haragot viszont hátrahagyta.
+Békésen, de soha nem elégedetten, mert, mint talán már említettük:
 
 > Nincs célvonal.
+
+<br>
+
+
 
 
 
@@ -282,3 +284,13 @@ nem elkényelmesedik az eddigi sikereiben, hanem mindig hajtja a következő kih
 
 
 ## Összefoglalás
+
+Ne kerteljünk: Goggins egy vadállat.
+Direktben legalábbis semmiképp nem fogom se követni, se követésre ajánlani, amit ez a csóka a testével művelt.
+De ez nem akkora negatív kritika, mint amilyennek elsőre hangozhat -- elvégre [Henry David Thoreau]({% post_url 2020-03-06-henry-david-thoreau-walden %}) materiális hozzáállását se egy-az-egyben kell másolni, csak inspirálódni belőle.
+Kellenek az extrém esetek, akik megmutatják nekünk, többieknek, hogy milyen hihetetlenül messze van a skála túlvége, ami alapján talán mi is finomhangolhatunk magunkon egy kicsit.
+
+Goggins erre kiváló.
+Megtanulhatjuk tőle, hogy az emberi test tűrőképessége nem piskóta, és hogy mennyire az elme az irányító (ha nem hagyjuk a test rinyálásának, hogy átvegye a kormányt).
+Az már csak extra, hogy a test szó szerinti nevelésén keresztül egy csomó produktivitásban is hasznos hozzáállást szintén kultiválhatunk.
+Még a végén az utunkba kerülő akadályoknak nem lesz hatalma felettünk.
