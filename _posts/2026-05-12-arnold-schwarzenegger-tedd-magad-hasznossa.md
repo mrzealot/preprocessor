@@ -39,7 +39,7 @@ A tartalom a következőképp alakul:
 
 
 
-## <a name="1"></a>1 - Legyen tiszta jövőképed
+## <a name="1"></a>1 -- Legyen tiszta jövőképed
 
 Mindenkit a döntései sodortak oda, ahol most van.
 És mindenki a döntéseinek köszönhetően marad ott, vagy halad tovább.
@@ -58,7 +58,7 @@ Aztán jön a zoom-olás, ahol nem kissebbé vagy elérhetőbbé, hanem tisztáb
 Engedjünk magunknak teret -- és szánjunk energiát -- a kibontakozásra.
 Ne várjunk arra, amikor már nem árral szemben kell úszni, mert olyan nem lesz.
 
->> Nehéz lehet időt és teret találni, hogy közben ne érezzük úgy, fontosabb dolgunk is lenne. [...] Tényleg nehéz. És tudod, mi nehezebb ennél is? Olyan életet élni, amit utálsz.
+> Nehéz lehet időt és teret találni, hogy közben ne érezzük úgy, fontosabb dolgunk is lenne. [...] Tényleg nehéz. És tudod, mi nehezebb ennél is? Olyan életet élni, amit utálsz.
 
 Felmerül a séta fontossága, amit Arisztotelész, Nietzsche, Thoreau és Einstein mellett Schwarzy is melegen ajánl.
 Kiváló arra, hogy hagyhassuk kalandozni a gondolatainkat, vagy úgy egyáltalán egyedül lenni a gondolatainkkal.
@@ -66,13 +66,13 @@ Nem muszáj El Camino -- lehet a parkban.
 Vagy akár a konkrét séta se kötelező és lehet bringán.
 Csak valahogy!
 
->> Ha nem találod, amit keresel, legalább egy esélyt adj, hogy az találjon rád.
+> Ha nem találod, amit keresel, legalább egy esélyt adj, hogy az találjon rád.
 
 Egy másik ajánlott technika a vizualizáció.
 Nem is csak hogy csináljuk, de a tetejébe minél élénkebben, hogy lássuk/halljuk/érezzük, amit el szeretnénk érni.
 Minél valóságosabb, annál könnyebben lesz belőle valóság.
 
->> Nem fantáziának tekintettem ezt, hanem egy olyan valós esemény emlékének, ami még nem történt meg. Majdani valóságnak.
+> Nem fantáziának tekintettem ezt, hanem egy olyan valós esemény emlékének, ami még nem történt meg. Majdani valóságnak.
 
 És ez persze arra is kiváló, hogy tisztába kerüljünk vele, mit **nem** akarunk.
 Mert hát, ahogy Arnold fogalmaz, "sok út vezet a céljaink felvizezett változatához, amik letéríthetnek a pályáról".
@@ -92,7 +92,7 @@ Ezt a kettőt kell összecsiszolni egy önazonos élethez, és hát honnan tudn�
 
 
 
-## <a name="2"></a>2 - Gondolkozz nagyban
+## <a name="2"></a>2 -- Gondolkozz nagyban
 
 Ez a fejezet egy valag sztorizgatással indul a Mr. Olimpia cím megszerzéséről, James Cameron forgatásairól, stb.
 De a lényeg, hogy "Ha már csináljuk, csináljuk rendesen" -- avagy a hivatkozott német közmondás szerint "Wenn schon, denn schon".
@@ -113,7 +113,7 @@ Ami ugye kimondottan Marcus Aurelius-osan hangzik, miszerint "Az lesz az út, am
 A "legyen B/C/D terv" jótanács általában a flexibilitásnál szokott előkerülni, és azt szerintem továbbra sem cáfoljuk.
 Az én olvasatomban inkább az a kérdés, hogy a célra vagy az oda vezető útra alkalmazzuk a flexibilitást.
 A célnál tényleg csak akkor van esélyünk bármi nagyra, ha nem opcionális -- mert ugye a "felvizezett" opcióknál mennyivel könnyebb lesz hamarabb megállni.
-De az útnál viszont jöhet a B/C/D terv, ami segíthet elérni a célt, aminél nem volt B terv.
+De az útnál viszont jöhet a B/C/D terv, ami esetleg extra kanyarokon keresztül, de végül segíthet elérni azt a célt, aminél nem volt B terv.
 
 Az ember gyakorlatilag bármihez képes alkalmazkodni.
 Ha nagyot álmodunk, az magával rántja majd, hogy arányosan többet is teszünk érte, hogy elérhessük -- és ezáltal lehetségessé is válik, hogy elérjük.
@@ -141,11 +141,11 @@ Mi ezt a saját céljainkkal kapcsolatban intézzük el fejben, ha még nincs el
 
 
 
-## <a name="3"></a>3 - Dolgozd ki a beled
+## <a name="3"></a>3 -- Dolgozd ki a beled
 
 Nem tudom, volt-e, aki még mindig valami titokra vagy kiskapura számított, de ezt a részt sajnos nem lehet kikerülni.
 
->> Az emberek azóta próbálnak ügyeskedni, hogy könnyebbé tegyék a nehéz munkát, amióta csak dolgozni kell. Aztán szépen lemaradoznak az általunk hagyott porfelhőben, mert a kemény meló az egyetlen, ami az esetek száz százalékában garantálja a százszázalékos sikert.
+> Az emberek azóta próbálnak ügyeskedni, hogy könnyebbé tegyék a nehéz munkát, amióta csak dolgozni kell. Aztán szépen lemaradoznak az általunk hagyott porfelhőben, mert a kemény meló az egyetlen, ami az esetek száz százalékában garantálja a százszázalékos sikert.
 
 Másrészt: ha ki is lehetne kerülni, akkor sem lenne érdemes, mert a kezdeti elképzelésekkel ellentétben a túlzott könnyítés épp hogy megkeserítene bármit, amit így kapunk.
 Egyszerűen nem tudnánk értékelni, mert nem dolgoztunk meg érte.
@@ -165,11 +165,12 @@ Mondjuk abban a tudatban, hogy mentálisan az is pont így fog fájni, ha megfut
 Ha saját a feladat, akkor csináljuk végig.
 Ha pedig delegáljuk, akkor **kövessük** végig.
 Arnold amerikai slang-et idéző megfogalmazásában: mindig legyen kitéve a pont minden i-re, legyen áthúzva minden t, és bezárva minden kör.
-Az önáltatás helyett tényleg csak akkor nyugtassuk magunkat azzal, hogy "mindent megtettünk", ha tényleg megtettünk mindent.
+Az önáltatás helyett tényleg csak akkor nyugtassuk magunkat azzal, hogy "mindent megtettünk", ha (a befolyásolási körünkön belül, legalábbis) valóban megtettünk mindent.
 
 A belünk kidolgozásához talán nem, de a hatékony haladáshoz mindenképp elengedhetetlen, hogy okosan, kifogások nélkül használjuk ki az időnket.
 Minden "normális" kötelezettségből visszaszámolva is mindenkinél maradnia kell(ene) legalább napi 1-2 órának a haladásra.
-Haladni márpedig nem átlagos dolog -- ha átlagon felüli eredményt szeretnénk elérni, akkor átlagon felüli energiákat kell befektetni, úgyhogy ne rinyáljuk, hova fér a "pihenés", hanem csináljuk.
+Haladni márpedig nem átlagos dolog.
+Ha átlagon felüli eredményt szeretnénk elérni, akkor átlagon felüli energiákat kell befektetni, úgyhogy ne rinyáljuk, hova fér a "pihenés", hanem csináljuk.
 Ha csak 1-1 órát tolunk valamit, de azt tényleg napi szinten, az is meglepően gyorsan össze fog adódni.
 Falatonként azt az elefántot.
 
@@ -184,7 +185,7 @@ Falatonként azt az elefántot.
 
 
 
-## <a name="4"></a>4 - Eladni, eladni, eladni
+## <a name="4"></a>4 -- Eladni, eladni, eladni
 
 Amikor amerikába érkezett, a testépítés még kb. a hotdogevő versenyek szintjén mozgott a médiában.
 Ismerték ugyan, de csak ilyen kuriózumként, és mindenféle nem kimondottabban hízelgő jelzővel aggatták a résztvevőket.
@@ -201,7 +202,7 @@ Aztán ebből következik még, hogy tudjuk, kinek kell eladni magunkat.
 Ehhez pedig észre kell vennünk, hogy "ki az ügyfél" -- hogy ki az, akit ez az egész érdekel egyáltalán, aki döntéshozó helyzetben van, és akinek a véleménye számít.
 Ugye az a fránya célközönség.
 
->> Ha nem figyelsz arra, ki figyel rád, sosem tudhatod biztosan, ki találja vonzónak a jövőképedet, és ki találja taszítónak.
+> Ha nem figyelsz arra, ki figyel rád, sosem tudhatod biztosan, ki találja vonzónak a jövőképedet, és ki találja taszítónak.
 
 És itt jött egy nagyon fontos gondolat, amit a reklámtól és önfényezéstől amúgy viszolygó alaphozzáállásomnak hallania kellett: mi magunk vagyunk az első ügyfelünk.
 Magunkat kellett először meggyőznünk a saját víziónk életképességéről, hogy egyáltalán belevágjunk.
@@ -218,7 +219,7 @@ Ha eközben alábecsülnek, az természetesen nem fog jól esni.
 De alacsony elvárásokkal szembesülni valójában nem szembeszél, hanem ajándék -- annál könnyebb nem hogy csak megugrani, de túlteljesíteni őket.
 És utána annál meglepőbb lesz a váratlan teljesítményünk.
 
->> Nem emelkedtem én sehová. Pont azt csináltam, amit mindig. Mások emelkedtek fel az én szintemre -- miután felismerték, hogy egész idő alatt csúnyán alulbecsültek.
+> Nem emelkedtem én sehová. Pont azt csináltam, amit mindig. Mások emelkedtek fel az én szintemre -- miután felismerték, hogy egész idő alatt csúnyán alulbecsültek.
 
 <br>
 
@@ -231,7 +232,7 @@ De alacsony elvárásokkal szembesülni valójában nem szembeszél, hanem aján
 
 
 
-## <a name="5"></a>5 - Válts nézőpontot
+## <a name="5"></a>5 -- Válts nézőpontot
 
 Nem rinyálunk a problémákon, hanem megoldani próbáljuk őket.
 Ehhez pedig kezdésnek találjuk meg a pozitívat a negatívban.
@@ -258,7 +259,7 @@ Amit ugye mindannyiunknak kellene (lásd [Dweck]({% post_url 2021-01-16-carol-s-
 > Az edzőteremben a kudarc nem a vereséggel, hanem a sikerrel egyenlő. [...] Amikor a kudarc a játék pozitív eleme, kevésbé ijesztő a képességeink határait feszegetni.
 
 Számomra az egyik legemlékezetesebb példa a könyvből, hogy honnan is származik valójában a híres WD-40 neve.
-Ugye ez az a legendás kenő, védő, csavarlazító, nyikorgás-talanító spray, amit eredetileg vízkiszorításra és rozsdavédelemre fejlesztettek ki.
+Ugye ez az a legendás kenő, védő, csavarlazító, nyikorgás-talanító spray, amit eredetileg vízkiszorításra és rozsdagátlásra fejlesztettek ki.
 Innen jön a WD -- water displacement, azaz vízkiszorítás.
 De még érdekesebb a 40 -- mert ez volt a 40. formula, amit próbáltak.
 Vagyis előtte volt 39 próbálkozásuk, ami nem sikerült!
@@ -289,7 +290,7 @@ Ilyen fontosság/fájdalom súlyokkal korrigálva egyből mást tekintünk majd 
 
 
 
-## <a name="6"></a>6 - Csukd be a szád, nyisd ki az elméd
+## <a name="6"></a>6 -- Csukd be a szád, nyisd ki az elméd
 
 Amit mondanánk, azt már tudjuk.
 Szóval ha szeretnénk többet tudni és folyamatosan tanulni -- ami ugye változatos helyeken előkerült már, mint egy elsődleges prioritás -- akkor inkább ne mondjunk annyit, hanem hallgassuk mások mondanivalóját.
@@ -334,20 +335,20 @@ De természetesen a tapasztalati útra is érvényes: pofa befog, elme kinyit.
 
 
 
-## <a name="7"></a>7 - Törd össze a tükreidet
+## <a name="7"></a>7 -- Törd össze a tükreidet
 
-Végül kitérünk egy kicsit itt is arra, hogy Arnie mennyire **nem** egy self-made, azaz önerőből sikeres ember -- mint ahogy arra a [Houston-i avatási beszédében]({% post_url 2023-04-20-arnold-schwarzenegger-az-onero-mitoszarol %}) is részletesen kitért.
+Végül kitérünk egy kicsit itt is arra, hogy Arnie mennyire **nem** egy self-made, azaz önerőből sikeres ember -- mint ahogy arra a [Houston-i avatási beszédét]({% post_url 2023-04-20-arnold-schwarzenegger-az-onero-mitoszarol %}) is alapozta.
 Karrierje mindhárom szakaszában emberek tizeit-százait nevezi meg, akik nélkül nem lett volna lehetséges, amit elért.
 De hasonlóan, emlékezzünk Marcus Aurelius [Elmélkedéseinek]({% post_url 2020-01-03-marcus-aurelius-elmelkedesek %}) első könyvére, ami nála is gyakorlatilag egy lista, hogy kinek mit köszönhet.
 
-Persze ez nem azt jelenti, hogy az embernek nem is kell megeröltetnie magát -- azt ugye már korábban itt is tárgyaltuk, hogy dehogynem.
-Csak ehhez mindig kell mások segítsége is.
+Persze ez nem azt jelenti, hogy az embernek nem kell megeröltetnie magát -- azt ugye már korábban sokszor tárgyaltuk, hogy dehogynem.
+Csak ehhez mindig kell mások segítsége.
 Ezt pedig azért nagyon fontos fejben tartani, mert úgy A) nem szállunk el magunktól menet közben, és B) remélhetőleg mi is segítünk majd az utánunk érkezőknek.
 
 > Segíteni másoknak. Visszaküldeni a liftet, hogy ők is feljöhessenek.
 
 Alátámasztásnak egy 2008-as Harvardi kísérlet citálunk, ahol vagy 5, vagy 20 dollárt adtak a résztvevőknek, hogy csináljanak vele, amit akarnak.
-A nap végén azok érezték ettől a legjobban magukat, akik másoknak adták, nem magukra költötték.
+A nap végén konzisztensen azok érezték ettől a legjobban magukat, akik másoknak adták, nem magukra költötték.
 És a legfontosabb: kb. semmi különbség nem volt az 5 és a 20 dolláros csoport között.
 Vagyis nem az a fontos, hogy mennyit adunk, hanem hogy adjunk!
 Hasonló tanulságokért lásd még [Bagdy Emőke]({% post_url 2020-07-03-bagdy-emoke-pszichofitness %}) Pszichofitness-ét, azon belül is a "segíts" szekciót.
@@ -379,13 +380,14 @@ Legalábbis az első három szekció -- a tiszta jövőkép, a nagyban gondolkoz
 Sőt, az ötödik pont szemléletváltása is csak rólam szól, nem?
 
 Mármint ne értsetek félre, rengeteg hasznos dolog elhangzik (vagy épp visszhangzik) ezekben a részekben is...
-Csak mi köze ennek a hasznossághoz?
-A negyedik rész eladás-fókusza mondjuk stimmel: meglátni, hogy kit érdekelhetnek a dolgaim, kinek jó ez, kinek érné meg mellém állni, stb.
+Az egyén szemszögéből.
+Csak mi köze ennek ahhoz, hogy mások számára is hasznosak lehessünk?
+A negyedik rész eladás-fókusza mondjuk stimmel: meglátni, hogy kit érdekelhetnek a dolgaink, kinek jó ez, kinek érné meg mellénk állni, stb.
 És a hatodik rész hallgatás-fókusza is arra buzdít, hogy jobban megtaláljuk mások igényeit, tanuljunk tőlük, és alkalmazzuk.
 
 De aztán a végére, a tükör összetörésre szerintem leesett.
-Egyrészt eleve úgy leszel sikeres bármiben, hogy értéket nyújtasz.
-Hogy amit csinálsz, az valakinek hasznos.
+Egyrészt eleve úgy leszünk sikeresek bármiben, hogy értéket nyújtunk.
+Hogy amit csinálunk, az valakinek hasznos.
 És mivel ezer meg egy módon lehetünk hasznosak, itt inkább azokat a közös vonásokat vettük sorba, amik lehetővé teszik nekünk, hogy minél jobban, gyorsabban, kitartóbban és tovább lehessünk hasznosak.
 
 Másrészt ugye ott a hetes pont: visszaadni.
