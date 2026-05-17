@@ -5,6 +5,7 @@ cover: pavel
 tags: [aktivitás]
 pages: 150
 date: 2021-05-08 00:01
+youtube: bRn-LJaPj4M
 excerpt: >
     Az Aktív május&trade; hátralévő részében arra gondoltam, hogy követhetnénk a múlt heti Kék Zónás könyv ide vonatkozó tanácsait.
     Emlékeztetőül: ott ugye azt mondtuk, hogy optimális esetben a mozgásunk vegyítené a flexibilitást, az egyensúlyt, valamit az aerob (cardio) és anaerob (ellenállással végzett) gyakorlatokat is az egyenletes lefedettség érdekében.

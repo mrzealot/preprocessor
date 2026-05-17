@@ -5,6 +5,7 @@ cover: smartnotes
 tags: [produktivitás]
 pages: 178
 date: 2021-09-11 00:01
+youtube: uZKApSnkYXs
 excerpt: >
     A heti könyvünk kimondottan a diákoknak, az akadémikusoknak, és az ismeretterjesztő témákban íróknak szeretne segíteni a hatékonyabb információfeldolgozásban.
     De aki nem egy gyártósor mellett robotoló *automata*, és akár egy kicsit is használja a fejét a hétköznapokban -- vagy csak szimplán az élethosszig tartó tanulási folyamat "diákja" -- az valószínűleg szintén meglátja majd a módszer értékét.

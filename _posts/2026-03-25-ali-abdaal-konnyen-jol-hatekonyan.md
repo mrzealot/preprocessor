@@ -5,6 +5,7 @@ cover: feelgoodproductivity
 tags: [produktivitás, szemléletmód]
 pages: 280
 date: 2026-03-25 00:01
+youtube: AibX7SNj6iI
 excerpt: >
     A keményebb munka önmagában nem lesz elég -- nem ártana jól is érezni magunkat közben.
     És ezt nem csak azért ám, hogy kellemes legyen.

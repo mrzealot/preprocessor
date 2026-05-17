@@ -5,6 +5,7 @@ cover: hiit
 tags: [aktivitás]
 pages: 272
 date: 2021-05-22 00:01
+youtube: WLDiDPaAwaU
 excerpt: >
     Dübörög az Aktív május&trade;, ahol a Kék Zónák egyik fő tanulságának, vagyis a rendszeres és változatos testmozgásnak részleteit boncolgatjuk.
     Túl vagyunk a flexibilitás témakörén némi nyújtással, az egyensúly témakörén némi yoga-val, és most a teljesítőképességünket (na meg vele együtt a pocakunkat) hozhatjuk formába egy kis intenzív edzéssel.

@@ -5,6 +5,7 @@ cover: range
 tags: [szemléletmód, produktivitás]
 pages: 320
 date: 2024-06-05 00:01
+youtube: U77u8MqSKis
 excerpt: >
     Tiger Woods és Roger Federer szépen szemléltetik, hogy a hiper-korai lézer fókusszal és a kissé lemaradt, komótos kolbászolással is fel lehet érni a csúcsra.
     És habár a specializáció nyilván elkerülhetetlen, ha az ember ki akar lógni valamiből, ezt a specializációt egyáltalán nem muszáj (sőt, általában nem érdemes) minél korábban kezdeni...

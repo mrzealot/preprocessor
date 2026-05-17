@@ -4,6 +4,7 @@ title: Bea Johnson - Zero Waste Otthon
 tags: [minimalizmus]
 pages: 304
 date: 2020-03-27 15:00
+youtube: cwjDLskw6JA
 excerpt: >
     Ez a hét még mindig minimalizmus, és már megint modern alkalmazhatóság, de most digitális helyett "analóg", és gazdasági helyett házon belüli vonatkozásaiban.
     Erős hangsúllyal a szemét termelésre, és a környezetünk megóvására!

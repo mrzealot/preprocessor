@@ -5,6 +5,7 @@ cover: emotioncontrol
 tags: [szemléletmód, kapcsolatok]
 pages: 227
 date: 2026-03-12 00:01
+youtube: oy-N5uKKQFE
 excerpt: >
     Bármiféle tanulás, fejlődés vagy produktivitás előfeltétele, hogy mi magunk rendben legyünk.
     Mint ahogy ingoványos talajra sem építünk várat, úgy tőlünk sem igazán várható optimális teljesítmény, ha közben mentálisan szét vagyunk csúszva.

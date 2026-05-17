@@ -4,6 +4,7 @@ title: A termosztátprogramozásról
 cover: thermostat
 tags: [szösszenet]
 date: 2022-12-24 00:01
+youtube: nZBcGdjE4QI
 excerpt: >
     ...avagy hogyan tesztelte az élet, hogy a Dweck-féle növekedési szemléletmód leckét szó szerint "álmomból felkeltve" is tudom-e.
 ---

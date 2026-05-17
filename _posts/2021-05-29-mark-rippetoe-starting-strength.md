@@ -5,6 +5,7 @@ cover: rippetoe
 tags: [aktivitás]
 pages: 348
 date: 2021-05-29 00:01
+youtube: s4MhDjPOhso
 excerpt: >
     Az Aktív május&trade; zárásaként ma a súlyzós edzés kerül egy kicsit górcső alá.
     Ha pedig súlyzós edzés, akkor szinte nem is választhatunk mást, mint Mark Rippetoe edző Starting Strength című könyvét, ami gyakorlatilag a műfaj bibliája.

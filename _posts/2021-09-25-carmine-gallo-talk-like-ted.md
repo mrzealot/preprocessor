@@ -5,6 +5,7 @@ cover: talkliketed
 tags: [stratégia, kapcsolatok]
 pages: 288
 date: 2021-09-25 00:01
+youtube: eIs4ZWDUrBo
 excerpt: >
     Az ötletek korában valamilyen szinten mind árusok vagyunk -- magunkat és az ötleteinket áruljuk.
     Érdemes tehát megtanulnunk hatásosan előadni, hogy azzal meggyőzhessünk és inspirálhassunk másokat -- jó esetben "TED színvonalon".

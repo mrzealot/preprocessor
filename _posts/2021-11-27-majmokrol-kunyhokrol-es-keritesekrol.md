@@ -4,6 +4,7 @@ title: Majmokról, kunyhókról és kerítésekről
 cover: monkeyshack
 tags: [szösszenet]
 date: 2021-11-27 00:01
+youtube: VcGtNXgrFSQ
 excerpt: >
     A mai szösszenet két apró, de tanulságos történeten keresztül szerette volna szemléltetni a hátralépés és a továbbgondolás fontosságát.
     Hogy miért csak "szerette **volna**"?

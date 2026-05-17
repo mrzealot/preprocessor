@@ -4,6 +4,7 @@ title: Kelly Starrett - Becoming A Supple Leopard
 tags: [aktivitás]
 pages: 400
 date: 2020-10-10 00:01
+youtube: ObOocEEFbKE
 excerpt: >
     Első körben arra gondoltam, hogy a Fegyencedzés mellé valami súlyzós módszerről szóló könyv kellene kiegészítésnek -- hogy lássuk a másik oldal érvelését is.
     De aztán (részben a derekam és a vállam jóvoltából) ráébredtem, hogy az edzés mellé mindenek előtt sokkal inkább a mobilitás, a ön-karbantartás, a sérülések elkerülése, és az esetleges rehabilitációs technikák ismerete lenne indokolt.

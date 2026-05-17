@@ -5,6 +5,7 @@ cover: utopiaforrealists
 tags: [pénzügyek, produktivitás, szemléletmód]
 pages: 308
 date: 2022-07-22 00:01
+youtube: 3vfXwKlj6Mg
 excerpt: >
     Nem titkolt vesszőparipám, hogy a jelen technológiai fejlettsége mellett groteszknek tartom a munka szükségességét, és mindig örömmel veszem, ha valaki hajlandó kiállni a garantált alapjövedelem jövőképéért.
     De attól, hogy én személy szerint hiszek benne, a szükséges szociális és/vagy közgazdasági háttérrel eddig nem rendelkeztem, hogy a Universal Basic Income (UBI) védelmére kelhessek.
